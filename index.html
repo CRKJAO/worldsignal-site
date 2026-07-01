@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Worldsignal 自动发现、聚合并提炼全球重要新闻。" />
+    <meta name="theme-color" content="#10110f" />
+    <title>Worldsignal — 全球新闻雷达</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Noto+Sans+SC:wght@400;500;600;700;900&family=Newsreader:opsz,wght@6..72,500;6..72,700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="noise" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="brand" href="#" aria-label="Worldsignal 首页">
+        <span class="brand-mark"><i></i><i></i><i></i></span>
+        <span>WORLD<span>SIGNAL</span></span>
+      </a>
+      <div class="header-meta">
+        <span class="live-dot"></span>
+        <span>全球信号在线</span>
+        <time id="header-time">--:-- UTC</time>
+      </div>
+      <button class="search-toggle" id="search-toggle" aria-label="打开搜索">
+        <span></span><span></span>
+      </button>
+    </header>
+
+    <main>
+      <section class="masthead">
+        <div class="eyebrow">GLOBAL INTELLIGENCE BRIEF · 全球新闻雷达</div>
+        <h1>世界正在发生什么</h1>
+        <div class="masthead-bottom">
+          <p>跨越地区与语言边界，从海量报道中识别真正值得关注的事件。</p>
+          <div class="update-stamp">
+            <span>LAST SYNC</span>
+            <strong id="last-updated">正在连接信号…</strong>
+          </div>
+        </div>
+      </section>
+
+      <section class="ticker" aria-label="实时热点">
+        <div class="ticker-label">PULSE</div>
+        <div class="ticker-track"><div id="ticker-content"></div></div>
+      </section>
+
+      <section class="filters" aria-label="新闻筛选">
+        <div class="filter-scroll" id="region-filters">
+          <button class="filter active" data-region="全部">全球</button>
+          <button class="filter" data-region="亚洲">亚洲</button>
+          <button class="filter" data-region="欧洲">欧洲</button>
+          <button class="filter" data-region="非洲">非洲</button>
+          <button class="filter" data-region="中东">中东</button>
+          <button class="filter" data-region="美洲">美洲</button>
+          <button class="filter" data-region="大洋洲">大洋洲</button>
+        </div>
+        <div class="view-meta"><span id="result-count">0</span> 个重要信号</div>
+      </section>
+
+      <section class="lead-layout">
+        <article class="lead-story" id="lead-story">
+          <div class="skeleton tall"></div>
+        </article>
+        <aside class="briefing">
+          <div class="section-heading">
+            <span>THE BRIEF</span>
+            <small>今日要点</small>
+          </div>
+          <ol id="brief-list"></ol>
+        </aside>
+      </section>
+
+      <section class="signal-section">
+        <div class="section-heading wide">
+          <div><span>ALL SIGNALS</span><small>全球动态</small></div>
+          <div class="topic-filters" id="topic-filters">
+            <button class="topic active" data-topic="全部">全部</button>
+            <button class="topic" data-topic="政治">政治</button>
+            <button class="topic" data-topic="经济">经济</button>
+            <button class="topic" data-topic="科技">科技</button>
+            <button class="topic" data-topic="气候">气候</button>
+            <button class="topic" data-topic="社会">社会</button>
+          </div>
+        </div>
+        <div class="news-grid" id="news-grid"></div>
+        <button class="load-more" id="load-more">加载更多信号 <span>↓</span></button>
+      </section>
+    </main>
+
+    <footer>
+      <div class="brand footer-brand">WORLD<span>SIGNAL</span></div>
+      <p>机器筛选，人类判断。标题与摘要版权归原出版方所有。</p>
+      <p>OPEN SOURCE · UPDATED HOURLY</p>
+    </footer>
+
+    <div class="search-panel" id="search-panel" aria-hidden="true">
+      <button class="search-close" id="search-close" aria-label="关闭搜索">×</button>
+      <label for="search-input">搜索全球信号</label>
+      <input id="search-input" type="search" placeholder="输入事件、地区或来源…" autocomplete="off" />
+      <p id="search-hint">按标题、摘要、国家和来源检索</p>
+    </div>
+
+    <template id="card-template">
+      <article class="news-card">
+        <a class="card-link" target="_blank" rel="noopener noreferrer">
+          <div class="card-image"><img alt="" loading="lazy" /><span class="card-index"></span></div>
+          <div class="card-meta"><span class="card-region"></span><time></time></div>
+          <h3></h3>
+          <p class="card-summary"></p>
+          <div class="card-footer"><span class="card-source"></span><span class="arrow">↗</span></div>
+        </a>
+      </article>
+    </template>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

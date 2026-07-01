@@ -1,0 +1,14 @@
+{
+  "name": "worldsignal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-news.mjs",
+    "serve": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
