@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T14:46:56.630Z",
+  "updatedAt": "2026-07-04T16:17:53.766Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -16,7 +16,7 @@
       "publishedAt": "2026-07-04T14:07:31.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
       "topic": "政治",
-      "score": 88,
+      "score": 86,
       "id": "4e302bdb6899"
     },
     {
@@ -29,8 +29,21 @@
       "publishedAt": "2026-07-04T12:51:41.000Z",
       "image": "https://i.guim.co.uk/img/media/b7656d9f5aa7d6100afbfbcd2b6d706803f78c39/1248_0_6241_4993/master/6241.jpg?width=140&quality=85&auto=format&fit=max&s=298b7da8f2d2179a8773907b8af64338",
       "topic": "政治",
-      "score": 86,
+      "score": 85,
       "id": "625967bb844e"
+    },
+    {
+      "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
+      "summary": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSF Fatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past weekend were the most violent so far. The drones hit schools and fuel stations, killing more than 20 people, including stud",
+      "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "非洲",
+      "publishedAt": "2026-07-04T15:14:18.000Z",
+      "image": "https://i.guim.co.uk/img/media/44e2787e66b60b8c57b8311b2fe08158f3630873/289_0_4923_3939/master/4923.jpg?width=140&quality=85&auto=format&fit=max&s=468d020df4a8981b27163738056b2d30",
+      "topic": "政治",
+      "score": 83,
+      "id": "532bb337c68a"
     },
     {
       "title": "Thousands gather for funeral of Iran's assassinated supreme leader",
@@ -42,47 +55,8 @@
       "publishedAt": "2026-07-04T09:20:00.000Z",
       "image": "https://e3.365dm.com/26/07/1920x1080/skynews-iran-supreme-leader_7289344.jpg?20260704092034",
       "topic": "社会",
-      "score": 85,
-      "id": "f829296f3e9b"
-    },
-    {
-      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-      "summary": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
-      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-07-04T07:52:55.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ad4/live/e811c470-777a-11f1-bfcd-0551ebb03f4c.jpg",
-      "topic": "政治",
-      "score": 84,
-      "id": "6d2510364397"
-    },
-    {
-      "title": "Trump launches America’s 250th birthday celebrations with partisan attack",
-      "summary": "In a speech at Mount Rushmore, the US president claimed a resurgent ‘communist menace’ posed a severe threat to the country Donald Trump has kicked off America’s 250th birthday weekend with an extraordinary partisan attack on the “communist menace” in America, framing its supporters as “the enemy of July 4th 1776”. The US president spoke for half an hour on ",
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/trump-launches-americas-250th-birthday-celebrations-with-partisan-attack",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-07-04T09:33:34.000Z",
-      "image": "https://i.guim.co.uk/img/media/958eba49bdaab92e2ff9d8a76308d7bceef217b9/160_0_2070_1657/master/2070.jpg?width=140&quality=85&auto=format&fit=max&s=8e79bac20106dab5b70f27e9690f5303",
-      "topic": "政治",
       "score": 83,
-      "id": "f7c67b7123a8"
-    },
-    {
-      "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
-      "summary": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSF Fatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past weekend were the most violent so far. The drones hit schools and fuel stations, killing more than 20 people, including stud",
-      "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "非洲",
-      "publishedAt": "2026-07-04T12:43:43.000Z",
-      "image": "https://i.guim.co.uk/img/media/44e2787e66b60b8c57b8311b2fe08158f3630873/289_0_4923_3939/master/4923.jpg?width=140&quality=85&auto=format&fit=max&s=468d020df4a8981b27163738056b2d30",
-      "topic": "政治",
-      "score": 82,
-      "id": "532bb337c68a"
+      "id": "f829296f3e9b"
     },
     {
       "title": "Key takeaways from Round of 32 stage at World Cup 2026",
@@ -94,8 +68,73 @@
       "publishedAt": "2026-07-04T08:22:56.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
+      "score": 82,
       "id": "6ad65a939ae5"
+    },
+    {
+      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "summary": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
+      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-07-04T07:52:55.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ad4/live/e811c470-777a-11f1-bfcd-0551ebb03f4c.jpg",
+      "topic": "政治",
+      "score": 82,
+      "id": "6d2510364397"
+    },
+    {
+      "title": "Three children dead after boat capsizes during storm in Wisconsin",
+      "summary": "Officials rescued seven other people after a sudden storm led to a boat sinking on Geneva Lake Three children died after a boat capsized on Wisconsin ’s Geneva Lake during inclement weather on the eve of the US’s semiquincentennial celebrations, and seven other people had to be rescued by emergency responders, according to officials. A recreational motor boa",
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/wisconsin-children-drown",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-04T16:04:01.000Z",
+      "image": "https://i.guim.co.uk/img/media/c5ab4d5b295e7cfd5be11f966d66ed08ff837ea6/1616_0_7724_6183/master/7724.jpg?width=140&quality=85&auto=format&fit=max&s=ca103d7e62dae39c6f0e993795d3a35e",
+      "topic": "气候",
+      "score": 80,
+      "id": "40511a346bd3"
+    },
+    {
+      "title": "Russian attacks leave trail of destruction across Ukraine",
+      "summary": "Russian attacks leave trail of destruction across Ukraine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russian-attacks-leave-trail-of-destruction-across-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-07-04T15:46:35.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 80,
+      "id": "4fcc66be6c8e"
+    },
+    {
+      "title": "South Africa Rejects Nigeria’s Compensation Demand Over Xenophobic Attacks",
+      "summary": "South Africa Rejects Nigeria’s Compensation Demand Over Xenophobic Attacks &nbsp;&nbsp; The Whistler Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT0duN1FiSEZtT2dsdHJQMXZrNmhqLUM0ekxKbnAtZWZ4bWJVbUtLTjdHMjNmbHYtN1IzMGFWMWtBUGxLTGhqWEhhcU51SWFVaUd2bjc1UHlEYUhkdGtzMGpoUVc3Y0wwNGdCTHRzTWRWMnpvTkhfdlM2dU9tTmpzV1VPYUFLRnZEbG1lSE0yOGRFdVZRMXhtUDd1d0wzYkF0OW1B?oc=5",
+      "source": "The Whistler Newspaper",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-04T14:49:37.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "ba2ec85dac2e"
+    },
+    {
+      "title": "\"India made positive use of its diplomatic power\": PM Modi on recent fuel shortages amid West Asia crisis",
+      "summary": "\"India made positive use of its diplomatic power\": PM Modi on recent fuel shortages amid West Asia crisis &nbsp;&nbsp; Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeF9pNkRaQXBKY3AxMWNiZ2Z1Qnpla3FWRFh5MksyVC1LYjlobjZJQXlxdmRaWFVLU1pIdXZwS0dRQkFrQm1yYXNQT1RNMmFHdDRXSXdMSUhjU0w5dGZ6RjkxWEs5RUl1c3hsSFY0ZndXbGZaMFhsZDlLX1JUd0EzRjF2cVQyZW5obFZ1amRUVlJIc011OVRFMGl4Z0RvWlJIVWJUZk1BR1V1a285d21aeGktd21SYWpkU3dMRi1XVHpxU2owaUhTMGxrMl9yaHoyaWQzYkduM19GVmZTdzJtTjd3?oc=5",
+      "source": "Big News Network.com",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-04T14:29:00.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 78,
+      "id": "0f32f57eb489"
     },
     {
       "title": "Washington DC’s Fourth of July parade canceled due to soaring temperature",
@@ -107,7 +146,7 @@
       "publishedAt": "2026-07-04T13:31:41.000Z",
       "image": "https://i.guim.co.uk/img/media/9e55ed9ebcb2cf54324a4ae9e8509f486f7e7d30/197_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=070a3756d0282dc460dab9313e270813",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "a8accb3d1254"
     },
     {
@@ -120,7 +159,7 @@
       "publishedAt": "2026-07-04T13:17:50.000Z",
       "image": "https://i.guim.co.uk/img/media/a71ec38d3b30a97c4eed9682737ae9562c7a20e1/239_0_3824_3060/master/3824.jpg?width=140&quality=85&auto=format&fit=max&s=761e1a961b0d336f87530413a7e26691",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "5976aaffa704"
     },
     {
@@ -133,7 +172,7 @@
       "publishedAt": "2026-07-04T10:16:31.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 77,
       "id": "483d52a94d72"
     },
     {
@@ -146,7 +185,7 @@
       "publishedAt": "2026-07-04T10:00:10.000Z",
       "image": "https://i.guim.co.uk/img/media/e7276a11161e5a9c76ea3646d2da56d1737e82c3/567_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=68d9311a2a5ee4baba253cc9c860063c",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "1c54f858c59b"
     },
     {
@@ -159,7 +198,7 @@
       "publishedAt": "2026-07-04T09:35:45.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 76,
       "id": "5316f282d6eb"
     },
     {
@@ -172,7 +211,7 @@
       "publishedAt": "2026-07-04T09:14:56.000Z",
       "image": "",
       "topic": "科技",
-      "score": 78,
+      "score": 76,
       "id": "14f0da08d5a8"
     },
     {
@@ -185,7 +224,7 @@
       "publishedAt": "2026-07-04T09:05:19.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/716023cd0037ce9fbc033fcc83e1f914?impolicy=wcms_crop_resize&cropH=1495&cropW=2658&xPos=0&yPos=214&width=862&height=485",
       "topic": "社会",
-      "score": 78,
+      "score": 76,
       "id": "2f2aced9fa1e"
     },
     {
@@ -198,8 +237,34 @@
       "publishedAt": "2026-07-04T08:38:29.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "4b656d566cc3"
+    },
+    {
+      "title": "Former chess champion Kramnik banned over cheating remarks",
+      "summary": "The former Russian world chess champion had accused other players, including the late Daniel Naroditsky, of cheating.",
+      "url": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-07-04T15:45:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ffb/live/51aa3090-77b5-11f1-b976-0b9c15b0ccfc.jpg",
+      "topic": "社会",
+      "score": 75,
+      "id": "079c2680f9a2"
+    },
+    {
+      "title": "Injury ends Williams' Wimbledon comeback",
+      "summary": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-07-04T15:06:26.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa6/live/b2249b20-77b7-11f1-a777-2740d50846c8.jpg",
+      "topic": "社会",
+      "score": 75,
+      "id": "cf44edbf1dfc"
     },
     {
       "title": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
@@ -211,7 +276,7 @@
       "publishedAt": "2026-07-04T11:40:31.000Z",
       "image": "https://i.guim.co.uk/img/media/e1aaede31dec3f22e9f284dc77dc5ca56b6dbb3e/107_9_1027_821/master/1027.jpg?width=140&quality=85&auto=format&fit=max&s=3a3168bdc98ccbbd7d52cb46936733f1",
       "topic": "气候",
-      "score": 77,
+      "score": 75,
       "id": "98deb6d2ea91"
     },
     {
@@ -221,10 +286,10 @@
       "source": "Sky Sports",
       "feed": "Africa News Network",
       "region": "非洲",
-      "publishedAt": "2026-07-04T09:05:00.000Z",
+      "publishedAt": "2026-07-04T09:00:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 75,
       "id": "444d9bd499e9"
     },
     {
@@ -237,7 +302,7 @@
       "publishedAt": "2026-07-04T08:33:24.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/beaa51f50737dffcc92f3c12f024081c?impolicy=wcms_crop_resize&cropH=2112&cropW=3755&xPos=0&yPos=195&width=862&height=485",
       "topic": "社会",
-      "score": 77,
+      "score": 75,
       "id": "89334e331065"
     },
     {
@@ -250,7 +315,7 @@
       "publishedAt": "2026-07-04T05:04:16.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 75,
       "id": "04e9cb1b49d8"
     },
     {
@@ -263,8 +328,73 @@
       "publishedAt": "2026-07-04T04:37:24.000Z",
       "image": "https://i.guim.co.uk/img/media/030313d854e863a3e2b36e98c19b45c6fca555ab/553_0_6611_5289/master/6611.jpg?width=140&quality=85&auto=format&fit=max&s=364b3da3d06346d517aff54437aedec7",
       "topic": "政治",
-      "score": 77,
+      "score": 75,
       "id": "b6f57bae482a"
+    },
+    {
+      "title": "Elon Musk posted twice as often on UK race and immigration as about SpaceX in IPO run-up",
+      "summary": "Guardian analysis of X feed shows how keen world’s richest person was to air his views and ‘interfere’ in British politics Elon Musk posted about race and immigration in the UK on his social media network X twice as often as he did about SpaceX, which he also owns, in the run-up to the aerospace and AI company’s initial public offering. A Guardian analysis o",
+      "url": "https://www.theguardian.com/technology/2026/jul/04/elon-musk-uk-race-immigration-spacex-ipo",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-04T15:00:01.000Z",
+      "image": "https://i.guim.co.uk/img/media/78db83223c87d7f52d5b73180281491643fc0eac/418_0_4180_3344/master/4180.jpg?width=140&quality=85&auto=format&fit=max&s=e50c92bd66ea220ca53db7d944054090",
+      "topic": "科技",
+      "score": 74,
+      "id": "648c9a3c8ec9"
+    },
+    {
+      "title": "UK woman, 21, arrested in Thailand after allegedly stabbing boyfriend to death",
+      "summary": "Officers found body of 34-year-old man in luxury rental home in Pattaya area, local media says A 21-year-old British woman has been arrested in Thailand after allegedly fatally stabbing her boyfriend, according to local media reports. The Bangkok Post reported that on Thursday morning local time, officers found the body of a 34-year-old man, who operated a c",
+      "url": "https://www.theguardian.com/world/2026/jul/04/uk-woman-arrested-thailand-pattaya-man-stabbed",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "亚洲",
+      "publishedAt": "2026-07-04T14:51:46.000Z",
+      "image": "https://i.guim.co.uk/img/media/ee017f23a70de974e754ae80ccc4fdfa7d0e06e7/20_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c23348f255a7befd535a0bcede58b5de",
+      "topic": "社会",
+      "score": 74,
+      "id": "4baf764129cf"
+    },
+    {
+      "title": "What impact will Andy Burnham have on Zack Polanski and the Greens?",
+      "summary": "Voters disillusioned with Starmer’s Labour were tempted by the Greens – but Polanski’s party fears the affable, left-leaning Burnham could win them back The shift was notable. A week after Keir Starmer said he would resign, YouGov polling showed Labour up two points and the Greens down by the same amount. Might an Andy Burnham premiership mean a rethink for ",
+      "url": "https://www.theguardian.com/politics/2026/jul/04/impact-andy-burnham-zack-polanski-greens",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-04T14:45:31.000Z",
+      "image": "https://i.guim.co.uk/img/media/bf01f3f5eb1e54c5b68e422e2b46b603bb238726/1480_383_3992_3193/master/3992.jpg?width=140&quality=85&auto=format&fit=max&s=e5a715f785a4b2a6b56547a02e5a9cea",
+      "topic": "社会",
+      "score": 74,
+      "id": "1f568d1cb5b3"
+    },
+    {
+      "title": "Week-long heatwave due in England with 34C peak in south-east",
+      "summary": "Heat health alerts in place in most regions of England from Sunday to Saturday with mercury also rising in Wales Another heatwave is on the way across parts of the UK with peak temperatures of 34C forecast. Temperatures in the south of England could reach 28C on Saturday, according to the Met Office. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/04/week-long-heatwave-due-in-england-with-34c-peak-in-south-east",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-04T14:40:42.000Z",
+      "image": "https://i.guim.co.uk/img/media/fdf469e511208c60a85e4e9924fdf20aed8a76d3/271_0_2708_2167/master/2708.jpg?width=140&quality=85&auto=format&fit=max&s=c9c5aae1e96778637f64240d5005c5e8",
+      "topic": "气候",
+      "score": 74,
+      "id": "87cce9293711"
+    },
+    {
+      "title": "#Sudan: The UN human rights chief has issued a \"red alert\" over escalating violence in and around el-Obeid, warning of the risk of further atrocities. Watch this short update, then get the full context in our Weekly Recap: https://www.youtube.com/watch?v=qIvis",
+      "summary": "#Sudan: The UN human rights chief has issued a \"red alert\" over escalating violence in and around el-Obeid, warning of the risk of further atrocities. Watch this short update, then get the full context in our Weekly Recap: https://www.youtube.com/watch?v=qIvis &nbsp;&nbsp; facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMlhtZDYyU3BCN24wcUVYREFMTlh5WHBLb2RTdzc3d0EzN010d25MQ2UtWHdmdkowZ05jRlZfSEJ5X2RaOUtwYlRUNnp4R3k3MVJEanpTVlFLZHM1SDVubmI0MVVVamNMbzNsX3NmWTJoTV84bk1KZld3MENtcFB4bWdzUjBjZWlNX3lqYS1vRHhLZEl2LWJTczJOZGNNNWFxNm5yNU1mLXQtN2dSYlN4WnY0clkwWUtsV3d6a2FvWl95WXl5b0pBRE05U2NPcFRpdGMyZDBLaE56QVlwRTE4eA?oc=5",
+      "source": "facebook.com",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-04T14:35:58.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 74,
+      "id": "3fffdeed6cd8"
     },
     {
       "title": "De Minaur defeats \"Aussie slayer\" in third round at Wimbledon",
@@ -276,21 +406,21 @@
       "publishedAt": "2026-07-04T14:27:13.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c564deaaa3a6b0892dc2131f9160df27?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "e003b4351fdb"
     },
     {
-      "title": "TV and stream details for South Africa v England in the Nations Championship",
-      "summary": "TV and stream details for South Africa v England in the Nations Championship &nbsp;&nbsp; Irish Mirror",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYXdXY3F6YUZwaXFzeF96VmV3cHlHWjZrUW55b0s4ck9IRHVyMDNObTBwQXJmbVpSd05DckZTb24yYnFhM2JFbWJOeFdBWGUzX2dEZFZjVjc3SFRjNEgta1FnMmRZVGw4b3pweEJ5OHdsUTM5MHFsdFE0NWlXY3ZtYkNlUHVuM3ZaOTZkUNIBkgFBVV95cUxQMG94WEZQOWtRQ3l3dlR1S3JPMW9TSjNWdGl3NEJ6dFRNcHB6Vko5RHVidUNyTE1HTHZ4cFN6c05Da3ZGMzRlLURndWt6UzFjSXozX2pLSXBEVDIzSTZYNXFNMHcyNDhvSnZacmFqeWhXY09EcGh1OHhMbm9MRmhDVXFSMzBEcXg5ZmZqNTIya09XZw?oc=5",
-      "source": "Irish Mirror",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-04T11:37:30.000Z",
+      "title": "Singapore Tourism Hub Shines as ILTM Asia Pacific Drives Record Luxury Travel Networking at Marina Bay Sands: Get the Details Here",
+      "summary": "Singapore Tourism Hub Shines as ILTM Asia Pacific Drives Record Luxury Travel Networking at Marina Bay Sands: Get the Details Here &nbsp;&nbsp; Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRZGF1LWFkTjV6Umllam94bzVhMUhndWFra3hRYVhEUFJFQ1Z3LWlueVNYalMyQmo3a3VBN3F3WjR0azZIVGhxLUpaZEYtaXZ2dFJHRkFPUzNIdkRlWm1mYmtjdVBYOWl3U3BrTEZR?oc=5",
+      "source": "Travel And Tour World",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-04T11:34:17.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
-      "id": "96ed82b987c6"
+      "score": 74,
+      "id": "ed4076536429"
     },
     {
       "title": "Pope urges Europe to do more for migrants while visiting gateway island",
@@ -302,7 +432,7 @@
       "publishedAt": "2026-07-04T11:25:57.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f69/live/f6627020-7788-11f1-a627-714adb4eed6e.jpg",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "220c1e9faace"
     },
     {
@@ -315,8 +445,21 @@
       "publishedAt": "2026-07-04T11:18:18.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 74,
       "id": "b09e383a9150"
+    },
+    {
+      "title": "India's Diplomatic Masterstroke: Triumph Amidst West Asia Fuel Crisis",
+      "summary": "India's Diplomatic Masterstroke: Triumph Amidst West Asia Fuel Crisis &nbsp;&nbsp; Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlpyNHpvSm0zV0hHbV9aRFpES0Mxb3l1T0pMcU5SSWg4N2pJVThnSTM1SzY5VkFCVEhYQm1BbnpVU3FFUktIcTBwaXlya2ZLQXNUdnlqYkNzaExNSlRUS2Z6VEtJWGtDdm9IcDZ4YzhuWFdYSXFWQ3ktVmlLbllGRGVYSkZfeUZlZmh2X2M3LWFBWEN5MGJ6T0FMQ0QwLW5CTXlYZzRDWm43OEs4Y1dTNEQ1ZkppcDFyMGxXVkp30gHDAUFVX3lxTE9sSExkX3Z4NHQ1WFFtMjgyeWhyU1ZyMjJDVkRNVnU5QUcwby02QXVKUzRINTMwX21CSWRHMGltUzlGdmNsWDZldVJUNFp0QXRGTzY3V1lKX2hiODZ2QWtKUVBibFdxa05QcGZFU3dZc3BOQzFNZ2hKQ1BIaWptRDlVaTZDS21pYWNUcUltQncyY1JQV1JwSTVXS0dQRWtvaGh6amExaW5YU3FNRDlkSWR1M0JndG50NTdFYzBaVXp4Q2VFZw?oc=5",
+      "source": "Devdiscourse",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-04T11:14:13.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 74,
+      "id": "041897378e5a"
     },
     {
       "title": "Pope praises US history of welcoming migrants in implicit rebuke to Trump",
@@ -328,12 +471,12 @@
       "publishedAt": "2026-07-04T11:09:52.000Z",
       "image": "https://i.guim.co.uk/img/media/ed2884d55e646de8408862ed0e2501458ae55cf8/293_0_5906_4725/master/5906.jpg?width=140&quality=85&auto=format&fit=max&s=229c7dfdbc40c46a95abbb8f23f4b1cd",
       "topic": "政治",
-      "score": 76,
+      "score": 74,
       "id": "8099d88c3ffc"
     },
     {
-      "title": "Trump pardons 11 people on eve of country’s Fourth of July celebrations",
-      "summary": "Pardons issued to nine people charged with violating Clean Air Act as extreme heat smothers much of US Donald Trump on Friday issued pardons to 11 people – two convicted fraudsters and nine charged with having violated the federal Clean Air Act by disabling or otherwise modifying trucks’ emissions controls. Those executive pardons – coming amid US semiquince",
+      "title": "Trump issues 11 pardons on eve of country’s Fourth of July celebrations",
+      "summary": "Pardons issued to nine people charged with violating Clean Air Act as extreme heat smothers much of US Donald Trump on Friday issued pardons to 11 men – two convicted fraudsters and nine charged with having violated the federal Clean Air Act by disabling or otherwise modifying trucks’ emissions controls. Those executive pardons – coming amid US semiquincente",
       "url": "https://www.theguardian.com/us-news/2026/jul/04/trump-pardons-11-people-fourth-of-july",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -341,8 +484,8 @@
       "publishedAt": "2026-07-04T14:13:50.000Z",
       "image": "https://i.guim.co.uk/img/media/f061cf0686485560574b845c14f05581d6e18079/0_0_4415_3535/master/4415.jpg?width=140&quality=85&auto=format&fit=max&s=8ed846fb5c5cceb7d52edf7fd3b88020",
       "topic": "社会",
-      "score": 75,
-      "id": "f4170ec2a326"
+      "score": 73,
+      "id": "14f2289b5b95"
     },
     {
       "title": "China's military promotes 2 new generals after anti-corruption purge thins ranks",
@@ -354,8 +497,21 @@
       "publishedAt": "2026-07-04T14:07:57.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "37636c1a5138"
+    },
+    {
+      "title": "Pope urges Europe to protect migrants in visit to island frontier",
+      "summary": "Pope urges Europe to protect migrants in visit to island frontier &nbsp;&nbsp; The Weekly Times",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQX3VXX21CNllKQ0FMYlYweGdPazI5ZU1kLVhZVHZkYTl6Y01TSDRPdXhaRjJoc1pYWTAyVW5KcnU5eVRpVnNWSmJPY3FiMG1wcVVkS1J4ajBxeE5yVWZaTXA5Z29nWWw3eS1OVkhoZmx6b0lYWTBDSWVGRkFYZkluY1luTlVWdUFqckxiQmJrNFdicGpCb3RIbUhseTc1M05Yb2dhajM2Q3BhYmEyRE5RcEszRmNVS3BtQkhnUXdUWXFiTGZ0R1ZoVlpWWDVzWllQZjNmRXFMYzVxV200bjBLVEdCY2xaUdIB6wFBVV95cUxOSWpwSzcyeHVpV3NucE5GQ3pmSlozUm9OVVE1c3VVbDRrckFXR3NSR0tZLU9hLWdDa083V2d1YWtvazk0bnVRSUhseXZIMFlNMzhaX0tqTGt0cmxFQWpWQzU2ZUhLTXpQUFZRQVhiVGI4TnMwOW5YTU9pTnBqWWpNTmF5TlBvU0s1eHg4YU15MW9aSzhGZy1qUGlwMHZyZ2VrbXdqeEZMWFJLTjhIaGIwaDFZbmpRWkhrSmVvRklPNlJkLVdTZ21aRTMtU2ZfSVgycHJiUlZzUExsZi1iTC0zOHVqVWxmUjhsT0xn?oc=5",
+      "source": "The Weekly Times",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-04T14:03:45.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 73,
+      "id": "3f23f41c3a95"
     },
     {
       "title": "Burnham will change No 10 ‘boys club’ briefing culture, says Lucy Powell",
@@ -367,21 +523,8 @@
       "publishedAt": "2026-07-04T14:00:14.000Z",
       "image": "https://i.guim.co.uk/img/media/d0498786f5484b7ff7ee82bd38a3ea65c0ea0c66/538_0_2917_2334/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=e8d606818eb3073c2c454402e709ef23",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "ae9e4f4c6eca"
-    },
-    {
-      "title": "What impact will Andy Burnham have on Zack Polanski and the Greens?",
-      "summary": "Voters disillusioned with Starmer’s Labour were tempted by the Greens – but Polanski’s party fears the affable, left-leaning Burnham could win them back The shift was notable. A week after Keir Starmer said he would resign, YouGov polling showed Labour up two points and the Greens down by the same amount. Might an Andy Burnham premiership mean a rethink for ",
-      "url": "https://www.theguardian.com/politics/2026/jul/04/impact-andy-burnham-zack-polanski-greens",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-04T14:00:14.000Z",
-      "image": "https://i.guim.co.uk/img/media/bf01f3f5eb1e54c5b68e422e2b46b603bb238726/1480_383_3992_3193/master/3992.jpg?width=140&quality=85&auto=format&fit=max&s=e5a715f785a4b2a6b56547a02e5a9cea",
-      "topic": "社会",
-      "score": 75,
-      "id": "1f568d1cb5b3"
     },
     {
       "title": "Canada vs Morocco LIVE: FIFA World Cup 2026 last 16",
@@ -393,7 +536,7 @@
       "publishedAt": "2026-07-04T14:00:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "40c0bc0d163c"
     },
     {
@@ -406,7 +549,7 @@
       "publishedAt": "2026-07-04T13:38:32.000Z",
       "image": "",
       "topic": "气候",
-      "score": 75,
+      "score": 73,
       "id": "628bed494464"
     },
     {
@@ -419,7 +562,7 @@
       "publishedAt": "2026-07-04T10:29:19.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "41d0981f2758"
     },
     {
@@ -432,7 +575,7 @@
       "publishedAt": "2026-07-04T07:46:55.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "68a9173a3308"
     },
     {
@@ -445,7 +588,7 @@
       "publishedAt": "2026-07-04T13:25:12.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/153177cdc9af9b62ec6c13c034c4fa06?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "f86ecf90f767"
     },
     {
@@ -458,21 +601,21 @@
       "publishedAt": "2026-07-04T12:52:19.000Z",
       "image": "",
       "topic": "气候",
-      "score": 74,
+      "score": 72,
       "id": "fe333ac280b4"
     },
     {
-      "title": "George Furbank: England full-back out of Nations Championship opener vs South Africa with appendicitis",
-      "summary": "George Furbank: England full-back out of Nations Championship opener vs South Africa with appendicitis &nbsp;&nbsp; Radio Royal",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUUlqX3d4N3F2M3dnaGVGOTFXOU5EbENONEdpU3lYQWRBdjhNd1dCVlhJc2MwYS1XcWk0Uno1amtBd3YyWGo4NWNkNzJnM09ybjhmSzJ4Y2gtWE00ZGNhYW5xaG1ONUJiOUZyY0RJakE1X3BuSmo4OVNHQzR2NEdKaU9qZUtUWFRXcUF0aHU1WDVad3ZRNGhoMVVnNERNeV9yTUZBSnlSd2FzWjNXSDVIRHVKOUhCaUVNdG5WYUxnM2dSU25HakROYzAzQjRrOVRoR0pocktNNA?oc=5",
-      "source": "Radio Royal",
+      "title": "South Africa Rejects Nigeria’s Compensation Request Over Xenophobic Violence",
+      "summary": "South Africa Rejects Nigeria’s Compensation Request Over Xenophobic Violence &nbsp;&nbsp; Opinion Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSFRDeW1BN3pKaTg4WEttcFZLa0JwTV9wM3NzN1piV2ktdUdGYk1qTy1fS1RDZkNfcGo0VWZWUUtKY2Z2b096NnNJT2FwVVVsSGYtV085SVZLQ0M4UzljR2U4a1pRTW55LXVjZTZrYVFPTm4wNW5FbXY1WGludW9VT2lwenNSdWZ5ZjNHQWd5V09hdS1HVERuNUEwVENmNzBjMTFrN1dkUFhvV0E?oc=5",
+      "source": "Opinion Nigeria",
       "feed": "Africa News Network",
       "region": "非洲",
-      "publishedAt": "2026-07-04T10:16:28.000Z",
+      "publishedAt": "2026-07-04T12:44:33.000Z",
       "image": "",
-      "topic": "经济",
-      "score": 74,
-      "id": "3dfa7913e9c9"
+      "topic": "社会",
+      "score": 72,
+      "id": "6ac3d514ad39"
     },
     {
       "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
@@ -484,8 +627,60 @@
       "publishedAt": "2026-07-04T09:45:55.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c6f/live/071927b0-7789-11f1-a146-99f41269c606.jpg",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "5028edb42480"
+    },
+    {
+      "title": "EXCLUSIVE: Iraq probes officials’ luxury projects in US, Europe, Turkiye",
+      "summary": "EXCLUSIVE: Iraq probes officials’ luxury projects in US, Europe, Turkiye &nbsp;&nbsp; شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0NEMDJfdDBzUHFqMDZKZ1VVNUxWM2V6bEVpRXZuUHBpdktOT2VfMUQ0S05rWFpnaTBWRjB0WmxrVjluMTZnTFdDZ1pITmRKTWJ1czdPNGJnTXotWTl2YTlVUHFRNl85ZGVSZ0todzhBaEx4cVltVm1lVko2VTV1UVpzbmdIc1NQZkpWNExvTGt6V00xaUZRRll0aw?oc=5",
+      "source": "شفق نيوز",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-04T15:41:38.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "42dabb93aba4"
+    },
+    {
+      "title": "Turkey's Erdogan says Israel must not scupper US-Iran deal",
+      "summary": "Turkey's Erdogan says Israel must not scupper US-Iran deal &nbsp;&nbsp; LBCI Lebanon",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMjA5Qm9PbTVDcDRmVUE4QXdEeWxoY2g5OWFMbXFaeXpKU0V1a0ozSHN3NjVxT0R1ZmJETlJVeG9selgxYm91bVo3blk1OWlzUHhPT1dqbjZZUEFPRm9NZHJFSlBNcWV4U2llaTRtN0dORjRWazRYNXgxV2dqSVBRNHBiNG5FOXlNWnZlWlJyY3N6aEo3TTBheTVreGFVbVdHeWV2QkViM25hT08tVXBJaw?oc=5",
+      "source": "LBCI Lebanon",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-04T15:23:35.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "810ead538d83"
+    },
+    {
+      "title": "You must protect Nigerians in South Africa – Rights lawyer, Ejiofor challenges FG",
+      "summary": "You must protect Nigerians in South Africa – Rights lawyer, Ejiofor challenges FG &nbsp;&nbsp; Daily Post Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQnlLQWJva0JCX29hdkx2aC1ndzZ2eVhyNngyQjhjS1RmdGRoS2pKYzgzbVhKUkFSUFVyemhvR0t2YjhCM3Uzc2lSdjFLTlFBdlZ6STZDYVd5M0czNE14ZXN1dUp5UEF2blp5SVpCUEItSFo2OTJUb2xvWEl0X05tVW9MdUJhODRSWUVLUG85bjAtMURaYkNNWWFjcmZQNVc5cW9YUlhtQjNPdVNJS1Ztcg?oc=5",
+      "source": "Daily Post Nigeria",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-04T15:22:29.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "77ca9335404a"
+    },
+    {
+      "title": "Too hot for a cold one: How European heatwave is impacting alcohol consumption?",
+      "summary": "Too hot for a cold one: How European heatwave is impacting alcohol consumption? &nbsp;&nbsp; The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTkg5UnJMaFFvR2Z1X2U3cmhFREVvNjk3ZmtxQjZrLTM2SktfeEtmZ1FvLXZpb2t1bUNFU1NGWjlQUnJIdWVkVndidVRObWRRZEx5Z1FTMkF3V296MVpqdk55M0JpcmRpSXVSRmhYdUtVUjVsQTJaWUJCZWpiSEJMYmg2N3ZtY09DVF9JRlRwWTlWUVQxOTNKcm1qdTR3aDlQcUgwVk1LMjRROGgtYTVEaVhQN2w5WnhHUEV3VjF2aHJVN0w0bmRUUm1FSDg2TFFycXFOVVFON3I1ZURHVEc1b1BwQl9Ld1HSAewBQVVfeXFMT2VGOWZxZGtqeVNPOExmMUg1LU0teGNrZVNuWlp1aDBJR2pGQ2FaVUNSRTM5RFNPWXltNFVYRE1obXJzY0JudXZHdlJXZm9XekRyV2VaUzBiOHRSVV9Cak1ZX25xcU00S2ZzQ1dKWnFjbkM1cGdSb0FMQnFQM3NRZzA2Q0R4NVBLYVRtUXZkUlg2MG4zWHpPbFdWU3JEeWN0MFM4ZVBVT0pzbjFlTF9mMjVQSjRuMnZXMl8yOVgwODRuWEstSXVSZkE4WlUteUFNWVVXUWZ5TzU4dG9fUDh1V3d3c25QQlU4bXdtLVU?oc=5",
+      "source": "The Times of India",
+      "feed": "Europe News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-04T15:22:00.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 71,
+      "id": "45bf5415179b"
     },
     {
       "title": "Why closure matters at the end of life",
@@ -497,8 +692,21 @@
       "publishedAt": "2026-07-04T12:41:19.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "bdb6d2779829"
+    },
+    {
+      "title": "How to watch South Africa vs England: FREE streams, TV channels for Nations Championship 2026 game",
+      "summary": "How to watch South Africa vs England: FREE streams, TV channels for Nations Championship 2026 game &nbsp;&nbsp; TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWkN2eTh1ZFh3Wk1EOFZvRWFqNnhXSkl2cTVfSnBZXzhXa2lhMnJ2Qzh6X3NBa1lQMzZFMEduOHdDRl9mOVIwZEVOaXVtWGd2OU1YNmNCRUEyeVYwOUhUYVF0eUpsZG81LVhmVjlzQUhFd042dkliU19sSnVqOU0tUjU4dWxvWG16dFdubmpJaElzeXRsUV9aYTlrOA?oc=5",
+      "source": "TechRadar",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-04T12:40:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "76aee290ebff"
     },
     {
       "title": "Nabatieh recovery begins amid ongoing southern Lebanon tensions",
@@ -510,7 +718,7 @@
       "publishedAt": "2026-07-04T12:31:20.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "475d3674bd3c"
     },
     {
@@ -523,7 +731,7 @@
       "publishedAt": "2026-07-04T12:30:20.000Z",
       "image": "https://i.guim.co.uk/img/media/fa4fbc26ca10b8a0d80b5dd2a551ab308168eaa8/453_0_4549_3640/master/4549.jpg?width=140&quality=85&auto=format&fit=max&s=cd7239dba10812f8a76e341ed27ad019",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "68626b744f96"
     },
     {
@@ -536,7 +744,7 @@
       "publishedAt": "2026-07-04T12:21:36.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "ab855b66d66c"
     },
     {
@@ -549,7 +757,7 @@
       "publishedAt": "2026-07-04T12:17:29.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "69b7116a0001"
     },
     {
@@ -562,7 +770,7 @@
       "publishedAt": "2026-07-04T12:09:27.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "d3db4a83bd0c"
     },
     {
@@ -575,34 +783,8 @@
       "publishedAt": "2026-07-04T12:05:41.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c6f/live/aa7b3860-77a4-11f1-a627-714adb4eed6e.jpg",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "50b40a08fd86"
-    },
-    {
-      "title": "Mayfair casino facing legal action after former waiter says he did not get fair share of tips",
-      "summary": "Former worker at Metropolitan on Park Lane in London says he had to share tips with managers and other staff A Mayfair casino is facing legal action from a former waiter who says he was not given a fair share of tips. The former worker at the Metropolitan Mayfair – part of the Metropolitan Casinos group owned by the US investment firm Silver Point Capital, w",
-      "url": "https://www.theguardian.com/business/2026/jul/04/a-mayfair-casino-is-facing-legal-action-from-a-former-waiter-who-says-he-was-not-given-a-fair-share-of-tips",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-04T12:00:13.000Z",
-      "image": "https://i.guim.co.uk/img/media/1969ee4b4fcf76056e0e00ff1014de56799e0980/440_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=76ab2b72c2a3f9f42ad7f4edfb4f2c30",
-      "topic": "社会",
-      "score": 73,
-      "id": "bbf7b586c7ca"
-    },
-    {
-      "title": "Third of disadvantaged white pupils in England leave primary school without being able to read properly",
-      "summary": "Exclusive: Analysis finds lower reading fluency than children from other ethnic backgrounds and richer peers A third of disadvantaged white pupils in England leave their primary school unable to read well enough to access the secondary curriculum, leading to disengagement and school absence, according to new research. The findings were published days after a",
-      "url": "https://www.theguardian.com/education/2026/jul/04/third-white-disadvantaged-pupils-england-below-secondary-reading-level",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-04T12:00:12.000Z",
-      "image": "https://i.guim.co.uk/img/media/ca747e14b1c06a8b6394b4aa49604f00e1ad34ad/960_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=5392e62dce70842144283573de264a7e",
-      "topic": "社会",
-      "score": 73,
-      "id": "c7fd7523d07c"
     },
     {
       "title": "Wallabies fall agonisingly short against Ireland in Nations Championship",
@@ -614,7 +796,7 @@
       "publishedAt": "2026-07-04T09:08:33.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/4d0896519e176bc9e53076997ae2c375?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "72b3d4fc35ea"
     },
     {
@@ -627,7 +809,7 @@
       "publishedAt": "2026-07-04T08:59:17.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 71,
       "id": "3c3a57f1a7ee"
     },
     {
@@ -640,8 +822,47 @@
       "publishedAt": "2026-07-04T08:29:19.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/3d3e58bc00a6112d9fa6d19e1733c70c?impolicy=wcms_crop_resize&cropH=1790&cropW=3183&xPos=0&yPos=227&width=862&height=485",
       "topic": "政治",
-      "score": 73,
+      "score": 71,
       "id": "238ceb8c888a"
+    },
+    {
+      "title": "Iran plans dayslong funeral for Supreme Leader Khamenei after war death",
+      "summary": "The country's theocracy hopes to see millions flood the streets of the capital beginning Saturday in scenes reminiscent to the burial of the late Supreme Leader Ayatollah Ruhollah Khomeini in 1989.",
+      "url": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "中东",
+      "publishedAt": "2026-07-03T19:45:24.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 71,
+      "id": "7b0ae1f1f27c"
+    },
+    {
+      "title": "Strategic location to connect Asia, Africa, Middle East: Seychelles' envoy hails PM Modi's recent visit",
+      "summary": "Strategic location to connect Asia, Africa, Middle East: Seychelles' envoy hails PM Modi's recent visit &nbsp;&nbsp; Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEt3N2R4ZFYybHpKNmJXeWt6MWdKTFBlaXhtams0RTRmZVVwZm1KTzl0NjFMNkpRdXZoOHc5OWV2WHNKcFNxQkphVDNHUG56RUNSRnliekJGSlhISkQtU0RMZ21WbzBmTDBTcU5ibVpUbWRPaTBWRDZRb0V3OXpWaGhCQWNzbkl4RlJEMXhkaUJ6Q0pqaGg3Q2xRcjJQME14SFAxSzJxNm11LTJ0SjFYMnctVXo1Njd0Qncza015b1VZOUNPMnY1eHFNSS1TSlMzXzNEZzFKVUFVeG8?oc=5",
+      "source": "Big News Network.com",
+      "feed": "Middle East News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-04T14:31:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "84e8f892f222"
+    },
+    {
+      "title": "Ayyoub Bouaddi: Why Man City and Europe's biggest teams want to sign Moroccan",
+      "summary": "Ayyoub Bouaddi: Why Man City and Europe's biggest teams want to sign Moroccan &nbsp;&nbsp; BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11RlZfaUVlZm95QTBfcUhCa0F0bVhsb3p6ZWRVY1d4eHVWMFVQLVdpeVJheUZLV05pVm5YV3htWVppOHJ2YTFyQjhuVWNtbWl3Z0pxOWwxYkNuN0d0M3ltd0ZPVk9fVE0?oc=5",
+      "source": "BBC",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-04T14:22:20.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "962c41076447"
     },
     {
       "title": "England vs Mexico at Azteca: Kickoff, altitude and weather explained",
@@ -653,7 +874,7 @@
       "publishedAt": "2026-07-04T11:27:18.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "254fb283bf1a"
     },
     {
@@ -666,7 +887,7 @@
       "publishedAt": "2026-07-04T10:56:54.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 70,
       "id": "ced1be8e337e"
     },
     {
@@ -679,34 +900,34 @@
       "publishedAt": "2026-07-04T04:15:38.000Z",
       "image": "https://i.guim.co.uk/img/media/f701d4a39eb16fdd66224d12974c7a8be0e18828/15_0_4556_3646/master/4556.jpg?width=140&quality=85&auto=format&fit=max&s=411b451b985b62fd5781c8a986c46425",
       "topic": "政治",
-      "score": 72,
+      "score": 70,
       "id": "e8886f518b32"
-    },
-    {
-      "title": "Ayyoub Bouaddi: Why Man City and Europe's biggest teams want to sign Moroccan",
-      "summary": "Ayyoub Bouaddi: Why Man City and Europe's biggest teams want to sign Moroccan &nbsp;&nbsp; BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11RlZfaUVlZm95QTBfcUhCa0F0bVhsb3p6ZWRVY1d4eHVWMFVQLVdpeVJheUZLV05pVm5YV3htWVppOHJ2YTFyQjhuVWNtbWl3Z0pxOWwxYkNuN0d0M3ltd0ZPVk9fVE0?oc=5",
-      "source": "BBC",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-04T14:22:20.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "962c41076447"
     },
     {
       "title": "Is Westpac Banking (ASX:WBC) Fully Valued After Board Changes And Digital Banking Progress?",
       "summary": "Is Westpac Banking (ASX:WBC) Fully Valued After Board Changes And Digital Banking Progress? &nbsp;&nbsp; simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVi1lVGlCeGk4NDRoZVhrNUNxRWlzWTdGeFcyTmxGaFlORGVHQmI2UU9QaUJLYWdNdFRUOFRHdU9IS1Q4M2NrbmlXb0lYX1NHbFZDeWhuZGVpcTNtbk1rR0tmRjcxajJESlNiNU04WnhBN2tFRE44djZ1UktVVGNQTVAtZlM0YlhBeUhrS3ZjS2lpU2lhVXFTRUZ6Z1ZZWWFZbmF5RXVXeXJ5a1lxOFRidGlwY2lQc0Y3S2VkUUxIaVNPQWpoR1VMUHhRMGtfVm_SAdQBQVVfeXFMUE42eldhNDN4TkVlLXhqN2lvN1dMOHFETlFaSTR2Q053S3BCb1J2c2xNQ0l1UnAxd3lqNlpkNnVLb2hqU3lwdzJQMEU2d1dnNVdsek9FVTRkT25XWmFSLUw3cEo5dTRaUlc1eDJfRjIxZnlvRTNYaFJ3ZEFQNFlLejBKZUJOQW5qUzFUUHdRbGFVS28zQVdaMUs4QktXeUlQWkVNYUdkcVFBa2JkMXNtRkQxZTZWQ0lSYkd3STdodmxnUmIyY0QzbDhmRF9tUFpWY2ZsRWY?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjZ6V2E0M3hORWUteGo3aW83V0w4cUROUVpJNHZDTndLcEJvUnZzbE1DSXVScDF3eWo2WmQ2dUtvaGpTeXB3MlAwRTZ3V2c1V2x6T0VVNGRPbldaYVItTDdwSjl1NFpSVzV4Ml9GMjFmeW9FM1hoUndkQVA0WUt6MEplQk5BbmpTMVRQd1FsYVVLbzNBV1oxSzhCS1d5SVBaRU1hR2RxUUFrYmQxc21GRDFlNlZDSVJiR3dJN2h2bGdSYjJjRDNsOGZEX21QWlZjZmxFZtIB1AFBVV95cUxQTjZ6V2E0M3hORWUteGo3aW83V0w4cUROUVpJNHZDTndLcEJvUnZzbE1DSXVScDF3eWo2WmQ2dUtvaGpTeXB3MlAwRTZ3V2c1V2x6T0VVNGRPbldaYVItTDdwSjl1NFpSVzV4Ml9GMjFmeW9FM1hoUndkQVA0WUt6MEplQk5BbmpTMVRQd1FsYVVLbzNBV1oxSzhCS1d5SVBaRU1hR2RxUUFrYmQxc21GRDFlNlZDSVJiR3dJN2h2bGdSYjJjRDNsOGZEX21QWlZjZmxFZg?oc=5",
       "source": "simplywall.st",
       "feed": "Pacific News Network",
       "region": "大洋洲",
-      "publishedAt": "2026-07-04T14:03:48.000Z",
+      "publishedAt": "2026-07-04T14:03:55.000Z",
       "image": "",
       "topic": "经济",
-      "score": 71,
+      "score": 69,
       "id": "f1c1d8fa8701"
+    },
+    {
+      "title": "Bigotry in South Africa; It Won’t Give Them Wealth They Badly Want",
+      "summary": "Bigotry in South Africa; It Won’t Give Them Wealth They Badly Want &nbsp;&nbsp; Nilepost",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNnl0VE9SbW5wS090bGVWN0lzNks3a1ZVaDFYbFlRdTlYRmo4VFVTa09MSVl0TTZBQkRWSzJUdkJacHN4Ml9HUWw3SVA4UmFSNGxzNk9XNWZxODdyb2x5c3FKb2w2aUk4aW9YbDgydUEtSGFRZWw1dnZCZU43Y19YRHVVVWdJdUp4dEtmWEl6bWkyRHJGUVdOWEI0R0N6WFFXWU5WbnZyZF96eVpRcUHSAa4BQVVfeXFMUDZ5dFRPUm1ucEtPdGxlVjdJczZLN2tWVWgxWGxZUXU5WEZqOFRVU2tPTElZdE02QUJEVksyVHZCWnBzeDJfR1FsN0lQOFJhUjRsczZPVzVmcTg3cm9seXNxSm9sNmlJOGlvWGw4MnVBLUhhUWVsNXZ2QmVON2NfWER1VVVnSXVKeHRLZlhJem1pMkRyRlFXTlhCNEdDelhRV1lOVm52cmRfenlaUXFB?oc=5",
+      "source": "Nilepost",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-04T13:30:04.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 69,
+      "id": "29773ff3268b"
     },
     {
       "title": "America250: How the US heatwave will affect Fourth of July celebrations",
@@ -718,229 +939,8 @@
       "publishedAt": "2026-07-04T11:00:47.000Z",
       "image": "",
       "topic": "气候",
-      "score": 71,
+      "score": 69,
       "id": "e4bbfd594fc8"
-    },
-    {
-      "title": "Birdsong data from Merlin ID app to help global biodiversity project",
-      "summary": "Cornell Lab for Ornithology plans data linkup between app and population monitoring on eBird platform The Merlin bird ID app will allow users to feed real-time bird identifications into one of the world’s biggest citizen-science biodiversity projects in an update it is hoped will aid conservation of at-risk birds. Since 2021, the free Merlin app, created by ",
-      "url": "https://www.theguardian.com/environment/2026/jul/04/merlin-app-birdsong-identification-ebird-biodiversity-conservation",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-04T11:00:13.000Z",
-      "image": "https://i.guim.co.uk/img/media/6e44f8998787da0f2600cc4299b258c7085cb035/1068_305_2905_2325/master/2905.jpg?width=140&quality=85&auto=format&fit=max&s=892c5adf1148b36f31c88ad6b8b15953",
-      "topic": "科技",
-      "score": 71,
-      "id": "abcfdb82109e"
-    },
-    {
-      "title": "First case of deadly H5N1 bird flu confirmed in NSW",
-      "summary": "The first case of the deadly H5 bird flu is confirmed in a giant petrel found on the NSW Mid North Coast.",
-      "url": "https://www.abc.net.au/news/2026-07-04/first-deadly-h5n1-bird-flu-case-confirmed-nsw-mid-north-coast/106877262",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-04T10:31:32.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/9d1c775c4a41aa78e6eb0e3f1b11b1b5?impolicy=wcms_crop_resize&cropH=955&cropW=1697&xPos=0&yPos=270&width=862&height=485",
-      "topic": "社会",
-      "score": 71,
-      "id": "ae8744f38305"
-    },
-    {
-      "title": "In South Asia, America has stopped asking India for permission",
-      "summary": "Washington has started dealing with regional players without regard for Indian interests.",
-      "url": "https://www.aljazeera.com/opinions/2026/7/4/in-south-asia-america-has-stopped-asking-india-for-permission?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-07-04T10:29:41.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "530dbcb8d8d8"
-    },
-    {
-      "title": "UK woman, 21, arrested in Thailand after allegedly stabbing boyfriend to death",
-      "summary": "Officers found the body of a 34-year-old man in a luxury rental home in the Pattaya area, local media says A 21-year-old British woman has been arrested in Thailand after allegedly fatally stabbing her boyfriend, according to local media reports. The Bangkok Post reported that on Thursday morning local time, officers found the body of a 34-year-old man, who ",
-      "url": "https://www.theguardian.com/world/2026/jul/04/uk-woman-arrested-thailand-pattaya-man-stabbed",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-07-04T10:26:54.000Z",
-      "image": "https://i.guim.co.uk/img/media/e0adc103e0d74119e85e624d841d5ff2a0e40e8c/661_0_6611_5289/master/6611.jpg?width=140&quality=85&auto=format&fit=max&s=87b93043068da4e99f9817568e56c657",
-      "topic": "社会",
-      "score": 71,
-      "id": "4baf764129cf"
-    },
-    {
-      "title": "Trump praises army, rails against communism in US 250th anniversary speech",
-      "summary": "At Mount Rushmore Trump warns of 'communist menace', ties rhetoric to immigration ahead of November midterms.",
-      "url": "https://www.aljazeera.com/news/2026/7/4/trump-praises-army-rails-against-communism-in-us-250th-anniversary-speech?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-04T07:19:57.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 71,
-      "id": "4edd421c4313"
-    },
-    {
-      "title": "Socceroos icon says Popovic 'messing with things too much' in GK switch",
-      "summary": "Mark Schwarzer says he is not a fan of Tony Popovic's decision to swap goalkeepers ahead of the penalty shootout, even if it had been successful.",
-      "url": "https://www.abc.net.au/news/2026-07-04/fifa-world-cup-schwarzer-slams-popovic-gk-swap-penalties/106880286",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-04T06:52:40.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/5b543a127bcf1e0afdfade1499507b05?impolicy=wcms_crop_resize&cropH=2250&cropW=4000&xPos=0&yPos=82&width=862&height=485",
-      "topic": "政治",
-      "score": 71,
-      "id": "1d8b989624fd"
-    },
-    {
-      "title": "Russia claims it captured the strategic key Ukrainian city of Kostiantynivk",
-      "summary": "Russia claims it captured the strategic key Ukrainian city of Kostiantynivka",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russia-claims-it-captured-the-strategic-key-ukrainian-city-of-kostiantynivk?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-07-04T10:04:35.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "24e3f8c6e68f"
-    },
-    {
-      "title": "Footballer critical after sustaining head injury during match",
-      "summary": "A 27-year-old player is in a critical condition after a serious mid-match injury during a football game in Lalor this afternoon.",
-      "url": "https://www.abc.net.au/news/2026-07-04/footballer-in-serious-condition-after-head-injury/106880564",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-04T09:46:30.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/585e732b022a67e870e97fb6f0bacc83?impolicy=wcms_crop_resize&cropH=1680&cropW=2982&xPos=0&yPos=308&width=862&height=485",
-      "topic": "社会",
-      "score": 70,
-      "id": "6fe23835cf9a"
-    },
-    {
-      "title": "Cape Verde fans overjoyed with team’s World Cup run despite Argentina loss",
-      "summary": "Tiny island nation's colossal performance against reigning world champions leaves supporters feeling incredibly proud.",
-      "url": "https://www.aljazeera.com/sports/2026/7/4/cape-verde-fans-overjoyed-with-teams-world-cup-run-despite-argentina-loss?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-07-04T09:42:30.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "ae5eab4637d5"
-    },
-    {
-      "title": "Qld Labor frontbencher not ruling out seat-swap after boundary review",
-      "summary": "The independent redistribution commission has recommended a substantial redraw of the seat of Gaven, which Meaghan Scanlon reclaimed at the last state election with a very slim margin.",
-      "url": "https://www.abc.net.au/news/2026-07-04/qld-meaghan-scanlon-electorate-boundary-seat-swap/106880012",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-04T06:15:38.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/c76cdcfd84ffa7c9662fd0037191541e?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=261&width=862&height=485",
-      "topic": "政治",
-      "score": 70,
-      "id": "e8e8bfa3a55c"
-    },
-    {
-      "title": "Modi Heads to Auckland on July 10 in First Indian Prime Minister Visit to New Zealand in Four Decades",
-      "summary": "Modi Heads to Auckland on July 10 in First Indian Prime Minister Visit to New Zealand in Four Decades &nbsp;&nbsp; The Eastern Herald",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVEVmdFpIVHRlOG9NZ1pCYnlMWmR1RlpvbGxsanhzLUVnckhZWjhoRkQtLU8wRzh6Y3NZemdud2NYbkMwRTFUZmh6TngxUmc0TG5UeVBsTTB5eC1ZUEQzNEpSWEtrUFI2anN6VW10c3RGT05ac0NkdjRrMzk3U2xlYQ?oc=5",
-      "source": "The Eastern Herald",
-      "feed": "Pacific News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-04T12:18:21.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 69,
-      "id": "bf5e3f49f11a"
-    },
-    {
-      "title": "Celtic nations begin to plan for breakup of UK in event of Reform election win",
-      "summary": "Politicians brace for constitutional turmoil if Nigel Farage’s party end up in government – or even as a strong opposition The rise of Nigel Farage has prompted political leaders across Ireland, Northern Ireland, Scotland and Wales to game the unthinkable: the breakup of the United Kingdom. Unionists who wish to save the union and nationalists who wish to en",
-      "url": "https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-04T06:00:05.000Z",
-      "image": "https://i.guim.co.uk/img/media/c44c25d3eac243b52fc213e417bc26b9bb6db791/1221_8_5911_4730/master/5911.jpg?width=140&quality=85&auto=format&fit=max&s=8771ff8c8ad367461391ffb4ad3cb392",
-      "topic": "政治",
-      "score": 69,
-      "id": "fc1e266cd7bb"
-    },
-    {
-      "title": "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
-      "summary": "Cape Verde didn't win a match at the World Cup, and somehow, that didn't seem to matter. The African team's debut on this stage was unforgettable.",
-      "url": "https://www.npr.org/2026/07/04/nx-s1-5882086/cape-verde-world-cup-ends",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "非洲",
-      "publishedAt": "2026-07-04T05:44:19.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "b4151934ce20"
-    },
-    {
-      "title": "Could Israel really build settlements in Gaza?",
-      "summary": "After a genocidal war and famine, leading Israeli politicians say they are now ready to settle Gaza.",
-      "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-04T05:41:23.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 69,
-      "id": "09be9c7456fb"
-    },
-    {
-      "title": "Iran plans dayslong funeral for Supreme Leader Khamenei after war death",
-      "summary": "The country's theocracy hopes to see millions flood the streets of the capital beginning Saturday in scenes reminiscent to the burial of the late Supreme Leader Ayatollah Ruhollah Khomeini in 1989.",
-      "url": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "中东",
-      "publishedAt": "2026-07-03T19:45:24.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 69,
-      "id": "7b0ae1f1f27c"
-    },
-    {
-      "title": "New bird flu advice for egg producers as testing continues",
-      "summary": "States and territories are urged to encourage free-range producers to keep their birds indoors where practical in an effort to combat bird flu.",
-      "url": "https://www.abc.net.au/news/2026-07-04/new-biosecurity-advice-as-more-h5n1-cases-suspected/106879676",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-04T08:30:41.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/22519c7e09d980bd3f1683fcb3b06f34?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=469&width=862&height=485",
-      "topic": "社会",
-      "score": 68,
-      "id": "5f596ff70b3d"
-    },
-    {
-      "title": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
-      "summary": "Celebrities and sports stars were spotted as the A-list couple tied the knot in New York on Friday.",
-      "url": "https://www.bbc.co.uk/news/articles/c7vyqgy4r5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-07-04T08:24:17.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/010f/live/2953a370-778c-11f1-a146-99f41269c606.jpg",
-      "topic": "社会",
-      "score": 68,
-      "id": "e598c386c0f4"
     }
   ]
 }
