@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T11:14:49.412Z",
+  "updatedAt": "2026-07-05T12:44:26.653Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -7,8 +7,8 @@
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
     {
-      "title": "Mourners vow revenge on Trump at funeral of Iran’s former supreme leader Ali Khamenei",
-      "summary": "New supreme leader Mojtaba Khamenei remained absent from public view as three of his brothers stood beside their father’s coffin Calls for the killing of Donald Trump were made beside the coffin of the assassinated former Iranian supreme leader Ali Khamenei at a packed prayer hall in Tehran on Sunday. Iran is staging a week of mass funeral processions ⁠for K",
+      "title": "Calls for killing of Trump at funeral of Iran supreme leader Ali Khamenei",
+      "summary": "New supreme leader Mojtaba Khamenei still absent from public view as his three brothers stand beside father’s coffin Beside the coffin of the assassinated former Iranian supreme leader Ali Khamenei at a packed prayer hall in Tehran on Sunday there were calls for the killing of Donald Trump. Iran is staging a week of mass funeral processions ⁠for Khamenei, wh",
       "url": "https://www.theguardian.com/world/2026/jul/05/iran-ali-khamenei-funeral-supreme-leader-mojtaba-absent",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -16,8 +16,21 @@
       "publishedAt": "2026-07-05T10:40:23.000Z",
       "image": "https://i.guim.co.uk/img/media/cb63635388112a8548c1e633a37e4bb58b189fb0/654_0_6514_5214/master/6514.jpg?width=140&quality=85&auto=format&fit=max&s=adfe3677bdcba0f3ea4480b56ea69ee0",
       "topic": "社会",
-      "score": 91,
-      "id": "c63d81eca905"
+      "score": 85,
+      "id": "b321e579e0ff"
+    },
+    {
+      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "summary": "Ali Khamenei's son Mojtaba is conspicuously absent from his father's funeral on Sunday, amid speculation about his condition.",
+      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-07-05T12:29:18.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74a2/live/459df790-7860-11f1-ab53-3dbca6ef5ee1.jpg",
+      "topic": "社会",
+      "score": 84,
+      "id": "128e380aa9fc"
     },
     {
       "title": "Europe Weather Today Latest Update: Record-Breaking Temperatures, Red Alerts and Heatwave Continue Across France, Germany and Spain; Check Temperatures & Advisory",
@@ -29,8 +42,21 @@
       "publishedAt": "2026-07-05T09:07:06.000Z",
       "image": "",
       "topic": "气候",
-      "score": 86,
+      "score": 84,
       "id": "2bc4d4120bc4"
+    },
+    {
+      "title": "Indonesia, Australia, New Zealand: Modi Embarks On Key 3-Nations Tour",
+      "summary": "Indonesia, Australia, New Zealand: Modi Embarks On Key 3-Nations Tour &nbsp;&nbsp; StratNews Global",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdFpQU2dxcDFhelhqaXluc3dkVmMxc2R5SmhjRWszRDYzM194N3ZmdGs1N1lLSmV1bENod182M0NOWVpaN3dDY2xDbWtfcDZaSk9KVTNhOVNSOHhSVV9tWnVLUlgxZHlGWFhtRklDRHYtcEZmVmp0d0Jza19jOHpEQ1lCRHl3ZlJTa2VGX0NnSEZ3al8yN0MwUDM4ei1uNWhXM255d1ln?oc=5",
+      "source": "StratNews Global",
+      "feed": "Pacific News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-05T11:45:20.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 83,
+      "id": "c6b0bf6d0974"
     },
     {
       "title": "South Africa Defeats England in Nations Championship Opener",
@@ -42,7 +68,7 @@
       "publishedAt": "2026-07-05T08:36:04.000Z",
       "image": "",
       "topic": "社会",
-      "score": 85,
+      "score": 83,
       "id": "e61e556cd648"
     },
     {
@@ -55,8 +81,21 @@
       "publishedAt": "2026-07-05T10:33:40.000Z",
       "image": "",
       "topic": "社会",
-      "score": 83,
+      "score": 81,
       "id": "8f6fc85ec41f"
+    },
+    {
+      "title": "What Is an Omega Block? Decoding the Weather Phenomenon Driving Europe’s Record-Breaking Heatwave",
+      "summary": "What Is an Omega Block? Decoding the Weather Phenomenon Driving Europe’s Record-Breaking Heatwave &nbsp;&nbsp; Parametric Architecture",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vU2k5WjlnODFpdnJIS3ZwZThLc3VOektPVFVNMGl6cXlXLTN1QmJwZEhKRTRFbHFhWFlNQ3pUMlNuMmZtSkxkaWpMVFlVZGg5c3Z3SkdpanREdEpFRlJhb2ZFUXVGdzdSamd5NHBkRkFrd2gzNlZqX0l6cw?oc=5",
+      "source": "Parametric Architecture",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-05T11:00:23.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 79,
+      "id": "9bfc64392a72"
     },
     {
       "title": "Pastor freed from prison in China weeks after Trump requested his release",
@@ -68,7 +107,7 @@
       "publishedAt": "2026-07-05T08:30:07.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 79,
       "id": "ef4754dda2d0"
     },
     {
@@ -81,7 +120,7 @@
       "publishedAt": "2026-07-05T08:28:24.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 79,
       "id": "556a012512ac"
     },
     {
@@ -94,7 +133,7 @@
       "publishedAt": "2026-07-05T08:24:32.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/28e7ea40-7845-11f1-a62d-b782ecdb6ead.jpg",
       "topic": "政治",
-      "score": 81,
+      "score": 79,
       "id": "ded94a592a7b"
     },
     {
@@ -107,7 +146,7 @@
       "publishedAt": "2026-07-05T08:06:15.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 79,
       "id": "26e470f94055"
     },
     {
@@ -120,21 +159,21 @@
       "publishedAt": "2026-07-05T11:09:46.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/806bee85e096c99f3cd538a69e22418c?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 80,
+      "score": 78,
       "id": "b4bc9229e9e8"
     },
     {
-      "title": "What Is an Omega Block? Decoding the Weather Phenomenon Driving Europe’s Record-Breaking Heatwave",
-      "summary": "What Is an Omega Block? Decoding the Weather Phenomenon Driving Europe’s Record-Breaking Heatwave &nbsp;&nbsp; Parametric Architecture",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vU2k5WjlnODFpdnJIS3ZwZThLc3VOektPVFVNMGl6cXlXLTN1QmJwZEhKRTRFbHFhWFlNQ3pUMlNuMmZtSkxkaWpMVFlVZGg5c3Z3SkdpanREdEpFRlJhb2ZFUXVGdzdSamd5NHBkRkFrd2gzNlZqX0l6cw?oc=5",
-      "source": "Parametric Architecture",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-05T11:00:23.000Z",
+      "title": "Sooryavanshi sets record for youngest India player in international match",
+      "summary": "Fifteen-year-old Vaibhav Sooryavanshi became the youngest debutant for India in a T20 loss to England at Old Trafford.",
+      "url": "https://www.aljazeera.com/sports/2026/7/5/sooryavanshi-sets-record-for-youngest-india-player-in-international-match?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-07-05T11:09:31.000Z",
       "image": "",
-      "topic": "气候",
-      "score": 80,
-      "id": "9bfc64392a72"
+      "topic": "社会",
+      "score": 78,
+      "id": "e2527b38797c"
     },
     {
       "title": "SA government's promotion of Origin's concession scheme under attack",
@@ -146,7 +185,7 @@
       "publishedAt": "2026-07-05T07:37:45.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/2f81d202b987366cfb84a11e5c9b62d4?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "821367d0be1b"
     },
     {
@@ -159,7 +198,7 @@
       "publishedAt": "2026-07-05T09:54:47.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 77,
       "id": "e42e73681787"
     },
     {
@@ -172,7 +211,7 @@
       "publishedAt": "2026-07-05T09:54:15.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "e7d47b0d57a8"
     },
     {
@@ -185,8 +224,21 @@
       "publishedAt": "2026-07-05T06:34:52.000Z",
       "image": "https://i.guim.co.uk/img/media/6f6b9ed84a95172b199c1ab51e5f6758027ef874/516_0_7857_6286/master/7857.jpg?width=140&quality=85&auto=format&fit=max&s=5deae96954b5a957cb1e45b4a8dc7578",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "83314887224a"
+    },
+    {
+      "title": "Vanuatu launches direct Christchurch flights with Solomon Airlines",
+      "summary": "Vanuatu launches direct Christchurch flights with Solomon Airlines &nbsp;&nbsp; eTurboNews",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU0EtQW50QklwOW1wU3NQOHdnb3E0VVlldXNwbEgzLXlLUy1ZSUxrdktrZUxYcjFza21XTndoVThDaDYyY1BwaFVIbnJockRoa0RGaVVMZG5ycjBSYWc4aG1kWTJTa0lFRHV3dW5GV0JtSTgzSG85WE5SU1I1Wl9TcW5rQXVINmxiczBsQlM5d2NNMklWOVE?oc=5",
+      "source": "eTurboNews",
+      "feed": "Pacific News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-05T12:02:48.000Z",
+      "image": "",
+      "topic": "科技",
+      "score": 76,
+      "id": "ffcfc7aa60ec"
     },
     {
       "title": "Evacuations in Guam as super typhoon Bavi approaches",
@@ -198,7 +250,7 @@
       "publishedAt": "2026-07-05T09:26:56.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccc/live/14f8dd50-7840-11f1-a9d9-f754ec615ffe.jpg",
       "topic": "气候",
-      "score": 78,
+      "score": 76,
       "id": "c00770dc9701"
     },
     {
@@ -211,8 +263,21 @@
       "publishedAt": "2026-07-05T09:18:34.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 76,
       "id": "b060150e3a86"
+    },
+    {
+      "title": "Chinese pastor freed after Donald Trump raised issue of his release with Xi Jinping",
+      "summary": "A Chinese pastor has been released from jail after Donald Trump intervened to get him freed, in what his family have described as a \"miracle\".",
+      "url": "https://news.sky.com/story/chinese-pastor-freed-after-donald-trump-raised-issue-of-his-release-with-xi-jinping-13560578",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "全球",
+      "publishedAt": "2026-07-05T09:09:00.000Z",
+      "image": "https://e3.365dm.com/26/07/1920x1080/skynews-ezra-jin_7290071.jpg?20260705104212",
+      "topic": "社会",
+      "score": 76,
+      "id": "9957ef555975"
     },
     {
       "title": "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News Lake Erie (xoWq9gSXrA)",
@@ -224,7 +289,7 @@
       "publishedAt": "2026-07-05T09:06:18.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 76,
       "id": "95d39bd907b1"
     },
     {
@@ -237,34 +302,8 @@
       "publishedAt": "2026-07-05T05:52:24.000Z",
       "image": "https://i.guim.co.uk/img/media/e6998a28e4d9cc051f1a87ac994645dd7700c9d3/0_262_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=fb527ce383351bb72057b969b67cfcda",
       "topic": "科技",
-      "score": 78,
+      "score": 76,
       "id": "47c53447c3e9"
-    },
-    {
-      "title": "Chinese pastor freed after Donald Trump raised issue of his release with Xi Jinping",
-      "summary": "A Chinese pastor has been released from jail after Donald Trump intervened to get him freed, in what his family have described as a \"miracle\".",
-      "url": "https://news.sky.com/story/chinese-pastor-freed-after-donald-trump-raised-issue-of-his-release-with-xi-jinping-13560578",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "全球",
-      "publishedAt": "2026-07-05T09:09:00.000Z",
-      "image": "https://e3.365dm.com/26/07/1920x1080/skynews-ezra-jin_7290071.jpg?20260705104212",
-      "topic": "社会",
-      "score": 77,
-      "id": "9957ef555975"
-    },
-    {
-      "title": "FG condemns killing of two Nigerians in South Africa, demands justice",
-      "summary": "FG condemns killing of two Nigerians in South Africa, demands justice &nbsp;&nbsp; Punch Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMzlBUVBCZ0NsWGpFUm1ldDN2cjF4NHZxMkV6cm1FeTZsNTRrbjJ4cUpaVXVMLVZIR1Ntbk1mQmhfU3BCOWFOTUh0U3htSkJpYTBZaTJHeHlJTHhtZ3dTZ3BNUzBEbDdFTFV3N29VeUhIQ2VoeGRCTGhIRXdUWWozMVZFRlFUUndKZjdndWJRM3o1eF80c01mNg?oc=5",
-      "source": "Punch Newspapers",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-05T08:37:30.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 77,
-      "id": "e2e1c604c6ef"
     },
     {
       "title": "Trump lauds Americans in storm-delayed 250th anniversary speech",
@@ -276,8 +315,86 @@
       "publishedAt": "2026-07-05T05:18:14.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "1e27673f815a"
+    },
+    {
+      "title": "Indonesian army recovers US pilot’s body from Papua",
+      "summary": "Indonesian troops have recovered the body of American pilot Nicholas Goselin from the restive Papua region.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/indonesian-army-recovers-us-pilots-body-from-papua?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-07-05T12:00:55.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "ebb6afc62e19"
+    },
+    {
+      "title": "Live: Piastri starts British GP eighth after driving 'nervous' McLaren",
+      "summary": "Oscar Piastri starts tonight's British Grand Prix from eighth on the grid, after coming seventh in yesterday's sprint race at Silverstone. Follow live.",
+      "url": "https://www.abc.net.au/news/2026-07-05/f1-live-british-grand-prix-oscar-piastri-mclaren/106880380",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-05T11:59:28.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/07ca262f64f96735b4dce53b9b4cdf96?impolicy=wcms_crop_resize&cropH=2363&cropW=4200&xPos=0&yPos=84&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "bfc30bbfc1ab"
+    },
+    {
+      "title": "Cargo vessel reports attack off Yemen’s coast, UK maritime agency says",
+      "summary": "Cargo vessel reports attack off Yemen’s coast, UK maritime agency says &nbsp;&nbsp; سانا",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UU29Odzc3SkhiMFpySXBVT0dVUG45dlNRRE5MSFdSbFlZYmxVRXp1VURrc2tid1RGR3ByalJ0M2xYTlhrcGQ0ZTlPd2c3OFppRDhz?oc=5",
+      "source": "سانا",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-05T11:52:02.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "4f387502ce6c"
+    },
+    {
+      "title": "Top cop warns UN: time to get leaner",
+      "summary": "Top cop warns UN: time to get leaner &nbsp;&nbsp; The Australian",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOQi1ZRGpreXNwMHNhSkczRzY5dVNyaUhMa09wekgzeE55QkV5LUVISmo4WGY1enRPem5LOS1zUmtDa0ZDMjZwSUM4MWM3VHpjU3plQkJQaXRGelcwSHBEdERSV3BGTG1pZjg4UE5yeHBhSDEwWW04WWVJZDVVVVZOZzRfQlVmYTJHOU9venA0TTFJcklhQnFUblVxTFFPeHRkdDBJVkNlbTFwWGJjblBRU0lxX2lpZkxaTnZjS3BtN05MSkFiNFpqYVRMMDhVRHdUZTdjSDk4eUpRcWJnamRlZDY3aG5YZk9PVjlLRlVuWmVGTnFGWTVFcnNmaDhnRzkxUU8xWmxiXzBmWFNIa0Fz0gGUAkFVX3lxTFBBTFBwcm1fang3ci1UUkpiWUxkSUZDYnpWc2pqV0dwcm4yMG54Sk9CdXF6SGZJSXhGWWVfME5ENDNrWnhoQ1k3WERHRVBuYnJZalVCLVkzQU5rYnhWYWltaURnbS1fQmJGQ0xBSzc5WlJCZE9sMWVLQmhtYmFEbExTNWVuWlc0MFdfc3Jub3lSUDFJTUk1VzRVZ0Q1YmFEZHpMVGNOLVRidnJXUi0taWFzMXI1VzNhRVplQmxDZnV2QTh6UVIxSXVrcXZnc21EZlNLMEJHWXoyZUUtSDM5QlJmMzNLSEE3NVlsSVAwTldDX3lFLW02UkFTR3R1dU1CM19BZU55T3c1eG9QUTk5OFEwR21DOA?oc=5",
+      "source": "The Australian",
+      "feed": "Pacific News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-05T11:44:32.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "cacd5ec28667"
+    },
+    {
+      "title": "French President Macron to visit Syria for talks on bilateral ties, presidency says",
+      "summary": "French President Macron to visit Syria for talks on bilateral ties, presidency says &nbsp;&nbsp; سانا",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42bEVjSlhKMjFrV191VXVUa05iNlZmUVQtT1daOTlPVE1QRHVfM2JUNFJQTmhhSE9NTHpxekM5RERVUVVnN2k5Yg?oc=5",
+      "source": "سانا",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-05T11:23:44.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "33e4d432b781"
+    },
+    {
+      "title": "FG condemns killing of two Nigerians in South Africa, demands justice",
+      "summary": "FG condemns killing of two Nigerians in South Africa, demands justice &nbsp;&nbsp; Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMzlBUVBCZ0NsWGpFUm1ldDN2cjF4NHZxMkV6cm1FeTZsNTRrbjJ4cUpaVXVMLVZIR1Ntbk1mQmhfU3BCOWFOTUh0U3htSkJpYTBZaTJHeHlJTHhtZ3dTZ3BNUzBEbDdFTFV3N29VeUhIQ2VoeGRCTGhIRXdUWWozMVZFRlFUUndKZjdndWJRM3o1eF80c01mNg?oc=5",
+      "source": "Punch Newspapers",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-05T08:37:30.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "e2e1c604c6ef"
     },
     {
       "title": "Liberal frontbencher Dan Tehan says coalition with One Nation ‘not even being talked about’",
@@ -289,8 +406,47 @@
       "publishedAt": "2026-07-05T05:07:24.000Z",
       "image": "https://i.guim.co.uk/img/media/0661d56a319a030935becaf27598cebec508d440/827_0_2683_2146/master/2683.jpg?width=140&quality=85&auto=format&fit=max&s=40186d221b474efc649b07904210bf66",
       "topic": "社会",
-      "score": 77,
+      "score": 75,
       "id": "95647a6d09c8"
+    },
+    {
+      "title": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
+      "summary": "Elyas Abu Safia says his father Hussam can barely breathe or speak after more than 555 days in Israeli prison.",
+      "url": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-07-05T11:24:18.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "13635f85f4b2"
+    },
+    {
+      "title": "Trump praises US military as it marks 250 years of independence",
+      "summary": "Trump praises US military as it marks 250 years of independence",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/trump-praises-us-military-as-it-marks-250-years-of-independence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-05T11:06:45.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 74,
+      "id": "c379f3ac7963"
+    },
+    {
+      "title": "China and Russia to hold annual joint naval drills",
+      "summary": "Exercises from Monday to July 13 off Qingdao to be followed by joint maritime patrols in the Pacific Ocean.",
+      "url": "https://www.aljazeera.com/news/2026/7/5/china-and-russia-to-hold-annual-joint-naval-drills?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-07-05T11:03:51.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "1c6957ade251"
     },
     {
       "title": "Man claiming world’s smallest penis says he’s booked enhancement surgery after public’s help",
@@ -302,7 +458,7 @@
       "publishedAt": "2026-07-05T11:00:27.000Z",
       "image": "https://i.guim.co.uk/img/media/ce2cd1b4737d069b71e929d5b10b91bf1600dafa/0_0_4367_3494/master/4367.jpg?width=140&quality=85&auto=format&fit=max&s=4718a4e47524ee3935faad9d4770262c",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "8b420f0d343e"
     },
     {
@@ -315,8 +471,21 @@
       "publishedAt": "2026-07-05T11:00:25.000Z",
       "image": "https://i.guim.co.uk/img/media/f392dfa89d69539f01e8c6d70ab5de9751174a26/308_0_3135_2508/master/3135.jpg?width=140&quality=85&auto=format&fit=max&s=008447d03836e4bfb3e0dd14d619fc3c",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "04ec8a4a65a5"
+    },
+    {
+      "title": "Release Dr Hussam Abu Safia immediately!",
+      "summary": "It’s been more than 1,000 days of genocide and 500 days of Abu Safia’s detention. We need urgent action to end both.",
+      "url": "https://www.aljazeera.com/opinions/2026/7/5/release-dr-hussam-abu-safia-immediately?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-05T10:56:46.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "e8cb1d056e78"
     },
     {
       "title": "Obesity myths debunked as South Africa faces growing health crisis - LNN - Network News",
@@ -328,7 +497,7 @@
       "publishedAt": "2026-07-05T10:36:14.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "2adcebd73b7c"
     },
     {
@@ -341,8 +510,21 @@
       "publishedAt": "2026-07-05T08:00:21.000Z",
       "image": "https://i.guim.co.uk/img/media/5902905e637137cbca04654eb30cf8baad419ca1/0_0_2866_2293/master/2866.jpg?width=140&quality=85&auto=format&fit=max&s=66c9af26a1978e0a399d0fed9d421eaf",
       "topic": "经济",
-      "score": 76,
+      "score": 74,
       "id": "900da317316b"
+    },
+    {
+      "title": "Jewish worshippers allegedly targeted in fake pistol incident in Sydney",
+      "summary": "Two men have been charged after allegedly pointing a fake gun at a Double Bay synagogue, six months after the Bondi Beach terrorist attack.",
+      "url": "https://www.abc.net.au/news/2026-07-05/men-charged-pointing-fake-gun-sydney-synagogue/106881794",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-05T07:17:19.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/89b4694326df9e5b0a6f7eea0f133102?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=261&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "2d93d7aeca34"
     },
     {
       "title": "Reform UK’s Farage failed to disclose funds from convicted criminal: Report",
@@ -354,7 +536,7 @@
       "publishedAt": "2026-07-05T10:25:04.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "268a025ecf55"
     },
     {
@@ -367,21 +549,8 @@
       "publishedAt": "2026-07-05T10:09:43.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "d456bc7749ee"
-    },
-    {
-      "title": "Jewish worshippers allegedly targeted in fake pistol incident in Sydney",
-      "summary": "Two men have been charged after allegedly pointing a fake gun at a Double Bay synagogue, six months after the Bondi Beach terrorist attack.",
-      "url": "https://www.abc.net.au/news/2026-07-05/men-charged-pointing-fake-gun-sydney-synagogue/106881794",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-05T07:17:19.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/89b4694326df9e5b0a6f7eea0f133102?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=261&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "2d93d7aeca34"
     },
     {
       "title": "Woman charged with murder after body of four-year-old boy found in Central Coast home",
@@ -393,8 +562,21 @@
       "publishedAt": "2026-07-05T06:40:39.000Z",
       "image": "https://i.guim.co.uk/img/media/0dd8d500bb82d23f4f62b813daf1d506d5751ec9/335_0_2155_1724/master/2155.jpg?width=140&quality=85&auto=format&fit=max&s=452e397a0373765b1205cbc7311b9277",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "4e964d073bfb"
+    },
+    {
+      "title": "Modi Picks Jakarta First on a Six-Nation Arc — Is Indonesia the Indo-Pacific Anchor Delhi Was Missing Against Beijing?",
+      "summary": "Modi Picks Jakarta First on a Six-Nation Arc — Is Indonesia the Indo-Pacific Anchor Delhi Was Missing Against Beijing? &nbsp;&nbsp; indiaherald.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObGNsVkl2UTJpaGhTc2hnUUt2dUR3dUZfeHZIWGpDWGprc2c1RGlGc3JiRE5yRjZXVzN6cDJaSXJLNU5TQU1rYWFZXy1NekN2OXdSNmczQXJGNUpTSmE0UzFLMENvcWczZFRLc3hHRkRYT09Md2hCdG5xMzRiSHhfZjZMTVRodUs3U0Y2QjY0dUZvdnZhTWZ2MWdWX3RodnY5Szg1cVNR?oc=5",
+      "source": "indiaherald.com",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-05T12:34:45.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "380cb36e0259"
     },
     {
       "title": "At least eight shot, including four children, in New York’s Coney Island",
@@ -406,7 +588,7 @@
       "publishedAt": "2026-07-05T09:54:10.000Z",
       "image": "https://i.guim.co.uk/img/media/967b535211c090dce981ba7d95e448033da6b162/270_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=acfa58773c0e681253f1c4e070668861",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "fb888d4eaaff"
     },
     {
@@ -419,7 +601,7 @@
       "publishedAt": "2026-07-05T09:53:48.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "edec903d9ff3"
     },
     {
@@ -432,7 +614,7 @@
       "publishedAt": "2026-07-05T09:40:48.000Z",
       "image": "https://i.guim.co.uk/img/media/6504876f5591c52544310b10cbbd98c1301de664/117_0_3177_2543/master/3177.jpg?width=140&quality=85&auto=format&fit=max&s=0711dc722e20d3a92e4fe1bd49e7c397",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "26de3c24b072"
     },
     {
@@ -445,8 +627,60 @@
       "publishedAt": "2026-07-05T09:33:45.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "7acea8d8d84f"
+    },
+    {
+      "title": "OPEC+ raises quotas again as Middle East calms",
+      "summary": "OPEC+ raises quotas again as Middle East calms &nbsp;&nbsp; Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nRTZEbS1TWl9FLXF2cG12WWZ2VmUxU1VkS1Yxd2IyZ2tXcjJ4bTg4Ty16bnJvaDV2WTdlSXIyb21UcG1mYXM0WkZDUGI0VnJVdkV4UkJlVlBRalFkekozRTNMSU8ySXJVdWQ5NVBNeDM5R0NCNi1oT3Rn?oc=5",
+      "source": "Punch Newspapers",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-05T12:15:04.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "cf06d9e2cfdd"
+    },
+    {
+      "title": "MercadoLibre: Why Strong Growth Opportunities Make The Capex Worth It (NASDAQ:MELI)",
+      "summary": "MercadoLibre: Why Strong Growth Opportunities Make The Capex Worth It (NASDAQ:MELI) &nbsp;&nbsp; Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnRnZWZHVkxMYURicFJvd3VCRlFSUDc5WTNLZlJVSUZDbUg3dXJXQUdzRE9tdUxsZ1liVEF4enlTd1Bia1gxRjlnaGZTS2g0clg1V1FWQUxBZFNrdEdOODZVaDNCU0s0NlZRdkhLVnJLMkhxSDg5Qm9kZjEtS2JvVG9LTGRXOE1Dcks1UjFJNlYzNC1kTWNOR1Zsb2NaNmJWMllXajBWUGlOdjMt?oc=5",
+      "source": "Seeking Alpha",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-05T12:01:44.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "78a4a9e11ae1"
+    },
+    {
+      "title": "Crown of the Undying Slot Review",
+      "summary": "Crown of the Undying Slot Review &nbsp;&nbsp; iGamingToday.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zTXVpcDl3X3Jpa200T19aTkx2MGFkQW5kMzlHN1hwSVFQZHRPbW55ZVhkbmRiWl90M3Eya3RFbGZsZkEzY1VqaGsxQk5JVEtpdHNmN0NFaElHcTUyUWp1VTl1LWtIVkl1X3ZFaEI1cw?oc=5",
+      "source": "iGamingToday.com",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-05T11:55:02.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "5d26c0353370"
+    },
+    {
+      "title": "PM Modi's Indonesia visit key to rules-based Indo-Pacific order: Experts",
+      "summary": "PM Modi's Indonesia visit key to rules-based Indo-Pacific order: Experts &nbsp;&nbsp; Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTERjeVFWejFaWEF3ODNERjducnFmemN5SU9keWQwNlpQbHl6a2lIMmlYQm1Gc3NzM1A4cmhXNzNBZGs2Q01MbW5hN2gzc0NzaDAwRGFxdTZPVndET0xqUkVmSHNrR0xQWXp1V1pwZ2lLaUFoNVNkOTR1LWVvVjJ6cW45T21CSDhXa1Fxbm5kTDZGcjlPZVRBS1Rnc09zMTNBa2dJR3JSbzVGU0hMVVpsc1BadW9QdGREa1pKMy00RVphUEdLcHVROGZBWDZrRlptZ1ZJeURaa1FydVdOOURVcE5GYmthV004RzNuLUd2bU0ybWRacy1LbGphOW7SAfwBQVVfeXFMTUxEY3lRVnoxWlhBdzgzREY3bnJxZnpjeUlPZHlkMDZaUGx5emtpSDJpWEJtRnNzczNQOHJoVzczQWRrNkNNTG1uYTdoM3NDc2gwMERhcXU2T1Z3RE9MalJFZkhza0dMUFl6dVdacGdpS2lBaDVTZDk0dS1lb1YyenFuOU9tQkg4V2tRcW5uZEw2RnI5T2VUQUtUZ3NPczEzQWtnSUdyUm81RlNITFVabHNQWnVvUHRkRGtaSjMtNEVaYVBHS3B1UThmQVg2a0ZabWdWSXlEWmtRcnVXTjlEVXBORmJrYVdNOEczbi1Hdm1NMm1kWnMtS2xqYTlu?oc=5",
+      "source": "Business Standard",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-05T11:38:40.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 71,
+      "id": "65a74121f5fc"
     },
     {
       "title": "Atiku congratulates Morocco on World Cup quarter-final qualification",
@@ -458,7 +692,7 @@
       "publishedAt": "2026-07-05T08:56:06.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "8adfb1cd2cbb"
     },
     {
@@ -471,7 +705,7 @@
       "publishedAt": "2026-07-05T08:54:12.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "1eee09d8a22c"
     },
     {
@@ -484,7 +718,7 @@
       "publishedAt": "2026-07-05T08:53:30.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "a0a837eef35c"
     },
     {
@@ -497,47 +731,8 @@
       "publishedAt": "2026-07-05T08:30:41.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "9ba5ad400cb8"
-    },
-    {
-      "title": "Earthquake rocks community along Victoria's Great Ocean Road",
-      "summary": "The magnitude-3.8 earthquake struck at a depth of 10 kilometres along Victoria's popular Great Ocean Road.",
-      "url": "https://www.abc.net.au/news/2026-07-05/port-campbell-earthquake-great-ocean-road/106881928",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-05T05:02:01.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/07b9744a7a902de26e38eea314739f18?impolicy=wcms_crop_resize&cropH=1247&cropW=2217&xPos=195&yPos=0&width=862&height=485",
-      "topic": "气候",
-      "score": 73,
-      "id": "5c0c4a7b6791"
-    },
-    {
-      "title": "Could Farage quit? Questions swirl over Reform UK leader’s future",
-      "summary": "Farage is under pressure over £5m gift, byelection losses and rise of rival Restore but allies say exit speculation is ‘wishful thinking’ “Of course he’s tired. He’s just done two months campaigning every day on the road, it would be weird if he wasn’t. But that doesn’t mean he’s going to quit,” says one friend of Nigel Farage who has spent time with him in ",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/05/nigel-farage-reform-uk-speculation-future",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-05T05:00:18.000Z",
-      "image": "https://i.guim.co.uk/img/media/a5912984d3c83fce8f075755256db7af119cff30/0_1182_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=33f94eb3b4d96a1050f48c7e5b53f433",
-      "topic": "政治",
-      "score": 73,
-      "id": "d27054c7351d"
-    },
-    {
-      "title": "OPEC+ increases production quotas for August",
-      "summary": "OPEC+ increases production quotas for August &nbsp;&nbsp; LBCI Lebanon",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ0dXMDRRNDJIc0ZySHJnN09ST0NqS0VUM05FNXQycjdjOGtMdlE1V01JUnpzbExfenBnMGUwazNaSEkwVld6Z3VScEdDV2FmcFk5aWhzVUtWdXZ0QmE4T1dkVEFYWEN5T0NPS0Rtcl9ONkQ4NzVWZWtpajhuZmdFSlRwOS1zN0I4cXRUYldmX0NFQ1hEeWlMbQ?oc=5",
-      "source": "LBCI Lebanon",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-05T10:56:56.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "109cc9bd0fd6"
     },
     {
       "title": "Palestinians in Gaza celebrate Morocco’s World Cup victory",
@@ -549,7 +744,7 @@
       "publishedAt": "2026-07-05T08:25:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "9100c3bffade"
     },
     {
@@ -562,8 +757,99 @@
       "publishedAt": "2026-07-05T08:22:37.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/a24dad7694d0cb2bfcbfa4340092e3e1?impolicy=wcms_crop_resize&cropH=2583&cropW=4592&xPos=0&yPos=240&width=862&height=485",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "16d40a1d8b3e"
+    },
+    {
+      "title": "Earthquake rocks community along Victoria's Great Ocean Road",
+      "summary": "The magnitude-3.8 earthquake struck at a depth of 10 kilometres along Victoria's popular Great Ocean Road.",
+      "url": "https://www.abc.net.au/news/2026-07-05/port-campbell-earthquake-great-ocean-road/106881928",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-05T05:02:01.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/07b9744a7a902de26e38eea314739f18?impolicy=wcms_crop_resize&cropH=1247&cropW=2217&xPos=195&yPos=0&width=862&height=485",
+      "topic": "气候",
+      "score": 71,
+      "id": "5c0c4a7b6791"
+    },
+    {
+      "title": "Could Farage quit? Questions swirl over Reform UK leader’s future",
+      "summary": "Farage is under pressure over £5m gift, byelection losses and rise of rival Restore but allies say exit speculation is ‘wishful thinking’ “Of course he’s tired. He’s just done two months campaigning every day on the road, it would be weird if he wasn’t. But that doesn’t mean he’s going to quit,” says one friend of Nigel Farage who has spent time with him in ",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/05/nigel-farage-reform-uk-speculation-future",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-05T05:00:18.000Z",
+      "image": "https://i.guim.co.uk/img/media/a5912984d3c83fce8f075755256db7af119cff30/0_1182_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=33f94eb3b4d96a1050f48c7e5b53f433",
+      "topic": "政治",
+      "score": 71,
+      "id": "d27054c7351d"
+    },
+    {
+      "title": "Lower oil prices offer relief to RBI, Asian banks: StanChart report",
+      "summary": "Lower oil prices offer relief to RBI, Asian banks: StanChart report &nbsp;&nbsp; Asianet Newsable",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR3BOdkxTekpqRHZYR3hURHU3czg5c3lFRVlJS2J4VXF3SWpYWFBRay1WRTdpSTdYb2JhS3UyOWlXN1lwN3BfaVllQWVXRWhtWWFTd0pkV0NUQlFnSjZkVVBCeTVuVmN6UTRJMzQxZDZzc2RodGtSUVBFUE15TzNsUjgwVHVyVUU1SFB0a21ua1h4V2pNbFVWME0xMjYyOUdSa2ZuanlNMmpMM2k0LUdXN0hLWVVJQ05yNTRkRXpuLU9FTEhCeXfSAcsBQVVfeXFMUFJmdTA2aHJ2c1ZYaUlBMnBwYVVVWlNXemdwNmVnT1hqcVlLWk9mc2tYTnNjdG5ZVURvb0JIU3lrZ04yUjVRMVYxTXlFcUF5bTZzTFBaSFRxNDliekZwa0RkR04xbjN6UVRWZFlURUJiYzVsUHRrZUh1TDNidVA3SmtqZ1MzdDBYQks3YlFmWno5NFpyWl9BYWNPWUJOalNPMjEycExoZzlBQ3ZPbUw2T1JHSktVYV9IUzJobFd1R3hRVk1CTm1hZ0ducmc?oc=5",
+      "source": "Asianet Newsable",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-05T11:30:21.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 70,
+      "id": "155a065955b2"
+    },
+    {
+      "title": "‘PACPOL’: AFP chief’s message to China",
+      "summary": "‘PACPOL’: AFP chief’s message to China &nbsp;&nbsp; The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS1dDeEkzTE5JMXNTX0llcjJJSUpFc2YtbktreTdMX2MtRTlOb2NGQVVjcU5rRk9va1dtTktoZ2ZwaWhSa2dvS2N3QldkY0kxYTc3by1NSkxCTmNyYjRPNW83OVdpR2d0ZzhPU1RWdmEydTBLT3YwWDFHcUNBQ2VHV0ZyMThfNXdMck9jX0FpVE41alZMNl9lTktQVFplWVNXejhTYS1TOHZ1ZFJsTXdTOS1DQ3pQZHNBZ0szR1ZBU3lqYm5oNWk4dWJaV3lUekJpWS1kcG5pMC1UYjZJRWJQQdIB5gFBVV95cUxQZ19KZHdnVEotQ2Y4ZVZ2VjBMV0IteXlncGhYOHpLa01zVUFXS3dKN0d4Q29sZ29tZGNYSDJ0Z0V2VzFEN2VIaVdKcjBrM1phZUpkaGtYRjBFOUN0eWEzVzRycFlUQkR6LVhxMW12UFhPNEQtdUotNGVDZ213OXFDQVN1VU1UbXVvRFloSy1hVGZ2T092bzJpa1lxdXVWaEk4RmtmalQzRTdDU1oxNzBXSGRsTTNvcjJyT0Vyb2xtWUk5aW91RjFzdHVMYll3NDZPc21ZTXF1QnQ2OTgzZnU4QUlxRnM2Zw?oc=5",
+      "source": "The Australian",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-05T11:29:35.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "9b70aed8edad"
+    },
+    {
+      "title": "Israel appoints first resident ambassador to Slovenia",
+      "summary": "Israel appoints first resident ambassador to Slovenia &nbsp;&nbsp; LBCI Lebanon",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVzZWWmtNUVRpM25DRGFUaThyWUdGaS1WbVdpcW5hTnZQT3hDbjQtSXp1TS1LdUtZZEZEMUI1YzhGcFBSSnlZcUZrSWhTYmdLdnJvUEpaY3hNdTNMUUpwT1JpSlhKakxocnUwZGhCOElaM1VkWmVRY1JkRTE1SWxJcUkzN2tVWlVOUzVTYVFGSTFCV2kzUU8taTRGSy0zcHBjajFUc0hLMXlKYXc?oc=5",
+      "source": "LBCI Lebanon",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-05T11:24:14.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "837561d254ed"
+    },
+    {
+      "title": "Shalulile Breaks Silence on Emotional Mamelodi Sundowns Exit",
+      "summary": "Shalulile Breaks Silence on Emotional Mamelodi Sundowns Exit &nbsp;&nbsp; Central News South Africa",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZm9HZEZGOUlfQm5kWi1yX3dVcDhlWksyLW1FNHdOWUZUM1k2NldEcHJCdUJZRVJ2Tm9QaTNpMjdlTHhIUW80N1J2UWlCdno5TWlTcFRNV2Y0NEJfelRKb1ZsaHBMY29hMVJaY2FLbzlFSnphLVVwRU1JNVBxbkg1RVhHTGhzbHpOSUNwaUtHc3A?oc=5",
+      "source": "Central News South Africa",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-05T11:15:56.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "fb3dbfb72eff"
+    },
+    {
+      "title": "Why US Train Travel Lags Behind Asia and Europe",
+      "summary": "Why US Train Travel Lags Behind Asia and Europe &nbsp;&nbsp; LatestLY",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLTFxYldJRjlDR05wUE5LX1RtSVlWbzFIdnh4YUlPLWdISEpiZzdvVFhWdjU5RHBYZ1RlOFNhMmZPd0ZLTFIxdXNCdmhJUkVYUkMzaHhsRkJKUmdCRm1sbXhsblFUUXBHTUhpSHluM3dBNkRVdF9RdWJubFk4MjhQMGpVdHZ5ZW5KYkNjMEh5MVFnVU9KRUkwZDhOYUlTZ9IBowFBVV95cUxNZlU0ZkdIUU5sUEE4OWJiYTZSbmJ6TlhHaWJSSTFXQ1l3YVdzZi1HWUlJWnJHQkRtSk90eGZfTzUxWmtlUGVXT0o1b1Fvc2ZDZWt1UEtmcG9rWXQ2OGpFSF9nd2w2dV9YTkJFaTlOTDVCTng3TXZESjlnM09DdHVYSk1QSk1pU09aa1FnaXBhLWFnVFN2ejRyZ1o1dmwzbjZtVUlZ?oc=5",
+      "source": "LatestLY",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-05T11:00:22.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "a1e86b28e19c"
     },
     {
       "title": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
@@ -575,7 +861,7 @@
       "publishedAt": "2026-07-05T08:09:44.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "3cfa8babf830"
     },
     {
@@ -588,7 +874,7 @@
       "publishedAt": "2026-07-05T07:42:03.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "0f89c9e7f67b"
     },
     {
@@ -601,21 +887,8 @@
       "publishedAt": "2026-07-05T07:40:08.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/ced6d4754f9bcbf5aa8e41edde7c61db?impolicy=wcms_crop_resize&cropH=432&cropW=769&xPos=515&yPos=267&width=862&height=485",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "31bcfe4ce18a"
-    },
-    {
-      "title": "[Breaking] Kang Hoon-sik: \"New Future Response Fund to Be Created with Additional Semiconductor Tax Revenue\"",
-      "summary": "[Breaking] Kang Hoon-sik: \"New Future Response Fund to Be Created with Additional Semiconductor Tax Revenue\" &nbsp;&nbsp; 아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02bWtOMDdRRmR4RXZLeFRxNFduQmhwbEVsRThiUUpVRzlMejFZb2FNdEt0MjQ0TDhrQTJXdU9kRFFNSnBXY2JrN0hLdDdoUFlhY3J0ZHp1bGtOS0RFcmlGWUhCTmU?oc=5",
-      "source": "아시아경제",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-05T07:22:50.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "cdd07c951b32"
     },
     {
       "title": "Trump marks US 250 with campaign-style July 4 speech after storms delay event",
@@ -627,7 +900,7 @@
       "publishedAt": "2026-07-05T04:33:19.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d7932464b9319eac1c6dd4b923394ff7?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=161&width=862&height=485",
       "topic": "气候",
-      "score": 72,
+      "score": 70,
       "id": "1dfa6920d437"
     },
     {
@@ -640,7 +913,7 @@
       "publishedAt": "2026-07-04T21:06:56.000Z",
       "image": "https://i.guim.co.uk/img/media/76e6d41e9793d20f38e9c89b53fa8b8b1ba200bd/0_0_2626_2102/master/2626.jpg?width=140&quality=85&auto=format&fit=max&s=786527d9ab66de1e59b31262a73965b8",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "cf773d791cd9"
     },
     {
@@ -653,294 +926,21 @@
       "publishedAt": "2026-07-05T10:15:04.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 69,
       "id": "5e529773b906"
     },
     {
-      "title": "Scorching heat and delays: How Washington DC marked America 250",
-      "summary": "The United States of America marked its 250th birthday with fireworks, flyovers, some intense weather across the country.",
-      "url": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "美洲",
-      "publishedAt": "2026-07-05T07:19:08.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9fa/live/25cb0190-783f-11f1-9510-1546718f668b.jpg",
-      "topic": "社会",
-      "score": 71,
-      "id": "2998f70a7008"
-    },
-    {
-      "title": "Suspected space junk washes up on north Queensland beach",
-      "summary": "Authorities are trying to determine how to safely contain a growing cluster of mysterious space debris that keeps washing ashore on a north Queensland beach.",
-      "url": "https://www.abc.net.au/news/2026-07-05/suspected-space-debris-washes-up-north-queensland-forrest-beach/106881854",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-05T06:52:28.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/245e2c0d3e2a3ac5ad37d46affd0d510?impolicy=wcms_crop_resize&cropH=187&cropW=333&xPos=0&yPos=31&width=862&height=485",
-      "topic": "科技",
-      "score": 71,
-      "id": "777097114b51"
-    },
-    {
-      "title": "Rising Aussie puts world on notice with stunning record run in US",
-      "summary": "Australia's Cameron Myers puts up a new Oceania record and claims victory in a stunning mile run at the Eugene Diamond League.",
-      "url": "https://www.abc.net.au/news/2026-07-05/cameron-myers-blitzes-the-mile-at-eugene-diamond-meet/106881848",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-05T03:39:07.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/e2981a4ad198cdd9170a8677de307f25?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "社会",
-      "score": 71,
-      "id": "3e27ca2e2315"
-    },
-    {
-      "title": "Iran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting",
-      "summary": "Late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike on February 28.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-05T00:00:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 71,
-      "id": "2b13efae9686"
-    },
-    {
-      "title": "Morocco Marches On, Keeping Africa’s World Cup Dream Alive",
-      "summary": "Morocco Marches On, Keeping Africa’s World Cup Dream Alive &nbsp;&nbsp; Central News South Africa",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbDBmUnlyWEVsSXFqU2R2QzhaT3ZBbHBDN2t2S1lEVTl0TTBSaUZtWFpQRnUzM3dmekhKM2xfYi1fQURxdGFEcVBESGJWY01taXBjSlhncVZhUS1jMFV2Q2ZfZDJtb0FlXzZ1UFluYVAwS3dVM1IybG96OUNYSzNob1FsakNVSW5GUE9R?oc=5",
-      "source": "Central News South Africa",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-05T09:53:15.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "adfbf879f43a"
-    },
-    {
-      "title": "India Lifts Gas Curbs Imposed During Hormuz Disruption as LNG Supply Resumes",
-      "summary": "India Lifts Gas Curbs Imposed During Hormuz Disruption as LNG Supply Resumes &nbsp;&nbsp; The Quint",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM1FOd0RPVmVjbVV0LXM5WU9sWlg5RWZTZTRwZldDVlZvN0ZwaksxdVZpY0JJRE5hTm5RR3ZxSkFoVjVXZUhNODRUZ3N5Nm0zM2NkMXZJNlBfYjRhZlFlRGRYX0FJR3Jxd3llblE1TGozSzRkbk8zdWNIVDJwN01SSTlzLVl5TW5rcjhPWTRhUdIBnAFBVV95cUxQbFg2MGFwVEY2ck1uU3VRQnZYMDhlNHJhSDNfVXBBOHJrVEgzQ2NESnF0TVlIdE11R25GWkdnWXQzODVqbnpWZk9tX042aU1IVkNVdThUbXlXVjdPVkVUeXdCV0FEbVQwdjRvMjloVi00NS1HZXdLTExfS0pmUGZKaVg0TWVlMGduaDczUDBDeTNsNURZeC1ybWNwWmQ?oc=5",
-      "source": "The Quint",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-05T09:28:07.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "567a88dfdbf3"
-    },
-    {
-      "title": "NA-MISS NAMIN KAYO, EXO 🥹 K-pop group EXO shared photos from the first night of the two-night Manila stop of their \"EXO PLANET #6 – EXhOrizon\" tour, held Saturday at the SM Mall of Asia Arena. For nearly three hours, Suho, Chanyeol, D.O., Kai and Se",
-      "summary": "NA-MISS NAMIN KAYO, EXO 🥹 K-pop group EXO shared photos from the first night of the two-night Manila stop of their \"EXO PLANET #6 – EXhOrizon\" tour, held Saturday at the SM Mall of Asia Arena. For nearly three hours, Suho, Chanyeol, D.O., Kai and Se &nbsp;&nbsp; facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdHJQWE5Kd0E5WE5Cc01wYmM2cWFpWFZaQmlaRGpZUElwR09BSlpZOGFwQVFLSTJJSFNpMTljbTVJdFh6NE1OUVJ6SE44eDlOaEs3X1piSTBIWVRZbnZBMVpTcWtkd0VJWE0wWE9vRVF5bGhFanpsRWg2bUUxeVVFMlhET3ZvT1VOOEJRcElRNVVpMERsV3F1MHJ3SmVyTVppR0JpUzZMVzdFa3dFYlJmWXdyM3ZlZHJJekNsV2Noel8tSDRpeGRPVEFDZS00S1d3blhpSkw0RQ?oc=5",
-      "source": "facebook.com",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-05T09:17:02.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "f23eff714b4e"
-    },
-    {
-      "title": "Brazil vs Norway: FIFA World Cup last 16 – Vinicius, Haaland and prediction",
-      "summary": "Norway are one of only three countries Brazil have faced at a World Cup without registering at least one victory.",
-      "url": "https://www.aljazeera.com/sports/2026/7/5/brazil-vs-norway-fifa-world-cup-last-16-vinicius-haaland-and-prediction?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-07-05T06:22:26.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "c67748b1a982"
-    },
-    {
-      "title": "Centre Lifts Emergency Gas Supply Curbs As LNG Imports From Middle East Return To Normal Levels",
-      "summary": "Centre Lifts Emergency Gas Supply Curbs As LNG Imports From Middle East Return To Normal Levels &nbsp;&nbsp; Times Now",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZmZDVkZiYU9VWk9hc1dkb1Z3YWJpVnZOZmQ1bHBLdGMwZEN0LXNhb2ROZzZiOHc3eDFiUVF5VGxKbmdrV3BQR0lkZ3RyU0p3NWtaQmxJeldkbklVVzEzQVhsVmJfcEhtOFVELWMwNHZRV2QzUzViam9GbUQ4SWpLbkplY0NwcDBVSlNJQ0kxdERKSmJSNVh3OGdzTFkwTkQyZjg5NmU0ajM0NmZVemtRdmZ1V2h6MUhQR2ptUklYVVBmS29TVFNhZUlIZjF4akZraklRcWNsNUc5MVlDZ2k00gHkAUFVX3lxTFBRN3h6aklhVzFzak1TbXUzU2NJY3A1VnpaT29fTzFJZXFpdWI0OGpJUXczNUQtSDRqQTNXMURzTmRQdTdfakdUU2M3QVpTSk12VVB5UmkxVHBkYVFYT0ZhRVR3cHdPLTZEY1pGQnpGa255VkVTNlQ4ZUV4RWRuWjcxZlJ1eUs4c211bTRSdmV6UHl3VGIzQWFyODZtS1RycHk3NUo0MWpISldZenlJYnlYdmxkWHd4SEI0RnJBeWotOUVnTHZLOE9RdXQ3UFNsNjE4dDhGa2c3TV84LU5ablg3dlZxeA?oc=5",
-      "source": "Times Now",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-05T06:01:20.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "ba6bea26973c"
-    },
-    {
-      "title": "Dominican Republic Government and Arajet deliver humanitarian medical aid to Venezuela",
-      "summary": "Dominican Republic Government and Arajet deliver humanitarian medical aid to Venezuela &nbsp;&nbsp; Breaking Travel News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLUtLRU1scVF5bTZSVEVIbXNRZVhURGlnaG1kUk5OSWluUkNBZzRxclRIZVl2SjRRby1pWHV1aExSaUZmdEtwSUdabEh1YWFnVzYxTHozWWNTenQ3YVNncV85bVFMbUVGUnByYlVDdTZkZ3J6QXJUTnQ1cG9jTXA3RzNrOF81dW9iSUpQSnc0VVZ6ZHh0NTdhUjNnUW1KellHb1dRTHdnNWtVd294bmVBLXZGc0h0bHRGSW5DeHlmRlJxdw?oc=5",
-      "source": "Breaking Travel News",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-07-05T05:49:14.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 70,
-      "id": "474956dff2b3"
-    },
-    {
-      "title": "Third day of Khamenei mourning begins with funeral prayers - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "Third day of Khamenei mourning begins with funeral prayers - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObm1lNndTQk9mT3R3bjlKbS1QTGoxbGc3QzdBRWFaZ0xlbmtCb3g4NV9jT1JjYktJaDVpcEg5RDlXRGNfeWZPSk5HYXZGWEdqYmRWbGpDQ0lGVm1CM3hlQ1RVaDBya0w4VFhHbktmQVd4dldQWHdnWEVrWTd5U1Y4NkJxcTBrc185bndGS3BIZDhJcndOSVRJ?oc=5",
-      "source": "شفق نيوز",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-05T05:43:49.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "c8a3762391da"
-    },
-    {
-      "title": "Coalition criticises Labor over electricity prices as Bowen rejects ‘hypocrisy’ – as it happened",
-      "summary": "This blog is now closed. Get our breaking news email , free app or daily news podcast The Australian Space Agency has confirmed that “suspected space debris” thought to contain hazardous chemicals has been located north of Townsville. Queensland police said four objects were located on Friday and Saturday in the Forrest beach area and 50-metre exclusion zone",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/05/australia-news-live-albanese-labor-nsw-h5-bird-flu-angus-taylor-liberal-coalition-pauline-hanson-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-05T03:15:21.000Z",
-      "image": "https://i.guim.co.uk/img/media/76466ceac29e62fd0690fdbfa9402fa33d82336d/254_0_5313_4252/master/5313.jpg?width=140&quality=85&auto=format&fit=max&s=19d35aeae6dde25fdda1bc113a908518",
-      "topic": "科技",
-      "score": 70,
-      "id": "fe29bb97fcda"
-    },
-    {
-      "title": "Severe weather disrupts US’s 250th celebrations",
-      "summary": "President Trump describes milestone as 'one of the most joyous and glorious' in US's history in campaign style speech.",
-      "url": "https://www.aljazeera.com/news/2026/7/5/severe-weather-disrupts-uss-250th-celebrations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-05T02:54:05.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 70,
-      "id": "b8bad129eadf"
-    },
-    {
-      "title": "Xenophobia: Two more Nigerians killed in South Africa - The Nation Newspaper",
-      "summary": "Xenophobia: Two more Nigerians killed in South Africa - The Nation Newspaper &nbsp;&nbsp; Head Topics",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPanJZclZHQzNGdC1CVEtXQUVsWDc3VnNVU0pCSUs3OUtqZ2lId0NaM2wyYjNDakJkaDZqTzhUSXAzUG1JZ1hwT2hGc212T1FlcHZmazZLVmVnU2VyMWlVYzBMRkhQVklzVjgyaW5HNVFVYVVTaWx4RC1IRkMzeFVDR3dfcnZOYnlkdzRWd3B5RG9nUFc4QzVTR2xSNDY?oc=5",
-      "source": "Head Topics",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-05T02:47:24.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "047b67d78ea1"
-    },
-    {
-      "title": "Lebanon’s Aoun: Offer another solution beyond Israel framework",
-      "summary": "Lebanon’s Aoun: Offer another solution beyond Israel framework &nbsp;&nbsp; شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNm9lUFB2RGwxaDM2bVBBbUd6eUFzX2wyRzBtTWhTTXdSUmR2UmE1a2tjZVpuTmhSMGZXZkZpWlBvdnhvT2pZRWs3MDNMVkdnb2lEOHdHQVlCOGJIWkFmWWZaLWxVdjJ5RWRIUDVEZEVSWjNFNDIyS1hlLUh5NHZaSjRlcXpJN2NsU3hnU2pxTGNoTGR5S29sZGpXaw?oc=5",
-      "source": "شفق نيوز",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-05T09:08:37.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "eecc8bac94ec"
-    },
-    {
-      "title": "F1 to decide before summer break on recovering Middle Eastern race",
-      "summary": "F1 to decide before summer break on recovering Middle Eastern race &nbsp;&nbsp; Motorsport.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVc3c2MwdHBUaFM3TkRzOWdhUk1BNW5TbzhpTlVSN05XM3JvS2FLQnZhM0lRZXUyUDJwVTdmQmZWRERULUlseXBFVTNwTXYxT2t0dk5GRkhDXzhuTnAzTmtEb2FFUjQ4dU9IVFUxOUZnTE45Z2FKZlNOXzBPTEtVVWF2Y2FLb0sxVVlNbHp5VHVuUHUya0J1elA0a3VWRi1Hd3ZzR1RMbFgwTmw1NllwWQ?oc=5",
-      "source": "Motorsport.com",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-05T08:47:47.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "554e0d950c39"
-    },
-    {
-      "title": "All Blacks survive France scare to give Rennie and Savea winning start for NZ",
-      "summary": "All Blacks survive France scare to give Rennie and Savea winning start for NZ &nbsp;&nbsp; Pacific Media Network",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pYk8zdEMyaG1vZnFVeWRqQS1ocE12R0h5M09PWlppWVRjbzNsakU0NEJuLUp2NzRzRGxYcTd3V0VTSkpJcVp2X0dpcGF2LXJtbThVM0dwNUFyUzJKN1VZYUgzMi0tX0h2QXF5OXhjTVBFZHVqYVc2a1RCYw?oc=5",
-      "source": "Pacific Media Network",
-      "feed": "Pacific News Network",
+      "title": "Europe’s human sacrifice to the weather gods",
+      "summary": "Europe’s human sacrifice to the weather gods &nbsp;&nbsp; Washington Examiner",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQckdjR3VnNjVnY1FqU01GSlFrZ0ZUSnBaLW5BOVliQlUwUGp0c1ZCSjNJWG9qcEZ3cVRhY1JTZER0bVlIOWFrQ2t5X0xHUy1MbktpMllxVWlRdWEzSWVKTXIxdXRSVHh0ZERhdkhlOGV2YktEeDVmdDVUbkhkZExNS2s3ajNEOF9OQnJEUk9udjJ0MS1xaUs1Ml9BU2kyeHBONW5iZllieTVLMEVYMmlJX05lRE9YRE9sdHNoTXREX2JaTTRqci1sUjExdnNRMk9xb2h5WF9iZGw?oc=5",
+      "source": "Washington Examiner",
+      "feed": "Europe News Network",
       "region": "欧洲",
-      "publishedAt": "2026-07-05T08:38:25.000Z",
+      "publishedAt": "2026-07-05T10:00:00.000Z",
       "image": "",
       "topic": "社会",
       "score": 69,
-      "id": "a20c09a29da8"
-    },
-    {
-      "title": "Yomiuri, Fuji defend execs’ roles on state security panel",
-      "summary": "Yomiuri, Fuji defend execs’ roles on state security panel &nbsp;&nbsp; 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZT0VpSHY0cFlySUd0a0pFbndzeHZUYzFPSGRYYVV6ZUY3N1lOTk1OdGhIVDlveXdLLWZ5SzVRWU1VVVA5d0h6S0FxUERVRnN6aDZZanowNmRKUUV3dkE?oc=5",
-      "source": "朝日新聞",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-05T08:31:34.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "93dd13fe0438"
-    },
-    {
-      "title": "India's outbound travel defies West Asia turmoil as Thailand, Australia, Singapore and US woo tourists",
-      "summary": "India's outbound travel defies West Asia turmoil as Thailand, Australia, Singapore and US woo tourists &nbsp;&nbsp; livemint.com",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOd3ljcVV6WnlmN2JBdnRwQW5vUkNmWUNqdGRKZUI2V3BRM3BLSS10OU5XUXpOZm9saDB3SkdLeDZBUmZoVl92YUxJREI3NllVWFc3b3JxRW8zS3drSlFXSUM2aUNYbm1weXhvcWQ3dlE0SmNydE5DWTgyWWRNbk5jSndkU2hMNjBvZEVJWVhMenNsUzl3SUw0RTZ0Z3VTWE5EdWJuOFJsbjNCU3NXTlpEVWowOHN5OEZkTmkzT2RoYmFsOHJITElLNldBOUJkUzRRUC1rdmtidkpmbk0tOVRZM09xRGlJNjNja016WlRLbUd4Um4yaHZXTDRxUTVYV0XSAf8BQVVfeXFMTnd5Y3FVelp5ZjdiQXZ0cEFub1JDZllDanRkSmVCNldwUTNwS0ktdDlOV1F6TmZvbGgwd0pHS3g2QVJmaFZfdmFMSURCNzZZVVhXN29ycUVvM0t3a0pRV0lDNmlDWG5tcHl4b3FkN3ZRNEpjcnROQ1k4MllkTW5OY0p3ZFNoTDYwb2RFSVlYTHpzbFM5d0lMNEU2dGd1U1hORHVibjhSbG4zQlNzV05aRFVqMDhzeThGZE5pM09kaGJhbDhySExJSzZXQTlCZFM0UVAta3ZrYnZKZm5NLTlUWTNPcURpSTYzY2tNelpUS21HeFJuMmh2V0w0cVE1WFdF?oc=5",
-      "source": "livemint.com",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-05T08:31:18.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 69,
-      "id": "49c385e868e5"
-    },
-    {
-      "title": "Native Americans Resisting ICE",
-      "summary": "A Native American lawyer confronts ICE as he channels generational resistance into a fight for justice in the US.",
-      "url": "https://www.aljazeera.com/video/witness/2026/7/5/native-americans-resisting-ice?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-07-05T06:02:12.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "f12ede52c890"
-    },
-    {
-      "title": "Ofsted drops ‘clumsy’ and ‘offensive’ guidance linking autism and extremism",
-      "summary": "Training document used to teach inspectors updated after campaign by celebrities including Chris Packham Ofsted, the body responsible for safeguarding in education in England, has dropped guidance for inspectors that linked autism and extremism after an outcry from celebrity campaigners. An education minister has disclosed that an updated training document “",
-      "url": "https://www.theguardian.com/education/2026/jul/05/ofsted-drops-autism-extremism-guidance",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-05T06:00:19.000Z",
-      "image": "https://i.guim.co.uk/img/media/17052718b449f24288dd7cdbaa8dd313d377cc62/538_0_5423_4338/master/5423.jpg?width=140&quality=85&auto=format&fit=max&s=0935e2c360dd6be7e7558181674d688e",
-      "topic": "政治",
-      "score": 69,
-      "id": "19303657d12d"
-    },
-    {
-      "title": "Chinese underground church figure Jin Mingri freed from prison",
-      "summary": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-07-05T05:58:21.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a119/live/d5d21d80-782b-11f1-b976-0b9c15b0ccfc.jpg",
-      "topic": "社会",
-      "score": 69,
-      "id": "9d3ab15dfc5e"
+      "id": "8985f3b30d21"
     }
   ]
 }
