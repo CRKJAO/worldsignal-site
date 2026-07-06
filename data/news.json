@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T21:03:33.951Z",
+  "updatedAt": "2026-07-06T22:40:40.621Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -8,7 +8,7 @@
   "items": [
     {
       "title": "Mourners throng funeral procession in Tehran for Ali Khamenei",
-      "summary": "The Islamic republic's supreme leader was killed in the first days of conflict between the United States, Israel and Iran.",
+      "summary": "The Islamic Republic's supreme leader was killed in the early days of conflict between the United States, Israel and Iran.",
       "url": "https://www.abc.net.au/news/2026-07-07/iran-al-ikhamenei-funeral-procession/106887000",
       "source": "ABC Australia",
       "feed": "ABC Australia",
@@ -16,7 +16,7 @@
       "publishedAt": "2026-07-06T20:35:18.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/50c0cf77b5693b2fc89654447308e6d1?impolicy=wcms_crop_resize&cropH=1434&cropW=2550&xPos=0&yPos=133&width=862&height=485",
       "topic": "社会",
-      "score": 96,
+      "score": 94,
       "id": "357114afc707"
     },
     {
@@ -29,21 +29,8 @@
       "publishedAt": "2026-07-06T21:02:37.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c163/live/a90f6680-791c-11f1-9510-1546718f668b.jpg",
       "topic": "政治",
-      "score": 94,
+      "score": 92,
       "id": "ead85749704b"
-    },
-    {
-      "title": "Wildfires rage across southern Europe, forcing thousands to flee homes",
-      "summary": "Tour de France spectator ban as country along with Spain, Portugal and Greece faces ‘powder keg’ after heatwave Europe live – latest updates Wildfires raging across southern Europe have forced thousands to flee their homes and prompted officials to ban spectators from a stage of the Tour de France, amid warnings of “powder keg” conditions after a record-brea",
-      "url": "https://www.theguardian.com/world/2026/jul/06/wildfires-southern-europe-evacuations-tour-de-france-portugal-spain-greece-heatwave",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-07-06T15:32:52.000Z",
-      "image": "https://i.guim.co.uk/img/media/f1af44395682889c834753284802322041382037/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ccce9a6286adb0e36df34175947bceef",
-      "topic": "气候",
-      "score": 94,
-      "id": "ee80bff6303f"
     },
     {
       "title": "Middle East crisis: Funeral procession for supreme leader Ali Khamenei begins in Iran – as it happened",
@@ -55,8 +42,47 @@
       "publishedAt": "2026-07-06T15:58:04.000Z",
       "image": "https://i.guim.co.uk/img/media/1f9581f0a6402e1827a05f15c4bd4167805c55e7/55_0_1881_1504/master/1881.jpg?width=140&quality=85&auto=format&fit=max&s=dab6268201b83eae150dd329d1b7a657",
       "topic": "政治",
-      "score": 91,
+      "score": 89,
       "id": "e7d25d1acb3b"
+    },
+    {
+      "title": "Melbourne police in standoff with graffiti artist perched above Pam the Bird tag on Bolte Bridge tower",
+      "summary": "Man on bridge refuses to come down after posting tax complaint on social media Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Police in Melbourne are stuck in a standoff with a man on top of a major inner-city bridge after a dangerous graffiti stunt. Emergency services were called to the Bo",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/07/melbourne-bolte-bridge-pam-the-bird-graffiti-police-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-06T22:24:29.000Z",
+      "image": "https://i.guim.co.uk/img/media/489257923a51f1fd4baf620393f503e35886782b/252_0_2097_1678/master/2097.jpg?width=140&quality=85&auto=format&fit=max&s=f1e2deb711921df88adc920b8ada7281",
+      "topic": "社会",
+      "score": 88,
+      "id": "a0eb8da28ad5"
+    },
+    {
+      "title": "Wildfires rage across southern Europe, forcing thousands to flee homes",
+      "summary": "Tour de France spectator ban as country along with Spain, Portugal and Greece faces ‘powder keg’ after heatwave Europe live – latest updates Wildfires raging across southern Europe have forced thousands to flee their homes and prompted officials to ban spectators from a stage of the Tour de France, amid warnings of “powder keg” conditions after a record-brea",
+      "url": "https://www.theguardian.com/world/2026/jul/06/wildfires-southern-europe-evacuations-tour-de-france-portugal-spain-greece-heatwave",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-07-06T15:32:52.000Z",
+      "image": "https://i.guim.co.uk/img/media/f1af44395682889c834753284802322041382037/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ccce9a6286adb0e36df34175947bceef",
+      "topic": "气候",
+      "score": 88,
+      "id": "ee80bff6303f"
+    },
+    {
+      "title": "Super Typhoon Bavi strikes US Pacific islands with pummeling winds",
+      "summary": "The storm lashed the Mariana Islands, hitting Rota and prompting emergency warnings on Guam.",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-06T16:44:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b57b/live/5de56ea0-7914-11f1-9510-1546718f668b.jpg",
+      "topic": "政治",
+      "score": 85,
+      "id": "8c2e4ecf91e6"
     },
     {
       "title": "Zelenskyy calls for ‘strong decisions’ at Nato summit as Russia kills 21 in overnight strikes on Kyiv – as it happened",
@@ -68,8 +94,47 @@
       "publishedAt": "2026-07-06T16:04:29.000Z",
       "image": "https://i.guim.co.uk/img/media/dda6b6ad43c3a9538c23cc5361ec5470592085dd/381_0_4166_3334/master/4166.jpg?width=140&quality=85&auto=format&fit=max&s=18c14b8c0ecc2d08094fd0fc56271341",
       "topic": "政治",
-      "score": 87,
+      "score": 85,
       "id": "71742e9d098a"
+    },
+    {
+      "title": "China tests long-range missile in South Pacific in move Australia condemns as ‘destabilising to region’",
+      "summary": "Launch comes just hours after Australia and Fiji sign defence agreement as expert says timing not a coincidence China has conducted a long-range missile test in the South Pacific just hours after Australia signed a defence agreement with Fiji, sparking condemnation from Canberra and regional leaders. The Australian foreign minister, Penny Wong, said the miss",
+      "url": "https://www.theguardian.com/world/2026/jul/06/china-missile-test-south-pacific",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-06T10:15:35.000Z",
+      "image": "https://i.guim.co.uk/img/media/fbc1020b66fdc8b6ae41024c02d573489bf5b47c/483_154_1226_981/master/1226.jpg?width=140&quality=85&auto=format&fit=max&s=e9747a64b25362ebf83b795b362ec826",
+      "topic": "政治",
+      "score": 85,
+      "id": "0302e541a5cb"
+    },
+    {
+      "title": "Democrats begin withdrawing endorsements of Graham Platner after Senate candidate is accused of sexual assault – live",
+      "summary": "Democrats call allegation against the Maine US Senate candidate ‘serious and credible’ and ‘troubling’; Democratic nominee to ‘reflect’ on ‘best path forward’ Woman accuses Maine Senate candidate Graham Platner of sexual assault Sign up for the Breaking News US email Cruz just thanked Donald Trump for “getting rid of that ridiculous red card” –&nbsp;apparent",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/06/donald-trump-democrats-michigan-mallory-mcmorrow-us-politics-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-06T22:22:51.000Z",
+      "image": "https://i.guim.co.uk/img/media/aa141a99030d322e668093e567b496f60873e57b/981_0_4532_3628/master/4532.jpg?width=140&quality=85&auto=format&fit=max&s=f508e3f223019a418d1341e594cfb2bf",
+      "topic": "政治",
+      "score": 84,
+      "id": "7749e3795f32"
+    },
+    {
+      "title": "Live: Wall Street closes at record as oil prices settle to pre-Iran war levels",
+      "summary": "Wall Street has closed at a record level as oil prices settle to where they were before the war in Iran. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "url": "https://www.abc.net.au/news/2026-07-07/asx-markets-business-live-news-jdate-year-july-7-2026/106887200",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "中东",
+      "publishedAt": "2026-07-06T21:42:57.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&cropH=530&cropW=942&xPos=0&yPos=14&width=862&height=485",
+      "topic": "经济",
+      "score": 84,
+      "id": "64d4898e55c2"
     },
     {
       "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
@@ -81,21 +146,21 @@
       "publishedAt": "2026-07-06T18:50:44.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ab4/live/9aa22f20-792f-11f1-b976-0b9c15b0ccfc.jpg",
       "topic": "政治",
-      "score": 86,
+      "score": 84,
       "id": "851bedd8fd00"
     },
     {
-      "title": "Graham Platner says his campaign will ‘reflect’ on ‘best path forward’ after former partner accuses him of sexual assault – live",
-      "summary": "Democratic candidate for US Senate in Maine denies allegations as some party voices begin calling for beleaguered nominee to step down Woman accuses Maine Senate candidate Graham Platner of sexual assault Sign up for the Breaking News US email Cruz just thanked Donald Trump for “getting rid of that ridiculous red card” –&nbsp;apparently in reference to Folar",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/06/donald-trump-democrats-michigan-mallory-mcmorrow-us-politics-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-06T20:41:48.000Z",
-      "image": "https://i.guim.co.uk/img/media/aa141a99030d322e668093e567b496f60873e57b/981_0_4532_3628/master/4532.jpg?width=140&quality=85&auto=format&fit=max&s=f508e3f223019a418d1341e594cfb2bf",
+      "title": "Macron arrives in Syria for talks ahead of NATO summit in Turkiye",
+      "summary": "The French president is the first leader from western Europe to visit Syria since the overthrow of Bashar al-Assad.",
+      "url": "https://www.aljazeera.com/news/2026/7/6/macron-arrives-in-syria-for-talks-ahead-of-nato-summit-in-turkiye?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-07-06T20:50:13.000Z",
+      "image": "",
       "topic": "政治",
-      "score": 84,
-      "id": "c0996bde83b9"
+      "score": 82,
+      "id": "67260464b185"
     },
     {
       "title": "Russia-Ukraine war escalates before NATO summit",
@@ -107,7 +172,7 @@
       "publishedAt": "2026-07-06T20:37:06.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
+      "score": 82,
       "id": "fa5b026a353f"
     },
     {
@@ -120,7 +185,7 @@
       "publishedAt": "2026-07-06T19:56:09.000Z",
       "image": "",
       "topic": "社会",
-      "score": 83,
+      "score": 81,
       "id": "1981ddc48d6a"
     },
     {
@@ -133,34 +198,21 @@
       "publishedAt": "2026-07-06T17:25:12.000Z",
       "image": "https://i.guim.co.uk/img/media/c41c2d079facdc57a78d3bd59f21cf1d409972fe/458_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=adcc734bd7a3913ce7832e68a293bfa7",
       "topic": "社会",
-      "score": 83,
+      "score": 81,
       "id": "ac2280a9d9f1"
     },
     {
-      "title": "Super Typhoon Bavi strikes US Pacific islands with pummeling winds",
-      "summary": "The storm lashed the Mariana Islands, hitting Rota and prompting emergency warnings on Guam.",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
+      "title": "Australia news live: Melbourne police in standoff with alleged graffiti artist perched on 120m tower of Bolte Bridge",
+      "summary": "Meanwhile Wong says China’s missile test in Pacific a ‘destabilising act’ that could ‘lead to miscalculation’. Follow today’s news live Get our breaking news email , free app or daily news podcast Marles says Australia has expressed concern over long-range missile test to China ‘directly’ Marles said he doubts China tested the long-range weapon yesterday in ",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/07/australia-news-live-penny-wong-china-missile-test-pacific-anthony-albanese-solomon-islands-defence-royal-commission-antisemitism-meta-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
       "region": "大洋洲",
-      "publishedAt": "2026-07-06T16:44:54.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b57b/live/5de56ea0-7914-11f1-9510-1546718f668b.jpg",
-      "topic": "政治",
-      "score": 83,
-      "id": "8c2e4ecf91e6"
-    },
-    {
-      "title": "Lebanon latest: Teacher killed by Israeli airstrike",
-      "summary": "Al Jazeera’s Heidi Pett brings you the latest from Lebanon, where Israeli strikes continue despite a ‘ceasefire’.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/lebanon-latest-teacher-killed-by-israeli-airstrike-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-06T16:10:09.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 83,
-      "id": "44191130a952"
+      "publishedAt": "2026-07-06T22:16:37.000Z",
+      "image": "https://i.guim.co.uk/img/media/269bc88c1fd7395e52a00ea1b141f56a1c160a19/925_590_2982_2387/master/2982.jpg?width=140&quality=85&auto=format&fit=max&s=2a4871370f1c8734cef57267b8bb8100",
+      "topic": "社会",
+      "score": 80,
+      "id": "521a0756f5d9"
     },
     {
       "title": "Trump confirms he asked Fifa to review Balogun ban",
@@ -172,7 +224,7 @@
       "publishedAt": "2026-07-06T19:06:34.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f002/live/3fd125b0-794d-11f1-9510-1546718f668b.jpg",
       "topic": "政治",
-      "score": 82,
+      "score": 80,
       "id": "3b26e47766f0"
     },
     {
@@ -185,8 +237,47 @@
       "publishedAt": "2026-07-06T19:00:18.000Z",
       "image": "https://i.guim.co.uk/img/media/edfeb35da745c692d066f60b16be0486230be906/8_0_3121_2498/master/3121.jpg?width=140&quality=85&auto=format&fit=max&s=9e6cee30ed34147d25e261c3c2b46f4a",
       "topic": "政治",
-      "score": 82,
+      "score": 80,
       "id": "c01efbf61157"
+    },
+    {
+      "title": "Morocco says it has dismantled ISIL-linked cell planning attack",
+      "summary": "Police arrest 10 suspects, seizing bladed weapons, military-style clothes and bomb‑making instructions.",
+      "url": "https://www.aljazeera.com/news/2026/7/6/morocco-says-it-has-dismantled-isil-linked-cell-planning-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-06T21:51:23.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "322cda1db3f9"
+    },
+    {
+      "title": "Starmer to rally European allies at Nato summit amid concerns over US stance",
+      "summary": "Outgoing PM will stress British commitment to defence spending at meeting in Ankara to counter Trump rebukes Keir Starmer will seek to work with European allies to shore up support for Nato at its summit in Ankara on Tuesday amid concerns that Donald Trump could further destabilise the military alliance with threats over defence spending. Downing Street said",
+      "url": "https://www.theguardian.com/world/2026/jul/06/keir-starmer-european-nato-us-ankara-summit",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-07-06T21:30:21.000Z",
+      "image": "https://i.guim.co.uk/img/media/e4a3f7978290f432b905e05cbbf2d3ca730d254c/130_0_4818_3854/master/4818.jpg?width=140&quality=85&auto=format&fit=max&s=259466acd4926dd61fb8f650aefd1aaa",
+      "topic": "政治",
+      "score": 79,
+      "id": "1feaab45fd5f"
+    },
+    {
+      "title": "Survivors and bodies still being pulled from rubble days after twin quakes",
+      "summary": "International aid teams have played a key part in Venezuela’s ‘miracle rescues’, days after twin earthquakes struck.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/survivors-and-bodies-still-being-pulled-from-rubble-days-after-twin-quakes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-07-06T21:11:07.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 79,
+      "id": "fc0a57a61343"
     },
     {
       "title": "Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election",
@@ -198,7 +289,7 @@
       "publishedAt": "2026-07-06T18:02:40.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 79,
       "id": "f2cc6ecbc53a"
     },
     {
@@ -211,7 +302,7 @@
       "publishedAt": "2026-07-06T17:55:57.000Z",
       "image": "https://i.guim.co.uk/img/media/9f8cd4a7ee33b2ab633ce2ce133da50bd0d04b4c/779_0_4569_3656/master/4569.jpg?width=140&quality=85&auto=format&fit=max&s=d2ea5f5e9a71863c759196956b143d54",
       "topic": "社会",
-      "score": 81,
+      "score": 79,
       "id": "f3e7b0b1efcb"
     },
     {
@@ -224,21 +315,47 @@
       "publishedAt": "2026-07-06T15:07:00.000Z",
       "image": "",
       "topic": "气候",
-      "score": 81,
+      "score": 79,
       "id": "ffdd005479a1"
     },
     {
-      "title": "Australia news live: Wong says China’s missile test in Pacific a ‘destabilising act’ that could ‘lead to miscalculation’",
-      "summary": "Foreign affairs minister says Australia made clear its displeasure at China’s long-range missile test and will keep doing so. Follow today’s news live Get our breaking news email , free app or daily news podcast Western Australia’s Labor premier has conceded his party will have a tough fight to retain a previously safe seat after a retiring MP triggered a by",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/07/australia-news-live-penny-wong-china-missile-test-pacific-anthony-albanese-solomon-islands-defence-royal-commission-antisemitism-meta-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
+      "title": "LIVE: USA vs Belgium – FIFA World Cup 2026 round of 16",
+      "summary": "Live coverage and text updates of USA against Belgium in last-16 game, overshadowed by Balogun suspension row.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/6/usa-belgium-live-fifa-world-cup-2026-round-of-16?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-06T20:46:34.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 78,
+      "id": "8805c0fc13eb"
+    },
+    {
+      "title": "Barbara Dreaver: China's missile test sends unmistakable Pacific message",
+      "summary": "Barbara Dreaver: China's missile test sends unmistakable Pacific message &nbsp;&nbsp; 1News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWE16eXFnRkc1QXVNUmhoTHBnMEVxT2FpTzFvS1BISjBrUFdfX00zbFFWZ1lUeS0yYjR5V091aE4xTGRkOVJCdFMyZnFWWkFFbXBDdWdqWGRvcUF0a1VldXFzZ0pzdFhJeVFXcHh4ZDdwcFFlYkg3b3ZZT0hONlBiaEZvRHgyVXp6TzZLanFrX1doNXNoMHlrVFhOZW5DQV8xRnVIQjVyTl9VZw?oc=5",
+      "source": "1News",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-06T18:05:51.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 78,
+      "id": "addfe00eebf1"
+    },
+    {
+      "title": "Pam the Bird graffiti vandal stuck up bridge in standoff with police",
+      "summary": "A trespasser remains attached to a 140- metre-high tower of the Bolte Bridge in Melbourne after spray-painting the surface with the notorious graffiti symbol.",
+      "url": "https://www.abc.net.au/news/2026-07-07/pam-the-bird-bolte-bridge-police/106887056",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
       "region": "大洋洲",
-      "publishedAt": "2026-07-06T20:48:26.000Z",
-      "image": "https://i.guim.co.uk/img/media/c1da849fb8d4e49f62c3aa8c66e32e441074f3a7/16_0_4747_3801/master/4747.jpg?width=140&quality=85&auto=format&fit=max&s=73f05531e2885ee59142ea7dac22355d",
-      "topic": "政治",
-      "score": 80,
-      "id": "e760c3852c57"
+      "publishedAt": "2026-07-06T20:16:00.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ea59929365f5c829d0b2f1abbdfc3b79?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 77,
+      "id": "3ae393f9c56e"
     },
     {
       "title": "What is the fallout of the increasing violence in Mali?",
@@ -250,21 +367,8 @@
       "publishedAt": "2026-07-06T20:11:31.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 77,
       "id": "0ac4f45912c4"
-    },
-    {
-      "title": "'Bad blood' between US and European allies as NATO summit begins",
-      "summary": "Dozens of world leaders are descending on Türkiye this week to rubber-stamp significant NATO commitments, but the sideline dynamics could prove more interesting to watch.",
-      "url": "https://www.abc.net.au/news/2026-07-07/bad-blood-between-us-and-european-allies-as-nato-summit-starts/106878792",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-07-06T20:01:43.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/7b95976515b5cb37b3f28dbabf5b3d6f?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 79,
-      "id": "d4cfe933272e"
     },
     {
       "title": "NATO urges members to deliver plans for reaching defence spending targets",
@@ -276,7 +380,7 @@
       "publishedAt": "2026-07-06T19:35:56.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "61f967bfc071"
     },
     {
@@ -289,7 +393,7 @@
       "publishedAt": "2026-07-06T19:33:33.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/a4cc41fe8f01556fd1e38e377138d34b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=286&width=862&height=485",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "a3dc53001a1b"
     },
     {
@@ -302,7 +406,7 @@
       "publishedAt": "2026-07-06T16:41:47.000Z",
       "image": "https://i.guim.co.uk/img/media/ac2227e977f1fe31de4cb26ab33a750970eb0e42/405_0_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=ed731c52fe6ac53bdf69866d6478d99a",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "c5168ab41450"
     },
     {
@@ -315,7 +419,7 @@
       "publishedAt": "2026-07-06T16:17:24.000Z",
       "image": "https://i.guim.co.uk/img/media/f03bc8ea0fbab9b3078672004802079413952888/855_0_6240_4993/master/6240.jpg?width=140&quality=85&auto=format&fit=max&s=4a22548a27e3c60ee49e6c2fa540f7ad",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "b33ad832703f"
     },
     {
@@ -328,8 +432,47 @@
       "publishedAt": "2026-07-06T16:06:23.000Z",
       "image": "https://i.guim.co.uk/img/media/6a223a63c087885695dc55935514deff7f22268a/1000_0_5000_4002/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ba58dfc94941f3f791a4e1a48c088c70",
       "topic": "社会",
-      "score": 79,
+      "score": 77,
       "id": "1d195aff9d5b"
+    },
+    {
+      "title": "Victorian town finally gets drinking water, but not everyone is happy",
+      "summary": "Victoria's largest town without drinking water finally gets a new potable supply, but it has left the community that has relied on tank water divided.",
+      "url": "https://www.abc.net.au/news/2026-07-07/victorian-town-gets-access-to-drinking-water/106881692",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-06T22:30:35.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4e0f33322dcc275de31e85a05050fa8e?impolicy=wcms_crop_resize&cropH=1125&cropW=2000&xPos=0&yPos=21&width=862&height=485",
+      "topic": "社会",
+      "score": 76,
+      "id": "5e8ee57a6f5c"
+    },
+    {
+      "title": "Eala channels Pacquiao as Filipino icon despite Wimbledon loss",
+      "summary": "For a nation like the Philippines, where sports stars are held on an even higher pedestal, Alexandra Eala is taking her place among the greats.",
+      "url": "https://www.abc.net.au/news/2026-07-07/alexandra-eala-loses-to-jasmine-paolini-at-wimbedon/106887224",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "亚洲",
+      "publishedAt": "2026-07-06T22:21:39.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/5d6b0b4bb85d0bb8a4a7857328a190b9?impolicy=wcms_crop_resize&cropH=2643&cropW=4699&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 76,
+      "id": "dc0028368699"
+    },
+    {
+      "title": "Late Spain goal eliminates Portugal, ends Ronaldo’s international career?",
+      "summary": "Sub Mikel Merino scores in stoppage time to give Spain a 1-0 win over Portugal in the last 16.",
+      "url": "https://www.aljazeera.com/sports/2026/7/6/late-spain-goal-eliminates-portugal-ends-ronaldos-international-career?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-07-06T22:20:29.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "06880ea7a746"
     },
     {
       "title": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
@@ -341,7 +484,7 @@
       "publishedAt": "2026-07-06T19:30:09.000Z",
       "image": "https://i.guim.co.uk/img/media/79fa1d2bff3f98bf33c1be74269065d0bbbfb006/350_0_4080_3264/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=b2621e16840bc404aee3ca3d6915ca7e",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "c8c3bb6da2d3"
     },
     {
@@ -354,7 +497,7 @@
       "publishedAt": "2026-07-06T19:29:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "5f0f45683e0f"
     },
     {
@@ -367,8 +510,151 @@
       "publishedAt": "2026-07-06T19:09:17.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "a3cb9296c867"
+    },
+    {
+      "title": "China says Pacific missile test was routine. Neighbors raise alarm - Straight Arrow News - SAN",
+      "summary": "China says Pacific missile test was routine. Neighbors raise alarm &nbsp;&nbsp; Straight Arrow News - SAN - Unbiased. Straight Facts.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYjZNS1VDQmx0OUVjNHhqZkhYaW1qVE9sd1N4WWFhcFdXcWlrZHlhWjVXejhiSFJIWHlNNlJIWm96akxmREc2U1ExVzl6R0NjOVR1WEVjSnhJS2pvUUQtT2c0b2U4UVprbmU4LUVmcWo0b0NxVHNJN1ZrUDRHZFV4ZDRkd2s4RUZydTE5OWdn?oc=5",
+      "source": "Unbiased. Straight Facts.",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-06T16:28:41.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "c4c429f7834b"
+    },
+    {
+      "title": "China says it test-fired strategic missile into Pacific Ocean",
+      "summary": "China says it test-fired strategic missile into Pacific Ocean &nbsp;&nbsp; Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS0lKVGJVVnZ2M2pYZ2xqU0t1OGM1US1TQ0M0bndXVUtxUlc2WldVMjZsOUxpMUQwOFlzR254aFNPeThSdGRjQ0JSVjdyZDYxX0loekUydUtnU1o4bnR6djNRWmpnOFlvdmdndnZhaEp4YmQ4Xy1PUm9aczg2YklQd2ZGYndqb3Q5VnhIVjBPSQ?oc=5",
+      "source": "Punch Newspapers",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-06T13:08:50.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "b60c800a5708"
+    },
+    {
+      "title": "Canada picks Germany’s TKMS for new submarines",
+      "summary": "The German-owned naval shipbuilder made the bid with NATO ally Norway, beating out South Korea's Hanwha Ocean.",
+      "url": "https://www.aljazeera.com/economy/2026/7/6/canada-picks-germanys-tkms-for-new-submarines?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-07-06T22:13:46.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "4c63de77009c"
+    },
+    {
+      "title": "USA fans, Mamdani, experts react to FIFA-Trump-Balogun red card controversy",
+      "summary": "USA supporters divided on Trump's intervention and FIFA's decision to suspend striker's ban in Belgium World Cup match.",
+      "url": "https://www.aljazeera.com/sports/2026/7/6/usa-fans-mamdani-experts-react-to-fifa-trump-balogun-red-card-controversy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-06T22:11:32.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "a16a3222a861"
+    },
+    {
+      "title": "Woman accuses Maine Senate candidate Graham Platner of sexual assault",
+      "summary": "Democratic candidate for Senate, who has faced series of scandals, denies allegation reported by Politico A woman has accused Graham Platner, the Democratic candidate for US Senate in Maine, of sexual assault, according to an exclusive report by Politico. Jenny Racicot, 41, dated Platner, an oyster farmer and former marine veteran, and she alleges he forced ",
+      "url": "https://www.theguardian.com/us-news/2026/jul/06/graham-platner-assault-allegation",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-06T22:09:39.000Z",
+      "image": "https://i.guim.co.uk/img/media/e37cde65a2c57fac6faa28e3967319a49e95b788/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=95dd628cf41f0d4d7b4c39a5b88ec30f",
+      "topic": "社会",
+      "score": 75,
+      "id": "03f5e8a4cfa2"
+    },
+    {
+      "title": "Why a Diljit Dosanjh film vanished from streaming after two days",
+      "summary": "The film's troubled journey spans years of censorship disputes, court battles and an unexpected release on a streaming platform.",
+      "url": "https://www.bbc.co.uk/news/articles/cly99z1w4gdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-07-06T22:06:29.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5716/live/e8afe800-7921-11f1-ad80-cd26c37678cb.jpg",
+      "topic": "政治",
+      "score": 75,
+      "id": "444a246380ca"
+    },
+    {
+      "title": "Can China repeat its EV success with robotaxis?",
+      "summary": "China's self-driving car firms have been given a headstart by the country's EV supply chain as they expand globally.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "亚洲",
+      "publishedAt": "2026-07-06T22:01:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2748/live/c12bff20-75c1-11f1-bbf6-e1d4fd18895b.jpg",
+      "topic": "科技",
+      "score": 75,
+      "id": "a1ed6ff6df49"
+    },
+    {
+      "title": "What Alcoa's looming alumina monopoly could mean for WA's jarrah forests",
+      "summary": "Alcoa's $8 billion purchase of South32 could be key to unlocking untouched areas of WA's northern jarrah forest for bauxite mining, raising the concern of environmentalists.",
+      "url": "https://www.abc.net.au/news/2026-07-07/alcoa-purchase-south32-refinery-unlocks-jarrah-forest-mining/106871002",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-06T22:01:04.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/49be6960de9207814e9ec56dcdf33456?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=273&width=862&height=485",
+      "topic": "气候",
+      "score": 75,
+      "id": "5711bc016f53"
+    },
+    {
+      "title": "One Phone Call, One Vanishing Red Card — The Balogun Scandal",
+      "summary": "Al Jazeera's Basel Ghazoghli (@baselgazi) breaks down how the White House helped Folarin Balogun stay in the World Cup.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/aje-onl-nf_the-balogun-scandal-060726?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-06T22:00:08.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "fa600ad006f9"
+    },
+    {
+      "title": "UK charity funding school at heart of illegal Israeli settlement expansion",
+      "summary": "Friends of Yeshivat Shavei Hevron sent nearly £200,000 to school in Hebron – where Israel has been accused of imposing apartheid – between 2019 and 2024 A British charity is funding a religious school at the heart of expansion plans for the illegal Israeli settlement in the Palestinian city of Hebron. Friends of Yeshivat Shavei Hevron sent nearly £200,000 to",
+      "url": "https://www.theguardian.com/world/2026/jul/06/british-charity-friends-of-yeshivat-shavei-illegal-settlement-hebron",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-07-06T21:37:11.000Z",
+      "image": "https://i.guim.co.uk/img/media/1dd31bdba0cd22f4fef18ae96cde7d115b614c85/0_0_2937_2350/master/2937.jpg?width=140&quality=85&auto=format&fit=max&s=99531859474bbfdf6fde19453541b90f",
+      "topic": "社会",
+      "score": 75,
+      "id": "81a842615f2b"
+    },
+    {
+      "title": "Influencers say they’re ‘honoured’ to attend Khamenei funeral",
+      "summary": "Several social media influencers travelled to Iran for the state funeral of Supreme Leader Ali Khamenei.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/influencers-say-theyre-honoured-to-attend-khamenei-funeral?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-07-06T21:29:37.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "af99fa6981a0"
     },
     {
       "title": "Donald Trump teaches crypto devotees a valuable lesson",
@@ -380,7 +666,7 @@
       "publishedAt": "2026-07-06T18:44:37.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/6e847d56f57c2a3ab5c7b616be2aa664?impolicy=wcms_crop_resize&cropH=1786&cropW=3176&xPos=0&yPos=166&width=862&height=485",
       "topic": "政治",
-      "score": 78,
+      "score": 75,
       "id": "82c6e5c90de4"
     },
     {
@@ -393,34 +679,8 @@
       "publishedAt": "2026-07-06T18:37:52.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 75,
       "id": "f66f06be9650"
-    },
-    {
-      "title": "ABC Places quiz: Where in the world are we?",
-      "summary": "Your challenge in today's ABC Places quiz is to work out the location of 10 photos from around the world. Be warned: we might try to trick you.",
-      "url": "https://www.abc.net.au/news/2026-07-07/abc-places-quiz-july-7/106879954",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-06T18:30:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/feb8ea918d2ce34bfdcd6913bea7f7e3?impolicy=wcms_crop_resize&cropH=1841&cropW=3272&xPos=0&yPos=170&width=862&height=485",
-      "topic": "政治",
-      "score": 77,
-      "id": "0ed1bddd3a2a"
-    },
-    {
-      "title": "Hamas Dissolves Gaza Governing Body In Step Toward Peace",
-      "summary": "Hamas Dissolves Gaza Governing Body In Step Toward Peace &nbsp;&nbsp; Eurasia Review",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcjF1OVJyTGptOFdzR1l3YjdhQWQ4VmdlaGlTSnc5ZEJPb1duVmlhd2hveTZwTmlLNjFYQWNfNHozTV9rRVdhb2lYNURlcWZEUUdoODkxMjNXWVg0Sk9zU0RUSTRsWC1DQTl0Um1Yb3hQekdkRkVpTEstbWxOekVrVDBKZ2w2aW9tU0RBVW5LRE1HXzZGT1BDQi1tSGs?oc=5",
-      "source": "Eurasia Review",
-      "feed": "Middle East News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-06T15:28:36.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 77,
-      "id": "24423fcb46a0"
     },
     {
       "title": "Higher-earning Australians flocking to 5% first home deposit scheme with some borrowers earning over $200,000",
@@ -432,7 +692,7 @@
       "publishedAt": "2026-07-06T15:00:15.000Z",
       "image": "https://i.guim.co.uk/img/media/7e4611bb64060170e069c900b82d92d77bf625b5/674_237_2619_2096/master/2619.jpg?width=140&quality=85&auto=format&fit=max&s=e205ea73cfba0851dbb2ab39832ed118",
       "topic": "政治",
-      "score": 77,
+      "score": 75,
       "id": "72b69af426df"
     },
     {
@@ -445,8 +705,47 @@
       "publishedAt": "2026-07-06T15:00:15.000Z",
       "image": "https://i.guim.co.uk/img/media/88212a6302045118a4298c2c7f8beb70b6ef57e0/1109_0_4363_3491/master/4363.jpg?width=140&quality=85&auto=format&fit=max&s=bd1c30c4d202244d997eae3bdf7a4efe",
       "topic": "社会",
-      "score": 77,
+      "score": 75,
       "id": "b06f1f456449"
+    },
+    {
+      "title": "'Incredibly vulnerable' industry becomes new target for scammers",
+      "summary": "Amidst a growing number of people taking up gig work to cope with high living costs, scammers are stealing the earnings of \"already struggling\" delivery drivers.",
+      "url": "https://www.abc.net.au/news/2026-07-07/australian-food-delivery-driver-targeted-in-phishing-scam/106803660",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-06T21:16:13.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/5dfda9cb82ff5b61df158114518a90aa?impolicy=wcms_crop_resize&cropH=2583&cropW=4592&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "6ada7e8050cb"
+    },
+    {
+      "title": "Live: Taiwan reports flight path of Chinese missile test that spanned Pacific",
+      "summary": "The nuclear-capable missile test, which China fired into the Pacific yesterday, appears to have landed near the exclusive economic zones of Pacific nations Nauru and Tuvalu. Follow live.",
+      "url": "https://www.abc.net.au/news/2026-07-07/federal-politics-live-blog-chinese-missile-test-july-7/106887106",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "亚洲",
+      "publishedAt": "2026-07-06T21:09:30.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/64e5a3962d8478b286413a9fe1f06ba7?impolicy=wcms_crop_resize&cropH=1053&cropW=1872&xPos=258&yPos=302&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "f1b1b627cbca"
+    },
+    {
+      "title": "Man with DV convictions cleared to work with children as church minister",
+      "summary": "The man's case is one of the last appeals filed in the NSW Civil and Administrative Tribunal before the law changed in September last year.",
+      "url": "https://www.abc.net.au/news/2026-07-07/nsw-man-convicted-of-dv-granted-working-with-children-check/106885084",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-06T21:01:12.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4017771b76d884192bfaa14735a5babb?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+      "topic": "政治",
+      "score": 74,
+      "id": "fec69cf045da"
     },
     {
       "title": "Alex de Minaur suffers another 'truly gut-wrenching' Wimbledon loss",
@@ -458,60 +757,47 @@
       "publishedAt": "2026-07-06T20:54:44.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7afe03dfaa738d0fa9be4f3cd515c547?impolicy=wcms_crop_resize&cropH=1918&cropW=3410&xPos=0&yPos=927&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "80594880a26a"
     },
     {
-      "title": "Woman accuses Maine Senate candidate Graham Platner of sexual assault",
-      "summary": "Democratic candidate for Senate, who has faced series of scandals, denies allegation reported by Politico A woman has accused Graham Platner, the Democratic candidate for US Senate in Maine, of sexual assault, according to an exclusive report by Politico. Jenny Racicot, 41, dated the oyster farmer former marine veteran and alleges he forced her to have sex d",
-      "url": "https://www.theguardian.com/us-news/2026/jul/06/graham-platner-assault-allegation",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-06T20:50:04.000Z",
-      "image": "https://i.guim.co.uk/img/media/e37cde65a2c57fac6faa28e3967319a49e95b788/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=95dd628cf41f0d4d7b4c39a5b88ec30f",
-      "topic": "社会",
-      "score": 76,
-      "id": "03f5e8a4cfa2"
-    },
-    {
-      "title": "USA vs Belgium LIVE: FIFA World Cup 2026 last 16",
-      "summary": "Live coverage and text-stream updates of USA against Belgium in last-16 game, overshadowed by Balogun suspension row.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/6/in-3-2-last-16-thriller?traffic_source=rss",
+      "title": "Mbappe, FFF hit back at Paraguayan senator Amarilla over racist tirade",
+      "summary": "Amarilla called Mbappe a 'colonised Cameroonian' after his penalty helped France knock Paraguay out of the World Cup.",
+      "url": "https://www.aljazeera.com/sports/2026/7/6/mbappe-fff-hit-back-at-paraguayan-senator-amarilla-over-racist-tirade?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-06T20:46:34.000Z",
+      "region": "欧洲",
+      "publishedAt": "2026-07-06T20:49:48.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
-      "id": "0586c7c0cfb2"
+      "score": 74,
+      "id": "464e53a32e18"
     },
     {
       "title": "Breaking: Atiku hosts EU ambassador at his residence",
-      "summary": "Breaking: Atiku hosts EU ambassador at his residence &nbsp;&nbsp; Legit.ng",
+      "summary": "Breaking: Atiku hosts EU ambassador at his residence &nbsp;&nbsp; legit.ng",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQWdDOWhyVU1nRWhEQmVnM1lLWXE0Rm1zdWJ4YlJBSi0yNlhvOUJhWlg2d2FwYkNiODVmWVBUTndPOUdJTHNuYl9KcWFDVWVRU2trZl9GQU1QV3pZRDhuRkNhbGRLcTJGZ3phSkx6cVJjaFQxRWxlaV9lUzV5REhneU94WmkyOGxlT205RERyaHNNZ044VkE?oc=5",
-      "source": "Legit.ng",
+      "source": "legit.ng",
       "feed": "Europe News Network",
       "region": "欧洲",
       "publishedAt": "2026-07-06T20:23:55.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
-      "id": "97bf8233f917"
+      "score": 74,
+      "id": "c0df29f0b41d"
     },
     {
-      "title": "Belgian football body challenges reversal of Balogun’s World Cup suspension",
-      "summary": "Trump says he asked FIFA's president to review USA player Balogun's game suspension, but did not tell him what to do.",
-      "url": "https://www.aljazeera.com/news/2026/7/6/belgian-football-body-challenges-reversal-of-baloguns-world-cup-suspension?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-06T17:51:30.000Z",
-      "image": "",
+      "title": "Macron first major western leader to visit Syria since fall of Assad",
+      "summary": "French president Emmanuel Macron has become the first major western leader to visit Syria since the ousting of Bashar al-Assad.",
+      "url": "https://news.sky.com/story/french-president-becomes-first-major-western-leader-to-visit-syria-since-fall-of-assad-13561090",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "中东",
+      "publishedAt": "2026-07-06T17:52:00.000Z",
+      "image": "https://e3.365dm.com/26/07/1920x1080/skynews-macron-syria-france_7291492.jpg?20260706202113",
       "topic": "政治",
-      "score": 76,
-      "id": "f7853a0c7d80"
+      "score": 74,
+      "id": "99bc341464ec"
     },
     {
       "title": "Typhoon Maysak kills two and forces thousands to evacuate in China",
@@ -523,21 +809,21 @@
       "publishedAt": "2026-07-06T17:50:08.000Z",
       "image": "https://i.guim.co.uk/img/media/1dee08ef98db9936c02d788de83d276436c0f355/125_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=ebe23c4607fe00db03cb2d5adfad462a",
       "topic": "气候",
-      "score": 76,
+      "score": 74,
       "id": "4b4db629f45b"
     },
     {
-      "title": "What makes this NATO summit high stakes?",
-      "summary": "Al Jazeera’s James Bays explains why NATO’s Ankara summit is high stakes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/what-makes-this-nato-summit-high-stakes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-06T17:41:31.000Z",
+      "title": "BREAKING: FIFA Overturns Balogun Ban After Trump Intervention",
+      "summary": "BREAKING: FIFA Overturns Balogun Ban After Trump Intervention &nbsp;&nbsp; Central News South Africa",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNUhSb0VsNFNNUi1BSGR0c054dGZzbkJ6U1hvbFVxSGY2N3pPbXhWZnNKbmZ5dm9fNWtHbGRVRDZ4TFBmWmpHVHdWdGtSUl8zQnBFckxrMDBDd3JFUzJYakliVV9JUUhGZEN4b3ZVTUhFNkpaV1JFdk10Z2FLdklrVnNOUDU1WVMybkNkNkVxX0U?oc=5",
+      "source": "Central News South Africa",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-06T17:20:03.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
-      "id": "b742a18691ed"
+      "score": 74,
+      "id": "894bf44de6e4"
     },
     {
       "title": "Keir Starmer intervened to oppose Fifa’s plan to move England kick-off time",
@@ -549,7 +835,7 @@
       "publishedAt": "2026-07-06T17:18:10.000Z",
       "image": "https://i.guim.co.uk/img/media/f62b2db02c2a3d79ff02acfce7b260eb06c00552/554_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=1bc36d9ddd7c919749e0ca8a56329924",
       "topic": "政治",
-      "score": 76,
+      "score": 74,
       "id": "39b308a803ad"
     },
     {
@@ -562,21 +848,8 @@
       "publishedAt": "2026-07-06T16:53:22.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 74,
       "id": "605380ae5660"
-    },
-    {
-      "title": "Trump says he asked FIFA to review US striker's World Cup red card",
-      "summary": "Football's European governing body blasts the decision to suspend a US striker's World Cup red-card ban, saying FIFA had \"crossed a red line\" after US President Donald Trump personally intervened in the case.",
-      "url": "https://www.abc.net.au/news/2026-07-07/world-cup-red-card-suspended-us-striker-balogun-condemned-uefa/106886512",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-07-06T14:03:01.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/8d317933a99c54c6daff1951e3ed39c1?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-      "topic": "政治",
-      "score": 76,
-      "id": "963644e61761"
     },
     {
       "title": "Huge crowds of mourners join a funeral procession for Iran's Ayatollah Ali Khamenei",
@@ -588,7 +861,7 @@
       "publishedAt": "2026-07-06T08:16:36.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "ab3588505bcb"
     },
     {
@@ -601,7 +874,7 @@
       "publishedAt": "2026-07-06T20:37:33.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "cd712e49216d"
     },
     {
@@ -614,24 +887,11 @@
       "publishedAt": "2026-07-06T20:33:30.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "b00b43c0736a"
     },
     {
-      "title": "Prosecutors in US lay out case against alleged killer of Charlie Kirk",
-      "summary": "Judge to decide whether there's enough evidence to bring Tyler Robinson to trial for conservative activist's killing.",
-      "url": "https://www.aljazeera.com/news/2026/7/6/prosecutors-in-us-lay-out-case-against-alleged-killer-of-charlie-kirk?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-06T20:19:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "bf96933701a6"
-    },
-    {
-      "title": "Queensland mental health services face funding 'shortfall'",
+      "title": "Longer wait times, fewer services: Health organisations' fears after Qld budget",
       "summary": "Queensland mental health community services receive funding from government departments based on an indexation rate.",
       "url": "https://www.abc.net.au/news/2026-07-07/qld-mental-health-community-organisations-ngo-indexation-rate/106875126",
       "source": "ABC Australia",
@@ -640,8 +900,8 @@
       "publishedAt": "2026-07-06T20:17:19.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/93d33423ea8cea04750aa6fcbf48495b?impolicy=wcms_crop_resize&cropH=788&cropW=1400&xPos=0&yPos=34&width=862&height=485",
       "topic": "政治",
-      "score": 75,
-      "id": "7659edf8aa04"
+      "score": 73,
+      "id": "91aea54a9c5e"
     },
     {
       "title": "The 'walking archive' helping First Nations people discover family history",
@@ -653,294 +913,34 @@
       "publishedAt": "2026-07-06T20:16:08.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/fd123de176a65cb0f0042a3be5a546d6?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "b542a71e6a27"
     },
     {
-      "title": "Pam the Bird graffiti vandal in stand-off with police on Melbourne bridge",
-      "summary": "A trespasser remains attached to a 140- metre-high tower of the Bolte Bridge in Melbourne after spray-painting the surface with the notorious graffiti symbol.",
-      "url": "https://www.abc.net.au/news/2026-07-07/pam-the-bird-bolte-bridge-police/106887056",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-06T20:16:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ea59929365f5c829d0b2f1abbdfc3b79?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "2cecbd4e415d"
-    },
-    {
-      "title": "Families told accused Bali bomber Hambali to face 202 life terms",
-      "summary": "US military prosecutors reveal new details about their case against the man accused of planning the 2002 Bali bombings, telling the loved ones of Australian victims his trial could finally begin next year.",
-      "url": "https://www.abc.net.au/news/2026-07-07/bali-bombing-hambali-trial-could-go-ahead-in-2027/106887028",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-06T20:14:17.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ad7e047b945850d289a2622db9e18914?impolicy=wcms_crop_resize&cropH=894&cropW=1590&xPos=0&yPos=168&width=862&height=485",
-      "topic": "政治",
-      "score": 75,
-      "id": "4b77ee2896ab"
-    },
-    {
-      "title": "US Supreme Court clears path for Texas to enforce app age verification law",
-      "summary": "Parents must approve app downloads for minors as legal fight over Texas age verification law continues.",
-      "url": "https://www.aljazeera.com/news/2026/7/6/us-supreme-court-clears-path-for-texas-to-enforce-app-age-verification-law?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-06T20:06:22.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "ef57da3636de"
-    },
-    {
-      "title": "Half of 'Croatian Six' may be innocent of alleged terror plot, inquiry finds",
-      "summary": "An inquiry has raised \"reasonable doubt\" over the guilt of three of six Croatian men jailed in 1981 over an alleged terrorist plot to bomb several Sydney buildings in 1979.",
-      "url": "https://www.abc.net.au/news/2026-07-07/three-of-croatian-six-may-be-innocent-inquiry-says/106886240",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-06T20:03:59.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/1f2138c55bb14c14d3e75216157424c7?impolicy=wcms_crop_resize&cropH=412&cropW=737&xPos=143&yPos=108&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "6ad1f6cf0806"
-    },
-    {
-      "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
-      "summary": "Two former Syrian officials went on trial in Vienna, Austria, accused of crimes against opponents of former Syrian leader Bashar al-Assad",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-07-06T17:22:38.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa16/live/efc9a000-7957-11f1-9988-0351319ba973.jpg",
-      "topic": "政治",
-      "score": 75,
-      "id": "35cddae5618a"
-    },
-    {
-      "title": "Ex-Syrian intelligence chief in Raqqa convicted of torture in Austria",
-      "summary": "Khaled al-Halabi denied involvement, but the court deemed him responsible for abuse of detainees in Raqqa.",
-      "url": "https://www.aljazeera.com/news/2026/7/6/ex-syrian-intelligence-chief-in-raqqa-convicted-of-torture-in-austria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-06T16:54:42.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "882da21cc05b"
-    },
-    {
-      "title": "'It's a very sad day' - Mexican fans react to loss to England",
-      "summary": "Mexico's World Cup campaign ended with a 3-2 defeat to England in Mexico City.",
-      "url": "https://www.bbc.co.uk/news/videos/cn5999n95epo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "美洲",
-      "publishedAt": "2026-07-06T16:43:51.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77e0/live/32c60570-7957-11f1-b976-0b9c15b0ccfc.jpg",
-      "topic": "社会",
-      "score": 75,
-      "id": "5d562d1b9eb8"
-    },
-    {
-      "title": "RBE (Burger King and Popeyes) returns to profits in 2025 and marks a historic sales record",
-      "summary": "RBE (Burger King and Popeyes) returns to profits in 2025 and marks a historic sales record &nbsp;&nbsp; Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWN2czM0NTQ4T2E5N3dMMlRPY0Q2U1daVmZKRHlES1ViZUpPRTdlLTM1M256Y3BfNU1uM09qTE9IWXB5TzhWYXdvY0hhbDE3SlVOc0NzZUttVFN6VGJ0RXhfc3hYczRUYnlyQndsTHRfS2pGUnZzY2pTeVpHM3hLSU9sTmZCWlVpR1lpM0lwUjd0WkRPaVg1ZXhJaTh3TDFFYUMzQ2I3VnNSQzNsNGc3YUtrdEVTcVJwd3J6WnBTR0NhUS1mU1otNNIByAFBVV95cUxNdWN2czM0NTQ4T2E5N3dMMlRPY0Q2U1daVmZKRHlES1ViZUpPRTdlLTM1M256Y3BfNU1uM09qTE9IWXB5TzhWYXdvY0hhbDE3SlVOc0NzZUttVFN6VGJ0RXhfc3hYczRUYnlyQndsTHRfS2pGUnZzY2pTeVpHM3hLSU9sTmZCWlVpR1lpM0lwUjd0WkRPaVg1ZXhJaTh3TDFFYUMzQ2I3VnNSQzNsNGc3YUtrdEVTcVJwd3J6WnBTR0NhUS1mU1otNA?oc=5",
-      "source": "Demócrata",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-06T16:12:35.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "a6a1a7237e95"
-    },
-    {
-      "title": "Lebanon: School principal among four killed in Israeli strike - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "Lebanon: School principal among four killed in Israeli strike - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNjVIZDYyVGhpcmJmTmZHVnhobXFSOV96SUdneklaRTZPcF9yb09zMEhxNFFaWHY0WS0yTVBsWF9UN0VFbUxTaV9mS0NoWVhHMXpCQm1adVFia19oSjlyV2lkS3NJcmNxOGYta25wQ0k5V2xqWWZPNVAxYTEtSzZyYWZjYlBJZEhSem43LWNJYzdOenlDNUtZTmNhckRhNW8?oc=5",
-      "source": "شفق نيوز",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-06T13:34:29.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "5dd257b54fe3"
-    },
-    {
-      "title": "Record-Breaking Heatwave Fuels Wildfires Across Europe",
-      "summary": "Record-Breaking Heatwave Fuels Wildfires Across Europe &nbsp;&nbsp; news.sbs.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93UXVuVUtFc2pISG1KamdxUWFxV09EbUJPbUtzaUxnNzVxaXN3bzJKSjdleXJ6YzR3Vk40aUVwQ3pGU2ZxeFFoeEowVnhfdTY1SUxOamFpbng4V0dqd2R2RjY3dTBMQdIBZkFVX3lxTE93UXVuVUtFc2pISG1KamdxUWFxV09EbUJPbUtzaUxnNzVxaXN3bzJKSjdleXJ6YzR3Vk40aUVwQ3pGU2ZxeFFoeEowVnhfdTY1SUxOamFpbng4V0dqd2R2RjY3dTBMQQ?oc=5",
-      "source": "news.sbs.co.kr",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-06T03:34:00.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 75,
-      "id": "8a70f2a5f255"
-    },
-    {
-      "title": "Cooktops in high demand as West Asia war alters household habits",
-      "summary": "Cooktops in high demand as West Asia war alters household habits &nbsp;&nbsp; The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMVlxdUMzcHNBY1VTdzZ1S1JXRHliLWl6bVVJVV9LT1dVcGhNRTQ5N3JvLUFRdlJlMWRSM3ZrT1BXNi1IUjNfa25pOU82MDBJZkR6Z29sbndaVHFCU1NnVmpscE16dkNkTzFUdWhSWEduNXlHTlRXY3haMExkeUpXLXN3aTJhN3QtNjFsVGg1X0N0ZXJSZENaVWM0dXdhNjQzaDdqR1JUNk90c2dCbEZsUXRBQU9KZmFFWE1CaGtCeVZ1MjBwb2dUZDJVNnViZThGRHB3SXZ6MDBJTXpXdTl1XzZicV_SAeoBQVVfeXFMTXNpZzZoY2VXWFoxbnlsd0VpNTM2WHk1enFwNU9YSXNxeGRUd2lSMEdXVlhyVFZ4UV9lWVJMVjRwb1lfYWJ6S2FRWW1KZ1lOU1drZ05aM0UtSGtOdURtbUZtcWNhdnhwdmhVMzJYUHpVRURHU1czNUUzLWcwUTFiRTVaeFlKcmJUZTVRejRtN3IyeU5SZjIxY1E4Q2E5U0JGY19nZUo1S29SSGMzNHNyV2x5d0dMeHNicGFuNEdLTHJSNzUxLVVlZTRUbG1CcU1ONXdseU1LbmU1cjE0a25mLS1EODdTMjVKUzFn?oc=5",
-      "source": "The Economic Times",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-06T19:32:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "7d91fdf566e9"
-    },
-    {
-      "title": "Sudden venue closures a 'big blow' but not unexpected, industry experts say",
-      "summary": "There are questions around the future of Hobart's nightlife after the abrupt closure of some of the capital city's most loved institutions due to challenging trading conditions.",
-      "url": "https://www.abc.net.au/news/2026-07-07/hobart-hospitality-impacts-amid-pub-banc-venue-closures/106883668",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-06T19:30:37.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/54e45fe3c3169b85a153c3b4bbf6db4e?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "e6b6d6438641"
-    },
-    {
-      "title": "Crisp mornings forecast for southern Qld as temperatures dip",
-      "summary": "As Queenslanders brace for cooler temperatures this week, farmers on the Granite Belt are welcoming single digits to ensure their crops are thriving come harvest time.",
-      "url": "https://www.abc.net.au/news/2026-07-07/cold-mornings-forecast-for-southern-queensland/106885960",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-06T19:26:42.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6dbb60d495f75eb88d7e022eba4fbc2b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "5fe5cda78fab"
-    },
-    {
-      "title": "Man behind a bold CBD plan may have been running insolvent companies",
-      "summary": "The Tasmanian government and a local council welcomed a bold plan to transform Launceston’s CBD from a man who may have been running insolvent companies at the time, an investigation shows.",
-      "url": "https://www.abc.net.au/news/2026-07-07/tas-how-chris-billing-plan-for-launceston-cbd-went-awry/106870012",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-06T19:23:53.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/5e1989dfedc93ededfb428cddebd902d?impolicy=wcms_crop_resize&cropH=1607&cropW=2857&xPos=87&yPos=393&width=862&height=485",
-      "topic": "政治",
-      "score": 74,
-      "id": "762007d30d8d"
-    },
-    {
-      "title": "Germany cracks down on 'extraordinary' rate of sick leave",
-      "summary": "Chucking a sickie is no longer as easy as a quick phone call in Germany, under new laws hoped to boost productivity. Here's how the world is responding.",
-      "url": "https://www.abc.net.au/news/2026-07-07/new-sick-leave-rules-germany-workplace/106883298",
+      "title": "Trump and the European leaders he berated to come face-to-face in Türkiye",
+      "summary": "Dozens of world leaders are descending on Türkiye this week to rubber-stamp significant NATO commitments, but the dynamics on the sidelines could prove more interesting to watch.",
+      "url": "https://www.abc.net.au/news/2026-07-07/bad-blood-between-us-and-european-allies-as-nato-summit-starts/106878792",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "欧洲",
-      "publishedAt": "2026-07-06T19:03:09.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/b48d4fff672d6a6274ca8c629a206fac?impolicy=wcms_crop_resize&cropH=360&cropW=640&xPos=0&yPos=0&width=862&height=485",
+      "publishedAt": "2026-07-06T20:01:43.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7b95976515b5cb37b3f28dbabf5b3d6f?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
       "score": 73,
-      "id": "d367a8c7ef63"
+      "id": "d946c447a441"
     },
     {
-      "title": "Ebola death toll in DR Congo surpasses 500",
-      "summary": "Nation’s 17th Ebola epidemic is fuelled by the Bundibugyo virus, with no existing vaccine or approved treatment options.",
-      "url": "https://www.aljazeera.com/news/2026/7/6/ebola-death-toll-in-dr-congo-surpasses-500?traffic_source=rss",
+      "title": "Breaking News, World News and Video from Al Jazeera",
+      "summary": "Breaking News, World News and Video from Al Jazeera &nbsp;&nbsp; Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTnRKOWMxRGpkbHE5OEJLc1pwckNSQXZscFNZRHdhNDBpeDE4b0diVGZjWE83aU9SdkZjbmFHbGxLV29IV29VNkdTOUNiY1RsZm1rY2RTYmtSeEZUdk1uVnBnQU5GRzR1VHNQV2JjVnNDSHlCeEV5Q3lEMEFwNVhjeDNDTjdDQlk?oc=5",
       "source": "Al Jazeera",
-      "feed": "Al Jazeera",
+      "feed": "Africa News Network",
       "region": "非洲",
-      "publishedAt": "2026-07-06T18:41:33.000Z",
+      "publishedAt": "2026-07-06T19:38:52.000Z",
       "image": "",
       "topic": "社会",
       "score": 73,
-      "id": "17dd41827a2a"
-    },
-    {
-      "title": "Iran reappoints a familiar face to powerful post during Khamenei funeral",
-      "summary": "The judiciary chief has emphasised the need to avenge Supreme Leader Ali Khamenei and prosecute foreign 'aggressors'.",
-      "url": "https://www.aljazeera.com/news/2026/7/6/iran-reappoints-a-familiar-face-to-powerful-post-during-khamenei-funeral?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-06T18:28:38.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "b5a939bc716f"
-    },
-    {
-      "title": "Live: Spain scores at the death to leave Portugal on the brink",
-      "summary": "Portugal takes on Spain in a clash between two Iberian neighbours in Dallas, Texas, after Cristiano Ronaldo confirms this will be his last World Cup. Follow live.",
-      "url": "https://www.abc.net.au/news/2026-07-07/world-cup-live-blog-portugal-vs-spain-usa-vs-belgium/106885332",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-07-06T18:17:47.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/a248a4811d7127cac0ca4f434c38ff89?impolicy=wcms_crop_resize&cropH=2806&cropW=4989&xPos=0&yPos=78&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "a2acec0bc9b5"
-    },
-    {
-      "title": "Thousands flee raging wild fires in southern Europe",
-      "summary": "Thousands flee raging wild fires in southern Europe &nbsp;&nbsp; Hürriyet Daily News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSS1zbWF2YkxTLUtXUkdnU2UyODVYYzAzUlRwY01USTF4cEFVLU5XM0xVOFlnb3B4cjVUbFlsazdWZWZyRG40eVNXVXNoWVpZUW9iSF9lTkRMS2FBM2xCaUlnSi1HU00zVUVrd0ZhaHNrU3VPdE4teHlBWUk4VzJaRXE1TWhOY1c4aVYzZ1lmbmpmQ1oyUWRj?oc=5",
-      "source": "Hürriyet Daily News",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-06T08:50:47.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "0f3204b46368"
-    },
-    {
-      "title": "Hamas Impeding Post-war Gaza Governance Plan, Rejecting Key Disarmament Terms",
-      "summary": "Hamas Impeding Post-war Gaza Governance Plan, Rejecting Key Disarmament Terms &nbsp;&nbsp; i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUVJxV2Eyd09reDVYcjJrb0tYRDh6VEtqaTdRQzh3Vmp1TG5oUFh4VVF1ZWE4WXpmaU53d0swcXktcmhvNDlUNXpyc1NZcnBSV1pSWjNlYy01dFRFdG9fYWhIZ0xqLUEtRlRQVjl1QjFSOXJrams3YjdxTkNHdmotSTRtSkRzdlNRTjlPOEQ1cjdWY3N4NVBWS2VpWUh4LWU0anRGWlRVNVpRRV9yWjlMQ0hIVjF4eUdfOGE2SThSb3JJWDNtVHpiVnFocGh0dENQNExhZlZqNlRSakpOZ1BfbktR?oc=5",
-      "source": "i24NEWS",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-06T17:49:29.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "60c53ba53d7d"
-    },
-    {
-      "title": "Rigoberta Menchú Warns Guatemala Justice Turns Peace Into Impunity Again",
-      "summary": "Rigoberta Menchú Warns Guatemala Justice Turns Peace Into Impunity Again &nbsp;&nbsp; LatinAmerican Post",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcmFSTkh5NDVwV1VyRG1qdzVTYjI0NnViRTNiMVk5RkFFaDVIWkNRdWZlck90UzdHRnRXNFRuNFRiZV80cnFHU2VtejBvdjJla0lzRVl2aE5ybUxJbWJjZXdHTFJjVUo4aUJBMGJWYzZraVRWZl94WDM0VV9kUWRwTmQ0Q0ljS25idnJVb3NNalZWckszWGVLZVlGaWNYdjExUnlGWUxqQlhuajloNWFJSml3?oc=5",
-      "source": "LatinAmerican Post",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-07-06T17:37:37.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "dc137213bec2"
-    },
-    {
-      "title": "Anissa Helou's new book of Lebanese recipes spotlights villages scarred by war",
-      "summary": "Anissa Helou's new book of Lebanese recipes spotlights villages scarred by war &nbsp;&nbsp; Haaretz",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQTVidnFzVXRSbWZjVjhxTjZJR2IzMzdXRGlZRVQwWWlNOTdhZ25iOWxRZHBBTzRBQWp3bFdwVmhqOUphZTZnYUF2cU9ncmtXUVhsZ01iUnNER245SFV6LUp3dEVEYklhY0NyVGpmYTFXTWh2eFFZeF9nWHFKX0kwcS1MVHJmaTBlaUZtZUVpTUtfbzlsdnphSDBSeHJENG8wUkdwRS1SRFJOcW95T01NRUlBdmpXc1NFUXlrZTQyNDZEeG9XUzZIV1M0ek50Z2tSeXAyQ194dnFXSE1kNnR1bFhEMnZuazhmeW5xM0xrMV9jS0NzLUNZOVpuNlB4RW1DN1N4MGxNeGViSnVOWlE?oc=5",
-      "source": "Haaretz",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-06T17:26:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "02c089b85289"
+      "id": "411320377c59"
     }
   ]
 }
