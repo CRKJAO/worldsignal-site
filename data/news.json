@@ -1,11 +1,24 @@
 {
-  "updatedAt": "2026-07-07T22:33:09.908Z",
+  "updatedAt": "2026-07-08T00:14:56.807Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+      "summary": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
+      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-07-07T23:53:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg",
+      "topic": "政治",
+      "score": 100,
+      "id": "73d701b6f889"
+    },
     {
       "title": "US launches ​strikes against Iran after attacks on vessels in strait ​of ​Hormuz",
       "summary": "US Central Command says Tehran in ‘clear violation’ of ceasefire with ‘unwarranted’ ​attacks on commercial ships Middle East crisis – latest updates The US military launched ⁠a ⁠series of “powerful” ​strikes against Iran, it announced on Tuesday night, in response to what ‌it said were “unwarranted, dangerous” Iranian ​attacks on three commercial vessels in ",
@@ -20,17 +33,17 @@
       "id": "7426760c4231"
     },
     {
-      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-      "summary": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
+      "title": "Iran war live: US bombs Sirik, Qeshm, Bandar Abbas over Hormuz attacks",
+      "summary": "Explosions in Iran's Sirik, Bandar Abbas and Qeshm as US launches attacks after revoking waivers on Iranian oil exports.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/8/iran-war-live-us-bombs-sirik-qeshm-bandar-abbas-over-hormuz-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
       "region": "中东",
-      "publishedAt": "2026-07-07T22:19:40.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg",
-      "topic": "科技",
-      "score": 96,
-      "id": "73d701b6f889"
+      "publishedAt": "2026-07-08T00:00:00.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 89,
+      "id": "59cda5a16840"
     },
     {
       "title": "Le Pen says she will appeal against conviction and run for French presidency – Europe live as it happened",
@@ -42,21 +55,21 @@
       "publishedAt": "2026-07-07T20:04:04.000Z",
       "image": "https://i.guim.co.uk/img/media/2ac7d6f4c5a403ad7eb6d0f46f7283080678a8da/574_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c197e52bad3884a045fbc01aeb6bb07f",
       "topic": "政治",
-      "score": 90,
+      "score": 88,
       "id": "d401868dea16"
     },
     {
-      "title": "Missile test sees China turn into part-time 'enemy of one' in the Pacific",
-      "summary": "This week, perhaps for the first time in a long time, some sections of the Pacific are signalling a slight adjustment to their relationship with China.",
-      "url": "https://www.abc.net.au/news/2026-07-08/china-missile-test-pacific-solomons-australia/106889058",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "亚洲",
-      "publishedAt": "2026-07-07T20:01:50.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/1d9834aef446c7787396b02eabb4367a?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "社会",
-      "score": 89,
-      "id": "da0e3afce571"
+      "title": "What happened in the opening day of the NATO summit in Ankara, Turkey",
+      "summary": "NATO arrived in Ankara with a message of unity, but President Trump's renewed attacks on European allies have once again laid bare the tensions challenging the alliance's future.",
+      "url": "https://www.npr.org/2026/07/07/nx-s1-5884718/what-happened-in-the-opening-day-of-the-nato-summit-in-ankara-turkey",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "欧洲",
+      "publishedAt": "2026-07-07T22:45:44.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 87,
+      "id": "4398b8f84427"
     },
     {
       "title": "Why is Marine Le Pen running for French presidency after court confirmed conviction?",
@@ -68,7 +81,7 @@
       "publishedAt": "2026-07-07T19:13:37.000Z",
       "image": "https://i.guim.co.uk/img/media/f0d16bdd16c2c55f038b0c37ab8fb91c049dae2b/0_0_5294_4235/master/5294.jpg?width=140&quality=85&auto=format&fit=max&s=5b52440946af0aa984589f3854f6e515",
       "topic": "政治",
-      "score": 89,
+      "score": 87,
       "id": "655d2aea99ea"
     },
     {
@@ -81,7 +94,7 @@
       "publishedAt": "2026-07-07T21:49:17.000Z",
       "image": "https://i.guim.co.uk/img/media/acc7e78f60cb85f1ca09da10c114f6c7647d69c1/0_137_3639_2910/master/3639.jpg?width=140&quality=85&auto=format&fit=max&s=da2425e9673b0e4cb93ce882605ea1a7",
       "topic": "政治",
-      "score": 88,
+      "score": 86,
       "id": "d12e719d5bf7"
     },
     {
@@ -94,8 +107,21 @@
       "publishedAt": "2026-07-07T18:03:56.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f66/live/d7ca4fd0-79f3-11f1-907e-1db4355f6fc4.jpg",
       "topic": "政治",
-      "score": 87,
+      "score": 85,
       "id": "cce832964b36"
+    },
+    {
+      "title": "Australia news live: Telstra says 90% of mobile network back online after major outages affect trains, Eftpos and triple-zero calls",
+      "summary": "Acting communications minister warns ‘large number of mobile calls and connections’ affected. Follow today’s news live Get our breaking news email , free app or daily news podcast Telstra outage reported to be cause of Victoria train stoppage There is a long list of cancelled trains on the official V/line site, but the TL/DR is that Victoria’s regional train",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-07T23:54:02.000Z",
+      "image": "https://i.guim.co.uk/img/media/863de2e0c7a30564992f72b96a8567c94aaf6fab/974_0_5842_4674/master/5842.jpg?width=140&quality=85&auto=format&fit=max&s=e47136c41b645d6dd9edd8865c559ef3",
+      "topic": "政治",
+      "score": 84,
+      "id": "863d32c4f75f"
     },
     {
       "title": "Watch: Marine Le Pen confirms run for French presidency",
@@ -107,7 +133,7 @@
       "publishedAt": "2026-07-07T20:21:11.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b984/live/df536310-7a37-11f1-b976-0b9c15b0ccfc.jpg",
       "topic": "社会",
-      "score": 85,
+      "score": 83,
       "id": "00259494cdb9"
     },
     {
@@ -120,7 +146,7 @@
       "publishedAt": "2026-07-07T19:55:59.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98f2/live/e43e2690-7a40-11f1-bc29-738b6960c215.jpg",
       "topic": "政治",
-      "score": 85,
+      "score": 83,
       "id": "9d2e8209afd2"
     },
     {
@@ -133,7 +159,7 @@
       "publishedAt": "2026-07-07T21:59:57.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/b46ef7ba423f4cbd92326131879ea127?impolicy=wcms_crop_resize&cropH=2700&cropW=4800&xPos=0&yPos=250&width=862&height=485",
       "topic": "经济",
-      "score": 84,
+      "score": 82,
       "id": "600045405cf9"
     },
     {
@@ -146,7 +172,7 @@
       "publishedAt": "2026-07-07T21:55:50.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/6753ff62e25835423425ad565f46687a?impolicy=wcms_crop_resize&cropH=1170&cropW=2080&xPos=19&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 84,
+      "score": 82,
       "id": "c3ec380084ac"
     },
     {
@@ -159,7 +185,7 @@
       "publishedAt": "2026-07-07T21:21:16.000Z",
       "image": "",
       "topic": "科技",
-      "score": 83,
+      "score": 81,
       "id": "4fd4916766d6"
     },
     {
@@ -172,21 +198,8 @@
       "publishedAt": "2026-07-07T20:58:28.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 81,
       "id": "f15ddcbd9298"
-    },
-    {
-      "title": "Seventeen dead, 900 snakes set loose as storms lash China",
-      "summary": "China's president calls for \"all out\" rescue efforts after storms kill at least 17 people and force the evacuation of tens of thousands.",
-      "url": "https://www.abc.net.au/news/2026-07-08/17-dead-hundreds-injured-in-china-storms/106890858",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "亚洲",
-      "publishedAt": "2026-07-07T20:43:28.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/8711f2c44a46d684159d834e55980553?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "政治",
-      "score": 83,
-      "id": "88775732c5cd"
     },
     {
       "title": "French far-right leader Le Pen says will run in 2027 presidential election",
@@ -198,8 +211,73 @@
       "publishedAt": "2026-07-07T18:17:13.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 81,
       "id": "5f894fd50cc4"
+    },
+    {
+      "title": "Prosecutors say video shows suspect in Charlie Kirk killing climbing on to roof",
+      "summary": "Utah county attorney’s office says evidence against Tyler James Robinson is sufficient for case to move to trial Sign up for the Breaking News US newsletter email Utah prosecutors showed video footage on Tuesday allegedly depicting Tyler James Robinson entering the campus of Utah Valley University on the day of Charlie Kirk’s killing and climbing on to a roo",
+      "url": "https://www.theguardian.com/us-news/2026/jul/07/charlie-kirk-muder-tyler-james-robinson-utah-hearing",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-07T23:50:24.000Z",
+      "image": "https://i.guim.co.uk/img/media/071dd1ad6bc21b5002fc2579ac3c030f75c4cd13/428_180_2104_1683/master/2104.jpg?width=140&quality=85&auto=format&fit=max&s=424b33f195c2014ff54ea376979c376e",
+      "topic": "社会",
+      "score": 80,
+      "id": "45c65dfb8178"
+    },
+    {
+      "title": "Arizona toddler declared dead after near-drowning was alive for hours in ‘cold room’, records say",
+      "summary": "Officers say they saw signs of life multiple times, and after hospital treated the child, he was taken to hospital’s morgue A toddler who was declared dead after being discovered in a backyard pool in February was actually alive and found hours later in a room that serves as the hospital morgue, recently released police records show. Two Gilbert police offic",
+      "url": "https://www.theguardian.com/us-news/2026/jul/07/phoenix-toddler-alive-hospital",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-07T23:45:06.000Z",
+      "image": "https://i.guim.co.uk/img/media/829fe1b3e57e730fcb56ae112660d6b01f2c8ee9/422_0_4216_3373/master/4216.jpg?width=140&quality=85&auto=format&fit=max&s=78d3eda0a0233a6e91eb19f4787aa837",
+      "topic": "社会",
+      "score": 80,
+      "id": "956ee7e0b217"
+    },
+    {
+      "title": "Pressure mounts on Graham Platner to drop out of Maine Senate race as new allegation emerges – live",
+      "summary": "Democrats could replace Platner on the ballot if he ends his campaign by 13 July; woman accuses him of removing condom without consent, Washington Post reports How could Democrats replace Graham Platner? Sign up for the Breaking News US email Donald Trump said he had a “very good talk” withVladimir Putin, ahead of arriving in Turkey. This comes amid a wave o",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/07/graham-platner-democrats-senate-maine-trump-nato-us-politics-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-07T23:45:06.000Z",
+      "image": "https://i.guim.co.uk/img/media/6341476a1ddff2ca4d39cf17f022661033987b23/685_0_4165_3331/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=872f9812b2801250c3b22e8588c21928",
+      "topic": "社会",
+      "score": 80,
+      "id": "46fccd51a797"
+    },
+    {
+      "title": "Manhattan building sparks evacuations after two structural columns buckle",
+      "summary": "Officials also find multiple cracks and sagging floors in building that is being converted into apartments A high-rise building in Manhattan was deemed unstable on Tuesday after authorities determined that support columns buckled, spurring evacuation of nearby buildings, according to officials and reports. Officials said they also found “structural issues” o",
+      "url": "https://www.theguardian.com/us-news/2026/jul/07/manhattan-building-columns-buckle-evacuations",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-07T23:40:48.000Z",
+      "image": "https://i.guim.co.uk/img/media/30d4075b697ec4096db4f120c5441396ccfc8d1f/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=26c1a937d8ec96c398ce37ddbbd755ed",
+      "topic": "社会",
+      "score": 80,
+      "id": "803e3b69dd3a"
+    },
+    {
+      "title": "Seventeen dead, 900 snakes set loose as storms lash China",
+      "summary": "China's president calls for \"all out\" rescue efforts after storms kill at least 17 people and force the evacuation of tens of thousands.",
+      "url": "https://www.abc.net.au/news/2026-07-08/17-dead-hundreds-injured-in-china-storms/106890858",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "亚洲",
+      "publishedAt": "2026-07-07T20:43:28.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/8711f2c44a46d684159d834e55980553?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
+      "topic": "政治",
+      "score": 80,
+      "id": "88775732c5cd"
     },
     {
       "title": "Netanyahu warns Trump against F-35 deal with Türkiye",
@@ -211,7 +289,7 @@
       "publishedAt": "2026-07-07T20:42:13.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/12050a94dc765d6adbde8faf55f1d730?impolicy=wcms_crop_resize&cropH=834&cropW=1482&xPos=0&yPos=74&width=862&height=485",
       "topic": "政治",
-      "score": 82,
+      "score": 80,
       "id": "bcf17cfc725e"
     },
     {
@@ -224,21 +302,21 @@
       "publishedAt": "2026-07-07T20:08:40.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 80,
       "id": "54d06e90a2db"
     },
     {
-      "title": "Ghana defers Ramaphosa’s visit over anti-migrant attacks in South Africa",
-      "summary": "Ghana defers Ramaphosa’s visit over anti-migrant attacks in South Africa &nbsp;&nbsp; nigerianeye.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdmFZc3UwRm1ZajI5NDJQNUNXY3RQM2Rzb09UVnNka0FWYXBmNjFfenFvRmEtVFlqWmphQlBYTEo4M05ua0Y5YURrQW12ZThkTGlsOG9qVmZIMHp0T3ZaVV8yTDBlSmdkTDZtdGJrM0RuR3NqeEFDOHNlYzg2VzhNYmd5bVVteEU?oc=5",
-      "source": "nigerianeye.com",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-07T17:16:34.000Z",
+      "title": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
+      "summary": "The attacks have triggered fires in two districts of Kyiv, according to the city's mayor.",
+      "url": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-07-07T22:53:35.000Z",
       "image": "",
       "topic": "社会",
-      "score": 82,
-      "id": "6fbfafc087e9"
+      "score": 79,
+      "id": "b46163655d9b"
     },
     {
       "title": "Marine Le Pen to run for presidency and appeal against conviction in France’s highest court",
@@ -250,38 +328,25 @@
       "publishedAt": "2026-07-07T20:05:46.000Z",
       "image": "https://i.guim.co.uk/img/media/b9b644695f6e423140647a11786f16af2f7b6e9c/161_0_3557_2845/master/3557.jpg?width=140&quality=85&auto=format&fit=max&s=579156defed06ecf11f2451b5e37339b",
       "topic": "政治",
-      "score": 81,
+      "score": 79,
       "id": "e383bfde11f7"
     },
     {
-      "title": "Switzerland vs Colombia LIVE: FIFA World Cup 2026 round of 16",
-      "summary": "Live coverage and text updates from our commentary stream as Switzerland play Colombia in round of 16 knockout stage.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/7/live-switzerland-vs-colombia-fifa-world-cup-2026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-07-07T17:00:26.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 81,
-      "id": "9aad8d4462fd"
-    },
-    {
-      "title": "Ghana halts visit by South African president amid row over anti-migrant protests",
-      "summary": "Many in Ghana feared his presence would lead to mass protests, and officials say it is postponed for now.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "非洲",
-      "publishedAt": "2026-07-07T16:25:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d75c/live/3607f150-7a18-11f1-b976-0b9c15b0ccfc.jpg",
-      "topic": "政治",
-      "score": 81,
-      "id": "df1a13c18c65"
+      "title": "Major outage hits Telstra mobile network as thousands report they can’t make calls or access internet",
+      "summary": "Carrier confirms ‘an issue’ as network used by millions goes down for many users, shutting down regional trains and affecting triple-zero calls Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Telstra customers have been unable to make calls or access data on their mobiles on the country’s la",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/08/telstra-outage-down-network-mobile-outages-today",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-07T22:29:11.000Z",
+      "image": "https://i.guim.co.uk/img/media/d76beb53304c8227ae79a79b388251568fa9b104/1252_0_5723_4580/master/5723.jpg?width=140&quality=85&auto=format&fit=max&s=327df6ba5b0daa5ebb2ac6af35dc3e50",
+      "topic": "科技",
+      "score": 78,
+      "id": "e3895c103889"
     },
     {
       "title": "'Perversion of justice': Politicians launch bid to investigate FIFA boss",
-      "summary": "A group of European politicians launch a bid to begin an investigation into how and why a red card for an American football star was overturned at the World Cup.",
+      "summary": "A group of European politicians launches a bid to begin an investigation into how and why a red card for an American football star was overturned at the World Cup.",
       "url": "https://www.abc.net.au/news/2026-07-08/world-cup-2026-eu-politicans-launch-infantino-investigation/106891368",
       "source": "ABC Australia",
       "feed": "ABC Australia",
@@ -289,60 +354,8 @@
       "publishedAt": "2026-07-07T22:19:21.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/aa21733ec2b7ee5e916ac880695a17b9?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=126&width=862&height=485",
       "topic": "科技",
-      "score": 80,
+      "score": 78,
       "id": "885bcc55c235"
-    },
-    {
-      "title": "Australia news live: major outage hits Telstra mobile network and shuts down Victoria’s regional trains",
-      "summary": "Meanwhile leaders from Tonga, Samoa and Papua New Guinea to join Albanese at State of Origin decider. Follow today’s news live Get our breaking news email , free app or daily news podcast There is a long list of cancelled trains on the official V/line site, but the TL/DR is that Victoria’s regional train network has ground to a halt. If you’re wondering whet",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-07T22:18:41.000Z",
-      "image": "https://i.guim.co.uk/img/media/c7567d86bfa73f76ffe8ea94599bbec6ee242452/629_0_6293_5035/master/6293.jpg?width=140&quality=85&auto=format&fit=max&s=7f461dfe492ec4f18689da876f766b64",
-      "topic": "社会",
-      "score": 80,
-      "id": "5c7a29d9997c"
-    },
-    {
-      "title": "Breaking: Djokovic wins five-hour Wimbledon epic to set up Sinner blockbuster",
-      "summary": "Tennis legend Novak Djokovic sets up a Wimbledon semifinal blockbuster against Jannik Sinner after a five-hour epic.",
-      "url": "https://www.abc.net.au/news/2026-07-08/wimbledon-2026-novak-djokovic-wins-epic-over-canadian/106891408",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-07T22:14:56.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6a47be939cf6a6b6d7ce2d1b8ceaf5e6?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=337&width=862&height=485",
-      "topic": "社会",
-      "score": 80,
-      "id": "05c7530b6015"
-    },
-    {
-      "title": "Manhattan building sparks evacuations after two structural columns buckle",
-      "summary": "Officials also find multiple cracks and sagging floors in building that is being converted into apartments A high-rise building in Manhattan was deemed unstable on Tuesday after authorities determined that support columns buckled, spurring evacuation of nearby buildings, according to officials and reports. The former Pfizer pharmaceutical building, which is ",
-      "url": "https://www.theguardian.com/us-news/2026/jul/07/manhattan-building-columns-buckle-evacuations",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-07T22:13:38.000Z",
-      "image": "https://i.guim.co.uk/img/media/30d4075b697ec4096db4f120c5441396ccfc8d1f/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=26c1a937d8ec96c398ce37ddbbd755ed",
-      "topic": "社会",
-      "score": 80,
-      "id": "803e3b69dd3a"
-    },
-    {
-      "title": "Pressure mounts on Graham Platner to drop out of Maine Senate race as new allegation emerges – live",
-      "summary": "Democrats could replace Platner on the ballot if he ends his campaign by 13 July; woman accuses him of removing condom without consent, Washington Post reports How could Democrats replace Graham Platner? Sign up for the Breaking News US email Donald Trump said he had a “very good talk” withVladimir Putin, ahead of arriving in Turkey. This comes amid a wave o",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/07/graham-platner-democrats-senate-maine-trump-nato-us-politics-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-07T22:05:09.000Z",
-      "image": "https://i.guim.co.uk/img/media/6341476a1ddff2ca4d39cf17f022661033987b23/685_0_4165_3331/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=872f9812b2801250c3b22e8588c21928",
-      "topic": "社会",
-      "score": 80,
-      "id": "46fccd51a797"
     },
     {
       "title": "100+ Economists, Scholars Demand End to Sanctions on Venezuela After Catastrophic Earthquakes",
@@ -354,47 +367,21 @@
       "publishedAt": "2026-07-07T21:48:28.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "faf8729f3028"
     },
     {
       "title": "Iran war: US military launches fresh strikes",
-      "summary": "Iran war: US military launches fresh strikes &nbsp;&nbsp; DW",
+      "summary": "Iran war: US military launches fresh strikes &nbsp;&nbsp; DW.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOejkzQ1NPb0VmX1VWMWdXLTYyeDV1TkFIOXRleVdnU3RWLWd3c1R4STNRR191UzJta2xWNXBnTUxsMHozeE44eThYeVRWY1FwRko4b3l1R0lVOGZPN0hTZFV6UWxJWWlpODNxcWVnRmxkY0dOdzN3UWR5RW1fT2FlaHdXaFhYdw?oc=5",
-      "source": "DW",
+      "source": "DW.com",
       "feed": "Middle East News Network",
       "region": "中东",
       "publishedAt": "2026-07-07T21:32:17.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
-      "id": "b558a71a139b"
-    },
-    {
-      "title": "Ghana Declines Ramaphosa’s State Visit Amid Xenophobic Attacks On Its Citizens In South Africa",
-      "summary": "Ghana Declines Ramaphosa’s State Visit Amid Xenophobic Attacks On Its Citizens In South Africa &nbsp;&nbsp; Head Topics",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQczRqTmt2aHNuQWhPUmZZR0VrS2lrOVhZWGVhZG4xa0hOQWE1OFpjd0FsZXh5bElHNTJ2WlVTeUpSeFczTHk3TmpxSFJBTVF6N3YxRXVYM1MyQVRaa0c0eExFVzlVY3pWR0tWNTk0cjc2eVE3ZVlvNVh2clFFdzRaZ1lJLXlRelFNYVZvdklRakpfaER0bEhoQWJR?oc=5",
-      "source": "Head Topics",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-07T21:37:26.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 79,
-      "id": "3c9bc14c4d89"
-    },
-    {
-      "title": "Prosecutors say video shows suspect in Charlie Kirk killing climbing on to roof",
-      "summary": "Utah county attorney’s office says evidence against Tyler James Robinson is sufficient for case to move to trial Sign up for the Breaking News US newsletter email Utah prosecutors on Tuesday showed video from the day of Charlie Kirk’s killing that they said depicted suspect Tyler James Robinson entering the Utah Valley University campus and climbing on to a ",
-      "url": "https://www.theguardian.com/us-news/2026/jul/07/charlie-kirk-muder-tyler-james-robinson-utah-hearing",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-07T21:24:30.000Z",
-      "image": "https://i.guim.co.uk/img/media/071dd1ad6bc21b5002fc2579ac3c030f75c4cd13/428_180_2104_1683/master/2104.jpg?width=140&quality=85&auto=format&fit=max&s=424b33f195c2014ff54ea376979c376e",
-      "topic": "社会",
-      "score": 79,
-      "id": "45c65dfb8178"
+      "score": 77,
+      "id": "3ebb2dc1e455"
     },
     {
       "title": "Breaking News: U.S. Military Launches Powerful Airstrikes Against Iran",
@@ -406,7 +393,7 @@
       "publishedAt": "2026-07-07T21:20:23.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "56293cfba8f6"
     },
     {
@@ -419,8 +406,34 @@
       "publishedAt": "2026-07-07T17:58:48.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59ce/live/2103aa00-79f6-11f1-bee8-53ce494e1abc.jpg",
       "topic": "社会",
-      "score": 79,
+      "score": 77,
       "id": "33d41eac21be"
+    },
+    {
+      "title": "Australia and Solomon Islands condemn China missile test in Pacific",
+      "summary": "Australia and Solomon Islands condemn China missile test in Pacific &nbsp;&nbsp; AnewZ",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX19FOUFqOXJjemc0blB6R09lVzJhZjBoenAxVjIxckU1a243NGF3MkNIVDVKbFFqN1UxQTNTU095X0hvY0RlVlpUOWtzUFl3NDktcWJWZm9UUmdBTGtMR19FeVhIaWtXcDQtQjJxalZmNDRnbDFVZWh1OXVXdy16Q1ZpOFlwZHRLbS1FZkNMNXcwOE9GWWd3Mk4xYXFWX0FPS3pr?oc=5",
+      "source": "AnewZ",
+      "feed": "Pacific News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-07T15:49:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 77,
+      "id": "9a25ecbef374"
+    },
+    {
+      "title": "Australian house prices are falling but have still more than doubled over the past decade",
+      "summary": "The average dwelling price in Australia has risen to more than 17 years of a typical household’s disposable income Want to get more charts in your inbox every fortnight? Sign up for The Crunch here House prices dropped across several Australian capital cities in recent months, with major banks predicting falls of 2 - 3 % by the end of the year. But after a d",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/08/australia-house-prices-falling-still-doubled-over-decade-one-big-chart",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-08T00:00:14.000Z",
+      "image": "https://i.guim.co.uk/img/media/ed0bfef296617ea122eed386583865c767686707/209_0_1125_900/master/1125.jpg?width=140&quality=85&auto=format&fit=max&s=f3fb6a12251d8394beb5fb3cd2f5d804",
+      "topic": "经济",
+      "score": 76,
+      "id": "704fb111e548"
     },
     {
       "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
@@ -432,21 +445,8 @@
       "publishedAt": "2026-07-07T20:30:06.000Z",
       "image": "",
       "topic": "气候",
-      "score": 78,
+      "score": 76,
       "id": "a0fe5b0763d1"
-    },
-    {
-      "title": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings",
-      "summary": "Lawsuit claims OpenAI ignored calls to alert authorities about violent ChatGPT prompts tied to mass shooting suspect.",
-      "url": "https://www.aljazeera.com/news/2026/7/7/canadian-province-sues-openai-over-alleged-chatgpt-linked-shooting-warnings?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-07T20:14:53.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 78,
-      "id": "23503f5f17c4"
     },
     {
       "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
@@ -458,8 +458,34 @@
       "publishedAt": "2026-07-07T17:23:21.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "8c2928f42022"
+    },
+    {
+      "title": "Switzerland face Argentina in World Cup quarterfinal after beating Colombia",
+      "summary": "Switzerland beat Colombia on penalties in World Cup last 16 to set up quarterfinal meeting with Argentina.",
+      "url": "https://www.aljazeera.com/sports/2026/7/7/switzerland-face-argentina-in-world-cup-quarterfinal-after-beating-colombia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-07-07T23:08:26.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "065a30d9665c"
+    },
+    {
+      "title": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings",
+      "summary": "Lawsuit claims OpenAI ignored calls to alert authorities about violent ChatGPT prompts tied to mass shooting suspect.",
+      "url": "https://www.aljazeera.com/news/2026/7/7/canadian-province-sues-openai-over-alleged-chatgpt-linked-shooting-warnings?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-07T20:14:53.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "23503f5f17c4"
     },
     {
       "title": "IOC moves to allow more Russian athletes back into the Olympic games",
@@ -471,7 +497,7 @@
       "publishedAt": "2026-07-07T20:07:51.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 75,
       "id": "21e4258b1ea9"
     },
     {
@@ -484,8 +510,21 @@
       "publishedAt": "2026-07-07T19:55:37.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 75,
       "id": "7c811e2b5e49"
+    },
+    {
+      "title": "Ghana halts visit by South African president amid row over anti-migrant protests",
+      "summary": "Many in Ghana feared his presence would lead to mass protests, and officials say it is postponed for now.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "非洲",
+      "publishedAt": "2026-07-07T16:25:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d75c/live/3607f150-7a18-11f1-b976-0b9c15b0ccfc.jpg",
+      "topic": "政治",
+      "score": 75,
+      "id": "df1a13c18c65"
     },
     {
       "title": "Bernie Sanders calls on Graham Platner to withdraw from Senate race amid sexual assault claims",
@@ -494,11 +533,89 @@
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "全球",
-      "publishedAt": "2026-07-07T22:18:11.000Z",
+      "publishedAt": "2026-07-07T23:01:41.000Z",
       "image": "https://i.guim.co.uk/img/media/a48adf97ef6160bf8142106ba4817ba9c38abe9c/206_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=277e58796059d5831f7bf6519d36ad87",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "3d008b8ef185"
+    },
+    {
+      "title": "Which? finds 150 potentially lethal baby products sold online",
+      "summary": "UK consumer group says lives are at risk because platforms fail to prevent dangerous items reaching customers Babies are being put at risk by dozens of potentially lethal infant products sold to UK parents on major online marketplaces, an investigation has found. The consumer champion Which? identified 150 products, including self-feeding prop feeders that p",
+      "url": "https://www.theguardian.com/society/2026/jul/08/lethal-baby-products-sold-online-which-dangerous-lives-risk",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-07T23:01:13.000Z",
+      "image": "https://i.guim.co.uk/img/media/1ac3d3b6e54c85128cb9527a8b3bc69af0a85c8a/659_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=8d2467df68c6eb9e3eafedd800b864d1",
+      "topic": "经济",
+      "score": 74,
+      "id": "746bfb17e7b1"
+    },
+    {
+      "title": "WA schools say changes to bus services threaten their future",
+      "summary": "The principal of an independent school in regional WA says changes to student travel subsidies could ultimately lead to the institution's demise.",
+      "url": "https://www.abc.net.au/news/2026-07-08/school-bus-changes-regional-wa/106883972",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-07T22:59:41.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/e64270635b5d0a151ccb16a9bd22490d?impolicy=wcms_crop_resize&cropH=500&cropW=888&xPos=22&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "113622bb9bea"
+    },
+    {
+      "title": "Japan's Middle East Crude Oil Supply Set to Recover as Supertankers Exit Strait of Hormuz",
+      "summary": "Japan's Middle East Crude Oil Supply Set to Recover as Supertankers Exit Strait of Hormuz &nbsp;&nbsp; Head Topics",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjVZcWxUUWd5VlljTUlxYW9vcnBHU3FGNktpcExJbEh6LUZWRmZrNGhXSUdBNktaeWxUNjNQaTZILThKRGZSUFNmZjJLZHljMDd1YkNCOWp5dWNUR3RuOGdndXgzQksxOVh0OVlOZnQyem5rUTNJSkhEcmFEaFkya1Ywcjllb3ZZR1ZadmVkRzl3Y3dZWVk5MzlB?oc=5",
+      "source": "Head Topics",
+      "feed": "Middle East News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-07T22:52:28.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 74,
+      "id": "dc75069bac8b"
+    },
+    {
+      "title": "Egypt buoyed by praise for World Cup heroics despite controversial exit",
+      "summary": "From fans in Gaza to world leaders and supporters on social media, Egypt won hearts, even if they lost to Argentina.",
+      "url": "https://www.aljazeera.com/sports/2026/7/7/egypt-buoyed-by-praise-for-world-cup-heroics-despite-controversial-exit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-07-07T22:46:10.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "a97f22a6f28e"
+    },
+    {
+      "title": "Toddler waits seven hours for stitches during patient surge",
+      "summary": "A Central Victorian mother says she waited seven hours at Bendigo Health for her toddler to be treated for a head wound.",
+      "url": "https://www.abc.net.au/news/2026-07-08/bendigo-health-code-yellow-emergency-toddler-stitches/106887372",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-07T22:30:53.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/751509579bec166293c4f7e754100ac5?impolicy=wcms_crop_resize&cropH=675&cropW=1200&xPos=0&yPos=298&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "2931171979f7"
+    },
+    {
+      "title": "Djokovic wins five-hour Wimbledon epic to set up Sinner blockbuster",
+      "summary": "Tennis legend Novak Djokovic sets up a Wimbledon semifinal blockbuster against Jannik Sinner after a five-hour epic.",
+      "url": "https://www.abc.net.au/news/2026-07-08/wimbledon-2026-novak-djokovic-wins-epic-over-canadian/106891408",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-07T22:14:56.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/6a47be939cf6a6b6d7ce2d1b8ceaf5e6?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=337&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "cd3f87fc02d7"
     },
     {
       "title": "Labour, Tories and Lib Dems refuse to stand in byelection with Farage’s resignation labelled ‘desperate stunt’ – as it happened",
@@ -510,7 +627,7 @@
       "publishedAt": "2026-07-07T19:23:14.000Z",
       "image": "https://i.guim.co.uk/img/media/8fa6ef0fec8ab0784aaa7c3712d4a18c042f01c8/534_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4e381df9b03afe63c1a60ab71aebcfa0",
       "topic": "政治",
-      "score": 76,
+      "score": 74,
       "id": "37ddd0e47ea0"
     },
     {
@@ -523,7 +640,7 @@
       "publishedAt": "2026-07-07T19:16:05.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 74,
       "id": "43883d71a1cd"
     },
     {
@@ -536,7 +653,7 @@
       "publishedAt": "2026-07-07T18:56:19.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fce/live/b4660930-7a34-11f1-ab76-d75965dea4d1.jpg",
       "topic": "政治",
-      "score": 76,
+      "score": 74,
       "id": "0ccc191b0661"
     },
     {
@@ -549,7 +666,7 @@
       "publishedAt": "2026-07-07T18:42:05.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 74,
       "id": "68d89f73953f"
     },
     {
@@ -562,12 +679,12 @@
       "publishedAt": "2026-07-07T22:04:54.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "e0979841084b"
     },
     {
-      "title": "Almost $100k raised to stop small town slipping into ocean",
-      "summary": "Western Australia's opposition says it is outrageous Lancelin residents have been left fundraising to fight erosion slowly consuming the coastal town.",
+      "title": "Locals fundraising to stop beachside town slipping into the ocean",
+      "summary": "Lancelin residents have been left to fundraise $150,000 for a sea wall in a bid to fight coastal erosion now seriously threatening the town, more than 100 kilometres north of Perth.",
       "url": "https://www.abc.net.au/news/2026-07-08/lancelin-residents-fundraise-sea-wall-erosion-emergency/106884028",
       "source": "ABC Australia",
       "feed": "ABC Australia",
@@ -575,8 +692,8 @@
       "publishedAt": "2026-07-07T22:01:08.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/ce8566037eaeac1189eca324b7b00f6a?impolicy=wcms_crop_resize&cropH=1243&cropW=2210&xPos=4&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 75,
-      "id": "37dada3b500c"
+      "score": 73,
+      "id": "64ac5ba04df9"
     },
     {
       "title": "Russia could compete at 2028 Olympics after suspension provisionally lifted",
@@ -588,7 +705,7 @@
       "publishedAt": "2026-07-07T21:53:05.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/4a064546485fd01065ae825c303061f9?impolicy=wcms_crop_resize&cropH=1595&cropW=2832&xPos=0&yPos=317&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "803c73a4bd2e"
     },
     {
@@ -601,8 +718,21 @@
       "publishedAt": "2026-07-07T21:39:56.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7a5bee1a56ddd8534b0f90b852f98d15?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=75&width=862&height=485",
       "topic": "科技",
-      "score": 75,
+      "score": 73,
       "id": "f575aa713b92"
+    },
+    {
+      "title": "Ghana Declines Ramaphosa’s State Visit Amid Xenophobic Attacks On Its Citizens In South Africa",
+      "summary": "Ghana Declines Ramaphosa’s State Visit Amid Xenophobic Attacks On Its Citizens In South Africa &nbsp;&nbsp; Head Topics",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQczRqTmt2aHNuQWhPUmZZR0VrS2lrOVhZWGVhZG4xa0hOQWE1OFpjd0FsZXh5bElHNTJ2WlVTeUpSeFczTHk3TmpxSFJBTVF6N3YxRXVYM1MyQVRaa0c0eExFVzlVY3pWR0tWNTk0cjc2eVE3ZVlvNVh2clFFdzRaZ1lJLXlRelFNYVZvdklRakpfaER0bEhoQWJR?oc=5",
+      "source": "Head Topics",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-07T21:37:26.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 73,
+      "id": "3c9bc14c4d89"
     },
     {
       "title": "The researchers 'flying' and getting barrels on the reef for science",
@@ -614,7 +744,7 @@
       "publishedAt": "2026-07-07T21:37:11.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/be9d31e26c36a1dcac266e405ddc5170?impolicy=wcms_crop_resize&cropH=2250&cropW=4000&xPos=0&yPos=375&width=862&height=485",
       "topic": "科技",
-      "score": 75,
+      "score": 73,
       "id": "f2152c78273b"
     },
     {
@@ -627,12 +757,12 @@
       "publishedAt": "2026-07-07T21:35:28.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "2ddec35afd2c"
     },
     {
       "title": "Telstra outage brings Victorian regional rail network to a halt",
-      "summary": "All regional train services in Victoria have been suspended due to what service operator V/Line has called a \"radio network fault\" thought to be related to the Telstra outage.",
+      "summary": "Regional train operator V/Line says services on all lines are suspended and there is no estimated time for rectification.",
       "url": "https://www.abc.net.au/news/2026-07-08/vic-vline-train-disruption-radio-network-fault/106891272",
       "source": "ABC Australia",
       "feed": "ABC Australia",
@@ -640,21 +770,8 @@
       "publishedAt": "2026-07-07T21:35:22.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/fae5d0553790110011c0b5be8594463f?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "f8af88b96176"
-    },
-    {
-      "title": "Housing inequity in Australia 'must focus beyond age'",
-      "summary": "The federal government must look at age and wealth together to meaningfully deal with the growing wealth divide between generations, according to The Australian Council of Social Services (ACOSS).",
-      "url": "https://www.abc.net.au/news/2026-07-08/housing-inequity-in-australia-must-focus-beyond-age/106890026",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-07T21:24:29.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d244e9bf761d5a0ecdaef7e0395f4261?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=107&width=862&height=485",
-      "topic": "政治",
-      "score": 75,
-      "id": "fdc09e9ff4c6"
     },
     {
       "title": "Revealed: Farage’s £5m gift reported to UK crime agency over money laundering concerns",
@@ -666,7 +783,7 @@
       "publishedAt": "2026-07-07T18:36:47.000Z",
       "image": "https://i.guim.co.uk/img/media/3784510bd811a3013b3d2e3295f32ab0867f19ff/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=365d79bbc1dee8b63030f94cedeb23d6",
       "topic": "经济",
-      "score": 75,
+      "score": 73,
       "id": "31f36ff7ea07"
     },
     {
@@ -679,7 +796,7 @@
       "publishedAt": "2026-07-07T17:56:09.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "9a3e62095b61"
     },
     {
@@ -692,7 +809,7 @@
       "publishedAt": "2026-07-07T15:00:06.000Z",
       "image": "https://i.guim.co.uk/img/media/68a52bbbdbe2d0b05b5fd79240aa4d846b439242/331_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=c2d666edfdd76ae71a5c5290be6d99e2",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "a8b7d235b810"
     },
     {
@@ -705,8 +822,47 @@
       "publishedAt": "2026-07-07T15:00:04.000Z",
       "image": "https://i.guim.co.uk/img/media/dbaa7887378d9773a2a464fa2ae757b735dbcd17/371_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=53d6d62119066839b8c74396601b5fbe",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "4f9e14f9c891"
+    },
+    {
+      "title": "Cancun's Air Traffic Keeps Sliding, With Passenger Volume Down Nearly 5 Percent So Far This Year",
+      "summary": "Cancun's Air Traffic Keeps Sliding, With Passenger Volume Down Nearly 5 Percent So Far This Year &nbsp;&nbsp; Caribbean Journal",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVXzB0WEd6UlVKeE1RcVMxZS0tTjRsNjgyX181TnF0cU9IcWppTlQ5anJMVEZDS2VHanl1XzcwQ0tyeXg3RTZpdkpZX2pLSzJwWEw0d1UzR3ZGbDh0alhWQzZyaUMzM3F4N1d2WDZpWk4wbWM0anc?oc=5",
+      "source": "Caribbean Journal",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-07T23:56:51.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "465dd8e8259a"
+    },
+    {
+      "title": "CazéTV Defends Betting Broadcasts as Brazil Reviews World Cup Advertising Practices",
+      "summary": "CazéTV Defends Betting Broadcasts as Brazil Reviews World Cup Advertising Practices &nbsp;&nbsp; iGamingToday.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSzRuMEMwOUk1NEZ0d25lNDhxV3pvZ1ZRSFk5Zk1HTDA0aUVyTllYRWZlZ21tVWZPOEZwQ19QVDhVZ3FSR0M0YWtmUlVQZUdoU2JDRmt6azF5NDNjTkdhdlo5YmVTbWhzbWtyRnRTZml4bU1hUm81RFFfdG52X1EtaG9CTFRiMkFaYkFIeEFVeVZZOUhUckl5aFNjbjVFUmhNaGl2N21mQjBianBuZXhmQlg2dw?oc=5",
+      "source": "iGamingToday.com",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-07T23:56:41.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "995bbad49c83"
+    },
+    {
+      "title": "Housing inequity in Australia 'must focus beyond age'",
+      "summary": "The federal government must look at age and wealth together to meaningfully deal with the growing wealth divide between generations, according to The Australian Council of Social Services (ACOSS).",
+      "url": "https://www.abc.net.au/news/2026-07-08/housing-inequity-in-australia-must-focus-beyond-age/106890026",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-07T21:24:29.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d244e9bf761d5a0ecdaef7e0395f4261?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=107&width=862&height=485",
+      "topic": "政治",
+      "score": 72,
+      "id": "fdc09e9ff4c6"
     },
     {
       "title": "Live: PM prepares to host leaders of three Pacific nations in Brisbane",
@@ -718,7 +874,7 @@
       "publishedAt": "2026-07-07T21:11:18.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/63c832bd1712b0d94e7c76fb935b4ab9?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=378&width=862&height=485",
       "topic": "政治",
-      "score": 74,
+      "score": 72,
       "id": "0bf7970943f7"
     },
     {
@@ -731,21 +887,8 @@
       "publishedAt": "2026-07-07T21:11:15.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c5988ffbbae8f8566284264f81ca6be8?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=294&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "4851e60c5b86"
-    },
-    {
-      "title": "2026 FIFA WORLD CUP: Switzerland and Colombia Deadlocked After Tense First Half",
-      "summary": "2026 FIFA WORLD CUP: Switzerland and Colombia Deadlocked After Tense First Half &nbsp;&nbsp; Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQk9PUUhaMGFoVk84a0FLS0NLZVdYN2Q3RmZzR3psTTZkc0pJQ3drZ1Y3ZU1Jd1lYRjhRUTBfNmVINHF3ZWRYWnNkZkEzc3dZR3pCbDJ3cUdhTDB3U0lNSFI1SVRTSHduQ3cyX1hzTjNSYWlWck8xb0NnQ0FjRGNjbWY4a3ZsYjRQSGdKT0F2RGdwc0phdUxRZWUyOHRqemZUS2k4VF83enFUSVZid1JF?oc=5",
-      "source": "Africa Top Sports",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-07T21:02:40.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "363a9492fec4"
     },
     {
       "title": "'I'm getting old': 28yo Osaka's Wimbledon run ends at quarterfinals",
@@ -757,7 +900,7 @@
       "publishedAt": "2026-07-07T21:01:41.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/03c5f41eee2a66c21e8e2debf44f0771?impolicy=wcms_crop_resize&cropH=1698&cropW=3018&xPos=0&yPos=112&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "8305d734e675"
     },
     {
@@ -770,21 +913,8 @@
       "publishedAt": "2026-07-07T20:57:30.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/a2a4785ea6307b01ba4a1026f0e7b6bd?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=45&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "0a0ea80490dc"
-    },
-    {
-      "title": "Three tankers hit in the Strait of Hormuz as U.S. revokes license authorizing sale of Iranian oil",
-      "summary": "Three tankers hit in the Strait of Hormuz as U.S. revokes license authorizing sale of Iranian oil &nbsp;&nbsp; NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjBkc0RCZF9pWE5IVDgySXpBc1ROcUpxbzhsNkY1TXQwc2F5SF9pYWhtR2QxQlR1Z1JVT2NRSkd6NjB3ZUNheVVSUXY3U2RCTDcxMVV4VkdJUDYxX3dkUlBxOS1sOU5TTzNXN0d1LVV6MVBxM3ZLNDg4RktVRFF3bEI4RU1iWFRiUjBLZnZWcGRxY09uYVRyclRRd1hIc1hVR2VCcWFrMW9zZWJ2OGFQMjB6X2p6dDNlQW02MHU0SXM?oc=5",
-      "source": "NBC News",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-07T20:54:00.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 74,
-      "id": "d62c14be8002"
     },
     {
       "title": "Nasdaq vs Dow: How are the key indices different as SpaceX joins one?",
@@ -796,47 +926,8 @@
       "publishedAt": "2026-07-07T20:50:34.000Z",
       "image": "",
       "topic": "科技",
-      "score": 74,
+      "score": 72,
       "id": "3c53ecaae6b2"
-    },
-    {
-      "title": "Body of missing 18-year-old Nolan Wells found on Mississippi island",
-      "summary": "College freshman’s mother identified his body after he was reported missing following 4 July boat trip with friends On 4 July, Nolan Xavier Wells, an 18-year-old from Ocean Springs, Mississippi, and a group of friends went on a boat trip to Horn Island, a barrier island about 10 miles off the Mississippi Gulf coast. Wells’s friends all returned back home tha",
-      "url": "https://www.theguardian.com/us-news/2026/jul/07/nolan-wells-body-found-mississippi-island",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-07T20:37:19.000Z",
-      "image": "https://i.guim.co.uk/img/media/8106ec9f95d2a95c51371ff1b5182cd5863599ea/0_213_945_755/master/945.jpg?width=140&quality=85&auto=format&fit=max&s=171457e70e365eb5b827927c18910928",
-      "topic": "社会",
-      "score": 74,
-      "id": "9e08f6848750"
-    },
-    {
-      "title": "Telstra mobile network crashes nationwide causing transport and payment delays",
-      "summary": "Telstra customers, as well as customers of mobile providers that use Telstra's network, have flooded outage detection websites with reports.",
-      "url": "https://www.abc.net.au/news/2026-07-08/telstra-mobile-network-outage-wednesday-morning-july-8/106891176",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-07T20:37:11.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/450f4ab00359f0109c80ab3fef6d1598?impolicy=wcms_crop_resize&cropH=909&cropW=1616&xPos=0&yPos=86&width=862&height=485",
-      "topic": "气候",
-      "score": 74,
-      "id": "292d4f93e3db"
-    },
-    {
-      "title": "Parents of child abused by Sydney care worker want ban on male educators",
-      "summary": "The devastated parents of a child abused by disgraced childcare worker David James are calling for urgent reform to the out-of-school-hours care system to better protect children.",
-      "url": "https://www.abc.net.au/news/2026-07-08/parents-of-david-james-abuse-victim-call-for-oosh-reforms/106889534",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-07T20:37:01.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d2adaafd89022e8bfe8fcaa8d6e6da8c?impolicy=wcms_crop_resize&cropH=254&cropW=451&xPos=269&yPos=101&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "d6c618a940c4"
     },
     {
       "title": "Latin America shifts toward market-oriented conservatism",
@@ -848,99 +939,8 @@
       "publishedAt": "2026-07-07T20:33:55.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 72,
       "id": "b89b59630f99"
-    },
-    {
-      "title": "Bomb attack rocks Damascus during Macron visit",
-      "summary": "Bomb attack rocks Damascus during Macron visit &nbsp;&nbsp; Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWRETjVnbTljM3FIcDF1U0tESGJmVnVQSTBqemxJOUhKMUgtalFLcFVTOE9WSXB0SmJJSjZnSnhSOTBWajhqV0trX3dNSnlHdnVZNEh1ZVpFTnhlZXdSWWhGUTgyNHJ2Tm1pd05zQ1JOeFlFYXFkQlB6N2h0WkV0N0x2cEtjLVdTeXBHVEttY2o1aEZlRmFsaHlsUkNsUlZXMVFRM2g2X2FvOC02?oc=5",
-      "source": "Reuters",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-07T14:37:32.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "19ea57701dc1"
-    },
-    {
-      "title": "CFA leaders attempt to recall 'draft' submission to fatal summer fire inquiry",
-      "summary": "An administrative error during a parliamentary inquiry has led the CFA to inadvertently reveal exactly how short-staffed its stations were during last summer's deadly fire season.",
-      "url": "https://www.abc.net.au/news/2026-07-08/cfa-retract-draft-submission-summer-bushfire-commission/106889362",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-07T20:32:47.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/b266883547dd0ea6c49bd1e07ed0c25d?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=386&width=862&height=485",
-      "topic": "政治",
-      "score": 73,
-      "id": "22d586b3be6c"
-    },
-    {
-      "title": "Government report says AI not causing mass job lay-offs, yet",
-      "summary": "Artificial intelligence is not yet causing a broad disruption to Australia's labour market, according to a government report.",
-      "url": "https://www.abc.net.au/news/2026-07-08/government-report-finds-ai-not-yet-causing-mass-job-losses/106889304",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-07T20:30:37.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/a98f2158afc62d79b005e7a560c67e77?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-      "topic": "科技",
-      "score": 73,
-      "id": "a0914e6be62f"
-    },
-    {
-      "title": "Pro-Palestine MEP Rima Hassan arrives at trial for ‘glorifying terrorism’",
-      "summary": "‘No one is safe anymore.’ This is what French MEP Rima Hassan told a crowd as she arrived at her trial in Paris.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/pro-palestine-mep-rima-hassan-arrives-at-trial-for-glorifying?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-07T20:27:41.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "5d33536fc170"
-    },
-    {
-      "title": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
-      "summary": "The senator has been hospitalised since June 14 with few details released, raising questions over his return to work.",
-      "url": "https://www.aljazeera.com/news/2026/7/7/prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-questions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-07T20:26:16.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "9db028e22626"
-    },
-    {
-      "title": "Algae which caused brevetoxins in SA algal bloom most toxic of its kind studied",
-      "summary": "The dominant species in the algal bloom which devastated SA's coastline, Karenia cristata, is the most toxic of its kind studied, according to newly published research.",
-      "url": "https://www.abc.net.au/news/2026-07-08/karenia-cristata-most-toxic-algae-sa-algal-bloom/106890474",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-07T20:20:58.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/08582c13e0e6018e6831fb51d18deede?impolicy=wcms_crop_resize&cropH=2812&cropW=4999&xPos=1&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "f9ecfdd1da14"
-    },
-    {
-      "title": "New video shows man believed to be Tyler Robinson before Charlie Kirk shooting",
-      "summary": "The footage shown during the second day of a preliminary hearing appears to show Robinson walking through a parking garage and running across a roof.",
-      "url": "https://www.bbc.co.uk/news/videos/cn59ne3vqeno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-07-07T20:20:24.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab1/live/3ce3f0f0-7a36-11f1-b976-0b9c15b0ccfc.jpg",
-      "topic": "社会",
-      "score": 73,
-      "id": "45d684456e64"
     }
   ]
 }
