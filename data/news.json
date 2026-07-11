@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T10:36:20.611Z",
+  "updatedAt": "2026-07-11T12:08:17.014Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -16,34 +16,8 @@
       "publishedAt": "2026-07-11T04:51:20.000Z",
       "image": "",
       "topic": "政治",
-      "score": 98,
+      "score": 96,
       "id": "5fb1d4715d8b"
-    },
-    {
-      "title": "US-Israel war on Iran",
-      "summary": "US-Israel war on Iran &nbsp;&nbsp; The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LSVFkclU2MmJEVzNmZUhwajZUQ3JQSjRWSzZrdFlueFBSZEl3Ql81eWZfVVZNbmtMXzJpWFBQNXViRjYyaGt5YTU5bkxYOW5xSV9vNUhiQXhTYmZKamZkLTBsYk50dw?oc=5",
-      "source": "The Guardian",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-11T08:19:06.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 90,
-      "id": "3b6502afa95a"
-    },
-    {
-      "title": "Live Updates: Latest from Israel, Iran, and Middle East",
-      "summary": "Live Updates: Latest from Israel, Iran, and Middle East &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Wbnd4R0Voang2RC1hOVgxM0pRSjBkRl9ick0tYW4wYy1MOUZUZDAxRGwzb3R5Si1lUjJFX3J4anNTemlSUzBmQ2RwdXZ0c2Q2ODRRSTRva291UU83YlRmQzF3QkMwaVpZTGJETE9MZ3dseUtjVGJWYm04SkwyNWs?oc=5",
-      "source": "The Jerusalem Post",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-11T09:00:05.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 86,
-      "id": "acf88d717071"
     },
     {
       "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
@@ -55,34 +29,8 @@
       "publishedAt": "2026-07-11T08:04:57.000Z",
       "image": "",
       "topic": "政治",
-      "score": 86,
+      "score": 84,
       "id": "42d792449d70"
-    },
-    {
-      "title": "Russian missile attacks wound 11 in Kyiv",
-      "summary": "In the latest salvo in one of the war's deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
-      "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-07-11T08:53:23.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 83,
-      "id": "545c1c62b762"
-    },
-    {
-      "title": "Moment man charged with murder of wife and children is arrested in South Africa",
-      "summary": "Moment man charged with murder of wife and children is arrested in South Africa &nbsp;&nbsp; Metro.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTmpOUjhCdjctSHVtX0ZXWE9Va3FPbm5GQ0Z3eGtaLWRwTmlsMXc2Ty03QUJvUnIybDRsQThJTzV3MXU0VFFjUWtyTkk2RHFEZHFsT0FFME5ZLTNLaUlTVHVFRFk5TmZ6WFppYU5NTzRyWlhwSnRsZ2VrYVBWQXctenBtUDVsQWtMMFBiRlRGOFpIblk5elRRUTB0ZVZrU2FFQ3FiX9IBqgFBVV95cUxPeGVjMTVGWUZERHY4ZEtsVmE5ZlRDNk5tcl9INzgzNmh1MWRCZnhyY1pqNUp6MUYtdlpGbm00S2FXQ3ZUS3hzaWZfeEROYV9iYnZSQnVQWUFPNGkzaGIySko1Z1BUVG9QeHhoS2lzY1gxZlp0MHhLY2o2NmlQOWs3ZnpLZDVmc01Oa2pqd0ROZE9qUUlFQmJEWkhERXpsWkEwRzR4RjVJWFNidw?oc=5",
-      "source": "Metro.co.uk",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-11T09:20:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 82,
-      "id": "39ebbd3b0a7a"
     },
     {
       "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
@@ -94,8 +42,47 @@
       "publishedAt": "2026-07-11T09:01:15.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd0/live/59a16160-7cfb-11f1-bbe2-7f9a5a48eac9.jpg",
       "topic": "气候",
-      "score": 82,
+      "score": 81,
       "id": "e9819c1b745e"
+    },
+    {
+      "title": "Russian missile attacks wound 11 in Kyiv",
+      "summary": "In the latest salvo in one of the war's deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
+      "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-07-11T08:53:23.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 81,
+      "id": "545c1c62b762"
+    },
+    {
+      "title": "Ann Widdecombe investigation: police release man arrested on suspicion of former MP’s murder – latest updates",
+      "summary": "Officers are carrying out ‘numerous inquiries’ but 26-year-old, arrested on Friday afternoon, is no longer part of the investigation Alison and Simon Gilbert, who have lived in in Haytor Vale for over a decade, said Ann Widdecombe was a well-known figure locally. Ms Gilbert told PA media: She was a nice woman, really nice woman, and she had a great sense of ",
+      "url": "https://www.theguardian.com/uk-news/live/2026/jul/11/ann-widdecombe-murder-investigation-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-11T11:53:25.000Z",
+      "image": "https://i.guim.co.uk/img/media/d4a9e9df11246eddb262a9f83d9c992452ae697f/578_335_2843_2274/master/2843.jpg?width=140&quality=85&auto=format&fit=max&s=4df8f12f460d790e072308881a590513",
+      "topic": "社会",
+      "score": 80,
+      "id": "163af17f736d"
+    },
+    {
+      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "summary": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
+      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-07-11T11:42:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9e/live/f34fa810-7cfd-11f1-926f-c90d1bcfbc84.jpg",
+      "topic": "政治",
+      "score": 80,
+      "id": "05fcc743c537"
     },
     {
       "title": "Rescuers search for Spanish wildfire survivors as woman issues plea for help over missing parents",
@@ -107,7 +94,7 @@
       "publishedAt": "2026-07-11T08:41:00.000Z",
       "image": "https://e3.365dm.com/26/07/1920x1080/skynews-wildfire-spain-almeria_7294603.jpg?20260710140846",
       "topic": "气候",
-      "score": 82,
+      "score": 80,
       "id": "988c3607ed24"
     },
     {
@@ -120,8 +107,34 @@
       "publishedAt": "2026-07-11T08:00:43.000Z",
       "image": "https://i.guim.co.uk/img/media/83516d34f52d9d13d327cf93df01b195c69fb5c8/1080_0_5243_4195/master/5243.jpg?width=140&quality=85&auto=format&fit=max&s=3a3220d663de642e4df75453c8e7f842",
       "topic": "政治",
-      "score": 82,
+      "score": 80,
       "id": "5192b61ef396"
+    },
+    {
+      "title": "Levi Bellfield to have DNA test in connection with Lin and Megan Russell murders",
+      "summary": "Exclusive: CCRC will test serial killer as part of inquiry into whether Michael Stone was wrongly convicted of 1996 murders The serial killer Levi Bellfield will have his DNA taken in an attempt to establish if he murdered Lin and Megan Russell in 1996. Michael Stone has protested his innocence since his conviction in 1998 for the killing of Lin, 45, and her",
+      "url": "https://www.theguardian.com/law/2026/jul/11/levi-bellfield-to-have-dna-test-in-connection-with-lin-and-megan-russell-murders",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-11T11:00:48.000Z",
+      "image": "https://i.guim.co.uk/img/media/f44555ebc60b926f58da3ae7b7697c16052bbf23/0_228_1883_1505/master/1883.jpg?width=140&quality=85&auto=format&fit=max&s=21318bdb7726233fb26dea2ae0150e0f",
+      "topic": "政治",
+      "score": 79,
+      "id": "04ba5009224e"
+    },
+    {
+      "title": "Aussies warned as wildfires ravage Europe; tourists killed in Spain",
+      "summary": "Aussies warned as wildfires ravage Europe; tourists killed in Spain &nbsp;&nbsp; The Daily Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdVVqUElnbXROZGl4amNUSjQyNXg2NXNmQTJzbWdsNkhuYnNfcV80NWlUV25UVHBhN2ljS01ScThUZGttMlhmRHZ1d1dMeDFlMVE4dFlzd1RXd2x2SDFQU1RiaW84VUJjRWoxZmpTTmVHUHVqU3I0NWUxWEN0dm9NdzVmR25iVHRiRVRlWHBRdnRDVmtsa0VwMFRRRlljRGtJZ0ZfbFIta2l0VGVPN3hkUmtsbDI4dnB0akx4dTB6cjU2aXh1S1ZWNmR3M0FsaXh1QkJBY3loMnVoS1V2TjVLd0xBU3ZIeUJhblHSAe8BQVVfeXFMTmEwRXVUakl4MGRFdlh3MGtaTzhuU3hGeTlwa1JyWmlScTY4ZjRLbE5HVlh5bjE1QWZXQXR1bWJfRkl4WWQtN0ZjUzFwcWVwbHlkcjAtZE1BOGtYNTIwSk15d1JXQmlyV1BBTmNNRXF5OG5Vb0JmbmhCSG5KUTJMMmRMUXlBLURtYnFfUGQ5V2ZLSXY1aWJIQkZjXzhPWlNVNGFLeF9sRmtrelNhZXg1Rk1tSVNZT1pmZEl3cXpBb0Y3TzQ3WFZFZEt6YTZBb1dNaWF4NHlWOEx4TWlTc1ZLZzJrbVNoWDNENGxYV1RyRFk?oc=5",
+      "source": "The Daily Telegraph",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-11T10:19:15.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "573c5664dff0"
     },
     {
       "title": "Land sold for Kushner-backed Albania resort suspected of forged deeds",
@@ -133,21 +146,8 @@
       "publishedAt": "2026-07-11T10:14:39.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "ad50ee8f4937"
-    },
-    {
-      "title": "Ann Widdecombe investigation: police release man arrested on suspicion of former MP’s murder – latest updates",
-      "summary": "Officers are carrying out ‘numerous inquiries’ but 26-year-old, arrested on Friday afternoon, is no longer part of the investigation One woman living in Haytor Vale, who wishes to remain anonymous, told PA media: I never met (Ann Widdecombe) although I’ve lived here all my life. It’s tragic, someone gives all their life to public service and then they end li",
-      "url": "https://www.theguardian.com/uk-news/live/2026/jul/11/ann-widdecombe-murder-investigation-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-11T10:09:04.000Z",
-      "image": "https://i.guim.co.uk/img/media/d4a9e9df11246eddb262a9f83d9c992452ae697f/578_335_2843_2274/master/2843.jpg?width=140&quality=85&auto=format&fit=max&s=4df8f12f460d790e072308881a590513",
-      "topic": "社会",
-      "score": 79,
-      "id": "163af17f736d"
     },
     {
       "title": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
@@ -159,7 +159,7 @@
       "publishedAt": "2026-07-11T09:32:57.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "2a337191b8c5"
     },
     {
@@ -172,7 +172,7 @@
       "publishedAt": "2026-07-11T05:50:45.000Z",
       "image": "https://i.guim.co.uk/img/media/2bb66ff7a81feb40fb72572ee05aebbb1209ac9b/0_0_3458_2767/master/3458.jpg?width=140&quality=85&auto=format&fit=max&s=0db8472dd954a6dd294daa8983dba2b2",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "289b19786890"
     },
     {
@@ -185,8 +185,151 @@
       "publishedAt": "2026-07-11T05:38:39.000Z",
       "image": "",
       "topic": "气候",
-      "score": 79,
+      "score": 77,
       "id": "a8111ed9b11d"
+    },
+    {
+      "title": "Eni CEO says oil market risks breaking out of current range by early 2027",
+      "summary": "Eni CEO says oil market risks breaking out of current range by early 2027 &nbsp;&nbsp; Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVZUOTN3V2dwQzJKRVRTc2otOFQ5RndKWDZmZ2htaHpOUnlVNFpYNUhueUFQRjBMN0c3SFdVckVZcFRGQ1FTQkxzRUl2YzdlTEZBR2NpakRja1VYalZUT0twcHhZZjlZOUpKekxhdVo0VzNrbGpTbGFLVkhmcWMxTzQwOENqVDhXUFVmNkRmUDg4dmJDNlJMb3ptc0xrdDZPYUNjT2Rhc1UyVmRzbWlRUThXYnZjaW5qdURKUkE5aw?oc=5",
+      "source": "Reuters",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-11T12:01:36.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 76,
+      "id": "83d6655e49a7"
+    },
+    {
+      "title": "Most people who need glasses don't have them. Can the post office change that?",
+      "summary": "In some towns in India, a visitor to the post office who's squinting at fine print might be asked: Do you want an eye test?",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5887653/reading-glasses-post-office-india",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "亚洲",
+      "publishedAt": "2026-07-11T11:49:47.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "8437cfaabd79"
+    },
+    {
+      "title": "Zimbabweans return home amid xenophobic violence in South Africa",
+      "summary": "Zimbabweans return home amid xenophobic violence in South Africa",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zimbabweans-return-home-amid-xenophobic-violence-in-south-africa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "非洲",
+      "publishedAt": "2026-07-11T11:47:54.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "6e3ba66dd452"
+    },
+    {
+      "title": "'We escaped Spanish wildfire, but our friends lost their lives'",
+      "summary": "Hundreds of firefighters in Spain have been battling a deadly wildfire in the south of the country.",
+      "url": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-07-11T11:45:55.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05e1/live/765560f0-7d18-11f1-bee8-53ce494e1abc.jpg",
+      "topic": "气候",
+      "score": 76,
+      "id": "e65925e53365"
+    },
+    {
+      "title": "Emmanuel Wanyonyi breaks world 1000m record in Monaco",
+      "summary": "Emmanuel Wanyonyi breaks world 1000m record in Monaco &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaWF3S3E2dEtKam9USDlMX19TTndiZUtaMVVGUEJJVkN5Y2pXbnhXMXFGcGcxR1Nncmx4Tk5LeUkxZ0IwNnE3Q195LTRGZVFoYk9GMlJzUkVOLW94Y1paRXJZRXFnOEt2UVJqSFpXVTUxV25mSFA2M1AxSTRuYVVVdFp4NU04c20tdHFXeXpR?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-11T11:32:23.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "162070aaea86"
+    },
+    {
+      "title": "Moment man charged with murder of wife and children is arrested in South Africa",
+      "summary": "Moment man charged with murder of wife and children is arrested in South Africa &nbsp;&nbsp; Metro.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTmpOUjhCdjctSHVtX0ZXWE9Va3FPbm5GQ0Z3eGtaLWRwTmlsMXc2Ty03QUJvUnIybDRsQThJTzV3MXU0VFFjUWtyTkk2RHFEZHFsT0FFME5ZLTNLaUlTVHVFRFk5TmZ6WFppYU5NTzRyWlhwSnRsZ2VrYVBWQXctenBtUDVsQWtMMFBiRlRGOFpIblk5elRRUTB0ZVZrU2FFQ3FiX9IBqgFBVV95cUxPeGVjMTVGWUZERHY4ZEtsVmE5ZlRDNk5tcl9INzgzNmh1MWRCZnhyY1pqNUp6MUYtdlpGbm00S2FXQ3ZUS3hzaWZfeEROYV9iYnZSQnVQWUFPNGkzaGIySko1Z1BUVG9QeHhoS2lzY1gxZlp0MHhLY2o2NmlQOWs3ZnpLZDVmc01Oa2pqd0ROZE9qUUlFQmJEWkhERXpsWkEwRzR4RjVJWFNidw?oc=5",
+      "source": "Metro.co.uk",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-11T09:20:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "39ebbd3b0a7a"
+    },
+    {
+      "title": "Sheinbaum takes on cartels, Trump and the legacy of 1968",
+      "summary": "Claudia Sheinbaum is trying to govern on her own terms — while dealing with Trump, cartels and AMLO's shadow.",
+      "url": "https://www.aljazeera.com/features/longform/2026/7/11/sheinbaum-takes-on-cartels-trump-and-the-legacy-of-1968?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-11T11:38:06.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "5fff12917d56"
+    },
+    {
+      "title": "Speedboat accident in southern Vietnam kills 15 Indian tourists",
+      "summary": "The Indian embassy says it has set up control rooms to respond to victims' families.",
+      "url": "https://www.aljazeera.com/news/2026/7/11/speedboat-accident-in-southern-vietnam-kills-15-indian-tourists?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-07-11T11:34:45.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "434270583e34"
+    },
+    {
+      "title": "TV presenter Dermot Murnaghan dies after being ill with prostate cancer",
+      "summary": "Murnaghan ‘died peacefully’ at his home in London on Saturday, says his family The TV presenter Dermot Murnaghan “died peacefully” at his home in north London on Saturday morning “following a period of illness with prostate cancer”, his family said in a statement. More details to follow … Continue reading...",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/11/tv-presenter-dermot-murnaghan-dies-after-being-ill-with-prostate-cancer",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-11T11:28:56.000Z",
+      "image": "https://i.guim.co.uk/img/media/a4af7d38d54e0dd17a87062b87a094caa953abb9/3_18_2308_1847/master/2308.jpg?width=140&quality=85&auto=format&fit=max&s=46a08d118cb5000260a7ea3b9316af8b",
+      "topic": "社会",
+      "score": 75,
+      "id": "f836218de288"
+    },
+    {
+      "title": "Datacentres drive up big tech’s carbon emissions to a third of those of France",
+      "summary": "Microsoft, Amazon and Google say they still aim to achieve net zero output despite construction boom Microsoft, Amazon and Google’s collective carbon emissions have increased by nearly a fifth in the past year, driven largely by datacentre construction. In the financial year ending March 2026, the three tech companies emitted 119m mTCO₂e (metric tonnes of ca",
+      "url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-07-11T11:00:49.000Z",
+      "image": "https://i.guim.co.uk/img/media/759518978daf02dee0d450e98f9f76de047cf552/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=f2452eca07049d9d11ebf0296eb97a18",
+      "topic": "社会",
+      "score": 75,
+      "id": "611426c6c74b"
+    },
+    {
+      "title": "NHS anaesthetist shortage prevents 1.5m operations a year, report finds",
+      "summary": "Exclusive: Alarming shortfall of specialists stops about 4,000 procedures a day, many for patients in urgent need of surgery The NHS is unable to perform 1.5m operations a year because of a drastic shortage of anaesthetists, a report reveals. More than 8 million patients are on waiting lists across England, Scotland, Wales and Northern Ireland. Many are in u",
+      "url": "https://www.theguardian.com/society/2026/jul/11/nhs-anaesthetist-shortage-prevents-operations",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-11T11:00:47.000Z",
+      "image": "https://i.guim.co.uk/img/media/aeeee4b0fb78c86c06271caebca05d7071e58fac/836_0_4305_3444/master/4305.jpg?width=140&quality=85&auto=format&fit=max&s=652f042fa2fe09904fa0758a75b0cbec",
+      "topic": "社会",
+      "score": 75,
+      "id": "f20319658a46"
     },
     {
       "title": "Watch World Cup: Merino, Spain beats Belgium, move on to semifinals",
@@ -198,21 +341,8 @@
       "publishedAt": "2026-07-11T08:30:41.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 75,
       "id": "e542310afeca"
-    },
-    {
-      "title": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
-      "summary": "Nearly 17,000 injured and thousands more are listed as missing amid calls by UN and president Delcy Rodríguez for financial help The death toll in Venezuela’s devastating twin earthquakes has topped 4,000, the government said on Friday. At least 4,118 people were killed and 16,740 injured in the back-to-back quakes on 24 June that flattened entire districts ",
-      "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-07-11T00:37:54.000Z",
-      "image": "https://i.guim.co.uk/img/media/45bfd090b2fc996f49cae89b6964db6583c5179e/876_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a0200f32904d618c7b42e114e12a816f",
-      "topic": "政治",
-      "score": 77,
-      "id": "b63a8ec41613"
     },
     {
       "title": "Trump agrees to fresh iran talks as us imposes new sanctions amid rising middle east tensions",
@@ -224,73 +354,21 @@
       "publishedAt": "2026-07-11T07:27:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "384c9198940f"
     },
     {
-      "title": "France dominates Wallabies to post historic Test win",
-      "summary": "Following a second-half blitz, France scores its fourth straight victory over the Wallabies, triumphing 42-26 in the Nations Championship Test in Brisbane.",
-      "url": "https://www.abc.net.au/news/2026-07-11/rugby-union-wallabies-france-nations-championship-blog-updates/106905422",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-07-11T06:41:28.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/e42338e68e43560533c47179440f843c?impolicy=wcms_crop_resize&cropH=2316&cropW=4118&xPos=88&yPos=33&width=862&height=485",
-      "topic": "社会",
-      "score": 76,
-      "id": "b46a0a0c2b3e"
-    },
-    {
-      "title": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
-      "summary": "US president says orders given to 'decimate and destroy all areas of Iran' if he is assassinated",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-11T00:00:00.000Z",
-      "image": "",
+      "title": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
+      "summary": "Nearly 17,000 injured and thousands more are listed as missing amid calls by UN and president Delcy Rodríguez for financial help The death toll in Venezuela’s devastating twin earthquakes has topped 4,000, the government said on Friday. At least 4,118 people were killed and 16,740 injured in the back-to-back quakes on 24 June that flattened entire districts ",
+      "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "美洲",
+      "publishedAt": "2026-07-11T00:37:54.000Z",
+      "image": "https://i.guim.co.uk/img/media/45bfd090b2fc996f49cae89b6964db6583c5179e/876_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a0200f32904d618c7b42e114e12a816f",
       "topic": "政治",
-      "score": 76,
-      "id": "01f3d4066cc8"
-    },
-    {
-      "title": "World cup wrap day 30",
-      "summary": "World cup wrap day 30",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/world-cup-wrap-day-30?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-11T09:47:33.000Z",
-      "image": "",
-      "topic": "社会",
       "score": 75,
-      "id": "42aca2cca9f3"
-    },
-    {
-      "title": "Russian Arms Ship Diverts to Togo, Breaking Guinea's Monopoly on the Africa Corps Supply Line",
-      "summary": "Russian Arms Ship Diverts to Togo, Breaking Guinea's Monopoly on the Africa Corps Supply Line &nbsp;&nbsp; Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ01MTHRxaWxOYnk4bGNPYWEzR28wT2hXdFBucmJWQS1La19CWkcxak5Ob2pGcnBNam9tLURYVS04MmRYWnlPVnRXQnN5cnlERXRiMThDVDZsWDU2ZTBvMlFtVU1tT3M4ZWtPV0VyeVVISDdPU2hOUHNiTWFEOXM0NjFxZkFYazN4VjlfOEdGWi1tVGxFVmx2WVpNY9IBmgFBVV95cUxObUI5V0dEb2JfQmVZaFJnMUQ1MXRrZkhqZkZNWGFSY3ZCV09WRl90eGpJbUlnaEIyb0FKSmZqMzlaR3JpSU01TGRBbnBhSnozUm11NHA5WDQyQU03SHlWYk5QdHVUX2tPdnRiRGN3SDhUbXByamg1RVlIeGlzOXA3QXRoYXFJMHZaaVdWZU83c09mU01fdDVqdTh3?oc=5",
-      "source": "Modern Ghana",
-      "feed": "Africa News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-11T09:31:05.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "ac90c9fe6c38"
-    },
-    {
-      "title": "Sister of missing Toowoomba mum urges community 'to keep looking'",
-      "summary": "Faith Isaacs, the sister of missing Toowoomba mum Jana Armstrong, has thanked the community for their search efforts and encouraged them to keep looking.",
-      "url": "https://www.abc.net.au/news/2026-07-11/toowoomba-mum-jana-armstrong-missing-woman-sister/106905054",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-11T09:24:44.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/2ad604821197216a92d37538a995c626?impolicy=wcms_crop_resize&cropH=864&cropW=1536&xPos=0&yPos=592&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "113c42cbda4d"
+      "id": "b63a8ec41613"
     },
     {
       "title": "Suspect in former UK MP's murder investigation released",
@@ -302,8 +380,47 @@
       "publishedAt": "2026-07-11T06:59:44.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1e4b6019101fe0cc9ec0fa6b1e29cf3c?impolicy=wcms_crop_resize&cropH=2240&cropW=3983&xPos=0&yPos=205&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "b53425f3957a"
+    },
+    {
+      "title": "France dominates Wallabies to post historic Test win",
+      "summary": "Following a second-half blitz, France scores its fourth straight victory over the Wallabies, triumphing 42-26 in the Nations Championship Test in Brisbane.",
+      "url": "https://www.abc.net.au/news/2026-07-11/rugby-union-wallabies-france-nations-championship-blog-updates/106905422",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "欧洲",
+      "publishedAt": "2026-07-11T06:41:28.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/e42338e68e43560533c47179440f843c?impolicy=wcms_crop_resize&cropH=2316&cropW=4118&xPos=88&yPos=33&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "b46a0a0c2b3e"
+    },
+    {
+      "title": "World cup wrap day 30",
+      "summary": "World cup wrap day 30",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/world-cup-wrap-day-30?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-11T09:47:33.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 73,
+      "id": "42aca2cca9f3"
+    },
+    {
+      "title": "Sister of missing Toowoomba mum urges community 'to keep looking'",
+      "summary": "Faith Isaacs, the sister of missing Toowoomba mum Jana Armstrong, has thanked the community for their search efforts and encouraged them to keep looking.",
+      "url": "https://www.abc.net.au/news/2026-07-11/toowoomba-mum-jana-armstrong-missing-woman-sister/106905054",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-11T09:24:44.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2ad604821197216a92d37538a995c626?impolicy=wcms_crop_resize&cropH=864&cropW=1536&xPos=0&yPos=592&width=862&height=485",
+      "topic": "社会",
+      "score": 73,
+      "id": "113c42cbda4d"
     },
     {
       "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
@@ -315,7 +432,7 @@
       "publishedAt": "2026-07-11T06:34:09.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "6d087519c79d"
     },
     {
@@ -328,7 +445,7 @@
       "publishedAt": "2026-07-11T09:00:46.000Z",
       "image": "https://i.guim.co.uk/img/media/0d5b6cdf9799731f6c800e580c2365cb0aafdb2d/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=6a5fc3fc32ba5972bde00e1812f66a67",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "1bfe27c8186d"
     },
     {
@@ -341,7 +458,7 @@
       "publishedAt": "2026-07-11T09:00:45.000Z",
       "image": "https://i.guim.co.uk/img/media/0d51948f80a88753ef49ee29127b813ce113110e/2316_1990_1367_1094/master/1367.jpg?width=140&quality=85&auto=format&fit=max&s=eaf4ce86064167f00bf404294370d9b0",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "bde7b062fe4f"
     },
     {
@@ -354,8 +471,21 @@
       "publishedAt": "2026-07-11T09:00:23.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "fb6eab6d7ac9"
+    },
+    {
+      "title": "China test fires missile into Pacific, alarming regional powers",
+      "summary": "China test fires missile into Pacific, alarming regional powers &nbsp;&nbsp; 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ySy1qZXZKU2pabkY1Wm56QVQ3VUx0cWJtY21VckN5cTRMaUpxdE5QTk90M0tYN0huYmhwSmY3bnRMN1p6enpPUERDRWVqZU85MjNVdkxkdFRnajg4M3c?oc=5",
+      "source": "朝日新聞",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-11T08:56:35.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "c3e1718bf71f"
     },
     {
       "title": "Runner gored at Spain's San Fermin bull run festival",
@@ -367,7 +497,7 @@
       "publishedAt": "2026-07-11T08:49:46.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/18610e26c91993822f2990b2bf37cba2?impolicy=wcms_crop_resize&cropH=1993&cropW=3543&xPos=0&yPos=185&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "a9665769d820"
     },
     {
@@ -380,7 +510,7 @@
       "publishedAt": "2026-07-11T08:45:06.000Z",
       "image": "https://i.guim.co.uk/img/media/ce9938d91957b52aa4ada5718724bdcce47c9df1/53_0_5779_4624/master/5779.jpg?width=140&quality=85&auto=format&fit=max&s=33b481fbba78faf56049afe937ec61dd",
       "topic": "气候",
-      "score": 74,
+      "score": 72,
       "id": "6d529b7067c4"
     },
     {
@@ -393,7 +523,7 @@
       "publishedAt": "2026-07-11T08:43:10.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "5afc1bc835b7"
     },
     {
@@ -406,8 +536,21 @@
       "publishedAt": "2026-07-11T08:42:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "e39b310fd368"
+    },
+    {
+      "title": "Newly-released video shows Peter Falconio's killer questioned",
+      "summary": "Australian police have released bodycam footage showing one of the last attempts to get Bradley Murdoch to reveal the location of Peter Falconio's body, on the 25th anniversary of his murder.",
+      "url": "https://www.bbc.co.uk/news/videos/c0rylp72p9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-11T08:35:33.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cd0/live/5ef686d0-7d01-11f1-b976-0b9c15b0ccfc.jpg",
+      "topic": "社会",
+      "score": 72,
+      "id": "33db70d5d548"
     },
     {
       "title": "Losing our religion? Australia would no longer be majority religious if format of census question changed, survey finds",
@@ -419,7 +562,7 @@
       "publishedAt": "2026-07-11T05:41:03.000Z",
       "image": "https://i.guim.co.uk/img/media/40c005bcd156de3c7365574fb97b5596c1ddf3a3/715_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=a5bb37b434a9e8e5f26b33e5d29f9234",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "cdc803f8d66e"
     },
     {
@@ -432,7 +575,7 @@
       "publishedAt": "2026-07-11T05:34:53.000Z",
       "image": "",
       "topic": "科技",
-      "score": 74,
+      "score": 72,
       "id": "3b240f7b95dc"
     },
     {
@@ -445,7 +588,7 @@
       "publishedAt": "2026-07-11T05:07:41.000Z",
       "image": "https://i.guim.co.uk/img/media/76de6ee356074f75fcf5d2c52231e6e1bf2c2fb3/339_0_5031_4024/master/5031.jpg?width=140&quality=85&auto=format&fit=max&s=18403e06ce550bf89ba83d2088894aa1",
       "topic": "科技",
-      "score": 74,
+      "score": 72,
       "id": "c511ada38ce3"
     },
     {
@@ -458,21 +601,73 @@
       "publishedAt": "2026-07-11T05:06:08.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/f37a0740e601d2bc7f1527fa6dcc4003?impolicy=wcms_crop_resize&cropH=2916&cropW=5184&xPos=0&yPos=270&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "8e956efb050d"
     },
     {
-      "title": "Newly-released video shows Peter Falconio's killer questioned",
-      "summary": "Australian police have released bodycam footage showing one of the last attempts to get Bradley Murdoch to reveal the location of Peter Falconio's body, on the 25th anniversary of his murder.",
-      "url": "https://www.bbc.co.uk/news/videos/c0rylp72p9ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
+      "title": "What Westpac Banking (ASX:WBC)'s Board Reshuffle and Dividend Focus Means For Shareholders",
+      "summary": "What Westpac Banking (ASX:WBC)'s Board Reshuffle and Dividend Focus Means For Shareholders &nbsp;&nbsp; simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNWxURk44ajNCSmN2aXVON3VSR1ZGWVhnMUluY3N1enZucXBkRkd6QkNIZTdQWktzTGU5ejF2SnBqeExRRFJVZHNBemNFaWZ2M01HU3ZheTVCdDdLVm5KUnpXbGRGMkZINDBNTVNpaGR6VE9PQi1yb3F4aXFmSVo0X0pvWU1tNjBsMF92bldBVkV0SnNHMlAwVnRVYWFZZnh4Vk5RQVlJYXpxUXZrSHN5OTNBRl9Xb0Z5TTRKUGxHNmxLLUZQRFBSSUdPMnJ4NmPSAdQBQVVfeXFMTWRna0dvSmZZS25yTUhjcHVRai1VYmExSlMwVzdTcXUxd0ZkODF4a3ExRk50WHRMbXduQV9uVDQxaV91cU1UbkJfMmswM3NsZlFfNU8xbjNjUjZyc3h4d3lKY3FqcE9lRXo1OEdITFo3T3ZiMVFJWEVzcmZHZ0tYNGhGMUpNZnNsX0JTWXVqYjg4anEzcE9LNUNBT0NWWnM5T213Ykh3SEVzTmU2bWNCWmM1S25raGs5dGxGREo3MGN6cGo3dWpMbkJUaTkxMENjcHMyM0I?oc=5",
+      "source": "simplywall.st",
+      "feed": "Pacific News Network",
       "region": "大洋洲",
-      "publishedAt": "2026-07-11T08:35:33.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cd0/live/5ef686d0-7d01-11f1-b976-0b9c15b0ccfc.jpg",
+      "publishedAt": "2026-07-11T11:36:25.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 71,
+      "id": "bd25d13d9a92"
+    },
+    {
+      "title": "Top 10 most populous countries in Africa in 2026",
+      "summary": "Top 10 most populous countries in Africa in 2026 &nbsp;&nbsp; Nairametrics",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMUh5MXJacUNTaG5MZWE0b2VGMS13SGN4QlU5ZXh4ZFBOb3VXQXFwTXB0emRaeWg0VTVkamFsZVpFekNac0Y1V2ZNVkdBMmJIUW5pNUQ0bUFwODUwdGFmRWxyc3c0elEwUGFJbld0UDdLVzNkSHNiMVR3cG5XWWdSblp3QlRqbnNGWmlqaFlR?oc=5",
+      "source": "Nairametrics",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-11T11:21:20.000Z",
+      "image": "",
       "topic": "社会",
-      "score": 73,
-      "id": "33db70d5d548"
+      "score": 71,
+      "id": "e3968e7a7a5e"
+    },
+    {
+      "title": "FIFA U-17 (WWC): Zambia ready to face Ethiopia – Phiri",
+      "summary": "FIFA U-17 (WWC): Zambia ready to face Ethiopia – Phiri &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRUVlT3B4MXVNdW5kWkhSZUEtek5YUWl6ZGJwZjQ1TkhiMjFjNjhKdS1CWll4MFhNWjBLX3huQUd0UnlZUmRuTWlnd1gtRmMxbVJiSThsNjE3M1hMMDBHbEE5RHdxRkNPOW00SFJlWmlKSjUzcFJjUWI1UHBYc1ItYm5nb1FzSUpU?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-11T11:08:42.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "43147df6348a"
+    },
+    {
+      "title": "FIFA U-17 (WWC): Zambia Copper Princesses Leave for Ethiopia",
+      "summary": "FIFA U-17 (WWC): Zambia Copper Princesses Leave for Ethiopia &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWVNCN3lxY2FGS1Bkc3pVbExtUlFJcjluQ0hsQXNhb3QzMkFKdExfN256bGUxNHM1SHJscWZxMS1tTWl2TkRESWp0ZE1CWFFqaTdETTAzb3JSSVFiVFpTNWNiRHh2blhPX25JNlJFYTNramJNX01TTHFWaHdab2JXajZYRXg0cUJDdGxzQmVtLU5XT1U?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-11T11:02:24.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "d89f8bcc3dce"
+    },
+    {
+      "title": "Donald Trump’s plan to take over Latin America",
+      "summary": "Donald Trump’s plan to take over Latin America &nbsp;&nbsp; The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObmxKaTRERVhWMnhhQlJIb1F3RGtTbmg3MlkwRzlzRTdPU1hGVlpKTEhCdmFWTGpYZ2dpdE84eDlxMlZ6OFZXNzUyQ2Exd1hlemNPam1qc05NTDVwRDU1QzY3YWFTYXNXLXgyVWhWSDRDSWV2eFYzYUFJakU4VmxWN3Jxb2Z6RGhldWhLTWVaaDVUbGw2dlJWaWlfTUI?oc=5",
+      "source": "The Telegraph",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-11T11:00:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "09af6730ab32"
     },
     {
       "title": "Russian overnight strikes on Kyiv injure ten",
@@ -484,7 +679,7 @@
       "publishedAt": "2026-07-11T08:25:11.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "e6e73c1a7909"
     },
     {
@@ -497,7 +692,7 @@
       "publishedAt": "2026-07-11T08:23:45.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2897/live/340b2400-7c96-11f1-9b18-bb5b415621a9.jpg",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "406e409c1a98"
     },
     {
@@ -510,7 +705,7 @@
       "publishedAt": "2026-07-11T08:21:20.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "addefcc7e774"
     },
     {
@@ -523,21 +718,8 @@
       "publishedAt": "2026-07-11T07:51:49.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "a7fac5541b97"
-    },
-    {
-      "title": "Aerial Kicks and Board Breaking Thrill Spectators... Chuncheon Heats Up with Taekwondo Festival Fever",
-      "summary": "Aerial Kicks and Board Breaking Thrill Spectators... Chuncheon Heats Up with Taekwondo Festival Fever &nbsp;&nbsp; 아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZeHN4WDNyYnZqTFB2bTVuSldqcHRUWGd4Y20zV2FDSU12aUZSd1NIa1p3eDJmdG1aSDFfMnBveXF0ZTBQVHpoME15MER5Z2F5VzRUbFJIeV9MWEZVSEllTmUtaDVjS3lkaExSYm54VEJxcXRQU1ZBSw?oc=5",
-      "source": "아시아경제",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-11T07:38:28.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "d8051c5ab01e"
     },
     {
       "title": "BREAKING: Manqoba Mngqithi Lands Major Move, Appointed Young Africans Head Coach",
@@ -549,21 +731,8 @@
       "publishedAt": "2026-07-11T07:36:33.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "d53a9ec55148"
-    },
-    {
-      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "summary": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
-      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-07-11T04:56:33.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9e/live/f34fa810-7cfd-11f1-926f-c90d1bcfbc84.jpg",
-      "topic": "政治",
-      "score": 73,
-      "id": "05fcc743c537"
     },
     {
       "title": "Small plane crash in Bahamas kills 10 people",
@@ -575,21 +744,21 @@
       "publishedAt": "2026-07-11T04:47:37.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ca/live/66dbf810-7cdb-11f1-8c49-6f4d70563315.jpg",
       "topic": "政治",
-      "score": 73,
+      "score": 71,
       "id": "62e35fbe3cf8"
     },
     {
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "summary": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
-      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-07-11T01:45:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05bb/live/b840f240-7ccd-11f1-bee8-53ce494e1abc.png",
-      "topic": "科技",
-      "score": 73,
-      "id": "1daa5e97c9b9"
+      "title": "Morocco Becomes Top African Market for Turkish Exports, Trade Reaches $2.1 Billion",
+      "summary": "Morocco Becomes Top African Market for Turkish Exports, Trade Reaches $2.1 Billion &nbsp;&nbsp; Morocco World News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNWlKSVgtaW1pSUY1cFcyRndkTWZXMUdQQmdlZjRhQ09sY1MxN2dFU3U1S3BmV0hZbm4yNEw5ZGNZSjNrRkhyR1J2YlJOOTNJMDJnS3lfVEFjd0FtMnhTOHFDVWJlS0ZOWElKN2t2ZE5Jb0ZnZnZaNGFPUTN4Y1ZSdVRtb2FZVWVoRXJnLWtNSTFscVRld19EWXNGcEhIRFdpa0lxS2JVVkRjWUxGRW0xTWFvbWd0a09VVmJDZjNFS3NWcDYwZFlQcw?oc=5",
+      "source": "Morocco World News",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-11T10:35:35.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 70,
+      "id": "9d8db815a206"
     },
     {
       "title": "UPSC CURRENT AFFAIRS – 11 JULY 2026",
@@ -601,7 +770,7 @@
       "publishedAt": "2026-07-11T10:26:20.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "471893f8124c"
     },
     {
@@ -614,7 +783,7 @@
       "publishedAt": "2026-07-11T10:13:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "bbd929667c39"
     },
     {
@@ -627,7 +796,7 @@
       "publishedAt": "2026-07-11T07:37:46.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "2f28ab702da0"
     },
     {
@@ -640,47 +809,8 @@
       "publishedAt": "2026-07-11T07:19:53.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "ef11e52853db"
-    },
-    {
-      "title": "John Humphrys criticises successors on ‘irritating’ Today programme",
-      "summary": "Ex-presenter of BBC Radio 4 show complains in Guardian of ‘gratuitous gratitude’ and ‘gushing’ between host and guest For more than three decades, John Humphrys delighted and infuriated listeners in equal measure as he confronted the nation’s politicians in his trademark, pointed style on the Today programme. Now a listener himself, the former presenter of t",
-      "url": "https://www.theguardian.com/media/2026/jul/11/john-humphrys-today-programmme-bbc-radio-4-irritating",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-11T07:00:43.000Z",
-      "image": "https://i.guim.co.uk/img/media/1302c3f8450ad321a8fe3298ee07806ce5b9adbc/0_0_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=ebc748a2f9c764150911c1b5d29ae214",
-      "topic": "经济",
-      "score": 72,
-      "id": "63d6cbbbef7f"
-    },
-    {
-      "title": "World Cup quarter-final expected to generate £500m sales boost for UK economy",
-      "summary": "As England prepare to take on Norway on Saturday, sales of pints, takeaways and new TVs continue to surge From a cosy Norwegian pub to outdoor fan zones packed with hopeful England football fans, Saturday’s World Cup quarter-final between the two nations is expected to generate a multimillion-pound windfall for venues showing the game. The quarter-finals wil",
-      "url": "https://www.theguardian.com/business/2026/jul/11/world-cup-quarter-finals-expected-to-generate-half-billion-pound-sales-rise-for-uk-economy",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-11T07:00:43.000Z",
-      "image": "https://i.guim.co.uk/img/media/43af167d9ad100843f497512794dbf889873e0a8/477_0_5602_4480/master/5602.jpg?width=140&quality=85&auto=format&fit=max&s=af4b70bb4071c71f9809f386d89205d8",
-      "topic": "经济",
-      "score": 72,
-      "id": "a7822dab5097"
-    },
-    {
-      "title": "World Cup: Kane vs Haaland in England-Norway quarterfinal striker battle",
-      "summary": "Haaland termed a 'beast' by England's Kane as the lethal forwards aim to carry their teams into the semifinals.",
-      "url": "https://www.aljazeera.com/sports/2026/7/11/kane-vs-haaland-in-england-vs-norway-world-cup-quarterfinal-of-strikers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-11T03:54:17.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "2fcbc142dc0f"
     },
     {
       "title": "Argentina vs Switzerland: World Cup quarterfinal – Messi, prediction, news",
@@ -692,8 +822,21 @@
       "publishedAt": "2026-07-11T06:59:15.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "a8c71190cbe3"
+    },
+    {
+      "title": "JR East adopting AI, drones to quickly restore train operations",
+      "summary": "JR East adopting AI, drones to quickly restore train operations &nbsp;&nbsp; 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rWVBjc0ZkcmNHd0RwU1c2Z1JvaE80Tms1eElaLWlhY0FzUDg0dkxObmptWE5TQUxXTm43N2YwbkdvTnFCcEtDM3FnZG5Gck1lNzlOTEJNYTVKamstQUE?oc=5",
+      "source": "朝日新聞",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-11T09:32:03.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 69,
+      "id": "6ea82c6df1d4"
     },
     {
       "title": "Scottie Scheffler misses the cut for the first time in four years",
@@ -705,7 +848,7 @@
       "publishedAt": "2026-07-11T06:44:37.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7361572da6011a219332458b1f0a65dc?impolicy=wcms_crop_resize&cropH=1980&cropW=3519&xPos=1105&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 71,
+      "score": 69,
       "id": "f651fc31dec1"
     },
     {
@@ -718,7 +861,7 @@
       "publishedAt": "2026-07-11T06:22:09.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d9f90398f6cdfdb26c2f4a5d16f35bd6?impolicy=wcms_crop_resize&cropH=768&cropW=1366&xPos=0&yPos=506&width=862&height=485",
       "topic": "社会",
-      "score": 71,
+      "score": 69,
       "id": "46efc62cd19a"
     },
     {
@@ -728,11 +871,24 @@
       "source": "Breaking Travel News",
       "feed": "Latin America News Network",
       "region": "美洲",
-      "publishedAt": "2026-07-11T06:01:27.000Z",
+      "publishedAt": "2026-07-11T06:05:13.000Z",
       "image": "",
       "topic": "经济",
-      "score": 71,
+      "score": 69,
       "id": "c1f62e60f0bd"
+    },
+    {
+      "title": "Vietnam Airlines Enhances Northeast Asia Network to Meet Growing Travel Demand",
+      "summary": "Vietnam Airlines Enhances Northeast Asia Network to Meet Growing Travel Demand &nbsp;&nbsp; Breaking Travel News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGNIckcwWU9INElFY0h3RDhHLU9wSTJPM1pFcjVuekZkWlJRZW9DLWZvanluTEVXYVh3empidFUtREFxbzBzejA5azlHMTcyak9yb2lXN0lOMDVDZGg4cmZ5M3o0Mm9qWmlFYzNDaGFwTjRURm1tcFFoWnVyNi1SeXExVWM2TUdKbjlPaXRnYXNVc1lkSVJJbWtVV3c5TVJIMkY4Sl9NUDJaOFp5YXBLV1lLYTFMX183eUM1LUY1YkdVUQ?oc=5",
+      "source": "Breaking Travel News",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-11T05:55:15.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 69,
+      "id": "4a80c502ebfa"
     },
     {
       "title": "Instagram pulls new AI feature after widespread backlash",
@@ -744,7 +900,7 @@
       "publishedAt": "2026-07-11T03:37:57.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/11426b5de7e365a0a20229d87c15709e?impolicy=wcms_crop_resize&cropH=458&cropW=814&xPos=67&yPos=6&width=862&height=485",
       "topic": "科技",
-      "score": 71,
+      "score": 69,
       "id": "16a3b45a773c"
     },
     {
@@ -757,7 +913,7 @@
       "publishedAt": "2026-07-11T03:13:20.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/46a736ad2ef855310649c6d62f123388?impolicy=wcms_crop_resize&cropH=396&cropW=700&xPos=100&yPos=125&width=862&height=485",
       "topic": "社会",
-      "score": 71,
+      "score": 69,
       "id": "dcad692c3421"
     },
     {
@@ -770,177 +926,21 @@
       "publishedAt": "2026-07-11T02:46:15.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1ac2534cb110f163533530ecc0b2897d?impolicy=wcms_crop_resize&cropH=2316&cropW=4118&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 71,
+      "score": 69,
       "id": "073eedaf0a19"
     },
     {
-      "title": "Record heatwave brings hottest June for western Europe",
-      "summary": "Record heatwave brings hottest June for western Europe &nbsp;&nbsp; EnviroNews Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd0ZWbWl0LW5lMnYydVF0ZTZFNkpSUllOMkxiZHlOT05peXhLZUxUUmt2ZDd4RnZjdXhrTFJtLWxVZXJ3UksxcFRuc1F4R2thUlNQNVA0RlRTdW5fNDUxRGsxQUhfVUY1SVgxclplRnhidFl6M2xoaDdqUndFM3pEbUFReWZrdU1UQmc0UzgxZmVsbTA?oc=5",
-      "source": "EnviroNews Nigeria",
+      "title": "From Eurovision to NATO, Canada Edges Closer to Europe",
+      "summary": "From Eurovision to NATO, Canada Edges Closer to Europe &nbsp;&nbsp; Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWDUyaWZjQVpaR0kta1FPRlhaRlRjTDNMdTNjaFc1NWs5b2EtZlJHVnRpdFQ4endkQkM4MkRMMEhJQkxLX3RLcXZneV9GYlJ6Wk5Dc1Znendna0dWeG5wTUh1anhZTk1URENkdUJNcDU2SVB5YlVXT3h2M0JHb3lmRWFn?oc=5",
+      "source": "Newsweek",
       "feed": "Europe News Network",
       "region": "欧洲",
-      "publishedAt": "2026-07-10T17:42:07.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 71,
-      "id": "9fbe6ddc8469"
-    },
-    {
-      "title": "Europe's top international scorers: Cristiano Ronaldo out in front, ahead of Romelu Lukaku, Robert Lewandowski and Harry Kane | European Qualifiers",
-      "summary": "Europe's top international scorers: Cristiano Ronaldo out in front, ahead of Romelu Lukaku, Robert Lewandowski and Harry Kane | European Qualifiers &nbsp;&nbsp; UEFA.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcFBYUGJHa0tHRjgyS2pFNjdHdDREYVlQNGViM29fSUg1RUpnM1MxMWxwNVhYVTl3cnVTZk9OTHN6dnctTXN1anRWTXFpQ1NvUURCRW11TS11d1RtTVdTNUs3RjZpNzV2Wm9jdDkxMXFhZ1VMajVoMGRjYlhQbEM3Z0xDc0tkckk0RFZtNGgxTU5QQWl5WFB3R2NNUWJscUlNNGh3TmxpZExISlR5NjNDak5uS0pTOGlHTmI5Z1VsWmp1dVo5elJIc1NHbXlqS0lpRU1GbDBLLVU?oc=5",
-      "source": "UEFA.com",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-11T08:47:19.000Z",
+      "publishedAt": "2026-07-11T09:00:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
-      "id": "ea55ab1d6f11"
-    },
-    {
-      "title": "Vietnam Airlines Enhances Northeast Asia Network to Meet Growing Travel Demand",
-      "summary": "Vietnam Airlines Enhances Northeast Asia Network to Meet Growing Travel Demand &nbsp;&nbsp; Breaking Travel News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGNIckcwWU9INElFY0h3RDhHLU9wSTJPM1pFcjVuekZkWlJRZW9DLWZvanluTEVXYVh3empidFUtREFxbzBzejA5azlHMTcyak9yb2lXN0lOMDVDZGg4cmZ5M3o0Mm9qWmlFYzNDaGFwTjRURm1tcFFoWnVyNi1SeXExVWM2TUdKbjlPaXRnYXNVc1lkSVJJbWtVV3c5TVJIMkY4Sl9NUDJaOFp5YXBLV1lLYTFMX183eUM1LUY1YkdVUQ?oc=5",
-      "source": "Breaking Travel News",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-11T05:51:24.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "4a80c502ebfa"
-    },
-    {
-      "title": "Tehran launches more strikes as Israel warns it is ready to strike Iran again ‘with even greater force’ – as it happened",
-      "summary": "This live blog is now closed. US and Iran trade most intense strikes since ceasefire extended Kuwait’s foreign ministry has issued a statement condemning the Iranian attacks against the country. It reads almost identical to the statement issued yesterday, although emphasises Kuwait’s sovereignty is “a red line” . “The state of Kuwait reserves its full rights",
-      "url": "https://www.theguardian.com/world/live/2026/jul/09/iran-us-middle-east-strikes-centcom-bahrain-kuwait-qatar-strait-of-hormuz-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-07-09T17:57:55.000Z",
-      "image": "https://i.guim.co.uk/img/media/67c2f6b1a7a171ce844b19911f34101aa638483d/540_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=0166ad05cefa19cb2e378e7e4aa630b1",
-      "topic": "政治",
-      "score": 70,
-      "id": "1e353a9619b7"
-    },
-    {
-      "title": "WATCH: Mozambique holiday turns sour for tourists: 'Go back to South Africa’",
-      "summary": "WATCH: Mozambique holiday turns sour for tourists: 'Go back to South Africa’ &nbsp;&nbsp; IOL",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVEI1UHJyMUJYb3NxNDBtQlRBc0laMHFEY2VzcXlGWFFqbnNjeFdMck1leXk3ZHYwZU1faGtUOTI3emRxZEdzSjhDSHVqVlFUYVRBeVpSNUw5OHNIcUNSUy0wLXVzZTMxNkxNVnFnT1dubGxqVGJBUXgxUG5vT1dqZW9VZVNnWEszYktlQXdaVHZOYmRXU0Fxcy1ncXE0dldFQnEzeDJlNTlKRHNyUkNSRGdfMWc5Zw?oc=5",
-      "source": "IOL",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-11T08:18:47.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "e54715a56acd"
-    },
-    {
-      "title": "American YouTuber sentenced to 6 months in South Korean prison for offensive stunts",
-      "summary": "American YouTuber sentenced to 6 months in South Korean prison for offensive stunts &nbsp;&nbsp; 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2TUU2UkpOdTc1Smw0SlJRdmlaTVZyYjE3eUQ4MnRJWEFCZnBLbDh2bFdpUXdIM0R0V19kc2NqZGRuVTNOdjBKLThLWUF4UEhTZ0JXb2tTcmt3VkE2Y3c?oc=5",
-      "source": "朝日新聞",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-11T07:57:09.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "ddb0f3d8c92c"
-    },
-    {
-      "title": "Amul s Red Line, Modi s Indo-Pacific Bet — What Did India Quietly Concede to Seal the New Zealand FTA?",
-      "summary": "Amul s Red Line, Modi s Indo-Pacific Bet — What Did India Quietly Concede to Seal the New Zealand FTA? &nbsp;&nbsp; indiaherald.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWDEzX2NPSjd3MnVBemdITWpuQVNqd3MtcjcyWVBXNzdaS0o0dlB1NE9qZW1qVGZlZmh2RTdMSUIyZmZWa3pPdGpqNVlqRlZXNGROM19xSTVGbFdVMHItSXZtV1BBZExRSE5aaGhGbGdpanJ6V2lMNnRabTNKcU9pLXN2R0JlWkFwNTk2cGJNWXB2U1FCY3pKZkU3eFpxVXdUYVZpTQ?oc=5",
-      "source": "indiaherald.com",
-      "feed": "Pacific News Network",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-11T07:49:59.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "d2cd1a4f30a4"
-    },
-    {
-      "title": "PM Modi In New Zealand_ Why The Island Nation Is India-s Newest Chapter In Indo-Pacific Playbook",
-      "summary": "PM Modi In New Zealand_ Why The Island Nation Is India-s Newest Chapter In Indo-Pacific Playbook &nbsp;&nbsp; The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQjJ2eE4ydjFvdHNfRlhsWXlnbmhjZTg5a0VFU0VlanpobFU3Ym11ekREQl9wUHphMU14QjFYOG1CUGdXRVV0Z05teFZlWWR0UHE0ZkpqeC1YYWNhSEhxYzVHNDRyZlVIR1NrdHdaRGE5NVllbUdXYVNfSGEtTjdDZHRmV3RGekFJOWZtempHckNPTUtCcHNDbS16by04aGZiMVhtSl9QY2pOSkhuMDJsZm02VGp4VGJKWi12TDhSNE9weG82YzRNRUZjZHd5SkZIbjQ5a014Z3hBVmNmamVaa25NREJpN19sXzI2V0RFMlFOX1dPUEstYnZBUG4zQklnclUwd9IBigJBVV95cUxPRVFNcjlIUDhaWmcxaGozOUxtM1ZJaEljNm1LeWt6YVdvOVR4WEt4TGRZbkpSaFVrWDYxb3hSN3RFeG1xN19fSktOalhtbzl0Z2RjSC1WNlIwM2tGZHJKVXd0OG56NF9jYmpGMFZKUEMyakJqdWJpbk1QNU1yT3RaT2dMZ0tmQWt0YXdCT0ktckNxakJ3UHVkQ3RlRjBieDdyaUhQa1pWeVdab2p5Uk04SUtPZ0VuZTNQcE9kUFZHWC1uVmRPc3NENnIxckpwa1J5RWlWVkphU3Z5cXFUNG1EdEMtYkI4elZRUG9XelNxZGF4NGUwUFkxQTg1Q2hHT1NOdTVTUW1ESmhHQQ?oc=5",
-      "source": "The Times of India",
-      "feed": "Pacific News Network",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-11T05:19:42.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "6b6582c37b3e"
-    },
-    {
-      "title": "How a $400K executive university job led to a corruption probe",
-      "summary": "Plans to create a new executive position at a time when jobs were being slashed at the University of Wollongong caused deep divisions and sparked an inquiry by the state's corruption watchdog.",
-      "url": "https://www.abc.net.au/news/2026-07-11/uow-job-that-triggered-icac-probe/106902420",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-11T05:16:17.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/07de6b31c4f08d58e715ecc7837f0db6?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=100&width=862&height=485",
-      "topic": "经济",
-      "score": 69,
-      "id": "08e2c62f9b16"
-    },
-    {
-      "title": "WA Labor MP's electorate office damaged' in 'targeted incident'",
-      "summary": "Scarborough MP Stuart Aubrey says his office was \"deliberately damaged\" by a vandal on Friday night.",
-      "url": "https://www.abc.net.au/news/2026-07-11/scarborough-mp-stuart-aubrey-office-vandalised-wa/106905280",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-11T05:00:29.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/cea463c0cf90d7ca73615719e221d2cf?impolicy=wcms_crop_resize&cropH=506&cropW=900&xPos=0&yPos=47&width=862&height=485",
-      "topic": "社会",
-      "score": 69,
-      "id": "fbf97049651d"
-    },
-    {
-      "title": "Telstra will face Senate inquiry after nationwide outage",
-      "summary": "The telco will face a grilling from politicians about this week's nationwide outage that brought businesses and transport systems into chaos.",
-      "url": "https://www.abc.net.au/news/2026-07-11/telstra-to-appear-before-senate-inquiry-after-nationwide-outage/106905204",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-11T05:00:07.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/02106585136de76b22473dc6461f1574?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "经济",
-      "score": 69,
-      "id": "0ccc919dcefe"
-    },
-    {
-      "title": "SAPS probes UK fugitive Ndodana Tshuma’s entry into South Africa",
-      "summary": "SAPS probes UK fugitive Ndodana Tshuma’s entry into South Africa &nbsp;&nbsp; SABC News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdGlZVDYxX1I1U09GdUZ2MFZjRy00NkY1MzlRcWlUcXdKVmx5Q0E5ZzdqYlJGbkN1Um5qSjdPXzZvZThVbWRGVVJLYTZPVVVwdTJzVHc4S1FVa19qM0xfR2dWZXBzUkp1UlU5bGNtUUpzSXRCV1RBemtNWHM1MndHY2NmRmNxZ0FMRnpoZTFnQ3ZyVEpJNGJlNmxhSmQ3aWc?oc=5",
-      "source": "SABC News",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-11T04:58:09.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "c9414b5855ea"
-    },
-    {
-      "title": "‘We are the lost generation of Sudan’: Students in exile",
-      "summary": "Years of conflict have left thousands of Sudanese students struggling to continue their education in exile.",
-      "url": "https://www.aljazeera.com/news/2026/7/11/we-are-the-lost-generation-of-sudan-students-in-exile?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "非洲",
-      "publishedAt": "2026-07-11T04:41:40.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "3f93a1199ab0"
+      "score": 68,
+      "id": "0855cb682e27"
     }
   ]
 }
