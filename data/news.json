@@ -1,11 +1,50 @@
 {
-  "updatedAt": "2026-07-12T22:10:27.809Z",
+  "updatedAt": "2026-07-12T23:11:53.340Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "Middle East crisis live: US launches new wave of strikes on Iran; Tehran says attacks render diplomacy ‘futile’",
+      "summary": "Iran has sought to establish a permanent system for collecting fees in the strait of Hormuz and warned vessels not to sail without its authorisation The US and Iran have again exchanged heavy missile and drone assaults , with Tehran targeting US facilities in states across the Gulf and saying it had again closed the vital strait of Hormuz. The US military ⁠b",
+      "url": "https://www.theguardian.com/world/live/2026/jul/13/middle-east-crisis-live-us-launches-new-wave-of-strikes-on-iran-tehran-says-attacks-render-diplomacy-futile",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-07-12T22:43:40.000Z",
+      "image": "https://i.guim.co.uk/img/media/0b8cf49a0160ddf1f85e423260216a183df6a248/1040_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=2563990829aff19123cee7dae35e5723",
+      "topic": "政治",
+      "score": 97,
+      "id": "3107a28e394d"
+    },
+    {
+      "title": "At least 27 killed in Bangkok bar fire",
+      "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-07-12T22:57:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b80/live/97127080-7e44-11f1-b976-0b9c15b0ccfc.jpg",
+      "topic": "社会",
+      "score": 96,
+      "id": "0210b4b59c68"
+    },
+    {
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-07-12T22:17:40.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e75/live/a70b6a10-7e07-11f1-afb0-9dae682daff3.jpg",
+      "topic": "科技",
+      "score": 96,
+      "id": "499ca97d8c8f"
+    },
     {
       "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
       "summary": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
@@ -16,7 +55,7 @@
       "publishedAt": "2026-07-12T22:08:07.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8847/live/fa519f30-7e2c-11f1-91a9-7f19a8ed5bed.jpg",
       "topic": "社会",
-      "score": 92,
+      "score": 91,
       "id": "b0657131cc10"
     },
     {
@@ -29,7 +68,7 @@
       "publishedAt": "2026-07-12T21:48:38.000Z",
       "image": "https://i.guim.co.uk/img/media/f7c19d6c52fb2fdf721540b7dc60796a03e89f3b/299_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=05b2cbc009bb175c4e3c970e0e4a77f0",
       "topic": "社会",
-      "score": 92,
+      "score": 90,
       "id": "89869f00940f"
     },
     {
@@ -42,21 +81,8 @@
       "publishedAt": "2026-07-12T17:51:54.000Z",
       "image": "",
       "topic": "政治",
-      "score": 91,
-      "id": "d14903983860"
-    },
-    {
-      "title": "At least 27 killed in Bangkok bar fire",
-      "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through blasting flames to escape.",
-      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-07-12T20:13:14.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51a3/live/23c24750-7e34-11f1-b976-0b9c15b0ccfc.jpg",
-      "topic": "社会",
       "score": 90,
-      "id": "0210b4b59c68"
+      "id": "d14903983860"
     },
     {
       "title": "Fire breaks out at a pub in Bangkok, killing at least 27 people, officials say",
@@ -68,7 +94,7 @@
       "publishedAt": "2026-07-12T19:53:24.000Z",
       "image": "",
       "topic": "社会",
-      "score": 89,
+      "score": 88,
       "id": "190aaf85e7bf"
     },
     {
@@ -81,7 +107,7 @@
       "publishedAt": "2026-07-12T18:49:08.000Z",
       "image": "https://i.guim.co.uk/img/media/1d5ae5f7e9cd17db1393a67cbf0caebef1ff3f54/0_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=85b6023aa26be57a3343a00a86b540e4",
       "topic": "政治",
-      "score": 89,
+      "score": 88,
       "id": "667d4a83e04c"
     },
     {
@@ -94,21 +120,21 @@
       "publishedAt": "2026-07-12T21:23:56.000Z",
       "image": "https://i.guim.co.uk/img/media/151eab3b0c4e453c8afb3ae48f3b11c81b30689a/0_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=76439e9c61b6d3e3cb19c60d1da510d4",
       "topic": "政治",
-      "score": 87,
+      "score": 86,
       "id": "f34e79c702e5"
     },
     {
-      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
+      "title": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
+      "summary": "Progressive congressman accuses Israeli military of 'lying' after settlers held up his van in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
       "region": "中东",
-      "publishedAt": "2026-07-12T16:46:24.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e75/live/a70b6a10-7e07-11f1-afb0-9dae682daff3.jpg",
-      "topic": "科技",
-      "score": 86,
-      "id": "499ca97d8c8f"
+      "publishedAt": "2026-07-12T21:59:36.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 83,
+      "id": "2641f237de30"
     },
     {
       "title": "Several people killed in Chile after car driven by navy officer crashes into an open-air market - ABC News",
@@ -120,7 +146,7 @@
       "publishedAt": "2026-07-12T21:58:44.000Z",
       "image": "",
       "topic": "经济",
-      "score": 85,
+      "score": 83,
       "id": "f41c4f429efb"
     },
     {
@@ -133,34 +159,34 @@
       "publishedAt": "2026-07-12T17:09:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "fa5ec21d903f"
     },
     {
-      "title": "BREAKING NEWS: Longtime South Carolina GOP Senator & Trump ally Lindsey Graham dies at 71",
-      "summary": "BREAKING NEWS: Longtime South Carolina GOP Senator & Trump ally Lindsey Graham dies at 71 &nbsp;&nbsp; Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jdkRBRFhIdFBEbURrLUlXWHJGYXB0QVBTd2xPSW04cHhMd1huY3FSalFuSkZsS3ZUR09XNGpCd2pYU2laQVZsUUdpaU92VllqOGFZQS1aSndIYXY3cFFv0gFcQVVfeXFMTzduX0pNejBua2hrNjdVSi04dEU2SWhwM0N6LVZaOGNzWXRsTk1mZ3pmb2p4ekthVWF1a1ZzT2dyNjg2akt2MDJvNU5kSzFqQUl3S3ZUa0ZqRDc4bHQ?oc=5",
-      "source": "Modern Ghana",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-07-12T14:24:04.000Z",
+      "title": "Iran denies attack on Bushehr nuclear plant - Shafaq News | Latest breaking news in Iraq and the world",
+      "summary": "Iran denies attack on Bushehr nuclear plant - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd05tY1NSbjRDci15MkFBMHVqWU5WTWNidXdSc1hQcUlnTHJiRVlCOGZxZEZ4TmRtdFlRUlQxRmpuMTFBbmpZUkpiOThKeC10MFp6cEUwc3RDRFhrbUxiTmtlZ05SNUlLVkQzQXFPMXk5ME1Mb0psS1B2c0NVRHJLTzhFZw?oc=5",
+      "source": "شفق نيوز",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-12T23:00:39.000Z",
       "image": "",
       "topic": "社会",
-      "score": 83,
-      "id": "4d246883c64f"
+      "score": 81,
+      "id": "15c1ce84886e"
     },
     {
-      "title": "Fire engulfs popular Bangkok pub, killing 27 people and injuring 63",
-      "summary": "Footage shared online by first responders showed a huge blaze raging in the Na Ladprao pub.",
-      "url": "https://www.aljazeera.com/news/2026/7/12/fire-engulfs-popular-bangkok-pub-killing-27-people-and-injuring-63?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-12T20:48:37.000Z",
-      "image": "",
+      "title": "Bangkok pub fire kills at least 27 people and injures 63 others",
+      "summary": "A huge fire engulfed a pub in Bangkok, killing at least 27 people before firefighters brought the blaze under control.",
+      "url": "https://www.abc.net.au/news/2026-07-13/bangkok-pub-fire-kills-at-least-27/106908044",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-12T20:28:30.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2115410b85b4e0c1ace6789b0a2ca0c9?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 82,
-      "id": "a5a89fb0f822"
+      "score": 81,
+      "id": "82800fb4e1f3"
     },
     {
       "title": "Lindsey Graham’s sudden death sends shockwaves through Congress as politicians mourn and mull his replacement – as it happened",
@@ -172,8 +198,47 @@
       "publishedAt": "2026-07-12T19:48:36.000Z",
       "image": "https://i.guim.co.uk/img/media/0efe72f19d9f9b3069b1b545c785b173a2203db5/223_0_4375_3498/master/4375.jpg?width=140&quality=85&auto=format&fit=max&s=8afce6e5521dcb90c30d78fd1de44a51",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "e5290cee4789"
+    },
+    {
+      "title": "BREAKING NEWS: Longtime South Carolina GOP Senator & Trump ally Lindsey Graham dies at 71",
+      "summary": "BREAKING NEWS: Longtime South Carolina GOP Senator & Trump ally Lindsey Graham dies at 71 &nbsp;&nbsp; Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jdkRBRFhIdFBEbURrLUlXWHJGYXB0QVBTd2xPSW04cHhMd1huY3FSalFuSkZsS3ZUR09XNGpCd2pYU2laQVZsUUdpaU92VllqOGFZQS1aSndIYXY3cFFv0gFcQVVfeXFMTzduX0pNejBua2hrNjdVSi04dEU2SWhwM0N6LVZaOGNzWXRsTk1mZ3pmb2p4ekthVWF1a1ZzT2dyNjg2akt2MDJvNU5kSzFqQUl3S3ZUa0ZqRDc4bHQ?oc=5",
+      "source": "Modern Ghana",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-12T14:24:04.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 81,
+      "id": "4d246883c64f"
+    },
+    {
+      "title": "Slow Read exhibition asks us to ditch doom-scrolling for art",
+      "summary": "A new show at Hawthorn Arts Centre offers a range of immersive artworks made from books and paper that demand, and reward, our full attention.",
+      "url": "https://www.abc.net.au/news/2026-07-13/slow-read-exhibition-hawthorn-arts-centre/106866534",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-12T23:01:07.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/c81e79e8166989c02818e631a0db6547?impolicy=wcms_crop_resize&cropH=1406&cropW=2500&xPos=0&yPos=130&width=862&height=485",
+      "topic": "政治",
+      "score": 80,
+      "id": "410efd275468"
+    },
+    {
+      "title": "News live: Leeser accuses ‘spineless’ university vice-chancellors of failures on antisemitism; Dfat checking if Australians caught in Bangkok fire",
+      "summary": "Higher education chiefs, academics and students to give evidence at latest block of hearings at royal commission on antisemitism and social cohesion. Follow today’s news live Get our breaking news email , free app or daily news podcast The Department of Foreign Affairs and Trade (Dfat) is investigating if any Australians were affected by a deadly fire at a p",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/13/australia-news-live-auction-clearances-property-market-richard-scolyer-state-memorial-royal-commission-antisemitism-university-albanese-labor-coalition-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-12T22:40:59.000Z",
+      "image": "https://i.guim.co.uk/img/media/6d7935de0f58b044568550d49be74849628be4f4/160_149_2697_2158/master/2697.jpg?width=140&quality=85&auto=format&fit=max&s=e383f034e6a17adf3f9c37dbb1d2cd0c",
+      "topic": "经济",
+      "score": 80,
+      "id": "568a552748c3"
     },
     {
       "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
@@ -185,7 +250,7 @@
       "publishedAt": "2026-07-12T19:42:26.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc5d/live/bd733900-7e29-11f1-bee8-53ce494e1abc.jpg",
       "topic": "气候",
-      "score": 81,
+      "score": 80,
       "id": "2cdfcdf0c612"
     },
     {
@@ -198,25 +263,38 @@
       "publishedAt": "2026-07-12T19:14:55.000Z",
       "image": "",
       "topic": "经济",
-      "score": 81,
+      "score": 80,
       "id": "88d68c85b46b"
     },
     {
-      "title": "Australia news live: auction clearances nudge up after weeks under 50%; state farewell for Richard Scolyer",
-      "summary": "Almost 55% of homes at auction were sold, weekend figures show. Follow today’s news live Get our breaking news email , free app or daily news podcast Burke says there was a ‘reason’ woman with links to Islamic State was singled out with temporary exclusion order Burke said he wouldn’t be surprised if a woman with links to the Islamic State decided not to ret",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/13/australia-news-live-auction-clearances-property-market-richard-scolyer-state-memorial-royal-commission-antisemitism-university-albanese-labor-coalition-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-12T21:51:15.000Z",
-      "image": "https://i.guim.co.uk/img/media/991adbb5211e66d07ff5a3d7cf75ba6550d8e103/385_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=dc9bab941680f6b9d01c49333804e262",
-      "topic": "社会",
-      "score": 80,
-      "id": "ddab9484cfb5"
+      "title": "Kuwaiti offshore oil platform hit as Iran and US trade further strikes",
+      "summary": "Fresh attacks have rocked Iran and Kuwait as Tehran and Washington squared off over the Strait of Hormuz, offering contradicting statements as to whether the vital waterway was open to traffic.",
+      "url": "https://www.abc.net.au/news/2026-07-13/strikes-hit-kuwait-oil-platform-as-us-iran-war-continues/106908216",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "中东",
+      "publishedAt": "2026-07-12T22:20:20.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a7a603d3b06547840e2bfcd41c89255e?impolicy=wcms_crop_resize&cropH=2160&cropW=3840&xPos=0&yPos=0&width=862&height=485",
+      "topic": "经济",
+      "score": 79,
+      "id": "c7de0eda97fe"
     },
     {
-      "title": "'He's lost everything': Man recovering after robbers tie him up and burn down his house",
-      "summary": "Grant Whelan was assaulted and robbed in the early hours of Saturday morning. His family want anyone who has information to come forward.",
+      "title": "Mitch McConnell reveals fall led to hospitalization after weeks of silence",
+      "summary": "Senator says in statement he has undergone battery of tests after weeks of mounting speculation about his health US senator Mitch McConnell on Sunday revealed for the first time that a fall led to his hospitalization, breaking the silence about the Kentucky Republican’s condition after weeks of mounting speculation about his health. McConnell, 84, said in a ",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/mitch-mcconnell-hospitalization-fall",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-12T22:11:09.000Z",
+      "image": "https://i.guim.co.uk/img/media/22f1f98161ac082e257697ba97c064be66e567cf/0_33_713_570/master/713.jpg?width=140&quality=85&auto=format&fit=max&s=3e391edb20044d6b87bce698675b3136",
+      "topic": "社会",
+      "score": 79,
+      "id": "b41a1e6e587a"
+    },
+    {
+      "title": "'He's lost everything': Robbers tie up victim then burn down his house",
+      "summary": "Grant Whelan was assaulted and robbed in a violent weekend home invasion. His family wants anyone who has information to come forward.",
       "url": "https://www.abc.net.au/news/2026-07-13/tas-community-rallies-for-76yo-bashed-in-home-invasion-and-arson/106906722",
       "source": "ABC Australia",
       "feed": "ABC Australia",
@@ -224,8 +302,8 @@
       "publishedAt": "2026-07-12T21:41:27.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/3b3fee340eab52810d85124429e95755?impolicy=wcms_crop_resize&cropH=469&cropW=834&xPos=100&yPos=187&width=862&height=485",
       "topic": "政治",
-      "score": 80,
-      "id": "5821880e3f8c"
+      "score": 79,
+      "id": "21a0fe5bb5ec"
     },
     {
       "title": "Deadly Israeli strikes pound Gaza",
@@ -237,7 +315,7 @@
       "publishedAt": "2026-07-12T21:33:10.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "e7453631c010"
     },
     {
@@ -250,7 +328,7 @@
       "publishedAt": "2026-07-12T21:26:28.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "1217294f346f"
     },
     {
@@ -263,7 +341,7 @@
       "publishedAt": "2026-07-12T21:21:27.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "d16627b5be2f"
     },
     {
@@ -276,7 +354,7 @@
       "publishedAt": "2026-07-12T21:12:54.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "f8e0703b092e"
     },
     {
@@ -289,21 +367,21 @@
       "publishedAt": "2026-07-12T21:08:18.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "7018ec04c921"
     },
     {
-      "title": "Man fatally shot by ICE is mourned at vigil: ‘dedicated to the American dream’",
-      "summary": "Congressman says Lorenzo Salgado Araujo’s ‘blood is on Trump’s hands’ after federal agents killed Texas builder The builder got up every morning long before dawn, left home to pick up his construction crew and then headed out to work on yet another house somewhere across the sprawl of Houston . Fourteen hours later, Lorenzo Salgado Araujo would return to the",
+      "title": "‘His blood is on Trump’s hands’: man killed by ICE in Texas mourned at vigil",
+      "summary": "Fatal shooting of Lorenzo Salgado Araujo, a Texas builder, renews outcry against Trump’s immigration crackdown The builder got up every morning long before dawn, left home to pick up his construction crew and then headed out to work on yet another house somewhere across the sprawl of Houston . Fourteen hours later, Lorenzo Salgado Araujo would return to the ",
       "url": "https://www.theguardian.com/us-news/2026/jul/12/lorenzo-salgado-araujo-texas-killed-ice-vigil",
       "source": "The Guardian",
       "feed": "The Guardian",
-      "region": "美洲",
+      "region": "全球",
       "publishedAt": "2026-07-12T21:03:40.000Z",
       "image": "https://i.guim.co.uk/img/media/31f843643cda3d925f36d2342fd1330264efc6f4/0_0_4773_3821/master/4773.jpg?width=140&quality=85&auto=format&fit=max&s=685d4ea5e4917e8ff3e24ff492d523e5",
       "topic": "社会",
-      "score": 79,
-      "id": "0dd105f6c460"
+      "score": 78,
+      "id": "66713efea7ed"
     },
     {
       "title": "Live: Markets on edge as US-Iran war flares again, oil price under pressure",
@@ -315,8 +393,21 @@
       "publishedAt": "2026-07-12T20:59:13.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&cropH=530&cropW=942&xPos=0&yPos=14&width=862&height=485",
       "topic": "经济",
-      "score": 79,
+      "score": 78,
       "id": "139bb7ab5671"
+    },
+    {
+      "title": "U.S. and Iran Ramp Up Attacks in Fight Over Strait of Hormuz",
+      "summary": "U.S. and Iran Ramp Up Attacks in Fight Over Strait of Hormuz &nbsp;&nbsp; WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFdrOUVRUGRhWjRkUTRKMHIyMGE2NDA1Qk1sYmoyRlVSdS1ndHI1dHBRLVBqdDJUYlg5RHR4aktvYWpydkZjSnFOUXNQXzFFMkVTQjBjTXdlU2l2TFhBVXNsOUpxem1vdklsOFVwR211Vmh5MkRQQV9iMTVmMWxGUWVDZXJDN3JXb1BWektnMEdmdEFnV3lVTVYtZ2ZLOUdrN3hwa2RPRGlHTzQ5SUYw?oc=5",
+      "source": "WSJ",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-12T17:52:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 78,
+      "id": "83cce84f076f"
     },
     {
       "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
@@ -328,7 +419,7 @@
       "publishedAt": "2026-07-12T17:50:27.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "337febf358f1"
     },
     {
@@ -341,8 +432,21 @@
       "publishedAt": "2026-07-12T20:52:53.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/56d58aad04a6a8a55c6477ca7ac8a9c6?impolicy=wcms_crop_resize&cropH=1943&cropW=3455&xPos=0&yPos=54&width=862&height=485",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "b34d9f34d26c"
+    },
+    {
+      "title": "Fire engulfs popular Bangkok pub, killing 27 people and injuring 63",
+      "summary": "Footage shared online by first responders showed a huge blaze raging in the Na Ladprao pub.",
+      "url": "https://www.aljazeera.com/news/2026/7/12/fire-engulfs-popular-bangkok-pub-killing-27-people-and-injuring-63?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-12T20:48:37.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 77,
+      "id": "a5a89fb0f822"
     },
     {
       "title": "Police warn Widdecombe murder speculation is ‘unhelpful and distressing’",
@@ -354,7 +458,7 @@
       "publishedAt": "2026-07-12T20:07:42.000Z",
       "image": "https://i.guim.co.uk/img/media/4812a0914fec38114a4cc3ebd29d40b6da73f173/756_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=1330ebddf4e18f4e013e1b5cbc64494e",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "c51f7d86f77f"
     },
     {
@@ -367,7 +471,7 @@
       "publishedAt": "2026-07-12T17:22:29.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "87e495164b9b"
     },
     {
@@ -380,21 +484,8 @@
       "publishedAt": "2026-07-12T19:48:00.000Z",
       "image": "",
       "topic": "经济",
-      "score": 77,
+      "score": 76,
       "id": "4144d87c7b6c"
-    },
-    {
-      "title": "England vs Argentina: Greatest moments before FIFA World Cup semifinal",
-      "summary": "England and Argentina renew their longstanding football rivalry with a World Cup final place at stake.",
-      "url": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-england-vs-argentina-historic-rivalry-greatest-moments-semifinal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-07-12T19:31:20.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 77,
-      "id": "deee5783ca91"
     },
     {
       "title": "Why the Iran-US ceasefire is falling apart",
@@ -406,7 +497,7 @@
       "publishedAt": "2026-07-12T19:27:34.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "985b09d38571"
     },
     {
@@ -419,7 +510,7 @@
       "publishedAt": "2026-07-12T19:21:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "a03b677b1bb4"
     },
     {
@@ -432,34 +523,60 @@
       "publishedAt": "2026-07-12T16:58:11.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "37d7eb369292"
     },
     {
-      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-      "summary": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
-      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-07-12T16:35:50.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d015/live/7ee2a4e0-7df8-11f1-9800-45cddfec00b9.jpg",
-      "topic": "社会",
-      "score": 77,
-      "id": "935b77f42a77"
+      "title": "Lindsey Graham tributes from Israel and Ukraine point to complicated, often bloody legacy",
+      "summary": "Republican senator, who died Saturday, had a global reach few could rival and was vital in shaping Trump’s worldview It was revealing that one of the first tributes to Lindsey Graham, a US senator who died on Saturday aged 71, came from Itamar Ben-Gvir, Israel’s national security minister, a far-right provocateur who recently caused widespread anger by shari",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-israel-ukraine-foreign-policy-legacy",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-07-12T22:36:33.000Z",
+      "image": "https://i.guim.co.uk/img/media/315cc70758c3aef7d7c9a765b9e074074599110b/936_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=57bf3839dbb088aa62f772a3d166db86",
+      "topic": "政治",
+      "score": 75,
+      "id": "b36886cf98ed"
     },
     {
-      "title": "Girl, 9, among at least six killed in Israeli Gaza attacks - say Palestinian officials",
-      "summary": "A nine-year-old girl was among at least six people killed by Israeli attacks in Gaza on Sunday, according to Palestinian health officials.",
-      "url": "https://news.sky.com/story/girl-9-among-at-least-six-killed-in-israeli-gaza-attacks-say-palestinian-officials-13562832",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "中东",
-      "publishedAt": "2026-07-12T15:39:00.000Z",
-      "image": "https://e3.365dm.com/26/07/1920x1080/skynews-gaza-israel_7296054.jpg?20260712170031",
+      "title": "North Midlands annual golf day rallies support for first aid",
+      "summary": "The long wait for an ambulance in WA's Wheatbelt makes first aid critical, and these golfers are ensuring their community is well prepared.",
+      "url": "https://www.abc.net.au/news/2026-07-13/north-midlands-annual-golf-day-rallies-support-for-first-aid/106907058",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-12T22:36:24.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/bfa18dda8a40c31e604a488b54f5a39a?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=112&width=862&height=485",
       "topic": "社会",
-      "score": 77,
-      "id": "318a0d9faecb"
+      "score": 75,
+      "id": "b9a63262c2e4"
+    },
+    {
+      "title": "Homes evacuated as firefighters tackle railway embankment blaze in east London",
+      "summary": "Fire in Walthamstow affected one house and multiple gardens and sheds, according to London fire brigade Residents have been evacuated from their homes after a fire at a railway embankment in east London. Twenty fire engines and about 125 firefighters were called to the incident near Vallentin Road in Walthamstow. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/12/more-than-100-firefighters-tackle-railway-embankment-blaze-in-east-london",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-12T22:34:10.000Z",
+      "image": "https://i.guim.co.uk/img/media/13d0a7c0aa0e6037aa7f7071e31a53937da09f76/1125_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=3efa69afc55cc5cf72c0f9c838c8ad5e",
+      "topic": "经济",
+      "score": 75,
+      "id": "7439e6add2ef"
+    },
+    {
+      "title": "'What were you doing?' The viral clip this AFLW star can't get away from",
+      "summary": "AFLW star Zarlie Goldsworthy used to carry the losses as GWS languished down the bottom of the ladder. She's learnt to let them go and stay motived.",
+      "url": "https://www.abc.net.au/news/2026-07-13/gws-star-zarlie-goldsworthy-on-growth-in-aflw-competition/106884092",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-12T22:15:07.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/8c7964eb2094486308072b9f2397b06f?impolicy=wcms_crop_resize&cropH=1716&cropW=3051&xPos=0&yPos=159&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "83a5575be1b7"
     },
     {
       "title": "Blind bowler's dream threatened by NDIS funding cuts",
@@ -471,7 +588,7 @@
       "publishedAt": "2026-07-12T22:03:04.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/f5bcb450e537aa9c6f84d2897f2d29da?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=2&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "16dd181d2bf4"
     },
     {
@@ -484,7 +601,7 @@
       "publishedAt": "2026-07-12T22:03:04.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/115081b76346e0513f99aa8a615a3083?impolicy=wcms_crop_resize&cropH=1701&cropW=3024&xPos=0&yPos=568&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "6eac1db7eee2"
     },
     {
@@ -497,7 +614,7 @@
       "publishedAt": "2026-07-12T19:01:40.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "d176d69f14cd"
     },
     {
@@ -510,34 +627,8 @@
       "publishedAt": "2026-07-12T18:57:17.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a2/live/dc811170-7e22-11f1-a1b8-3d436696a874.jpg",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "a150e177c7d1"
-    },
-    {
-      "title": "Attack on Iran's Farur Island kills communications official - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "Attack on Iran's Farur Island kills communications official - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWXFFcHVoRWlsLXFaWVBPbFFhbHljYUZHUVBMVFlzZTlEVXd3aXNjcFlpcjdBMm4yQ3pFSHpMSllETzhQakU3WnowcURzWlhHdnNqSHpaMWp3bDY2aC1LMkFYYW51VDNOaG9qYVZRMlVpUXdMcXBXWEhMbkYyZklRZncxNjBQRE9qQVVQZ2FPNGxObHc1Y2lWSg?oc=5",
-      "source": "شفق نيوز",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-12T18:17:47.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "d3a0a2fb13c2"
-    },
-    {
-      "title": "Middle East on edge again: Explosions in Doha, UAE, Bahrain and Jordan sound alarm as Iran launches attacks",
-      "summary": "Middle East on edge again: Explosions in Doha, UAE, Bahrain and Jordan sound alarm as Iran launches attacks &nbsp;&nbsp; MSN",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWUlYTVhTemxhVi1IS1lQVEoxNUludXY1S3lVajdTb0lBd1doNWhNRVBUSG9YdkYtdnhBMGFORWE3RWJ2bVlnQjFBZjJzSGJhV0NnYmlOeDgxRV95RG1NU21RWGRnUkk2MGlHQ2xuRmN4SWtHR1lhUGpIbUM3UEYzLWZBQUpPRV9zS0RKNVFyMmdnWEdCdjdEZE12akZyRHROS2tJOFZEYkp0T1J3MXlrVVZwSlNQV0tpNk9tUEl5VkVhWHVCaWNZRmtTWURzMUlJaVNTVGxWRWdsMm9pcUdoWHdKc0RuZDJhSUtVSkJrSG1oUHZuZWZaTDNydW0?oc=5",
-      "source": "MSN",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-12T15:23:28.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 76,
-      "id": "8296b0bed71c"
     },
     {
       "title": "One Nation’s rise puts the next election in ‘unknown territory’ – but does Pauline Hanson really have a path to government?",
@@ -549,7 +640,7 @@
       "publishedAt": "2026-07-12T15:00:21.000Z",
       "image": "https://i.guim.co.uk/img/media/00fcfd71010e8ecc87bcb22bd2dc48e8b34119e6/607_62_6803_5442/master/6803.jpg?width=140&quality=85&auto=format&fit=max&s=7ea0ddcd56a1cf0a42c6e63465b83b4d",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "1306acbc61f6"
     },
     {
@@ -562,7 +653,7 @@
       "publishedAt": "2026-07-12T11:27:35.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "74e17939e52d"
     },
     {
@@ -575,7 +666,7 @@
       "publishedAt": "2026-07-12T21:38:03.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/176c3b7e541033ec303c06f30c5195b1?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "09f85b7e05d3"
     },
     {
@@ -588,7 +679,7 @@
       "publishedAt": "2026-07-12T21:31:47.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/fa2df3d1eed55c77b45f24c9c2c676a6?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=151&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "09c3e4149a13"
     },
     {
@@ -601,7 +692,7 @@
       "publishedAt": "2026-07-12T21:22:42.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/e05414c84e7e3992587ece242770da0c?impolicy=wcms_crop_resize&cropH=1302&cropW=2315&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "2a61af6501fa"
     },
     {
@@ -614,34 +705,8 @@
       "publishedAt": "2026-07-12T21:11:15.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "a32bdb7fb771"
-    },
-    {
-      "title": "The man who changed the Arab world",
-      "summary": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani has died at age 74.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/the-man-who-changed-the-arab-world?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-12T21:09:03.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "094a24e16690"
-    },
-    {
-      "title": "Why are the world's biggest AI firms so attracted to the NT?",
-      "summary": "The NT's sunny skies, natural gas reserves and proximity to Asia have caught the attention of a dozen data centre developers.",
-      "url": "https://www.abc.net.au/news/2026-07-13/data-centre-hyperscalers-target-northern-territory/106898282",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "亚洲",
-      "publishedAt": "2026-07-12T21:08:31.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/bd42b59296c8058230e3f624fbc1399f?impolicy=wcms_crop_resize&cropH=811&cropW=1441&xPos=0&yPos=74&width=862&height=485",
-      "topic": "科技",
-      "score": 75,
-      "id": "7dc238755a25"
     },
     {
       "title": "With K-pop breaking the language barrier, IFPI's Asia chief says, AI is the next test",
@@ -653,21 +718,8 @@
       "publishedAt": "2026-07-12T21:02:51.000Z",
       "image": "",
       "topic": "科技",
-      "score": 75,
+      "score": 74,
       "id": "9f34a7453209"
-    },
-    {
-      "title": "Bloomberry Bets Bigger on Digital With FUNaloMAX Launch",
-      "summary": "Bloomberry Bets Bigger on Digital With FUNaloMAX Launch &nbsp;&nbsp; iGamingToday.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWlhEQWlYazFiV052bVg5VXJDckRUNDRmTDM1RVdrMUEycEI0VDc1V0ItUkIyWUpSQVlDbDJfcEJaMmpZUndWcjJMZ3o4TjBvalZNVXpBUmZlWXNlUVY0UUhyUWZWUGhhLWRVaUtER3pMNG5OZ25lOElwWmdrSEJKQWRaNnFLQ3pBWkg1ZUNB?oc=5",
-      "source": "iGamingToday.com",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-07-12T20:44:25.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 75,
-      "id": "95d866ece384"
     },
     {
       "title": "Too Hot: Scorching Record- Breaking Heatwaves Across Europe In Photos",
@@ -679,8 +731,21 @@
       "publishedAt": "2026-07-12T17:23:26.000Z",
       "image": "",
       "topic": "气候",
-      "score": 75,
+      "score": 74,
       "id": "cbf27f68babe"
+    },
+    {
+      "title": "Why are the world's biggest AI firms so attracted to the NT?",
+      "summary": "The NT's sunny skies, natural gas reserves and proximity to Asia have caught the attention of a dozen data centre developers.",
+      "url": "https://www.abc.net.au/news/2026-07-13/data-centre-hyperscalers-target-northern-territory/106898282",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "亚洲",
+      "publishedAt": "2026-07-12T21:08:31.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/bd42b59296c8058230e3f624fbc1399f?impolicy=wcms_crop_resize&cropH=811&cropW=1441&xPos=0&yPos=74&width=862&height=485",
+      "topic": "科技",
+      "score": 73,
+      "id": "7dc238755a25"
     },
     {
       "title": "Convicted paedophile to argue multiple-personality evidence unlawful",
@@ -692,8 +757,21 @@
       "publishedAt": "2026-07-12T20:50:13.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/a88450beef498aa43acab3030bfd3c90?impolicy=wcms_crop_resize&cropH=465&cropW=826&xPos=0&yPos=397&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "7ebf2f77827a"
+    },
+    {
+      "title": "Bloomberry Bets Bigger on Digital With FUNaloMAX Launch",
+      "summary": "Bloomberry Bets Bigger on Digital With FUNaloMAX Launch &nbsp;&nbsp; iGamingToday.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWlhEQWlYazFiV052bVg5VXJDckRUNDRmTDM1RVdrMUEycEI0VDc1V0ItUkIyWUpSQVlDbDJfcEJaMmpZUndWcjJMZ3o4TjBvalZNVXpBUmZlWXNlUVY0UUhyUWZWUGhhLWRVaUtER3pMNG5OZ25lOElwWmdrSEJKQWRaNnFLQ3pBWkg1ZUNB?oc=5",
+      "source": "iGamingToday.com",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-12T20:44:25.000Z",
+      "image": "",
+      "topic": "科技",
+      "score": 73,
+      "id": "95d866ece384"
     },
     {
       "title": "'Like my men's shed': John never left the soccer club he helped create",
@@ -705,8 +783,21 @@
       "publishedAt": "2026-07-12T20:42:32.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/05b175822e3e6170777cf296ef495765?impolicy=wcms_crop_resize&cropH=5346&cropW=9504&xPos=0&yPos=990&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "711fb4f2ed19"
+    },
+    {
+      "title": "27 dead after fire rips through Bangkok bar",
+      "summary": "27 dead after fire rips through Bangkok bar &nbsp;&nbsp; NT News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWXV2dERxR0J2UHFCNldyRjl3RndSR1pON25uMTVfbm56WUhiaERXUEh5SDNzUzNiRWZlNDNGMlYzT2ZzQmJjam1CeFowOWdqZjJTZEJFSmRjR0dESEUyYmMwR1BHZmRTX3BCVHpDeU5FOHpZRFNDd1p1LXFFNXdCbVh5cDNfWGQxV3U4S0o2THQ3TDNjM1J4RWRXT0Nnb0sxcmZaQ0d4bENVa0VpckFoQ0hBLWlwU1RlSGNmYms4MjRNdWJrcUxkLU1HTFl0d2RLQnAyUVo1ZWd5VFJlOWl0NE53RTU?oc=5",
+      "source": "NT News",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-12T20:38:09.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 73,
+      "id": "33cf50a62b28"
     },
     {
       "title": "Illegal camping fine of $345 divides coastal community",
@@ -718,34 +809,8 @@
       "publishedAt": "2026-07-12T20:35:30.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/4f8dcd537b39c684c7b29641d5faa2f7?impolicy=wcms_crop_resize&cropH=1069&cropW=1901&xPos=88&yPos=5&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "890be32b3a3b"
-    },
-    {
-      "title": "Homicide squad arrests man after dead body found in Gippsland home",
-      "summary": "Police arrest a 43-year-old man after a dead body was found in a home east of Melbourne.",
-      "url": "https://www.abc.net.au/news/2026-07-13/homicide-squad-arrest-man-dead-body-morwell-gippsland/106908084",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-12T20:34:09.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/be944ee5168a5740f9bf500330e6bd9e?impolicy=wcms_crop_resize&cropH=998&cropW=1774&xPos=1&yPos=203&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "ffa2d7d0652d"
-    },
-    {
-      "title": "Mate recalls Richard Scolyer's 'magnificent' ride ahead of memorial service",
-      "summary": "As Mark Beretta rode his bike up a steep Tasmanian mountain in March with all his might, it was none other than Richard Scolyer who overtook him.",
-      "url": "https://www.abc.net.au/news/2026-07-13/richard-scolyer-state-memorial-sydney-as-tour-de-cure-reflects/106889022",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-12T20:32:47.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ef93ca24ad230298da6931a4401cb3d8?impolicy=wcms_crop_resize&cropH=911&cropW=1619&xPos=0&yPos=16&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "98b1f3dbaf17"
     },
     {
       "title": "UK couple found burned and semi-conscious in Almería amid Spanish wildfires",
@@ -757,34 +822,8 @@
       "publishedAt": "2026-07-12T20:30:54.000Z",
       "image": "https://i.guim.co.uk/img/media/461f851385f42bc8d8626f25f81067bba8254a4b/292_0_4876_3901/master/4876.jpg?width=140&quality=85&auto=format&fit=max&s=9a9d346795ad95bce5cb6be8e501f045",
       "topic": "气候",
-      "score": 74,
+      "score": 73,
       "id": "34727fd85351"
-    },
-    {
-      "title": "SA doctor banned for inappropriate relationship with client",
-      "summary": "A former Adelaide doctor will not be able to reapply for registration for at least two years after he was banned for having an inappropriate relationship with his client.",
-      "url": "https://www.abc.net.au/news/2026-07-13/sa-doctor-banned-for-inappropriate-relationship-with-patient/106902718",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-12T20:25:45.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/76ad538443771e6f831dc19043add827?impolicy=wcms_crop_resize&cropH=2772&cropW=4928&xPos=0&yPos=492&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "91f92a19d8f6"
-    },
-    {
-      "title": "More than 100 firefighters tackle railway embankment blaze in east London",
-      "summary": "Fire in Walthamstow producing a ‘significant amount of smoke’, says London fire brigade More than 100 firefighters are tackling a fire at a railway embankment in east London. Twenty-five fire engines and about 125 firefighters were called to the incident near Vallentin Road in Walthamstow. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/12/more-than-100-firefighters-tackle-railway-embankment-blaze-in-east-london",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-12T20:23:54.000Z",
-      "image": "https://i.guim.co.uk/img/media/b30ab18e66663ed1e4c8046ae7f4a9c8835c2c7f/2025_430_1475_1180/master/1475.jpg?width=140&quality=85&auto=format&fit=max&s=b00a495059dff24a414cefae46d45ed8",
-      "topic": "经济",
-      "score": 74,
-      "id": "e1b64820c809"
     },
     {
       "title": "Sinner beats Zverev to defend Wimbledon men’s singles tennis title",
@@ -796,21 +835,8 @@
       "publishedAt": "2026-07-12T20:20:37.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "1759dfc894f1"
-    },
-    {
-      "title": "Sinner triumphs over Zverev for second consecutive Wimbledon win",
-      "summary": "The top-ranked Jannik Sinner beat Alexander Zverev for his second consecutive title at Wimbledon after his German opponent appeared bothered by a knee issue.",
-      "url": "https://www.abc.net.au/news/2026-07-13/jannik-sinner-beats-alexander-zverev-to-win-wimbledon/106908072",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-12T20:17:27.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/5f3080557f21a8198e4a4be597acccd7?impolicy=wcms_crop_resize&cropH=2151&cropW=3824&xPos=0&yPos=200&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "911190048231"
     },
     {
       "title": "Former Spain PM criticised for ‘xenophobic’ remark on French World Cup team",
@@ -822,7 +848,7 @@
       "publishedAt": "2026-07-12T20:09:58.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "54aa443a9252"
     },
     {
@@ -835,7 +861,7 @@
       "publishedAt": "2026-07-12T20:01:32.000Z",
       "image": "https://i.guim.co.uk/img/media/8fa284e5f2a80dc31e9874504b36aa2a0f3d7c03/2137_535_2662_2130/master/2662.jpg?width=140&quality=85&auto=format&fit=max&s=08a2d6e74517e435f097b193f6a0c305",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "6dc2d354c33a"
     },
     {
@@ -848,7 +874,7 @@
       "publishedAt": "2026-07-12T19:53:03.000Z",
       "image": "",
       "topic": "经济",
-      "score": 73,
+      "score": 72,
       "id": "ff491bacd152"
     },
     {
@@ -861,8 +887,21 @@
       "publishedAt": "2026-07-12T19:41:37.000Z",
       "image": "https://i.guim.co.uk/img/media/e96e0d33693bbc9ae65cf9db1eabda3b4afa50c9/236_0_3447_2756/master/3447.jpg?width=140&quality=85&auto=format&fit=max&s=5b56d0955abea5a38fd59bf12563f851",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "90933c497f2c"
+    },
+    {
+      "title": "Latest news bulletin | July 12th, 2026 – Evening",
+      "summary": "Latest news bulletin | July 12th, 2026 – Evening &nbsp;&nbsp; AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOENqeEdkbnJNZlI1amRtbmQ0UlgyWUxoN3VQOUN6cUVpRjBIdlpYS2FkTzNWa213eHRlMU05Rk1jUExUSTlKZzhraXJROVA4UnpmbmY0c3FFaXg4NTZqZXN1QktUQzRPclpKRWxTal83Yk4wNTFyWWo3U0RBRVRLTmRB?oc=5",
+      "source": "AOL.com",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-12T17:09:30.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "be73f8164b78"
     },
     {
       "title": "Plant to recycle superabsorbent polymers from used diapers",
@@ -874,8 +913,21 @@
       "publishedAt": "2026-07-12T22:00:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "f9e38c5702bb"
+    },
+    {
+      "title": "England vs Argentina: Greatest moments before FIFA World Cup semifinal",
+      "summary": "England and Argentina renew their longstanding football rivalry with a World Cup final place at stake.",
+      "url": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-england-vs-argentina-historic-rivalry-greatest-moments-semifinal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-07-12T19:31:20.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "deee5783ca91"
     },
     {
       "title": "Anti-migrant display set alight in Northern Ireland bonfire",
@@ -887,60 +939,8 @@
       "publishedAt": "2026-07-12T19:21:17.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
-      "id": "cc60bcacba5b"
-    },
-    {
-      "title": "Reform would have received a fraction of £26.7m donations haul under a £100,000 cap, analysis shows",
-      "summary": "Exclusive: Party’s average registered donation was £137, 496 last year, almost six times that of Labour or Tories Reform UK would have held just 15% of the donations it received last year if a proposed £100,000 cap on political donations had been in force, according to analysis shared with the Guardian. The analysis by Friends of the Earth using Electoral Co",
-      "url": "https://www.theguardian.com/politics/2026/jul/12/reform-uk-donations-proposed-10000-cap-analysis",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-12T18:44:38.000Z",
-      "image": "https://i.guim.co.uk/img/media/efc522c53c4bb80ab579618b69a34114ad935fc0/311_26_2960_2369/master/2960.jpg?width=140&quality=85&auto=format&fit=max&s=284a6ce1d1bae2f444098018a1750945",
-      "topic": "社会",
-      "score": 72,
-      "id": "c43f634b4c32"
-    },
-    {
-      "title": "Martha Lillard, last known US polio survivor using iron lung, dies aged 78",
-      "summary": "Lillard, of Oklahoma, contracted polio when she was five and slept inside cylindrical metal device to help her breathe The last known US person living with polio and relying on an iron lung has died aged 78. Martha Lillard, who contracted polio at age five and spent most of her life dependent on an iron lung machine that helped her breathe, died on 26 June i",
-      "url": "https://www.theguardian.com/us-news/2026/jul/12/martha-lillard-last-polio-survivor-iron-lung-death",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-12T18:37:11.000Z",
-      "image": "https://i.guim.co.uk/img/media/a0d0389185365909261846364436121d22daa63e/0_0_5500_4396/master/5500.jpg?width=140&quality=85&auto=format&fit=max&s=faba398dcd1d076a84bc57e7ab18f323",
-      "topic": "社会",
-      "score": 72,
-      "id": "04453b374fb4"
-    },
-    {
-      "title": "Germany records nearly 100 drowning deaths, many of them young men, in June heatwave",
-      "summary": "Authorities confirm worst toll in more than 20 years, as extreme temperatures in Europe force early closure of Eiffel Tower Nearly 100 people, the largest proportion of whom were young men, died by drowning in Germany last month, authorities have said, as extreme temperatures in western Europe that have been blamed for hundreds of excess deaths geared up aga",
-      "url": "https://www.theguardian.com/world/2026/jul/12/germany-drowning-deaths-heatwave-paris-france-spain",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-07-12T15:19:05.000Z",
-      "image": "https://i.guim.co.uk/img/media/9d2d8cd776f68e36eb6dff63715fbb48e47f11ab/534_128_6415_5130/master/6415.jpg?width=140&quality=85&auto=format&fit=max&s=5e80d61221b5db94ca924d9c7ad05e37",
-      "topic": "气候",
-      "score": 72,
-      "id": "ebae27be92ce"
-    },
-    {
-      "title": "Europe Heatwave: Drowning deaths surge in June amid extreme temperatures",
-      "summary": "Europe Heatwave: Drowning deaths surge in June amid extreme temperatures &nbsp;&nbsp; The News International",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb014TW1id0pVSVNYbXk3Mld3RTBvOGtuRTF4Zk4yeUpPM1pIYURSdkNIeGZBZ0VqNzZoNlFsMWxES1g5Nl9ZX2RvX0ZsZHJOTzR5azQzLUxlUE5hSExzMk1GakhiZDIyYjBVRU9LdnBya2dQNzRhc1ZNNW5OazRGckd5eFJEY2tYX1Fhc093NURmb1lwRmFFOU12OEVzQnZVVUNGTXJrdm11ZUc0NkQ1a09pbw?oc=5",
-      "source": "The News International",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-12T21:17:00.000Z",
-      "image": "",
-      "topic": "气候",
       "score": 71,
-      "id": "207f51f4cb73"
+      "id": "cc60bcacba5b"
     }
   ]
 }
