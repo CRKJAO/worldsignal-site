@@ -1,24 +1,11 @@
 {
-  "updatedAt": "2026-07-15T23:15:12.435Z",
+  "updatedAt": "2026-07-16T00:14:12.172Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
-    {
-      "title": "Mapping the latest US strikes across Iran",
-      "summary": "US attacks kill dozens in Iran as Iranian forces target regional bases, pushing a fragile ceasefire closer to collapse.",
-      "url": "https://www.aljazeera.com/news/2026/7/15/mapping-the-latest-us-strikes-across-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-15T17:38:54.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 98,
-      "id": "f8a248212096"
-    },
     {
       "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
       "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
@@ -29,7 +16,7 @@
       "publishedAt": "2026-07-15T21:55:04.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c484/live/46eda4a0-8059-11f1-bee8-53ce494e1abc.jpg",
       "topic": "政治",
-      "score": 92,
+      "score": 90,
       "id": "18411f9bfaf1"
     },
     {
@@ -39,11 +26,24 @@
       "source": "The New York Times",
       "feed": "Latin America News Network",
       "region": "中东",
-      "publishedAt": "2026-07-15T21:04:25.000Z",
+      "publishedAt": "2026-07-15T21:19:45.000Z",
       "image": "",
       "topic": "政治",
-      "score": 90,
+      "score": 89,
       "id": "d36e707eb889"
+    },
+    {
+      "title": "Australia and Fiji’s new defence pact",
+      "summary": "Australia and Fiji’s new defence pact &nbsp;&nbsp; The Week",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmphbEtnQU9fMlp5SzNXTzA1N09NaElkQ055cWUtT05PaEYzWW0yX2dORmpUY1F2bkNSYWVxU1ZIaTlOMmg4VzJQUTk1cEtMRU9idTc5Zm9DUnh2TGQ1MTAxQkdmUElIb2trRmxHclptZWFZY3g3aF9XM3FqUEZITHpKNzRCd25mLWdtVXlVdjJRQQ?oc=5",
+      "source": "The Week",
+      "feed": "Pacific News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-16T00:08:55.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 88,
+      "id": "39c9e485cd19"
     },
     {
       "title": "Iran threatens to halt all Middle East energy exports amid renewed US blockade",
@@ -55,7 +55,7 @@
       "publishedAt": "2026-07-15T17:01:59.000Z",
       "image": "https://i.guim.co.uk/img/media/f2a2f15e98b97639cff131c2203ee05b3e289cf0/0_616_5488_4393/master/5488.jpg?width=140&quality=85&auto=format&fit=max&s=e18065f7f4fa9a935277852f9e3761a5",
       "topic": "经济",
-      "score": 89,
+      "score": 88,
       "id": "aea4e9b2318e"
     },
     {
@@ -68,7 +68,7 @@
       "publishedAt": "2026-07-15T21:46:57.000Z",
       "image": "",
       "topic": "政治",
-      "score": 87,
+      "score": 86,
       "id": "498c15e06d62"
     },
     {
@@ -81,7 +81,7 @@
       "publishedAt": "2026-07-15T22:03:19.000Z",
       "image": "https://i.guim.co.uk/img/media/c5e966f8adbd7ac0d799ca8fbb9ee9ed742ab17a/327_0_2896_2317/master/2896.jpg?width=140&quality=85&auto=format&fit=max&s=bdf583b8be4a26eeb0635355cf7fbb73",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "7b1427ea0901"
     },
     {
@@ -94,7 +94,7 @@
       "publishedAt": "2026-07-15T21:15:06.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/ec6c7591cbcbdc45a2bec79e190d9630?impolicy=wcms_crop_resize&cropH=2250&cropW=4000&xPos=0&yPos=209&width=862&height=485",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "38fa42323061"
     },
     {
@@ -107,8 +107,47 @@
       "publishedAt": "2026-07-15T21:13:42.000Z",
       "image": "",
       "topic": "社会",
-      "score": 82,
+      "score": 81,
       "id": "66ea9f07438d"
+    },
+    {
+      "title": "New $1 coin featuring Trump in production at US Mint, treasury says",
+      "summary": "Coin commemorating 250th anniversary will be released this fall and marks first time a living president appears on currency The treasury department announced on Wednesday that the US Mint has started producing a new commemorative $1 coin featuring Donald Trump as part of the nation’s 250th anniversary celebration. The coin is scheduled for release this fall.",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/trump-coin-us-mint-production",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-15T23:59:46.000Z",
+      "image": "https://i.guim.co.uk/img/media/b18840d0dfd01c32facf4417b50e4c0baee71d26/2_124_1013_811/master/1013.jpg?width=140&quality=85&auto=format&fit=max&s=c9c80cb7be8ccd030a318409293cff23",
+      "topic": "政治",
+      "score": 80,
+      "id": "92bd704ff2ec"
+    },
+    {
+      "title": "Over 100 House Democrats vote to end military aid to Israel in significant rebuke to US ally – US politics live",
+      "summary": "Democrats were split on the issue, with nearly half of party’s 212-member caucus voting with Republicans to reject the measure Sign up for the Breaking News US email In his opening statement before senators today, Todd Blanche, said that he is “pleased to testify again today to tell everybody here that we are doing just that-we are keeping America safe” . Th",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/15/todd-blanche-attorney-general-senate-donald-trump-ice-darline-graham-lindsey-graham-us-politics-live-news",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-07-15T23:49:33.000Z",
+      "image": "https://i.guim.co.uk/img/media/bc35f7a75229090e21955ab57b94a0f25a6fc9fb/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=cb3f622cd9058ec367b8cffca466e323",
+      "topic": "政治",
+      "score": 80,
+      "id": "3dcd3406a22f"
+    },
+    {
+      "title": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
+      "summary": "A former Canadian government nuclear bomb shelter in rural Nova Scotia may soon be home to the country’s first large-scale luxury survival shelter.",
+      "url": "https://www.bbc.co.uk/news/articles/cn4d3lpjkggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-07-15T23:35:39.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e360/live/a8a2b180-7628-11f1-ac11-19a4319081d7.jpg",
+      "topic": "政治",
+      "score": 80,
+      "id": "6e1a2e88d8c8"
     },
     {
       "title": "What are the obstacles to peace between Israel and Lebanon?",
@@ -120,7 +159,7 @@
       "publishedAt": "2026-07-15T20:46:03.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 80,
       "id": "2bd1c69779e8"
     },
     {
@@ -133,7 +172,7 @@
       "publishedAt": "2026-07-15T10:51:26.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "06655cb87210"
     },
     {
@@ -143,11 +182,63 @@
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "大洋洲",
-      "publishedAt": "2026-07-15T22:59:44.000Z",
+      "publishedAt": "2026-07-15T23:23:14.000Z",
       "image": "https://i.guim.co.uk/img/media/bde6a064ee622fc073719f15e4cc2613c6ce05bd/1091_322_6477_5182/master/6477.jpg?width=140&quality=85&auto=format&fit=max&s=ead443774bf367fc6b398d804d734297",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "d947d1fd5ced"
+    },
+    {
+      "title": "US Justice Department refuses New Mexico’s request for Epstein files",
+      "summary": "New Mexico says the withheld records are critical to its criminal investigation into alleged abuse at Epstein’s ranch.",
+      "url": "https://www.aljazeera.com/news/2026/7/15/us-justice-department-refuses-new-mexicos-request-for-epstein-files?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-07-15T23:13:20.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "fe5cc6660957"
+    },
+    {
+      "title": "‘We screwed up the comms’: JD Vance admits errors over Epstein files release",
+      "summary": "Vice-president tells Joe Rogan administration botched handling and should have released all documents from start JD Vance agreed with criticism that the Trump administration botched the handling of the release of the Jeffrey Epstein files, telling podcast host Joe Rogan that “we absolutely screwed up the comms”. The Department of Justice’s repeated moves to ",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/jd-vance-joe-rogan-epstein-files",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-15T23:06:14.000Z",
+      "image": "https://i.guim.co.uk/img/media/fec00d56fe6dfe8105a3b2f2e5d857b8a91e8707/341_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=8bc993036d43f95a61bd671a94012e9d",
+      "topic": "政治",
+      "score": 79,
+      "id": "3a7f0c36810d"
+    },
+    {
+      "title": "‘Really big news’: What to know about Trump’s primetime speech on Thursday",
+      "summary": "The address comes as the White House revives scrutiny of the 2020 election and pushes new voting restrictions.",
+      "url": "https://www.aljazeera.com/news/2026/7/15/really-big-news-what-to-know-about-trumps-primetime-speech-on-thursday?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-15T23:02:57.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "616074c863e1"
+    },
+    {
+      "title": "Families of 43 victims await verdict in Genoa bridge disaster",
+      "summary": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.",
+      "url": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-07-15T23:02:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86c0/live/1516edc0-8071-11f1-b976-0b9c15b0ccfc.jpg",
+      "topic": "社会",
+      "score": 79,
+      "id": "a2b3ffb3c5bf"
     },
     {
       "title": "Shipping firms avoid US-guided routes through Hormuz - Shafaq News | Latest breaking news in Iraq and the world",
@@ -159,21 +250,8 @@
       "publishedAt": "2026-07-15T22:59:16.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "bdcdcd942659"
-    },
-    {
-      "title": "Over 100 House Democrats vote to end military aid to Israel in significant rebuke to US ally – US politics live",
-      "summary": "Democrats were split on the issue, with nearly half of party’s 212-member caucus voting with Republicans to reject the measure Sign up for the Breaking News US email In his opening statement before senators today, Todd Blanche, said that he is “pleased to testify again today to tell everybody here that we are doing just that-we are keeping America safe” . Th",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/15/todd-blanche-attorney-general-senate-donald-trump-ice-darline-graham-lindsey-graham-us-politics-live-news",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-07-15T22:49:25.000Z",
-      "image": "https://i.guim.co.uk/img/media/bc35f7a75229090e21955ab57b94a0f25a6fc9fb/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=cb3f622cd9058ec367b8cffca466e323",
-      "topic": "政治",
-      "score": 80,
-      "id": "3dcd3406a22f"
     },
     {
       "title": "US military to start testosterone testing, Hegseth says",
@@ -185,7 +263,7 @@
       "publishedAt": "2026-07-15T22:46:02.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5dc/live/04f4b590-8093-11f1-9946-258bcfdcbe12.jpg",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "38e1e92e65c5"
     },
     {
@@ -198,7 +276,7 @@
       "publishedAt": "2026-07-15T19:59:34.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "578853821a72"
     },
     {
@@ -211,7 +289,7 @@
       "publishedAt": "2026-07-15T22:05:12.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "b0479fceb812"
     },
     {
@@ -224,21 +302,8 @@
       "publishedAt": "2026-07-15T22:00:15.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/b0d94a2832570d1bbae2f9de1d8e764f?impolicy=wcms_crop_resize&cropH=2583&cropW=4592&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "60743c5d7be2"
-    },
-    {
-      "title": "House defeats bid to end military aid to Israel as over 100 Democrats vote for it",
-      "summary": "Backing by 103 Democrats underscores how sentiment in party towards Israel and Netanyahu government has soured The House on Wednesday defeated a measure to slash military aid to Israel, but more than 100 House Democrats voted for it in a significant rebuke of the longtime US ally as accusations that Prime Minister Benjamin Netanyahu’s government green-lit ge",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/house-democrats-israel-aid",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-07-15T21:48:30.000Z",
-      "image": "https://i.guim.co.uk/img/media/92421c91178f0eb95d486563a1d6de337b8f4df5/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=16b8271fa231ec6e417bb7a75ae4778c",
-      "topic": "政治",
-      "score": 79,
-      "id": "6a014bef374a"
     },
     {
       "title": "Germany warns US against election interference after it announces grants scheme",
@@ -250,7 +315,7 @@
       "publishedAt": "2026-07-15T18:45:24.000Z",
       "image": "https://i.guim.co.uk/img/media/a08c186b402695fb53135ccbeb9363d0c25e9d86/418_0_4069_3255/master/4069.jpg?width=140&quality=85&auto=format&fit=max&s=50e175e686d27fdb246a76731f45f21b",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "d182bec1e139"
     },
     {
@@ -263,7 +328,7 @@
       "publishedAt": "2026-07-15T16:00:29.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "67628a63129e"
     },
     {
@@ -276,8 +341,21 @@
       "publishedAt": "2026-07-15T15:15:38.000Z",
       "image": "https://i.guim.co.uk/img/media/b493483ec10884f71dd4139b4a623073c4b7c148/422_0_4215_3372/master/4215.jpg?width=140&quality=85&auto=format&fit=max&s=f411c0d19f8c90557c80b536d90dda5d",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "d2fba5d90731"
+    },
+    {
+      "title": "'I must get out into the free world', dissident who fled China on boat tells BBC",
+      "summary": "Dong Guangping, who has resettled in Canada, recounts his perilous escape from China to South Korea.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2j2jw117lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "亚洲",
+      "publishedAt": "2026-07-15T22:04:12.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f86/live/acfc0010-8019-11f1-9317-f3c8d3f68726.png",
+      "topic": "社会",
+      "score": 77,
+      "id": "999641cbbb3a"
     },
     {
       "title": "Argentina stun England in 2-1 comeback win to reach 2026 World Cup final",
@@ -289,7 +367,7 @@
       "publishedAt": "2026-07-15T21:37:08.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "38a8c29229d9"
     },
     {
@@ -302,7 +380,7 @@
       "publishedAt": "2026-07-15T21:23:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "f09f6949dbf1"
     },
     {
@@ -315,7 +393,7 @@
       "publishedAt": "2026-07-15T21:21:19.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d14b/live/76285910-802f-11f1-a2a1-e90920ef9667.jpg",
       "topic": "经济",
-      "score": 78,
+      "score": 77,
       "id": "961fe2161e31"
     },
     {
@@ -328,8 +406,21 @@
       "publishedAt": "2026-07-15T18:07:05.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b908/live/2768aa90-8017-11f1-b976-0b9c15b0ccfc.jpg",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "5ff02f40e2e1"
+    },
+    {
+      "title": "Seven-kilometre artwork creates colour journey through Perth suburbs",
+      "summary": "Under the raised railway that runs through Perth's south-east is a public art project that took five months to complete and required 2,000 litres of paint.",
+      "url": "https://www.abc.net.au/news/2026-07-16/7km-artwork-creates-colour-journey/106920232",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-16T00:00:36.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/e1208e16c758b30aa53f6aad96787d6d?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485",
+      "topic": "社会",
+      "score": 76,
+      "id": "c1ed0c66928c"
     },
     {
       "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
@@ -341,7 +432,7 @@
       "publishedAt": "2026-07-15T21:03:10.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "7fc2b488cb1f"
     },
     {
@@ -354,7 +445,7 @@
       "publishedAt": "2026-07-15T20:58:43.000Z",
       "image": "https://i.guim.co.uk/img/media/7d0736fc97812addee2f06e9ff17a1f2084b1b60/728_0_7212_5768/master/7212.jpg?width=140&quality=85&auto=format&fit=max&s=6171a9ef9d1cb9452a10ff9c7e727e19",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "a3b09c676c50"
     },
     {
@@ -367,21 +458,8 @@
       "publishedAt": "2026-07-15T20:54:15.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "c003d27f9604"
-    },
-    {
-      "title": "What happened in the first half of the England vs Argentina semifinal?",
-      "summary": "All the biggest moments, heated exchanges, fouls and stats from the first 45 minutes of the heated semifinal in Atlanta.",
-      "url": "https://www.aljazeera.com/sports/2026/7/15/what-happened-in-the-first-half-of-the-england-vs-argentina-semifinal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-07-15T20:35:34.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 77,
-      "id": "fbac02daa91f"
     },
     {
       "title": "10 years on from Turkiye’s failed coup attempt on Erdogan",
@@ -393,7 +471,7 @@
       "publishedAt": "2026-07-15T20:35:09.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "b09e4b547286"
     },
     {
@@ -406,8 +484,86 @@
       "publishedAt": "2026-07-15T20:34:39.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "1d9a6b0fc1ac"
+    },
+    {
+      "title": "China and Xi Jinping seen more favourably than the US and Trump in poll of major countries",
+      "summary": "Global views appear to have flipped in Beijing’s favour, driven in part by tensions between the Trump administration and US allies, a new Pew survey shows The world has largely viewed the US more favourably than China for years, but those opinions have flipped in Beijing’s favour this year, according to a new poll from the Pew Research Center , a remarkable ",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/china-more-positive-view-us-pew-poll-survey",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "亚洲",
+      "publishedAt": "2026-07-15T23:46:30.000Z",
+      "image": "https://i.guim.co.uk/img/media/a1af0cb2170dba261b81a8842b38a153347621de/330_0_4025_3219/master/4025.jpg?width=140&quality=85&auto=format&fit=max&s=ccc1a4203cc1690513d56fb792fdb8f5",
+      "topic": "社会",
+      "score": 75,
+      "id": "7513e3d42145"
+    },
+    {
+      "title": "Argentina players brandish political Falklands flag after England match",
+      "summary": "The banner, held up by Lisandro Martinez and Giovani Lo Celso, goes against FIFA’s Stadium Code of Conduct.",
+      "url": "https://www.aljazeera.com/sports/2026/7/15/argentina-players-brandish-political-falklands-flag-after-england-match?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-07-15T23:36:16.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "640fc60bf95e"
+    },
+    {
+      "title": "Drained reflecting pool reveals Trump’s ‘American flag blue’ liner is now closer to gray",
+      "summary": "Trump’s effort to revamp the landmark stretched well past the goal of having it ready by the Fourth of July The newly drained Lincoln Memorial Reflecting Pool’s bottom surface has noticeably faded since it was lined with a protective coating in a color Donald Trump called “American flag blue” this spring. An Associated Press reporter and photographer viewed ",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/dc-reflecting-pool-gray",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "美洲",
+      "publishedAt": "2026-07-15T23:28:40.000Z",
+      "image": "https://i.guim.co.uk/img/media/5e389ba7176f974cde6f47e8619cc8d8097a8d5c/542_0_5398_4321/master/5398.jpg?width=140&quality=85&auto=format&fit=max&s=38358b81e2df9d9f5c07ec1d48ca53d1",
+      "topic": "社会",
+      "score": 75,
+      "id": "41e735bb2be3"
+    },
+    {
+      "title": "England coach has 'no regrets' as tactics questioned in capitulation",
+      "summary": "Thomas Tuchel defends his tactics after his team became just the second in World Cup history to lose a semifinal after scoring the first goal.",
+      "url": "https://www.abc.net.au/news/2026-07-16/world-cup-2026-england-coach-thomas-tuchel-has-no-regrets/106921064",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-15T23:27:55.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ec7ce76572e5ac5c5a1c936473a48a61?impolicy=wcms_crop_resize&cropH=2200&cropW=3911&xPos=0&yPos=206&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "ff3e50126fdd"
+    },
+    {
+      "title": "New monkey species with orange lips found 'hiding' in DRC forest",
+      "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
+      "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-07-15T23:02:49.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e22/live/d37622b0-805b-11f1-bee8-53ce494e1abc.jpg",
+      "topic": "社会",
+      "score": 75,
+      "id": "c0d51cda33ce"
+    },
+    {
+      "title": "What happened in the first half of the England vs Argentina semifinal?",
+      "summary": "All the biggest moments, heated exchanges, fouls and stats from the first 45 minutes of the heated semifinal in Atlanta.",
+      "url": "https://www.aljazeera.com/sports/2026/7/15/what-happened-in-the-first-half-of-the-england-vs-argentina-semifinal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-07-15T20:35:34.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "fbac02daa91f"
     },
     {
       "title": "Caring for the world's fastest falcon means preparing for bird flu",
@@ -419,21 +575,8 @@
       "publishedAt": "2026-07-15T20:32:12.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1b56ff3c9d7459e10142a37524d1a106?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 77,
+      "score": 75,
       "id": "625de93de5b4"
-    },
-    {
-      "title": "Search continues for three people missing after Alcatraz boat disaster",
-      "summary": "One person and one dog died after vessel carrying 20 people involved in memorial service capsized in San Francisco Bay Rescuers were still searching a massive area for three missing people on Wednesday after a boat carrying 20 family members and friends in a memorial service capsized in the cold, fast-moving waters of San Francisco Bay near Alcatraz Island, ",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/san-francisco-alcatraz-boat-capsized",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-15T22:57:56.000Z",
-      "image": "https://i.guim.co.uk/img/media/4e92625c468199fabcb9981890bcac68ef8a6785/0_0_1546_1237/master/1546.jpg?width=140&quality=85&auto=format&fit=max&s=f3fe36ddf8c0470ceb80caf2a36d31e3",
-      "topic": "社会",
-      "score": 76,
-      "id": "bbce35445acb"
     },
     {
       "title": "Russia pounds Ukraine with missile, drone strikes",
@@ -445,7 +588,7 @@
       "publishedAt": "2026-07-15T19:59:48.000Z",
       "image": "",
       "topic": "科技",
-      "score": 76,
+      "score": 75,
       "id": "c6273dcb2e59"
     },
     {
@@ -458,7 +601,7 @@
       "publishedAt": "2026-07-15T19:58:01.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "6371c88f044b"
     },
     {
@@ -471,7 +614,7 @@
       "publishedAt": "2026-07-15T19:48:50.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "543cbaba7a9a"
     },
     {
@@ -484,21 +627,8 @@
       "publishedAt": "2026-07-15T19:38:39.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/332544f4c2d52a4cf8a9aa223c234aad?impolicy=wcms_crop_resize&cropH=611&cropW=1086&xPos=0&yPos=479&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "107eeac57b45"
-    },
-    {
-      "title": "Wildfires in Ontario make Toronto air quality worst in world",
-      "summary": "Environment Canada has issued health warnings after sky over city turns yellow Smoke from more than 100 active wildfires in northern Ontario have made Toronto’s air quality the current worst in the world and caused yellow, smoky air in cities across the north-east US. Environment Canada issued health warnings on Wednesday after the sky over country’s largest",
-      "url": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-07-15T16:08:39.000Z",
-      "image": "https://i.guim.co.uk/img/media/f6f153e283718255d3e45da0ffd928c89ad075e4/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=045aeb974ffbc7a00a6ff49c2e4270c0",
-      "topic": "气候",
-      "score": 76,
-      "id": "63798b31771f"
     },
     {
       "title": "FIFA World Cup 2026 News, Latest Updates & Analysis",
@@ -510,7 +640,7 @@
       "publishedAt": "2026-07-15T13:30:47.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "6622b42cd273"
     },
     {
@@ -523,8 +653,21 @@
       "publishedAt": "2026-07-15T22:51:09.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7a5f902043cbe750f99a74e3c1f0fb31?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "517ea1602bbe"
+    },
+    {
+      "title": "World Cup Updates: A Summer of Soccer, in Photos",
+      "summary": "World Cup Updates: A Summer of Soccer, in Photos &nbsp;&nbsp; The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JbXhZa0hCWUdvZ2FlSXk5VXB3bGxhNkFldmo5QmliZHdUYTY1SG5yUzJnUUtPc1ZYRUZVdmRXZ2p3a2E3TXBhRV9xNjFQQmtxVnFEaWl5bnNEZ0czUkJyVw?oc=5",
+      "source": "The New York Times",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-15T22:50:05.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "857642b1923f"
     },
     {
       "title": "Argentina face fine for Falklands banner in semi-final win",
@@ -536,21 +679,8 @@
       "publishedAt": "2026-07-15T22:49:47.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3c0/live/7f838280-809a-11f1-abcc-2d303f4b40e8.jpg",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "de0d71bffa33"
-    },
-    {
-      "title": "Former Obama counsel ‘not completely truthful’ in Epstein testimony, Democrats say",
-      "summary": "Lawmakers dubious of answers from Kathryn Ruemmler, whose name appeared thousands of times in released files Democrats said Kathryn Ruemmler, who served as White House counsel under Barack Obama, was not “completely truthful” with lawmakers during her Wednesday testimony before the House committee on oversight and reform about her ties to Jeffrey Epstein . R",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/obama-kathryn-ruemmler-epstein-questions",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-15T22:43:59.000Z",
-      "image": "https://i.guim.co.uk/img/media/1c0ca2da67763f4ecb8c601d2f90d5d3c8417dcb/241_0_2366_1893/master/2366.jpg?width=140&quality=85&auto=format&fit=max&s=438185f00c8ad8e00ec270d261269e7a",
-      "topic": "社会",
-      "score": 75,
-      "id": "68ef0659279f"
     },
     {
       "title": "Black doctors in England four times less likely to get training places than white counterparts",
@@ -562,7 +692,7 @@
       "publishedAt": "2026-07-15T22:30:06.000Z",
       "image": "https://i.guim.co.uk/img/media/c23c80a46ec7648ca0f34ff20068806934b90df1/1399_0_5394_4320/master/5394.jpg?width=140&quality=85&auto=format&fit=max&s=1b1d8b0a275efb5bae53984701fe4287",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "137ba0fe5a03"
     },
     {
@@ -575,21 +705,8 @@
       "publishedAt": "2026-07-15T22:15:32.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/40d5c6aeae6961fe69ea722b9d67a1a3?impolicy=wcms_crop_resize&cropH=1961&cropW=3486&xPos=0&yPos=78&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "5d5bbb3c5233"
-    },
-    {
-      "title": "Images released to identify victims in alleged Sydney child abuser probe",
-      "summary": "Images of distinctive clothing have been released as authorities attempt to identify victims of a Sydney childcare worker who allegedly abused more than 130 children.",
-      "url": "https://www.abc.net.au/news/2026-07-16/afp-release-images-in-sydney-childcare-abuse-investigation/106920830",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-15T22:08:13.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/9c783803ac89734ad36b1527b14b6717?impolicy=wcms_crop_resize&cropH=415&cropW=737&xPos=0&yPos=38&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "e207d76fdc53"
     },
     {
       "title": "Police charge 14-year-old boy over alleged terror plot targeting London mosques",
@@ -601,7 +718,7 @@
       "publishedAt": "2026-07-15T19:32:52.000Z",
       "image": "https://i.guim.co.uk/img/media/4fca3e8c9f622c97fc19b4392a2f945a1035bbc7/2176_85_3058_2446/master/3058.jpg?width=140&quality=85&auto=format&fit=max&s=30616ec83d6cf17600e5c7fdd70c83d2",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "222ec0af2578"
     },
     {
@@ -614,7 +731,7 @@
       "publishedAt": "2026-07-15T19:09:32.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "e2552c2eaf56"
     },
     {
@@ -627,7 +744,7 @@
       "publishedAt": "2026-07-15T19:08:24.000Z",
       "image": "",
       "topic": "气候",
-      "score": 75,
+      "score": 74,
       "id": "5ebc0cefb0ad"
     },
     {
@@ -640,7 +757,7 @@
       "publishedAt": "2026-07-15T18:52:25.000Z",
       "image": "https://i.guim.co.uk/img/media/fe490bdc83b392e61f066101f57ce172132b00e3/533_0_5327_4262/master/5327.jpg?width=140&quality=85&auto=format&fit=max&s=803099fef3a65989b108d4b4639eec97",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "02f06c09179e"
     },
     {
@@ -653,21 +770,47 @@
       "publishedAt": "2026-07-15T18:49:42.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "9762b7bc228f"
     },
     {
-      "title": "Venezuelan man becomes 22nd person to die in ICE custody this year",
-      "summary": "Jesús Manuel Arenas-Silva, 45, found ‘unresponsive’ while being transferred between detention facilities in Georgia Another person has died in federal immigration custody this week in Georgia, officials announced on Wednesday. His is the 22nd death in Immigration and Customs Enforcement (ICE) custody this year. Jesús Manuel Arenas-Silva, a 45-year-old Venezu",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/man-dies-georgia-ice-detention",
+      "title": "Wildfires in Ontario make Toronto air quality worst in world",
+      "summary": "Environment Canada has issued health warnings after sky over city turns yellow Smoke from more than 100 active wildfires in northern Ontario have made Toronto’s air quality the current worst in the world and caused yellow, smoky air in cities across the north-east US. Environment Canada issued health warnings on Wednesday after the sky over country’s largest",
+      "url": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "美洲",
-      "publishedAt": "2026-07-15T21:48:27.000Z",
-      "image": "https://i.guim.co.uk/img/media/db396c3e313c11522095070248e1555a6297b668/469_0_1759_1408/master/1759.jpg?width=140&quality=85&auto=format&fit=max&s=d40289c79b632601a716a7a7b23f747b",
-      "topic": "社会",
+      "publishedAt": "2026-07-15T16:08:39.000Z",
+      "image": "https://i.guim.co.uk/img/media/f6f153e283718255d3e45da0ffd928c89ad075e4/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=045aeb974ffbc7a00a6ff49c2e4270c0",
+      "topic": "气候",
       "score": 74,
-      "id": "16db755a40b7"
+      "id": "63798b31771f"
+    },
+    {
+      "title": "Live: Images released to identify victims in alleged Sydney child abuser probe",
+      "summary": "Images of distinctive clothing have been released as authorities attempt to identify victims of a Sydney childcare worker who allegedly abused more than 130 children.",
+      "url": "https://www.abc.net.au/news/2026-07-16/afp-release-images-in-sydney-childcare-abuse-investigation/106920830",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-15T22:08:13.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/9c783803ac89734ad36b1527b14b6717?impolicy=wcms_crop_resize&cropH=415&cropW=737&xPos=0&yPos=38&width=862&height=485",
+      "topic": "社会",
+      "score": 73,
+      "id": "0d1afd8ba188"
+    },
+    {
+      "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+      "summary": "The same horrific scenes have played out before, spurring calls for action. So why has this happened again?",
+      "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-07-15T22:03:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcab/live/6b5d8ce0-802e-11f1-a2a1-e90920ef9667.jpg",
+      "topic": "社会",
+      "score": 73,
+      "id": "2ececc70e882"
     },
     {
       "title": "xAI sues user for exploiting AI tool to sexualise minors",
@@ -679,7 +822,7 @@
       "publishedAt": "2026-07-15T21:31:44.000Z",
       "image": "",
       "topic": "科技",
-      "score": 74,
+      "score": 73,
       "id": "3a2355602ed7"
     },
     {
@@ -692,21 +835,8 @@
       "publishedAt": "2026-07-15T21:29:49.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/2b33673804dfcbfe28b41212a438099e?impolicy=wcms_crop_resize&cropH=1969&cropW=3500&xPos=0&yPos=0&width=862&height=485",
       "topic": "经济",
-      "score": 74,
+      "score": 73,
       "id": "cef3637c4af2"
-    },
-    {
-      "title": "Authors, publishers sue Google over alleged AI copyright infringement",
-      "summary": "Hachette and Elsevier lead US legal action against Google, alleging misuse of books for Gemini AI model training.",
-      "url": "https://www.aljazeera.com/economy/2026/7/15/authors-publishers-sue-google-over-alleged-ai-copyright-infringement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-15T21:21:20.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 74,
-      "id": "0349ab8f27da"
     },
     {
       "title": "‘Finish them off’: Trump’s warning as more strikes fired",
@@ -718,34 +848,8 @@
       "publishedAt": "2026-07-15T21:19:35.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "ca495fdffa1f"
-    },
-    {
-      "title": "Rider dies in e-scooter and electric skateboard crash",
-      "summary": "Police investigate an e-scooter and electric skateboard crash in Hervey Bay that has left one man dead and one seriously injured.",
-      "url": "https://www.abc.net.au/news/2026-07-16/man-dies-in-escooter-and-electric-skateboard-crash/106920800",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-15T21:19:11.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/e9f2f0ec252b630b06cf81f62b25895b?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=101&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "f88e3e039ca6"
-    },
-    {
-      "title": "Ancestral remains begin long journey home after 143 years at museum",
-      "summary": "The remains of members of the Rapa Nui people from Easter Island are \"finally going home\" after sitting in the Australian Museum's collection for over a century.",
-      "url": "https://www.abc.net.au/news/2026-07-16/repatriation-of-rapa-nui-remains-australian-museum-easter-island/106917256",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-15T21:19:02.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/02ee18c8da8c71a2fce028a0e3dbf062?impolicy=wcms_crop_resize&cropH=2446&cropW=4348&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "b9af7530a551"
     },
     {
       "title": "Lebanon and Israel end sixth round of US-brokered talks",
@@ -757,21 +861,21 @@
       "publishedAt": "2026-07-15T18:34:34.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "4b5a67fabfcb"
     },
     {
-      "title": "Prominent Moroccan journalist Ali Lmrabet released from custody",
-      "summary": "Moroccan activists warn of an intensifying crackdown on regime critics after the arrest of a journalist and a rapper.",
-      "url": "https://www.aljazeera.com/news/2026/7/15/prominent-moroccan-journalist-ali-lmrabet-released-from-custody?traffic_source=rss",
+      "title": "Iran unveils huge billboard showing Trump in coffin",
+      "summary": "Iran has installed a billboard in the capital Tehran showing US President Donald Trump lying in a coffin.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-unveils-huge-billboard-showing-trump-in-coffin?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-15T18:23:29.000Z",
+      "region": "中东",
+      "publishedAt": "2026-07-15T18:28:42.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
-      "id": "9d47a2981760"
+      "score": 73,
+      "id": "d1118bc5cc55"
     },
     {
       "title": "As Russia’s assault continues, Ukraine’s politics shift and an old alliance begins to fray",
@@ -783,164 +887,60 @@
       "publishedAt": "2026-07-15T14:30:56.000Z",
       "image": "https://i.guim.co.uk/img/media/df3bc516444cbec96aa4b61717bc38b70bb45ff9/848_0_4221_3379/master/4221.jpg?width=140&quality=85&auto=format&fit=max&s=5a6466eac7d44ce9a4b425201fdcc8f7",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "c7ade1848146"
     },
     {
-      "title": "Live: Minister accuses Coalition of being 'juvenile' for AI office criticism",
-      "summary": "Tim Ayres has accused the Coalition of being \"juvenile\" for criticising the establishment of an Office of AI in the prime minister's department. Follow live.",
+      "title": "Authors, publishers sue Google over alleged AI copyright infringement",
+      "summary": "Hachette and Elsevier lead US legal action against Google, alleging misuse of books for Gemini AI model training.",
+      "url": "https://www.aljazeera.com/economy/2026/7/15/authors-publishers-sue-google-over-alleged-ai-copyright-infringement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-15T21:21:20.000Z",
+      "image": "",
+      "topic": "科技",
+      "score": 72,
+      "id": "0349ab8f27da"
+    },
+    {
+      "title": "Rider dies in e-scooter and electric skateboard crash",
+      "summary": "Police investigate an e-scooter and electric skateboard crash in Hervey Bay that has left one man dead and one seriously injured.",
+      "url": "https://www.abc.net.au/news/2026-07-16/man-dies-in-escooter-and-electric-skateboard-crash/106920800",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-15T21:19:11.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/e9f2f0ec252b630b06cf81f62b25895b?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=101&width=862&height=485",
+      "topic": "社会",
+      "score": 72,
+      "id": "f88e3e039ca6"
+    },
+    {
+      "title": "Ancestral remains returned to Polynesian island after 143 years in museum",
+      "summary": "The remains of members of the Rapa Nui people from Easter Island are \"finally going home\" after sitting in the Australian Museum's collection for over a century.",
+      "url": "https://www.abc.net.au/news/2026-07-16/repatriation-of-rapa-nui-remains-australian-museum-easter-island/106917256",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-15T21:19:02.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/02ee18c8da8c71a2fce028a0e3dbf062?impolicy=wcms_crop_resize&cropH=2446&cropW=4348&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 72,
+      "id": "497a15d14899"
+    },
+    {
+      "title": "Live: PM defends decision not to attend Garma Festival",
+      "summary": "Anthony Albanese defends his decision to break a promise and not to attend the Garma Festival this year. Follow live.",
       "url": "https://www.abc.net.au/news/2026-07-16/federal-politics-live-blog-ai-office-criticism/106920750",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "大洋洲",
       "publishedAt": "2026-07-15T21:08:36.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/fea051648f276078eab42fb5d9cffda1?impolicy=wcms_crop_resize&cropH=3510&cropW=6240&xPos=0&yPos=1&width=862&height=485",
-      "topic": "政治",
-      "score": 73,
-      "id": "d177566af418"
-    },
-    {
-      "title": "Hopes bones in underwater 'time capsules' will unlock more prehistory",
-      "summary": "Scientists who have been finding fossils in SA's underwater caves are hoping they can give a window into environmental changes.",
-      "url": "https://www.abc.net.au/news/2026-07-16/underwater-caves-preserving-pre-historic-animal-bone-fossils-sa/106912130",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-15T21:01:54.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/f1265d286b8e53fdb7204efe56c6dd6f?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=107&width=862&height=485",
-      "topic": "气候",
-      "score": 73,
-      "id": "988ba1af9f3c"
-    },
-    {
-      "title": "Sheinbaum rejects US claim that Mexico’s government is linked to cartels",
-      "summary": "Sheinbaum has denounced remarks from DEA head Terry Cole as a baseless 'political statement' about Mexico.",
-      "url": "https://www.aljazeera.com/news/2026/7/15/sheinbaum-rejects-us-claim-that-mexicos-government-is-linked-to-cartels?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-07-15T20:52:12.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "f51dd7c3a67a"
-    },
-    {
-      "title": "Volodymyr Zelenskyy dismisses Ukraine’s popular defence minister",
-      "summary": "Mykhailo Fedorov, credited with transforming the ministry, ousted in reshuffle after six months in post Volodymyr Zelenskyy has dismissed Ukraine’s popular defence minister, despite pleas from foreign partners and civil society for him to keep his job, as part of wide-ranging government reshuffle. In a post on Telegram Mykhailo Fedorov announced that he was ",
-      "url": "https://www.theguardian.com/world/2026/jul/15/volodymyr-zelenskyy-dismisses-ukraines-popular-defence-minister",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-07-15T20:47:41.000Z",
-      "image": "https://i.guim.co.uk/img/media/a2e642899ce19135d797ec6fe2e6accdeea6f3ad/365_0_3653_2922/master/3653.jpg?width=140&quality=85&auto=format&fit=max&s=3abb4c430a754f782cf2afc8a91daab7",
-      "topic": "政治",
-      "score": 73,
-      "id": "c53ca2dd9b6c"
-    },
-    {
-      "title": "'I want the money that is owed to me': Charity fails to pay $150k in super",
-      "summary": "Former staff of charity PAWS Darwin are speaking out about being short-changed on their superannuation to the tune of $150,000. Under-18 staff also say the super accounts PAWS promised to create for them never existed.",
-      "url": "https://www.abc.net.au/news/2026-07-16/paws-darwin-ex-employees-unpaid-superannuation-accounts/106913488",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-15T20:39:15.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/467aa157359b46cd2fbc847aa577a613?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=36&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "c116d94267f5"
-    },
-    {
-      "title": "Canadian wildfires trap train drivers and choke Toronto",
-      "summary": "Train operators in rural Canada were trapped by raging wildfires as nearby communities were evacuated.",
-      "url": "https://www.abc.net.au/news/2026-07-16/wildfires-across-ontario-canada-force-evacuations/106920674",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "美洲",
-      "publishedAt": "2026-07-15T20:36:03.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/b1c6c68d00d250f73bc3fec5fc6db96f?impolicy=wcms_crop_resize&cropH=291&cropW=517&xPos=0&yPos=31&width=862&height=485",
-      "topic": "气候",
-      "score": 73,
-      "id": "03c987875b7c"
-    },
-    {
-      "title": "China and Xi favored over U.S. and Trump in many nations: Survey",
-      "summary": "The change is driven by improved perceptions of China and declining views of the United States.",
-      "url": "https://www.npr.org/2026/07/15/g-s1-133827/china-and-xi-favored-over-us-and-trump-in-many-nations-survey",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "美洲",
-      "publishedAt": "2026-07-15T20:34:30.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "cce06f387eb6"
-    },
-    {
-      "title": "A mass trial of MS-13 gang members in El Salvador wraps up in El Salvador - ABC News",
-      "summary": "A mass trial of MS-13 gang members in El Salvador wraps up in El Salvador &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU25LQU5VWGtIUm11YTFDNHlZM0lQbzZzU0VTSlNnSHVuSmxEc093YXZQMmluV2NQTlAzanB3ZzM1c2tVTl84ZF9kNk5MaGNqWGdWM242Y3FUM3hrbWNqcU5oU2NyTHVaSkR2MVY1dnRiMm5WRWR6M0VHQzhvZWlrOUdXZ3QtWkdlRFcyWGV6ZW1QcHBuWG5GU0hYUdIBoAFBVV95cUxPbTYtZUtfYTd1aU44aU0tUXBVYlptQS1JOTh1UHVXUHl1QXZsbVBLZWhuR1ZYQ0FBNHhneC1fazJVWGdMektKQlRWdTNXMGl3MzQ1Q2prMUpuTGNCZnN6NC1hdTJUYl93R2RJUUtLSkFSTF93WFFLV0pDdG9UeHZLdDRENWJOYkpzR2MwYW83aUZGeS10dXpaS2hpR1JxdEx2?oc=5",
-      "source": "Breaking News, Latest News and Videos",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-07-15T20:15:59.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "fbe4aaa8b3fd"
-    },
-    {
-      "title": "Guaco Returns to the U.S. with Nueva Era Tour, Announces Orlando Concert",
-      "summary": "Guaco Returns to the U.S. with Nueva Era Tour, Announces Orlando Concert &nbsp;&nbsp; LaMezcla.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTlVNZUlqbnYzcEU5b3BWeHYtMWt2Z3lBNTVVRXJGRnJQYVZMQlhsSTBXV28wRF96ZVBkNFF1QjR2M2tjUEdHVDhUcXdnbFBsNnlvcDNRYWdVX0hmNkE5Zzdra2ZGdTI3WG5CcWNOdVl5ZlU2QmNTeE1hTzRIRXJfWGVIYTVDLTduN0YyZ0xkaVRfY3VoWnpF?oc=5",
-      "source": "LaMezcla.com",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-07-15T23:13:08.000Z",
-      "image": "",
+      "image": "https://live-production.wcms.abc-cdn.net.au/c60272619d016343cf1b7bce4bef6f2c?impolicy=wcms_crop_resize&cropH=1125&cropW=2000&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
       "score": 72,
-      "id": "7fbb9e69190c"
-    },
-    {
-      "title": "Fastest-ever Tour de France stage sees Norwegian win in 'crazy' result",
-      "summary": "Tadej Pogačar protects his lead as Norway's Soeren Waerenskjold claims the fastest-ever stage in Tour de France history.",
-      "url": "https://www.abc.net.au/news/2026-07-16/tour-de-france-stage-11-soeren-waerenskjold-wins/106920678",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-07-15T20:14:09.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/250b4f4df2bbe3e757ff37fbcf336c15?impolicy=wcms_crop_resize&cropH=1699&cropW=3020&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 72,
-      "id": "7f59056d2836"
-    },
-    {
-      "title": "Researchers develop laser technology to test drinks for methanol",
-      "summary": "Adelaide University researchers have developed a way to use lasers to test closed alcohol bottles for methanol, which kills hundreds of people every year.",
-      "url": "https://www.abc.net.au/news/2026-07-16/scientists-using-lasers-to-test-for-methanol-in-drinks/106917366",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-15T20:11:16.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6737b3f07951f42c3a96c0284524cdb0?impolicy=wcms_crop_resize&cropH=2755&cropW=4898&xPos=0&yPos=0&width=862&height=485",
-      "topic": "科技",
-      "score": 72,
-      "id": "eda0f53b7538"
-    },
-    {
-      "title": "Pacific News Minute: U.S. ambassador says Cook Islands deep-sea minerals a top priority",
-      "summary": "Pacific News Minute: U.S. ambassador says Cook Islands deep-sea minerals a top priority &nbsp;&nbsp; Hawaii Public Radio",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU0xBcG9lUUt2MjEtcG1BaG5ZUDV5am1BdDVpa0RiV00teUZNUjUtSHdLYWphVUpRcTBxbDFhX3lHNWpQTjlnZXpvYkhXaFBhMVhTV2VySnQ5dEVzQXFjcDY0MFg0TGsyRXdXUkFaWVRmZnIyTDkxQVpzYVM4dlZ6RDVOVkx6SWpURm5sRC1nam16MGQ1R0hyeGZVYlM2T0pGNzVQMDBjYnk5OWxtc1RvNkxiRFUxR2UzQUh6aHFhcVhpVUNjU0VuYVlzcmZBVlp3dlczRHRjVGZXM0JwZHg2Umc5dnlxVUU?oc=5",
-      "source": "Hawaii Public Radio",
-      "feed": "Pacific News Network",
-      "region": "美洲",
-      "publishedAt": "2026-07-15T20:08:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "88b49e09a895"
+      "id": "e989bd02e58c"
     }
   ]
 }
