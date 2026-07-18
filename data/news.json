@@ -1,11 +1,24 @@
 {
-  "updatedAt": "2026-07-18T13:52:57.061Z",
+  "updatedAt": "2026-07-18T15:17:31.362Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "US strikes hit Iran for seventh consecutive night",
+      "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-07-18T15:04:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd47/live/65f79600-8282-11f1-b976-0b9c15b0ccfc.jpg",
+      "topic": "社会",
+      "score": 92,
+      "id": "9ddd2afd2872"
+    },
     {
       "title": "US embassy warns against travel to Middle East",
       "summary": "US embassy warns against travel to Middle East &nbsp;&nbsp; Breakingthenews.net",
@@ -16,34 +29,21 @@
       "publishedAt": "2026-07-18T11:10:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 93,
+      "score": 92,
       "id": "aef514fa3018"
     },
     {
-      "title": "US launches seventh night of Iran strikes as Hormuz conflict escalates",
-      "summary": "Central Command says attacks were designed to ‘continue degrading Iranian military capabilities’ The US military said it had launched a seventh consecutive night of strikes on Iran on Friday night as fighting escalated over the strait of Hormuz. US Central Command, in a post on X, said the strikes, which began at 7pm GMT, were designed to “continue degrading",
-      "url": "https://www.theguardian.com/world/2026/jul/17/us-launches-seventh-night-of-iran-strikes-as-hormuz-conflict-escalates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-07-18T06:03:13.000Z",
-      "image": "https://i.guim.co.uk/img/media/f4dd0acf467c2fa8e75fbc02cafa18a80f8a07d1/591_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=533797002e3540483e6632a44e0c1d8c",
+      "title": "China warns UK over British Steel nationalisation, demands fair resolution",
+      "summary": "Jingye seeks compensation after UK's move to fully nationalise loss-making British Steel, citing security risks.",
+      "url": "https://www.aljazeera.com/news/2026/7/18/china-warns-uk-over-british-steel-nationalisation-demands-fair-resolution?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-07-18T14:04:05.000Z",
+      "image": "",
       "topic": "政治",
-      "score": 91,
-      "id": "a2271d75484c"
-    },
-    {
-      "title": "US strikes hit Iran for seventh consecutive night",
-      "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
-      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-07-18T11:48:44.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd47/live/65f79600-8282-11f1-b976-0b9c15b0ccfc.jpg",
-      "topic": "社会",
-      "score": 89,
-      "id": "9ddd2afd2872"
+      "score": 87,
+      "id": "c9285d17d4cc"
     },
     {
       "title": "Indian police forcibly hospitalise activist after 20-day hunger strike",
@@ -55,7 +55,7 @@
       "publishedAt": "2026-07-18T10:48:09.000Z",
       "image": "",
       "topic": "政治",
-      "score": 89,
+      "score": 87,
       "id": "1b5bbc48e16f"
     },
     {
@@ -68,7 +68,7 @@
       "publishedAt": "2026-07-18T13:06:25.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d1/live/dae460c0-82a9-11f1-b976-0b9c15b0ccfc.jpg",
       "topic": "政治",
-      "score": 88,
+      "score": 86,
       "id": "692dbc43f2fd"
     },
     {
@@ -81,7 +81,7 @@
       "publishedAt": "2026-07-18T12:47:34.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/a79be29ea629eca230213521190d7916?impolicy=wcms_crop_resize&cropH=558&cropW=992&xPos=4&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 88,
+      "score": 86,
       "id": "4a581707dc06"
     },
     {
@@ -94,7 +94,7 @@
       "publishedAt": "2026-07-18T09:40:17.000Z",
       "image": "",
       "topic": "政治",
-      "score": 87,
+      "score": 85,
       "id": "0b6829fd66d8"
     },
     {
@@ -107,21 +107,21 @@
       "publishedAt": "2026-07-18T09:03:04.000Z",
       "image": "",
       "topic": "政治",
-      "score": 86,
+      "score": 85,
       "id": "6729afeb4e81"
     },
     {
-      "title": "US Urges Americans To Reconsider Middle East Travel As Iran Strikes Gulf States | LIVE BLOG",
-      "summary": "US Urges Americans To Reconsider Middle East Travel As Iran Strikes Gulf States | LIVE BLOG &nbsp;&nbsp; i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX3M2QWhpZTBjQmt6QmpQRERVb01oVGlwaWtBdTAwWm9aNk5VN3NwMThrQ1VWenBBVURkRkI0czVvRDFwWXNQSXdreVd6Q3dTUWswN0pxYUU0VFJCbGotbDhNOUxuaGlVQmpvOFpfNl9qMzFTM1otUnNGRzZ5VUlDcldKZmJvTE5reVJfUnRvaXU3SXYtZ18wSGJkSjVqcnJRMFB2TU15aUx6OXYzNmxESEJnT01ESjFSVWNqYUNsM3Fua3dWYm94VG4tY0RKbUNkQzBr?oc=5",
-      "source": "i24NEWS",
-      "feed": "Middle East News Network",
+      "title": "US launches seventh night of Iran strikes as Hormuz conflict escalates",
+      "summary": "Central Command says attacks were designed to ‘continue degrading Iranian military capabilities’ The US military said it had launched a seventh consecutive night of strikes on Iran on Friday night as fighting escalated over the strait of Hormuz. US Central Command, in a post on X, said the strikes, which began at 7pm GMT, were designed to “continue degrading",
+      "url": "https://www.theguardian.com/world/2026/jul/17/us-launches-seventh-night-of-iran-strikes-as-hormuz-conflict-escalates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
       "region": "中东",
-      "publishedAt": "2026-07-18T11:46:16.000Z",
-      "image": "",
-      "topic": "社会",
+      "publishedAt": "2026-07-18T06:03:13.000Z",
+      "image": "https://i.guim.co.uk/img/media/f4dd0acf467c2fa8e75fbc02cafa18a80f8a07d1/591_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=533797002e3540483e6632a44e0c1d8c",
+      "topic": "政治",
       "score": 85,
-      "id": "2d0fa9117115"
+      "id": "a2271d75484c"
     },
     {
       "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
@@ -133,7 +133,7 @@
       "publishedAt": "2026-07-18T10:45:43.000Z",
       "image": "",
       "topic": "政治",
-      "score": 85,
+      "score": 84,
       "id": "15d3a41dc912"
     },
     {
@@ -146,7 +146,7 @@
       "publishedAt": "2026-07-18T13:14:57.000Z",
       "image": "https://i.guim.co.uk/img/media/01d262c7a442cee35b24b8a8a09d2c50cb94703d/362_0_3793_3034/master/3793.jpg?width=140&quality=85&auto=format&fit=max&s=0a29fa2c48435e42556bc8b800756bfe",
       "topic": "社会",
-      "score": 84,
+      "score": 82,
       "id": "e6f2970588ac"
     },
     {
@@ -159,21 +159,8 @@
       "publishedAt": "2026-07-18T12:59:26.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
+      "score": 82,
       "id": "063b254fe0dd"
-    },
-    {
-      "title": "U.S. State Department Warns Citizens Over Middle East Travel",
-      "summary": "U.S. State Department Warns Citizens Over Middle East Travel &nbsp;&nbsp; Seoul Economic Daily",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUE1NWEtRVDVSY1o5enFLb0JlUWNtQ1JGSDRUaTJPYjdLLUZINjVtQjZiUExwVVlOcGpvS3lvRG5lWE5aeXBOa0dEYmRXTFVIcEV5eXprZjZVZnBTczN1cTF4SlRSTnZ6MnR6dmlXeGpGVFdrTGRGdm5rQl9INkRsQWxnUWVNT1lkY3lpX0swWXNkN1UydlMyd2JzN05SZGVGVlJDNXgtQVlWUQ?oc=5",
-      "source": "Seoul Economic Daily",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-18T10:23:27.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 84,
-      "id": "299b3a3f94d0"
     },
     {
       "title": "Why is it so hard for the U.S. to win wars?",
@@ -185,8 +172,21 @@
       "publishedAt": "2026-07-18T12:45:13.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "b0479fceb812"
+    },
+    {
+      "title": "U.S. State Department Warns Citizens Over Middle East Travel",
+      "summary": "U.S. State Department Warns Citizens Over Middle East Travel &nbsp;&nbsp; Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUE1NWEtRVDVSY1o5enFLb0JlUWNtQ1JGSDRUaTJPYjdLLUZINjVtQjZiUExwVVlOcGpvS3lvRG5lWE5aeXBOa0dEYmRXTFVIcEV5eXprZjZVZnBTczN1cTF4SlRSTnZ6MnR6dmlXeGpGVFdrTGRGdm5rQl9INkRsQWxnUWVNT1lkY3lpX0swWXNkN1UydlMyd2JzN05SZGVGVlJDNXgtQVlWUQ?oc=5",
+      "source": "Seoul Economic Daily",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-18T10:23:27.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 82,
+      "id": "299b3a3f94d0"
     },
     {
       "title": "US Embassy tells Americans to reconsider Middle East travel",
@@ -198,8 +198,47 @@
       "publishedAt": "2026-07-18T10:04:25.000Z",
       "image": "",
       "topic": "社会",
-      "score": 83,
+      "score": 81,
       "id": "b51317edd2d5"
+    },
+    {
+      "title": "Germany’s CDU party chair resigns after using surrogacy to become parent",
+      "summary": "Jens Spahn had criticised ‘rented wombs’ and his party is strongly opposed to surrogacy, which is banned in Germany A senior German politician and ally of the chancellor, Friedrich Merz, has resigned as chair of the Christian Democrat (CDU) party after he and his husband used a surrogate mother to become parents, a practice he has criticised in the past and ",
+      "url": "https://www.theguardian.com/world/2026/jul/18/germany-cdu-party-chair-resigns-surrogacy-jens-spahn",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-07-18T15:09:33.000Z",
+      "image": "https://i.guim.co.uk/img/media/9dd4ecb6182947314598e35bf9c0ee098f09c831/233_0_2814_2252/master/2814.jpg?width=140&quality=85&auto=format&fit=max&s=6ce07c3c54cf684cfbff7118aa522229",
+      "topic": "社会",
+      "score": 80,
+      "id": "72dd1fabf7b0"
+    },
+    {
+      "title": "Josh Kerr breaks 27-year-old mile record in front of packed London stadium",
+      "summary": "British runner Josh Kerr has broken the world record for running a mile - which has stood for 27 years.",
+      "url": "https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "全球",
+      "publishedAt": "2026-07-18T14:41:00.000Z",
+      "image": "https://e3.365dm.com/26/07/1920x1080/skynews-kerr-johs-josh-mile_7300770.jpg?20260718161119",
+      "topic": "社会",
+      "score": 80,
+      "id": "5e15db057341"
+    },
+    {
+      "title": "Venezuela earthquakes death toll surpasses 5,000 - ABC News",
+      "summary": "Venezuela earthquakes death toll surpasses 5,000 &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTh1aUdHeGZaVDI3Q0JCdjBWbmRiZ01DakRUOTlJSThQeUE2Q2Q5bjVmSmpHR3gyaDlydWdBRjNlOVNUNUl2c1NqUTZ1aUFlNVlMYVQ0cUlTV0hYQ21RUkhXNHdNUmZQRXlPTmRMc1Q1MlNqSlIzTFRIMk9QRXdxVHBvTTgxWFo2aEhQVC1WRmdiUmhoN1owTkFmcHpvaGY2V2lZ0gGoAUFVX3lxTFBJZVhsR1Y4dzNlWndMTHBBX0RfS1dQNjd4dHVlRks5MFZ3amE5amlxTGVxVE9lVWNCUXpnSDRINS11ZnNBckRUZ201X0xiV2FzUFRPSUl0d3dldzd5bGJCbmd0T2JZeExjWjdXU1h6VTNVM1BYVFVsMmZZSDZreGhnY3BLa0dWMlhIblU5NldzZ3owZFNuR3hFXzk2WVUwVXdENzBaY2RhSw?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-18T14:19:28.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 80,
+      "id": "6200fb71d54c"
     },
     {
       "title": "India achieves milestone with launch of first private-sector orbital rocket",
@@ -211,21 +250,8 @@
       "publishedAt": "2026-07-18T11:50:36.000Z",
       "image": "",
       "topic": "科技",
-      "score": 82,
+      "score": 80,
       "id": "3802277f5b96"
-    },
-    {
-      "title": "US, Iran exchange strikes across Middle East - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "US, Iran exchange strikes across Middle East - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNNDVYWDlFY3p2eUR4TmFuWHZKZ0RiRFFyZWNCZjNpV1psclhIMzNLT2hHT3hlVHEyNTVlY2h0eEVOa2RfTWw1cUVlbkJJS1RUUkxFY3dteVdfbEp3aGpldjU2VVkwVHVZTE55alE0SGJjQkNraHRIUXpCYw?oc=5",
-      "source": "شفق نيوز",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-18T05:36:25.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 82,
-      "id": "5f4768e1a811"
     },
     {
       "title": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
@@ -237,8 +263,34 @@
       "publishedAt": "2026-07-18T11:10:09.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "a69827800de8"
+    },
+    {
+      "title": "US Urges Americans To Reconsider Middle East Travel As Iran Strikes Gulf States | LIVE BLOG",
+      "summary": "US Urges Americans To Reconsider Middle East Travel As Iran Strikes Gulf States | LIVE BLOG &nbsp;&nbsp; i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX3M2QWhpZTBjQmt6QmpQRERVb01oVGlwaWtBdTAwWm9aNk5VN3NwMThrQ1VWenBBVURkRkI0czVvRDFwWXNQSXdreVd6Q3dTUWswN0pxYUU0VFJCbGotbDhNOUxuaGlVQmpvOFpfNl9qMzFTM1otUnNGRzZ5VUlDcldKZmJvTE5reVJfUnRvaXU3SXYtZ18wSGJkSjVqcnJRMFB2TU15aUx6OXYzNmxESEJnT01ESjFSVWNqYUNsM3Fua3dWYm94VG4tY0RKbUNkQzBr?oc=5",
+      "source": "i24NEWS",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-18T09:01:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 80,
+      "id": "2d0fa9117115"
+    },
+    {
+      "title": "US, Iran exchange strikes across Middle East - Shafaq News | Latest breaking news in Iraq and the world",
+      "summary": "US, Iran exchange strikes across Middle East - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNNDVYWDlFY3p2eUR4TmFuWHZKZ0RiRFFyZWNCZjNpV1psclhIMzNLT2hHT3hlVHEyNTVlY2h0eEVOa2RfTWw1cUVlbkJJS1RUUkxFY3dteVdfbEp3aGpldjU2VVkwVHVZTE55alE0SGJjQkNraHRIUXpCYw?oc=5",
+      "source": "شفق نيوز",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-18T05:36:25.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 80,
+      "id": "5f4768e1a811"
     },
     {
       "title": "US warns Americans to reconsider Middle East travel amid rising tensions",
@@ -250,34 +302,60 @@
       "publishedAt": "2026-07-18T05:08:32.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "2fb76c1d820b"
     },
     {
-      "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
-      "summary": "The US has bombed bridges and energy infrastructure in the seventh straight night of attacks on Iran.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-18T04:47:44.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 81,
-      "id": "61332b7a3cfd"
+      "title": "Dismissal of Ukraine’s defence minister highlights wider issues for Zelenskyy",
+      "summary": "Mykhailo Fedorov, celebrated by many for innovative, tech-driven approach, was sidelined for military old guard Volodomyr Zelenskyy’s abrupt dismissal of Ukraine’s youthful and innovative defence minister, Mykhailo Fedorov, at precisely the moment Kyiv appeared to be gaining advantages in several spheres of its war with Russia has exposed, not for the first ",
+      "url": "https://www.theguardian.com/world/2026/jul/17/dismissal-ukraine-defence-minister-mykhailo-fedorov-volodomyr-zelenskyy",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-07-18T14:26:22.000Z",
+      "image": "https://i.guim.co.uk/img/media/5348097bb644495fa4841c57bcbecc0ffc2ea7b9/375_0_3729_2984/master/3729.jpg?width=140&quality=85&auto=format&fit=max&s=9ef5c736998d46c538ca662c90d8e482",
+      "topic": "政治",
+      "score": 79,
+      "id": "65da4d1e037d"
     },
     {
-      "title": "Iran claims Tanf attack to warn Syria over Hezbollah arms",
-      "summary": "Iran claims Tanf attack to warn Syria over Hezbollah arms &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JckloRGVWSi1RX2NpUVQ1WV82ZG5hcDFLbGhwUnlrcldmaVA1dXdDUG5idlVFOUNSeFg2MUhrYXhvSE5DaFUyb1NCQ1NPZXZFUElBeng1OXpTTlpTbDk2alNoZUFON04wdVE?oc=5",
-      "source": "The Jerusalem Post",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-18T13:07:38.000Z",
-      "image": "",
+      "title": "German politician resigns over surrogacy child controversy",
+      "summary": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
+      "url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-07-18T14:20:32.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d6f/live/e67395c0-82a7-11f1-84ea-29e7008b1ad8.jpg",
+      "topic": "社会",
+      "score": 79,
+      "id": "7833afb5f7c8"
+    },
+    {
+      "title": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
+      "summary": "Rain could alleviate conditions in mid-Atlantic and north-east, with World Cup final expected to go ahead on Sunday Warnings of dangerous conditions are expected to remain in place on Saturday across swathes of the US, amid uncertainty about where the heavy wildfire smoke swirling from the Canadian province of Ontario and the US state of Minnesota will head ",
+      "url": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-18T14:13:36.000Z",
+      "image": "https://i.guim.co.uk/img/media/9308b2b2a0fa27923639195848ab12c39f3dd9aa/65_0_5843_4676/master/5843.jpg?width=140&quality=85&auto=format&fit=max&s=ead737d56127af6f474e30e3d4750949",
       "topic": "政治",
-      "score": 80,
-      "id": "c439c5447d38"
+      "score": 79,
+      "id": "ca38f22e5637"
+    },
+    {
+      "title": "US-Iran strikes: latest developments",
+      "summary": "US-Iran strikes: latest developments &nbsp;&nbsp; France 24",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYjlhUld0RURocS1LRVc4Z1RLdW5FblV0c0hxTkNfVG5LZDRhUUZlclVZWnpncjJRQWNEQU0zalUtZEk3THVMWV9zdGhVUTZUZTFrcFZ1aU90MTYtVURocWpaMWZLdEZ2MlFiTDBDdktlcDZuV0x6bXFZWXJTME9fU2VFRjAyV1JKS1E?oc=5",
+      "source": "France 24",
+      "feed": "Middle East News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-18T07:47:10.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "39bf4e7dd9af"
     },
     {
       "title": "Latest news bulletin | July 18th, 2026 – Midday",
@@ -289,7 +367,7 @@
       "publishedAt": "2026-07-18T10:33:02.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
+      "score": 78,
       "id": "414e222e0e41"
     },
     {
@@ -302,11 +380,11 @@
       "publishedAt": "2026-07-18T10:16:19.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/56581256306d7b1b968e3500e7dee5fe?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=531&width=862&height=485",
       "topic": "科技",
-      "score": 80,
+      "score": 78,
       "id": "c85b7db9c208"
     },
     {
-      "title": "ICE, datacenters, voter suppression: key issues expected to draw thousands in US to protests",
+      "title": "Thousands in US expected to protest against ICE, datacenters and voter suppression this weekend",
       "summary": "Demonstrations planned across the US this weekend will focus on three issues likely to define the midterm elections Thousands of Americans are expected to take to the streets this weekend in mass protests around issues likely to define the midterm elections: widespread violence from US Immigration and Customs Enforcement (ICE) agents, voter suppression and d",
       "url": "https://www.theguardian.com/us-news/2026/jul/18/protests-this-weekend-ice-datacenters-voter-suppression",
       "source": "The Guardian",
@@ -315,21 +393,8 @@
       "publishedAt": "2026-07-18T10:00:01.000Z",
       "image": "https://i.guim.co.uk/img/media/2388797a403884a25c49356fe4e556ead60576b8/516_0_4990_3992/master/4990.jpg?width=140&quality=85&auto=format&fit=max&s=22a08b5b63053d23de0d679387052719",
       "topic": "政治",
-      "score": 80,
-      "id": "45c1a2877ae7"
-    },
-    {
-      "title": "US-Iran strikes: latest developments",
-      "summary": "US-Iran strikes: latest developments &nbsp;&nbsp; France 24",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYjlhUld0RURocS1LRVc4Z1RLdW5FblV0c0hxTkNfVG5LZDRhUUZlclVZWnpncjJRQWNEQU0zalUtZEk3THVMWV9zdGhVUTZUZTFrcFZ1aU90MTYtVURocWpaMWZLdEZ2MlFiTDBDdktlcDZuV0x6bXFZWXJTME9fU2VFRjAyV1JKS1E?oc=5",
-      "source": "France 24",
-      "feed": "Middle East News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-18T07:47:10.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 80,
-      "id": "39bf4e7dd9af"
+      "score": 78,
+      "id": "8dba7eab8554"
     },
     {
       "title": "Ukrainian strikes hit Russian logistics center",
@@ -341,7 +406,7 @@
       "publishedAt": "2026-07-18T12:57:21.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 77,
       "id": "5afbd7f90daa"
     },
     {
@@ -354,7 +419,7 @@
       "publishedAt": "2026-07-18T09:24:00.000Z",
       "image": "https://e3.365dm.com/26/07/1920x1080/skynews-cockroach-janta-party_7300570.jpg?20260718104904",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "580c03296caa"
     },
     {
@@ -367,7 +432,7 @@
       "publishedAt": "2026-07-18T09:00:02.000Z",
       "image": "https://i.guim.co.uk/img/media/4bc10d92ee5f8365eb68e10fd5612beb021b9182/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=5494bc0408d200f382bda2a270c23ca4",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "316b59053758"
     },
     {
@@ -380,8 +445,34 @@
       "publishedAt": "2026-07-18T06:50:15.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 77,
       "id": "f04e4fde8941"
+    },
+    {
+      "title": "Doctors question evidence behind Pentagon plan for testosterone screening",
+      "summary": "Pete Hegseth announced that soldiers aged 30 and older in the US military will be screened for low testosterone The US defense secretary, ⁠Pete Hegseth, this week ordered annual testosterone-deficiency screening for active-duty and reserve service members aged 30 and older, which he says will help to maintain military readiness. But many medical professional",
+      "url": "https://www.theguardian.com/us-news/2026/jul/18/us-military-testosterone-screening-doctors",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-18T15:03:27.000Z",
+      "image": "https://i.guim.co.uk/img/media/8793befb5d9ba5e7e513a965068c81dcbcdc7da9/363_0_3619_2896/master/3619.jpg?width=140&quality=85&auto=format&fit=max&s=e3ebd708dd6a4ed546e98db1e1c2afb3",
+      "topic": "政治",
+      "score": 76,
+      "id": "952afbec18b4"
+    },
+    {
+      "title": "Scores of carers overpaid more than £20,000 last year despite reforms",
+      "summary": "DWP brought in measures to tackle carer’s allowance scandal yet in 2025-26 there were 32,559 overpayments Scores of unpaid carers were hit with demands to repay sums of more than £20,000 and hundreds more put at risk of prosecution last year as a result of official failures in what appear to be continuing problems with carer’s allowance. New figures showed c",
+      "url": "https://www.theguardian.com/society/2026/jul/18/scores-of-carers-overpaid-more-than-20000-last-year-despite-reforms",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-18T15:00:00.000Z",
+      "image": "https://i.guim.co.uk/img/media/63a5c3572381afe3896a2bc77489044057b2f982/510_0_7654_6123/master/7654.jpg?width=140&quality=85&auto=format&fit=max&s=a316c7950680bee2e4e05cfbe2432df7",
+      "topic": "社会",
+      "score": 76,
+      "id": "18cc4283756a"
     },
     {
       "title": "Wall Street’s AI-driven record run masks Asia’s coal-powered reality",
@@ -393,8 +484,21 @@
       "publishedAt": "2026-07-18T11:50:43.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 76,
       "id": "04adfd69d727"
+    },
+    {
+      "title": "U.S. and Iran escalate strikes across Mideast",
+      "summary": "U.S. and Iran escalate strikes across Mideast &nbsp;&nbsp; WLRN",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbndkTDZ1dEg1bXVQbXNnQmdXUS0tUS1tR2pqYTU1QTFVVlJnZXlab3ZrcHY4NVFmWHRTQXN5c1lpdGxlbmppYjVkVHQ5SjI5MXpfQ0t5NUdPQ1M3YjN2RlV6T0xnRjY2X1lfcFhFcjBOcDlWdW9leldSZ1EyOGtHYXZzb3FGZ2RrOXlUcU9ROHY5TXhYc19sTi13?oc=5",
+      "source": "WLRN",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-18T06:01:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "afed754757a3"
     },
     {
       "title": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
@@ -406,21 +510,34 @@
       "publishedAt": "2026-07-18T05:58:48.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3173/live/ad78f910-825a-11f1-9346-85db1a1d6a02.jpg",
       "topic": "社会",
-      "score": 78,
+      "score": 76,
       "id": "01e8449cae64"
     },
     {
-      "title": "Democratic Republic of Congo Overtakes Uganda, Kenya, Tanzania and Others in Africa Fueling Rwanda’s Tourism Through Record-Breaking Regional Travel Demand During the First Six Months of 2026",
-      "summary": "Democratic Republic of Congo Overtakes Uganda, Kenya, Tanzania and Others in Africa Fueling Rwanda’s Tourism Through Record-Breaking Regional Travel Demand During the First Six Months of 2026 &nbsp;&nbsp; Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZaVNfX2Z0dlFRaHBuS1l4andIclpqYjE1ZUc1WHVmVHR5M2hqWVBpTHdyeDR3R3V2Uno0RGZoaTBRdDJlX2I0VU40TGJSSjcwTzFWRDNyRDB0RExtUlV6eXhrY2tSN3dlMjhQSWtR?oc=5",
-      "source": "Travel And Tour World",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-18T10:51:31.000Z",
+      "title": "Report: Iran halts U.S. interim deal, deputy FM says, as it strikes across Gulf",
+      "summary": "Report: Iran halts U.S. interim deal, deputy FM says, as it strikes across Gulf &nbsp;&nbsp; Haaretz",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOT3JKQXVhdHpvYzMtbWJNRDhmMVZ4Yi1QTWhWRjRJRVg5bHFMN184WXM3dFB5WFN6SGpVNURCYV9NVGhmTlViS3Jkc0MzLS10Vm1Tc0NwU1A0UnF1OXlZakZFaGxEdURCUGtoczNLOENWSHAwdVRXM1Jaa1pZNER1dWxPM3JrMktud05aUTU2NFlvRVByNGhoOVg1M3ROYnNYbVRJclFEWmhkX3BnWWVDek5IUnNZQTNnMUhSMzZVeVNFOTd0VjBCeGtJQm5pem9HUHpVR3JOaDFCMWxSeWZLcHNCZEdpTVFVUUl5bURQOUkzZWl3UjZnc2JwSjdidVhXTTRucnVIUHpIMjJXRnc?oc=5",
+      "source": "Haaretz",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-18T14:45:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
-      "id": "c20291bdf71e"
+      "score": 75,
+      "id": "2f6fa623d568"
+    },
+    {
+      "title": "Massive fire becomes Norway's largest in modern times",
+      "summary": "The largest residential fire in modern Norwegian history destroys more than 100 homes near Oslo in what a local official described as \"a terrible incident\".",
+      "url": "https://www.abc.net.au/news/2026-07-19/norway-massive-fire-largest-in-modern-times/106931942",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-18T14:28:34.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/618d70c4000c10168fe13aed770390c6?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=268&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "8b4f51b59cbb"
     },
     {
       "title": "White House backs Argentina players over Falklands banner in World Cup semi-final",
@@ -432,21 +549,21 @@
       "publishedAt": "2026-07-18T10:54:07.000Z",
       "image": "https://i.guim.co.uk/img/media/23bbaeaf54b1dbb408a6ed771bcdd32deebfa5f3/219_0_4208_3368/master/4208.jpg?width=140&quality=85&auto=format&fit=max&s=fa0daaa725c79ec536ab2eab05641e13",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "36240ab1b8f3"
     },
     {
-      "title": "Poultry sector growth plan risks UK national security, campaigners warn",
-      "summary": "Government’s food security push is said to rely on animal feed imports with vulnerability to supply chain shocks The government’s planned poultry sector growth plan is a risk to national security, campaigners have warned. Earlier this month, the environment secretary, Emma Reynolds , told the Groundswell agriculture festival that the key to improving food se",
-      "url": "https://www.theguardian.com/environment/2026/jul/18/poultry-sector-growth-plan-uk-national-food-security-supply-chain",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-18T10:00:01.000Z",
-      "image": "https://i.guim.co.uk/img/media/311d7b5d6d53f4f4e2c6e7926252d2179d8432d4/530_0_3001_2400/master/3001.jpg?width=140&quality=85&auto=format&fit=max&s=280d6544edd82dd6f9d189dc55967be2",
-      "topic": "政治",
-      "score": 76,
-      "id": "02112b90ea07"
+      "title": "Democratic Republic of Congo Overtakes Uganda, Kenya, Tanzania and Others in Africa Fueling Rwanda’s Tourism Through Record-Breaking Regional Travel Demand During the First Six Months of 2026",
+      "summary": "Democratic Republic of Congo Overtakes Uganda, Kenya, Tanzania and Others in Africa Fueling Rwanda’s Tourism Through Record-Breaking Regional Travel Demand During the First Six Months of 2026 &nbsp;&nbsp; Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZaVNfX2Z0dlFRaHBuS1l4andIclpqYjE1ZUc1WHVmVHR5M2hqWVBpTHdyeDR3R3V2Uno0RGZoaTBRdDJlX2I0VU40TGJSSjcwTzFWRDNyRDB0RExtUlV6eXhrY2tSN3dlMjhQSWtR?oc=5",
+      "source": "Travel And Tour World",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-18T10:53:08.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "c20291bdf71e"
     },
     {
       "title": "Indian activist moved to hospital after 20-day hunger strike to protest country’s exam system",
@@ -458,8 +575,73 @@
       "publishedAt": "2026-07-18T04:15:08.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "1c7186de74c2"
+    },
+    {
+      "title": "'Lack of evidence' means Lao officials won't lay charges over teens' deaths",
+      "summary": "Investigators in Laos gave one of their first detailed accounts of the investigation into the deaths of six people, including 19-year-old Australians Holly Morton-Bowles and Bianca Jones, saying they don't have enough evidence to lay charges because autopsies were not carried out.",
+      "url": "https://www.abc.net.au/news/2026-07-19/laos-officials-blame-no-autopsies-poisoning-deaths-australians/106931892",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-18T14:04:18.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4046abc6f407aaff0f83ccf4bb9ebb3d?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=40&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "571ccfd1925c"
+    },
+    {
+      "title": "Top German conservative quits after surrogacy sparks backlash within party",
+      "summary": "Jens Spahn steps down after party criticism over surrogacy, highlighting tensions in Germany's conservative coalition.",
+      "url": "https://www.aljazeera.com/news/2026/7/18/top-german-conservative-quits-after-surrogacy-sparks-backlash-within-party?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-07-18T13:54:21.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "04c50afe8b65"
+    },
+    {
+      "title": "FIFA World Cup: Spain vs Argentina – What to know ahead of the final",
+      "summary": "Lamine Yamal and Lionel Messi meet in a clash of generations in Sunday's blockbuster Spain vs Argentina World Cup final.",
+      "url": "https://www.aljazeera.com/sports/2026/7/18/spain-argentina-fifa-world-cup-final-prediction-head-to-head-messi-yamal-prediction-venue?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-07-18T13:46:26.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "06ad05be4fc9"
+    },
+    {
+      "title": "Andy Burnham’s plan to scrap technology department triggers backlash",
+      "summary": "MPs and industry experts say potential reorganisation will waste time at critical moment for AI and economic growth Andy Burnham’s plan to scrap the government’s technology department has triggered an angry backlash from MPs, Whitehall officials and tech experts. The incoming prime minister has asked officials to draw up plans to abolish the Department for S",
+      "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-plan-to-scrap-technology-department-triggers-backlash",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-18T13:42:43.000Z",
+      "image": "https://i.guim.co.uk/img/media/64081e82285e9a5c36a14d08f38f212d354a2024/362_0_4659_3728/master/4659.jpg?width=140&quality=85&auto=format&fit=max&s=679a5bea50e7297b6b5500005f70508b",
+      "topic": "政治",
+      "score": 74,
+      "id": "1be4216f6e90"
+    },
+    {
+      "title": "Poultry sector growth plan risks UK national security, campaigners warn",
+      "summary": "Government’s food security push is said to rely on animal feed imports with vulnerability to supply chain shocks The government’s planned poultry sector growth plan is a risk to national security, campaigners have warned. Earlier this month, the environment secretary, Emma Reynolds , told the Groundswell agriculture festival that the key to improving food se",
+      "url": "https://www.theguardian.com/environment/2026/jul/18/poultry-sector-growth-plan-uk-national-food-security-supply-chain",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-18T10:00:01.000Z",
+      "image": "https://i.guim.co.uk/img/media/311d7b5d6d53f4f4e2c6e7926252d2179d8432d4/530_0_3001_2400/master/3001.jpg?width=140&quality=85&auto=format&fit=max&s=280d6544edd82dd6f9d189dc55967be2",
+      "topic": "政治",
+      "score": 74,
+      "id": "02112b90ea07"
     },
     {
       "title": "Death toll from Uganda school bus crash rises to 24",
@@ -471,21 +653,8 @@
       "publishedAt": "2026-07-18T13:07:39.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "50015736c720"
-    },
-    {
-      "title": "Gqom queen Busiswa talks breaking into Europe, empowering women in music and more",
-      "summary": "Gqom queen Busiswa talks breaking into Europe, empowering women in music and more &nbsp;&nbsp; News24",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbUhWUlR1QnFtbDhuNHVTdGp5Wm9rRnVoLWJXYXJYUVdUb3VzSGZCSmtSSXZJczRQbDFNTkdjbFpQRUxTZTVDelRXT3Jaai1JMUUwcUFGTUlmVFdNOXdVUDJaVHdEWEI1WThtazd3N3Q4U3lLNVBtWFB2UTN1UnlNNmYwUU5vUzVpT3Rld0ZiSW9KSUpiOGNqSGMtdEhLNWZuMUYwaWlvanBzUXQtWENZLXNaX0ZWVldCT2dGb0YwNzZIYUpyRmduenZrdHRmSzktTFE?oc=5",
-      "source": "News24",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-18T12:38:35.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "7265b8dffc59"
     },
     {
       "title": "Vietnam Leads Radisson Hotel Group Southeast Asia Expansion as New Hotels Transform Travel Across Philippines, Thailand, Indonesia, Australia, New Zealand, Fiji, and More",
@@ -497,7 +666,7 @@
       "publishedAt": "2026-07-18T09:43:07.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "21fb4c1384e0"
     },
     {
@@ -510,7 +679,7 @@
       "publishedAt": "2026-07-18T09:29:20.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "b2cc35913787"
     },
     {
@@ -523,7 +692,7 @@
       "publishedAt": "2026-07-18T09:21:52.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c120c8ff1b183f7845d0a90e5ea86dd6?impolicy=wcms_crop_resize&cropH=2714&cropW=4825&xPos=0&yPos=211&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "1e5750321e83"
     },
     {
@@ -536,21 +705,21 @@
       "publishedAt": "2026-07-18T05:47:31.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/8827cc4ea93de7cebec744b58ad7ebdf?impolicy=wcms_crop_resize&cropH=260&cropW=462&xPos=0&yPos=60&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "9e7e07a270b8"
     },
     {
-      "title": "Iran Releases List of African Countries Eligible for Visa-Free Entry",
-      "summary": "Iran Releases List of African Countries Eligible for Visa-Free Entry &nbsp;&nbsp; Yen News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcHhsT0ZSVlVWN2ZIV296VnlZcmxXYmZNMkdJU1l6MXFCSlYwdzgwMmlUYW1ray1ZbFhFVUdNajE5QUlDcGFXN2JwNElGaHlnSnBvdTBlWnd3MnFyclBxWUthaUZtWkYxMEdUVUU5UkJzcDBHdF9hRkQzSzRGd0FuYlFDbGZ5dzVtbUpVSzBiXzNuZGJUOEw1S3VR?oc=5",
-      "source": "Yen News",
+      "title": "Florida Atlantic Scientist Helps Discover New Monkey Species in Africa, One of Rarest Finds in 75 Years",
+      "summary": "Florida Atlantic Scientist Helps Discover New Monkey Species in Africa, One of Rarest Finds in 75 Years &nbsp;&nbsp; TAPinto",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYU93N1hvOVRNZV9XaUNSMENpNks1Sk1UdEREak5iUVJsVDlOelpTTDlmbC1Obk9ISUNXZWJ0UnFibEhuVWw1V2dBNjh0MjFJTzlUQ1BaVWhULXhYVEpiUjdVVUdrcHhtQVJfdzZBbWZtRFEtM1JzaHFPU2NPVlg2dHh5M1o2TXp1UGhhMTBKbGtSNzlkbXk1VF9FRlZ0UzhkTE1fZjJfSkFRNmdJWFpzZ1hpMUFqLTk3eXFHd2FEOVVqeWhlRFBMMEZRWmJUWkptbW5xbS1iZVkwc2E2d01ZR0l5SmhOQk0?oc=5",
+      "source": "TAPinto",
       "feed": "Africa News Network",
       "region": "非洲",
-      "publishedAt": "2026-07-18T12:28:31.000Z",
+      "publishedAt": "2026-07-18T15:08:10.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
-      "id": "3c79a1536e51"
+      "score": 72,
+      "id": "557846d2cdf2"
     },
     {
       "title": "Europe should look to Africa for heatwave solutions",
@@ -562,7 +731,7 @@
       "publishedAt": "2026-07-18T12:19:35.000Z",
       "image": "",
       "topic": "气候",
-      "score": 74,
+      "score": 72,
       "id": "db27f4d33d36"
     },
     {
@@ -575,8 +744,21 @@
       "publishedAt": "2026-07-18T12:13:20.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "8be499c83248"
+    },
+    {
+      "title": "Gqom queen Busiswa talks breaking into Europe, empowering women in music and more",
+      "summary": "Gqom queen Busiswa talks breaking into Europe, empowering women in music and more &nbsp;&nbsp; News24",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbUhWUlR1QnFtbDhuNHVTdGp5Wm9rRnVoLWJXYXJYUVdUb3VzSGZCSmtSSXZJczRQbDFNTkdjbFpQRUxTZTVDelRXT3Jaai1JMUUwcUFGTUlmVFdNOXdVUDJaVHdEWEI1WThtazd3N3Q4U3lLNVBtWFB2UTN1UnlNNmYwUU5vUzVpT3Rld0ZiSW9KSUpiOGNqSGMtdEhLNWZuMUYwaWlvanBzUXQtWENZLXNaX0ZWVldCT2dGb0YwNzZIYUpyRmduenZrdHRmSzktTFE?oc=5",
+      "source": "News24",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-18T12:08:35.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "7265b8dffc59"
     },
     {
       "title": "Parliament to scrutinize Iraq's EU flight ban efforts - Shafaq News | Latest breaking news in Iraq and the world",
@@ -588,34 +770,47 @@
       "publishedAt": "2026-07-18T12:08:06.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 72,
       "id": "3c6441a8724f"
     },
     {
       "title": "June 2026 broke heat records across Europe and oceans, EU climate data reveals",
-      "summary": "June 2026 broke heat records across Europe and oceans, EU climate data reveals &nbsp;&nbsp; Euronews",
+      "summary": "June 2026 broke heat records across Europe and oceans, EU climate data reveals &nbsp;&nbsp; Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFZiTEZ5cUVaSUdXQ1A0d2xqMlJKcWxKZlZ3cHlyb1BKVWJyMURpeGhqbXhycW4wbVpVNXptb0UzN1lmVWJRVlhUOUF0NXdZZEFGbDlYUnlnZ1gwT0tiZlBXM1pubkFidTRycng1UGpJMmQ5V0lmeGRzODVYRVhrSWh1VVBwdHFoOW9hSGlqb2lQTDZRbGpKcXBZcmF0QlFOaklhckI4cDBSYmMtbFB4VFpKZi1DdUFoVFdta0NvWWw?oc=5",
-      "source": "Euronews",
+      "source": "Euronews.com",
       "feed": "Europe News Network",
       "region": "欧洲",
       "publishedAt": "2026-07-18T11:58:06.000Z",
       "image": "",
       "topic": "气候",
-      "score": 74,
-      "id": "da8fee75683e"
+      "score": 72,
+      "id": "564a966a23c1"
     },
     {
-      "title": "Burnham must shift UK mood on racism, chair of Operation Black Vote says",
-      "summary": "Incoming PM must seize chance to stop race discourse deflecting from class inequalities, says David Weaver Andy Burnham has a historic opportunity to shift the national mood on racism, the chair of Operation Black Vote has said. In an interview marking the 30th anniversary of the influential nonpartisan civil rights organisation, David Weaver, the chair of O",
-      "url": "https://www.theguardian.com/world/2026/jul/18/andy-burnham-shift-uk-mood-racism-operation-black-vote",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-18T09:00:00.000Z",
-      "image": "https://i.guim.co.uk/img/media/4145a8a36b6753ec5eefe65098c330f3c7f4b399/580_0_5800_4640/master/5800.jpg?width=140&quality=85&auto=format&fit=max&s=e73c20f6fef30948c11f9615a337a02a",
+      "title": "Brazil's top court denies request for Argentina's Milei to visit Bolsonaro under house arrest",
+      "summary": "Brazil's top court denies request for Argentina's Milei to visit Bolsonaro under house arrest &nbsp;&nbsp; The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYl9fSnJaT0ZPT1BobDRsUUYzYTBwUXlTeEtyYXRJM2pHR2g2elB6T0xILTFZUnBaUzFpd0RSdlJ0amNjMFlZYkQ2aVZMeTZIVkVYWVZBSll3ZDdENlRFdzFsRENWb1E2NjFyN1owR3NMeG9XTjkyWjFidk1wRW5hY0hTT0ljYVUydVFpUUZyR1ZJWmdoTmRpM3paSjlBcGZNa3ExRWx3UmJvWWEwVXppMEwtUXY3Qm1RZF83QmtpdEpBaFpYZE1pdw?oc=5",
+      "source": "The Washington Post",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-18T14:24:32.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 71,
+      "id": "906448ba83a3"
+    },
+    {
+      "title": "Tether Invests $20 Million in Argentine Fintech Ualá as Part of $197 Million",
+      "summary": "Tether Invests $20 Million in Argentine Fintech Ualá as Part of $197 Million &nbsp;&nbsp; HOKANEWS.COM",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbjRnbjAtS2lwWUYtVTJ6NjZPTjRxME9Bc1B2eG14WFYtZ2ltUUZrZUpEV2NnMFhJU0pmakVjNkNuXzhxOG9oamMtLXlWWTBsQzRRWDN1ZG5JajJ2cjRXci1xdDROdXM4MDl2c2tPRXpWbXQ5UzB4ME10Sll1QmRPM0tB?oc=5",
+      "source": "HOKANEWS.COM",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-18T14:23:00.000Z",
+      "image": "",
       "topic": "社会",
-      "score": 74,
-      "id": "84e41c693780"
+      "score": 71,
+      "id": "42ebd388a067"
     },
     {
       "title": "India’s salt workers: The human cost of the world’s most popular seasoning",
@@ -627,7 +822,7 @@
       "publishedAt": "2026-07-18T11:30:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "b80017438b54"
     },
     {
@@ -640,7 +835,7 @@
       "publishedAt": "2026-07-18T11:10:20.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc2/live/32672200-a8c8-11ef-a4fe-a3e9a6c5d640.jpg",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "7db31cbdf9ba"
     },
     {
@@ -653,8 +848,34 @@
       "publishedAt": "2026-07-18T11:00:02.000Z",
       "image": "https://i.guim.co.uk/img/media/89d54331861832c48f6d2e6f646d7642348664b4/1876_317_1804_1443/master/1804.jpg?width=140&quality=85&auto=format&fit=max&s=6d6858e1dc8403384aa9decff30e69f4",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "903f5b8f2c5d"
+    },
+    {
+      "title": "Australia, Fiji sign mutual defense pact as tensions rise in Pacific",
+      "summary": "Australia, Fiji sign mutual defense pact as tensions rise in Pacific &nbsp;&nbsp; Indo-Pacific Defense FORUM",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYmNGRW1jODByWllBM0k3WjBYc3kyYTFJNy1WcjR3WFVmbGd3SXVnY3FyQ2M3eEJ1U1d0cXVRbFA3VFdCbzF4eGQ3SHdtSUY3MkJYZnlkN1lLc2IxUzB6MFBEYVdfbWtJdnVNLURrZFB2NmZSMGhIa0p3bnlpZmpyT1J5YkJTc3YwQ3NYWDU1YWxoMEMxTTlHbFoyWHFpWmJOV0RuQXhB?oc=5",
+      "source": "Indo-Pacific Defense FORUM",
+      "feed": "Pacific News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-18T14:00:04.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "3443c39dd5e6"
+    },
+    {
+      "title": "UAE Womens Jiu-Jitsu National Team Strikes Gold At Jiu-Jitsu Asian Championship In Kazakhstan",
+      "summary": "UAE Womens Jiu-Jitsu National Team Strikes Gold At Jiu-Jitsu Asian Championship In Kazakhstan &nbsp;&nbsp; UrduPoint",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlktNHpSZHFiVFNYd0ExWVBvc1VoWXVPdEpOZzRzaDlITHlYeWpvWHdpcHd0aHNxdWFURmtsR2NFSVJaSDI5V0VxdGROeWwwWG5hdUV2bUtJUHczYllpdTZDUk1zU0puWUtRZy10ajVRUHdlX0NXUEZ1SWo1TVkzZTY2aWRMMFNiX0w5MXFrTHNENTV6OXVLcGl4ZFcyUmc?oc=5",
+      "source": "UrduPoint",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-18T13:30:13.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "c33582d71d23"
     },
     {
       "title": "Andy Burnham considers radical shake-up to cut energy bills",
@@ -666,21 +887,8 @@
       "publishedAt": "2026-07-18T10:45:01.000Z",
       "image": "https://i.guim.co.uk/img/media/01ecbd0cdbc17a3bc208cc1ec02430df5839fa2f/143_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=9ab1d8f5ece3288486b181415539c0d0",
       "topic": "经济",
-      "score": 72,
+      "score": 70,
       "id": "a56b9495f5b5"
-    },
-    {
-      "title": "Pauline Hanson delivers CPAC London speech to mostly empty seats",
-      "summary": "Pauline Hanson has ended her trip to Britain and Europe on a muted note, after around 120 people attended her speech at a political conference in London on Saturday.",
-      "url": "https://www.abc.net.au/news/2026-07-18/pauline-hanson-delivers-cpac-london-speech/106931646",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-07-18T10:25:20.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/b46c4e00eeaae3533f90efbeb1edebe1?impolicy=wcms_crop_resize&cropH=848&cropW=1508&xPos=55&yPos=47&width=862&height=485",
-      "topic": "社会",
-      "score": 72,
-      "id": "de3601e06ff9"
     },
     {
       "title": "Space start-up launches India’s first commercial rocket designed for orbit",
@@ -692,21 +900,8 @@
       "publishedAt": "2026-07-18T07:05:19.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56eb/live/beb0cb10-82a8-11f1-84ea-29e7008b1ad8.png",
       "topic": "科技",
-      "score": 72,
+      "score": 70,
       "id": "583a1768b8fb"
-    },
-    {
-      "title": "Wessex Water chief pockets above-inflation pay rise despite bonus ban over sewage spills",
-      "summary": "CEO’s pay packet surges to £791,000 as union says public ‘sick of obscene pay’ and bosses ‘feathering own nests’ Wessex Water awarded its chief executive an above-inflation pay increase even as the company was banned from paying bonuses because of sewage spills, it has emerged. Ruth Jefferson received a 14% base salary increase in October, from £590,000 to £",
-      "url": "https://www.theguardian.com/business/2026/jul/18/wessex-water-chief-pay-rise-bonus-ban",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-18T07:00:51.000Z",
-      "image": "https://i.guim.co.uk/img/media/26918c44a1e5fac213fd9446313467bd7cc0661f/552_271_2900_2322/master/2900.jpg?width=140&quality=85&auto=format&fit=max&s=8777f9e3e8df56b84cd9ff7699836e76",
-      "topic": "政治",
-      "score": 72,
-      "id": "eac35104853a"
     },
     {
       "title": "Emerging Strait of Hormuz-Bab al-Mandab equation reshapes West Asias power balance: Analyst",
@@ -718,8 +913,21 @@
       "publishedAt": "2026-07-18T13:12:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 69,
       "id": "2b45f6ea427a"
+    },
+    {
+      "title": "AFCON — page 95",
+      "summary": "AFCON — page 95 &nbsp;&nbsp; Legit.ng",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52dEFDRTdma1Fvei10X3hnZ0NyZXhwbWtqVVk0WFNXa3ItM0RlSG1sVE8xT0M2Q29iWmlGcXB5V1NoTDJmZXk1ejNua3ZUb1ZVVFE?oc=5",
+      "source": "Legit.ng",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-18T13:04:49.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 69,
+      "id": "0e0c78db2d6d"
     },
     {
       "title": "Arizona teen hailed for helping save woman with dementia wandering in 103F heat",
@@ -731,216 +939,8 @@
       "publishedAt": "2026-07-18T10:00:01.000Z",
       "image": "https://i.guim.co.uk/img/media/4e95824f9b3fa0056d1528f6e29aa673f1af2169/0_44_1488_1191/master/1488.jpg?width=140&quality=85&auto=format&fit=max&s=007792cd19113e840fdfb929c7673e9d",
       "topic": "气候",
-      "score": 71,
+      "score": 69,
       "id": "d1112214d9ea"
-    },
-    {
-      "title": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
-      "summary": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified.",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "美洲",
-      "publishedAt": "2026-07-18T06:01:20.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 71,
-      "id": "a72b46a9f4f0"
-    },
-    {
-      "title": "Ramaphosa appoints new MDDA board chairperson",
-      "summary": "Ramaphosa appoints new MDDA board chairperson &nbsp;&nbsp; SABC News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0VlX0EyeXZxeUpIeVRHNHF2cng3YVJicHpRX1hjQnVPQzB6T013dWloOHk4eHhGamNINTJBM1Q0bk9BLTFxdTdULWdRS0xpRUk4VmJFbzZTaXJIc3ZCdlpSRTRuaE1weC1ybVA3V3pSd3YtTTNZR3dLRklyYnVsdzRMendpWUk?oc=5",
-      "source": "SABC News",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-18T11:58:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "1224314ac3fc"
-    },
-    {
-      "title": "El Niño Strengthens as Experts Warn of Hotter, Drier 2026/27 Summer Across Southern Africa",
-      "summary": "El Niño Strengthens as Experts Warn of Hotter, Drier 2026/27 Summer Across Southern Africa &nbsp;&nbsp; Central News South Africa",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRE02S2hod0Q1UHc4aGRJMGxtdXk2WkNGWVk4UzJDejhjLUg1V1F1aXVnTERnb2NqcVJfM0hnMnYyZGZhTlNRY2E1QlB5ekxIMi1sTXRNOXo0Z29ITDhWY3V2ckdBLUl6MTVsLXV4THBIRXZsZDBFT2RKWkFoV0w4amRHc0JLSXZWSDZIcDEzbGpZOXk3ZkdaMmZjc05DLUhCUWZJN3QxWlVPTkhWSzFyUVZvSXZyZ0E?oc=5",
-      "source": "Central News South Africa",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-18T09:00:05.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 70,
-      "id": "f87a45659475"
-    },
-    {
-      "title": "Taco Bell lettuce identified as a source of US 'explosive' diarrhoea outbreak",
-      "summary": "A record number of cyclospora cases have been reported in more than 30 US states, but experts say not every illness is likely to have been caused by a single source.",
-      "url": "https://www.abc.net.au/news/2026-07-18/taco-bell-lettuce-mexico-source-cyclospora-outbreak-us/106931262",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-18T02:16:01.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/5a5edaa987150752d29be78a602703af?impolicy=wcms_crop_resize&cropH=2623&cropW=4663&xPos=0&yPos=309&width=862&height=485",
-      "topic": "社会",
-      "score": 70,
-      "id": "e52e546b20e9"
-    },
-    {
-      "title": "Experts cast doubt on Trump and DHS chief’s claim 250,000 noncitizens are registered to vote in four US states – as it happened",
-      "summary": "This blog is now closed. DHS secretary doubles down on Trump’s baseless 2020 election claims Trump makes unverified claims of China ‘election meddling’ Sign up for US News Breaking email Trump also took to Truth Social today to claim that there were “great reviews” of his address to the nation on Thursday –&nbsp;where he repeated baseless claims undermining ",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-07-18T01:57:52.000Z",
-      "image": "https://i.guim.co.uk/img/media/db9f554322370756757b1690cd7e7a7a743a7ce0/347_0_4183_3348/master/4183.jpg?width=140&quality=85&auto=format&fit=max&s=fe27ab854d70316527e613cb50cf85ca",
-      "topic": "政治",
-      "score": 70,
-      "id": "0cd6103fef39"
-    },
-    {
-      "title": "Bundesliga and Serie A Clubs Circle Blackburn Rovers Defender Ryan Alebiosu",
-      "summary": "Bundesliga and Serie A Clubs Circle Blackburn Rovers Defender Ryan Alebiosu &nbsp;&nbsp; Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY25wOTI0bXJUdnAtZjNWRTNKUUgzazg3RGtqYXBNYzRMTXBEM1M4TmVoXzNyOHJxb3M3TG51UUVORTl5OHlmV3hyMHQwZnUta1ZDS0E1WDJ0MnI1SHRTNFJhSElHb1lGU3N1a01GbkNsYVpKOE9zalUtN0FRSHZHc0hRb3UzVmZsb1M3aDBhdVc1elV3TjFrWnFUdW5qdVJEUTNwMjRPVHpJOGs?oc=5",
-      "source": "Africa Top Sports",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-18T11:47:16.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "c241fde20fcb"
-    },
-    {
-      "title": "They Called Sam Neill ‘Skux.’ (It Was a Compliment.)",
-      "summary": "They Called Sam Neill ‘Skux.’ (It Was a Compliment.) &nbsp;&nbsp; The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbzVKTjBpQ1pSYVI0MTh5eldBUlBGdF8teXRDTzR6SHBKMFRlV21CWlRSR05tWER3bUhyNXFiRDdZN2ZlcjgxeFNXOE44SVBjYTRIZVZiUlJzNGwzcGhFY0M5d1VtMkdvWVJjNENqWFlUTkpJRlpUNjUtN040RTRlektKWkpldFVHMDFhZmNGWXRnRlhv?oc=5",
-      "source": "The New York Times",
-      "feed": "Pacific News Network",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-18T11:26:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "495f75220f5f"
-    },
-    {
-      "title": "World Cup Updates: Sunday’s Final Draws Mamdani and Trump (Separately)",
-      "summary": "World Cup Updates: Sunday’s Final Draws Mamdani and Trump (Separately) &nbsp;&nbsp; The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JbXhZa0hCWUdvZ2FlSXk5VXB3bGxhNkFldmo5QmliZHdUYTY1SG5yUzJnUUtPc1ZYRUZVdmRXZ2p3a2E3TXBhRV9xNjFQQmtxVnFEaWl5bnNEZ0czUkJyVw?oc=5",
-      "source": "The New York Times",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-07-18T11:08:35.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "6a40a8ee1d2b"
-    },
-    {
-      "title": "Watch FIFA World Cup: Messi, Rodri comment ahead of Argentina-Spain final",
-      "summary": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-      "url": "https://www.aljazeera.com/video/2026/7/18/video-world-cup-2026-highlights?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-07-18T08:20:41.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "e2ec977c5c7a"
-    },
-    {
-      "title": "World Cup final: Spain vs Argentina – Which team has best chance to win?",
-      "summary": "What to know about both teams: Form, strengths, weaknesses, key players and what the coaches and players had to say.",
-      "url": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-spain-and-argentina-whose-form-guide-points-to-victory?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-07-18T08:10:20.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "d56c0a38f362"
-    },
-    {
-      "title": "Europe heatwave death toll tops 1,300 as records fall",
-      "summary": "Europe heatwave death toll tops 1,300 as records fall &nbsp;&nbsp; MSN",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbVhDM0NnN2JBcGxncjZNZzhvQmVXSGlCRmF5b3NpeXhOcGIxakxKLV9FbUxsSEhjZXBKeUFjb3pOSDBsLWJqc3gzVmNtN2hhSTRWYzdQYWR0RVlQa3VkX181dHJhMkxIM1AwOE9TQlJvaHRyQVJrdTNNR1E4bFZCdERjVk5mTzllVVdMcHpJWXphUFJiQ1BpVkQ3MlJ2d290MkNta3ZSd0RWQURXWkJLSlExZzRNai1CR0xwaWFKdUlHQ2laVEtlbzVHdG53dTFUcVlocXUyQ2VJUTkzdTJwUVBLazB0WlhGRndxYQ?oc=5",
-      "source": "MSN",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-18T07:43:33.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 69,
-      "id": "ccc45420fd4b"
-    },
-    {
-      "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
-      "summary": "As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fight César Alcaraz had only just become a firefighter in the late 1990s when he found himself ambushed by a fast-moving blaze. Barely able to breathe and with no more water left in his truck, he and ",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-18T05:00:50.000Z",
-      "image": "https://i.guim.co.uk/img/media/71247bc8f72981b52ab17af009d0f4704431948b/5_30_4118_3295/master/4118.jpg?width=140&quality=85&auto=format&fit=max&s=e67bab19ae0ccefef1d211b6a8be4d3a",
-      "topic": "气候",
-      "score": 69,
-      "id": "3ed8518d5af5"
-    },
-    {
-      "title": "Is South Africa v Wales on TV? Channel, kick-off time and how to watch Springboks in Nations Championship",
-      "summary": "Is South Africa v Wales on TV? Channel, kick-off time and how to watch Springboks in Nations Championship &nbsp;&nbsp; Yahoo Sports UK",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YdnA3Ym42QVhOckdJbXlFY3RDOWpQTTJ6LWs2NDNHR3phRlJ1YTdPbTFuVEp5UXV3WG5FX0hxa1RPXzBKZF9YSDRSSXVpeGlZc0JFNUdac21aQmJwSGlkc0RiSV9IZXpsSDlJYnhpZHJmZnRLU0lhNnQ3TQ?oc=5",
-      "source": "Yahoo Sports UK",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-18T05:00:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "5f0ce8b0f8ba"
-    },
-    {
-      "title": "Trump jokes that England turned Harry Kane into a ‘defensive player’",
-      "summary": "US President Donald Trump joked that England turned captain Harry Kane into ‘a defensive player’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/trump-jokes-that-england-turned-harry-kane-into-a-defensive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-18T04:44:50.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 69,
-      "id": "33fe43b91d22"
-    },
-    {
-      "title": "'It's not right': Dragons fume after pushing Warriors",
-      "summary": "Second-placed New Zealand Warriors squeak to a nervy 20-12 victory over wooden-spoon favourite St George Illawarra, although the Dragons fume over narrow refereeing calls.",
-      "url": "https://www.abc.net.au/news/2026-07-18/nrl-live-blog-raiders-rabbitohs-warriors-dragons-bulldogs-tigers/106928426",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-18T04:32:18.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/e1e3cb53548704eb53a3584da985856f?impolicy=wcms_crop_resize&cropH=2700&cropW=4800&xPos=0&yPos=12&width=862&height=485",
-      "topic": "政治",
-      "score": 69,
-      "id": "ceba05daaf87"
-    },
-    {
-      "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
-      "summary": "The US Tsunami Warning Center has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico after the quake.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "美洲",
-      "publishedAt": "2026-07-17T18:12:54.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7777/live/efb32c20-81fa-11f1-a927-670d17f8e943.jpg",
-      "topic": "政治",
-      "score": 69,
-      "id": "667ea9193769"
     }
   ]
 }
