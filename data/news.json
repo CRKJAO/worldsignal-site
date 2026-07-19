@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T23:13:34.673Z",
+  "updatedAt": "2026-07-19T00:12:55.216Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -7,17 +7,43 @@
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
     {
-      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-      "summary": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
+      "title": "Two US troops killed and one missing in Jordan after Iranian attacks",
+      "summary": "Sirens sound in Bahrain and Kuwait accuses Tehran of targeting civilian sites and infrastructure as Iran strikes US allies Two US troops were killed and one remains missing in Jordan after Iran launched a wave of attacks against US allies in the Middle East. Iran’s attacks came as the renewal of US strikes on Iran entered a second week and fighting escalated",
+      "url": "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict",
+      "source": "The Guardian",
+      "feed": "The Guardian",
       "region": "中东",
-      "publishedAt": "2026-07-18T21:12:28.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb90/live/f934e660-82d3-11f1-a42c-29abcdb2a052.jpg",
-      "topic": "政治",
-      "score": 98,
-      "id": "bd13ebbaec4f"
+      "publishedAt": "2026-07-18T19:57:22.000Z",
+      "image": "https://i.guim.co.uk/img/media/46569dc860738ad3220fae89b1bae87bf53cd606/425_0_2499_1999/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=5704b672fcf8b12f952d5e1f18ba5e29",
+      "topic": "科技",
+      "score": 100,
+      "id": "d65feeda55ac"
+    },
+    {
+      "title": "U.S. strikes Iran after 2 service members killed, 1 missing in attack on Jordan base",
+      "summary": "U.S. strikes Iran after 2 service members killed, 1 missing in attack on Jordan base &nbsp;&nbsp; The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDhIaFk3Yi1tNnR6Y3Y3QlhhUjVKSEp2bWJrLVJGQ3kyZ00yUUVrZ3AtV2JRS0ZmN1dCU25CUGFwNFVYLTd6QVRRV3dzNlpHN3lPX0xSaWxpX2laSkNxWmdKQnhNU25BRmJFNXFHM1lHZFJIckZnVllzenNRS081NWhpR2xVQ0ZfT0NDXzV2M2FTdHlPUXpPTWdRdXBKR0xJOUdqWUwyYTN2Rlly?oc=5",
+      "source": "The Washington Post",
+      "feed": "Asia News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-18T23:50:51.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 96,
+      "id": "a8820491d16d"
+    },
+    {
+      "title": "Two U.S. Troops Were Killed, One Is Missing After Iran Missile Attack in Jordan",
+      "summary": "Two U.S. Troops Were Killed, One Is Missing After Iran Missile Attack in Jordan &nbsp;&nbsp; WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMl9xOG02Si12Z1duVWRuUVFYNk40WGNXNWhwZk5qTjlOUVR4aDVGVW9qeG5pcExQcmlTRi1YZjNOcndLVWJGMmhtbnNQc2F2dFg0d29teWsxUVNGbTQ5SHI2QU5fa2Q0NFNXQndyYWlET01zMDZwUWc1NUZRS3ZFS1dXYS1jUnlKU0dDcGUxV08xUVhDR1V0RF9qZl9XX2xlLVBKM1pZZ0drY2VYMnBqSFN4SGdsVUxhNTI3VXJ3?oc=5",
+      "source": "WSJ",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-18T22:42:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 95,
+      "id": "5c6cb031bbc6"
     },
     {
       "title": "US says two military personnel killed by Iranian attack in Jordan",
@@ -29,34 +55,8 @@
       "publishedAt": "2026-07-18T21:30:29.000Z",
       "image": "",
       "topic": "政治",
-      "score": 95,
-      "id": "83eb50adce06"
-    },
-    {
-      "title": "Two US service members 'killed in action' in Jordan",
-      "summary": "The US and Iran have intensified attacks since an interim ceasefire deal signed a month ago fell apart, raising the possibility of a return to all-out war.",
-      "url": "https://www.abc.net.au/news/2026-07-19/us-says-two-military-personnel-killed-in-jordan/106932528",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "中东",
-      "publishedAt": "2026-07-18T19:27:38.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/e6a0a5e485b4ee14a54a5842c1ce877e?impolicy=wcms_crop_resize&cropH=2557&cropW=4546&xPos=0&yPos=0&width=862&height=485",
-      "topic": "政治",
       "score": 93,
-      "id": "79d127c439d1"
-    },
-    {
-      "title": "Damage visible at Iran bridges and water plant after US attacks",
-      "summary": "US strikes damaged bridges and a water desalination plant in Iran after a seventh straight night of attacks.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/damage-visible-at-iran-bridges-and-water-plant-after-us-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-18T18:09:15.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 90,
-      "id": "dc728636c554"
+      "id": "83eb50adce06"
     },
     {
       "title": "U.S. fires on Iran after attack in Jordan leaves 2 troops killed, 1 missing",
@@ -68,47 +68,47 @@
       "publishedAt": "2026-07-18T18:14:11.000Z",
       "image": "",
       "topic": "社会",
-      "score": 87,
+      "score": 93,
       "id": "4ea565b2adf2"
     },
     {
-      "title": "Scot breaks 27yo mile record, Aussies shine at Diamond League",
-      "summary": "Scotland's Josh Kerr stuns the crowd by breaking the mile record, as Australia's women shine at the Diamond League meet in London.",
-      "url": "https://www.abc.net.au/news/2026-07-19/diamond-league-scot-josh-kerr-stuns-with-mile-record-london/106932658",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-18T23:06:50.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/62dec3a305caf9d90e2908305bf41e4a?impolicy=wcms_crop_resize&cropH=1682&cropW=2990&xPos=0&yPos=46&width=862&height=485",
-      "topic": "社会",
-      "score": 85,
-      "id": "036f2ed8d08f"
-    },
-    {
-      "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
-      "summary": "Kerr announced his bid to break the world record months in advance, and pulled off the plan in London on Saturday.",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "欧洲",
-      "publishedAt": "2026-07-18T20:06:35.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 85,
-      "id": "60b825e996fd"
-    },
-    {
-      "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
-      "summary": "Palestinians who have endured Israel's genocidal war are still being targeted.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
+      "title": "Damage visible at Iran bridges and water plant after US attacks",
+      "summary": "US strikes damaged bridges and a water desalination plant in Iran after a seventh straight night of attacks.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/damage-visible-at-iran-bridges-and-water-plant-after-us-attacks?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
       "region": "中东",
-      "publishedAt": "2026-07-18T19:55:16.000Z",
+      "publishedAt": "2026-07-18T18:09:15.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 89,
+      "id": "dc728636c554"
+    },
+    {
+      "title": "US State Department warns Americans about rising tensions in Middle East",
+      "summary": "US State Department warns Americans about rising tensions in Middle East &nbsp;&nbsp; The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVcGN2VTN6ckc5QmlUZzYtNklhT0hOVUxHRFdsOEx5bEpMU1Vlc3VrMDA0ak1pTEYySENRSngwaDlGSGVIYkx1VV9sYmZVUFlSU1I3YUVaVUd4aF9U?oc=5",
+      "source": "The Jerusalem Post",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-18T23:39:04.000Z",
       "image": "",
       "topic": "政治",
-      "score": 85,
-      "id": "05312f2b0390"
+      "score": 88,
+      "id": "fb16a36ee9ca"
+    },
+    {
+      "title": "Saka hat-trick helps England down France to win World Cup 2026 Bronze Final",
+      "summary": "Kylian Mbappe scores twice for France to hit World Cup record, but England win 6-4 in third-place playoff final.",
+      "url": "https://www.aljazeera.com/sports/2026/7/18/saka-hat-trick-helps-england-down-france-to-win-world-cup-2026-bronze-final?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-07-18T23:22:12.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 87,
+      "id": "0cfc9d8c4bce"
     },
     {
       "title": "Live: US launches strikes to 'swiftly punish' Iran after two service members killed",
@@ -120,8 +120,99 @@
       "publishedAt": "2026-07-18T22:50:07.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1910191bd81072d7c3b03bc39ca55318?impolicy=wcms_crop_resize&cropH=1934&cropW=3438&xPos=8&yPos=0&width=862&height=485",
       "topic": "科技",
-      "score": 84,
+      "score": 87,
       "id": "86569e4d2fd9"
+    },
+    {
+      "title": "US military says two service members killed in Iranian strike in Jordan",
+      "summary": "US and Iran have stepped up attacks in the last week, prompting alarm about return to full-scale war across the region.",
+      "url": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-07-18T18:04:47.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 86,
+      "id": "276495046ba5"
+    },
+    {
+      "title": "Australia news live: Liberal senator Andrew Bragg says he ‘strongly disagrees’ with Tony Abbott on multiculturalism",
+      "summary": "Bragg says Australia has ‘a very proud record to stand on’. Follow the latest updates live Get our breaking news email , free app or daily news podcast Bragg says Hanson has ‘made a business’ of criticism of minorities The shadow housing minister, Andrew Bragg , has been asked to weigh in on the One Nation leader, Pauline Hanson ’s claims about Muslim Austra",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/19/anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-bridget-mckenzie-cpac-london-politics-reactions-ski-field-temperature-high-diesel-prices-surge-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-18T23:44:32.000Z",
+      "image": "https://i.guim.co.uk/img/media/85f15695a556ae3f012ac83591fe6ed73e6d5e01/0_0_5794_4638/master/5794.jpg?width=140&quality=85&auto=format&fit=max&s=bedc7888388796ad0f00c7bdc4edfba2",
+      "topic": "政治",
+      "score": 84,
+      "id": "ee0357b8c005"
+    },
+    {
+      "title": "Conservatives around world at war against ‘leftwing globalists’, Bridget McKenzie tells CPAC London event",
+      "summary": "Nationals senator echoes comments by Pauline Hanson as Labor criticises One Nation leader’s divisive stance Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The National party’s Senate leader, Bridget McKenzie, has used an appearance at a conference of the populist right in London to declare ",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/19/bridget-mckenzie-cpac-london-national-party-pauline-hanson-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-18T23:37:48.000Z",
+      "image": "https://i.guim.co.uk/img/media/e0422088c498f7a73bd8088b2c3a1c42b3013533/0_0_4702_3762/master/4702.jpg?width=140&quality=85&auto=format&fit=max&s=de206dd12f44aaeb038b962d10989de0",
+      "topic": "政治",
+      "score": 84,
+      "id": "40e625473940"
+    },
+    {
+      "title": "U.S. State Department Issues Worldwide Security Alert Amid Rising Middle East Tensions",
+      "summary": "U.S. State Department Issues Worldwide Security Alert Amid Rising Middle East Tensions &nbsp;&nbsp; Kurdistan24",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRWhSVDhTNGtVVDNsSU5UcEV6bzNVNEk5TENMRWxSWHRtTHJId0pGdDQ0MUwtTEp4SmtEVThoS2I4eWtyYkZVazA1amprUk5XaVlOTEtISzJuSVdEZjhrYVdqQ0Mwc2hOdnQzTHpGNnVnSzNvX21tVWRTWW1DSnpXbU53Qjl4QmljUEZzZTBCT0JfaVhXWVlLOEVvVlgta3J3Sk84blp0Q1VORDNvNmZjaDNkM0QzMFZueTQ5WE80Ny10YXZOcDRv?oc=5",
+      "source": "Kurdistan24",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-18T20:39:32.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 84,
+      "id": "a31018066ae3"
+    },
+    {
+      "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
+      "summary": "Palestinians who have endured Israel's genocidal war are still being targeted.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-07-18T19:55:16.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 84,
+      "id": "05312f2b0390"
+    },
+    {
+      "title": "England 6-4 France LIVE: FIFA World Cup 2026",
+      "summary": "All the updates from our live text commentary stream coverage of the Bronze Final, which saw Saka score a hat-trick.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/18/france-vs-england-live-fifa-world-cup-2026-third-place-playoff?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-07-18T17:46:20.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 84,
+      "id": "2ff44ce84a54"
+    },
+    {
+      "title": "Scot breaks 27yo mile record, Aussies shine at Diamond League",
+      "summary": "Scotland's Josh Kerr stuns the crowd by breaking the mile record, as Australia's women shine at the Diamond League meet in London.",
+      "url": "https://www.abc.net.au/news/2026-07-19/diamond-league-scot-josh-kerr-stuns-with-mile-record-london/106932658",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-18T23:06:50.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/62dec3a305caf9d90e2908305bf41e4a?impolicy=wcms_crop_resize&cropH=1682&cropW=2990&xPos=0&yPos=46&width=862&height=485",
+      "topic": "社会",
+      "score": 83,
+      "id": "036f2ed8d08f"
     },
     {
       "title": "US issues worldwide travel caution over Middle East tensions",
@@ -133,8 +224,21 @@
       "publishedAt": "2026-07-18T20:24:05.000Z",
       "image": "",
       "topic": "社会",
-      "score": 84,
+      "score": 83,
       "id": "7bf2a234e861"
+    },
+    {
+      "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
+      "summary": "Kerr announced his bid to break the world record months in advance, and pulled off the plan in London on Saturday.",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "欧洲",
+      "publishedAt": "2026-07-18T20:06:35.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 83,
+      "id": "60b825e996fd"
     },
     {
       "title": "Hungary’s president agrees to stand down after law change ends his term",
@@ -146,21 +250,34 @@
       "publishedAt": "2026-07-18T22:17:51.000Z",
       "image": "https://i.guim.co.uk/img/media/b21eccf446ab12d451cb4725cd06c6c78f74c280/434_0_2273_1818/master/2273.jpg?width=140&quality=85&auto=format&fit=max&s=6952e75794230eaa14784d6692cc24b3",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "196de274bb0f"
     },
     {
-      "title": "US embassy warns against travel to Middle East",
-      "summary": "US embassy warns against travel to Middle East &nbsp;&nbsp; Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTGxkNjYtVVpEWHJuSmRuWmg3aUJ3YkJONmFmbW1rWW42ejBJc1Q1MFJEMHAzQlVVQUlTQjJLZFRJUmNhb3VmeFNQTWhScVg4aVp2NGZTOHl3dTJ0elhna3RmNGpBNTlOLTVsZFRLc19wa2pBSEdFRmJialMxa1dMUEdHdkZ6X2pTbHJOc3dZS1NoWG0xUnc?oc=5",
-      "source": "Breakingthenews.net",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-18T11:10:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 82,
-      "id": "aef514fa3018"
+      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-07-18T23:59:26.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c416/live/685838d0-81b2-11f1-bc34-d11e2a8fe857.jpg",
+      "topic": "经济",
+      "score": 80,
+      "id": "32e0542da129"
+    },
+    {
+      "title": "Breaking: Social media influencers Andrew, Tristan Tate arrested",
+      "summary": "British prosecutors say they are seeking extradition of the Tate brothers from the US on rape and sex trafficking charges.",
+      "url": "https://www.abc.net.au/news/2026-07-19/influencers-andrew-tristan-tate-brothers-arrested-miami/106932724",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-18T23:41:54.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/15fa1e0c4b6fb05ed6687f24147207cd?impolicy=wcms_crop_resize&cropH=2136&cropW=3798&xPos=0&yPos=88&width=862&height=485",
+      "topic": "社会",
+      "score": 80,
+      "id": "7b81f63459dd"
     },
     {
       "title": "State Department issues worldwide caution alert amid Middle East tension",
@@ -172,7 +289,7 @@
       "publishedAt": "2026-07-18T20:59:22.000Z",
       "image": "",
       "topic": "社会",
-      "score": 81,
+      "score": 80,
       "id": "dbe9f7748d5e"
     },
     {
@@ -185,7 +302,7 @@
       "publishedAt": "2026-07-18T20:00:09.000Z",
       "image": "https://i.guim.co.uk/img/media/c017396124a3bfb3ea30c82d125ba81f61c43e6d/757_0_6181_4945/master/6181.jpg?width=140&quality=85&auto=format&fit=max&s=6a73726dc6f5c40595150c1ecd77d807",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "258d8ce62798"
     },
     {
@@ -198,21 +315,34 @@
       "publishedAt": "2026-07-18T17:29:23.000Z",
       "image": "",
       "topic": "社会",
-      "score": 81,
+      "score": 80,
       "id": "1acefa10e324"
     },
     {
-      "title": "Australia news live: ski fields reach July temperature high; diesel prices surge",
-      "summary": "Follow the latest updates live Get our breaking news email , free app or daily news podcast Hanson ‘taking us nowhere’ on divisive race debate: Labor Pauline Hanson ’s appearances with far-right activist Tommy Robinson and at a conservative political conference in London have been criticised at home, with Labor frontbencher Andrew Charlton calling the One Na",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/19/anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-bridget-mckenzie-cpac-london-politics-reactions-ski-field-temperature-high-diesel-prices-surge-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-18T23:09:22.000Z",
-      "image": "https://i.guim.co.uk/img/media/266ce1654453a3739b5d405965b1df1e4cc64d4e/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d7d357c2eae24578a7a0e743e57a863d",
-      "topic": "社会",
+      "title": "US embassy warns against travel to Middle East",
+      "summary": "US embassy warns against travel to Middle East &nbsp;&nbsp; Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTGxkNjYtVVpEWHJuSmRuWmg3aUJ3YkJONmFmbW1rWW42ejBJc1Q1MFJEMHAzQlVVQUlTQjJLZFRJUmNhb3VmeFNQTWhScVg4aVp2NGZTOHl3dTJ0elhna3RmNGpBNTlOLTVsZFRLc19wa2pBSEdFRmJialMxa1dMUEdHdkZ6X2pTbHJOc3dZS1NoWG0xUnc?oc=5",
+      "source": "Breakingthenews.net",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-18T11:10:00.000Z",
+      "image": "",
+      "topic": "政治",
       "score": 80,
-      "id": "a820efac1e25"
+      "id": "aef514fa3018"
+    },
+    {
+      "title": "Kylian Mbappe breaks all-time World Cup scoring record with 22nd goal",
+      "summary": "Mbappe is back on track to defend his Golden Boot title, which he and Messi have traded between themselves throughout the tournament.",
+      "url": "https://www.aljazeera.com/sports/2026/7/18/kylian-mbappe-breaks-all-time-world-cup-scoring-record-with-22nd-goal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-18T23:20:31.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 79,
+      "id": "58b9efaf33c4"
     },
     {
       "title": "Pauline Hanson tells London CPAC crowd she is ‘sick of hearing about white privilege’ and ‘fears for England’",
@@ -224,21 +354,8 @@
       "publishedAt": "2026-07-18T22:54:06.000Z",
       "image": "https://i.guim.co.uk/img/media/98a40c9ac448ac555832767a12ec52118fc10b62/2659_843_3291_2635/master/3291.jpg?width=140&quality=85&auto=format&fit=max&s=364d66933f6d8272a148aaed29bf228e",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "7156a1a33d9b"
-    },
-    {
-      "title": "US launches fresh strikes on Iran in revenge for US soldiers being killed",
-      "summary": "US launches fresh strikes on Iran in revenge for US soldiers being killed &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XNUxoY0Z4Nk5ZWE4zN0ZFODE4ak9yeDZ5QjNwR3U2MVBrVUI3d05xbktkN2xNWHh3T19oT3hDZENFNTZsMlJ3ZUVvNm5RN1lWQi14Y1lmZ1FNdFc0NUxfdldlMDUyakcwOUE?oc=5",
-      "source": "The Jerusalem Post",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-18T22:36:08.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 80,
-      "id": "a34d55c0df39"
     },
     {
       "title": "Hungary's president agrees to stand down after parliament backs removal",
@@ -250,21 +367,8 @@
       "publishedAt": "2026-07-18T19:34:16.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3323/live/67c3a600-82db-11f1-9a15-3bb955e2f294.jpg",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "bfdc5f0a33d9"
-    },
-    {
-      "title": "Sara Albrecht took on Trump's tariffs. She got 'violent' calls",
-      "summary": "When a law centre decided to fight Donald Trump's \"liberation day\" tariffs, it was acutely aware of possible \"retaliation\" from a president who takes matters \"personally\".",
-      "url": "https://www.abc.net.au/news/2026-07-19/conservative-law-firm-that-took-on-trump-and-won/106921598",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-18T19:10:27.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ea6870de0d57b82f12e39d52e7fe071e?impolicy=wcms_crop_resize&cropH=1735&cropW=3085&xPos=0&yPos=114&width=862&height=485",
-      "topic": "政治",
-      "score": 80,
-      "id": "59b524074cd2"
     },
     {
       "title": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
@@ -276,7 +380,7 @@
       "publishedAt": "2026-07-18T18:55:05.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "a1a51999f110"
     },
     {
@@ -289,7 +393,7 @@
       "publishedAt": "2026-07-18T18:45:49.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "98e14cf88ffb"
     },
     {
@@ -302,21 +406,8 @@
       "publishedAt": "2026-07-18T15:35:54.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
-      "id": "abee3a706687"
-    },
-    {
-      "title": "State Department issues worldwide caution alert as Iran conflict escalates",
-      "summary": "State Department issues worldwide caution alert as Iran conflict escalates &nbsp;&nbsp; Washington Examiner",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTVBXWDBxYWpMSmNtNlhhMVNHbVpLWjA4bGc0bUhfcmN3RjZiem9lX3dhRWVfOFJybFpOSEVqZTJYTzh1VTlsUGpmZDFXLThqb05MamtvSkhYUXVyQXpOTElhS3RZWWtiQ0dQaXNBMVI2aTVkcUpET2pONE5QQVd2N0swUzZ0SFB3ZUtzTjVadkNuNzdZcVFIMElhYWtVNWVTNHc1RWxSNklZU1I3S0xB?oc=5",
-      "source": "Washington Examiner",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-18T22:01:00.000Z",
-      "image": "",
-      "topic": "社会",
       "score": 78,
-      "id": "f5c527bd9c64"
+      "id": "abee3a706687"
     },
     {
       "title": "Cyclospora: iceberg lettuce recalled in 27 states and more products may follow",
@@ -328,11 +419,11 @@
       "publishedAt": "2026-07-18T21:25:14.000Z",
       "image": "https://i.guim.co.uk/img/media/65f8b9e64f774c9a4e9586dc38604d3ac392a0f3/0_0_2787_2229/master/2787.jpg?width=140&quality=85&auto=format&fit=max&s=b4a6c705d5a87ad735f0dd253ab2b50d",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "d3bc71cc1524"
     },
     {
-      "title": "Ex-tradie in the running for Australia's best small bar prize",
+      "title": "Ex-tradie in the running for Australia's best new bar prize",
       "summary": "Taran Howard opened up his small bar in Sydney's inner west last September. Since then, he has learnt how to mix drinks \"on the fly\".",
       "url": "https://www.abc.net.au/news/2026-07-19/small-sydney-inner-west-bars-pubs-revitalising-nightlife/106924010",
       "source": "ABC Australia",
@@ -341,21 +432,8 @@
       "publishedAt": "2026-07-18T21:21:30.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/8f00879c2536d06e011e2e086a4bfd9a?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=165&width=862&height=485",
       "topic": "政治",
-      "score": 78,
-      "id": "d00ecb9338d5"
-    },
-    {
-      "title": "Cockroach Party protest intensifies after Wangchuk forcibly hospitalised",
-      "summary": "Protest by India's Cockroach Janta Party has intensified after activist Sonam Wangchuk was forcibly hospitalised.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/cockroach-party-protest-intensifies-after-wangchuk-forcibly-hospitalised?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-07-18T21:03:34.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 78,
-      "id": "7a9dec48c4e2"
+      "score": 77,
+      "id": "84ece2fba312"
     },
     {
       "title": "Wales player ratings v South Africa as forwards obliterated and attack toothless",
@@ -367,7 +445,7 @@
       "publishedAt": "2026-07-18T18:05:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "0337f32a9a87"
     },
     {
@@ -380,47 +458,60 @@
       "publishedAt": "2026-07-18T18:00:00.000Z",
       "image": "",
       "topic": "气候",
-      "score": 78,
+      "score": 77,
       "id": "ca5ba0043492"
     },
     {
-      "title": "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks",
-      "summary": "The Lebanese and US presidents are expected to discuss the ceasefire, southern Lebanon, and Israel’s withdrawal.",
-      "url": "https://www.aljazeera.com/news/2026/7/18/lebanons-aoun-to-meet-trump-in-washington-to-discuss-israel-talks?traffic_source=rss",
+      "title": "The other Leo with growth hormone deficiency dreaming to be like Messi",
+      "summary": "Lionel Messi was diagnosed with growth hormone deficiency, which is a rare condition, when he was younger. He has become a role model for young Leo Slattery from Brisbane.",
+      "url": "https://www.abc.net.au/news/2026-07-19/aussie-leo-inspired-messi-growth-hormone-deficiency-world-cup/106928654",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-19T00:05:42.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/aeb02e1f6389d0c5c1073ae60c22867a?impolicy=wcms_crop_resize&cropH=1701&cropW=3024&xPos=0&yPos=1570&width=862&height=485",
+      "topic": "社会",
+      "score": 76,
+      "id": "88066def22f7"
+    },
+    {
+      "title": "New marine park zones 'slap in the face' for WA fishers",
+      "summary": "New zoning rules for a marine park off WA's far north are being rolled out, introducing fishing restrictions and penalties.",
+      "url": "https://www.abc.net.au/news/2026-07-19/tighter-fishing-restrictions-kimberley-marine-park/106919284",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-18T23:58:35.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/281700f6e114cba552ada49da2d3b3f1?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485",
+      "topic": "社会",
+      "score": 76,
+      "id": "98657ea6c81d"
+    },
+    {
+      "title": "Andrew and Tristan Tate arrested in Miami on charges of rape and sex trafficking",
+      "summary": "UK to seek extradition over sexual exploitation, ‘extreme pornography’ and assault and indecent images of a child Andrew and Tristan Tate, brothers who are social media influencers, were arrested by federal authorities Saturday in Miami, the US Marshals Service said. The charges against the pair were not immediately announced. Brady McCarron, a spokesperson ",
+      "url": "https://www.theguardian.com/news/2026/jul/18/andrew-tristan-tate-arrested-miami",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-18T23:57:34.000Z",
+      "image": "https://i.guim.co.uk/img/media/5bc43ac38509c467eaf9f4acd704430f22967dcc/324_0_3288_2632/master/3288.jpg?width=140&quality=85&auto=format&fit=max&s=6fead98bcf5717a1d0686db54bf2087c",
+      "topic": "社会",
+      "score": 76,
+      "id": "3a829b8780d3"
+    },
+    {
+      "title": "Cockroach Party protest intensifies after Wangchuk forcibly hospitalised",
+      "summary": "Protest by India's Cockroach Janta Party has intensified after activist Sonam Wangchuk was forcibly hospitalised.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/cockroach-party-protest-intensifies-after-wangchuk-forcibly-hospitalised?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-18T17:35:21.000Z",
+      "region": "亚洲",
+      "publishedAt": "2026-07-18T21:03:34.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
-      "id": "c31b7c8e1b29"
-    },
-    {
-      "title": "Josh Kerr breaks 27-year-old mile record in front of packed London stadium",
-      "summary": "British runner Josh Kerr has broken the 27-year-old world record for the mile in front of a sell-out crowd in London.",
-      "url": "https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "全球",
-      "publishedAt": "2026-07-18T14:41:00.000Z",
-      "image": "https://e3.365dm.com/26/07/1920x1080/skynews-kerr-johs-josh-mile_7300770.jpg?20260718161119",
-      "topic": "社会",
-      "score": 78,
-      "id": "5e15db057341"
-    },
-    {
-      "title": "US renews travel advisory for Middle East as regional tensions rise",
-      "summary": "US renews travel advisory for Middle East as regional tensions rise &nbsp;&nbsp; Qazinform",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQemFRVENmRGE0RlIxNVB6cUVVRDRJZ0J0WGFyWVRSZXJmcmNDNFM4NTE2OW1TZWl4bkZhZzhyOGZsa3dkYm5nOXpKczg1a2pRa2JsT1E5dXlZOWpNQjl5ZGtXcjRsU1Fwajc3R0tibkdtYkdDNl9yNGhfOEVFZ2JnNXQ1bFk2dVZCNWxtTWVsRWJ2eUEySTEwQUgzZEhiemVHOVdF0gGjAUFVX3lxTFB6YVFUQ2ZEYTRGUjE1UHpxRVVENElnQnRYYXJZVFJlcmZyY0M0Uzg1MTY5bVNlaXhuRmFnOHI4Zmxrd2Ribmc5ekpzODVralFrYmxPUTl1eVk5ak1COXlka1dyNGxTUXBqNzdHS2JuR21iR0M2X3I0aF84RUVnYmc1dDVsWTZ1VkI1bG1NZWxFYnZ5QTJJMTBBSDNkSGJ6ZUc5V0U?oc=5",
-      "source": "Qazinform",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-18T21:04:37.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 77,
-      "id": "a7856a5f3596"
+      "score": 76,
+      "id": "7a9dec48c4e2"
     },
     {
       "title": "Mexico's president to attend World Cup final at Trump's invitation - ABC News",
@@ -432,21 +523,21 @@
       "publishedAt": "2026-07-18T20:05:27.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "30d3a0c377fd"
     },
     {
-      "title": "England vs France LIVE: FIFA World Cup 2026",
-      "summary": "Live coverage and text updates from our commentary stream of the Bronze Final as Mbappe's France play Kane's England.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/18/france-vs-england-live-fifa-world-cup-2026-third-place-playoff?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-07-18T17:46:20.000Z",
-      "image": "",
+      "title": "Josh Kerr breaks 27-year-old mile record in front of packed London stadium",
+      "summary": "British runner Josh Kerr has broken the 27-year-old world record for the mile in front of a sell-out crowd in London.",
+      "url": "https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "全球",
+      "publishedAt": "2026-07-18T14:41:00.000Z",
+      "image": "https://e3.365dm.com/26/07/1920x1080/skynews-kerr-johs-josh-mile_7300770.jpg?20260718161119",
       "topic": "社会",
-      "score": 77,
-      "id": "ea3db17cabea"
+      "score": 76,
+      "id": "5e15db057341"
     },
     {
       "title": "China warns UK over British Steel nationalisation, demands fair resolution",
@@ -458,8 +549,86 @@
       "publishedAt": "2026-07-18T14:04:05.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "c9285d17d4cc"
+    },
+    {
+      "title": "Private jets flock to Montana - but locals can't afford the trailer park",
+      "summary": "Rents in Bozeman, Montana have skyrocketed as wealthy out-of-towners flock to the city to experience the American West.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "美洲",
+      "publishedAt": "2026-07-18T23:44:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d56/live/76383b00-8205-11f1-9155-3fc9a8287ebe.jpg",
+      "topic": "社会",
+      "score": 75,
+      "id": "79bc0aca49cf"
+    },
+    {
+      "title": "Ferrari driver dead, woman in 70s injured in Gippsland crash",
+      "summary": "The woman, aged in her 70s, was flown to the Alfred Hospital with life-threatening injuries.",
+      "url": "https://www.abc.net.au/news/2026-07-19/ferrari-fatal-one-dead-passenger-injured-gippsland/106932694",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-18T23:32:46.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/21aa1d8a515d3dc28c61b69acf5084e0?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "fd486e4d57d9"
+    },
+    {
+      "title": "Continental Roar: Why Latin America is the New Epicenter of Global Entertainment",
+      "summary": "Continental Roar: Why Latin America is the New Epicenter of Global Entertainment &nbsp;&nbsp; The Costa Rica News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTk5mdEFHZEZjNWp5T01JbkRySDREYndwMWNydWNxUlpGVTM1bkJPSng4UGljanJYMGJIZU5oYTNNWmdlcjdYc2x3TTFieEtHLW9zRVV0V0RVNXA2dVVneG9YY09uOHBjTXc2NTBJUm9nZm5OMkJDa0lfOENNd0VmUWFBX1MxNk5OV080anJqM3hwaDdOTmhDSERLVEw4M0EyUGJvanVhYlpGNXRzdVE?oc=5",
+      "source": "The Costa Rica News",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-18T23:26:04.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "dd063bebbb39"
+    },
+    {
+      "title": "2026 FIFA WORLD CUP: Mbappé makes history as the France star becomes World Cup’s Greatest Goalscorer",
+      "summary": "2026 FIFA WORLD CUP: Mbappé makes history as the France star becomes World Cup’s Greatest Goalscorer &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb05Fdk5xdWd0V0ZJWE1VdVRNOC00RWxpbll5d1Fick55VVFMdEV2WW9Ed3JJMFBJVFRUWFprbkktWlJIVUxuQU0wQi1IUkd3T1hqZktySnJSaDZpV1JacUlzMG1iU1FOcUVlakg0RXBZODNud2lGNS1RUU9xMGllc3VlRFJQalNJQVNDSEhmY0FvV2VldFlMREpQYUMtMHBoRklDWlJwVmZiWHBtRVhsb1hYMUR1ZGZJRkJqbVZoVF80SHBGaU1udkVR?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-18T23:14:40.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "68c17e3df8ae"
+    },
+    {
+      "title": "Sāmoan duo send strong selection message as All Blacks eyes turn to Springboks",
+      "summary": "Sāmoan duo send strong selection message as All Blacks eyes turn to Springboks &nbsp;&nbsp; Pacific Media Network",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTWhHUFcwY01tRWJlcENKSE9BWFR2bkk1M2lCY0pkbkYtRldYVEFCSklpRUZDaEhRZVcteGx5SERUeEtQMTNMSUM3TzZ4elN2RUlzRERKLThtRDlHc2JTMTc3cVpOMFlIWVN2OFhjbnA2dXhuYnhvUlcwZlR4eXNyYzl0WnQtcXZqblN6eTBnTFJ6Sk9sTVJEZ05qQ1dVelJObkdlR2VmRU00aUNP?oc=5",
+      "source": "Pacific Media Network",
+      "feed": "Pacific News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-18T23:13:45.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "76cc6b4cd3b7"
+    },
+    {
+      "title": "World Cup Updates: In England vs. France, May the Better Team Win Third Place",
+      "summary": "World Cup Updates: In England vs. France, May the Better Team Win Third Place &nbsp;&nbsp; The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JbXhZa0hCWUdvZ2FlSXk5VXB3bGxhNkFldmo5QmliZHdUYTY1SG5yUzJnUUtPc1ZYRUZVdmRXZ2p3a2E3TXBhRV9xNjFQQmtxVnFEaWl5bnNEZ0czUkJyVw?oc=5",
+      "source": "The New York Times",
+      "feed": "Latin America News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-18T20:12:51.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "5576ab31cde6"
     },
     {
       "title": "Zionist Expansionism in Latin America and the Caribbean",
@@ -471,7 +640,7 @@
       "publishedAt": "2026-07-18T20:03:38.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "865ee0c32a6b"
     },
     {
@@ -484,7 +653,7 @@
       "publishedAt": "2026-07-18T20:00:08.000Z",
       "image": "https://i.guim.co.uk/img/media/22eb0d43d2bca4803e62ff22ee1a40d88743f844/172_0_3985_3188/master/3985.jpg?width=140&quality=85&auto=format&fit=max&s=5fcbd1398cfe1ae7cfe7178e2ae149e7",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "2b65d105331c"
     },
     {
@@ -497,21 +666,8 @@
       "publishedAt": "2026-07-18T19:51:04.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/e1c5418adf720c24c6e342f1266c7aaf?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "b941a657325c"
-    },
-    {
-      "title": "Latest news bulletin | July 18th, 2026 – Evening",
-      "summary": "Latest news bulletin | July 18th, 2026 – Evening &nbsp;&nbsp; AOL.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYmZabnJPWFdpNjJWR0RTOS1CM1I0YXhHNFJJbVE0QUt5eXk2TDV0UDBLRFB2S0JBbkpOSEVXODhaOV9pSXFkdGREaXRQYmNnQmwxWU05aURKNTRKX2tvcy1uTVdSeWgxY2h6Mlh2TzZYakZyaTlHQmRQNnlUZ1BURnVR?oc=5",
-      "source": "AOL.co.uk",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-18T16:28:47.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "9f54c929c1a5"
     },
     {
       "title": "World Cup final tickets near $2.3m mark on FIFA’s resale platform",
@@ -523,7 +679,7 @@
       "publishedAt": "2026-07-18T22:41:47.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "1378329b12c4"
     },
     {
@@ -536,7 +692,7 @@
       "publishedAt": "2026-07-18T22:32:29.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/115943a0c1c9df1cd8b4c0c3edf62641?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "d73c99c982b3"
     },
     {
@@ -549,7 +705,7 @@
       "publishedAt": "2026-07-18T22:20:51.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/40355c0601e96e4275a732a50dd3c1e4?impolicy=wcms_crop_resize&cropH=394&cropW=701&xPos=0&yPos=0&width=862&height=485",
       "topic": "经济",
-      "score": 75,
+      "score": 74,
       "id": "c10948731624"
     },
     {
@@ -562,7 +718,7 @@
       "publishedAt": "2026-07-18T22:17:10.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/f58dba0cb480842a7bc7c571b220594b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=316&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "175ff76bfe76"
     },
     {
@@ -575,7 +731,7 @@
       "publishedAt": "2026-07-18T19:14:03.000Z",
       "image": "https://i.guim.co.uk/img/media/cefbf0dbaedc5c458ae38b4b1644d2e3c47d8717/317_0_3857_3085/master/3857.jpg?width=140&quality=85&auto=format&fit=max&s=770a1646f6b6864dfb1a1a55fca2abe5",
       "topic": "科技",
-      "score": 75,
+      "score": 74,
       "id": "8c4804e4438c"
     },
     {
@@ -588,8 +744,21 @@
       "publishedAt": "2026-07-18T19:11:13.000Z",
       "image": "https://i.guim.co.uk/img/media/ae0f77f98b146bb5c9fd62de529f6cc494c91b5f/811_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6793c445b57f04c224a84f7b0402e6d0",
       "topic": "气候",
-      "score": 75,
+      "score": 74,
       "id": "09b39b53e21d"
+    },
+    {
+      "title": "Latest news bulletin | July 18th, 2026 – Evening",
+      "summary": "Latest news bulletin | July 18th, 2026 – Evening &nbsp;&nbsp; AOL.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYmZabnJPWFdpNjJWR0RTOS1CM1I0YXhHNFJJbVE0QUt5eXk2TDV0UDBLRFB2S0JBbkpOSEVXODhaOV9pSXFkdGREaXRQYmNnQmwxWU05aURKNTRKX2tvcy1uTVdSeWgxY2h6Mlh2TzZYakZyaTlHQmRQNnlUZ1BURnVR?oc=5",
+      "source": "AOL.co.uk",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-18T16:28:47.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "9f54c929c1a5"
     },
     {
       "title": "'Almost certainly new' species of giant earthworms found in SA",
@@ -601,7 +770,7 @@
       "publishedAt": "2026-07-18T22:00:44.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c5360e97a56414d74e79e5b94f953765?impolicy=wcms_crop_resize&cropH=1179&cropW=884&xPos=606&yPos=0&width=862&height=1149",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "ac8f5177db9e"
     },
     {
@@ -614,7 +783,7 @@
       "publishedAt": "2026-07-18T21:50:54.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/4274853c630f4fae1924271d62ed71d5?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "49ccee3405a4"
     },
     {
@@ -627,21 +796,8 @@
       "publishedAt": "2026-07-18T21:42:13.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/013ce7b357ecd984dbec91e5349cb8fc?impolicy=wcms_crop_resize&cropH=2250&cropW=4000&xPos=0&yPos=1&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "5df3f3304032"
-    },
-    {
-      "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
-      "summary": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort.",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "欧洲",
-      "publishedAt": "2026-07-18T10:45:43.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "15d3a41dc912"
     },
     {
       "title": "'Not particularly fond of him': McIlroy blasts American over Open drama",
@@ -653,34 +809,8 @@
       "publishedAt": "2026-07-18T21:07:56.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/9cd1c0f94dc3f804b891a79baea4b598?impolicy=wcms_crop_resize&cropH=2811&cropW=4997&xPos=0&yPos=88&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "e39f40ddc000"
-    },
-    {
-      "title": "Inquiry hears of CFMEU's political influence and intimidation in Queensland",
-      "summary": "The inquiry heard claims former senior public servants and industry figures faced aggressive union tactics.",
-      "url": "https://www.abc.net.au/news/2026-07-19/queensland-cfmeu-inquiry-wrap/106926394",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-18T21:07:24.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/e76e35d5adeeaf69f092afc15cf7ba3d?impolicy=wcms_crop_resize&cropH=682&cropW=1212&xPos=0&yPos=42&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "82951f12f169"
-    },
-    {
-      "title": "The Houdini of Boggo Road escaped the prison in 1946. He shouldn't have taken a friend",
-      "summary": "In 1946, Arthur 'Slim' Halliday recruited two associates, scaled the walls of Boggo Road Gaol for a second time, hopped in a taxi and vanished.",
-      "url": "https://www.abc.net.au/news/2026-07-19/boggo-road-gaol-halliday-1946-escape-boy-swallows-universe/106885768",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-18T21:06:53.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/2204395a3cdcd86929c57cf796e05b89?impolicy=wcms_crop_resize&cropH=788&cropW=1400&xPos=0&yPos=26&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "fbdc4b8c8b4f"
     },
     {
       "title": "Latin America unites to cheer against Argentina in FIFA World Cup final",
@@ -692,47 +822,8 @@
       "publishedAt": "2026-07-18T21:02:44.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "51fbbef92b4a"
-    },
-    {
-      "title": "Bid to fix stubborn Murray River sand slug 'hamstrung' by competing demands",
-      "summary": "The Murray Darling Basin Authority is finalising its study on what to do about an increasing river impediment amid a First Nations call to find common ground.",
-      "url": "https://www.abc.net.au/news/2026-07-19/barmah-sand-slug-murray-darling-basin-river-narrows-irrigation/106909984",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-18T20:57:56.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/0e3db15706f5c5f6f7fe60ee50f40126?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "c567c2ccc403"
-    },
-    {
-      "title": "Australia's Herbert makes miracle shot but falls to fourth at The Open",
-      "summary": "Australia's Lucas Herbert makes one of the shots of The Open, but loses his day two lead to fall to fourth.",
-      "url": "https://www.abc.net.au/news/2026-07-19/the-british-open-golf-lucas-herbert-falls-to-fourth/106932562",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-18T20:52:41.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6c7e0eebb1afdee4145f4efbc828cf4e?impolicy=wcms_crop_resize&cropH=2215&cropW=3938&xPos=0&yPos=73&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "06865079f8e5"
-    },
-    {
-      "title": "Musos fear payday super rules could ruin live music industry",
-      "summary": "Two long-running Australian jazz festivals have been cancelled, with organisers blaming new superannuation rules.",
-      "url": "https://www.abc.net.au/news/2026-07-19/jazz-artists-fear-super-changes-impacts-music-scene/106912640",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-18T20:33:37.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/f9f75b69cb61690c74ba78ffb584a970?impolicy=wcms_crop_resize&cropH=2413&cropW=4289&xPos=411&yPos=318&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "b63b8432f2a4"
     },
     {
       "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
@@ -744,8 +835,21 @@
       "publishedAt": "2026-07-18T17:29:50.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b00/live/0ecf40f0-81ea-11f1-b7bc-5dd9ae7a9918.jpg",
       "topic": "气候",
-      "score": 73,
+      "score": 72,
       "id": "67598ef8f893"
+    },
+    {
+      "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+      "summary": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort.",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "欧洲",
+      "publishedAt": "2026-07-18T10:45:43.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 72,
+      "id": "15d3a41dc912"
     },
     {
       "title": "Drone video shows scale of major wildfire in northern Spain",
@@ -757,34 +861,21 @@
       "publishedAt": "2026-07-18T20:18:46.000Z",
       "image": "",
       "topic": "气候",
-      "score": 72,
+      "score": 71,
       "id": "c3d4938c8705"
     },
     {
-      "title": "Live: France threaten miracle comeback in goalfest against England",
-      "summary": "France and England are playing for pride and third place in the World Cup, as Kylian Mbappe and Harry Kane make final bids for the Golden Boot. Follow live.",
+      "title": "England wins crazy 10-goal thriller against France to claim third",
+      "summary": "England claims third place at the World Cup in a crazy game against France, which finishes 6-4 and sees Kylian Mbappe become, for now, the World Cup's greatest ever goalscorer.",
       "url": "https://www.abc.net.au/news/2026-07-19/world-cup-england-vs-france-third-place-live-blog/106931398",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "欧洲",
       "publishedAt": "2026-07-18T20:14:04.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/bfd63c4b8ca38b79bd5801cac972467e?impolicy=wcms_crop_resize&cropH=2539&cropW=4513&xPos=0&yPos=176&width=862&height=485",
+      "image": "https://live-production.wcms.abc-cdn.net.au/33425b05a7b635ff0b720db10a065604?impolicy=wcms_crop_resize&cropH=1574&cropW=2798&xPos=0&yPos=126&width=862&height=485",
       "topic": "社会",
-      "score": 72,
-      "id": "a57961e130dd"
-    },
-    {
-      "title": "World Cup Updates: In England vs. France, May the Better Team Win Third Place",
-      "summary": "World Cup Updates: In England vs. France, May the Better Team Win Third Place &nbsp;&nbsp; The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JbXhZa0hCWUdvZ2FlSXk5VXB3bGxhNkFldmo5QmliZHdUYTY1SG5yUzJnUUtPc1ZYRUZVdmRXZ2p3a2E3TXBhRV9xNjFQQmtxVnFEaWl5bnNEZ0czUkJyVw?oc=5",
-      "source": "The New York Times",
-      "feed": "Latin America News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-18T20:12:51.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "5576ab31cde6"
+      "score": 71,
+      "id": "07b438d62910"
     },
     {
       "title": "Kwara female lawmaker joins African legislators to tackle violence against women",
@@ -796,7 +887,7 @@
       "publishedAt": "2026-07-18T20:02:30.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "bc614e97e352"
     },
     {
@@ -809,34 +900,8 @@
       "publishedAt": "2026-07-18T19:52:27.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c8e1f559a815b4cdb15318a3c0576143?impolicy=wcms_crop_resize&cropH=1325&cropW=2356&xPos=0&yPos=24&width=862&height=485",
       "topic": "经济",
-      "score": 72,
+      "score": 71,
       "id": "c22ceec248d1"
-    },
-    {
-      "title": "All to know about Canadian wildfire smoke, air quality and World Cup final",
-      "summary": "A thunderstorm rolled through the region causing disruption, and a haze raised air quality concerns in New York City.",
-      "url": "https://www.aljazeera.com/sports/2026/7/18/all-to-know-about-canadian-wildfire-smoke-air-quality-and-world-cup-final?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-18T19:42:27.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 72,
-      "id": "34a0e9b2cabd"
-    },
-    {
-      "title": "Springboks secure 43-0 win over Wales in Nations Championship",
-      "summary": "Springboks secure 43-0 win over Wales in Nations Championship &nbsp;&nbsp; SABC News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSlE3R09nYVF0UktndldBaWlTNXRuQkZscHVQX0EyZGVKNmpkZXdtdXBnOWY4YmMwNDlJZjhsWkFoNkhNZE50Tm1lZkpza3ktX0hvdU5tUXdDNWFwMmM0dXlSSlpSZXJoMFYtZ1hTRk9TQ0o1MjI1ci1nVVlTOW1VM1hrTzdvaEQ2SVFwdlJ5dnFHdXc4QmNzNUxCYS13XzZnUk9WS0dB?oc=5",
-      "source": "SABC News",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-18T19:42:24.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "1578d3a8b6e9"
     },
     {
       "title": "Armed groups attack Malian military convoy in Gao region",
@@ -848,7 +913,7 @@
       "publishedAt": "2026-07-18T16:24:29.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "68e0593c44be"
     },
     {
@@ -861,7 +926,7 @@
       "publishedAt": "2026-07-18T13:14:57.000Z",
       "image": "https://i.guim.co.uk/img/media/01d262c7a442cee35b24b8a8a09d2c50cb94703d/362_0_3793_3034/master/3793.jpg?width=140&quality=85&auto=format&fit=max&s=0a29fa2c48435e42556bc8b800756bfe",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "e6f2970588ac"
     },
     {
@@ -874,73 +939,8 @@
       "publishedAt": "2026-07-18T13:06:25.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d1/live/dae460c0-82a9-11f1-b976-0b9c15b0ccfc.jpg",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "692dbc43f2fd"
-    },
-    {
-      "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
-      "summary": "As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fight César Alcaraz had only just become a firefighter in the late 1990s when he found himself ambushed by a fast-moving blaze. Barely able to breathe and with no more water left in his truck, he and ",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-18T15:24:42.000Z",
-      "image": "https://i.guim.co.uk/img/media/71247bc8f72981b52ab17af009d0f4704431948b/5_30_4118_3295/master/4118.jpg?width=140&quality=85&auto=format&fit=max&s=e67bab19ae0ccefef1d211b6a8be4d3a",
-      "topic": "气候",
-      "score": 71,
-      "id": "3ed8518d5af5"
-    },
-    {
-      "title": "German politician resigns over surrogacy child controversy",
-      "summary": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
-      "url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-07-18T15:23:31.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d6f/live/e67395c0-82a7-11f1-84ea-29e7008b1ad8.jpg",
-      "topic": "社会",
-      "score": 71,
-      "id": "7833afb5f7c8"
-    },
-    {
-      "title": "Planes, trains, hotels catering more to travelers and their pets",
-      "summary": "Planes, trains, hotels catering more to travelers and their pets &nbsp;&nbsp; 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iU1A0TGtMVnhaaEtjQldwdTVKSzN1SWRFOHRCZDN3YjRlVHFVa2l6bWZIUFZ0VE53YnVHN0w5cm42dmZrMmhPV0RTejU1WnIwS0RpMmdB?oc=5",
-      "source": "朝日新聞",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-18T22:00:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "f8f993568f8d"
-    },
-    {
-      "title": "Survey: Only 16% of travelers from abroad want to visit Tohoku",
-      "summary": "Survey: Only 16% of travelers from abroad want to visit Tohoku &nbsp;&nbsp; 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yeGJkMnJ2VHUwS0ZUZzE1VXlNbG00Tzk3cHFqbTluZ3FIZzNUTmJxcUEwS29RUko2SUY3ZmRJS2F1Y1ctVHpwVmkwS21hcDVNbzFkTHZR?oc=5",
-      "source": "朝日新聞",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-18T22:00:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "0c618423cbc1"
-    },
-    {
-      "title": "WAFCON 2026: Ellis announces Banyana Banyana squad",
-      "summary": "WAFCON 2026: Ellis announces Banyana Banyana squad &nbsp;&nbsp; Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSC16S3hfSHY1T1A4TVlLemZrOEg2Z2pIZ2pQRVMzV0Njc3RsaFJrV0t3cS1yTE1QcVpLYUhNeVRiSEpjZHZzbWdnUHdBWE5DUEtHUWVsbDIyam9LTHFOUXMxWW9DZHQ4WXp1TGhOUjdXZW9mTkNHME45REtvQVhHSFBVNGR2N1A4?oc=5",
-      "source": "Africa Top Sports",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-18T18:18:38.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "3ee01c1b6d77"
     }
   ]
 }
