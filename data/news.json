@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T23:15:22.358Z",
+  "updatedAt": "2026-07-22T00:11:51.077Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -7,17 +7,30 @@
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
     {
-      "title": "Iran war has cost $37.5bn so far, Hegseth tells Senate – US politics live",
-      "summary": "Protesters removed at start of testimony as defense secretary claims billions more in funding is needed ‘sustain vital operations without disruption’ Pete Hegseth faces questions over $87.6bn additional funding for Pentagon Sign up for US Breaking News email US gas prices have continued to rise since the conflict with Iran resumed this month. According to th",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
+      "title": "Middle East crisis live: tankers carrying Saudi oil turned back after Houthi threats; US launches more strikes on Iran",
+      "summary": "In a letter to shippers, the Houthis have threatened to attack any ships that load or discharge Saudi oil Houthis threaten to attack shipping tankers if they use Saudi Arabian ports on Red Sea Lebanon’s president, Joseph Aoun, is due to meet Donald Trump for the first time today as he wraps up a four-day visit to Washington. The meeting coincides with ongoin",
+      "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "中东",
-      "publishedAt": "2026-07-21T22:35:33.000Z",
-      "image": "https://i.guim.co.uk/img/media/98d9e5af37dc275a0999981d9bf5863382c2432e/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=18ce3fd3d45d74c4b14fd12468cacf6f",
+      "publishedAt": "2026-07-21T23:40:05.000Z",
+      "image": "https://i.guim.co.uk/img/media/d30522748c95ecffc982c57c53f91ff63a987ddb/182_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=3dba0975a218d3246096c4e673c99b7f",
       "topic": "政治",
+      "score": 100,
+      "id": "88be13ee058e"
+    },
+    {
+      "title": "Explosions in Iran as US launches new strikes",
+      "summary": "This is a breaking news story.",
+      "url": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-07-21T23:46:00.000Z",
+      "image": "",
+      "topic": "科技",
       "score": 96,
-      "id": "70db371e045b"
+      "id": "6cd0d13d36c6"
     },
     {
       "title": "French parliament passes social media ban for under-15s",
@@ -29,21 +42,21 @@
       "publishedAt": "2026-07-21T20:44:48.000Z",
       "image": "",
       "topic": "政治",
-      "score": 93,
+      "score": 92,
       "id": "4886ad864211"
     },
     {
-      "title": "Ukraine's Zelenskyy fires his military chief after protests and names a new one",
-      "summary": "President Volodymyr Zelenskyy fired Gen. Oleksandr Syrskyi as commander-in-chief of Ukraine's armed forces following days of protests demanding his removal. Zelenskyy appointed Mykhailo Drapatyi as the new army chief.",
-      "url": "https://www.npr.org/2026/07/21/g-s1-134849/ukraine-military-chief-fired-protests",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "欧洲",
-      "publishedAt": "2026-07-21T21:30:02.000Z",
-      "image": "",
+      "title": "Hegseth tells Senate war on Iran has so far cost $37.5bn at hearing to request more funds",
+      "summary": "Defense secretary has asked Senate appropriations committee for nearly $88bn more to continue effort The US defense secretary, Pete Hegseth told the Senate on Tuesday that the US-Israel war on Iran had cost $37.5bn so far, as he faced lawmakers furious over the conflict’s soaring price tag and the deaths last week of three American service members. During an",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/hegseth-pentagon-supplemental-funding-request-senate",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-07-21T23:15:10.000Z",
+      "image": "https://i.guim.co.uk/img/media/58baadc97da4d45e2a71eb2217181be677f35768/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=e494679d5ade6f42d73dc3ab582e31d2",
       "topic": "政治",
       "score": 91,
-      "id": "7cb1a55b49ed"
+      "id": "2f3f162bb2cb"
     },
     {
       "title": "France becomes first EU country to ban social media access for under-15s",
@@ -55,21 +68,60 @@
       "publishedAt": "2026-07-21T19:14:04.000Z",
       "image": "https://i.guim.co.uk/img/media/f85c0dc6f0670d3870727a7f73fd2fb6929a0fd6/1048_0_6318_5057/master/6318.jpg?width=140&quality=85&auto=format&fit=max&s=de73a5fdd1645d84f1248c4bf3261120",
       "topic": "政治",
-      "score": 91,
+      "score": 90,
       "id": "4d7bad04a235"
     },
     {
-      "title": "Breaking News",
-      "summary": "Breaking News &nbsp;&nbsp; The New Republic",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xSkpzYkpQeC1iNDJjbDNpdlRfYTh0SjFBdjVabWNwSElpWEdkMWpGVGVZQ1BiRXBHaHI5NXFYR0tRdTRYRFRNRVVWZkRQelRXTDZ6NUo3QXl2UW04UkV3?oc=5",
-      "source": "The New Republic",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-07-21T21:03:31.000Z",
+      "title": "Australia news live: vulnerable women and children warned to turn off concealed phones during national emergency alert test next week",
+      "summary": "System update aims to deliver warnings in ‘a more timely manner’. Follow today’s news live Get our breaking news email , free app or daily news podcast The New South Wales premier, Chris Minns , says the state’s Labor party is under threat from One Nation and “we’ve got to fight for those votes”. Appearing on ABC Radio National this morning, Minns was asked ",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-21T23:51:58.000Z",
+      "image": "https://i.guim.co.uk/img/media/189a35dd5f581a6f5892e731b06a736d80a222b7/383_9_4128_3302/master/4128.jpg?width=140&quality=85&auto=format&fit=max&s=f2d54438d4fa8d08c30d147d66e615b2",
+      "topic": "政治",
+      "score": 89,
+      "id": "176529086f3b"
+    },
+    {
+      "title": "Ukraine's Zelenskyy fires his military chief after protests and names a new one",
+      "summary": "President Volodymyr Zelenskyy fired Gen. Oleksandr Syrskyi as commander-in-chief of Ukraine's armed forces following days of protests demanding his removal. Zelenskyy appointed Mykhailo Drapatyi as the new army chief.",
+      "url": "https://www.npr.org/2026/07/21/g-s1-134849/ukraine-military-chief-fired-protests",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "欧洲",
+      "publishedAt": "2026-07-21T21:30:02.000Z",
       "image": "",
+      "topic": "政治",
+      "score": 89,
+      "id": "7cb1a55b49ed"
+    },
+    {
+      "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
+      "summary": "Latest cost comes as Hegseth and Joint Chiefs Chairman Caine seek a $1.5 trillion budget, including $70bn for Iran war.",
+      "url": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-07-21T21:17:06.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 89,
+      "id": "4e1e69163ea3"
+    },
+    {
+      "title": "Perth teenager charged with murdering his mother and attempting to kill sister",
+      "summary": "Police found woman dead in Bentley home and seriously injured girl on nearby highway Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A teenage boy has been charged with murder after he allegedly killed his mother with a knife and stabbed his little sister, who managed to flee to get help. Th",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/22/perth-bentley-teenage-boy-charged-murder-mother-attempting-to-kill-sister-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-21T23:46:06.000Z",
+      "image": "https://i.guim.co.uk/img/media/9a4e5fbebd7ceaf72f927d623e3c43def3355295/872_0_3284_2626/master/3284.jpg?width=140&quality=85&auto=format&fit=max&s=88f926727e92fac5bdf92a7c3b8d1841",
       "topic": "社会",
-      "score": 90,
-      "id": "009ec18422d7"
+      "score": 88,
+      "id": "791e7a20bc4b"
     },
     {
       "title": "Zelenskyy names new Ukrainian commander-in-chief",
@@ -81,7 +133,7 @@
       "publishedAt": "2026-07-21T22:53:25.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/a4402568aa6e89c51a3b7c9c26ab25b4?impolicy=wcms_crop_resize&cropH=2531&cropW=4500&xPos=0&yPos=234&width=862&height=485",
       "topic": "政治",
-      "score": 88,
+      "score": 87,
       "id": "760ea5f4ef02"
     },
     {
@@ -94,47 +146,34 @@
       "publishedAt": "2026-07-21T19:53:00.000Z",
       "image": "https://e3.365dm.com/26/06/1920x1080/skynews-social-media-stock_7272276.jpg?20260613111915",
       "topic": "社会",
-      "score": 88,
+      "score": 87,
       "id": "f8b614439c27"
     },
     {
-      "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
-      "summary": "Latest cost comes as Hegseth and Joint Chiefs Chairman Caine seek a $1.5 trillion budget, including $70bn for Iran war.",
-      "url": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-21T21:17:06.000Z",
-      "image": "",
+      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-07-21T23:59:34.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b7/live/e3e52d70-853e-11f1-ab57-69b83adbeeff.jpg",
       "topic": "政治",
-      "score": 86,
-      "id": "4e1e69163ea3"
+      "score": 84,
+      "id": "ca5a654ea33e"
     },
     {
-      "title": "Hegseth outlines cost of Iran war at Senate hearing",
-      "summary": "US Defense Secretary Pete Hegseth is being questioned on the cost of the war against Iran, his idea of testosterone screening for troops, and the number of service people who have died.",
-      "url": "https://www.abc.net.au/news/2026-07-22/pete-hegseth-senate-war-questions-us-budget/106942686",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "中东",
-      "publishedAt": "2026-07-21T20:39:25.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/618a2ddbf1defe25a12765d190680b15?impolicy=wcms_crop_resize&cropH=1886&cropW=3353&xPos=0&yPos=0&width=862&height=485",
-      "topic": "政治",
-      "score": 85,
-      "id": "c3bb349a8a0a"
-    },
-    {
-      "title": "Tankers carrying Saudi oil turned back after Houthi threats; Trump claims US will hit Iran nuclear storage facility ‘pretty soon’",
-      "summary": "In a letter to shippers, the Houthis have threatened to attack any ships that load or discharge Saudi oil Houthis threaten to attack shipping tankers if they use Saudi Arabian ports on Red Sea Lebanon’s president, Joseph Aoun, is due to meet Donald Trump for the first time today as he wraps up a four-day visit to Washington. The meeting coincides with ongoin",
-      "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
+      "title": "Trump announces new tariffs on generic drugs to take effect in 2028 – US politics live",
+      "summary": "President says 100% tariff would be imposed on generic drugs made overseas after 1 August 2028 ‘for a one year period of time, and 200% thereafter’ Sign up for US Breaking News email US gas prices have continued to rise since the conflict with Iran resumed this month. According to the American Automobile Association (AAA), a gallon of fuel is now just over $",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "中东",
-      "publishedAt": "2026-07-21T22:57:26.000Z",
-      "image": "https://i.guim.co.uk/img/media/d30522748c95ecffc982c57c53f91ff63a987ddb/182_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=3dba0975a218d3246096c4e673c99b7f",
+      "publishedAt": "2026-07-21T23:44:54.000Z",
+      "image": "https://i.guim.co.uk/img/media/711e9e024befa91d305f5db5ff6746677317db4d/360_0_4451_3561/master/4451.jpg?width=140&quality=85&auto=format&fit=max&s=5ce29318617bb3d74cbf8a00f8f44c20",
       "topic": "政治",
       "score": 84,
-      "id": "7a2975b6664d"
+      "id": "55d17dc1a669"
     },
     {
       "title": "Nicaragua's President Ortega says no more elections, extending his 20-year rule",
@@ -146,12 +185,25 @@
       "publishedAt": "2026-07-21T19:10:42.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "4963f4a5337c"
     },
     {
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-07-21T16:10:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae7d/live/d48c2a30-84c7-11f1-b976-0b9c15b0ccfc.jpg",
+      "topic": "政治",
+      "score": 83,
+      "id": "2b635784c714"
+    },
+    {
       "title": "Concerns raised over AusAlert emergency warning system",
-      "summary": "The rollout of a national emergency warning system is in doubt as most state and territory governments say they will keep their state-based systems.",
+      "summary": "State and territory representatives had voiced significant concerns about the rollout of the national emergency warning system in a meeting with the minister Kristy McBain.",
       "url": "https://www.abc.net.au/news/2026-07-22/emergency-warning-system-in-doubt-as-states-raise-concerns/106942870",
       "source": "ABC Australia",
       "feed": "ABC Australia",
@@ -159,8 +211,34 @@
       "publishedAt": "2026-07-21T22:05:26.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/b0d94a2832570d1bbae2f9de1d8e764f?impolicy=wcms_crop_resize&cropH=2583&cropW=4592&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "73b7b46da7f6"
+    },
+    {
+      "title": "Live: Minister issues secret phone warning ahead of national alert test",
+      "summary": "Emergency Management Minister Kristy McBain urges people with secret or concealed mobile phones to turn them off or put them on aeroplane mode ahead of Monday's national alert test. Follow live.",
+      "url": "https://www.abc.net.au/news/2026-07-22/federal-politics-live-blog-isis-doctor-july-22/106942730",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-21T21:16:24.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/adeaa77888618fd38feff091b59b0802?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "topic": "政治",
+      "score": 81,
+      "id": "5751f8945891"
+    },
+    {
+      "title": "US war in Iran has cost $37.5 billion so far, Pentagon says",
+      "summary": "US war in Iran has cost $37.5 billion so far, Pentagon says &nbsp;&nbsp; Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcGhIUDY1XzFtb1pDNmE1ME9sMjVXRXJPMXBxelpQZlJlcDd5eEIySWxObnlCY1BiR1lNRnVLWEt0M005NTRCcUtWRU5oZmROVmZJMW91aE9nVWNGUmF0V2J0dHZSci1mM2c4NFE4c01pblBucXJfSW5lVWJUeE95VGNjbl9OOFBVQnZsTFBmeDRvMGxIeEpfVWlUbE96SWxXSGNHM1o5aTNzV2c?oc=5",
+      "source": "Reuters",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-21T21:11:48.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 81,
+      "id": "3862c56ecc50"
     },
     {
       "title": "Daytime Russian strike kills three in Zaporizhzhia",
@@ -172,7 +250,7 @@
       "publishedAt": "2026-07-21T20:48:18.000Z",
       "image": "",
       "topic": "社会",
-      "score": 82,
+      "score": 81,
       "id": "b55801281f25"
     },
     {
@@ -185,21 +263,21 @@
       "publishedAt": "2026-07-21T17:27:45.000Z",
       "image": "https://i.guim.co.uk/img/media/a18803cc8eb447312fba8b6c209ac29982583321/559_0_5602_4480/master/5602.jpg?width=140&quality=85&auto=format&fit=max&s=add5ddf49ad1c3da553952cded7d1d55",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "5d2da9a4ce59"
     },
     {
-      "title": "Travel warnings escalate for Middle East destinations",
-      "summary": "Travel warnings escalate for Middle East destinations &nbsp;&nbsp; 7NEWS",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMmd0MnphRFJLQjM4VjB5cmZJQlhIalRLX0FkTm9YTzFvaDU1NmV3UnNDXzJNenVpZUZ3MjJnX3UycERiVzdodVNmTGZpLVNrQ0lJQzBDTC1JS2Q1WW5lRnFUWGowRGFnTHVmX1IzalpkbFFzaHNRYjkybThFbkM0VUw0MUZqODY5LUVtNzFTZWpzRTE0ejVTbGtqemNHbkJRa0J0eWMyVE9odl9kMDZVX2JR?oc=5",
-      "source": "7NEWS",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-21T23:08:35.000Z",
-      "image": "",
+      "title": "Train station car parking in Melbourne's west becomes election issue",
+      "summary": "With only months to the Victorian election, Melton Council is calling on both sides of politics to commit to two new train stations in the fast-growing municipality.",
+      "url": "https://www.abc.net.au/news/2026-07-22/western-melbourne-train-station-car-parking/106941076",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-22T00:01:32.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/eede757120a52fd61aa84f765aa33136?impolicy=wcms_crop_resize&cropH=1050&cropW=1867&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
       "score": 80,
-      "id": "07d02bd6e246"
+      "id": "4ca0e26a6170"
     },
     {
       "title": "Spanish chief accuses FIFA boss of 'destroying the football industry'",
@@ -211,8 +289,21 @@
       "publishedAt": "2026-07-21T23:08:30.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/74367cec0d42b34a0ade5bd39b4b0e1e?impolicy=wcms_crop_resize&cropH=2212&cropW=3932&xPos=0&yPos=138&width=862&height=485",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "027e83956303"
+    },
+    {
+      "title": "US immigration agents arrested a record number of people in June, data shows",
+      "summary": "Guardian analysis shows officers arrested 43,138 people as quiet and steady operations ramp up across the country The Trump administration arrested a record number of immigrants last month, according to newly released government data that reveals how US immigration agents are quietly but steadily ramping up operations across the country. A Guardian analysis ",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/immigration-agents-arrest-june-data",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-21T23:06:20.000Z",
+      "image": "https://i.guim.co.uk/img/media/e65bda425176c903a0adf546ba04e0f18503cad3/621_0_6182_4949/master/6182.jpg?width=140&quality=85&auto=format&fit=max&s=03cc93460d4a5b70db642bf80ee4e108",
+      "topic": "社会",
+      "score": 79,
+      "id": "80e6c9b93a48"
     },
     {
       "title": "$30m biochar facility could help replace coal at Rio Tinto refineries",
@@ -224,7 +315,7 @@
       "publishedAt": "2026-07-21T23:00:59.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/461724e4bd42685846be2cdffb616d31?impolicy=wcms_crop_resize&cropH=2691&cropW=4784&xPos=21&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "8032f50cdae9"
     },
     {
@@ -237,7 +328,7 @@
       "publishedAt": "2026-07-21T22:56:12.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "e92774217c03"
     },
     {
@@ -250,60 +341,21 @@
       "publishedAt": "2026-07-21T22:55:43.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "b0a3739a44a0"
     },
     {
-      "title": "Moldova chooses new prime minister as it pushes for EU membership",
-      "summary": "Political newcomer Vasile Tofan inherits Moldova's push to join the European Union by 2030.",
-      "url": "https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-07-21T22:53:42.000Z",
+      "title": "Mediators Propose 10-Day U.S.-Iran Ceasefire to Halt Attacks and Revive Nuclear Talks: 31 Sources (West Asian: 10)",
+      "summary": "Mediators Propose 10-Day U.S.-Iran Ceasefire to Halt Attacks and Revive Nuclear Talks: 31 Sources (West Asian: 10) &nbsp;&nbsp; NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb3Z0aEZCeThQWnVzSWVFRDVuWHl5NnRCR3YyZURhbTFrSzlveE0xUzhPcjk3SUItcVJuakI3SEM4enVuUHcyWm9DWExIRlBMZDJDVHFQaEdVMzY3T2ZETXI3dXMwWWZETlIxVUl1aUVwQmt4dDdackcyakpWUHgySGtTNkFTVDZDTlhMTFBvWGl3TFRhWW8yNmlycUZvc0ZZY1hQN0dqcENhNGRTRm93UmNqQWdZYkthelkwaHVoZzE0N3ppamhabjFYZE1lNHhmS2FVQmhXTDM3eGVQdTFHcVdNUnRRZm5tN2c?oc=5",
+      "source": "NewsCord",
+      "feed": "Latin America News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-21T22:22:51.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
-      "id": "ec2f86ca58be"
-    },
-    {
-      "title": "Australia news live: Joyce sorry for ‘verbally assaulting’ dog Stella in live interview; Watt calls on Hanson to reveal Europe trip funding",
-      "summary": "Minister for environment and water says One Nation leader ‘not on the side of working people’. Follow today’s news live Get our breaking news email , free app or daily news podcast The New South Wales premier, Chris Minns , says the state’s Labor party is under threat from One Nation and “we’ve got to fight for those votes”. Appearing on ABC Radio National t",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-07-21T22:49:49.000Z",
-      "image": "https://i.guim.co.uk/img/media/f02768da7c4934a1316f569a5a993fe4e4c059e2/1406_1111_4519_3615/master/4519.jpg?width=140&quality=85&auto=format&fit=max&s=a82c835365462813c3c8e02764d5aa26",
-      "topic": "政治",
-      "score": 80,
-      "id": "5bf9c250cee6"
-    },
-    {
-      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
-      "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus. The UK resident was medically evacuated from the Democratic Republic of the Congo (DRC) where the worker had been treating patients w",
-      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "非洲",
-      "publishedAt": "2026-07-21T22:39:00.000Z",
-      "image": "https://i.guim.co.uk/img/media/f82b08d31127854cb9dff7de7c18ede5377fc00d/504_95_4607_3685/master/4607.jpg?width=140&quality=85&auto=format&fit=max&s=657449af45b15efa81429366bfbcaa9e",
-      "topic": "社会",
-      "score": 80,
-      "id": "aad146e70e1d"
-    },
-    {
-      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-07-21T19:57:38.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b7/live/e3e52d70-853e-11f1-ab57-69b83adbeeff.jpg",
-      "topic": "政治",
-      "score": 80,
-      "id": "ca5a654ea33e"
+      "score": 79,
+      "id": "2304b12b92ee"
     },
     {
       "title": "Can mediators broker a truce between the US and Iran?",
@@ -315,7 +367,7 @@
       "publishedAt": "2026-07-21T19:27:26.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "fe1dd94337d5"
     },
     {
@@ -328,25 +380,51 @@
       "publishedAt": "2026-07-21T19:13:51.000Z",
       "image": "https://i.guim.co.uk/img/media/577c3011840fe08baf58d4df77284e8d1b19f67d/21_0_4864_3891/master/4864.jpg?width=140&quality=85&auto=format&fit=max&s=61e1e28e2e942b936adbcd5ca7db00d1",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "1842485e3550"
     },
     {
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-07-21T16:10:56.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae7d/live/d48c2a30-84c7-11f1-b976-0b9c15b0ccfc.jpg",
+      "title": "Moldova chooses new prime minister as it pushes for EU membership",
+      "summary": "Political newcomer Vasile Tofan inherits Moldova's push to join the European Union by 2030.",
+      "url": "https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-07-21T22:53:42.000Z",
+      "image": "",
       "topic": "政治",
-      "score": 80,
-      "id": "2b635784c714"
+      "score": 78,
+      "id": "ec2f86ca58be"
     },
     {
-      "title": "Live: ASX to rise as oil prices hit five-week high, Wall Street tech stocks rebound",
-      "summary": "The Australian share market is likely to start its day higher after Wall Street's beaten-down tech and semiconductor stocks rebounded sharply overnight. Oil prices surged to a five-week high as Donald Trump signalled the US is \"not finished\" attacking Iran. Follow live.",
+      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
+      "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus. The UK resident was medically evacuated from the Democratic Republic of the Congo (DRC) where the worker had been treating patients w",
+      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "非洲",
+      "publishedAt": "2026-07-21T22:39:00.000Z",
+      "image": "https://i.guim.co.uk/img/media/f82b08d31127854cb9dff7de7c18ede5377fc00d/504_95_4607_3685/master/4607.jpg?width=140&quality=85&auto=format&fit=max&s=657449af45b15efa81429366bfbcaa9e",
+      "topic": "社会",
+      "score": 78,
+      "id": "aad146e70e1d"
+    },
+    {
+      "title": "Bay Area city manager charged for allegedly breaking into 66ft yacht while drinking",
+      "summary": "Sausalito city manager Elaine Forbes faces misdemeanor charges for allegedly trying to steal the three-story vessel A Bay Area city manager will face misdemeanor charges for allegedly breaking into a 66ft yacht while drinking and trying to steal the vessel. Elaine Forbes, Sausalito’s city manager, was arrested on the morning of 18 July after police received ",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/bay-area-city-manager-charged-stealing-yacht",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-21T22:04:52.000Z",
+      "image": "https://i.guim.co.uk/img/media/33bbb645d4cf5a640ecd9a8d4dd7b69a3855a5c5/433_0_4330_3464/master/4330.jpg?width=140&quality=85&auto=format&fit=max&s=605608d9eadda277e5796b7866494c2e",
+      "topic": "社会",
+      "score": 78,
+      "id": "f0f5320a23d9"
+    },
+    {
+      "title": "Live: ASX rises as oil prices hit five-week high, Wall Street tech stocks rebound",
+      "summary": "The Australian share market has started its day higher after Wall Street's beaten-down tech and semiconductor stocks rebounded sharply overnight. Oil prices surged to a five-week high as Donald Trump signalled the US is \"not finished\" attacking Iran. Follow live.",
       "url": "https://www.abc.net.au/news/2026-07-22/asx-markets-business-live-news-july-22/106942906",
       "source": "ABC Australia",
       "feed": "ABC Australia",
@@ -354,12 +432,12 @@
       "publishedAt": "2026-07-21T21:54:55.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7e897f4ce69c17cb98d234c2823bab4c?impolicy=wcms_crop_resize&cropH=3942&cropW=7008&xPos=0&yPos=365&width=862&height=485",
       "topic": "经济",
-      "score": 79,
-      "id": "feb162534ec5"
+      "score": 78,
+      "id": "5c7681657f2e"
     },
     {
-      "title": "RBA now twice as likely to hike interest rate as US-Iran war drives fuel prices higher",
-      "summary": "Experts warn global energy market at a ‘critical juncture’ with escalating Middle East crisis expected to further drag on a slowing Australian economy Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The likelihood of a Reserve Bank interest rate hike has doubled according to market forecasts",
+      "title": "RBA now twice as likely to hike interest rates as US-Iran war drives fuel prices higher",
+      "summary": "Experts warn global energy market at a ‘critical juncture’ with escalating Middle East crisis expected to further drag on a slowing Australian economy Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The likelihood of a Reserve Bank interest rate hike has doubled, according to market forecast",
       "url": "https://www.theguardian.com/australia-news/2026/jul/22/rba-interest-rate-rise-likely-us-iran-war-markets-forecast",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -367,21 +445,8 @@
       "publishedAt": "2026-07-21T15:00:51.000Z",
       "image": "https://i.guim.co.uk/img/media/05c2ba94c36b9d4d0e5d040fb36d8f9aa87bd4b6/388_128_3260_2608/master/3260.jpg?width=140&quality=85&auto=format&fit=max&s=9fb7bf916a5308c73db462b597f90d30",
       "topic": "经济",
-      "score": 79,
-      "id": "595de5fbf9c3"
-    },
-    {
-      "title": "Historic $350m NSW funding boost helps launch new Aboriginal family program to help children ‘tell their own stories’",
-      "summary": "Holistic approach to care which preserves children’s identities part of Minns government reforms to broader child protection system Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast An Aboriginal family preservation program aimed at giving at-risk children space to “tell their own stories” has",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/22/historic-350m-nsw-funding-boost-helps-launch-new-aboriginal-family-program-to-help-children-tell-their-own-stories",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-21T15:00:49.000Z",
-      "image": "https://i.guim.co.uk/img/media/3fbba9d81a2b8888c3c2173bcda2b32637c91333/1268_0_6340_5071/master/6340.jpg?width=140&quality=85&auto=format&fit=max&s=0c585e66c3b642616de601d78f742169",
-      "topic": "科技",
-      "score": 79,
-      "id": "022646ddeeb6"
+      "score": 78,
+      "id": "dd858f23d113"
     },
     {
       "title": "Zelenskyy fires Ukraine’s army chief and offers Fedorov ‘prominent position’",
@@ -393,7 +458,7 @@
       "publishedAt": "2026-07-21T21:34:56.000Z",
       "image": "https://i.guim.co.uk/img/media/7bde5d9df0e2a3170a95d9a8e6632f0d1a1b493e/300_0_4464_3572/master/4464.jpg?width=140&quality=85&auto=format&fit=max&s=67387c8cb10c59c5b2e88b06d5c892e1",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "ffe1e8e33f55"
     },
     {
@@ -406,7 +471,7 @@
       "publishedAt": "2026-07-21T21:24:11.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "1f0a05c9c088"
     },
     {
@@ -419,21 +484,8 @@
       "publishedAt": "2026-07-21T21:13:02.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "7219294d3063"
-    },
-    {
-      "title": "How will Khalil al-Hayya’s leadership shape Hamas?",
-      "summary": "Newly named Hamas leader al-Hayya faces pressure to cede power amid Gaza's fragile ceasefire.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-21T21:03:58.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 78,
-      "id": "2f6b8f0007da"
     },
     {
       "title": "State Department issues 'worldwide caution' for Americans due to Middle East war",
@@ -445,34 +497,34 @@
       "publishedAt": "2026-07-21T17:53:35.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "de5904de72ed"
     },
     {
-      "title": "French lawmakers set to ban social media for under-15s in European first",
-      "summary": "French lawmakers set to ban social media for under-15s in European first &nbsp;&nbsp; News.com.au",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbEtobmZEdEVlZnprY3YxQy1hcFRId0h3ZHFJdzFFYkR3VHNSSHhEbjdnbE9DcWRDY21pMGZMNkktc3dObW9PbDFIaGJleFNtRVZYNjBSYmRTbk1qQnpIOUV1Q1hHcmJlcVUzUFg1ZlVNOTdtdWRRRzl6ZGtBbXhYTjJYcC1jZHJ4RmZQTWRJQWxNUlo0UWNtQkJ6eGVaT2dLbEwyODRHVGFxWlJ0b2gxa01ncDcxeWlRV1IzeE9DVWFMWVFYWUtNdmpLWGUtX3NKSlB5TDJzTG5zMEtOUGVCQ0tRbnZHSk1lOEVrdVZn0gHuAUFVX3lxTFBsS2huZkR0RWVmemtjdjFDLWFwVEh3SHdkcUl3MUViRHdUc1JIeERuN2dsT0NxZENjbWkwZkw2SS1zd05tb09sMUhoYmV4U21FVlg2MFJiZFNuTWpCekg5RXVDWEdyYmVxVTNQWDVmVU05N211ZFFHOXpka0FteFhOMlhwLWNkcnhGZlBNZElBbE1SWjRRY21CQnp4ZVpPZ0tsTDI4NEdUYXFaUnRvaDFrTWdwNzF5aVFXUjN4T0NVYUxZUVhZS012aktYZS1fc0pKUHlMMnNMbnMwS05QZUJDS1FudkdKTWU4RWt1Vmc?oc=5",
-      "source": "News.com.au",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-21T14:53:34.000Z",
+      "title": "BREAKING NEWS: Japan's crude oil imports from Middle East plunge 26.4% in 1st half of 2026",
+      "summary": "BREAKING NEWS: Japan's crude oil imports from Middle East plunge 26.4% in 1st half of 2026 &nbsp;&nbsp; Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Edl9Yc0JLQW5XRW9RT0UwZGI0SXRkb1RGalR3OWVnSlk0ZjloMF8yeVNYRW9rTERpR1ByTm12Yzd1QlBtM3Jwc0FRaTByZ3ZMZDJUUmtsMFltdw?oc=5",
+      "source": "Japan Wire by Kyodo News",
+      "feed": "Middle East News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-22T00:01:11.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 78,
-      "id": "12ec00c40a7b"
+      "topic": "经济",
+      "score": 76,
+      "id": "b9bed3295602"
     },
     {
-      "title": "Trump to allow direct US flights to Lebanon after 41-year halt",
-      "summary": "Announcement comes after White House meeting with Lebanese president in which Trump vowed to help ‘a lot’ Donald Trump said on Tuesday he would allow American carriers to resume direct flights to Lebanon more than 40 years after the US suspended the route. Direct flights between the US and Lebanon were suspended in 1985 by Ronald Reagan’s administration foll",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/trump-us-flights-lebanon",
-      "source": "The Guardian",
-      "feed": "The Guardian",
+      "title": "How will Khalil al-Hayya’s leadership shape Hamas?",
+      "summary": "Newly named Hamas leader al-Hayya faces pressure to cede power amid Gaza's fragile ceasefire.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
       "region": "中东",
-      "publishedAt": "2026-07-21T20:36:55.000Z",
-      "image": "https://i.guim.co.uk/img/media/0a7ce1735fa8867268310ddcca58f5768b408577/339_0_3374_2701/master/3374.jpg?width=140&quality=85&auto=format&fit=max&s=da39faf2e39f057840521905adcedfe9",
+      "publishedAt": "2026-07-21T21:03:58.000Z",
+      "image": "",
       "topic": "政治",
-      "score": 77,
-      "id": "b0c38ed8f531"
+      "score": 76,
+      "id": "2f6b8f0007da"
     },
     {
       "title": "Deposed Turkish opposition leader plans new party",
@@ -484,21 +536,73 @@
       "publishedAt": "2026-07-21T20:23:45.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "5626701cb1e5"
     },
     {
-      "title": "Reps probe recent xenophobic attacks on Nigerians in South Africa",
-      "summary": "Reps probe recent xenophobic attacks on Nigerians in South Africa &nbsp;&nbsp; Tribune Online",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTFPNlRtU0pzTG52ZVZyNThKamdHT2ttWVFTWWM5T0ctM2xua0txYzdQdll2SnN4eTN0OE1zcUp0Q3ZSYjdtQjBIcHJpOEJzTHRCRVl4X2JnSjBMSExTSnlmR1JsaE9SUTRkWnVIaFNnRENrTk82bU1yU3BkVmZ0M2s3cjY3X0hua3RXLVJtNTBvbG4zUVVJN2JR?oc=5",
-      "source": "Tribune Online",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-21T20:09:26.000Z",
+      "title": "French lawmakers set to ban social media for under-15s in European first",
+      "summary": "French lawmakers set to ban social media for under-15s in European first &nbsp;&nbsp; News.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbEtobmZEdEVlZnprY3YxQy1hcFRId0h3ZHFJdzFFYkR3VHNSSHhEbjdnbE9DcWRDY21pMGZMNkktc3dObW9PbDFIaGJleFNtRVZYNjBSYmRTbk1qQnpIOUV1Q1hHcmJlcVUzUFg1ZlVNOTdtdWRRRzl6ZGtBbXhYTjJYcC1jZHJ4RmZQTWRJQWxNUlo0UWNtQkJ6eGVaT2dLbEwyODRHVGFxWlJ0b2gxa01ncDcxeWlRV1IzeE9DVWFMWVFYWUtNdmpLWGUtX3NKSlB5TDJzTG5zMEtOUGVCQ0tRbnZHSk1lOEVrdVZn0gHuAUFVX3lxTFBsS2huZkR0RWVmemtjdjFDLWFwVEh3SHdkcUl3MUViRHdUc1JIeERuN2dsT0NxZENjbWkwZkw2SS1zd05tb09sMUhoYmV4U21FVlg2MFJiZFNuTWpCekg5RXVDWEdyYmVxVTNQWDVmVU05N211ZFFHOXpka0FteFhOMlhwLWNkcnhGZlBNZElBbE1SWjRRY21CQnp4ZVpPZ0tsTDI4NEdUYXFaUnRvaDFrTWdwNzF5aVFXUjN4T0NVYUxZUVhZS012aktYZS1fc0pKUHlMMnNMbnMwS05QZUJDS1FudkdKTWU4RWt1Vmc?oc=5",
+      "source": "News.com.au",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-21T14:53:34.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
-      "id": "426c3b55aef2"
+      "score": 76,
+      "id": "12ec00c40a7b"
+    },
+    {
+      "title": "Mistrial declared in case over Sacramento’s deadliest shooting",
+      "summary": "Mtula Payton and Dandrae Martin were tried together over shooting on K Street in April 2022 that left six dead The trial of two men accused of carrying out the deadliest shooting in the city of Sacramento, California , ended in a mistrial on Tuesday. The suspects, Mtula Payton and Dandrae Martin, were tried together and faced up to 15 years to life in prison",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/sacramento-k-street-shooting",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-21T23:33:49.000Z",
+      "image": "https://i.guim.co.uk/img/media/c7c3d90ba736cf04486b901e2fd666af47e128b8/85_0_854_683/master/854.jpg?width=140&quality=85&auto=format&fit=max&s=abb6809ebd58540b044929c73f61362a",
+      "topic": "社会",
+      "score": 75,
+      "id": "283ae593fff9"
+    },
+    {
+      "title": "'Massive' drop in tourists this winter hits WA's south",
+      "summary": "Despite being an idyllic location for a winter getaway, businesses in WA's Great Southern have seen a decline in tourists this season.",
+      "url": "https://www.abc.net.au/news/2026-07-22/low-tourism-numbers-in-southern-wa/106936732",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-21T23:25:47.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/fec2ed5a829eb479c8f87bcf0a0fc0d0?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+      "topic": "经济",
+      "score": 75,
+      "id": "c1c93d0b049c"
+    },
+    {
+      "title": "Trump says US 'not finished' attacking Iran as conflict widens",
+      "summary": "Trump says US 'not finished' attacking Iran as conflict widens &nbsp;&nbsp; France 24",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdTcxanltcVgzTTZXMFlyZWRBQUxyRy16RTIwUHFoNElWMGxzVEZJRTVrcnhVblZVVmZxcmcwUDJXbVdmNDdrMzhMcVQzWEh3azlPUVJlOXZhRTRNSTdobHRxdUNpVmFXaFMyRTliRlIyV1c5UFRPM2llRGdiT1hiZENMZzQ0WHEycHhqZWlhcXRBdjVTRkQwQW1jS3pYbGpSb2JJT2QxQXpucExLZGc?oc=5",
+      "source": "France 24",
+      "feed": "Middle East News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-21T23:22:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "74e974cff496"
+    },
+    {
+      "title": "Husband says he should have died with his wife in house fire",
+      "summary": "Leanne Gay Laver, 62, and family friend Phillip Gordon, 73, died when the house caught alight in the Logan suburb of Kingston.",
+      "url": "https://www.abc.net.au/news/2026-07-22/husband-describes-losing-wife-in-fatal-house-fire/106943072",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-21T23:18:52.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/8a45f1fdcd62c47c1e155da8f4be3426?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "6819062d63e9"
     },
     {
       "title": "Basketball Fiji's Commonwealth Games teams shift time zones for historic debut",
@@ -510,7 +614,7 @@
       "publishedAt": "2026-07-21T22:59:15.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "758a9f63f392"
     },
     {
@@ -523,8 +627,21 @@
       "publishedAt": "2026-07-21T22:46:43.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "63bb6856cb7a"
+    },
+    {
+      "title": "Reps probe recent xenophobic attacks on Nigerians in South Africa",
+      "summary": "Reps probe recent xenophobic attacks on Nigerians in South Africa &nbsp;&nbsp; Tribune Online",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTFPNlRtU0pzTG52ZVZyNThKamdHT2ttWVFTWWM5T0ctM2xua0txYzdQdll2SnN4eTN0OE1zcUp0Q3ZSYjdtQjBIcHJpOEJzTHRCRVl4X2JnSjBMSExTSnlmR1JsaE9SUTRkWnVIaFNnRENrTk82bU1yU3BkVmZ0M2s3cjY3X0hua3RXLVJtNTBvbG4zUVVJN2JR?oc=5",
+      "source": "Tribune Online",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-21T20:09:26.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "426c3b55aef2"
     },
     {
       "title": "Falling 200kg drive gear injures steel worker months after workplace death",
@@ -536,7 +653,7 @@
       "publishedAt": "2026-07-21T19:58:44.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/fd53daed517725e347f0e31134c452be?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "31f27454738c"
     },
     {
@@ -549,7 +666,7 @@
       "publishedAt": "2026-07-21T19:57:05.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "beeda7b06076"
     },
     {
@@ -562,7 +679,7 @@
       "publishedAt": "2026-07-21T19:53:10.000Z",
       "image": "https://i.guim.co.uk/img/media/5b7a4cc25777e7c17bc50f259167a92be8a76665/887_401_3200_2560/master/3200.jpg?width=140&quality=85&auto=format&fit=max&s=a3adc638d690fc13f8b06d3898e93333",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "92ca96256982"
     },
     {
@@ -575,7 +692,7 @@
       "publishedAt": "2026-07-21T19:43:53.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "dd6889194a43"
     },
     {
@@ -588,7 +705,7 @@
       "publishedAt": "2026-07-21T19:41:38.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "ad9d79ae1aee"
     },
     {
@@ -601,7 +718,7 @@
       "publishedAt": "2026-07-21T22:35:02.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/608b2a5d9ab919b28b33a1d1e78ed007?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=69&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "ba9877a48cf7"
     },
     {
@@ -612,27 +729,27 @@
       "feed": "ABC Australia",
       "region": "大洋洲",
       "publishedAt": "2026-07-21T22:30:17.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/7d034095747314501933c6382f1c8c67?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=35&width=862&height=485",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ffa05f6bed724dbcbfefa7ff689c0aa3?impolicy=wcms_crop_resize&cropH=2325&cropW=4134&xPos=0&yPos=292&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "f7ebdeb8cff0"
     },
     {
-      "title": "Firefighters find body after blaze in garden shed",
-      "summary": "Police have declared a crime scene after a man's body was found in the charred remains of a shed in Nambour — in the second fatal fire on Sunshine Coast in four days.",
+      "title": "Man dies in Sunshine Coast's second fatal fire in four days",
+      "summary": "Police have declared a crime scene after a man's body was found in the charred remains of a shed in Nambour, in the second fatal fire on the Sunshine Coast in four days.",
       "url": "https://www.abc.net.au/news/2026-07-22/sunshine-coast-police-investigate-nambour-shed-fire-body/106942924",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "大洋洲",
       "publishedAt": "2026-07-21T22:24:39.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/5738706dd5bd39a9270a138875a46078?impolicy=wcms_crop_resize&cropH=2916&cropW=5184&xPos=0&yPos=270&width=862&height=485",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d3377c0fdb8016bc0f3009bfb893d08c?impolicy=wcms_crop_resize&cropH=1134&cropW=2016&xPos=0&yPos=375&width=862&height=485",
       "topic": "社会",
-      "score": 75,
-      "id": "ed138aa01c6e"
+      "score": 74,
+      "id": "e691047243e2"
     },
     {
       "title": "Mooloo Farm's sunflower festival helps palliative care patients",
-      "summary": "When Noel and Debbie Greenshaw started sowing sunflowers, they had no idea how it would spark joy, connect them with their community, and help improve the lives of people in pain.",
+      "summary": "When Noel and Debbie Granshaw started sowing sunflowers, they had no idea how it would spark joy, connect them with their community, and help improve the lives of people in pain.",
       "url": "https://www.abc.net.au/news/rural/2026-07-22/mooloo-farm-charity-sunflower-festival/106940606",
       "source": "ABC Australia",
       "feed": "ABC Australia",
@@ -640,34 +757,8 @@
       "publishedAt": "2026-07-21T22:18:41.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/746c0084eb7be72e0e4430968316f7bc?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "d5da2a064795"
-    },
-    {
-      "title": "US rider hit by car in road rage incident before Tour de France time trial",
-      "summary": "Brandon McNulty is confronted by an angry driver on his way to the time trial as Remco Evenepoel shaves some time off Tadej Pogačar's overall lead.",
-      "url": "https://www.abc.net.au/news/2026-07-22/tour-de-france-mcnulty-road-rage-evenepoel-wins-time-trial-stage/106942866",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-07-21T22:06:40.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/cf428d720b973e298ca27daa67eddd69?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=66&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "13a4ec6327f9"
-    },
-    {
-      "title": "Trial over Sacramento’s deadliest shooting ends in mistrial",
-      "summary": "Mtula Payton and Dandrae Martin were tried together over shooting on K Street in April 2022 that left six dead The trial of two men accused of carrying out the deadliest shooting in the city of Sacramento, California , ended in a mistrial on Tuesday. The suspects, Mtula Payton and Dandrae Martin, were tried together and faced up to 15 years to life in prison",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/sacramento-k-street-shooting",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-21T22:05:39.000Z",
-      "image": "https://i.guim.co.uk/img/media/c7c3d90ba736cf04486b901e2fd666af47e128b8/85_0_854_683/master/854.jpg?width=140&quality=85&auto=format&fit=max&s=abb6809ebd58540b044929c73f61362a",
-      "topic": "社会",
-      "score": 75,
-      "id": "0e15357d292f"
     },
     {
       "title": "Rescuers search for flood survivors in Afghanistan",
@@ -679,73 +770,21 @@
       "publishedAt": "2026-07-21T19:21:15.000Z",
       "image": "",
       "topic": "气候",
-      "score": 75,
+      "score": 74,
       "id": "cbdb5d95c9b3"
     },
     {
-      "title": "Russian warship carries out rare live-fire exercise 45 miles off UK coast",
-      "summary": "New defence secretary Wes Streeting denounces drill by Neustrashimy as ‘performative and irresponsible’ A Russian warship fired its main cannon in a short notice test 45 miles south of Plymouth on Monday, the day Andy Burnham was appointed as prime minister. The Neustrashimy suddenly announced it intended to fire its guns in the morning and requested that a ",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/21/russian-warship-carries-out-live-fire-exercise-uk-coast-neustrashimy-plymouth",
-      "source": "The Guardian",
-      "feed": "The Guardian",
+      "title": "US rider hit by car in road rage incident before Tour de France time trial",
+      "summary": "Brandon McNulty is confronted by an angry driver on his way to the time trial as Remco Evenepoel shaves some time off Tadej Pogačar's overall lead.",
+      "url": "https://www.abc.net.au/news/2026-07-22/tour-de-france-mcnulty-road-rage-evenepoel-wins-time-trial-stage/106942866",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
       "region": "欧洲",
-      "publishedAt": "2026-07-21T15:23:31.000Z",
-      "image": "https://i.guim.co.uk/img/media/b5517178ae88135f329b1543e21bf47f4fe28665/958_338_2733_2188/master/2733.jpg?width=140&quality=85&auto=format&fit=max&s=faf18a6e5eea81ef54b0a829101f30c2",
-      "topic": "政治",
-      "score": 75,
-      "id": "0bcd8f0865e6"
-    },
-    {
-      "title": "WA man dies after not being able to get antipsychotic medication",
-      "summary": "Bradley Buswell, aged in his 40s and living with schizophrenia, died in state care after his medication became unavailable due to national shortages. An ongoing coronial inquest is probing the circumstances of his death.",
-      "url": "https://www.abc.net.au/news/2026-07-22/inquest-mental-health-antipsychotics-shortage/106927258",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-21T21:56:56.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/2663ac3de5f990ff01dcc8cfbb56c450?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "publishedAt": "2026-07-21T22:06:40.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/cf428d720b973e298ca27daa67eddd69?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=66&width=862&height=485",
       "topic": "社会",
-      "score": 74,
-      "id": "4d4c69276f69"
-    },
-    {
-      "title": "'Big white rainbow' photographed in rare outback fogbow sighting",
-      "summary": "Cold weather and moist conditions combine to produce a fogbow in an unlikely place.",
-      "url": "https://www.abc.net.au/news/2026-07-22/rare-fogbow-cobar-western-nsw/106938884",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-21T21:29:17.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/783772b9d2058909b76be106ad66d56c?impolicy=wcms_crop_resize&cropH=257&cropW=457&xPos=53&yPos=84&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "a1cb1cce0440"
-    },
-    {
-      "title": "Drone shows scorched landscape after Spain wildfire",
-      "summary": "A drone has revealed what remains of this forest after a wildfire burned through over 30,000 hectares of it.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-07-21T21:21:12.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 74,
-      "id": "633f60b571b2"
-    },
-    {
-      "title": "Live: Penny Wong raises missile test with Chinese foreign minister",
-      "summary": "Penny Wong has raised China's missile test and detention of Australian democracy activist Dr Yang Hengjun with the Chinese foreign minister. Follow live.",
-      "url": "https://www.abc.net.au/news/2026-07-22/federal-politics-live-blog-isis-doctor-july-22/106942730",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "亚洲",
-      "publishedAt": "2026-07-21T21:16:24.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/825b50ea09ad74bd61f9b8167689b33e?impolicy=wcms_crop_resize&cropH=2812&cropW=4999&xPos=0&yPos=0&width=862&height=485",
-      "topic": "政治",
-      "score": 74,
-      "id": "02951f665bb2"
+      "score": 73,
+      "id": "13a4ec6327f9"
     },
     {
       "title": "Moldova's parliament elects investor Vasile Tofan as prime minister to push EU membership bid - ABC News",
@@ -757,7 +796,7 @@
       "publishedAt": "2026-07-21T18:29:56.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "88ba4c9ac0c6"
     },
     {
@@ -770,7 +809,7 @@
       "publishedAt": "2026-07-21T18:23:18.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "bcb9e6675629"
     },
     {
@@ -783,8 +822,60 @@
       "publishedAt": "2026-07-21T15:23:57.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "c3f15798de29"
+    },
+    {
+      "title": "Russian warship carries out rare live-fire exercise 45 miles off UK coast",
+      "summary": "New defence secretary Wes Streeting denounces drill by Neustrashimy as ‘performative and irresponsible’ A Russian warship fired its main cannon in a short notice test 45 miles south of Plymouth on Monday, the day Andy Burnham was appointed as prime minister. The Neustrashimy suddenly announced it intended to fire its guns in the morning and requested that a ",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/21/russian-warship-carries-out-live-fire-exercise-uk-coast-neustrashimy-plymouth",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-07-21T15:23:31.000Z",
+      "image": "https://i.guim.co.uk/img/media/b5517178ae88135f329b1543e21bf47f4fe28665/958_338_2733_2188/master/2733.jpg?width=140&quality=85&auto=format&fit=max&s=faf18a6e5eea81ef54b0a829101f30c2",
+      "topic": "政治",
+      "score": 73,
+      "id": "0bcd8f0865e6"
+    },
+    {
+      "title": "Marsh Q2 revenue climbs 6% but reinsurance broking slips",
+      "summary": "Marsh Q2 revenue climbs 6% but reinsurance broking slips &nbsp;&nbsp; Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSkNfYjdWTzdEMW90bE12aDB3MXpUb1hxVHE1RExpTDVGV19Kbkc5TVZGdHFsS0NPdkFzaWRXS29QYy1DQ2VpVld4VTVZYjJ3dHlvWVFKeC1wM2xucU51V3ptemY4QVRndlViMWZDSVNnTFJrRm5SOWxscWJDVnRlMU0xc21aVVpjMy10cFN4UG95ZUFzUHQ2d09iakRmTk1mdGhmNUdBN3hXc0s2VzZ3WEVtU3NGVm14T0ttcVJsc0ZaSTls?oc=5",
+      "source": "Insurance Business",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-21T23:53:28.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 72,
+      "id": "7bda53c0e33d"
+    },
+    {
+      "title": "Drone shows scorched landscape after Spain wildfire",
+      "summary": "A drone has revealed what remains of this forest after a wildfire burned through over 30,000 hectares of it.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-07-21T21:21:12.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 72,
+      "id": "633f60b571b2"
+    },
+    {
+      "title": "Breaking: Arsenal reach advanced stage regarding the Julian Alvarez deal!",
+      "summary": "Breaking: Arsenal reach advanced stage regarding the Julian Alvarez deal! &nbsp;&nbsp; Foot-Africa.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMndEOS1nMzB3bERubW5IZDMwSjVCNXpQZTFfMXJiaHBkczNZRHdiWTFpNktHeGE5U2NvTV9kb0dnZDU3R3RMbjFiZTl0WmRTZ3p2ZjRnOVRLbUlVZGN3RDdYcTRCRTlBOEJuSWc4b0JlM29PcW0tSmpSQW5aWTZPWXZwZGlzZTZraVNKUkhGU05ZUkRBNGp3ZWNYUHZTby1ZazZFWGNFal9ybzJPWVRuX0RR?oc=5",
+      "source": "Foot-Africa.com",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-21T20:58:38.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "2777af239757"
     },
     {
       "title": "Guyana reports ferry disaster death toll rises to 41",
@@ -796,21 +887,8 @@
       "publishedAt": "2026-07-21T20:54:41.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "eb7bb7e50ff3"
-    },
-    {
-      "title": "Players and fans made the World Cup a success, but the politics shouldn't be forgotten",
-      "summary": "The biggest ever World Cup brought diverse communities together and galvanised its non-traditional footballing co-hosts, but the concerns raised from the start have not disappeared in the positive afterglow.",
-      "url": "https://www.abc.net.au/news/2026-07-22/world-cup-usa-canada-mexico-legacy-fifa/106942436",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-21T20:50:27.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ca782564c27d9712b386ddcc76ac843a?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "98eaba7b8d69"
     },
     {
       "title": "US funding cuts deal blow to global HIV treatment: Report",
@@ -822,7 +900,7 @@
       "publishedAt": "2026-07-21T20:44:06.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "96643499be55"
     },
     {
@@ -835,7 +913,7 @@
       "publishedAt": "2026-07-21T20:41:08.000Z",
       "image": "https://i.guim.co.uk/img/media/67a8845c5db7afda38c645db93f9998ddcb47fc1/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6ac10fa80b318f8daf0a0f150e4dad68",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "732d2467a0f9"
     },
     {
@@ -848,7 +926,7 @@
       "publishedAt": "2026-07-21T20:37:16.000Z",
       "image": "https://i.guim.co.uk/img/media/3b4d4a1ba61f900990edfa513962c35279394e87/519_0_6430_5144/master/6430.jpg?width=140&quality=85&auto=format&fit=max&s=9fd69aa72ab3f66ed9417b5d221c843a",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "9f60071df756"
     },
     {
@@ -861,86 +939,8 @@
       "publishedAt": "2026-07-21T20:34:19.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "bad60f0cd306"
-    },
-    {
-      "title": "Judgment day for Rebel Wilson's messy defamation case",
-      "summary": "Hollywood star Rebel Wilson will learn today whether she defamed the lead actor on her \"fun girl-power\" film, in a judgment to be handed down in the Federal Court.",
-      "url": "https://www.abc.net.au/news/2026-07-22/nsw-rebel-wilson-defamation-case-judgment-expected/106941328",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-21T20:33:14.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/1b5aeb2cd3fadf57e5647a19efcd49b4?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "政治",
-      "score": 73,
-      "id": "cac0b0cd22a9"
-    },
-    {
-      "title": "Repatriation effort for homeless man found dead outside Sydney station",
-      "summary": "The mother of a homeless man whose death outside a Sydney train station went unnoticed for days is pleading for her son's remains to be returned to Nepal.",
-      "url": "https://www.abc.net.au/news/2026-07-22/returning-body-of-homeless-man-bikram-lama-sydney-to-nepal/106929628",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-21T20:29:53.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/0c3f20d65b9ed15d5ddd7f8e95853481?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=109&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "3f8df7a5ff39"
-    },
-    {
-      "title": "Carney says he and Trump have agreed to ‘intensify’ trade negotiations",
-      "summary": "Relations between Canada and its largest trading partner have been tested by Trump's repeated jibes, threats and tariffs",
-      "url": "https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-07-21T20:17:08.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 72,
-      "id": "f0e4832df292"
-    },
-    {
-      "title": "Spain battles latest in series of major wildfires near Madrid",
-      "summary": "Fire breaks out amid Spain's third heatwave of the summer, with temperatures forecast to rise above 40C.",
-      "url": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-07-21T20:17:04.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 72,
-      "id": "3147e4c8dd9a"
-    },
-    {
-      "title": "Nicaragua Ends All Elections: How President Compares To World’s Strongmen",
-      "summary": "Nicaragua Ends All Elections: How President Compares To World’s Strongmen &nbsp;&nbsp; Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMHAyTG9VUVoteERqMFp5UEd5V3JnajNqY2VieGxPLVVuV1VmWnFFM3YtR1hNNEJzbWQxSmFYYjh2UmdwOEFTUklqa05IT3J0UjRwQ2tKU3F1Y3duRVBLcEhVVEZtVGV5Z1RkZWxrRjRrWXVpM0ViOHNGOXVJTnB0NjJJS2NHU21VR21sNXBPYlVaRmRGSjZVdFAybjF3d2JPb0J1R2xOd24?oc=5",
-      "source": "Newsweek",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-07-21T16:34:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "44d61947df17"
-    },
-    {
-      "title": "India’s Cockroach movement protesters show no sign of backing down",
-      "summary": "Thousands of people again on the streets of Delhi calling for education reforms despite police violence on Monday Taru had come to the protest prepared this time. In one hand was an anti-government poster and in the other was a bicycle helmet. “We need to have protection in case Delhi police beat us up again,” said the 25-year-old, who stood among her friend",
-      "url": "https://www.theguardian.com/world/2026/jul/21/india-cockroach-movement-protesters-delhi",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-07-21T16:13:04.000Z",
-      "image": "https://i.guim.co.uk/img/media/6a6e40ba95ffb83bcef4087e725315b4b50ac51e/1123_0_5774_4619/master/5774.jpg?width=140&quality=85&auto=format&fit=max&s=8fb430c17b99d1596e4444f10394a6ea",
-      "topic": "政治",
-      "score": 72,
-      "id": "9e03be2e2e84"
     }
   ]
 }
