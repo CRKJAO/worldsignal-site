@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T21:31:12.372Z",
+  "updatedAt": "2026-07-24T23:18:58.021Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -7,17 +7,43 @@
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
     {
-      "title": "More than 100,000 people flee or lock down as wildfires sweep France and Spain",
-      "summary": "‘Highly unpredictable’ blaze forces evacuation of Cap Ferret on French coast and Spain declares national emergency More than 100,000 people have fled or been ordered to lock down as huge wildfires sweep Spain and France, prompting Madrid to declare a national emergency and the French authorities to order the total evacuation, by land and sea, of one of the c",
+      "title": "‘I’m not in a hurry’: Trump bats down concerns of Iran war affecting midterms – US politics live",
+      "summary": "‘Elections take care of themselves’, says US president when asked if ongoing Iran war could cost Republicans control of Congress What to know about Trump’s new tariffs on more than 80 countries Sign up for the US Breaking News email Represenatives Ilhan Omar and Pramila Jayapal, will visit the Whipple Federal Building in Minneapolis today to conduct a congre",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/24/donald-trump-tariffs-white-house-correspondents-dinner-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-07-24T22:24:36.000Z",
+      "image": "https://i.guim.co.uk/img/media/09d5aa8bb668aed41df97a52c7899297a73c41c5/1365_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=40d1f940d4fe6b8330d0f8da02a95a27",
+      "topic": "政治",
+      "score": 92,
+      "id": "2f0af93ea2b6"
+    },
+    {
+      "title": "More than 200,000 people flee or lock down as wildfires sweep France and Spain",
+      "summary": "‘Highly unpredictable’ blaze forces evacuation of Cap Ferret on French coast and Spain declares national emergency More than 200,000 people have fled or been ordered to lock down as huge wildfires swept Spain and France on Friday, prompting Madrid to declare a national emergency and the French authorities to order the total evacuation, by land and sea, of on",
       "url": "https://www.theguardian.com/world/2026/jul/24/france-evacuation-cap-ferret-peninsula-wildfire",
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "欧洲",
-      "publishedAt": "2026-07-24T18:58:21.000Z",
+      "publishedAt": "2026-07-24T22:18:51.000Z",
       "image": "https://i.guim.co.uk/img/media/af325e74f881f3c3e6347f7d5b7755ce1d5fa1de/461_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=e7317228cb24d65f25c81249a4c9ca1e",
       "topic": "气候",
-      "score": 90,
-      "id": "55b2c1451343"
+      "score": 92,
+      "id": "15a96e4d9ead"
+    },
+    {
+      "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+      "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
+      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-07-24T21:47:16.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638c/live/3592d2f0-87ae-11f1-9e55-1d545cca1941.jpg",
+      "topic": "政治",
+      "score": 86,
+      "id": "89a7af2fde65"
     },
     {
       "title": "Trump threatens EU with ‘substantial’ tariffs over fines of US tech giants",
@@ -26,11 +52,37 @@
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "欧洲",
-      "publishedAt": "2026-07-24T19:38:35.000Z",
+      "publishedAt": "2026-07-24T21:22:39.000Z",
       "image": "https://i.guim.co.uk/img/media/9f090fec127ec41eed9e65982abe3dbd72952047/513_0_4402_3522/master/4402.jpg?width=140&quality=85&auto=format&fit=max&s=4f7813c74c7179d8a70de0406760f897",
       "topic": "政治",
       "score": 86,
       "id": "861c951b7013"
+    },
+    {
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-07-24T22:49:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c838/live/07344060-8759-11f1-a0f1-fd76e1e0297b.jpg",
+      "topic": "政治",
+      "score": 84,
+      "id": "b0c6ddcfd14b"
+    },
+    {
+      "title": "ICC dismisses prosecutor Karim Khan for serious misconduct",
+      "summary": "The International Criminal Court has dismissed prosecutor Karim Khan following an investigation into sexual misconduct allegations.",
+      "url": "https://www.abc.net.au/news/2026-07-25/icc-prosecutor-karim-khan-dismissed-sexual-misconduct/106957660",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-24T22:11:35.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/c206d9d03c22b9301dedfd38a3aec7c2?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+      "topic": "政治",
+      "score": 83,
+      "id": "2916e0bbf633"
     },
     {
       "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
@@ -42,21 +94,8 @@
       "publishedAt": "2026-07-24T17:58:22.000Z",
       "image": "https://i.guim.co.uk/img/media/fc1efb68f2a9317528c4e02258bcb81ea2f70580/0_943_1420_1135/master/1420.jpg?width=140&quality=85&auto=format&fit=max&s=27ee8b05fbeb5b792382486d916855dc",
       "topic": "政治",
-      "score": 85,
+      "score": 83,
       "id": "5e6207472504"
-    },
-    {
-      "title": "Middle East crisis latest: US carries out strikes across Iran as Tehran targets American bases in region",
-      "summary": "Latest attacks come after Trump vowed ‘major military punishment’ for Tehran and its Houthi allies As we reported earlier, Iran ’s military said on Friday that it carried out attacks targeting US military assets in Bahrain , Jordan and Kuwait in retaliation for Washington’s latest strikes on the Islamic republic. Iran’s Revolutionary Guards Corp, meanwhile, ",
-      "url": "https://www.theguardian.com/world/live/2026/jul/24/us-iran-donald-trump-iraq-bahrain-kuwait-jordan-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-07-24T17:20:09.000Z",
-      "image": "https://i.guim.co.uk/img/media/e7bb6355149157db04d4dbd35e8ef866b099184c/372_0_4191_3354/master/4191.jpg?width=140&quality=85&auto=format&fit=max&s=56dfb95796c210d358b2a238f04eff44",
-      "topic": "政治",
-      "score": 84,
-      "id": "9aa5a17d2284"
     },
     {
       "title": "How Chinese tech and Russian tactics are aiding Iran’s bombing of US bases",
@@ -68,7 +107,7 @@
       "publishedAt": "2026-07-24T17:13:36.000Z",
       "image": "https://i.guim.co.uk/img/media/d0a0a47029f4933162934e69e720068270780d03/504_0_2019_1615/master/2019.jpg?width=140&quality=85&auto=format&fit=max&s=4af4c35e5db972f160ae5b244e3a6eeb",
       "topic": "社会",
-      "score": 84,
+      "score": 82,
       "id": "5c329cb5f2d4"
     },
     {
@@ -81,7 +120,7 @@
       "publishedAt": "2026-07-24T20:27:16.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 81,
       "id": "1b7397e6e6a4"
     },
     {
@@ -94,8 +133,34 @@
       "publishedAt": "2026-07-24T19:52:46.000Z",
       "image": "https://i.guim.co.uk/img/media/8a8ce504f20b59948ce05f71a56877552f1decab/0_0_2845_2276/master/2845.jpg?width=140&quality=85&auto=format&fit=max&s=4cf07bfc6135d8ff282e6cd5a3823965",
       "topic": "政治",
-      "score": 83,
+      "score": 81,
       "id": "989d62f64a37"
+    },
+    {
+      "title": "Middle East crisis latest: US carries out strikes across Iran as Tehran targets American bases in region",
+      "summary": "Latest attacks come after Trump vowed ‘major military punishment’ for Tehran and its Houthi allies As we reported earlier, Iran ’s military said on Friday that it carried out attacks targeting US military assets in Bahrain , Jordan and Kuwait in retaliation for Washington’s latest strikes on the Islamic republic. Iran’s Revolutionary Guards Corp, meanwhile, ",
+      "url": "https://www.theguardian.com/world/live/2026/jul/24/us-iran-donald-trump-iraq-bahrain-kuwait-jordan-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-07-24T17:20:09.000Z",
+      "image": "https://i.guim.co.uk/img/media/e7bb6355149157db04d4dbd35e8ef866b099184c/372_0_4191_3354/master/4191.jpg?width=140&quality=85&auto=format&fit=max&s=56dfb95796c210d358b2a238f04eff44",
+      "topic": "政治",
+      "score": 81,
+      "id": "9aa5a17d2284"
+    },
+    {
+      "title": "Businesses sue Trump as he defends 'very standard tariffs'",
+      "summary": "Two small US businesses sue the US president to try to stop him from placing new tariffs on imports from scores of countries, including Australia.",
+      "url": "https://www.abc.net.au/news/2026-07-25/businesses-sue-donald-trump-over-new-forced-labour-tariffs/106957762",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-24T23:02:16.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/73cdb4b54c3f13698f0181cb8cb055c4?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485",
+      "topic": "经济",
+      "score": 80,
+      "id": "863aef47ffe5"
     },
     {
       "title": "Iran's attacks on US bases in the Middle East mark 'end of an era'",
@@ -107,8 +172,47 @@
       "publishedAt": "2026-07-24T19:24:49.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/df3f5d078e6525011d92efc418828d06?impolicy=wcms_crop_resize&cropH=297&cropW=528&xPos=90&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 82,
+      "score": 80,
       "id": "e4c5567bf5ce"
+    },
+    {
+      "title": "Law student charged after military-grade bomb intercepted near Irish border",
+      "summary": "Isobella Perrie Sullivan, 25, remanded in custody after intelligence-led operation against dissident republicans A 25-year-old law student has been charged in relation to an “extremely significant” bomb intercepted near the UK-Irish border. Isobella Perrie Sullivan, from Clane, County Kildare, was charged with possession of explosives at a special sitting of",
+      "url": "https://www.theguardian.com/world/2026/jul/24/woman-man-arrested-ireland-police-intercept-highly-sophisticated-bomb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-24T22:18:49.000Z",
+      "image": "https://i.guim.co.uk/img/media/7d5b0454fe13906c4eded699a99b18ad1a0ad01d/396_52_3863_3091/master/3863.jpg?width=140&quality=85&auto=format&fit=max&s=4fd5806038526aa4c27b2c0d2e3dd69f",
+      "topic": "政治",
+      "score": 79,
+      "id": "4839023277b2"
+    },
+    {
+      "title": "Factory-built homes could help Australia reindustrialise, report says",
+      "summary": "Factory-built homes could solve Australia's housing crisis and drive reindustrialisation, a Labor think tank report says.",
+      "url": "https://www.abc.net.au/news/2026-07-25/manufactured-homes-housing-crisis-labor-john-curtin-think-tank/106950488",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-24T22:00:55.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/859908e5c144f4441b7fec8f1f3cb3de?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=261&width=862&height=485",
+      "topic": "社会",
+      "score": 79,
+      "id": "e24fdde08fc2"
+    },
+    {
+      "title": "Trump switched planes in Turkey earlier this month because of threat from Iran proxy forces – report",
+      "summary": "President flew to Ankara onboard Qatari-gifted jet, without advanced defenses, and flew home on old Air Force One Donald Trump switched aircraft before departing Turkey earlier this month after US officials determined there was a credible threat from Iranian proxy forces targeting him and Air Force One, according to a new report from the New York Times . The",
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-air-force-one-iran-threat",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-07-24T21:50:56.000Z",
+      "image": "https://i.guim.co.uk/img/media/3ab284c230e78a419f83bcbf6a82905b4bdae6f6/660_0_6567_5257/master/6567.jpg?width=140&quality=85&auto=format&fit=max&s=aed7dbcf702b5ce446af9946bafc003f",
+      "topic": "政治",
+      "score": 79,
+      "id": "da457f7c6205"
     },
     {
       "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
@@ -120,21 +224,21 @@
       "publishedAt": "2026-07-24T18:51:17.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/065e/live/19c07e70-875d-11f1-95ec-a30de4e448c4.jpg",
       "topic": "社会",
-      "score": 81,
+      "score": 79,
       "id": "2e9b4d873489"
     },
     {
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-07-24T18:19:23.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c838/live/07344060-8759-11f1-a0f1-fd76e1e0297b.jpg",
+      "title": "ICC prosecutor Karim Khan removed over ‘political’ sex abuse claims",
+      "summary": "Karim Khan's defence team underscores that the prosecutor was removed while many court officials are under US sanctions.",
+      "url": "https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-khan-removed-over-sexual-misconduct-allegations-sources?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-24T18:38:02.000Z",
+      "image": "",
       "topic": "政治",
-      "score": 81,
-      "id": "b0c6ddcfd14b"
+      "score": 79,
+      "id": "75229985738e"
     },
     {
       "title": "Watch: Wildfires rage across Spain and France",
@@ -146,21 +250,8 @@
       "publishedAt": "2026-07-24T15:13:46.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1b5/live/c3089370-873d-11f1-a10e-a5d4f08bc20c.jpg",
       "topic": "政治",
-      "score": 81,
+      "score": 79,
       "id": "9df0b697b3a8"
-    },
-    {
-      "title": "Tens of thousands flee fires in France, blazes merge outside Madrid",
-      "summary": "France orders total evacuation of Cap Ferret peninsula as Spain declares national emergency for the first time over fires.",
-      "url": "https://www.abc.net.au/news/2026-07-25/france-fires-madrid-merge/106956514",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-07-24T15:05:48.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/874d8575be7a25bc1121bd0c52cc1145?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "社会",
-      "score": 81,
-      "id": "96792aa5bd56"
     },
     {
       "title": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre",
@@ -172,24 +263,50 @@
       "publishedAt": "2026-07-24T15:00:19.000Z",
       "image": "https://i.guim.co.uk/img/media/9d35b655b1fb3bcf17afa1b576db1fdb60be0a8d/616_0_6158_4926/master/6158.jpg?width=140&quality=85&auto=format&fit=max&s=c9b1a4de6e2aa12219335fc8e640dd98",
       "topic": "经济",
-      "score": 81,
+      "score": 79,
       "id": "80a8623a2ceb"
     },
     {
-      "title": "Trump threatens a major escalation in Iran after 13 straight nights of strikes",
-      "summary": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"",
-      "url": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
+      "title": "ICC member states vote to remove chief prosecutor Karim Khan",
+      "summary": "The International Criminal Court voted to remove the global tribunal's chief prosecutor on Friday, nearly two years after sexual misconduct allegations against him first emerged, the court's oversight body announced.",
+      "url": "https://www.npr.org/2026/07/24/g-s1-135498/icc-court-prosecutor-karim-khan-vote",
       "source": "NPR World",
       "feed": "NPR World",
-      "region": "中东",
-      "publishedAt": "2026-07-24T11:30:08.000Z",
+      "region": "美洲",
+      "publishedAt": "2026-07-24T21:37:37.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
-      "id": "abc84e763561"
+      "score": 78,
+      "id": "ec39b8c332c1"
     },
     {
-      "title": "Coalition challenged by rise of One Nation in Victoria's east",
+      "title": "Paramount agrees to pause Warner Bros deal while court case plays out",
+      "summary": "The delay, filed in court on Friday, can cost Paramount $1.7bn in fees if the deal is not closed by next June.",
+      "url": "https://www.aljazeera.com/economy/2026/7/24/paramount-agrees-to-pause-warner-bros-deal-while-court-case-plays-out?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-24T21:27:45.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 78,
+      "id": "a49f86c153e0"
+    },
+    {
+      "title": "Trump administration admits canceling clean energy grants to Democratic states",
+      "summary": "Court fillings show grants denied to states if they didn’t back Trump’s re-election, but administration claims it’s a ‘misrepresentation’ US politics live – latest updates The Trump administration has admitted scrapping more than $7.5bn in federal grants for clean energy projects to states “based solely” on whether they backed Donald Trump in the 2024 electi",
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-administration-cancel-clean-energy-grants-democrat-states",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-07-24T21:26:05.000Z",
+      "image": "https://i.guim.co.uk/img/media/a52e0ac7a3e03ca88697f8b319f8afbb6758a41c/336_0_3328_2662/master/3328.jpg?width=140&quality=85&auto=format&fit=max&s=69da4490d96b31592c7ffe6e69c04b15",
+      "topic": "政治",
+      "score": 78,
+      "id": "dd108c4ea254"
+    },
+    {
+      "title": "One Nation surge creates headache for the Coalition in Victoria's east",
       "summary": "Opposition Leader Jess Wilson has campaigned in Gippsland this week, hoping to lure back voters who are turning towards a surging One Nation.",
       "url": "https://www.abc.net.au/news/2026-07-25/state-election-one-nation-regional-victoria/106955644",
       "source": "ABC Australia",
@@ -198,8 +315,8 @@
       "publishedAt": "2026-07-24T21:18:25.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/16933f9849bd7828578aecb1d9668f7e?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=128&width=862&height=485",
       "topic": "政治",
-      "score": 80,
-      "id": "b96e714d5938"
+      "score": 78,
+      "id": "ddefaac54131"
     },
     {
       "title": "Elders call for overhaul of 'tokenistic' governance on APY Lands",
@@ -211,7 +328,7 @@
       "publishedAt": "2026-07-24T21:10:32.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/19e5fa3680b8ada7ff212ff7c99c4261?impolicy=wcms_crop_resize&cropH=1406&cropW=2500&xPos=0&yPos=93&width=862&height=485",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "101950a371ec"
     },
     {
@@ -224,34 +341,8 @@
       "publishedAt": "2026-07-24T21:08:42.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/50459eae7b670407054d79b92461e7e3?impolicy=wcms_crop_resize&cropH=2301&cropW=4091&xPos=0&yPos=408&width=862&height=485",
       "topic": "经济",
-      "score": 80,
+      "score": 78,
       "id": "442697138ffa"
-    },
-    {
-      "title": "UNESCO places occupied West Bank, Lebanon sites on endangered heritage list",
-      "summary": "Sebastia in the occupied West Bank and five Lebanese castles get emergency listing despite Israeli objections.",
-      "url": "https://www.aljazeera.com/news/2026/7/24/unesco-places-occupied-west-bank-lebanon-sites-on-endangered-heritage-list?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-24T20:51:13.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 80,
-      "id": "13f22e75d344"
-    },
-    {
-      "title": "Europe's Wildfire Crisis Deepens As Spain Declares National Emergency",
-      "summary": "Europe's Wildfire Crisis Deepens As Spain Declares National Emergency &nbsp;&nbsp; The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX19zeWhPWmxtVzQwLXNRRENpRFA3UU1pRFRfRWlGazRlLXdwUURfYVAzMml1Q1NQOTcxZ2FRR0J4MUNoYS1HcWoxXzdad1VEcVZZdXRNdDg2UkJHdzFVNnJMdXd5eV9jVlRPbnB2QTNKR1AxWXlrRXBqSVpaanFYM01NbElhWHA2bjcyVTVCWDU5c2dwSzA0ZDY3dWQxYmZTbW5fVzhkTHgwVm1YR2c0WllPUWVmbHpDWm5nRU5xbzRZZ1hyWFpoVTRfbXJCdHZ0dWhkNTJIWXJOc1ZhSUg4YVRMZ9IB6AFBVV95cUxPQkdjcDZMdmQzcjk0eGpFX0tZTVNPZnllN29HRTQzRlloRXNUMlRqS1lUeG1CeUNjWlFFS1BnT3J1eFV4UGg0SzYyMFkzVjNDSnl6dVlUVHdyRXNSVUhjNmtsZkZiSGUxU1Y5OXU3S2x1RWxnN3RFZ2p0NkJkUTMxek8xbFVDb3FCWG9xUGNEX1ZhbUtVWUIyemZYRjN4eHFoRmNmajlOeF9pazVXcF9ST2Q2bmhGSjZ6UVQ2T1lhYlpJSU43M21seFZpZkdLSFpSaDVpRS1yX2R5NUZLSkhacnpfMkhIa0lG?oc=5",
-      "source": "The Times of India",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-24T20:30:00.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 80,
-      "id": "99cb5a70a1ae"
     },
     {
       "title": "Trump’s Israel condition on Saudi nuclear deal",
@@ -263,47 +354,34 @@
       "publishedAt": "2026-07-24T18:11:26.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
+      "score": 78,
       "id": "cbd07ea0f256"
     },
     {
-      "title": "Trump pays respects to 4 US service members killed in the Middle East",
-      "summary": "Trump pays respects to 4 US service members killed in the Middle East &nbsp;&nbsp; Scripps News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHRWZGs1dlFMZEE1d1Y5Z284YlZkanBObXFwMWx3LUJ1SzBIQlhuZXpWdDQ4bko2QlhncmdxNlM3TDZYaXdRb215eTJHd2VVa3UzR1A4dFlvcG9IZV85bk0zTHIwZVhSUENzdmlxSHFnX2xTZ2IwUkVOQWc4NmJSSHJtWWNNLWxVUmJZbmk5aDdTMERUQkRrU0RUWUc5SHNTODh5UHJYNW52TV85RGxudXJod2w?oc=5",
-      "source": "Scripps News",
-      "feed": "Middle East News Network",
+      "title": "Trump threatens a major escalation in Iran after 13 straight nights of strikes",
+      "summary": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"",
+      "url": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
+      "source": "NPR World",
+      "feed": "NPR World",
       "region": "中东",
-      "publishedAt": "2026-07-24T17:43:29.000Z",
+      "publishedAt": "2026-07-24T11:30:08.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 80,
-      "id": "dc6f9046cf6b"
+      "topic": "政治",
+      "score": 78,
+      "id": "abc84e763561"
     },
     {
-      "title": "US small businesses challenge Trump’s new ‘forced labor’ tariffs",
-      "summary": "In lawsuit on Friday, two small businesses said latest round of tariffs on 60 countries needs to be legally justified.",
-      "url": "https://www.aljazeera.com/economy/2026/7/24/us-small-businesses-challenge-trumps-new-forced-labor-tariffs?traffic_source=rss",
+      "title": "UNESCO places occupied West Bank, Lebanon sites on endangered heritage list",
+      "summary": "Sebastia in the occupied West Bank and five Lebanese castles get emergency listing despite Israeli objections.",
+      "url": "https://www.aljazeera.com/news/2026/7/24/unesco-places-occupied-west-bank-lebanon-sites-on-endangered-heritage-list?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-24T20:49:17.000Z",
+      "region": "中东",
+      "publishedAt": "2026-07-24T20:51:13.000Z",
       "image": "",
       "topic": "经济",
-      "score": 79,
-      "id": "3c22db53b659"
-    },
-    {
-      "title": "Two US small businesses sue Trump administration over fresh round of tariffs – US politics live",
-      "summary": "Businesses say legislation used to implement the tariffs is ‘arbitrary and capricious’ as Trump claims tariffs target countries engaging in forced labor What to know about Trump’s new tariffs on more than 80 countries Sign up for the US Breaking News email Represenatives Ilhan Omar and Pramila Jayapal, will visit the Whipple Federal Building in Minneapolis t",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/24/donald-trump-tariffs-white-house-correspondents-dinner-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-24T20:43:20.000Z",
-      "image": "https://i.guim.co.uk/img/media/47e51eeba458b971b899863bfdb5d3534a2e2ff8/168_0_4342_3472/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=6a709d748c768a5a4abb559fb1a727f6",
-      "topic": "经济",
-      "score": 79,
-      "id": "0e55dd1d9475"
+      "score": 77,
+      "id": "13f22e75d344"
     },
     {
       "title": "Israeli settlers escalate attacks on Palestinians near Nablus",
@@ -315,8 +393,21 @@
       "publishedAt": "2026-07-24T20:40:27.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 77,
       "id": "05397ac1f3f6"
+    },
+    {
+      "title": "Europe's Wildfire Crisis Deepens As Spain Declares National Emergency",
+      "summary": "Europe's Wildfire Crisis Deepens As Spain Declares National Emergency &nbsp;&nbsp; The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX19zeWhPWmxtVzQwLXNRRENpRFA3UU1pRFRfRWlGazRlLXdwUURfYVAzMml1Q1NQOTcxZ2FRR0J4MUNoYS1HcWoxXzdad1VEcVZZdXRNdDg2UkJHdzFVNnJMdXd5eV9jVlRPbnB2QTNKR1AxWXlrRXBqSVpaanFYM01NbElhWHA2bjcyVTVCWDU5c2dwSzA0ZDY3dWQxYmZTbW5fVzhkTHgwVm1YR2c0WllPUWVmbHpDWm5nRU5xbzRZZ1hyWFpoVTRfbXJCdHZ0dWhkNTJIWXJOc1ZhSUg4YVRMZ9IB6AFBVV95cUxPQkdjcDZMdmQzcjk0eGpFX0tZTVNPZnllN29HRTQzRlloRXNUMlRqS1lUeG1CeUNjWlFFS1BnT3J1eFV4UGg0SzYyMFkzVjNDSnl6dVlUVHdyRXNSVUhjNmtsZkZiSGUxU1Y5OXU3S2x1RWxnN3RFZ2p0NkJkUTMxek8xbFVDb3FCWG9xUGNEX1ZhbUtVWUIyemZYRjN4eHFoRmNmajlOeF9pazVXcF9ST2Q2bmhGSjZ6UVQ2T1lhYlpJSU43M21seFZpZkdLSFpSaDVpRS1yX2R5NUZLSkhacnpfMkhIa0lG?oc=5",
+      "source": "The Times of India",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-24T20:30:00.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 77,
+      "id": "99cb5a70a1ae"
     },
     {
       "title": "Trump vows to investigate EU over fining of US tech companies",
@@ -328,7 +419,7 @@
       "publishedAt": "2026-07-24T20:23:58.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "b62eef5f0b0c"
     },
     {
@@ -341,7 +432,7 @@
       "publishedAt": "2026-07-24T20:22:04.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "2d1a8d28fe73"
     },
     {
@@ -354,21 +445,21 @@
       "publishedAt": "2026-07-24T20:18:03.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "0b0dfbb971f7"
     },
     {
-      "title": "Wildfire survivors tell of narrow escape as Spain declares emergency",
-      "summary": "More than 10,000 people have been forced to evacuate as firefighters struggle to contain wildfires in central Spain.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/wildfire-survivors-tell-of-narrow-escape-as-spain-declares-emergency?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-07-24T20:03:04.000Z",
+      "title": "Trump pays respects to 4 US service members killed in the Middle East",
+      "summary": "Trump pays respects to 4 US service members killed in the Middle East &nbsp;&nbsp; Scripps News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHRWZGs1dlFMZEE1d1Y5Z284YlZkanBObXFwMWx3LUJ1SzBIQlhuZXpWdDQ4bko2QlhncmdxNlM3TDZYaXdRb215eTJHd2VVa3UzR1A4dFlvcG9IZV85bk0zTHIwZVhSUENzdmlxSHFnX2xTZ2IwUkVOQWc4NmJSSHJtWWNNLWxVUmJZbmk5aDdTMERUQkRrU0RUWUc5SHNTODh5UHJYNW52TV85RGxudXJod2w?oc=5",
+      "source": "Scripps News",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-24T17:43:29.000Z",
       "image": "",
-      "topic": "气候",
-      "score": 79,
-      "id": "c97a2aaf7a7f"
+      "topic": "社会",
+      "score": 77,
+      "id": "dc6f9046cf6b"
     },
     {
       "title": "Israel planning ‘extensive’ military operation in West Bank after settler attack",
@@ -380,7 +471,7 @@
       "publishedAt": "2026-07-24T16:54:02.000Z",
       "image": "https://i.guim.co.uk/img/media/5e0ee810c42016b02c4122145a9337833a4af49b/306_0_3059_2447/master/3059.jpg?width=140&quality=85&auto=format&fit=max&s=33eafc43277c2fdcab74f89a61da2e0d",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "5934f513e5e4"
     },
     {
@@ -393,7 +484,7 @@
       "publishedAt": "2026-07-24T16:52:21.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "e52be11b1f6c"
     },
     {
@@ -406,47 +497,34 @@
       "publishedAt": "2026-07-24T14:14:22.000Z",
       "image": "https://i.guim.co.uk/img/media/a3e627e513d2b92e49d9c622070c7902de5b5337/563_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=a260dceabce3c1f4de416ebc70ea29ca",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "244876103985"
     },
     {
-      "title": "Democrats move to keep South Carolina as first state to vote in 2028 presidential primaries",
-      "summary": "DNC move aims to better represent views of party’s racially diverse voter base ahead of next presidential cycle Democrats moved to keep South Carolina as the first state to vote in their party’s 2028 presidential primary process, while moving up several other states, in an effort to better represent the views of the party’s racially diverse voter base. At a ",
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/democrats-south-carolina-2028-presidential-primaries",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-24T19:51:41.000Z",
-      "image": "https://i.guim.co.uk/img/media/41a2f0cfc43cca4c8de78d796e8d3730dd97f92a/479_0_4790_3832/master/4790.jpg?width=140&quality=85&auto=format&fit=max&s=51b7d53b4ebd369a7960b9d9c36e9567",
-      "topic": "政治",
-      "score": 78,
-      "id": "0aa7d035cc89"
-    },
-    {
-      "title": "US issues Middle East travel alert - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "US issues Middle East travel alert - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Rd29tcVEzUmt3OWROcDdJWllZbUl0ZnFWS2I0ME1ldFJYUm56NFVuek8zZ2lhNHVIYl9MOGY1aEpUZ3VjUDZDVnJZQ2ZVMy14eDcxWTRTTG1uVmhXa29samliaTdYUlo1aUpBUFZZeTczbEtraFpV?oc=5",
-      "source": "شفق نيوز",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-24T19:35:36.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 78,
-      "id": "3821c345896e"
-    },
-    {
-      "title": "Car bomb attack kills 27 in northwest Pakistan",
-      "summary": "The Pakistani Taliban said four suicide bombers carried out the assault in the country's northwest.",
-      "url": "https://www.aljazeera.com/news/2026/7/24/car-bomb-attack-kills-27-in-northwest-pakistan?traffic_source=rss",
+      "title": "Wildfire survivors tell of narrow escape as Spain declares emergency",
+      "summary": "More than 10,000 people have been forced to evacuate as firefighters struggle to contain wildfires in central Spain.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/wildfire-survivors-tell-of-narrow-escape-as-spain-declares-emergency?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-07-24T19:16:18.000Z",
+      "region": "欧洲",
+      "publishedAt": "2026-07-24T20:03:04.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 76,
+      "id": "c97a2aaf7a7f"
+    },
+    {
+      "title": "Fires in Europe: latest developments",
+      "summary": "Fires in Europe: latest developments &nbsp;&nbsp; News.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQUVTRDFDWmdETUpMTFpuVnJ0SXZHUnI4RE9sSXJpdlhyT1AtYTJqazdaMlM3Q0g5dFkxejlISmMzR2FmOXRST1NLTXNQZWlYVjBSNmFKZlEwUzJQaWktdWxoZlhTOFc1OW90YU5QZnNXbGNoMi1JeTRfVlQtWGdtREJKUk5vWGhVT2JNM0gzdTdEcFNpQ2dTQ3RpcHRWSzVyV0k2WGhpOVA5bWN2bFVnWTBtZzN2eGRH0gG-AUFVX3lxTE1maWFOSExiTUdyNVloTGtmSThpWHJ0TThFc3RsajhudG5fWng1blQ5dDU0N0lrbFBDamlEWnhzZDlqbTZJSTJHMHRJaXFDTkxjNmY0LXpkVTlyS2VnOVVqaU5fRV9EREtmUDNmdDJvNVdtc2ltSHlWY1BWVHQtVWNHYjJVRUhXWTRLXzRQSEU2b2dSNGc1bmxpQWtMRXRkVzhPUGVldG1jOXJJZlNrZmtTNG5kS3ktWnhYRElQbXc?oc=5",
+      "source": "News.com.au",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-24T17:03:04.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
-      "id": "e090ece947ea"
+      "score": 76,
+      "id": "f88f00c4d8f4"
     },
     {
       "title": "World chess chief faces endgame after EU announces Russia war sanctions",
@@ -458,86 +536,112 @@
       "publishedAt": "2026-07-24T16:08:51.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e61e/live/c260d230-8773-11f1-b430-afa19a42b819.jpg",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "c62f7963cce4"
     },
     {
-      "title": "Updates: Israeli settlers attack West Bank, shooting leaves six dead",
-      "summary": "Four Palestinians and two Israelis killed after about 20 settlers raid the village of Tal in occupied West Bank.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/24/live-israeli-settlers-attack-west-banks-nablus-shooting-leaves-six-dead?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-24T16:04:17.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 78,
-      "id": "43f680f8b4af"
-    },
-    {
-      "title": "Right-wing populist politics is 'extremely anti-women', warns Anna Funder",
-      "summary": "The award-winning author, who burst onto the literary scene with her debut, Stasiland, in 2003, discusses writing, AI and the rise of fascism.",
-      "url": "https://www.abc.net.au/news/2026-07-25/anna-funder-interview-books-stasiland-wifedom/106918372",
+      "title": "Dog trainer says ABC's Muster Dogs is driving demand for working dogs",
+      "summary": "Gary White travels the world teaching people how to get the most out of their working dog. Lately, he's seen strong demand for working dogs, in part thanks to ABC's hit series Muster Dogs.",
+      "url": "https://www.abc.net.au/news/2026-07-25/working-dogs-surge-in-popularity-mustering-livestock-muster-dogs/106953022",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "大洋洲",
-      "publishedAt": "2026-07-24T18:46:09.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/c8305d2c882fb4baa85c82c09e1cd332?impolicy=wcms_crop_resize&cropH=1105&cropW=1965&xPos=530&yPos=189&width=862&height=485",
-      "topic": "政治",
-      "score": 77,
-      "id": "5da013696a9a"
+      "publishedAt": "2026-07-24T22:50:57.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/46b65d96afb8fe235a04873a87bbd800?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "6f7226ac9bba"
     },
     {
-      "title": "Rowland voices caution as Labor backs VAD telehealth",
-      "summary": "A Labor push to lift the ban on accessing voluntary assisted dying through telehealth has triggered a warning about unintended consequences for vulnerable Australians.",
-      "url": "https://www.abc.net.au/news/2026-07-25/voluntary-assisted-dying-via-telehealth-endorsed-by-alp/106956766",
+      "title": "Fishers flag tourism potential for '12 species in a day' marine park",
+      "summary": "It's already a paradise for fishers in the know from across Australia, but locals say the remote Limmen Bight Marine Park has vast, untapped potential as a tourism hot spot.",
+      "url": "https://www.abc.net.au/news/2026-07-25/limmen-bight-marine-park-tourism-recreational-commercial-fishing/106940756",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "大洋洲",
-      "publishedAt": "2026-07-24T18:46:09.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/7dc49fef6769ac183ddd32debc287fc2?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=0&width=862&height=485",
-      "topic": "政治",
-      "score": 77,
-      "id": "c29426c220a2"
+      "publishedAt": "2026-07-24T22:48:04.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ddb960c7de3092f9a7405c53e98f65ae?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "8bce977b2866"
     },
     {
-      "title": "India's 'unserious' gen Z protesting with grit and humour",
-      "summary": "Across the country's protest hotspots, India's gen Z are using meme culture as part of their hopes to bring the country into a new dawn.",
-      "url": "https://www.abc.net.au/news/2026-07-25/india-gen-z-neet-government-protests-mumbai-delhi/106945216",
+      "title": "Quick hits: Aussie's dash to glory, Englishman drops his lollies",
+      "summary": "A broken lane rope holds up the swimming, an Australian wins gold after a mad dash from the medal podium, and an Englishman drops his lollies. Here are the quick hits from day one of the Commonwealth Games.",
+      "url": "https://www.abc.net.au/news/2026-07-25/commonwealth-games-glasgow-day-one-quick-hits/106953018",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-24T22:46:38.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/179962d5ced9bd6f6eb6e41e779dcc1a?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "f8dc1c7e4854"
+    },
+    {
+      "title": "Will Hobart ever see snow as it did 40 years ago?",
+      "summary": "Forty years ago today, the heaviest winter snow in 65 years descended on Hobart, and while snow does make an appearance around the city these days, waking up to a winter playground in the backyard is far less likely, say experts.",
+      "url": "https://www.abc.net.au/news/2026-07-25/40th-anniversary-of-hobart-1986-snow-to-sea-level/106953316",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-24T22:29:28.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/be10b7213a10fd4de59de0dd4eccd9fd?impolicy=wcms_crop_resize&cropH=405&cropW=720&xPos=0&yPos=111&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "5f3054589271"
+    },
+    {
+      "title": "Langbroek under pressure over appointments to Qld Cultural Centre boards",
+      "summary": "Queensland's Arts Minister John-Paul Langbroek is facing questions over a series of political appointments to the state's Cultural Centre boards, as the Crisafulli government comes under pressure over \"jobs-for-mates\" assignments.",
+      "url": "https://www.abc.net.au/news/2026-07-25/john-paul-langbroek-qld-cultural-centre-board-appointments/106947714",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-24T22:25:27.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d08da52c6fa50c87245250af4feda0fa?impolicy=wcms_crop_resize&cropH=3942&cropW=7008&xPos=0&yPos=0&width=862&height=485",
+      "topic": "政治",
+      "score": 75,
+      "id": "8033389963c4"
+    },
+    {
+      "title": "Mynas were introduced to control pest insects. Now they are the pest",
+      "summary": "The Indian, or common, myna was introduced to Australia in the 1860's to tackle insect pests. Now it's become the pest, leaving Canberra with a species everyone agrees is unwelcome but no-one is sure exactly how to get rid of.",
+      "url": "https://www.abc.net.au/news/2026-07-25/indian-mynas-introduced-control-pest-insects-now-the-pest/106954824",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "亚洲",
-      "publishedAt": "2026-07-24T18:46:09.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/25ebfdb31986c245c76726ddc28ff818?impolicy=wcms_crop_resize&cropH=608&cropW=1080&xPos=0&yPos=222&width=862&height=485",
-      "topic": "政治",
-      "score": 77,
-      "id": "7bb94c289a15"
-    },
-    {
-      "title": "US school shooter pleads guilty in Georgia following father’s conviction",
-      "summary": "Colt Gray pleads guilty to killing two students and two teachers in 2024 attack, which upped scrutiny of parental role.",
-      "url": "https://www.aljazeera.com/news/2026/7/24/us-school-shooter-pleads-guilty-in-georgia-following-fathers-conviction?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-24T18:31:22.000Z",
-      "image": "",
+      "publishedAt": "2026-07-24T22:11:21.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/dff36eb057c69c1ef507100c6557ebc4?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=197&width=862&height=485",
       "topic": "社会",
-      "score": 77,
-      "id": "6664345a01da"
+      "score": 75,
+      "id": "0435a8f93020"
     },
     {
-      "title": "Farmers kept planting as the war raged and now they are paying for it",
-      "summary": "North Queensland farmers urge consumers to eat more vegetables as rising costs and low demand create a \"perfect storm\".",
-      "url": "https://www.abc.net.au/news/2026-07-25/consumers-help-out-farmers-vegetable-prices/106953040",
+      "title": "Fifteen minutes after celebrating bronze, Jenna Forrester stunned herself with gold",
+      "summary": "Jenna Forrester isn't the biggest star on the Dolphins team and wasn't even supposed to be racing the 200m backstroke, but now she's a gold medallist for the first time.",
+      "url": "https://www.abc.net.au/news/2026-07-25/jenna-forrester-surprise-200m-backstroke-gold-medal/106957656",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "大洋洲",
-      "publishedAt": "2026-07-24T18:30:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/a31a11b6ba67e693d709979e26b2712a?impolicy=wcms_crop_resize&cropH=3375&cropW=6000&xPos=0&yPos=313&width=862&height=485",
-      "topic": "政治",
-      "score": 77,
-      "id": "58ef6719ba41"
+      "publishedAt": "2026-07-24T22:10:39.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7064b555efffc81f5efb127f2a4f24ef?impolicy=wcms_crop_resize&cropH=2504&cropW=4452&xPos=0&yPos=195&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "7ae3fe880f02"
+    },
+    {
+      "title": "Car bomb attack kills 27 in northwest Pakistan",
+      "summary": "The Pakistani Taliban said four suicide bombers carried out the assault in the country's northwest.",
+      "url": "https://www.aljazeera.com/news/2026/7/24/car-bomb-attack-kills-27-in-northwest-pakistan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-07-24T19:16:18.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "e090ece947ea"
     },
     {
       "title": "Nigeria's president approves largest military expansion in recent times",
@@ -549,8 +653,60 @@
       "publishedAt": "2026-07-24T15:22:56.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf4/live/f2b56070-875c-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "政治",
-      "score": 77,
+      "score": 75,
       "id": "27ff0def0ae9"
+    },
+    {
+      "title": "Thousands flee wildfires in France, Spain",
+      "summary": "Thousands flee wildfires in France, Spain &nbsp;&nbsp; The Weekly Times",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY0cwY0hXNEFvaDI2clh1VkRzY09fRkFYTC1tY0VhTU9Xbmw0T3prMGZOeDF2cG1xamUxeEdiUTBKVHUwR0lQYnFIdUhVZXh1S2dCZnY4TnBmWHFUSVpBbGlqY1hZbkpmNmRhVzJHQWxReFppSDl0d3BuWWRYanUyeGpGVHdqSUx4dkxSdENFX1BaakRFMzByUkwyXzFLYUJJVFE4YS1UY2VoOGVaZWxERXlIS0VQX1FBZVhobEtOZHo4ZzVtQ2VobUprSjNUQnBsYldZbm16ONIB3AFBVV95cUxNMFB1YjE1M09Xbzg3cXhqRFpmY1p0UDhoQUNYZllDZFVaZFZ5OXlXNGtnWngyRFZvMFNTVG4tT1Q0ZjNSX2RwT3VMUU5uOVgwUVlERzhsT2ZlLXMxT0VMb0phM0ZJdXg0cjY3aTF6THp1c0IwclRNbXpMQ1FrUTNnaHk1U0JUYTRSNzkyQmlwZDhKMlFqQy1SdGtvSV9oQXR2UWo1Z2N5WWlyaVJZdFEtMXNOMHJGNlp4bW9RQk5xQVNqR0ZRRnFPRTRvSEloWE5pSWc1TlR1Q2h5MDlI?oc=5",
+      "source": "The Weekly Times",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-24T13:07:30.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 75,
+      "id": "f16cddeedd6c"
+    },
+    {
+      "title": "Pogačar claims stunning victory in stage 19 of the Tour de France",
+      "summary": "Tadej Pogačar claims one of his most spectacular stages yet at the Tour de France, as history beckons for the cycling champion.",
+      "url": "https://www.abc.net.au/news/2026-07-25/tour-de-france-stage-19-tadej-pogacar-wins-in-stunning-surge/106957688",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "欧洲",
+      "publishedAt": "2026-07-24T21:50:14.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/5bedfeb64b71bd9a06d4d628410402b3?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=415&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "8fa7d44e435d"
+    },
+    {
+      "title": "Man dead, police officer shot in domestic violence callout",
+      "summary": "Police were responding to a domestic violence incident west of Maryborough when a man allegedly opened fire on Friday night.",
+      "url": "https://www.abc.net.au/news/2026-07-25/man-dead-police-officer-stable-yengarie-shooting/106957692",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-24T21:38:31.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f20ec79e928822798ea0223e55ad41a3?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "2d4c1235484b"
+    },
+    {
+      "title": "China, Philippine coastguard vessels clash in South China Sea",
+      "summary": "China, Philippine coastguard vessels clash in South China Sea.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/china-philippine-coastguard-vessels-clash-in-south-china-sea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-07-24T21:29:10.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "8817d26883e3"
     },
     {
       "title": "NT government opens door to AI industry powered by Beetaloo gas",
@@ -562,7 +718,7 @@
       "publishedAt": "2026-07-24T21:25:33.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/94ea68dbea7cc7fe739a2ba078ebbed6?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=56&width=862&height=485",
       "topic": "政治",
-      "score": 76,
+      "score": 74,
       "id": "a3d321b20564"
     },
     {
@@ -575,21 +731,21 @@
       "publishedAt": "2026-07-24T21:19:49.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "695c20e5059f"
     },
     {
-      "title": "The key figures in ICAC investigation that could change NSW Liberals forever",
-      "summary": "Eight weeks of public hearings by the corruption watchdog that could change the NSW Liberal Party forever begin on Monday. These are some of the key players embroiled in the donations investigation.",
-      "url": "https://www.abc.net.au/news/2026-07-25/nsw-key-figures-icac-investigation-liberals-jean-nassif/106951590",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-24T21:16:55.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/bbc4245b230ed57b674b0069a058a182?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-      "topic": "经济",
-      "score": 76,
-      "id": "16b16e0b5d31"
+      "title": "US school shooter pleads guilty in Georgia following father’s conviction",
+      "summary": "Colt Gray pleads guilty to killing two students and two teachers in 2024 attack, which upped scrutiny of parental role.",
+      "url": "https://www.aljazeera.com/news/2026/7/24/us-school-shooter-pleads-guilty-in-georgia-following-fathers-conviction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-24T18:31:22.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "6664345a01da"
     },
     {
       "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
@@ -601,8 +757,21 @@
       "publishedAt": "2026-07-24T17:58:00.000Z",
       "image": "https://i.guim.co.uk/img/media/014b05cd5737a7ab16e4d93a384d2f9f1adfe670/443_0_2520_2016/master/2520.jpg?width=140&quality=85&auto=format&fit=max&s=691865dbf7a2bae6f49145ae1bafe4de",
       "topic": "政治",
-      "score": 76,
+      "score": 74,
       "id": "06ee51d4f934"
+    },
+    {
+      "title": "A who's who of those at the centre of the ICAC's latest explosive probe",
+      "summary": "Eight weeks of public hearings by the corruption watchdog that could change the NSW Liberal Party forever begin on Monday. These are some of the key players embroiled in the donations investigation.",
+      "url": "https://www.abc.net.au/news/2026-07-25/nsw-key-figures-icac-investigation-liberals-jean-nassif/106951590",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-24T21:16:55.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/bbc4245b230ed57b674b0069a058a182?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "topic": "经济",
+      "score": 73,
+      "id": "b9a9f9e6c00f"
     },
     {
       "title": "'Game-changer': Tracking collars help monitor vulnerable koala populations",
@@ -614,7 +783,7 @@
       "publishedAt": "2026-07-24T21:05:42.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/fe530990259b62fc4f0141ff97209418?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485",
       "topic": "科技",
-      "score": 75,
+      "score": 73,
       "id": "9087efcaafe7"
     },
     {
@@ -627,7 +796,7 @@
       "publishedAt": "2026-07-24T21:02:30.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efb3/live/29a66180-63bb-11f1-8e1d-bbbb1017d210.jpg",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "b4d14d992906"
     },
     {
@@ -640,7 +809,7 @@
       "publishedAt": "2026-07-24T20:57:20.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7e42b024706960cd8a087c5bfcd45545?impolicy=wcms_crop_resize&cropH=1125&cropW=2000&xPos=0&yPos=104&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "1de987c6816e"
     },
     {
@@ -653,7 +822,7 @@
       "publishedAt": "2026-07-24T20:51:52.000Z",
       "image": "",
       "topic": "气候",
-      "score": 75,
+      "score": 73,
       "id": "4ddac206fa61"
     },
     {
@@ -666,21 +835,21 @@
       "publishedAt": "2026-07-24T20:51:21.000Z",
       "image": "https://i.guim.co.uk/img/media/89f19d077c4b55556c8a0efc0c31a944c2dcf4df/416_0_3402_2723/master/3402.jpg?width=140&quality=85&auto=format&fit=max&s=c6fe3cd8a53194e0ac8b6751c822967a",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "d08a9e76a39e"
     },
     {
-      "title": "How Hani harnessed mum and mana to go 'balls out' for bronze",
-      "summary": "Hani Watson wins Australia's first medal outside the pool at Glasgow 2026, with a lift powered by her late parents and a pursuit of pure greatness.",
-      "url": "https://www.abc.net.au/news/2026-07-25/hani-watson-wins-commonwealth-games-para-powerlifting-bronze/106957608",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-24T20:47:36.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d4321e497151016cbf43017baa8f2888?impolicy=wcms_crop_resize&cropH=2218&cropW=3943&xPos=0&yPos=125&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "a645208a7a60"
+      "title": "US small businesses challenge Trump’s new forced labour tariffs",
+      "summary": "In lawsuit on Friday, two small businesses said latest round of tariffs on 60 countries needs to be legally justified.",
+      "url": "https://www.aljazeera.com/economy/2026/7/24/us-small-businesses-challenge-trumps-new-forced-labor-tariffs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-24T20:49:17.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 73,
+      "id": "c3db96437763"
     },
     {
       "title": "Venezuela to exit International Criminal Court, accusing it of ‘bias’",
@@ -692,21 +861,8 @@
       "publishedAt": "2026-07-24T20:32:12.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "4c75a00fcce2"
-    },
-    {
-      "title": "ICC member nations vote to remove chief prosecutor",
-      "summary": "Member nations voted to remove chief prosecutor Karim Khan on Friday and the Trump administration is vowing to do whatever it can to dismantle the court.",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5901054/icc-member-nations-vote-to-remove-chief-prosecutor",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "美洲",
-      "publishedAt": "2026-07-24T20:25:58.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "c971c32d0daa"
     },
     {
       "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
@@ -718,7 +874,7 @@
       "publishedAt": "2026-07-24T17:36:16.000Z",
       "image": "",
       "topic": "经济",
-      "score": 75,
+      "score": 73,
       "id": "d58cd47984d0"
     },
     {
@@ -731,21 +887,8 @@
       "publishedAt": "2026-07-24T17:12:59.000Z",
       "image": "https://i.guim.co.uk/img/media/fbe1f883cd6109d27bbef9a10298ce5ef5daa3e4/512_0_5002_4000/master/5002.jpg?width=140&quality=85&auto=format&fit=max&s=06ef14a3aa09a8f21eb52b1347ac9197",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "d3506a3ebc49"
-    },
-    {
-      "title": "Romanian jet fighter shoots down suspected Russian drone",
-      "summary": "The incident adds to concern that Moscow’s war on Ukraine risks spilling over to entangle neighbouring NATO states.",
-      "url": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-07-24T16:53:55.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "615b511cffea"
     },
     {
       "title": "Doctor details condition of Celeste Rivas Hernandez’s body in D4vd hearing",
@@ -757,34 +900,21 @@
       "publishedAt": "2026-07-24T20:10:26.000Z",
       "image": "https://i.guim.co.uk/img/media/8004fd66f49d66e61976871a8e9b9d2287f3e2df/542_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=262bf36ac29789cd758dd058752b8c88",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "bc4c4d886bca"
     },
     {
-      "title": "Four regional RSLs merge to keep veterans' services going",
-      "summary": "While RSLs across Victoria grapple with declining numbers and increased administration, sub-branches in Sunraysia are forging their own path.",
-      "url": "https://www.abc.net.au/news/2026-07-25/rsl-services-war-veterans-sunraysia-merge-volunteers-mildura/106943290",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-24T20:00:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/44b615369401611a63858a7c7238f5b9?impolicy=wcms_crop_resize&cropH=2647&cropW=4706&xPos=190&yPos=373&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "ce9e4587f44e"
-    },
-    {
-      "title": "Guerilla garden removed from Sydney intersection dubbed 'triangle of shame'",
-      "summary": "A community group wanted to spark a conversation about greening a concrete strip but drew the ire of transport authorities.",
-      "url": "https://www.abc.net.au/news/2026-07-25/guerilla-garden-removed-from-newtown-intersection/106952836",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-24T19:45:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d8bfe920d96702cc692f48533d8b9fb5?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=756&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "c7f3a87efea2"
+      "title": "Romanian jet fighter shoots down suspected Russian drone",
+      "summary": "The incident adds to concern that Moscow’s war on Ukraine risks spilling over to entangle neighbouring NATO states.",
+      "url": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-07-24T16:53:55.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 72,
+      "id": "615b511cffea"
     },
     {
       "title": "India cockroach protests: Videos show officers firing 'pellet guns'",
@@ -796,73 +926,8 @@
       "publishedAt": "2026-07-24T16:12:34.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb3/live/32fbb250-8777-11f1-a7ab-8b30adf0800a.png",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "b5a6f2aa3043"
-    },
-    {
-      "title": "Brewery uses solar bitcoin rig to make beer and cover power bills",
-      "summary": "A brewery is using a bitcoin mine to heat the water used in beer production as a way to use up surplus energy generated by rooftop solar panels.",
-      "url": "https://www.abc.net.au/news/2026-07-25/bitcoin-mine-generates-heat-to-produce-beer/106831374",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-24T19:30:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/054e800172c6608fe05cd1f57169773d?impolicy=wcms_crop_resize&cropH=1041&cropW=1850&xPos=29&yPos=39&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "f4ba7b370bc2"
-    },
-    {
-      "title": "They drink our water and take our power, but do data centres create jobs?",
-      "summary": "Data centres are in development across Australia, but how many jobs will these big, thirsty facilities actually support?",
-      "url": "https://www.abc.net.au/news/2026-07-25/how-many-jobs-do-ai-data-centres-actually-create/106934790",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-24T19:06:51.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/8c3c73bb9db4bdfc2839243c85106564?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=261&width=862&height=485",
-      "topic": "经济",
-      "score": 73,
-      "id": "2e83487236d4"
-    },
-    {
-      "title": "Australia's 'monoculture' might be at the Labor conference",
-      "summary": "For those who believe in the virtue of converting and wrangling political trade-offs into a unified, coherent set of messages, Labor's example is transcendent.",
-      "url": "https://www.abc.net.au/news/2026-07-25/labor-national-conference-tax-aukus-unions/106953348",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-24T19:00:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/179802d7d35d5f71a4d64ab21ed797cd?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=0&width=862&height=485",
-      "topic": "经济",
-      "score": 73,
-      "id": "b75d386586ed"
-    },
-    {
-      "title": "Japan's popular princess sparks calls to ditch male-only succession law",
-      "summary": "There are only three people in line to inherit Japan's Chrysanthemum Throne, and one of them is 90 years old. All three of them are men.",
-      "url": "https://www.abc.net.au/news/2026-07-25/japan-royal-family-emperor-succession-rule-still-skips-women/106951060",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "亚洲",
-      "publishedAt": "2026-07-24T18:46:09.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/b76594dff7e251ffa6aa0e9e1e142534?impolicy=wcms_crop_resize&cropH=2157&cropW=3834&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "98b56ae5467f"
-    },
-    {
-      "title": "Existing care workers could be exempt from UK’s tough new immigration rules",
-      "summary": "Exclusive: Andy Burnham thought to be considering waiving stricter right to remain rules for people already working in the sector Hundreds of thousands of care workers could be exempted from the home secretary’s plans to toughen up the immigration system under proposals being considered by Andy Burnham as he looks for ways to relieve pressure on the social c",
-      "url": "https://www.theguardian.com/society/2026/jul/24/care-workers-exempt-uk-new-immigration-rules",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-24T18:43:41.000Z",
-      "image": "https://i.guim.co.uk/img/media/5a8029c7a2a1178ec141b9853256eb2b2077c725/194_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=88a0f24e0c9bc2effb0de5e910f19fec",
-      "topic": "社会",
-      "score": 73,
-      "id": "3047926a32f4"
     },
     {
       "title": "A Month After Venezuela's Twin Earthquakes, More Than 21,000 People Are Still Living as Refugees While Families Search the Rubble",
@@ -874,73 +939,8 @@
       "publishedAt": "2026-07-24T15:53:18.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "6f3f55cb22b1"
-    },
-    {
-      "title": "Thousands flee wildfires in France, Spain",
-      "summary": "Thousands flee wildfires in France, Spain &nbsp;&nbsp; The Daily Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNUJFcjBkZldVWXQxd25fenJtUGRSZGxIS1h1RGgyN25HNG1kV2taQXVRbi0yYlhKeERhaGFfdTF0aFNJTk5rRjVjQ2FkTDIyOFZpVTM3aXZRNmFBZjhmN2QtUzlKbmJfY1pkTzI2YXQwaU5Nd1hpSUpGbkNmY2U0T1pqMjB5UmpQSlZpVFl1U0FjSElSTThhS2RmNEh0RS1QQVctSThrc2tKTDBscWlUcTNYeV9PTnZsRExnUTZxNUdyeDZsSmdnLXRCeW00N3RVTllrV2Nuc9IB3AFBVV95cUxNdFM3RHZ6WlNVbXNoOVY2Q180SE5BU2FuQVlRNUFpTmU0RTdURUh5ZWMtNFRVV0c1SUk1WVJacmFnMjh4UEI5NVJVT1d5ckFRY3ZNRUxOUkk1Tk5zWlpYZDdmSGhlUktNNHJGU2pDT29pY1FPeWpfX2Qwa0FISWFqNXFmSGtEWnlCcVRoNWFfV3dtSkJKUHFhblpreTE4Z0F5X2dRQzVsVG81VFRMOF96VG5iZTg2NW9YQ1pPTHFUVDczVkpoZi1oWUgzZ1hJX25EQm9aVDAtMkE1Sm9x?oc=5",
-      "source": "The Daily Telegraph",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-24T09:20:39.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 73,
-      "id": "7130099d1984"
-    },
-    {
-      "title": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
-      "summary": "Indian activist Sonam Wangchuk ended a 26-day hunger strike on Friday that helped galvanize a youth movement that's become one of India's largest protests in recent years, but demonstrators vowed to continue until the education minister resigns.",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "亚洲",
-      "publishedAt": "2026-07-24T05:56:15.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "a919c0334288"
-    },
-    {
-      "title": "Karim Khan ousted as prosecutor of international criminal court",
-      "summary": "Member states vote to remove British barrister after allegations of sexual abuse The prosecutor of the international criminal court, Karim Khan, has been removed from office after the court’s governing body concluded in June that he had committed serious misconduct in connection to allegations of sexual abuse. The ICC’s member states voted on Friday to oust ",
-      "url": "https://www.theguardian.com/law/2026/jul/24/karim-khan-ousted-from-role-as-prosecutor-of-international-criminal-court",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-07-24T18:37:10.000Z",
-      "image": "https://i.guim.co.uk/img/media/282c40612f6c2e7d7fe28f28fffca6199d4a915a/1761_553_3739_2992/master/3739.jpg?width=140&quality=85&auto=format&fit=max&s=e79fd5358af54ea7c8174b3fc83c1a89",
-      "topic": "政治",
-      "score": 72,
-      "id": "bbee182c4856"
-    },
-    {
-      "title": "ABC 5050 quiz: Testing your knowledge of L7's biggest hit, the Odyssey and rainbows made of fog",
-      "summary": "Each question in the ABC 50/50 quiz has only two options: one is right, the other is wrong. But there's a catch.",
-      "url": "https://www.abc.net.au/news/2026-07-25/abc-5050-quiz-july-25/106935922",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-24T18:30:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/3bc09a5a04fe141a8c475815449c1cbd?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=261&width=862&height=485",
-      "topic": "社会",
-      "score": 72,
-      "id": "ad18296783a5"
-    },
-    {
-      "title": "Latest Trump Tariffs Anger Trading Partners",
-      "summary": "Latest Trump Tariffs Anger Trading Partners &nbsp;&nbsp; Newsmax",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVBNbUQxd0FKRWY1S2lreGRtN2VVSWxzR0JiU21FQ21JUlNvVkE5VGhQcDFLZ3F1cUZ3VGpJc1l4NnJ3eGZNRkkyVjhuZ2lTY3o3YldyVDZJaWx5OWZQWVczS3NUWXNtdWJKVzRhblhqR2lDeW9XOG1wTC1aY1YxOXB6dXUwS21ERmp4MWczZ2RHUENCRm9QSUJQQ3JTcFd2?oc=5",
-      "source": "Newsmax",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-24T18:12:03.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 72,
-      "id": "cd8b35f3ba41"
     }
   ]
 }
