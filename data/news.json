@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T19:37:18.044Z",
+  "updatedAt": "2026-07-25T21:11:27.461Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -16,7 +16,7 @@
       "publishedAt": "2026-07-25T17:13:40.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8783/live/30d9e7b0-880f-11f1-afbe-b9a38c21b1d6.jpg",
       "topic": "政治",
-      "score": 93,
+      "score": 91,
       "id": "5e30d041b66c"
     },
     {
@@ -27,9 +27,9 @@
       "feed": "ABC Australia",
       "region": "欧洲",
       "publishedAt": "2026-07-25T19:26:28.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d4fb65ed6f96de20d4dc583de1644a66?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2771c459f494cb3f52ab66a55f1a1b54?impolicy=wcms_crop_resize&cropH=1503&cropW=2672&xPos=0&yPos=137&width=862&height=485",
       "topic": "政治",
-      "score": 92,
+      "score": 90,
       "id": "737a4ae742de"
     },
     {
@@ -42,7 +42,7 @@
       "publishedAt": "2026-07-25T17:50:13.000Z",
       "image": "",
       "topic": "气候",
-      "score": 90,
+      "score": 88,
       "id": "c3629712d751"
     },
     {
@@ -55,8 +55,34 @@
       "publishedAt": "2026-07-25T13:54:33.000Z",
       "image": "https://i.guim.co.uk/img/media/e452065a79f3fccbd9748b75d237ea4e2ec1c845/1218_0_4282_3426/master/4282.jpg?width=140&quality=85&auto=format&fit=max&s=de8cfa2a6085067197eb3c214fff1ff4",
       "topic": "政治",
-      "score": 90,
+      "score": 88,
       "id": "a8e3ad5e3d21"
+    },
+    {
+      "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
+      "summary": "Four other Palestinians were also killed by Israeli air strikes, and a policeman died from wounds sustained last week.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-07-25T20:00:43.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 83,
+      "id": "f77b868dccea"
+    },
+    {
+      "title": "Mandarin and orange supply down in SA amid extreme weather",
+      "summary": "Shoppers may see fewer oranges and mandarins from South Australia's Riverland on their shelves amid record-breaking heatwaves and wetter, colder winter days.",
+      "url": "https://www.abc.net.au/news/2026-07-26/citrus-season-challenges-extreme-weather/106926716",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-25T19:45:02.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/fb6f1b0798db681d399b65041450a147?impolicy=wcms_crop_resize&cropH=3942&cropW=7008&xPos=0&yPos=365&width=862&height=485",
+      "topic": "气候",
+      "score": 83,
+      "id": "7e0dbeb3c19c"
     },
     {
       "title": "Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’",
@@ -68,7 +94,7 @@
       "publishedAt": "2026-07-25T18:28:09.000Z",
       "image": "",
       "topic": "气候",
-      "score": 83,
+      "score": 81,
       "id": "cf8693c3cdf7"
     },
     {
@@ -81,8 +107,34 @@
       "publishedAt": "2026-07-25T18:14:54.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 81,
       "id": "2fe700d121e0"
+    },
+    {
+      "title": "More Than 250,000 Evacuated in Europe as Wildfires Rage",
+      "summary": "More Than 250,000 Evacuated in Europe as Wildfires Rage &nbsp;&nbsp; NewsBreak: Local News & Alerts",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdk9VQkdTWXh5dk94RHFkYmRkbmFOSEFYOVEwTldvVzdjdmZzRjBGck5WQlZZNllFYjhfNEtlSmFDb1VqSmJXQXFaNV90OXJlYzcyTW9UZE1GS3RiLWVLWXBSZGdIaFNScFQ2NUtvVUVUbnI2ak5KR1c3S3g0RXZzZEYwMmhZczJ6bXJCUWd0MURFNm5SZE1zb0hBUHhYaWJBdFNPdk1qSTZvcVRoQjBKWg?oc=5",
+      "source": "NewsBreak: Local News & Alerts",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-25T15:38:11.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 81,
+      "id": "4996bfbbd3b6"
+    },
+    {
+      "title": "Couple told two modular homes on one block makes it an 'estate'",
+      "summary": "An Illawarra family that has spent two years trying to build another modular home on their property have been told the move would make it a \"manufactured housing estate\".",
+      "url": "https://www.abc.net.au/news/2026-07-26/modular-housing-dream-in-limbo/106912348",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-25T20:33:41.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f0b297043c34176975afdc3a5f6efd57?impolicy=wcms_crop_resize&cropH=2279&cropW=4052&xPos=472&yPos=534&width=862&height=485",
+      "topic": "政治",
+      "score": 80,
+      "id": "cc62d95ea887"
     },
     {
       "title": "India's 'cockroach' protest called off after education minister quits",
@@ -94,7 +146,7 @@
       "publishedAt": "2026-07-25T17:44:46.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba11/live/52ef7480-884d-11f1-a7ab-8b30adf0800a.jpg",
       "topic": "政治",
-      "score": 82,
+      "score": 80,
       "id": "7bf6b640c62a"
     },
     {
@@ -107,7 +159,7 @@
       "publishedAt": "2026-07-25T19:27:32.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/690622657550a63ebf69d77f98fea633?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 80,
+      "score": 78,
       "id": "4f8387484a07"
     },
     {
@@ -120,7 +172,7 @@
       "publishedAt": "2026-07-25T19:22:30.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
+      "score": 78,
       "id": "166c65bb9039"
     },
     {
@@ -133,8 +185,21 @@
       "publishedAt": "2026-07-25T19:11:21.000Z",
       "image": "https://i.guim.co.uk/img/media/86b6ec0f1c67f1a2c46154a7cfce7c3d9763e754/338_0_4168_3335/master/4168.jpg?width=140&quality=85&auto=format&fit=max&s=c958c2a8ccbcd387b7bf872a5b2310e1",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "75175b3a7480"
+    },
+    {
+      "title": "Zelensky: Russia helps Iran direct strikes in Middle East",
+      "summary": "Zelensky: Russia helps Iran direct strikes in Middle East &nbsp;&nbsp; Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0wyclR4Z3l2aDVjc0poSHRXdE4xelN3ellaakhUT01nTTh2MW5UUmplMFlqRVRUTVVGMUxBN1J1X3BpQlVTQ3dpS2E4QjFic2E2ckJOU1hST3dYUDFKYlFWaFFfVXNob2tuVTBPTV9XQXB3XzZ4RVVTUW1NOF9Ha2tmc2lMZ3Z3WjR1ZVhQelU4VncxZEVlV0Fob01ST3pRa0JSLQ?oc=5",
+      "source": "Breakingthenews.net",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-25T18:56:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 78,
+      "id": "6eaa03423784"
     },
     {
       "title": "‘We have done it’: Joy as ‘Cockroach’ protests push India minister out",
@@ -146,7 +211,7 @@
       "publishedAt": "2026-07-25T15:53:53.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "9c0282dee9bb"
     },
     {
@@ -159,11 +224,11 @@
       "publishedAt": "2026-07-25T15:42:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "be24d6c6db68"
     },
     {
-      "title": "Clean energy investment is facing headwinds. Could superannuation help?",
+      "title": "Trillion-dollar super war chest waiting to be unleashed on green projects",
       "summary": "Australian super funds manage $4.5 trillion in retirement savings, but directing some of that war chest towards the clean energy transition could be more difficult than it seems.",
       "url": "https://www.abc.net.au/news/2026-07-26/superannuation-renewable-energy-investment-funding-gap/106842116",
       "source": "ABC Australia",
@@ -172,8 +237,8 @@
       "publishedAt": "2026-07-25T18:41:47.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/bea894c6e27861af0b882d766e3d5665?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 79,
-      "id": "a599e096ccb8"
+      "score": 77,
+      "id": "532a01231891"
     },
     {
       "title": "Want a music quiz? You should be so lucky (lucky, lucky, lucky)",
@@ -185,8 +250,34 @@
       "publishedAt": "2026-07-25T18:30:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/3b05492fff1d0f1999226e22ff0a79ac?impolicy=wcms_crop_resize&cropH=731&cropW=1299&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "da3b5ee03d13"
+    },
+    {
+      "title": "North Gaza police chief killed in Israeli strike - Shafaq News | Latest breaking news in Iraq and the world",
+      "summary": "North Gaza police chief killed in Israeli strike - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOERkS3hJMGtma3ZWa1VraUtKOVNYTFlJRzE0cUR6a2tGYTYyemJWNlExV2dHYjRkeUFrUVRjVmhnWXJmeHVhaV90ZFlQejB2dTBuSDAyel8zZTVHMk1aMUJsbzB3U1IxYjZaRkVlbnJHYTlkS3EtTWVYMEZQakVvOFlfX0FtZjlYUmc?oc=5",
+      "source": "شفق نيوز",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-25T14:55:35.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 77,
+      "id": "0b12aa713729"
+    },
+    {
+      "title": "‘Over 260,000 evacuated’: Latest developments in Europe wildfires",
+      "summary": "‘Over 260,000 evacuated’: Latest developments in Europe wildfires &nbsp;&nbsp; thestar.ng",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObXlfX3Vya1R3YVVwdjlXRldpcjFmQk1vT0Z4Q1c1a2M4R1FvUzFRYkNfT0JEa1BtNnlpdHhjZDl4N1RuamdzVVpad2VQcnAyQ2FlNlVMU2hHZFpNZF85UGJKRmRlMG4wX254N2lPaWoxYUpJMkRxemtWOUk4eGpKRzNzQWN1ZTk0YzhyQ0d30gGTAUFVX3lxTE8xcF9RSW50S3lWWXR2REdmdEFzYkN6Y0lfQVJubnBacHBaVkJjN3J2LUNtY0NTalpZUnZMV3l0LUNFQnRJRnVpM01QWEhJakFtaUxoeEhqMG1kSnBlZG53bS1NU2FIc2gxQkg0Rk1sOHF5Mk85VGRwcWxiUWNzZ2U1UllhR3d3QV9hQXBmajVaU29XUQ?oc=5",
+      "source": "thestar.ng",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-25T12:25:13.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 77,
+      "id": "e8da5a583c8a"
     },
     {
       "title": "India's 'Cockroach' movement to end protests after education minister quits",
@@ -198,8 +289,47 @@
       "publishedAt": "2026-07-25T09:05:00.000Z",
       "image": "https://e3.365dm.com/26/07/1920x1080/skynews-india-dharmendra-pradhan_7306378.jpg?20260725104551",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "b7105029d232"
+    },
+    {
+      "title": "Why these Sydney neighbours built a backyard wildlife corridor",
+      "summary": "Concerned about developments on Sydney's urban fringe, these residents combined their powers to save space for the natural world on their doorstep.",
+      "url": "https://www.abc.net.au/news/2026-07-26/neighbors-create-40-hectare-wildlife-corridor-kurrajong-heights/106780564",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-25T21:03:58.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/bd1790513ed06021db7bf71fe568485e?impolicy=wcms_crop_resize&cropH=2916&cropW=5184&xPos=0&yPos=158&width=862&height=485",
+      "topic": "科技",
+      "score": 76,
+      "id": "e4983af9e4b5"
+    },
+    {
+      "title": "'RFK Jr spillover effect' seeing less newborn babies getting crucial vitamin K",
+      "summary": "Rates of parents consenting to vitamin K injections for newborns are dropping, as misinformation spreads among anti-vax communities on social media.",
+      "url": "https://www.abc.net.au/news/2026-07-26/parents-refusing-lifesaving-vitamin-k-injection-for-newborns/106938860",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-25T21:02:35.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/78e87e75095a1a0876da9ec90f492050?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 76,
+      "id": "7eef5e22ad9e"
+    },
+    {
+      "title": "Latin America’s crime crisis deepens as gangs and cartels fuel violence",
+      "summary": "Latin America’s crime crisis deepens as gangs and cartels fuel violence &nbsp;&nbsp; Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DYjZ2NDJ3MWFPRHEwd3U2UnM5UGNFbEdpYkJmdWo1SVBVNDN2RlB3UnBoYmtOUV83NWRVbG0zdzFBbHViT0xUYTZqTmI3OWp5NEVERGdKU0VoZ3Rlc2J2UUpUM0lzLWfSAVxBVV95cUxPNmczSUNhelZNNDU1TlkzVU5vSEpJMnNacUNMQTlJMXBPeDZJWllkUVVDTWtheGU3ODlmLWdVZW01OE9aRk9oaWswRGduaFU5WmJaVDluTGc4WDJVZQ?oc=5",
+      "source": "Modern Ghana",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-25T20:53:23.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "acd0f2b09add"
     },
     {
       "title": "Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race",
@@ -209,9 +339,9 @@
       "feed": "The Guardian",
       "region": "全球",
       "publishedAt": "2026-07-25T17:34:57.000Z",
-      "image": "https://i.guim.co.uk/img/media/878146ed1e68f2890edfbe8e726db81bc192ceeb/81_0_4637_3711/master/4637.jpg?width=140&quality=85&auto=format&fit=max&s=e7944ac5e9450f3ab275ade60b2228e0",
+      "image": "https://i.guim.co.uk/img/media/7707ae794d5dc32d2119b98a71003a1324f1e591/34_0_2933_2347/master/2933.jpg?width=140&quality=85&auto=format&fit=max&s=4ac403444c1290d2a35c49085244104d",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "d6d226acc928"
     },
     {
@@ -224,8 +354,47 @@
       "publishedAt": "2026-07-25T07:55:37.000Z",
       "image": "",
       "topic": "气候",
-      "score": 78,
+      "score": 76,
       "id": "734b96f253da"
+    },
+    {
+      "title": "Public pools are disappearing in tiny towns as locals ask 'what's next'",
+      "summary": "The tiny outback Queensland town of Yaraka is fighting to save its public pool but the local council may not be able to afford to replace it.",
+      "url": "https://www.abc.net.au/news/2026-07-26/yaraka-fights-to-save-swimming-pool-from-demolition/106952942",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-25T20:05:34.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f2e29702eb12489fd62c298a9fc708e1?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=302&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "753c314f708b"
+    },
+    {
+      "title": "Jinjer: Warped Tour Long Beach 2026",
+      "summary": "Jinjer: Warped Tour Long Beach 2026 &nbsp;&nbsp; CaloNews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM3MwUjdoXzRKcEVWSTNkVlRMZG9YNWNUUnF1dkZKSjV6S0tzZ3ktcmR6LUp5UWJrQTJzcTZNRVdWNHF4U0Y3VlZ1NEFobkJVTUM1S1BxeGdXZXROdU04RHZhMFZ5UWRfdTlMMjdSLXIwVkFFMFE2dWpvcUVfSm9OZWxicTIycldEM0dNZ2hmcE5aV1k2ZzR2eVY2RHVQYVo3RVlGcmVPS1VlZw?oc=5",
+      "source": "CaloNews.com",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-25T20:00:43.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "93b9413fd366"
+    },
+    {
+      "title": "MLB: Salvador Pérez Smashes Royals’ All-Time Home Run Record with Monster 400-Foot Blast",
+      "summary": "MLB: Salvador Pérez Smashes Royals’ All-Time Home Run Record with Monster 400-Foot Blast &nbsp;&nbsp; Al Bat",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNm1EVjgxT190UGJfZ0Y3MFl5LW9ycFNSYkhJYnVGblBXU0dpVGpvMWRackc3SkVQQ2xNWkFMTXl2V2ZHOFJMUGpBV2V3eXdJUnJ0QzgwUWl3TnR1N21jbk9FdDZ2bkJuTmZlQ2tIMFg1OURFMU1oQ3pwRmUtUnhmb3FDQjRyclM3Z0hXZ0Fkd1pZUDRXLVdnWmVDUXhGLTMyNVRGc0FhYmRvZVU2NnlXc3BtZjc4ZS13UFE2dlVmQ20wRjZvSXRNX0RfS0FHSmPSAdQBQVVfeXFMTUFaN3lHT3NPMmZ1OTlnbkVqcHI0TGlvcWFneUsyanNnMHVRS1Iyd2lXZXRyZUphaHVoZEtVSDZaMHNEWnU5Q1dQM0trcEFYRmV1djN1X1RpbXVvSVIyY3ZyMjJ4U2dERXY3RzVUcDJ6Z3Y5ZUhfckREV2psTWFvMjdxNXowTmt1YzJ4UWgzcXRKeHRvWGdBeWwxSWpRNHdSUE5Na0xJbXZlVVdOMHQzd2dBZEw5YVZFNmxCZEtMSE1KZlFOYUpQaFpjb2MzYm9naG1zRDg?oc=5",
+      "source": "Al Bat",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-25T20:00:14.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "a3d1d01b0819"
     },
     {
       "title": "Swinney requests UK military aid as 500 firefighters tackle Cairngorms wildfire",
@@ -237,7 +406,7 @@
       "publishedAt": "2026-07-25T16:50:14.000Z",
       "image": "https://i.guim.co.uk/img/media/d9541bab98a8bbdd9dfe5c0a6388c6af8e6fb8f0/41_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=0db21d1197d9d08a4290ca243dd027b3",
       "topic": "政治",
-      "score": 77,
+      "score": 75,
       "id": "ef8a683ddb58"
     },
     {
@@ -250,7 +419,7 @@
       "publishedAt": "2026-07-25T16:39:16.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 75,
       "id": "57e5734ea987"
     },
     {
@@ -263,8 +432,21 @@
       "publishedAt": "2026-07-25T13:00:43.000Z",
       "image": "https://i.guim.co.uk/img/media/1175ee8e5e786d9aa1933c80d6d42fcf7fa44765/577_0_5767_4613/master/5767.jpg?width=140&quality=85&auto=format&fit=max&s=cc8df85e932cf9b1076f196e3444d0da",
       "topic": "政治",
-      "score": 77,
+      "score": 75,
       "id": "33c8045eaf04"
+    },
+    {
+      "title": "Aussies won't allow anticipated clash with English defector to distract them",
+      "summary": "Australia's men's sprint showdown with teammate-turned-Englishman Matthew Richardson is one of the most anticipated moments of the Glasgow Commonwealth Games, but Leigh Hoffman says the team cannot focus on him.",
+      "url": "https://www.abc.net.au/news/2026-07-26/commonwealth-games-leigh-hoffman-matthew-richardson-team-sprint/106958932",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-25T19:36:52.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/1d2b378c1c6b9ec9b2ed675946537f13?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=207&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "002c4b6b8cb8"
     },
     {
       "title": "How two boats with 500 people disappeared almost without trace",
@@ -276,7 +458,7 @@
       "publishedAt": "2026-07-25T19:27:32.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7587e8957a331ced25ea8f08b5b44fae?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=499&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "07c1db318382"
     },
     {
@@ -287,9 +469,9 @@
       "feed": "ABC Australia",
       "region": "欧洲",
       "publishedAt": "2026-07-25T19:27:32.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/3fa92d8589c9877b7ef3ce4e58938724?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f25e8631be43fb4f67d041c46418b35c?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "db2ec236ffcd"
     },
     {
@@ -302,73 +484,8 @@
       "publishedAt": "2026-07-25T19:22:23.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "a7f978e92c7a"
-    },
-    {
-      "title": "Zelensky: Russia helps Iran direct strikes in Middle East",
-      "summary": "Zelensky: Russia helps Iran direct strikes in Middle East &nbsp;&nbsp; Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0wyclR4Z3l2aDVjc0poSHRXdE4xelN3ellaakhUT01nTTh2MW5UUmplMFlqRVRUTVVGMUxBN1J1X3BpQlVTQ3dpS2E4QjFic2E2ckJOU1hST3dYUDFKYlFWaFFfVXNob2tuVTBPTV9XQXB3XzZ4RVVTUW1NOF9Ha2tmc2lMZ3Z3WjR1ZVhQelU4VncxZEVlV0Fob01ST3pRa0JSLQ?oc=5",
-      "source": "Breakingthenews.net",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-25T18:56:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "6eaa03423784"
-    },
-    {
-      "title": "Israel arrests 80+ Palestinians in West Bank raids - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "Israel arrests 80+ Palestinians in West Bank raids - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeDhpb0owSTR0MGdYT3g2YVROSm9xOUVGVTdfWVdGS2wxT2ZSQTFtZXhQR2hlRmVIeUFRN2lPU2liQnczMkJDdkJHMVRtZXA1LXdaR1VBZFphUzBGRWZveENHZDktNHM2d29XMXpXWk85bXNuSnp0UGthT2Y3b0hzWlVFeW10VHBIZ1Fz?oc=5",
-      "source": "شفق نيوز",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-25T15:46:17.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 76,
-      "id": "cfe66b93021b"
-    },
-    {
-      "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
-      "summary": "Military crackdown follows a shooting that killed four Palestinians and two Israeli soldiers.",
-      "url": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-25T09:10:01.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 76,
-      "id": "b61466c14247"
-    },
-    {
-      "title": "More than 1 million children lost access to food benefits after Trump bill passed",
-      "summary": "Analysis finds more than 4 million Americans lost Snap benefits, or food stamps, from July 2025 to March 2026 More than a million children across the US have lost access to Supplemental Nutrition Assistance Program (Snap) food benefits since Congress approved the One Big Beautiful Bill Act in July 2025, according to a new report from the Center on Budget and",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/food-stamps-children-trump",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-07-25T19:07:42.000Z",
-      "image": "https://i.guim.co.uk/img/media/affb0b37f45156c34884187ebd7ad95f53efee67/564_0_4556_3645/master/4556.jpg?width=140&quality=85&auto=format&fit=max&s=322a357b87e3f9bceb6fafab41cdc322",
-      "topic": "社会",
-      "score": 75,
-      "id": "262239c2f3cc"
-    },
-    {
-      "title": "What Labor gains and loses by hiding its fights",
-      "summary": "If Labor has a policy fight behind a closed door and nobody else hears, did it really happen?",
-      "url": "https://www.abc.net.au/news/2026-07-26/labor-conference-policy-fights-debates/106953350",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-25T19:00:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/aa324ca350cc50124c9da05606cc286f?impolicy=wcms_crop_resize&cropH=3510&cropW=6240&xPos=0&yPos=1&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "5d38f298f3c8"
     },
     {
       "title": "U.S. State Department Follows Up Rare Worldwide Travel Alert To All Americans With Renewed \"Flight Cancellations\" And \"Reconsider Travel\" Warning",
@@ -380,8 +497,47 @@
       "publishedAt": "2026-07-25T18:52:40.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "fa8de3cfc9dd"
+    },
+    {
+      "title": "More than 1 million children lost access to food benefits after Trump bill passed",
+      "summary": "Analysis finds more than 4 million Americans lost Snap benefits, or food stamps, from July 2025 to March 2026 More than a million children across the US have lost access to Supplemental Nutrition Assistance Program (Snap) food benefits since Congress approved the One Big Beautiful Bill Act in July 2025, according to a new report from the Center on Budget and",
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/food-stamps-children-trump",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "美洲",
+      "publishedAt": "2026-07-25T19:07:42.000Z",
+      "image": "https://i.guim.co.uk/img/media/affb0b37f45156c34884187ebd7ad95f53efee67/564_0_4556_3645/master/4556.jpg?width=140&quality=85&auto=format&fit=max&s=322a357b87e3f9bceb6fafab41cdc322",
+      "topic": "社会",
+      "score": 73,
+      "id": "262239c2f3cc"
+    },
+    {
+      "title": "Labor 'comrades' seen but not heard",
+      "summary": "If Labor has a policy fight behind a closed door and nobody else hears, did it really happen?",
+      "url": "https://www.abc.net.au/news/2026-07-26/labor-conference-policy-fights-debates/106953350",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-25T19:00:00.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/aa324ca350cc50124c9da05606cc286f?impolicy=wcms_crop_resize&cropH=3510&cropW=6240&xPos=0&yPos=1&width=862&height=485",
+      "topic": "社会",
+      "score": 73,
+      "id": "11210d6a0b3c"
+    },
+    {
+      "title": "Zelensky says Russian satellites helping Tehran direct strikes in Middle East",
+      "summary": "Zelensky says Russian satellites helping Tehran direct strikes in Middle East &nbsp;&nbsp; The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbVR4UFRZNi1rMUw4c29pTmY4ZjlUVE5YTXJUQjJnSEFFaWRHMkk2R3FvYjlnLXNQZ25aOG9kYnNDeXdnRkZWN3RtMWJUZktsU2RWR3dOdkNocHg2VmpiRXN3U3hTLUhsN2trMTNwdXpUOU5jS3RqLXp4YzhlTEpQTVlLZTA2NHZFdEt5VlZIcnlsdlVWSUtBRUNjUmQxSllsTWlYUDBNZzB3Z1oyQzVpc2lZSWpvNXROWVl3SkpBdXk?oc=5",
+      "source": "The Times of Israel",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-25T18:51:11.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 73,
+      "id": "49dcbbc4ef82"
     },
     {
       "title": "Prince William's 'manifesto' for the king he will become",
@@ -393,7 +549,7 @@
       "publishedAt": "2026-07-25T18:45:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/46e78d3109c0241f5bec95862d5e873d?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "d4d30521e8bc"
     },
     {
@@ -406,21 +562,8 @@
       "publishedAt": "2026-07-25T18:41:47.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/2359c26f0519b548a85536507ae388a9?impolicy=wcms_crop_resize&cropH=844&cropW=1500&xPos=0&yPos=2&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "c29dd35c5c9a"
-    },
-    {
-      "title": "Legacy stores have been closing but physical retail is not 'dead'",
-      "summary": "It has been a brutal year for Australian retail, with high rents, wage increases and the cost-of-living squeeze forcing big brands to make some hard calls. Here's why some are still surviving.",
-      "url": "https://www.abc.net.au/news/2026-07-26/retail-autopsy-what-went-wrong/106922524",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-25T18:41:47.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/b1381fb6d407d1f029fcce3c1887362a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "e37ee42d1066"
     },
     {
       "title": "'Disgusted with the price on life': Families outraged over Laos poisoning probe",
@@ -432,11 +575,24 @@
       "publishedAt": "2026-07-25T18:41:47.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/4046abc6f407aaff0f83ccf4bb9ebb3d?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=40&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "2de6fd3b95c4"
     },
     {
-      "title": "Scorching US heat wave to hit 70 million people with third ‘heat dome’ in month",
+      "title": "The generational shift that has pushed 'generic' shops to the wall",
+      "summary": "It has been a brutal year for Australian retail, with high rents, wage increases and the cost-of-living squeeze forcing big brands to make some hard calls. Here's why some are still surviving.",
+      "url": "https://www.abc.net.au/news/2026-07-26/retail-autopsy-what-went-wrong/106922524",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-25T18:41:47.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b1381fb6d407d1f029fcce3c1887362a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 73,
+      "id": "f0658e38adf8"
+    },
+    {
+      "title": "Scorching US heatwave to hit 70 million people with third ‘heat dome’ in month",
       "summary": "Temperatures of 95-105F (35-40C) are expected, spanning Gulf of Mexico coast to the Great Plains and the midwest About 70 million people in the US are set to face excessive heat advisories as dangerously hot temperatures scorch much of the country’s southern and central states. The third major “heat dome” event to hit the US in the past month is gathering st",
       "url": "https://www.theguardian.com/us-news/2026/jul/25/scorching-us-heat-wave",
       "source": "The Guardian",
@@ -444,9 +600,9 @@
       "region": "美洲",
       "publishedAt": "2026-07-25T18:34:53.000Z",
       "image": "https://i.guim.co.uk/img/media/74ffbb7833ce2f38040db95a067927da970ea985/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=bf043c5091a12ed2f8d64227e0b410bc",
-      "topic": "社会",
-      "score": 75,
-      "id": "3451a7bcbb2a"
+      "topic": "气候",
+      "score": 73,
+      "id": "0c42482f62fa"
     },
     {
       "title": "For Beth Orton, the messiness of being human has never sounded better",
@@ -458,21 +614,8 @@
       "publishedAt": "2026-07-25T18:30:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/02cc4a6eb14c950d1fdf611b44e8b721?impolicy=wcms_crop_resize&cropH=679&cropW=1207&xPos=197&yPos=102&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "bd98ed48bd43"
-    },
-    {
-      "title": "The 10 books our critics couldn't put down in July",
-      "summary": "This month's best new books include an erotic novel set in a Tasmanian lighthouse, a 'wonderfully weird debut' about a woman's obsession with a cat and a Harlem heist novel.",
-      "url": "https://www.abc.net.au/news/2026-07-26/best-new-books-dave-eggers-colson-whitehead-kris-kneen/106918862",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-25T18:30:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6563b3c3547de62b44809cc032b274dc?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "10a0961fab23"
     },
     {
       "title": "Government launches FMD self-vaccination portal for livestock farmers",
@@ -484,21 +627,8 @@
       "publishedAt": "2026-07-25T18:16:55.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "c9f56448f13f"
-    },
-    {
-      "title": "Oil Prices Rise | Crude Oil | Brent Crude | Middle East Tensions - Aaj News Arsenal Vs Everton (aaiF5FNEY0)",
-      "summary": "Oil Prices Rise | Crude Oil | Brent Crude | Middle East Tensions - Aaj News Arsenal Vs Everton (aaiF5FNEY0) &nbsp;&nbsp; Mshale",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CQkpoYnpBMHZTNGJqYnRSNjVRb0x2X1VieEF2bEctYkduQ0dRZl9EZnpxa3ExTWhzWkNVNnNwOHVMMVFiLUVmYUdVM3E4UWt6ZHliMHZnUnZXMzg?oc=5",
-      "source": "Mshale",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-25T15:22:44.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 75,
-      "id": "ec9bcc7153ce"
     },
     {
       "title": "Eight family members found dead in Michigan fire, some with gunshot wounds",
@@ -510,21 +640,8 @@
       "publishedAt": "2026-07-25T15:18:33.000Z",
       "image": "https://i.guim.co.uk/img/media/0da42b79b490c8fb7e07758e45d4921680080d6a/525_0_4435_3549/master/4435.jpg?width=140&quality=85&auto=format&fit=max&s=4a0b98df103f4981b554367dfbba77e3",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "e408e04c42a8"
-    },
-    {
-      "title": "North Gaza police chief killed in Israeli strike - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "North Gaza police chief killed in Israeli strike - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOERkS3hJMGtma3ZWa1VraUtKOVNYTFlJRzE0cUR6a2tGYTYyemJWNlExV2dHYjRkeUFrUVRjVmhnWXJmeHVhaV90ZFlQejB2dTBuSDAyel8zZTVHMk1aMUJsbzB3U1IxYjZaRkVlbnJHYTlkS3EtTWVYMEZQakVvOFlfX0FtZjlYUmc?oc=5",
-      "source": "شفق نيوز",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-25T14:55:35.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "0b12aa713729"
     },
     {
       "title": "Ukraine drone strikes on Wildberries warehouses hit Russian sellers, consumers",
@@ -536,8 +653,34 @@
       "publishedAt": "2026-07-25T11:43:48.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "a4157502ad8f"
+    },
+    {
+      "title": "Soccer: Are Europe’s Top Talents Now Choosing the NCAA? The Signing That Proves College Soccer Is Taking on Europe",
+      "summary": "Soccer: Are Europe’s Top Talents Now Choosing the NCAA? The Signing That Proves College Soccer Is Taking on Europe &nbsp;&nbsp; Al Bat",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMjQzZUF6ekszb1g1WEd6bkRtb25sSzMtN0NCMDVoQlVNQ2p0MFZRT0dTRjdleTBxdUpzYWdLa0JnSDNMTFNUeVNsQUJIanNocUpUalpmbWUwenA2TmszSWNNRGV0b2ZDVmxiYTNJc1RZUHY1Qy12aWtmMnBNX2ZfQ3dzQmxmXzNGclBGM29hRWhoUVh6MXB4NEZkdWVaT25rekJQNzd0YnlpcmtzOU9RZmFncDAtYmJDTmRvR3p2X2w1YkFxZURka3JVa2xrR1FaQUdrY1MtbEJDNDRTc3hwTUtWMVJ4enhUSXpzX3RvTGpZZ9IB9wFBVV95cUxQUjVtNXd6bUdzeDFXSlJpamR0ZzNOU0lHWWY2aHVXcjl5SDU1cGlPTGdmaHlvUzBDTG9vWUZsdHIzc1pFRTR3ZnRZVTlBQ3ZoM3JrTkhNWXRzR3BrSEZpZmtEM0ZDY1V0UXFWVmQ4TzJsQ09BZTg0YURLS2VBM1pmM1l4UU54empPOWhIc0p0TU4tcy1wd0VaUWtOQTB3MUJOLTB0d1JCRVNWbHRhTjBJVS1TLUhnOWRQRHdXWXYzX3dma19CbnIwaGZQZnE4NEpvNkt0ZXBXTUJjVF9JVEFUdkl1UUh0RTJCUHdiQ1ZKT3J1WDl0OTFv?oc=5",
+      "source": "Al Bat",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-25T21:00:15.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "9cca6c0a0999"
+    },
+    {
+      "title": "Karol G’s Viajando Por El Mundo Tropitour Is a Bold, Joyous Ode to Latina Power",
+      "summary": "Karol G’s Viajando Por El Mundo Tropitour Is a Bold, Joyous Ode to Latina Power &nbsp;&nbsp; Rolling Stone",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDM1dXF6UHNsdWxTaFdhUVMtSzc5Z3RMcFJPWXlYZWpqT0dEaDRqbEpUZE9mZGVsMDMtQWhtOEhqNUVkQkthTE9WS29ZQkhoRkJ5dHR6WUFpTDhGNk04bTVCZkJReWRrSVVic1J4RVN4Z21CYjJYZV9uUzdBc0V0RnpmaVJqX0cyYW5XMXA5RGROc0IwaGVkRTZVcWFXMWljSXNGWkNoakVGZXRvd19zbzdmSUo?oc=5",
+      "source": "Rolling Stone",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-07-25T20:58:42.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "396761e60b88"
     },
     {
       "title": "Cecilia Vega of 60 Minutes says she felt pressure from CBS to add ‘political bias’",
@@ -549,7 +692,7 @@
       "publishedAt": "2026-07-25T18:08:37.000Z",
       "image": "https://i.guim.co.uk/img/media/8f203c5ada8d7eb7d21cea91e11825caed65f0e9/378_0_3936_3151/master/3936.jpg?width=140&quality=85&auto=format&fit=max&s=60bb338b0c34791228e81cdb9ca273f3",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "e252cc65c399"
     },
     {
@@ -562,7 +705,7 @@
       "publishedAt": "2026-07-25T18:06:09.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "d032ac35bdde"
     },
     {
@@ -575,7 +718,7 @@
       "publishedAt": "2026-07-25T17:55:00.000Z",
       "image": "https://e3.365dm.com/26/07/1920x1080/skynews-carrickmacross-car-bomb_7306085.jpg?20260724182127",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "0f029a7b3ea7"
     },
     {
@@ -588,8 +731,21 @@
       "publishedAt": "2026-07-25T17:40:22.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "64c28eca4ccb"
+    },
+    {
+      "title": "Pakistan Fuel Price Crosses ₹375 | Govt Seeks US Help Amid War | Middle East War",
+      "summary": "Pakistan Fuel Price Crosses ₹375 | Govt Seeks US Help Amid War | Middle East War &nbsp;&nbsp; Kanak News Odisha",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUdxUk9ZNXYwZ2tjN3VzWW5WVWtuLTdzRXN4TF95aHhHcE9seVJzWEViUVdMeHlsdmNYeWlpUWZWeUkwcWNRT0NHenlySklTaFo4UHpHdWpMS0l1ODMydDkyMDVOb3RWcWJyRlVGVnNrX0FycVQ0WWlfT1FTMnlueTBkSm14ZXpYOVplQXRaRXBtaEh0TVowVXBiZlExRERQQzNmU19ZUnppem00d1ZINVk4dUlZZTFTLWY3eEtERDd6TV9y0gHEAUFVX3lxTE8xR3FST1k1djBna2M3dXNZblZVa24tN3NFc3hMX3loeEdwT2x5UnNYRWJRV0x4eWx2Y1h5aWlRZlZ5STBxY1FPQ0d6eXJKSVNoWjhQekd1akxLSXU4MzJ0OTIwNU5vdFZxYnJGVUZWc2tfQXJxVDRZaV9PUVMyeW55MGRKbXhlelg5WmVBdFpFcG1oSHRNWjBVcGJmUTFERFBDM2ZTX1lSeml6bTR3Vkg1WTh1SVllMVMtZjd4S0REN3pNX3I?oc=5",
+      "source": "Kanak News Odisha",
+      "feed": "Middle East News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-25T17:30:04.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 72,
+      "id": "b20d27a3be28"
     },
     {
       "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
@@ -601,7 +757,7 @@
       "publishedAt": "2026-07-25T14:48:22.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 72,
       "id": "0d5cb69bf9d5"
     },
     {
@@ -614,7 +770,7 @@
       "publishedAt": "2026-07-25T14:46:19.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/aace4a76c75e089e60debea34036712e?impolicy=wcms_crop_resize&cropH=2611&cropW=4641&xPos=0&yPos=483&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "3abc09446051"
     },
     {
@@ -627,8 +783,21 @@
       "publishedAt": "2026-07-25T14:42:22.000Z",
       "image": "",
       "topic": "经济",
-      "score": 74,
+      "score": 72,
       "id": "6925b0a9a9de"
+    },
+    {
+      "title": "Xenophobia: S’Africa returnees recount ordeal, seek fresh start in Nigeria",
+      "summary": "Xenophobia: S’Africa returnees recount ordeal, seek fresh start in Nigeria &nbsp;&nbsp; Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1BhdkNHRXQ4Q2tLZmxaVElhQlhQNzNqNG1nbU4yQ3pNS0xWZHhmNlU4c3dJLTB5b2tqdVYtbmlMVnZVLWNqdTRmazB5OE1TZWtESWhCYVMxRGFiclVjMVJ3WjRYYnMycHRXc3hnRDNNZlE5OW1aQTVMWWNCRFcwbGlhcGlOMHlKSXJObzJadGxzdDFJc2FsZTFrWDZUcWZuMUFoMzAySXF4QVJPTi01eTdyUnhraVFweXowb0ttSEVfMUxNODgxWmk4WkR5UQ?oc=5",
+      "source": "Punch Newspapers",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-25T20:14:56.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "a5d4fc596aa3"
     },
     {
       "title": "The latest headlines - as over a quarter of a million people forced to flee wildfires across Europe - Latest From ITV News",
@@ -640,7 +809,7 @@
       "publishedAt": "2026-07-25T17:25:00.000Z",
       "image": "",
       "topic": "气候",
-      "score": 73,
+      "score": 71,
       "id": "588ac36ffa1b"
     },
     {
@@ -653,7 +822,7 @@
       "publishedAt": "2026-07-25T13:49:12.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 71,
       "id": "be149bd51297"
     },
     {
@@ -666,7 +835,7 @@
       "publishedAt": "2026-07-25T13:44:01.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d6/live/3284c7d0-882b-11f1-b8ee-9b3c26ad07bb.jpg",
       "topic": "政治",
-      "score": 73,
+      "score": 71,
       "id": "fe7be0d13d5c"
     },
     {
@@ -679,21 +848,21 @@
       "publishedAt": "2026-07-25T13:26:04.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6c7/live/dbcb6ca0-869f-11f1-926f-c90d1bcfbc84.jpg",
       "topic": "政治",
-      "score": 73,
+      "score": 71,
       "id": "cadc3bc4950c"
     },
     {
-      "title": "Fires in Europe: latest developments",
-      "summary": "Fires in Europe: latest developments &nbsp;&nbsp; France 24",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzRLd0R6ZnQydEhNbUdVaERfSk0wdHgxOWFTbGFaeXpSSy1hZHJHdmljSkF1U19qbEZnSGlJbzRCaWNXbjdzM2puZlZBWXc2UGFWQVAwNlQwU0g2YlhrOVZJSk1WSGlBUm5jenpJNVJoNGFhQ1c2QXh5UWFIeWhkQXpWcmdlQzN3WEE?oc=5",
-      "source": "France 24",
+      "title": "Fires In Europe: Latest Developments",
+      "summary": "Fires In Europe: Latest Developments &nbsp;&nbsp; Barron's",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPZkpPSFB2U0lkRmczTGhNNjJmQjBlVFZzU3A4X1Z6YUFOTk9iNjVEVE1iNWU0TWE2TGducmI2al96MmlQV1o4N2lCZUZkb2FMUm51ejVUbmdXSmNaWVBOaS11MklFRnl5M3V3TjdLYnhHQUQ3ZjNOdG82WnFyUQ?oc=5",
+      "source": "Barron's",
       "feed": "Europe News Network",
       "region": "欧洲",
-      "publishedAt": "2026-07-25T07:35:15.000Z",
+      "publishedAt": "2026-07-25T07:34:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
-      "id": "8c8c6c079301"
+      "score": 71,
+      "id": "ea74d5fe3c00"
     },
     {
       "title": "Worker dies during reconstruction of Barcelona’s Camp Nou Stadium",
@@ -705,7 +874,7 @@
       "publishedAt": "2026-07-25T16:36:48.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "955e186d5fc5"
     },
     {
@@ -718,8 +887,34 @@
       "publishedAt": "2026-07-25T16:02:40.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "778fa0dff902"
+    },
+    {
+      "title": "New North Sea oil drilling faces delay after gear accidentally dropped in sea",
+      "summary": "Exclusive: Blunder at Rosebank, UK’s biggest undeveloped oilfield, comes as government considers granting licence Production at Britain’s biggest undeveloped oil and gasfield could be delayed for months after equipment from a rig was accidentally dropped in the North Sea, the Guardian can reveal. Andy Burnham’s new government is under pressure from the fossi",
+      "url": "https://www.theguardian.com/business/2026/jul/25/new-north-sea-oil-drilling-rosebank-faces-delay-after-gear-dropped-into-sea",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-07-25T16:00:46.000Z",
+      "image": "https://i.guim.co.uk/img/media/1239787bd1d8654b418e992cfad2138f25578955/691_316_2649_2119/master/2649.jpg?width=140&quality=85&auto=format&fit=max&s=dbf4348277429f6f2875a8c19723a500",
+      "topic": "经济",
+      "score": 70,
+      "id": "145e7765844a"
+    },
+    {
+      "title": "Israel arrests 80+ Palestinians in West Bank raids - Shafaq News | Latest breaking news in Iraq and the world",
+      "summary": "Israel arrests 80+ Palestinians in West Bank raids - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeDhpb0owSTR0MGdYT3g2YVROSm9xOUVGVTdfWVdGS2wxT2ZSQTFtZXhQR2hlRmVIeUFRN2lPU2liQnczMkJDdkJHMVRtZXA1LXdaR1VBZFphUzBGRWZveENHZDktNHM2d29XMXpXWk85bXNuSnp0UGthT2Y3b0hzWlVFeW10VHBIZ1Fz?oc=5",
+      "source": "شفق نيوز",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-25T15:46:17.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 70,
+      "id": "cfe66b93021b"
     },
     {
       "title": "At least 15 killed in Ukrainian and Russian strikes as holiday camp hit",
@@ -731,7 +926,7 @@
       "publishedAt": "2026-07-25T12:41:02.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "228e75ac5434"
     },
     {
@@ -744,203 +939,8 @@
       "publishedAt": "2026-07-25T09:00:38.000Z",
       "image": "https://i.guim.co.uk/img/media/0a452b083ef8349ba79ab417db0b5937e6946450/94_0_1406_1125/master/1406.jpg?width=140&quality=85&auto=format&fit=max&s=21f973a15e7163902a9d153b3f994c91",
       "topic": "政治",
-      "score": 72,
+      "score": 70,
       "id": "1e3e9e7c4ab5"
-    },
-    {
-      "title": "Experts urge stronger conservation as mangroves sustain millions across Southeast Asia",
-      "summary": "Experts urge stronger conservation as mangroves sustain millions across Southeast Asia &nbsp;&nbsp; Muslim Network TV",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVRfZ3d0clQ2aDVZUE53MkliWHJCQ2g1Sm5sSXlRZHBOZHlRcl9yVkFKRGItMnNObVg1RkExTFVNQlNmWlB4WUpRR0JKLVBUSXplSVozWDVTYnF2cU9oVkNielBUUzE0S2kxU1FnZ09CUnRKVURCZG1BeFhEV2o5OUZaOWxVTndRQk1XUlZPdFZoa05GN0NzckpuZllIX2NTVUZvX25neVVKN0N3eWhJM3hPVnRJM2M?oc=5",
-      "source": "Muslim Network TV",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-25T18:33:45.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "3c235842a924"
-    },
-    {
-      "title": "New North Sea oil drilling faces delay after gear accidentally dropped in sea",
-      "summary": "Exclusive: Blunder at Rosebank, UK’s biggest undeveloped oilfield, comes as government considers granting licence Production at Britain’s biggest undeveloped oil and gasfield could be delayed for months after equipment from a rig was accidentally dropped in the North Sea, the Guardian can reveal. Andy Burnham’s new government is under pressure from the fossi",
-      "url": "https://www.theguardian.com/business/2026/jul/25/new-north-sea-oil-drilling-rosebank-faces-delay-after-gear-dropped-into-sea",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-07-25T16:00:46.000Z",
-      "image": "https://i.guim.co.uk/img/media/1239787bd1d8654b418e992cfad2138f25578955/691_316_2649_2119/master/2649.jpg?width=140&quality=85&auto=format&fit=max&s=dbf4348277429f6f2875a8c19723a500",
-      "topic": "经济",
-      "score": 71,
-      "id": "145e7765844a"
-    },
-    {
-      "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
-      "summary": "Syrian Foreign Minister Asaad al-Shaibani called for Israel to withdraw immediately and unconditionally from Syria",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-25T15:52:19.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 71,
-      "id": "4c0015670bed"
-    },
-    {
-      "title": "The Battle Over Al-Aqsa",
-      "summary": "What happened when thousands of Israelis stormed the Al-Aqsa Mosque compound under Israeli police protection?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/the-battle-over-al-aqsa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-25T15:49:53.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 71,
-      "id": "f0a03472af08"
-    },
-    {
-      "title": "Middle East war enters fourth day in 'smoke and blood'",
-      "summary": "Middle East war enters fourth day in 'smoke and blood' &nbsp;&nbsp; The Canberra Times",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWRzVDRWb1R3TF9hVHE1b0x6XzhsN3BFSV9hUF81aHZhcEs0bUdfZWNBZ2RJb0FVR0NGRHhDblJpcUZNWE5hVlNYNnEwSkpSQWZHSm5QUG1VYmlpTWpzMnd5SGZfLWxPY0VCQ0pCWFZ6SGkwT2U4NWY0ZlNTZERtX09UQ25tZFpmQUxENWJYV0hOMW5PMEpUNU9kdVAxTGtZY0E?oc=5",
-      "source": "The Canberra Times",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-25T15:37:27.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 71,
-      "id": "b5c70ea59d4e"
-    },
-    {
-      "title": "Trump faces backlash for using ‘Palestinian’ as an insult",
-      "summary": "US President Donald Trump is facing backlash after using ‘Palestinian’ as an insult while mocking a Democratic Senator.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-faces-backlash-for-using-palestinian-as-an-insult?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-25T12:11:33.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 71,
-      "id": "47d0d5438878"
-    },
-    {
-      "title": "In France, hotels for wine lovers have turned into evacuation centres",
-      "summary": "",
-      "url": "https://news.sky.com/story/in-france-hotels-for-wine-lovers-have-turned-into-evacuation-centres-13566878",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "欧洲",
-      "publishedAt": "2026-07-25T11:56:00.000Z",
-      "image": "https://e3.365dm.com/26/07/1920x1080/skynews-wildfires-france_7306415.jpg?20260725120100",
-      "topic": "社会",
-      "score": 71,
-      "id": "60780c3335b4"
-    },
-    {
-      "title": "They Are Building Latin America’s Tallest Skyscraper: It Will Rise 484 Meters and Feature Apartments, a Hotel, Offices, and Shops",
-      "summary": "They Are Building Latin America’s Tallest Skyscraper: It Will Rise 484 Meters and Feature Apartments, a Hotel, Offices, and Shops &nbsp;&nbsp; El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRVhXdnk0S29OZmUtNXlEYlhRVUx6dUxFRXhfT090QVMxejlfMzc1STBMODRSVTNZQVo0SGhMSENsTm02OVJVUVVxaGdmYjdnc3ZFUE16VlJ1SzJoS05qMk82Z1oxOVYzZmhORXQ4MDRqd2lRd3E1eHZWVjVwTlZWR1NWM21udFpERXdhVjNhektyYUFwTm5QZzhCdW5TLVVYMm9obmZMNFlaTGtKbUpYUXREcHFUcEN5cm9qblRfYmxlSE1NQnVkd0c3Q1ZadDJHbWlZaUpOSkVvSmNBck1FT1VPUVQzM2kwSUh1UUFydUI?oc=5",
-      "source": "El Cronista",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-07-25T17:41:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "91d745d0288b"
-    },
-    {
-      "title": "The Global South is being forced to choose creditors over children",
-      "summary": "The education of millions of children is at risk because of the current global financial order. We need change",
-      "url": "https://www.aljazeera.com/opinions/2026/7/25/the-global-south-is-being-forced-to-choose-creditors-over-children?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-25T14:33:23.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "804d7094c44a"
-    },
-    {
-      "title": "India’s youth protesters are fighting Modi with irreverent humour and memes",
-      "summary": "Modi built his political brand through social media. Now protesters are using same platforms to mock his administration.",
-      "url": "https://www.aljazeera.com/news/2026/7/25/indias-youth-protesters-are-fighting-modi-with-irreverent-humour-and-memes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-07-25T11:09:05.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 70,
-      "id": "b3d9a9c5c431"
-    },
-    {
-      "title": "New to The Street to Broadcast Nationwide on Bloomberg Television Tonight at 6:30 PM ET Featuring RHINO Bitcoin, Marina Decisions, Medicus Pharma and Virtuix Holdings",
-      "summary": "New to The Street to Broadcast Nationwide on Bloomberg Television Tonight at 6:30 PM ET Featuring RHINO Bitcoin, Marina Decisions, Medicus Pharma and Virtuix Holdings &nbsp;&nbsp; News-Press NOW",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNUm5ERXVuZG1JU09DNmRLS1RhNVBHSjZ0TnMyeFFaOGRRZ2N3dzVOSnZIMXNyTjFaa1Z1WVpnSi1YUW93UGxUeUlxNUtMQnFNOXptdkxCOUtoWTJqTnNyS244aVJDa2ZrbmIxTDVQMUJpbDlzSnhFd094aFBjU2RqOGpTU1NqZnRra19RWWllU20wZmZ1RG1Md09peXBiU1BZeXpGeEx0cUt2RWxvYl9NZ3FSQlo3QzdJUDc5UzhOaXJWR1BSSEFfU1V1aUhTT0t6eVlSQkMza01HWXN1TS0wdGp1R2xBWEg5cURsQnUtY1RBdlZ4UERiUnB5QjFJQTJVeGxTMnpHX3o4aXpjb2VUS3hxbVZsYkNGejJN?oc=5",
-      "source": "News-Press NOW",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-07-25T17:11:45.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "72bd06cde682"
-    },
-    {
-      "title": "FIH Youth Hockey5s Asia Championship: Pakistan's Extra Player Blunder Against India Echoes 2022 Jakarta Fiasco",
-      "summary": "FIH Youth Hockey5s Asia Championship: Pakistan's Extra Player Blunder Against India Echoes 2022 Jakarta Fiasco &nbsp;&nbsp; Sangri Today",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaHhmai1fd0ZRZU05dE01a2xXTVVRMDJ4Tm9XUVBtekpWaFAzaW00UlNLTFEtN2x5cW9RZ2tRS3p3MW1lanpJX1AteEJaZGhfM1hBOTl0OWlSbDV6TjN5aGE0Q1RzR1FuOXJJVVVEaTh3RUljUWRXX1gwSHdmWlFIZ2RjUGFZbndPbklsaEZKY3d2UjMxWXhoVWhFYjcyU3EwSkVMdGIyNFcwT3ZCUENEWUZtNkwwMDNwaWxBUjRqaXE4LWhLWEdzTVJUdlJ4VFhtSXdhcm1aUExKVF9qS0FfRNIB4AFBVV95cUxQaHhmai1fd0ZRZU05dE01a2xXTVVRMDJ4Tm9XUVBtekpWaFAzaW00UlNLTFEtN2x5cW9RZ2tRS3p3MW1lanpJX1AteEJaZGhfM1hBOTl0OWlSbDV6TjN5aGE0Q1RzR1FuOXJJVVVEaTh3RUljUWRXX1gwSHdmWlFIZ2RjUGFZbndPbklsaEZKY3d2UjMxWXhoVWhFYjcyU3EwSkVMdGIyNFcwT3ZCUENEWUZtNkwwMDNwaWxBUjRqaXE4LWhLWEdzTVJUdlJ4VFhtSXdhcm1aUExKVF9qS0FfRA?oc=5",
-      "source": "Sangri Today",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-25T17:01:46.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "525e32e05042"
-    },
-    {
-      "title": "Mandela’s legacy of Jobs, fighting hunger will continue :Ramathuba",
-      "summary": "Mandela’s legacy of Jobs, fighting hunger will continue :Ramathuba &nbsp;&nbsp; SABC News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnptR180eEVTZndJeE01RjlrNW4tTDFRcWlwVmxUZUN5a3phbVZ3Vi0wb3daZF9mQkdvRm9pdWtLS3I1Wl9Rcm9mcUVqSzRxWkxaUHFLNWZ4Z1F2Q1JvVXZLOF82SmNNZGFVaDZfUmJqMXFPSVBkdUFHOTJIVXB3alhGeEFkbHg4RmVJN0tPTG1tdXZwMnlHdlJCQ1hVTGM?oc=5",
-      "source": "SABC News",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-07-25T16:52:28.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 69,
-      "id": "f071e8f0df7c"
-    },
-    {
-      "title": "Atletico Madrid sign South Korea World Cup star Lee Kang-In from PSG",
-      "summary": "Lee Kang-In makes the switch to Atletico after helping Paris Saint-Germain to consecutive Champions League titles.",
-      "url": "https://www.aljazeera.com/sports/2026/7/25/atletico-madrid-sign-south-korea-world-cup-star-lee-kang-in-from-psg?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-07-25T14:20:21.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "c654b1ec49d9"
-    },
-    {
-      "title": "Even Diamonds were cheering for Tonga in the Comm Games netball opener",
-      "summary": "The Diamonds easily beat Tonga, as expected, but the love for an underdog is so prevalent in Glasgow that even Australian players were cheering for the Commonwealth Games debutants.",
-      "url": "https://www.abc.net.au/news/2026-07-26/australia-diamonds-tonga-commonwealth-games-netball-uneeq-palavi/106958488",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-25T14:02:19.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/3bef26971feebc4d924898d2b19c2fe2?impolicy=wcms_crop_resize&cropH=2363&cropW=4201&xPos=0&yPos=186&width=862&height=485",
-      "topic": "社会",
-      "score": 69,
-      "id": "78d60823e48d"
     }
   ]
 }
