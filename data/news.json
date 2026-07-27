@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T23:17:02.513Z",
+  "updatedAt": "2026-07-27T01:03:49.978Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -16,21 +16,34 @@
       "publishedAt": "2026-07-26T19:21:26.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ece8/live/8c522e20-8924-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "社会",
-      "score": 92,
+      "score": 90,
       "id": "294437fdfe69"
     },
     {
-      "title": "Police shoot dead Berlin Pride car-ramming attack suspect",
-      "summary": "Abdul Ballout sought for 'Islamist terror attack' after a van was driven into crowds at LGBTQ event in German capital.",
-      "url": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss",
+      "title": "AusAlert test: what time will national emergency warning siren sound on phones in Australia today? Here’s what to know",
+      "summary": "National emergency test alert will be sent to all compatible mobile devices on 27 July, with domestic violence advocates advising how to turn off safe phones Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Virtually every phone in the country will blare an emergency siren at 2pm AEST on Mond",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/27/ausalert-national-alert-test-sound-emergency-warning-system-time-date",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-27T00:06:47.000Z",
+      "image": "https://i.guim.co.uk/img/media/4311c69f268807a7d4eaba587f3f622fe2d269fd/1110_6_6270_5016/master/6270.jpg?width=140&quality=85&auto=format&fit=max&s=5863930652e8b1d36537ccfd17132989",
+      "topic": "政治",
+      "score": 88,
+      "id": "2440cddcec79"
+    },
+    {
+      "title": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
+      "summary": "The US has paused its two-week bombing campaign against Iran, prompting Tehran to suspend its retaliatory attacks.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-26T17:51:37.000Z",
+      "region": "中东",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 90,
-      "id": "3a5b4968db93"
+      "topic": "政治",
+      "score": 87,
+      "id": "00497421bf77"
     },
     {
       "title": "Pentagon reports more than 600 Iran war casualties in quiet database update",
@@ -42,7 +55,7 @@
       "publishedAt": "2026-07-26T22:55:06.000Z",
       "image": "https://i.guim.co.uk/img/media/2dc3d4e61f48253e5bc465620bf9dcd82b30cbcf/407_0_2028_1623/master/2028.jpg?width=140&quality=85&auto=format&fit=max&s=6ec42f07bae5961d16378b3b49ad3ceb",
       "topic": "政治",
-      "score": 89,
+      "score": 87,
       "id": "7fc927187fb3"
     },
     {
@@ -55,8 +68,21 @@
       "publishedAt": "2026-07-26T20:28:47.000Z",
       "image": "",
       "topic": "社会",
-      "score": 89,
+      "score": 87,
       "id": "628b4987360c"
+    },
+    {
+      "title": "Police shoot dead Berlin Pride car-ramming attack suspect",
+      "summary": "Abdul Ballout sought for 'Islamist terror attack' after a van was driven into crowds at LGBTQ event in German capital.",
+      "url": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-07-26T17:51:37.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 87,
+      "id": "3a5b4968db93"
     },
     {
       "title": "Israeli settlers burn two mosques in occupied West Bank",
@@ -68,7 +94,7 @@
       "publishedAt": "2026-07-26T18:51:34.000Z",
       "image": "",
       "topic": "经济",
-      "score": 87,
+      "score": 85,
       "id": "99a3964ba1fe"
     },
     {
@@ -81,8 +107,34 @@
       "publishedAt": "2026-07-26T15:22:17.000Z",
       "image": "https://i.guim.co.uk/img/media/6a982f444639a23465779e103f663b5f8df46ea9/898_34_4484_3588/master/4484.jpg?width=140&quality=85&auto=format&fit=max&s=3b6d3fcc1b3501682c74cd88833c5637",
       "topic": "政治",
-      "score": 87,
+      "score": 85,
       "id": "4f70193a79f8"
+    },
+    {
+      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+      "summary": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-07-27T00:27:58.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg",
+      "topic": "政治",
+      "score": 84,
+      "id": "39a602053de4"
+    },
+    {
+      "title": "[Breaking] President Lee: \"Ongoing Instability in Oil Prices Due to Middle East Situation, Oil Price Cap to Continue\"",
+      "summary": "[Breaking] President Lee: \"Ongoing Instability in Oil Prices Due to Middle East Situation, Oil Price Cap to Continue\" &nbsp;&nbsp; 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zYVZySTdLLUc5N0lpeFZlbER1RXJCU09EbmluZ0NmM0RVeE5aZ1VMWWFmYThCeXNVaTFZZDZWNU9BSTE5VzJscm85QkxNUDc4bnA3Y3ZHT0ptSG0xNklsWmZoNnc?oc=5",
+      "source": "아시아경제",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-27T00:20:55.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 84,
+      "id": "f38166d06c92"
     },
     {
       "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
@@ -94,7 +146,7 @@
       "publishedAt": "2026-07-26T21:23:53.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa6/live/489f0bc0-8939-11f1-b0da-9113fb476dd1.jpg",
       "topic": "经济",
-      "score": 86,
+      "score": 84,
       "id": "393bc7f18c1d"
     },
     {
@@ -107,7 +159,7 @@
       "publishedAt": "2026-07-26T14:52:13.000Z",
       "image": "https://i.guim.co.uk/img/media/d4ea3c0184899653b60050ef9031da256e9cc70d/478_0_5566_4453/master/5566.jpg?width=140&quality=85&auto=format&fit=max&s=08c946b3bab63cfa2bb57492210e6177",
       "topic": "气候",
-      "score": 86,
+      "score": 84,
       "id": "331605fb71b8"
     },
     {
@@ -120,7 +172,7 @@
       "publishedAt": "2026-07-26T20:52:06.000Z",
       "image": "",
       "topic": "社会",
-      "score": 85,
+      "score": 83,
       "id": "f88f00c4d8f4"
     },
     {
@@ -133,21 +185,8 @@
       "publishedAt": "2026-07-26T20:35:38.000Z",
       "image": "",
       "topic": "政治",
-      "score": 85,
+      "score": 83,
       "id": "9f3a05741b84"
-    },
-    {
-      "title": "'At the gates': Wildfires edge toward wine city of Bordeaux",
-      "summary": "Flames from wildfires burning in south-west France are creeping ever closer to Bordeaux, but the mayor says, for now, an evacuation is not on the cards.",
-      "url": "https://www.abc.net.au/news/2026-07-27/wildfires-threaten-bordeaux-as-france-and-spain-battle-blazes/106960968",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-07-26T22:20:50.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/3dcb8f1e67274f4b32198605884e995b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "政治",
-      "score": 84,
-      "id": "34462ae9172b"
     },
     {
       "title": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
@@ -159,8 +198,60 @@
       "publishedAt": "2026-07-26T19:27:57.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
+      "score": 82,
       "id": "89d2fabf3d21"
+    },
+    {
+      "title": "'At the gates': Wildfires edge toward wine city of Bordeaux",
+      "summary": "Flames from wildfires burning in south-west France are creeping ever closer to Bordeaux, but the mayor says, for now, an evacuation is not on the cards.",
+      "url": "https://www.abc.net.au/news/2026-07-27/wildfires-threaten-bordeaux-as-france-and-spain-battle-blazes/106960968",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "欧洲",
+      "publishedAt": "2026-07-26T22:20:50.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3dcb8f1e67274f4b32198605884e995b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
+      "topic": "政治",
+      "score": 81,
+      "id": "34462ae9172b"
+    },
+    {
+      "title": "Iran says halts Middle East attacks as US holds fire",
+      "summary": "Iran says halts Middle East attacks as US holds fire &nbsp;&nbsp; ABS-CBN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVd2TngxRW5YNFhnY3hLa0pRZnFTejMwWThGZDBrMlVwTjdBYjdXelQ0MHYwckdWb3JUUFdPRWFmNWkzd01pUzZpZzQ4d1FOYTlOa25GRE1SUGFqVm01a0dvVWhOanBxTC1WSnJKT3hyM0FpTGxMU1dZenJaTS1JbkFtbkVCTmpsWjU0ai1uTEtYLWZVYjlyTzM2WFpUV21KcndMQg?oc=5",
+      "source": "ABS-CBN",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-07-26T16:11:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 81,
+      "id": "86603813898e"
+    },
+    {
+      "title": "Australia news live: Albanese needs to tell Trump new tariff is ‘unacceptable’, Taylor says",
+      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast What you need to know about today’s AusAlert test It’s also well worth watching this video of Guardian Australia’s community affairs reporter Adeshola Ore ’s interview with Barnaby Joyce about Armidale’s refugee resettlement program and One Nation’s policy positions on im",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-27T00:49:29.000Z",
+      "image": "https://i.guim.co.uk/img/media/391f86a4c1e9598c171c74a4eb511fc7a7c07fb9/53_0_6010_4808/master/6010.jpg?width=140&quality=85&auto=format&fit=max&s=01f0a6e518b2a6ecdc10a47049102e37",
+      "topic": "经济",
+      "score": 80,
+      "id": "fd10bd305566"
+    },
+    {
+      "title": "Jacinta Allan declares she’ll stand against any leadership challenger after Labor factions move against her",
+      "summary": "Victorian premier says she intends to contest any ballot as sources say delegation of ministers have urged her to stand down Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Victorian premier, Jacinta Allan, has thrown down the gauntlet to Labor powerbrokers, vowing to fight any attempt t",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/27/jacinta-allan-leadership-challenge-labor-faction-meeting-victoria-politics",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-27T00:42:05.000Z",
+      "image": "https://i.guim.co.uk/img/media/e2f7cb09552e0481ab4f2ac5a33ca4bb4d34e7fa/0_0_4229_3385/master/4229.jpg?width=140&quality=85&auto=format&fit=max&s=2aba507d30b01d13887c09d497805158",
+      "topic": "政治",
+      "score": 80,
+      "id": "5a0722f4f46c"
     },
     {
       "title": "Ex-Honduran President Juan Orlando Hernandez Returns Home After Donald Trump's Pardon",
@@ -172,7 +263,7 @@
       "publishedAt": "2026-07-26T21:19:47.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 80,
       "id": "2576e6e59c78"
     },
     {
@@ -185,8 +276,34 @@
       "publishedAt": "2026-07-26T18:15:17.000Z",
       "image": "",
       "topic": "社会",
-      "score": 82,
+      "score": 80,
       "id": "de8b155919bd"
+    },
+    {
+      "title": "‘Extraordinarily hot’: US heatwave stretches on with millions still under warnings",
+      "summary": "Southern and central states from California to Mississippi face heat indexes above 100F amid another heat dome At least 40 million people were under extreme heat warnings across central and southern parts of the United States on Sunday as high temperatures and severe humidity gripped large swaths of the country for a second straight day . Heat indexes well a",
+      "url": "https://www.theguardian.com/us-news/2026/jul/26/us-heat-wave-dome-weather",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "美洲",
+      "publishedAt": "2026-07-27T00:04:47.000Z",
+      "image": "https://i.guim.co.uk/img/media/d3c1a11914e79f0c9a30b60156a4ce9a0f6b5ab8/1078_0_6622_5298/master/6622.jpg?width=140&quality=85&auto=format&fit=max&s=4f6cc5af3b84d95ab5c45bf15c69b1e0",
+      "topic": "政治",
+      "score": 79,
+      "id": "fec6ef0976ad"
+    },
+    {
+      "title": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
+      "summary": "Iran's supreme leader calls for 'absolute, unconditional termination' of Israel's attacks on Lebanon.",
+      "url": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-07-26T23:44:29.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "b44dea38a89a"
     },
     {
       "title": "Police shoot dead Berlin Pride van and knife rampage suspect, officials say",
@@ -198,21 +315,8 @@
       "publishedAt": "2026-07-26T17:53:50.000Z",
       "image": "https://i.guim.co.uk/img/media/c93ba727a3ad0babab46a835b25c64bdb4f23572/205_0_2659_2128/master/2659.jpg?width=140&quality=85&auto=format&fit=max&s=a06ac911eab795149b4b419a942b5fbc",
       "topic": "社会",
-      "score": 82,
+      "score": 79,
       "id": "7f47db647626"
-    },
-    {
-      "title": "News live: national AusAlert test to blare siren; latest US tariffs on Australia ‘unjustified’, James Paterson says",
-      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast It’s also well worth watching this video of Guardian Australia’s community affairs reporter Adeshola Ore ’s interview with Barnaby Joyce about Armidale’s refugee resettlement program and One Nation’s policy positions on immigration. One Nation’s policy is that immigrants ",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-26T23:04:55.000Z",
-      "image": "https://i.guim.co.uk/img/media/ee758324f65c1ad4bf6263d4b4a2b38ac9d56908/701_0_4601_3683/master/4601.jpg?width=140&quality=85&auto=format&fit=max&s=18d4d025769d7ace0405c3faa4684de4",
-      "topic": "社会",
-      "score": 80,
-      "id": "0dcee485ffbe"
     },
     {
       "title": "RAF Chinook crash victims’ families ask Andy Burnham for review of disaster",
@@ -224,47 +328,21 @@
       "publishedAt": "2026-07-26T23:01:24.000Z",
       "image": "https://i.guim.co.uk/img/media/dd39151ee0bb9609df799918406c3b054d3b564c/248_0_3765_3013/master/3765.jpg?width=140&quality=85&auto=format&fit=max&s=7436e8be3d97c3d411467c006ea6b656",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "56ca0edbe2d5"
     },
     {
-      "title": "Jacinta Allan expected to face leadership challenge after Victorian Labor factions meet",
-      "summary": "Minister says premier ‘not going anywhere’ and describes leaking of Sunday night meeting as attempt to build momentum for spill Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Victorian Labor premier, Jacinta Allan, is expected to face a leadership challenge when state parliament resumes",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/27/jacinta-allan-leadership-challenge-labor-faction-meeting-victoria-politics",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-26T22:41:58.000Z",
-      "image": "https://i.guim.co.uk/img/media/e2f7cb09552e0481ab4f2ac5a33ca4bb4d34e7fa/0_0_4229_3385/master/4229.jpg?width=140&quality=85&auto=format&fit=max&s=2aba507d30b01d13887c09d497805158",
-      "topic": "政治",
-      "score": 80,
-      "id": "413362531039"
-    },
-    {
-      "title": "Iran says halts Middle East attacks as US holds fire",
-      "summary": "Iran says halts Middle East attacks as US holds fire &nbsp;&nbsp; ABS-CBN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVd2TngxRW5YNFhnY3hLa0pRZnFTejMwWThGZDBrMlVwTjdBYjdXelQ0MHYwckdWb3JUUFdPRWFmNWkzd01pUzZpZzQ4d1FOYTlOa25GRE1SUGFqVm01a0dvVWhOanBxTC1WSnJKT3hyM0FpTGxMU1dZenJaTS1JbkFtbkVCTmpsWjU0ai1uTEtYLWZVYjlyTzM2WFpUV21KcndMQg?oc=5",
-      "source": "ABS-CBN",
+      "title": "Latest war news. Escalation in the West Bank: settlers set fire to two mosques. Oil tanker explodes after hitting a mine in the Strait of Hormuz. Iran threatens Ukraine",
+      "summary": "Latest war news. Escalation in the West Bank: settlers set fire to two mosques. Oil tanker explodes after hitting a mine in the Strait of Hormuz. Iran threatens Ukraine &nbsp;&nbsp; Il Sole 24 ORE",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPamwwTVlsTHpBZWJhelZpU1ZiOVc0ODEzbjZINURVS0ZqcXZmZzJyOXJTRnIwZGdnXzVGNDRTeGZhVXJhNkZCSG5pMDZEdGZEMVc2dkd5RUtndWtGRVlTbmt4NDZEOUxSMnEtM05ZMTRCd0l0eXo4M3dJbTJkVkEzNEZURGpNNEFSSGsyWVg4ekRqVFVleGRPOEg5Y28wUTFmaGE2T1FEbVl5VThmX0dCdVZNYVJiZ1V2VWppYnRBZTVmMUZlRWxBcjFKWndIVi1zcXRfQ0h6Wk9QdnNGRy1JVnZlZTB2V0hBR2g4STZn?oc=5",
+      "source": "Il Sole 24 ORE",
       "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-26T16:11:00.000Z",
+      "region": "欧洲",
+      "publishedAt": "2026-07-26T18:53:25.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 80,
-      "id": "86603813898e"
-    },
-    {
-      "title": "Breaking: AFL confirms State of Origin future with Victoria left out of 2027 game",
-      "summary": "The AFL confirms the future of State of Origin, with Victoria to miss out on the next match in 2027.",
-      "url": "https://www.abc.net.au/news/2026-07-27/afl-confirms-state-of-origin-future/106961174",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-26T22:19:38.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/b13bbad385404da8e28d1044a623fd67?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=107&width=862&height=485",
-      "topic": "社会",
-      "score": 79,
-      "id": "d8fe104dc8b0"
+      "topic": "经济",
+      "score": 77,
+      "id": "867efd8a54bd"
     },
     {
       "title": "US pauses Iran attacks for second night after Trump advised to halt bombing",
@@ -276,8 +354,47 @@
       "publishedAt": "2026-07-26T18:45:41.000Z",
       "image": "https://i.guim.co.uk/img/media/043c8a85c68c52d84753f45400765d8c176f8f26/128_0_2917_2334/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=792b805c835f05fe6a3b5dc19c267bb5",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "cf7c1bef3709"
+    },
+    {
+      "title": "Cardoso, Okonjo-Iweala to lead Africa Emerging Markets Forum",
+      "summary": "Cardoso, Okonjo-Iweala to lead Africa Emerging Markets Forum &nbsp;&nbsp; Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTy1NQ09TZXNPb1dRYjNTOTdGSUJNVHd3UzlrZldWOC1TQ1RvRU1YemNQQ1c4c1dYcmlpUE9vMG8za3RlcGpDczZuVlBsNS1YQWFoeFllQm1WOTE4cHBuSFJpb3FFdGM1UzdoYlZsYzh5VVV0cjdYWEZPLWNPY3lOWjJzZUJ3bUhJTXJLYw?oc=5",
+      "source": "Punch Newspapers",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-27T00:56:15.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 76,
+      "id": "865e57119488"
+    },
+    {
+      "title": "Guterres tours Syria’s notorious ‘Assad Prison’ in Sednaya",
+      "summary": "UN Secretary-General Antonio Guterres toured the notorious former ‘Assad prison’ in Sednaya.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_guterres-tours-syrias-assad-prison-in-sednaya-260726?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-07-27T00:48:06.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "618e929a017a"
+    },
+    {
+      "title": "Quick hits: Wiggles star's daughter shines, netball 'cleaner' goes viral",
+      "summary": "Two Aussie besties share a podium, and a very famous face wiggles his way into the stands. Here are the quick hits from day three of the Commonwealth Games.",
+      "url": "https://www.abc.net.au/news/2026-07-27/commonwealth-games-glasgow-day-3-quick-hits/106959366",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-27T00:44:28.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/47780ea7392367db6a7507bc270f5c1e?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 76,
+      "id": "973d437d67a5"
     },
     {
       "title": "Trump’s border czar probes possible vetting failures after ICE shooting",
@@ -289,7 +406,7 @@
       "publishedAt": "2026-07-26T21:59:53.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 76,
       "id": "18c47a34e3b0"
     },
     {
@@ -302,7 +419,7 @@
       "publishedAt": "2026-07-26T21:30:22.000Z",
       "image": "https://i.guim.co.uk/img/media/90c7f897898192dda0b8e1ef2f15387483bf44da/442_377_1661_1329/master/1661.jpg?width=140&quality=85&auto=format&fit=max&s=c905173d7e81bf922b9dc5089052a0d2",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "07a9b03b2665"
     },
     {
@@ -315,21 +432,8 @@
       "publishedAt": "2026-07-26T21:30:20.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22a2/live/0e818a60-8922-11f1-a7ab-8b30adf0800a.jpg",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "3665165d96ed"
-    },
-    {
-      "title": "What’s causing the unprecedented wildfires in Europe?",
-      "summary": "France and Spain have deployed thousands of firefighters, and neighbouring countries have sent help.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/26/whats-causing-the-unprecedented-wildfires-in-europe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-07-26T21:17:57.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 78,
-      "id": "76f913241bef"
     },
     {
       "title": "More action needed to protect female tradies from 'nasty sexism', experts say",
@@ -341,7 +445,7 @@
       "publishedAt": "2026-07-26T21:16:46.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/260f43dae459057c5bbfeaf8abd9337d?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "d2b0f15a751d"
     },
     {
@@ -354,21 +458,21 @@
       "publishedAt": "2026-07-26T21:14:18.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/a51a9bf4d02ccf2b32395ddc42abe0c7?impolicy=wcms_crop_resize&cropH=2160&cropW=3840&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "282546d214d1"
     },
     {
-      "title": "Hotel 'crisis' looms for thousands of travellers landing at new airport",
-      "summary": "The lack of hotel space for the soon-to-be opened Western Sydney Airport (WSI) has been flagged as a major issue.",
-      "url": "https://www.abc.net.au/news/2026-07-27/lack-of-hotels-and-beds-near-western-sydney-airport-a-crisis/106956246",
+      "title": "Live: Taylor hoses down Liberal senator's suggestion of coalition with One Nation",
+      "summary": "Opposition Leader Angus Taylor rejects a Liberal senator's suggestions of a Liberal-One Nation coalition after the next election. Follow live.",
+      "url": "https://www.abc.net.au/news/2026-07-27/federal-politics-live-blog-pm-dinner-july-27/106960978",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "大洋洲",
-      "publishedAt": "2026-07-26T21:03:22.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/436ea0cfe1af6c7e80863c149ca3dba0?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=157&width=862&height=485",
-      "topic": "科技",
-      "score": 78,
-      "id": "4e352fc73edd"
+      "publishedAt": "2026-07-26T21:10:28.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2a0ae5917e7db7d3e762f76585e7f9b0?impolicy=wcms_crop_resize&cropH=909&cropW=1616&xPos=0&yPos=86&width=862&height=485",
+      "topic": "政治",
+      "score": 76,
+      "id": "76c6ea10c1ca"
     },
     {
       "title": "Romania summons Russian envoy as it shoots down third intruding drone",
@@ -380,7 +484,7 @@
       "publishedAt": "2026-07-26T18:17:22.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "11efad1970ff"
     },
     {
@@ -393,21 +497,112 @@
       "publishedAt": "2026-07-26T17:40:15.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "e201cf88efcf"
     },
     {
-      "title": "Netanyahu accuses Mamdani of ‘fomenting hate’ in calls for PM’s arrest",
-      "summary": "Israeli prime minister says ICC’s war crime charges are ‘bogus’ and plans to be in New York for UN gathering this fall Benjamin Netanyahu said on Sunday that Zohran Mamdani , the New York City mayor, is “fomenting hate” by calling the Israeli prime minister a war criminal who should be arrested over Israel ’s war in Gaza if he visits the city for the United ",
-      "url": "https://www.theguardian.com/us-news/2026/jul/26/netanyahu-mamdani-icc-arrest-gaza-war-united-nations",
-      "source": "The Guardian",
-      "feed": "The Guardian",
+      "title": "Lee Vows to Maintain Oil Price Cap Amid Middle East Turmoil",
+      "summary": "Lee Vows to Maintain Oil Price Cap Amid Middle East Turmoil &nbsp;&nbsp; Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMUNjS0FEN2VvdVJjVngwRDNpMGNZQVZjNXF2ZHZDaDJqUVVXaXltdE1tMXRqV3hFQmJGdTBaYm5qNDVXMTBYYThod2Q5cUx4akZxeXdHVDhiWFQ2ckRaRFdOTy1pTzhVZl9SRU8wNjEyeS1vNFBIQ3F5RHRvd3FpLWVlMHpVckIzekpTZTQ1QXlZNUk2dG16VnRjOVhDckxyd01Zdw?oc=5",
+      "source": "Seoul Economic Daily",
+      "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-07-26T20:43:20.000Z",
-      "image": "https://i.guim.co.uk/img/media/f79d146460844bd368ab830a4d365439820e4916/370_0_2886_2309/master/2886.jpg?width=140&quality=85&auto=format&fit=max&s=9f9bc4d674a219833227f104ce0ffeaf",
-      "topic": "政治",
-      "score": 77,
-      "id": "15ea35c22c84"
+      "publishedAt": "2026-07-27T00:26:54.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 75,
+      "id": "c2fa3ae07aa4"
+    },
+    {
+      "title": "Jacinta Allan says she won't step aside as future hangs in the balance",
+      "summary": "Victorian Premier Jacinta Allan says she will fight any leadership challenge, after factional power brokers met last night and agreed that she does not have the support of caucus.",
+      "url": "https://www.abc.net.au/news/2026-07-27/victorian-premier-jacinta-allan-future-labor-mps-meet/106960880",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-27T00:23:46.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/74925e85f216aaf00c1f58265885f54c?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "9cff11246248"
+    },
+    {
+      "title": "Tonga stun hosts as Pacific athletes light up Commonwealth Games",
+      "summary": "Tonga stun hosts as Pacific athletes light up Commonwealth Games &nbsp;&nbsp; Post Courier",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRUFvY1l1R1VZb29uNk5NWmpLdmpCYm5hTHFHZkRSOE9la3kwNHVKWG5WTllZUTRBc25NaHBIWXREX3ZHV3YxU2dtanNwNU9sam1aYjZUUHEteXg3OXh4RDd0d080YTV4SDAyQ1Q0cnNsS1lBanUwZmU4THY2SUVSTUE0ai12TTQ5R2xJbElDclZXTlVPQ1BhZkpDSmQ?oc=5",
+      "source": "Post Courier",
+      "feed": "Pacific News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-27T00:13:37.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "ab147ec6b549"
+    },
+    {
+      "title": "'Weekend DIY' flat-pack homes misleading consumers",
+      "summary": "Steve Harris was promised his flat-pack home could be a \"build-in-a-weekend\" job. It may end up costing him twice the sale price, with compliance costs added in.",
+      "url": "https://www.abc.net.au/news/2026-07-27/wa-prefab-housing-diy-costly/106943676",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-27T00:04:31.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/5c020f6fc32ac4bf9008bddc80991e4a?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=469&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "3f6768903ebe"
+    },
+    {
+      "title": "Mayo wins All-Ireland title, ending 75-year 'curse'",
+      "summary": "A huge Gaelic football upset sees Mayo beat GAA giants Kerry in the All-Ireland football final and one of the stars of the team that ended a 75-year \"curse\" is headed to the AFL.",
+      "url": "https://www.abc.net.au/news/2026-07-27/mayo-wins-all-ireland-football-title-ending-75-year-curse/106960756",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-26T23:57:14.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/14117045b7a52caa667dafb574ffc752?impolicy=wcms_crop_resize&cropH=1992&cropW=3542&xPos=0&yPos=167&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "ae4e914624f3"
+    },
+    {
+      "title": "What’s causing the unprecedented wildfires in Europe?",
+      "summary": "France and Spain have deployed thousands of firefighters, and neighbouring countries have sent help.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/26/whats-causing-the-unprecedented-wildfires-in-europe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-07-26T21:17:57.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 75,
+      "id": "76f913241bef"
+    },
+    {
+      "title": "Hotel 'crisis' looms for thousands of travellers landing at new airport",
+      "summary": "The lack of hotel space for the soon-to-be opened Western Sydney Airport (WSI) has been flagged as a major issue.",
+      "url": "https://www.abc.net.au/news/2026-07-27/lack-of-hotels-and-beds-near-western-sydney-airport-a-crisis/106956246",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-26T21:03:22.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/436ea0cfe1af6c7e80863c149ca3dba0?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=157&width=862&height=485",
+      "topic": "科技",
+      "score": 75,
+      "id": "4e352fc73edd"
+    },
+    {
+      "title": "Live: ASX jumps, oil slumps after US and Iran pause missile attacks",
+      "summary": "The ASX has opened 1 per cent higher as global oil prices slump on easing tensions in the Middle East. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "url": "https://www.abc.net.au/news/2026-07-27/asx-markets-business-live-news/106958540",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "中东",
+      "publishedAt": "2026-07-26T20:59:59.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&cropH=530&cropW=942&xPos=0&yPos=14&width=862&height=485",
+      "topic": "经济",
+      "score": 75,
+      "id": "a3b36f8f4800"
     },
     {
       "title": "What we know so far about the Berlin Pride ramming attack",
@@ -419,7 +614,7 @@
       "publishedAt": "2026-07-26T20:34:23.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b106/live/ee7413e0-8936-11f1-a7ab-8b30adf0800a.jpg",
       "topic": "社会",
-      "score": 77,
+      "score": 75,
       "id": "8bcf72e246e9"
     },
     {
@@ -432,7 +627,7 @@
       "publishedAt": "2026-07-26T20:27:26.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/88d558a6fd3d2e9ab42af4740b3ee3c7?impolicy=wcms_crop_resize&cropH=2638&cropW=4690&xPos=0&yPos=126&width=862&height=485",
       "topic": "社会",
-      "score": 77,
+      "score": 75,
       "id": "41d251c66587"
     },
     {
@@ -445,7 +640,7 @@
       "publishedAt": "2026-07-26T17:16:06.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 75,
       "id": "752f01572b66"
     },
     {
@@ -458,7 +653,7 @@
       "publishedAt": "2026-07-26T17:13:55.000Z",
       "image": "",
       "topic": "经济",
-      "score": 77,
+      "score": 75,
       "id": "bfd89e728fd2"
     },
     {
@@ -471,47 +666,21 @@
       "publishedAt": "2026-07-26T10:39:51.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 75,
       "id": "b7b255eab3af"
     },
     {
-      "title": "Rising oil prices could force up UK interest rates, say economists",
-      "summary": "Bank of England expected to keep rates on hold on Thursday but renewed Iran conflict casts shadow over energy costs The Bank of England could be forced to tear up its economic forecasts and raise interest rates later this year if oil prices return to above $100 a barrel, according to City economists. Before a meeting of Bank officials on Thursday, economists",
-      "url": "https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-07-26T23:01:23.000Z",
-      "image": "https://i.guim.co.uk/img/media/ef3ca56eebf76168582573c40aa38881323f3834/293_0_2915_2331/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=978e5ae591f852c4a1e43c9ce77fa5fd",
-      "topic": "经济",
-      "score": 76,
-      "id": "76d51a54ce98"
-    },
-    {
-      "title": "Remote community wants answers after teacher reported for 'concerning' conduct",
-      "summary": "Underwater footage and a complaint alleging serious misconduct by a teacher triggered an investigation in one of Australia's most remote communities. Residents say they want more transparency and support.",
-      "url": "https://www.abc.net.au/news/2026-07-27/kalumburu-residents-child-safety-concerns-teacher-conduct/106939514",
+      "title": "Scottish-blooded Anderson thrilled to win gold in Glasgow instead of Victoria",
+      "summary": "Many Australians may be bemoaning the controversial and costly relocation of the Commonwealth Games from regional Victoria to Glasgow, but gold medallist Iona Anderson is not one of them.",
+      "url": "https://www.abc.net.au/news/2026-07-27/commonwealth-games-iona-anderson-scottish-glasgow-gold/106961028",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "大洋洲",
-      "publishedAt": "2026-07-26T23:01:15.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ccc84f04c579b7aeb8a28763760024de?impolicy=wcms_crop_resize&cropH=2810&cropW=4995&xPos=0&yPos=365&width=862&height=485",
+      "publishedAt": "2026-07-26T23:15:15.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/07b91d4af529cfdf150fe5d27c0e3a68?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=539&width=862&height=485",
       "topic": "社会",
-      "score": 76,
-      "id": "8e33bcd574f8"
-    },
-    {
-      "title": "Family flee 'targeted' arson attack in north-east Melbourne",
-      "summary": "Police are investigating an alleged targeted arson attack on a home in Mill Park overnight, which forced a family to flee through their backyard.",
-      "url": "https://www.abc.net.au/news/2026-07-27/family-flee-arson-attack-in-mill-park-north-east-melbourne-vic/106960892",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-26T19:44:17.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/8ebb12675812e64cc0141f6fb3e26b04?impolicy=wcms_crop_resize&cropH=762&cropW=1355&xPos=105&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 76,
-      "id": "87cb3c44c683"
+      "score": 74,
+      "id": "13cfc46227a3"
     },
     {
       "title": "Sackings, 'drone deal' and a 'long war': Zelenskyy speaks to Sky News",
@@ -523,34 +692,21 @@
       "publishedAt": "2026-07-26T19:41:00.000Z",
       "image": "https://e3.365dm.com/26/07/1920x1080/skynews-zelenskyy-ramsay_7307352.jpg?20260726203652",
       "topic": "政治",
-      "score": 76,
+      "score": 74,
       "id": "78952a3f3a23"
     },
     {
-      "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
-      "summary": "Mediation efforts continue but uncertainty remains as risks of further disruptions in international waterways grow.",
-      "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-26T19:31:58.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 76,
-      "id": "17545c897b88"
-    },
-    {
-      "title": "Europe Wildfires: Spain, France Battle Deadly Blazes; Over 3,00,000 Flee Homes; Thousands Evacuated",
-      "summary": "Europe Wildfires: Spain, France Battle Deadly Blazes; Over 3,00,000 Flee Homes; Thousands Evacuated &nbsp;&nbsp; NewsX",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOODl2emptR0xRc1NUazl6T3I3dll2d2p1X1NzQTdxR3VFTGlVTktFNk5yS3FTMnAwSVpJZzBlcWY5Z25GMGZUSEo5dFpUay1mbkNFLWNRc2NtanVhdnlpVTFyN1FEbU1QdFZleDA4eW51Tmx0MFN0N1ZSb0tJUDh2MjJzejlTdlVJcHBESk56WkFfdExSV0FrVC03bGEtTC02SlgtckNnR25TdG9wT19JQXRWeUpHQ3dFbmF3aUlZa0xDWDlHSUs4N0czUFY2QdIBzgFBVV95cUxOODl2emptR0xRc1NUazl6T3I3dll2d2p1X1NzQTdxR3VFTGlVTktFNk5yS3FTMnAwSVpJZzBlcWY5Z25GMGZUSEo5dFpUay1mbkNFLWNRc2NtanVhdnlpVTFyN1FEbU1QdFZleDA4eW51Tmx0MFN0N1ZSb0tJUDh2MjJzejlTdlVJcHBESk56WkFfdExSV0FrVC03bGEtTC02SlgtckNnR25TdG9wT19JQXRWeUpHQ3dFbmF3aUlZa0xDWDlHSUs4N0czUFY2QQ?oc=5",
-      "source": "NewsX",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-26T13:24:10.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 76,
-      "id": "68f6018bbc68"
+      "title": "Remote community wants answers after teacher reported for 'concerning' conduct",
+      "summary": "Underwater footage and a complaint alleging serious misconduct by a teacher triggered an investigation in one of Australia's most remote communities. Residents say they want more transparency and support.",
+      "url": "https://www.abc.net.au/news/2026-07-27/kalumburu-residents-child-safety-concerns-teacher-conduct/106939514",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-26T23:01:15.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ccc84f04c579b7aeb8a28763760024de?impolicy=wcms_crop_resize&cropH=2810&cropW=4995&xPos=0&yPos=365&width=862&height=485",
+      "topic": "社会",
+      "score": 73,
+      "id": "8e33bcd574f8"
     },
     {
       "title": "Boy, 16, charged with murder of teenager stabbed in Luton park",
@@ -562,8 +718,21 @@
       "publishedAt": "2026-07-26T22:26:08.000Z",
       "image": "https://i.guim.co.uk/img/media/1431ac7e00cea8d2780b9f9c5d58d44bb2e13e3c/0_1_5000_3998/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6a397a7a638189d68ed7c788a93eba4d",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "da8dd9a26259"
+    },
+    {
+      "title": "AFL confirms State of Origin future with Victoria left out of 2027 game",
+      "summary": "The AFL confirms the future of State of Origin, with Victoria to miss out on the next match in 2027.",
+      "url": "https://www.abc.net.au/news/2026-07-27/afl-confirms-state-of-origin-future/106961174",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-26T22:19:38.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b13bbad385404da8e28d1044a623fd67?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=107&width=862&height=485",
+      "topic": "社会",
+      "score": 73,
+      "id": "87ca5240d4af"
     },
     {
       "title": "Watch 9News Latest Stories - Season 2026 - Wildfires ravage Europe as hundreds of thousands evacuated",
@@ -575,34 +744,8 @@
       "publishedAt": "2026-07-26T22:18:03.000Z",
       "image": "",
       "topic": "气候",
-      "score": 75,
+      "score": 73,
       "id": "1b3bf4741991"
-    },
-    {
-      "title": "Remote Qld Indigenous community's only drug and alcohol rehab centre closes",
-      "summary": "The only alcohol and drug rehabilitation centre in the remote Indigenous community of Woorabinda closes after the council terminated the not-for-profit provider's lease.",
-      "url": "https://www.abc.net.au/news/2026-07-27/woorabinda-rehab-service-closes/106954156",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-26T22:15:15.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/3fd0b06d242e704ae8b0ac5f232d4125?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=167&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "4038fa7d8ba5"
-    },
-    {
-      "title": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
-      "summary": "World champion Jaismine Lamboria targets Commonwealth gold in Glasgow Games.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "亚洲",
-      "publishedAt": "2026-07-26T22:06:46.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a87f/live/b884e260-873c-11f1-a10e-a5d4f08bc20c.jpg",
-      "topic": "社会",
-      "score": 75,
-      "id": "2647c3a7eff5"
     },
     {
       "title": "Cuban president accuses US of genocide, seeking takeover",
@@ -614,60 +757,8 @@
       "publishedAt": "2026-07-26T19:16:29.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "95d5a5c7d96a"
-    },
-    {
-      "title": "Kumanjayi White's family sues for answers on police probe",
-      "summary": "The family of Kumanjayi White has launched legal action seeking answers over who made the decision not to pursue charges against the police officers involved in the 24-year-old's death.",
-      "url": "https://www.abc.net.au/news/2026-07-27/kumanjayi-white-family-launches-supreme-court-action/106953648",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-26T19:13:49.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/b78a64f0bf0dd191bf4bd1536ae6474a?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=111&width=862&height=485",
-      "topic": "科技",
-      "score": 75,
-      "id": "fc8a3b52ddbe"
-    },
-    {
-      "title": "Netanyahu vows to go to New York City despite ICC arrest warrant, Mamdani",
-      "summary": "Israeli prime minister slams New York Mayor Zohran Mamdani, accusing him of 'fomenting hate' with criticism of Israel.",
-      "url": "https://www.aljazeera.com/news/2026/7/26/netanyahu-vows-to-go-to-new-york-city-despite-icc-arrest-warrant-mamdani?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-26T19:13:02.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "a5e0e085c966"
-    },
-    {
-      "title": "A new heat wave is forecast to hit Europe this week, adding to the pressure on countries that are already fighting deadly wildfires that have forced hundreds of thousands to evacuate. Here's what to know.",
-      "summary": "A new heat wave is forecast to hit Europe this week, adding to the pressure on countries that are already fighting deadly wildfires that have forced hundreds of thousands to evacuate. Here's what to know. &nbsp;&nbsp; facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS0dDcVBYNUxyaWpqUF9xOFQ0N2xKbUluSXJtOGJDTFVlX3E5SnBteDk0RWFLZ0l6NEZQVks0MUJQd0pvOVE1YTBhY2NrelZqeS1DSTZoUV94M3JpcVdVM0swYkt5MzJXMzRfQjJWS09XcTdobl9xOF9lRFN1b0pmQzNUb2VrakVqOG1JRWphQUtfaEliVk1lQmNWQ2h0QnFkSFZRd0UtT2FXYmYyOGNpVk9sTmpJVFpJdnpYaFVaVnlPM1FMUzUyOW1zY1lQV085MVEw?oc=5",
-      "source": "facebook.com",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-26T19:10:12.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 75,
-      "id": "3116685d8bc7"
-    },
-    {
-      "title": "Latest war news. Escalation in the West Bank: settlers set fire to two mosques. Oil tanker explodes after hitting a mine in the Strait of Hormuz. Iran threatens Ukraine",
-      "summary": "Latest war news. Escalation in the West Bank: settlers set fire to two mosques. Oil tanker explodes after hitting a mine in the Strait of Hormuz. Iran threatens Ukraine &nbsp;&nbsp; Il Sole 24 ORE",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPamwwTVlsTHpBZWJhelZpU1ZiOVc0ODEzbjZINURVS0ZqcXZmZzJyOXJTRnIwZGdnXzVGNDRTeGZhVXJhNkZCSG5pMDZEdGZEMVc2dkd5RUtndWtGRVlTbmt4NDZEOUxSMnEtM05ZMTRCd0l0eXo4M3dJbTJkVkEzNEZURGpNNEFSSGsyWVg4ekRqVFVleGRPOEg5Y28wUTFmaGE2T1FEbVl5VThmX0dCdVZNYVJiZ1V2VWppYnRBZTVmMUZlRWxBcjFKWndIVi1zcXRfQ0h6Wk9QdnNGRy1JVnZlZTB2V0hBR2g4STZn?oc=5",
-      "source": "Il Sole 24 ORE",
-      "feed": "Middle East News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-07-26T18:53:25.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 75,
-      "id": "867efd8a54bd"
     },
     {
       "title": "Typhoon Noul batters Southeast China",
@@ -679,8 +770,47 @@
       "publishedAt": "2026-07-26T16:19:07.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "d53b2568e711"
+    },
+    {
+      "title": "Europe Wildfires: Spain, France Battle Deadly Blazes; Over 3,00,000 Flee Homes; Thousands Evacuated",
+      "summary": "Europe Wildfires: Spain, France Battle Deadly Blazes; Over 3,00,000 Flee Homes; Thousands Evacuated &nbsp;&nbsp; NewsX",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOODl2emptR0xRc1NUazl6T3I3dll2d2p1X1NzQTdxR3VFTGlVTktFNk5yS3FTMnAwSVpJZzBlcWY5Z25GMGZUSEo5dFpUay1mbkNFLWNRc2NtanVhdnlpVTFyN1FEbU1QdFZleDA4eW51Tmx0MFN0N1ZSb0tJUDh2MjJzejlTdlVJcHBESk56WkFfdExSV0FrVC03bGEtTC02SlgtckNnR25TdG9wT19JQXRWeUpHQ3dFbmF3aUlZa0xDWDlHSUs4N0czUFY2QdIBzgFBVV95cUxOODl2emptR0xRc1NUazl6T3I3dll2d2p1X1NzQTdxR3VFTGlVTktFNk5yS3FTMnAwSVpJZzBlcWY5Z25GMGZUSEo5dFpUay1mbkNFLWNRc2NtanVhdnlpVTFyN1FEbU1QdFZleDA4eW51Tmx0MFN0N1ZSb0tJUDh2MjJzejlTdlVJcHBESk56WkFfdExSV0FrVC03bGEtTC02SlgtckNnR25TdG9wT19JQXRWeUpHQ3dFbmF3aUlZa0xDWDlHSUs4N0czUFY2QQ?oc=5",
+      "source": "NewsX",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-07-26T13:24:10.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 73,
+      "id": "68f6018bbc68"
+    },
+    {
+      "title": "Remote Indigenous community's only drug and alcohol rehab centre closes",
+      "summary": "The only alcohol and drug rehabilitation centre in the remote Indigenous community of Woorabinda closes after the council terminated the not-for-profit provider's lease.",
+      "url": "https://www.abc.net.au/news/2026-07-27/woorabinda-rehab-service-closes/106954156",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-07-26T22:15:15.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3fd0b06d242e704ae8b0ac5f232d4125?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=167&width=862&height=485",
+      "topic": "社会",
+      "score": 72,
+      "id": "eca2812f8b30"
+    },
+    {
+      "title": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
+      "summary": "World champion Jaismine Lamboria targets Commonwealth gold in Glasgow Games.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "亚洲",
+      "publishedAt": "2026-07-26T22:06:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a87f/live/b884e260-873c-11f1-a10e-a5d4f08bc20c.jpg",
+      "topic": "社会",
+      "score": 72,
+      "id": "2647c3a7eff5"
     },
     {
       "title": "Water supply restored to Gatwick airport after hours without working toilets",
@@ -692,21 +822,8 @@
       "publishedAt": "2026-07-26T22:01:06.000Z",
       "image": "https://i.guim.co.uk/img/media/f1d9ec6cc84204b430c61c28bef82296e33e5401/322_328_2167_1734/master/2167.jpg?width=140&quality=85&auto=format&fit=max&s=a9a8c73325c3e57d1b577fbac7164731",
       "topic": "经济",
-      "score": 74,
+      "score": 72,
       "id": "a97b7878d2ac"
-    },
-    {
-      "title": "Tree planting project creates jobs for future in Tennant Creek",
-      "summary": "Indigenous residents in Tennant Creek have been planting trees as part of a project to rehabilitate a mine site.",
-      "url": "https://www.abc.net.au/news/2026-07-27/julalikari-and-tennant-mining-team-up-for-jobs/106943324",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-26T21:33:15.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/8cf46cd5d847fd1f0152b5ecbad37b3b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-      "topic": "经济",
-      "score": 74,
-      "id": "c5575b469eeb"
     },
     {
       "title": "Iran vows revenge on Zelensky after strikes threaten to drag 'Europe into war'",
@@ -718,21 +835,8 @@
       "publishedAt": "2026-07-26T21:18:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 72,
       "id": "780b263f84f4"
-    },
-    {
-      "title": "Four US troops killed taken off Iran casualty tally",
-      "summary": "Four US troops killed taken off Iran casualty tally &nbsp;&nbsp; 7NEWS",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZUViTDVKTG9rU21jX0gxaHp2WWVUMlhTTUpvUzB3Yk9QbjJGTm5najViR0dQcUtYa1RpTXNOdm1CREJkbTlseUk1SEJ2ek9TYlYtSTRyWHVURTRxUE1EVWVCMUU4ejRqbWhIYWpFOEluTE1zTHUyRFNPWEJLeGVYUWlnWkZnSnk3YlhLYmhoeF9lcWljc2RMVExHUDV5MkRQMUNPWUU5N2NfclBaUFNiQjVCa2tGY1FHRTVSYmZ1Qjc3QzNuZWJELVhualQ?oc=5",
-      "source": "7NEWS",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-07-26T21:13:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "2db2ac1e7ffe"
     },
     {
       "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
@@ -744,99 +848,34 @@
       "publishedAt": "2026-07-26T18:40:08.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7731/live/42f6c270-8921-11f1-ba41-9bff51dd5d72.jpg",
       "topic": "气候",
-      "score": 74,
+      "score": 72,
       "id": "5a6e1b1771a9"
     },
     {
-      "title": "Israeli siblings who fear breaking law in Gaza under IDF owed protection by Australia, tribunal finds",
-      "summary": "Exclusive: Tribunal accepts three siblings could face ‘persecution’ for refusing military conscription due to their political opinion on war Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Three Israeli citizens facing conscription into the Israel Defense Forces have been granted the right t",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/27/israeli-siblings-owed-protection-by-australia-after-vowing-not-to-serve-in-idf-tribunal-finds-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-07-26T15:00:16.000Z",
-      "image": "https://i.guim.co.uk/img/media/45e8c61acb3836fc5ae2b653246274a0dccc6652/457_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ef992440c658af1581fec603081315cc",
-      "topic": "政治",
-      "score": 74,
-      "id": "3dfe549adaa9"
-    },
-    {
-      "title": "Africa facing $10-20 billion economic hit from 'super' El Niño, AfDB climate chief warns",
-      "summary": "Africa facing $10-20 billion economic hit from 'super' El Niño, AfDB climate chief warns &nbsp;&nbsp; Hiru News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSHB1R0N1dFVBZmU3ZTdHbURNc1UyX0RYQUFEWWw5UE1sM0kzWjFQSHdBcmtMRWRHNWc1cm1RaXFjb3VjUWFQQkhYRmlrM3dRX0dnQldCclJ4R1lqTWZmQ1IxNDhmaFpUN2pNSGlGWWFobzFVYXE1Q1pqTU1UdklDUWJNR1Juem5sOG5QdHREZktFTzBWaGJ0TWwya1RTX3VJWUZ3VHdLYXBzMWNzU2JSTWRJRQ?oc=5",
-      "source": "Hiru News",
-      "feed": "Africa News Network",
+      "title": "Africa facing $10-$20bn economic hit from ‘super’ El Niño, AfDB climate chief warns",
+      "summary": "Africa facing $10-$20bn economic hit from ‘super’ El Niño, AfDB climate chief warns &nbsp;&nbsp; The Financial Express",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMjhoeEJwMWU0V1JUOEFpZWQybjNLbmxhcjI5UkdDNnZIZzhWRG9iTkV4U1dJQnJfM0lwU09JWU1pdGpXWmFJbWZTREhsVHVNQnV2ZWJxYVFLaVloRENOVWtJTjQ1bTlXQ2NoZ3NhU1VIcmxVd1RRZEk3NUVGLWFtbTBobFplZWlhdktPQVgtR2VCNjY3T1paOTdUTi1iTF9tLWlKZzhvWXNpTUxfNmlJempndVNWbXJjUTMwNjdFSXJlalo0YVZ3?oc=5",
+      "source": "The Financial Express",
+      "feed": "Latin America News Network",
       "region": "非洲",
-      "publishedAt": "2026-07-26T11:59:58.000Z",
+      "publishedAt": "2026-07-26T11:43:45.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
-      "id": "07a0ea32de7f"
+      "score": 72,
+      "id": "14bcc99a9ba2"
     },
     {
-      "title": "Live: Plibersek defends PM's attendance at dinner hosted by billionaire family",
-      "summary": "Social Services Minister Tanya Plibersek has defended the prime minister's attendance at an intimate dinner hosted by a billionaire family. Follow live.",
-      "url": "https://www.abc.net.au/news/2026-07-27/federal-politics-live-blog-pm-dinner-july-27/106960978",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-26T21:10:28.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/e063612303d1d45c848287c913e4e7fc?impolicy=wcms_crop_resize&cropH=3858&cropW=6859&xPos=0&yPos=199&width=862&height=485",
-      "topic": "政治",
-      "score": 73,
-      "id": "8aa450b0ab2c"
-    },
-    {
-      "title": "Live: ASX set to open higher after tech stocks dumped on Wall Street",
-      "summary": "Wall Street eked out a marginal gain despite the continued retreat of tech stocks, while the ASX is priced to open higher. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
-      "url": "https://www.abc.net.au/news/2026-07-27/asx-markets-business-live-news/106958540",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-26T20:59:59.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&cropH=530&cropW=942&xPos=0&yPos=14&width=862&height=485",
-      "topic": "经济",
-      "score": 73,
-      "id": "274787621c2d"
-    },
-    {
-      "title": "Inside Hobart council's 'snack saga' and why the police are involved",
-      "summary": "Hobart's deputy lord mayor has admitted to and apologised for taking snacks and drinks from a council lounge over several years, but some of her fellow councillors won't let the matter die.",
-      "url": "https://www.abc.net.au/news/2026-07-27/zelinda-sherlock-snackgate-saga/106950860",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-26T20:55:42.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/3efa8387eed1d30ef2ff796944d73976?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=462&width=862&height=485",
+      "title": "Three new All Blacks in squad for epic tour of South Africa",
+      "summary": "Three new All Blacks in squad for epic tour of South Africa &nbsp;&nbsp; 1News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVi04LVlYRXlEM0NraE5VSURwNlhWUHViSHp2ZzV3N3pFcUROWm5nVmQyWnotTlM5NWZjVDBfbjV3ZWFGZDBBZE1ScUNVOU5sS1BMUEo2bUw2TzlhakptYkpESkp1SDF1V3V4YnBlMGNJMmg0cW15MW9UZjFydDlPLVN4bGQ1bjJTUmVXUFowb3NPaFVOSEFtZ3ZiSQ?oc=5",
+      "source": "1News",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-27T00:12:23.000Z",
+      "image": "",
       "topic": "社会",
-      "score": 73,
-      "id": "00c83017460e"
-    },
-    {
-      "title": "Refugee searching for rental home rejected more than 100 times",
-      "summary": "Advocacy groups say migrants can help address workforce shortages but more should be done to help them access affordable housing.",
-      "url": "https://www.abc.net.au/news/2026-07-27/adelaide-rental-market-sees-refugee-rejected-100-times/106938576",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-26T20:40:51.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/734f319c0b380e907fdb9a672497398f?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "ba35fe78010b"
-    },
-    {
-      "title": "Hearing aid users fear being 'cut off from the world' by service cuts",
-      "summary": "Kym Files fears when hearing aid services are drastically cut in his remote city, he may be left weeks or even months in silence waiting for repairs.",
-      "url": "https://www.abc.net.au/news/2026-07-27/hearing-aid-provider-limits-appointments-broken-hill/106916980",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-07-26T20:31:50.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/27536cc9c5d0386361be06f8508eaec2?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "f8a1cbc70e5c"
+      "score": 71,
+      "id": "db066ac5cb6e"
     },
     {
       "title": "Trump ‘border czar’ says ICE officer in Maine killing should not have cleared vetting",
@@ -848,8 +887,34 @@
       "publishedAt": "2026-07-26T18:02:23.000Z",
       "image": "https://i.guim.co.uk/img/media/9a1a95209b54b7ece0f64190d8ac135bb001c6f1/703_0_7027_5622/master/7027.jpg?width=140&quality=85&auto=format&fit=max&s=66d3fefc3f427b29456492d531b68f6f",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "0e78857dbd2b"
+    },
+    {
+      "title": "MTN Chief Urges Stable Policies to Boost Africa Investment",
+      "summary": "MTN Chief Urges Stable Policies to Boost Africa Investment &nbsp;&nbsp; Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa1hnb3JjUzlROFk3dHlicDctekhoVnhuZWh0c2U5RnMwRWJueGtmVDFXT3VvM2NjV2lsaUZpQU1DaEZFRTdGei1IQUdYWWJuX0dtRlVhUDNMcGlxZ25mVWN3S01qZVVuS2xqY0p2WFNyb0pJODllWWJSVGhwZ3J4d050MmtuQks2bjd5TA?oc=5",
+      "source": "Punch Newspapers",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-07-26T23:51:46.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "85e74738e397"
+    },
+    {
+      "title": "2026 film festivals and markets calendar: latest dates",
+      "summary": "2026 film festivals and markets calendar: latest dates &nbsp;&nbsp; Screen Daily",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZkE0MTRabzdEUTJEbGxOQWd3dVVIS25BVlhYRlg5U2hXbGRQSk9ibi1iaUNLemwzMC1VRFhiRUN4VWZCajRMLXJlZU9sdkt4VG9PUXM0RUJBTnQweUszU0pGbzZxUlMwTDBIUXJkQjVPLW1kTjd6NHcwQUZLOWJ5dEZrMzdMMUx4SjFvQTZLVWRlb2xLVFEtbWtXWUk1UWtKeFNXYQ?oc=5",
+      "source": "Screen Daily",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-07-26T23:46:34.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 70,
+      "id": "4c4b035ddbbe"
     },
     {
       "title": "‘Not standard’ for Taylor Farms to ask White House to delay cyclospora recall, ex-FDA head says",
@@ -861,7 +926,7 @@
       "publishedAt": "2026-07-26T20:01:42.000Z",
       "image": "https://i.guim.co.uk/img/media/90508c1f16aa7f911300554c3a197beb0c7c5de3/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=321b4919c90a892ed61a820ee6bcf3f4",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "ca51d8026201"
     },
     {
@@ -874,73 +939,8 @@
       "publishedAt": "2026-07-26T16:42:31.000Z",
       "image": "https://i.guim.co.uk/img/media/0e6c85e54279b036a666016e901bda4472f341c4/458_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=e2c8a1e65ceefadad90327bf3313b03c",
       "topic": "政治",
-      "score": 72,
+      "score": 70,
       "id": "21668f75f8f2"
-    },
-    {
-      "title": "Darfur: Weaponising Identity",
-      "summary": "How land conflict, state neglect and racist ideology have driven Darfur towards alleged genocide.",
-      "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/7/26/darfur-weaponising-identity?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-07-26T16:20:27.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "cdd72015a74f"
-    },
-    {
-      "title": "EU accuses China of seeking to reshape global order in stark new strategy paper - Daily Mirror",
-      "summary": "EU accuses China of seeking to reshape global order in stark new strategy paper &nbsp;&nbsp; Daily Mirror - Sri Lanka",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZG5VeTVMYkhEUURHMm5JTWVBR3BtMHNjV08yNTl2ZUJiS2dmSzcyV3dfOGNDVzN5OG1OV09CZnZQZTltRi1uSlVjVWtYY1RMZmpaME5Qc0xUVVUzelNTbkdmZUExdmRXcWU5OUdYTW1Pd0hQTlIyMnRoazVKbzBGVGJFRzc0UUgweDFkSDZ5SkxGdUdweS01VVV6czJjaHJ2RHJZc1NOeG9Kd1c3OF83Mk9uMGcwVWlFVEFsY0xwSEpWVjZkS2xtRzU3ZWNjQXlaTXVJ?oc=5",
-      "source": "Sri Lanka",
-      "feed": "Europe News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-26T22:27:59.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "c71eca1ae9cf"
-    },
-    {
-      "title": "Japan identifies large share of rare earths in deep-sea mud off remote island",
-      "summary": "Japan identifies large share of rare earths in deep-sea mud off remote island &nbsp;&nbsp; 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03S2YxcGRCSTdhbll1TVZndWx3MTNqUjRiOE0zMG9reGJfSjRmSG90VW5sbm5IUEFYZXd4cFY3Rk0xZW1WOVY3Y3NvQVdWMU1IVEV3cFh3?oc=5",
-      "source": "朝日新聞",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-07-26T22:20:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "51938ab96530"
-    },
-    {
-      "title": "New U.S. tariffs linked to claims of foreign forced labor dismay and anger trading partners",
-      "summary": "New U.S. tariffs linked to claims of foreign forced labor dismay and anger trading partners &nbsp;&nbsp; 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KUUNRQ3k5QTNyLXA3VVFITXlzSW5IZ0NaMHpYcFl6U0ZkMG93TGhRbzlmSmJVTHFmdEJjbzgxeWFjS0hST1FjSlo0TmZFVVN4U3FHcnN3?oc=5",
-      "source": "朝日新聞",
-      "feed": "Asia News Network",
-      "region": "美洲",
-      "publishedAt": "2026-07-26T22:10:00.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 71,
-      "id": "05c80dcde370"
-    },
-    {
-      "title": "46 people rescued from sunken ship in South China Sea",
-      "summary": "Footage shows rescuers pulling survivors from a Vietnamese vessel that sank in the South China Sea.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/46-people-rescued-from-sunken-ship-in-south-china-sea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-07-26T19:22:45.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "ccf80e5a6143"
     }
   ]
 }
