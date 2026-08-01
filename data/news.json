@@ -1,24 +1,11 @@
 {
-  "updatedAt": "2026-08-01T11:36:16.781Z",
+  "updatedAt": "2026-08-01T13:59:14.446Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
-    {
-      "title": "France says Gironde ‘megafire’ is contained, as wildfires continue to burn in Greece and Spain – Europe live",
-      "summary": "Blaze in south-western region ‘is no longer spreading’, but others have reignited or have been fuelled by strong winds Back to Ukraine, where nine people were killed in Kyiv this morning from a Russian missile and drone attack. Damage was reported in seven districts of the capital, according to Ukrainian officials, with Ukrainian president Volodymyr Zelensky",
-      "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-01T11:12:52.000Z",
-      "image": "https://i.guim.co.uk/img/media/485ae932972d035de5428a185f0ec362fd2a790e/638_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=6a9b04eb75d97a2576d4c40955552de3",
-      "topic": "政治",
-      "score": 97,
-      "id": "562568cc5982"
-    },
     {
       "title": "Iran: The Making of a War",
       "summary": "From coup to conflict - how decades of rivalries and miscalculations have shaped one of today’s most dangerous wars.",
@@ -29,21 +16,47 @@
       "publishedAt": "2026-08-01T10:30:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 95,
+      "score": 92,
       "id": "d3fde0d4da6e"
     },
     {
-      "title": "Russian missile attacks on Kyiv kill at least nine and injure dozens",
-      "summary": "Ukraine downed only one of 27 Russian ballistic missiles during the attack as the country lacks interceptors for the US Patriot systems, President Volodymyr Zelenskyy said.",
-      "url": "https://www.abc.net.au/news/2026-08-01/ukraine-russia-kyiv-missile-attack-interceptors/106986180",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
+      "title": "Spain leaving Schengen ‘not on table’ says France after Sánchez hits out at EU response to Ceuta crisis – Europe live",
+      "summary": "Interior minister confirms France will not ask for Spain’s removal from visa-free travel arrangements, after Spanish PM condemned ‘selfish, polarising’ response of some countries to mass border crossings Back to Ukraine, where nine people were killed in Kyiv this morning from a Russian missile and drone attack. Damage was reported in seven districts of the c",
+      "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
+      "source": "The Guardian",
+      "feed": "The Guardian",
       "region": "欧洲",
-      "publishedAt": "2026-08-01T09:43:04.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/7d7241151dd9ba880c0a71b2939a89ab?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=361&width=862&height=485",
+      "publishedAt": "2026-08-01T13:39:51.000Z",
+      "image": "https://i.guim.co.uk/img/media/44a384de7c8e51cfe1cde39b738a012d21a71271/433_0_3558_2846/master/3558.jpg?width=140&quality=85&auto=format&fit=max&s=afd70b6149f7061038d3c33a6753df36",
       "topic": "政治",
-      "score": 90,
-      "id": "a8d32229e545"
+      "score": 89,
+      "id": "2712d55b287c"
+    },
+    {
+      "title": "Top mountaineer Nirmal Purja among 11 confirmed dead after avalanche in Pakistan",
+      "summary": "World-renowned climber had been leading expedition on Broad Peak when avalanche struck A world-renowned Nepali mountaineer and former UK Special Forces member has died after being among 11 climbers caught in a deadly avalanche on Pakistan’s Broad Peak. Nirmal Purja was killed leading an expedition of 10 other people on the world’s 12th-highest mountain when ",
+      "url": "https://www.theguardian.com/world/2026/aug/01/top-mountaineer-nirmal-purja-confirmed-dead-after-11-hit-by-avalanche-in-pakistan",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "亚洲",
+      "publishedAt": "2026-08-01T13:41:44.000Z",
+      "image": "https://i.guim.co.uk/img/media/23d4fb6445541007a1263767def85e76a634fc40/348_0_1889_1511/master/1889.jpg?width=140&quality=85&auto=format&fit=max&s=a35a88c8494000a6d268314c32d055e3",
+      "topic": "社会",
+      "score": 88,
+      "id": "6156b0ee2ad9"
+    },
+    {
+      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "summary": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "亚洲",
+      "publishedAt": "2026-08-01T13:02:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bc/live/9b18d720-8da6-11f1-9e26-8164f877b701.jpg",
+      "topic": "社会",
+      "score": 87,
+      "id": "f3eba6a0b78e"
     },
     {
       "title": "Spain says migrants in Ceuta have returned to Morocco",
@@ -55,8 +68,86 @@
       "publishedAt": "2026-08-01T11:29:41.000Z",
       "image": "",
       "topic": "社会",
-      "score": 88,
+      "score": 85,
       "id": "6ce69b20a357"
+    },
+    {
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-08-01T13:35:39.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e537/live/b81c7060-8d8e-11f1-b8ee-9b3c26ad07bb.jpg",
+      "topic": "社会",
+      "score": 84,
+      "id": "24291b3488bc"
+    },
+    {
+      "title": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
+      "summary": "Iranian media says retaliation plan ready after US media suggest potential imminent attacks against civilian sites.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-01T12:44:54.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 83,
+      "id": "18750bea66bc"
+    },
+    {
+      "title": "Russian missile attacks on Kyiv kill at least ten and injure dozens",
+      "summary": "Ukraine downed only one of 27 Russian ballistic missiles during the attack as the country lacks interceptors for the US Patriot systems, President Volodymyr Zelenskyy said.",
+      "url": "https://www.abc.net.au/news/2026-08-01/ukraine-russia-kyiv-missile-attack-interceptors/106986180",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "欧洲",
+      "publishedAt": "2026-08-01T09:43:04.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7d7241151dd9ba880c0a71b2939a89ab?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=361&width=862&height=485",
+      "topic": "政治",
+      "score": 83,
+      "id": "ad12fe6d774c"
+    },
+    {
+      "title": "Democrats’ ‘climate hushing’ prompts activists to turn up the volume",
+      "summary": "Nationwide actions seek to counter view that talking about climate crisis distracts from affordability messaging This summer, torrential rains have washed away Texas neighborhoods, dangerous heat has blanketed swaths of the country, and smoke from Canadian wildfires has choked communities as far south as Florida. Research makes clear that global warming is m",
+      "url": "https://www.theguardian.com/us-news/2026/aug/01/democrats-climate-policy-hushing",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-01T12:00:53.000Z",
+      "image": "https://i.guim.co.uk/img/media/713b6d463c37792551999d19861c9bdd070825cf/443_0_4413_3533/master/4413.jpg?width=140&quality=85&auto=format&fit=max&s=0e9d9c732362fb0fbf7a281c12edb6a9",
+      "topic": "气候",
+      "score": 82,
+      "id": "899a37684fad"
+    },
+    {
+      "title": "Who could replace Infantino as president after FIFA World Cup crisis?",
+      "summary": "Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?",
+      "url": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-01T11:58:23.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 82,
+      "id": "3e79f43f4e4a"
+    },
+    {
+      "title": "At least 21 injured as earthquake hits near Naples in seismic swarm",
+      "summary": "More than 250 people evacuated in strongest quake to hit southern Italian region in 40 years At least 21 people have been injured after a 4.7-magnitude earthquake rocked a region near Naples, in southern Italy. The quake, which occurred at 7.46pm on Friday night, caused power outages, disrupted public transport and damaged buildings and a pier in Campi Flegr",
+      "url": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-01T10:26:22.000Z",
+      "image": "https://i.guim.co.uk/img/media/9c236ad6dd6b0bb19d8ebfd868b4e035bf4755e0/256_0_2560_2048/master/2560.jpg?width=140&quality=85&auto=format&fit=max&s=8480797b8cb63d39ed0cf47047bcaa10",
+      "topic": "社会",
+      "score": 80,
+      "id": "b9b50445588c"
     },
     {
       "title": "Infantino’s World Cup crisis: UEFA has ‘lost confidence’ in FIFA leadership",
@@ -68,34 +159,8 @@
       "publishedAt": "2026-08-01T10:05:45.000Z",
       "image": "",
       "topic": "社会",
-      "score": 87,
+      "score": 80,
       "id": "60113d166e20"
-    },
-    {
-      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
-      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-01T08:24:09.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e537/live/b81c7060-8d8e-11f1-b8ee-9b3c26ad07bb.jpg",
-      "topic": "社会",
-      "score": 84,
-      "id": "bb114f6ecd71"
-    },
-    {
-      "title": "Scores injured as earthquake hits near Naples in seismic swarm",
-      "summary": "At least 21 injured and more than 250 evacuated in strongest quake to hit southern Italian region in 40 years At least 21 people have been injured after a 4.7-magnitude earthquake rocked a region near Naples, in southern Italy. The quake, which occurred at 7.46pm on Friday night, caused power outages, disrupted public transport and damaged buildings and a pi",
-      "url": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-01T10:26:22.000Z",
-      "image": "https://i.guim.co.uk/img/media/9c236ad6dd6b0bb19d8ebfd868b4e035bf4755e0/256_0_2560_2048/master/2560.jpg?width=140&quality=85&auto=format&fit=max&s=8480797b8cb63d39ed0cf47047bcaa10",
-      "topic": "社会",
-      "score": 83,
-      "id": "7fd945bcedf3"
     },
     {
       "title": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks",
@@ -107,7 +172,7 @@
       "publishedAt": "2026-08-01T09:47:39.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 80,
       "id": "a15a69cd6243"
     },
     {
@@ -120,8 +185,60 @@
       "publishedAt": "2026-07-31T20:57:36.000Z",
       "image": "https://i.guim.co.uk/img/media/4d6ae08cd990b7b3648e594492ee1bfaad798ac0/0_337_4163_3330/master/4163.jpg?width=140&quality=85&auto=format&fit=max&s=ef13e8e1520204ce59eef2a93f7e3d22",
       "topic": "政治",
-      "score": 83,
+      "score": 80,
       "id": "4348ab7419bb"
+    },
+    {
+      "title": "Most Australian teens still online three months after under-16 ban",
+      "summary": "The Australian government has defended the ban after a report concluded most teenagers had found ways to get around it.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-01T13:10:47.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "88ddfe02417e"
+    },
+    {
+      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-08-01T12:43:21.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e1/live/98c7dee0-8d7d-11f1-b2ab-0dd01740f9f6.jpg",
+      "topic": "政治",
+      "score": 79,
+      "id": "2ef3bf1ff41f"
+    },
+    {
+      "title": "Sde Teiman walkout lays bare an Israeli military running out of trust",
+      "summary": "Nearly three years of open-ended war have made obedience inside the Israeli military increasingly conditional.",
+      "url": "https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-01T12:40:36.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "1fdd0aaeb857"
+    },
+    {
+      "title": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
+      "summary": "Pedro Sánchez hits out at ‘polarising and unlawful reaction’ over mass crossing into Spanish enclave in north Africa Europe live – latest updates Spain’s prime minister, Pedro Sánchez, has called for an urgent meeting of EU interior ministers after what he called some member states’ “selfish, polarising and unlawful reaction” to this week’s mass border cross",
+      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-01T12:35:04.000Z",
+      "image": "https://i.guim.co.uk/img/media/208d0701f36eec52f7b70e325b2b39b60397679b/758_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=d06bd317d08230595b0e508c484e9a3e",
+      "topic": "政治",
+      "score": 79,
+      "id": "c5443e09a3c6"
     },
     {
       "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
@@ -133,8 +250,21 @@
       "publishedAt": "2026-08-01T09:36:05.000Z",
       "image": "",
       "topic": "社会",
-      "score": 82,
+      "score": 79,
       "id": "00eae3f15a13"
+    },
+    {
+      "title": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
+      "summary": "Most migrants who reached Spain's North African territory of Ceuta from Morocco have returned, officials said.",
+      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-08-01T12:04:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9691/live/d2dfeec0-8da4-11f1-a7ab-8b30adf0800a.jpg",
+      "topic": "社会",
+      "score": 78,
+      "id": "fca338f4e52f"
     },
     {
       "title": "Trump mimics sound of Patriot missile interceptions",
@@ -146,7 +276,7 @@
       "publishedAt": "2026-08-01T11:21:32.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 77,
       "id": "dbad54b789d7"
     },
     {
@@ -159,7 +289,7 @@
       "publishedAt": "2026-08-01T11:08:17.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 77,
       "id": "37f3d72592a6"
     },
     {
@@ -172,34 +302,8 @@
       "publishedAt": "2026-08-01T11:00:50.000Z",
       "image": "https://i.guim.co.uk/img/media/ede98c0dfca51e64774e58d22835b72f0215e862/207_0_6209_4968/master/6209.jpg?width=140&quality=85&auto=format&fit=max&s=fcb0a1a641247ed583fa7cd2051d9ffc",
       "topic": "社会",
-      "score": 80,
+      "score": 77,
       "id": "3ae3ad1161ef"
-    },
-    {
-      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-      "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-01T11:00:05.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e1/live/98c7dee0-8d7d-11f1-b2ab-0dd01740f9f6.jpg",
-      "topic": "政治",
-      "score": 80,
-      "id": "2ef3bf1ff41f"
-    },
-    {
-      "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
-      "summary": "Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-01T00:48:37.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 80,
-      "id": "c6dd7d588317"
     },
     {
       "title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
@@ -211,21 +315,8 @@
       "publishedAt": "2026-08-01T10:44:06.000Z",
       "image": "https://i.guim.co.uk/img/media/2bd97f6e39f233e2a6f923a43400854facc6cb5a/779_0_5910_4729/master/5910.jpg?width=140&quality=85&auto=format&fit=max&s=ba459e2044f65915efa7a9edb39a91d8",
       "topic": "政治",
-      "score": 79,
+      "score": 76,
       "id": "635592626145"
-    },
-    {
-      "title": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
-      "summary": "Pedro Sánchez hits out at ‘polarising and unlawful reaction’ over mass crossing into Spanish enclave in north Africa Europe live – latest updates Spain’s prime minister, Pedro Sánchez, has called for an urgent meeting of EU interior ministers after what he called some member states’ “selfish, polarising and unlawful reaction” to this week’s mass border cross",
-      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-01T10:32:55.000Z",
-      "image": "https://i.guim.co.uk/img/media/208d0701f36eec52f7b70e325b2b39b60397679b/758_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=d06bd317d08230595b0e508c484e9a3e",
-      "topic": "政治",
-      "score": 79,
-      "id": "c5443e09a3c6"
     },
     {
       "title": "Wildfires force mass evacuations in Europe as Australia sends help",
@@ -237,8 +328,47 @@
       "publishedAt": "2026-08-01T10:14:46.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/e797a8b74769b9c180a1e9682099c922?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=522&width=862&height=485",
       "topic": "气候",
-      "score": 79,
+      "score": 76,
       "id": "7a8f1ef50c1d"
+    },
+    {
+      "title": "Gold medallist makes no apologies for 'selfish' racing in Aussie podium sweep",
+      "summary": "Jemima Montag admits to a \"selfish\" race as she defends her 10,000m race walk title at the Commonwealth Games, allowing teammate Lizzy McMillen to set the pace.",
+      "url": "https://www.abc.net.au/news/2026-08-01/commonwealth-games-jemima-montag-race-walk-lizzy-mcmillen/106986368",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-01T13:24:00.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ccae4f61e1805c15377c3181a0c49858?impolicy=wcms_crop_resize&cropH=2810&cropW=4995&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "500839e20652"
+    },
+    {
+      "title": "D4vd hearing details high hopes and brutal end of girl at heart of murder case",
+      "summary": "Texts reveal that singer and Celeste Rivas Hernandez had been in touch stretching back to when she was 11 years old The rising pop singer D4vd and 14-year-old Celeste Rivas Hernandez were in the throes of a clandestine relationship months before her mangled and decomposing body turned up last September stuffed in an impounded car registered to the musician. ",
+      "url": "https://www.theguardian.com/us-news/2026/aug/01/d4vd-hearing-celeste-rivas-hernandez",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-01T13:00:52.000Z",
+      "image": "https://i.guim.co.uk/img/media/a527bfd21976cdbcdb1cacb4012f53703f8a0d1a/1_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=67cbbc246f7d3dffe2a3aab9d428eb4d",
+      "topic": "社会",
+      "score": 75,
+      "id": "4546522f7788"
+    },
+    {
+      "title": "Spain says migrants leaving Ceuta after mass influx in which 67 died",
+      "summary": "Spain’s foreign minister maintains 'the integrity of the Schengen area is absolutely guaranteed'.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/spain-says-migrants-leaving-ceuta-after-mass-influx-in-which-67-died?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-01T12:57:13.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "3950fd188947"
     },
     {
       "title": "Boxer secures Tuvalu’s first Commonwealth Games medal without winning a bout",
@@ -250,7 +380,7 @@
       "publishedAt": "2026-08-01T10:07:05.000Z",
       "image": "https://i.guim.co.uk/img/media/26b8bb94b8314a59cd22de2845c0545a1adc6e33/3_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=a0c1560be6471b2db05b2940328b9fa5",
       "topic": "社会",
-      "score": 78,
+      "score": 75,
       "id": "4fb7ac602cfb"
     },
     {
@@ -263,7 +393,7 @@
       "publishedAt": "2026-08-01T10:02:43.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feaa/live/b1e19dc0-8cf7-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "政治",
-      "score": 78,
+      "score": 75,
       "id": "01d3c9177729"
     },
     {
@@ -276,47 +406,47 @@
       "publishedAt": "2026-08-01T10:00:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 75,
       "id": "826f88c949be"
     },
     {
-      "title": "Iranian drones damage sites in northern Kuwait - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "Iranian drones damage sites in northern Kuwait - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWlOcEdOOFJJUUNHUTdmY0FwNFpiVENlOEc2WlBKb1JTUFJPZC1VWk1fQXIzRHlUdXhNVDEtUEdvc3g0SXh3Nl9hSDI2LU1SVnQycHV6M2ZEQnRHY3NPVnhGNm5FUjhGejY4eHlCaXN3MmFLYjAxWXBGQ3U4WERMSUFNRjNtckU?oc=5",
-      "source": "شفق نيوز",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-01T09:22:30.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 78,
-      "id": "6d53c4ff98f6"
-    },
-    {
-      "title": "Hamas figure Youssef al-Kurdi killed in Gaza - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "Hamas figure Youssef al-Kurdi killed in Gaza - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzU2bUVETXYwX25PTFlsSjkxaDBYZDZNcVVsV21tRGxOMEhKOWR3eUhnNDI4cnhONXVzVm1qaTNyaHhHbDRCWllsaU5xOXJxeXdNRnBuTWkxS3A0UmhHYWd5RVpPWGNsbE5hdmFpRVJRQ09obUtCMzFlZXRoOVJuWDNrMHA?oc=5",
-      "source": "شفق نيوز",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-01T05:50:09.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 78,
-      "id": "b6f5a710f883"
-    },
-    {
-      "title": "FIFA World Cup fallout: Infantino scraps private investment plan",
-      "summary": "FIFA and its president Infantino faced fierce backlash across football world over plans to sell stake in World Cup.",
-      "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
+      "title": "Purple reign: how shade became British gardeners’ favourite",
+      "summary": "Britons move away from trend of grey paving and pristine lawns in an embrace of colour, with lavender a top choice If you manage to spot a garden in bloom this summer, beyond the strips of bleached and torched grass, there may be one colour you see more than any other: purple, the horticultural hue of the season. Plants such as lavender, salvias and catmint ",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/01/purple-coloured-plants-british-gardener-favourite",
+      "source": "The Guardian",
+      "feed": "The Guardian",
       "region": "全球",
-      "publishedAt": "2026-07-31T23:47:35.000Z",
+      "publishedAt": "2026-08-01T12:00:52.000Z",
+      "image": "https://i.guim.co.uk/img/media/f58c94a143d58ff79bbb17df4f0b1890955a6799/855_0_4265_3413/master/4265.jpg?width=140&quality=85&auto=format&fit=max&s=03de79cbc137307cea7bf67e5c1e5a64",
+      "topic": "社会",
+      "score": 74,
+      "id": "aa94324b385b"
+    },
+    {
+      "title": "Twenty-two EU members point to regularization in Spain as a factor of attraction after the Ceuta crisis.",
+      "summary": "Twenty-two EU members point to regularization in Spain as a factor of attraction after the Ceuta crisis. &nbsp;&nbsp; Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEZNZjNXZ29qbjgxaUQzZHdhSTNyVU16ZUlKaHVCcDNCcmR0bDY1LUxqb3FFTlV1LURHQWRpWjl5eGp0TTVFanBFWmZlVVlYejZmd3hrOE9zVHdCMFp2Qkc0MXhPVkxneUVyM3lNTXJXNHBVY0NSaXNkaEJlZ1hXMU9MZjJpbjMybjUyQkh6NFN2aEprNkxoaUFsWW9ETWc4WGdIN2VydjdYQnNILVV4NGpORi03cURtdFRZS1hDbVJQbXc2YW9BYWpMVklQMVR5Y0MzUHpIM05XbUNXZ2tN0gHkAUFVX3lxTE1qT2ZwN2JreV96aU9LcWZsSUZqcmRsZVJYLXdnVWNSZy1PTmJhQTE0SGtMblBTeHdkY2hhNGxTaVBNR29QT2NHU2ZZRHA3Ukk3T2w0RmFqNzU5OTVmTEhJMGQzbGFzMVBDdzZLRXJVRDlKaW5Nc2x2WGVySERxYnpEYTJFbHpMM2I5d0p5cWxRYWlpUUFCUER6V1g3V0RJR25oclRQdlZHZk1VaUtWNjRIbG8wc0Q2MTg1WGszQ29rRmtBSk92RkVhTlgyVG1MbjFKS3oyalk2QzMwZ2dOV0k4OEhrVQ?oc=5",
+      "source": "Demócrata",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-01T11:56:32.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 78,
-      "id": "4f750cffbe03"
+      "topic": "社会",
+      "score": 74,
+      "id": "8637ab1ac78b"
+    },
+    {
+      "title": "Meloni urges protection of EU's external borders after Ceuta",
+      "summary": "Meloni urges protection of EU's external borders after Ceuta &nbsp;&nbsp; Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbVVxUHlaZGx0X25ERV9uRElUSE12V0Zna2JGaHpYNExsVmhTQk9xRzhpMnY1ZG1Ib05oUV8xTTRydlVIdUlaRVRzUmIzVHhEZUh0bjQ0N25nOWZhUG5yU2pyZGQyRzFMSVIxS3k4RFNZcnV2THM5NjJ0YmtvSkwwQzlUWmhWT25yNkxXamktekQyd2FPYXZVdTU4bDNkYnN3eDhaNDg1THM?oc=5",
+      "source": "Breakingthenews.net",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-01T11:45:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "213265db1db3"
     },
     {
       "title": "EU grapples with migrant crisis in Spain’s N. Africa enclave",
@@ -325,24 +455,50 @@
       "source": "News.com.au",
       "feed": "Africa News Network",
       "region": "欧洲",
-      "publishedAt": "2026-08-01T08:44:40.000Z",
+      "publishedAt": "2026-08-01T09:13:39.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 74,
       "id": "abae3561d242"
     },
     {
-      "title": "Watch: Why Fifa dropped plans to sell stakes in the World Cup",
-      "summary": "The BBC's Shaimaa Khalil explains why Gianni Infantino has backed down on his controversial investment proposal.",
-      "url": "https://www.bbc.co.uk/news/videos/cvgj0vldr1mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-01T02:44:09.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3eb/live/c9375910-8d6f-11f1-b8ee-9b3c26ad07bb.jpg",
+      "title": "Live: Diamonds suffer shock semifinal loss to Jamaica after heartbreaking miss",
+      "summary": "Australia will play for netball bronze after a shock semifinal defeat to Jamaica, as Sophie Dwyer misses the final shot of the game. Follow live.",
+      "url": "https://www.abc.net.au/news/2026-08-01/commonwealth-games-day-nine-live-updates-medals/106985380",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-01T08:36:05.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/0f56fe4f37ca548afc9df7fb8c824b9e?impolicy=wcms_crop_resize&cropH=2272&cropW=4040&xPos=360&yPos=376&width=862&height=485",
       "topic": "社会",
-      "score": 77,
-      "id": "c09c02a8ed71"
+      "score": 74,
+      "id": "aaf5228a980a"
+    },
+    {
+      "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
+      "summary": "Residents trapped as partially collapsed buildings catch fire after deadly strike on Ukrainian capital.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-01T02:06:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "07cd7ea90100"
+    },
+    {
+      "title": "Business",
+      "summary": "Business &nbsp;&nbsp; Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUVluMGd2ZGRaa3pHeGltRWxPb1lyQkhXdk80STFjVDVmX3dxMHZHTTBHZS1FaFNhWk9rZ2xZOVZvUEExZW1zZ1FrYklBRDctWXFmNEF0SjVTWWZMVG95em1KaGxUQ1RHU0phWEdzc0dzaENyUkRlTHVzSlNIRzNZYmFrQndicXNaQV9NNDdvR1l2bVNORmpTV3pucmpIUjJyaWFFZk5wLWVfOXEzeUhtTk5CMW5aWEtoRVAtN20xNUxjNzJ2cnpRZzRLLU94X3J1dDNTUE93Ty0?oc=5",
+      "source": "Arabian Business",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-01T11:32:04.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 73,
+      "id": "bf6c019101d6"
     },
     {
       "title": "Vanishing forests: Why is the Philippines failing at reforestation?",
@@ -354,34 +510,21 @@
       "publishedAt": "2026-08-01T11:30:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 73,
       "id": "8048346c0036"
     },
     {
-      "title": "Europe’s wildfire crisis shifts as some 200,000 French return but new blazes force thousands to flee",
-      "summary": "Europe’s wildfire crisis shifts as some 200,000 French return but new blazes force thousands to flee &nbsp;&nbsp; News4JAX",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS2xXY0ZIMXFUT3U4TFBuSUt2VW9ZTDdzRDNFeDBqV3JScGhLX241SW83M25nSjBvVWc0U0dXTThQdGZmbUppODl2UnZVc1ZDZzJXYWthRHpzZUs2UHZhRkxJSGY2TnJFcUFQeXlZRWR1ZFlrUDdXUlNjSFJ6Xy1zYktjeVY1b3gtY01GZ0I0WDhqeE1fUS1ZUkVzcTNLcUY4M09SZU8xYktLM29XcDhYRmcwMURrZllhcWU3Yll2SFlmSEZ3RDRPZi1FbHhGaG1ZNnNmM3JHVnczUGxDZWlj?oc=5",
-      "source": "News4JAX",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-01T11:12:19.000Z",
+      "title": "Middle East war enters fourth day in 'smoke and blood'",
+      "summary": "Middle East war enters fourth day in 'smoke and blood' &nbsp;&nbsp; The Canberra Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWRzVDRWb1R3TF9hVHE1b0x6XzhsN3BFSV9hUF81aHZhcEs0bUdfZWNBZ2RJb0FVR0NGRHhDblJpcUZNWE5hVlNYNnEwSkpSQWZHSm5QUG1VYmlpTWpzMnd5SGZfLWxPY0VCQ0pCWFZ6SGkwT2U4NWY0ZlNTZERtX09UQ25tZFpmQUxENWJYV0hOMW5PMEpUNU9kdVAxTGtZY0E?oc=5",
+      "source": "The Canberra Times",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-01T11:04:07.000Z",
       "image": "",
-      "topic": "气候",
-      "score": 76,
-      "id": "1610014cffb9"
-    },
-    {
-      "title": "US drops case against Olympian, admits Reflecting Pool work was 'botched'",
-      "summary": "The US Department of Justice has moved to drop a criminal case charging a former Olympian with deliberately damaging the Lincoln Memorial Reflecting Pool. Here's why.",
-      "url": "https://www.abc.net.au/news/2026-08-01/reflecting-pool-renovation-botched-olympian-case-dropped/106985578",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-01T02:02:25.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/534e1adb0d291fc98125e91fb8cb036c?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "社会",
-      "score": 76,
-      "id": "2083b717c87a"
+      "topic": "政治",
+      "score": 73,
+      "id": "b5c70ea59d4e"
     },
     {
       "title": "On the ground in the English seaside town rightwing influencers say is being ‘invaded’",
@@ -393,7 +536,7 @@
       "publishedAt": "2026-08-01T11:00:51.000Z",
       "image": "https://i.guim.co.uk/img/media/0363b2840f8d3866639ce78521cef326e51ca22e/549_0_3937_3151/master/3937.jpg?width=140&quality=85&auto=format&fit=max&s=937443a3d75a1fb9c34279eb0d84f633",
       "topic": "社会",
-      "score": 75,
+      "score": 72,
       "id": "754a48eaf937"
     },
     {
@@ -406,7 +549,7 @@
       "publishedAt": "2026-08-01T10:43:23.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/eb49ce446f4c90988cf9e673d6059b07?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 72,
       "id": "0f4baa20271e"
     },
     {
@@ -419,47 +562,47 @@
       "publishedAt": "2026-08-01T10:38:41.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 72,
       "id": "3f3928f01fc5"
     },
     {
-      "title": "Italy takes 'extraordinary' action after Ceuta migrant rush",
-      "summary": "An estimated 50,000 migrants crossed from Morocco into the Spanish enclave of Ceuta in chaotic scenes that left dozens dead. Here's what happened and why the crisis has prompted parts of Europe to tighten its borders.",
-      "url": "https://www.abc.net.au/news/2026-08-01/europe-tightens-its-borders-after-ceuta-migrant-surge/106985526",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-08-01T07:04:52.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/647055a8babe2720f0e0e6ee5ef35566?impolicy=wcms_crop_resize&cropH=1661&cropW=2953&xPos=0&yPos=153&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "0adc4669f3a3"
-    },
-    {
-      "title": "EU relations, climate crisis and Gaza: why Ed Miliband is fired up by Foreign Office challenges",
-      "summary": "Labour veteran is said to relish role that requires careful negotiation of Trump and impending G20 leadership Extraordinarily, given the importance of geopolitics, the office of foreign secretary has sometimes appeared a consolation prize in British politics, perhaps reflecting the transfer of responsibility to Downing Street or the Cabinet Office. That is n",
-      "url": "https://www.theguardian.com/politics/2026/aug/01/eu-relations-climate-crisis-gaza-ed-miliband-foreign-office-challenges",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-01T07:00:45.000Z",
-      "image": "https://i.guim.co.uk/img/media/272009bfcd22578175053f0dfd6ead5bac0b7ce3/1779_216_3287_2631/master/3287.jpg?width=140&quality=85&auto=format&fit=max&s=806f3e125632a25d95c6bb749c083623",
-      "topic": "气候",
-      "score": 75,
-      "id": "242a39ba60da"
-    },
-    {
-      "title": "US drops charges against Olympian for damage to Reflecting Pool",
-      "summary": "The US Department of Justice has moved to dismiss its case against Olympian David Hearn.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-01T04:36:10.000Z",
+      "title": "Top HBCUs: 20 Historically Black Colleges That Set Grads Up For Success",
+      "summary": "Top HBCUs: 20 Historically Black Colleges That Set Grads Up For Success &nbsp;&nbsp; Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd3dEUzZWVV85Ml9uRUp6T1lnSTFZRkQ5MUh6enc1c3lLNndnM05qMFFtQnVTamlKT0REMGdmcEp3SDd2T1hCUTQwX2RhMWxpcHZSekFDSGtaQXoxYnctZkp4VUhFSjllaDV1TmxQN1FTNmVaLTNyRHJHV2lILUhON1pGVHpKM2c2ZTRDeFJBWHQ3M09aczQxWnZmdnNyaWNqalZ6cGRZR0hMUjZHMkhpcTNjd1ROLTFGSGZBMS0wbGcwN3k3OGIyMVpxRVNTdUZRa0habmpR?oc=5",
+      "source": "Forbes",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-01T10:30:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
-      "id": "61eae02001d9"
+      "score": 72,
+      "id": "2a95db147853"
+    },
+    {
+      "title": "US Embassy urges caution for Americans in Middle East - Shafaq News | Latest breaking news in Iraq and the world",
+      "summary": "US Embassy urges caution for Americans in Middle East - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORnR1ZUFja0hTNXBQVTJpM0laOW41N2lERWdUR3BjWUNoMm03QjB1ZEMwM292eFluanc4SXUtZ3FZaHk4cW1zbVdwM3ZHRkJkVVZUTWhxVm83SnZ5RTJCQ3RwbzVpMW9LSzFkVlRrT3dVM2Y3VGZac1hIdXJlbTJVeHNqcnFCUGFfdDhyOU04ZlI?oc=5",
+      "source": "شفق نيوز",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-01T10:12:35.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "54ca7dedc3b9"
+    },
+    {
+      "title": "Most Australian teens still on social media despite landmark ban",
+      "summary": "Australia has defended its world-first ban on ‌social media for under-16s after a study found there had been little drop in use months after the ban took effect.",
+      "url": "https://news.sky.com/story/most-australian-teens-still-on-social-media-despite-landmark-ban-13568966",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-01T07:48:00.000Z",
+      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-social-media-australia_7311695.jpg?20260801085259",
+      "topic": "社会",
+      "score": 72,
+      "id": "8cfb4c7f6f2c"
     },
     {
       "title": "Singapore bans Massive Attack for showing Palestinian flag, breaching ban on foreign emblems",
@@ -471,8 +614,21 @@
       "publishedAt": "2026-08-01T03:51:36.000Z",
       "image": "https://i.guim.co.uk/img/media/65dbc8c3af2566ba56b39d0a59d73040f031a492/442_0_3689_2951/master/3689.jpg?width=140&quality=85&auto=format&fit=max&s=7e0426f40a86a89a3d3d47b651d3808c",
       "topic": "政治",
-      "score": 75,
+      "score": 72,
       "id": "6517bdc175ce"
+    },
+    {
+      "title": "US tells citizens in West Asia to ‘be ready to leave' amid escalation fears: What's happening in the Middle East? | World News",
+      "summary": "US tells citizens in West Asia to ‘be ready to leave' amid escalation fears: What's happening in the Middle East? | World News &nbsp;&nbsp; Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxON3FhZFJKWEswcHVCTDhmOExzN3k1Tkl2Z2RyWEoxaE9DN2lJeG5jVEhIQ0VzaHNvemtvTUZ5eUUtbDBJOXZjS09HSGxYWFhhT18yeHpZcnBUMmkyMXdzdW9zS3hUMC1qcVhVWEdDYklOSzdVWU1MaUp2bW5BdklXRk1ZREFIb1RaakV3LTh0blY0dG5Cb1hxc1Nldmg5SmZQZXZkYVJTS2pob18yRDFsdlpEOW1HOFpwSWRGN2hZaDFHVTBKWnFxZXd0alJScUU5d1J3d0R2cUdQNmdIaDhOSHd1ckhmUkZQbHh0ZkhMblFQLTNIVzFoaVI2QkU5R01kcm0yMTl4bUtjUdIBjwJBVV95cUxQOTV2bUw4VUM5R0J3ck9GTEJTVGdnd0JVWmQxNzFhY0VKZjBYbTljMzV5dEVSZHlxZFpCOW1TRHl2ajlKVnY0OFZVV0o2QTBQZXFyaDlRMG94bEQzb1VOUXRQUHpBZG9udXZzbTdaZ3FzbF9aNFdwSXB5SUtDM3ZKaklsQjVLM3l3LWJXRTktWDZfXzJSZmhUc2t5UXpHSVR5dGliaW1jMm45ZG5DVUtjRGZILVNIRmNpemN2d2o4REZrVWJkMVZqUXlZMG50b2VEdFk1a2tKbHRQZUdxaE50STl5NkRScmFUUlgwdWpSczVSeTlxbEl5UWhVTjA1cHJyVFAwejF1R3lSMHdaMUtN?oc=5",
+      "source": "Hindustan Times",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-01T13:31:12.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "5586e725711a"
     },
     {
       "title": "DoJ appears to ignore New Mexico deadline for key Epstein ranch files",
@@ -484,21 +640,8 @@
       "publishedAt": "2026-08-01T10:00:50.000Z",
       "image": "https://i.guim.co.uk/img/media/61a7d16a57b748e21813eb1cb469e65c35b5f570/417_0_4486_3588/master/4486.jpg?width=140&quality=85&auto=format&fit=max&s=3a78306e54bfc774f075d6e05d63bfab",
       "topic": "社会",
-      "score": 74,
+      "score": 71,
       "id": "ab01a049d4a1"
-    },
-    {
-      "title": "VDL: Every day, Ukraine shows it belongs in EU",
-      "summary": "VDL: Every day, Ukraine shows it belongs in EU &nbsp;&nbsp; Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTm5GeG1lZWV0OC1fV3VwVFRqTEVUamo0WEt2Q0N3ZXRKRTFFc3ByUVFVc1VIa1MtbWRFd29Za0JzTk5RSkQ3UEw5aGJjQ1oyMzRvVmRTZUZpTkh3LVhEQlBmeF9lNzV5Q212NjdUakt3UDg2ekFZRmlwSk5hMkp2T25FSDRzMTBxYy1oY2dwQncwMDdO?oc=5",
-      "source": "Breakingthenews.net",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-01T09:45:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "aa49ae51513d"
     },
     {
       "title": "Aussies reign supreme over Irish in AFLW international",
@@ -510,7 +653,7 @@
       "publishedAt": "2026-08-01T09:43:39.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7ba69d9fc2332ca8527f9b5e43f53eda?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 71,
       "id": "ec0a3eb4a402"
     },
     {
@@ -523,8 +666,21 @@
       "publishedAt": "2026-08-01T09:42:50.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 71,
       "id": "116e3411377a"
+    },
+    {
+      "title": "Iranian drones damage sites in northern Kuwait - Shafaq News | Latest breaking news in Iraq and the world",
+      "summary": "Iranian drones damage sites in northern Kuwait - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWlOcEdOOFJJUUNHUTdmY0FwNFpiVENlOEc2WlBKb1JTUFJPZC1VWk1fQXIzRHlUdXhNVDEtUEdvc3g0SXh3Nl9hSDI2LU1SVnQycHV6M2ZEQnRHY3NPVnhGNm5FUjhGejY4eHlCaXN3MmFLYjAxWXBGQ3U4WERMSUFNRjNtckU?oc=5",
+      "source": "شفق نيوز",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-01T09:22:30.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "6d53c4ff98f6"
     },
     {
       "title": "BREAKING | Minister Nzimande Launches Locally Produced 2kW Green Hydrogen Electrolyser System in Sasolburg",
@@ -536,7 +692,7 @@
       "publishedAt": "2026-08-01T06:22:19.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 71,
       "id": "62e0b614d9a8"
     },
     {
@@ -549,8 +705,60 @@
       "publishedAt": "2026-08-01T06:12:27.000Z",
       "image": "https://i.guim.co.uk/img/media/a3b388541a676657ddd7abfd461db42d1a846b5b/0_0_4265_3412/master/4265.jpg?width=140&quality=85&auto=format&fit=max&s=375224f2c23eedc1c9880238a5723fb4",
       "topic": "社会",
-      "score": 74,
+      "score": 71,
       "id": "67a1dc80a3cc"
+    },
+    {
+      "title": "Hamas figure Youssef al-Kurdi killed in Gaza - Shafaq News | Latest breaking news in Iraq and the world",
+      "summary": "Hamas figure Youssef al-Kurdi killed in Gaza - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzU2bUVETXYwX25PTFlsSjkxaDBYZDZNcVVsV21tRGxOMEhKOWR3eUhnNDI4cnhONXVzVm1qaTNyaHhHbDRCWllsaU5xOXJxeXdNRnBuTWkxS3A0UmhHYWd5RVpPWGNsbE5hdmFpRVJRQ09obUtCMzFlZXRoOVJuWDNrMHA?oc=5",
+      "source": "شفق نيوز",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-01T05:50:09.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "b6f5a710f883"
+    },
+    {
+      "title": "El Niño intensifies, scientists say biggest impacts on NZ yet to come",
+      "summary": "El Niño intensifies, scientists say biggest impacts on NZ yet to come &nbsp;&nbsp; 1News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQVhsS2xUZTBvaEo1SUpRSVdGWS1QR056bS1ZdWpqNkRGa3MxcW1RTmRraGxVWkltLUVudktsb29QNjlXaEFYV0JndkhHRFdZRkExXzVKbkxpdENsRW83UFBzLUIwMVZiY3BBYlBZSzU0MWF1akpBbVh3ZFBVMkNMRVVnb043ajRIQWZLSTc0cVNhcFJxUXBzX1BPQTY1UzUtTVZTeUhSRQ?oc=5",
+      "source": "1News",
+      "feed": "Pacific News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-01T12:41:12.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "28b080fb105d"
+    },
+    {
+      "title": "South Korea’s 22% Crypto Tax Crashes Trading Volume",
+      "summary": "South Korea’s 22% Crypto Tax Crashes Trading Volume &nbsp;&nbsp; BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xTEo5U0hoMHlyOVBxRy1xZTVUb1NHSW9ZTFhib1dMV2JVN0I2NG5MSmpmUG1uRXZuRHpHMkJ6TTVjZVlGZEpfT3F1Wm1xM3YzZnZlR2JERHBYVmg2dU1zUDluejl0WTh2X3h3N3gwb0dhOWtwWXc?oc=5",
+      "source": "BeInCrypto",
+      "feed": "Latin America News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-01T12:40:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "63175de9e7e1"
+    },
+    {
+      "title": "Stellenbosch FC signs Kgaogelo Ramushu on a long-term deal",
+      "summary": "Stellenbosch FC signs Kgaogelo Ramushu on a long-term deal &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHBNb2dZdlFFZzlyRFV0aGs4dWhZZXRmNHdieUlzMnRxZTNPeWg4OWVubEdJclRCNHBoenhTQ0lBdUhMMFpRcW5iSG5zSTc1OS1Ja2drM0dYMWQzd2VkcHFMa29CMWhrZzlYdzljV0VSdml5aU10SlVnWDVMMG1RcmdWNVZjZFJrWXFWYTBkNElmSmZE?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-01T12:19:08.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "38b4a7d6a3b2"
     },
     {
       "title": "Sri Lanka sentences two officials to death for not stopping Easter bombings",
@@ -562,7 +770,7 @@
       "publishedAt": "2026-08-01T09:19:47.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 70,
       "id": "6534cfa147d7"
     },
     {
@@ -575,7 +783,7 @@
       "publishedAt": "2026-08-01T08:55:49.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/e38bd33056fe9c5c3fbaa091fc5c35c1?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 70,
       "id": "c451cfa9f82e"
     },
     {
@@ -588,7 +796,7 @@
       "publishedAt": "2026-08-01T08:52:04.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 70,
       "id": "336ba4b78668"
     },
     {
@@ -601,21 +809,8 @@
       "publishedAt": "2026-08-01T06:00:45.000Z",
       "image": "https://i.guim.co.uk/img/media/5f6ab441c12213ff3ecce8ea638d10f2555712ea/1362_964_5472_4378/master/5472.jpg?width=140&quality=85&auto=format&fit=max&s=e1b87365c04d376eada6ebcc18ae46fc",
       "topic": "政治",
-      "score": 73,
+      "score": 70,
       "id": "d7010e9511e2"
-    },
-    {
-      "title": "Live: Gold medallist admits to 'selfish' tactics in Australian athletics podium sweep",
-      "summary": "Australian race walk gold medallist Jemima Montag makes no apologies for a \"selfish\" race plan, sitting behind teammate Elizabeth McMillen for most of the 10,000m race before burning past her late. Follow live.",
-      "url": "https://www.abc.net.au/news/2026-08-01/commonwealth-games-day-nine-live-updates-medals/106985380",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-01T08:36:05.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ccae4f61e1805c15377c3181a0c49858?impolicy=wcms_crop_resize&cropH=2810&cropW=4995&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 72,
-      "id": "548a88fe0597"
     },
     {
       "title": "Four teenagers arrested in Melbourne's west after serious retail assault",
@@ -627,11 +822,11 @@
       "publishedAt": "2026-08-01T08:34:46.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/69e297cf8eebf50a2a7e87d1c6f2fe34?impolicy=wcms_crop_resize&cropH=2756&cropW=4900&xPos=0&yPos=256&width=862&height=485",
       "topic": "社会",
-      "score": 72,
+      "score": 69,
       "id": "4ca5c31960b6"
     },
     {
-      "title": "Knickers in a twist: why M&S selling crotchless panties isn’t as outrageous as it seems",
+      "title": "Knickers in a twist: why M&S selling crotchless underwear isn’t as outrageous as it seems",
       "summary": "Some have called it ‘S&M’, but partnership with Ann Summers is less a scandal than another step in a century of evolving underwear trends, experts say The news that Marks & Spencer is selling Ann Summers crotchless knickers on their website has been greeted – as might be expected – with outrage online, being described as everything from “tawdry” to “S & M” .",
       "url": "https://www.theguardian.com/business/2026/aug/01/marks-and-spencers-ann-summers-lingerie",
       "source": "The Guardian",
@@ -640,8 +835,8 @@
       "publishedAt": "2026-08-01T08:00:47.000Z",
       "image": "https://i.guim.co.uk/img/media/6fda1bfe004f19453970daf09ff17237cbfc7bf9/266_0_3147_2518/master/3147.jpg?width=140&quality=85&auto=format&fit=max&s=3336f43f4a833ccb6b7267275bf8228c",
       "topic": "社会",
-      "score": 72,
-      "id": "b2310aae13bb"
+      "score": 69,
+      "id": "5cd01958261c"
     },
     {
       "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
@@ -653,7 +848,7 @@
       "publishedAt": "2026-08-01T05:01:56.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/678b/live/ea29f390-8c56-11f1-b8ee-9b3c26ad07bb.jpg",
       "topic": "经济",
-      "score": 72,
+      "score": 69,
       "id": "211aae56ee89"
     },
     {
@@ -666,7 +861,7 @@
       "publishedAt": "2026-08-01T04:48:33.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/ef767a7502240aff8a98b69eca71514e?impolicy=wcms_crop_resize&cropH=1477&cropW=2625&xPos=0&yPos=117&width=862&height=485",
       "topic": "社会",
-      "score": 72,
+      "score": 69,
       "id": "855f065f5465"
     },
     {
@@ -679,7 +874,7 @@
       "publishedAt": "2026-08-01T04:39:22.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 69,
       "id": "598300562668"
     },
     {
@@ -692,7 +887,7 @@
       "publishedAt": "2026-08-01T10:50:33.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 68,
       "id": "9c9f881c919e"
     },
     {
@@ -705,34 +900,34 @@
       "publishedAt": "2026-08-01T10:45:53.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 68,
       "id": "86bc9f393654"
     },
     {
-      "title": "Most Australian teens still on social media despite landmark ban",
-      "summary": "Australia has defended its world-first ban on ‌social media for under-16s after a study found there had been little drop in use months after the ban took effect.",
-      "url": "https://news.sky.com/story/most-australian-teens-still-on-social-media-despite-landmark-ban-13568966",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-01T07:48:00.000Z",
-      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-social-media-australia_7311695.jpg?20260801085259",
+      "title": "FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push",
+      "summary": "Asian Football Confederation says FIFA future must be 'shaped through proper consultation' after World Cup plan fallout.",
+      "url": "https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-01T07:33:33.000Z",
+      "image": "",
       "topic": "社会",
-      "score": 71,
-      "id": "8cfb4c7f6f2c"
+      "score": 68,
+      "id": "3ce88ddbc221"
     },
     {
-      "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
-      "summary": "Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak.",
-      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "亚洲",
-      "publishedAt": "2026-08-01T07:22:30.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c1/live/47cb0380-8d16-11f1-bfeb-2930213869d1.jpg",
+      "title": "US drops charges against Olympian for damage to Reflecting Pool",
+      "summary": "The US Department of Justice has moved to dismiss its case against Olympian David Hearn.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-01T04:36:10.000Z",
+      "image": "",
       "topic": "社会",
-      "score": 71,
-      "id": "bdf0e0c4ee28"
+      "score": 68,
+      "id": "61eae02001d9"
     },
     {
       "title": "TEHRAN ISSUES ULTIMATUM: Iran Threatens Precision Missile Attacks on Middle East's Top Energy Hubs in Event of US-Israeli Strikes",
@@ -744,203 +939,8 @@
       "publishedAt": "2026-08-01T04:19:22.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 68,
       "id": "9799ac25f0b6"
-    },
-    {
-      "title": "Dry July for Western Australia as stunning pictures tell story",
-      "summary": "July was one of the driest on record in large parts of WA but despite the lack of rain, it was an eventful month. From double rainbows, to fog and dazzling stars — here are the photos that captured it.",
-      "url": "https://www.abc.net.au/news/2026-08-01/wa-july-weather-wrap-reveals-dry-month-in-parts-of-state/106973660",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-01T04:04:58.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/a39a263b8ca6e91b17e7cf1ab106aacd?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=198&width=862&height=485",
-      "topic": "社会",
-      "score": 71,
-      "id": "070e4e5ac894"
-    },
-    {
-      "title": "Peru’s ex-president Humala released after conviction overturned",
-      "summary": "Humala and his wife were sentenced to 15 years last year after being convicted of money laundering.",
-      "url": "https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-01T03:52:25.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 71,
-      "id": "ff07d02dda38"
-    },
-    {
-      "title": "Latest news on Middle East after Trump says Gaza peace plan is moving along (Video)",
-      "summary": "Latest news on Middle East after Trump says Gaza peace plan is moving along (Video) &nbsp;&nbsp; Social News XYZ",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYzRsTzVUWk5pQVZzLVBIenpYNEFKaGczRGRqU0FjQXBWajhfMnItRTRaSG9jcC1OWXZyZ21HZXd2ZnpKWDJQSTBTM2lraWFwV3h2bW81NGM0dktUbXlVWDNyNTVNeGFOakJ6aVdUcVotVS1RZmE0R21uUFhjOW5vR0c0OGdPWnJNT1duY01ad3d5b1duSE8ydjJKeFZUSy1RcURsejllWTB2cFlRSWFESzdnZHMzRlpwSDBwddIBvAFBVV95cUxPYzRsTzVUWk5pQVZzLVBIenpYNEFKaGczRGRqU0FjQXBWajhfMnItRTRaSG9jcC1OWXZyZ21HZXd2ZnpKWDJQSTBTM2lraWFwV3h2bW81NGM0dktUbXlVWDNyNTVNeGFOakJ6aVdUcVotVS1RZmE0R21uUFhjOW5vR0c0OGdPWnJNT1duY01ad3d5b1duSE8ydjJKeFZUSy1RcURsejllWTB2cFlRSWFESzdnZHMzRlpwSDBwdQ?oc=5",
-      "source": "Social News XYZ",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-01T01:33:53.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "72b57deb8290"
-    },
-    {
-      "title": "Why has Infantino scrapped FIFA’s World Cup investment plan? What to know",
-      "summary": "How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football.",
-      "url": "https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-01T01:10:58.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 71,
-      "id": "6c96e66b3e48"
-    },
-    {
-      "title": "Sweden: Discussions underway regarding SVT’s broadcast of Eurovision Asia 2026!",
-      "summary": "Sweden: Discussions underway regarding SVT’s broadcast of Eurovision Asia 2026! &nbsp;&nbsp; eurovisionfun.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFo0UFV6Q20zQ05zZk96OHV2VzhzdFc5SU43eW1QdDgtYjdiTWhXYUh5WjVISktqel9ja0JxWjlBVTh0eXBaNi1JUmF5NDRJUGNMRUU0U1BiMktDNXN6c09LV2doeDZUVWVZN1lDcmZMc2RhZEdlNkYxc3RmLXZWaHhWbkFrRGhDOEpRUXVYTlJ1aEtmQVJ1aFFlVkQ1cC15Nkozck9JV0JibkM0QUU0dkZUM04?oc=5",
-      "source": "eurovisionfun.com",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-01T10:22:26.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "101c6b44437b"
-    },
-    {
-      "title": "‘MPs have had their stomachs pumped’: concerns over ‘alcohol-soaked’ culture in Westminster",
-      "summary": "Alcohol is embedded in profession where long hours, loneliness and lobbying are the norm, report finds Parliament is “Britain’s last alcohol-soaked workplace” where MPs are offered free drinks as early as midday despite alcohol-related scandals, a report has reveal ed. Drinking is commonplace and some MPs have had their stomachs pumped after consuming so muc",
-      "url": "https://www.theguardian.com/politics/2026/aug/01/mps-stomachs-pumped-uk-parliament-alcohol-culture-report",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-01T07:00:47.000Z",
-      "image": "https://i.guim.co.uk/img/media/7f75306822343caaa2e368852d216a3c5a28c076/1501_55_3548_2838/master/3548.jpg?width=140&quality=85&auto=format&fit=max&s=120f98f3dd5e5062dfa7310387e081ce",
-      "topic": "政治",
-      "score": 70,
-      "id": "12b668b6835f"
-    },
-    {
-      "title": "Liberia’s kush crisis: The hidden trade behind a generation at risk",
-      "summary": "As kush spreads across Liberia, families face the fallout while traffickers remain largely out of reach.",
-      "url": "https://www.aljazeera.com/news/2026/8/1/liberias-kush-crisis-the-hidden-trade-behind-a-generation-at-risk?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-01T03:18:29.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 70,
-      "id": "aa0f5fb776ee"
-    },
-    {
-      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-      "summary": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
-      "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-01T00:20:43.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/569e/live/c89709f0-8d39-11f1-a7ab-8b30adf0800a.jpg",
-      "topic": "政治",
-      "score": 70,
-      "id": "beaa2c687ff6"
-    },
-    {
-      "title": "Iran war live: Tehran attacks Kuwait, threatens region with ‘flames of war’",
-      "summary": "Kuwait says several vital facilities were targets of Iranian drones that its army detected and destroyed since dawn.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-07-31T23:59:40.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 70,
-      "id": "bc0cd04ade0c"
-    },
-    {
-      "title": "Vietnam’s biggest company, Vingroup, expands overseas as its home market slows",
-      "summary": "Vietnam’s biggest company, Vingroup, expands overseas as its home market slows &nbsp;&nbsp; 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TdTBPX2FYVUIxUlBkdUs0ZUNXU2doWWZOUzB5Wi1aeGVmbmpNZEp4RlVqVGk2UjAxRUpRQzV4NEkwYlNQN0tNMkNLd01LTzFKcVhST2oxU2VyRW05THc?oc=5",
-      "source": "朝日新聞",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-01T09:26:04.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 69,
-      "id": "7bf50b0ce0b5"
-    },
-    {
-      "title": "UKMTO reports two tanker incidents off Oman as Kuwait says it intercepts Iranian drones",
-      "summary": "UKMTO reports two tanker incidents off Oman as Kuwait says it intercepts Iranian drones &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2Q0lfcHlHQ0NhMVdzT0FDc0NjcGZGbU1sRHgtRjZfQkUzN1J4ejAxdFdLeFVsT2hKM1JTWGs4Qllncll0eFY3S3RVQVVmTDd5T3V4cVlTLXl6ZVlJ?oc=5",
-      "source": "The Jerusalem Post",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-01T09:18:05.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "9355030154ca"
-    },
-    {
-      "title": "List of 35 Sports Indonesia Will Compete in at Asian Games 2026",
-      "summary": "List of 35 Sports Indonesia Will Compete in at Asian Games 2026 &nbsp;&nbsp; Tempo.co English",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTGp5clpGeEw3X1NDYkp6blJoN2NhM1ZWRFZLNVdoRnR0clhNb0ZGdVNYeDZiZXR5NHliQkY2TWVSanlneFRyMEpkNVY3Y0p1SEdRZEdJUnJJbi04eVllYjdPYzFRV1N5Tjg0NGtRUTg5R1BrX3F3ejdCN0oyYlJzaUlLNUI3MmZKYVJka3dxWHhiR3E5eHc3WWVQV3Q?oc=5",
-      "source": "Tempo.co English",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-01T09:00:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "44dad70f72d5"
-    },
-    {
-      "title": "H5 bird flu testing underway for mass mortality of terns on SA island",
-      "summary": "South Australian authorities are investigating a mass bird mortality event after more than 80 dead and sick birds were found off the state's south-east coast.",
-      "url": "https://www.abc.net.au/news/2026-08-01/h5-bird-flu-testing-underway-for-mass-mortality-of-terns/106985980",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-01T06:08:15.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/337c0d29e4571a3184ffa326299e2ac4?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=144&width=862&height=485",
-      "topic": "社会",
-      "score": 69,
-      "id": "162c5b5e0981"
-    },
-    {
-      "title": "My cousin was sucked into a fatal alternative therapy 'wormhole', says author",
-      "summary": "Author Hannah McElhinney spent years investigating after her cousin Lauren died seeking controversial medical treatment overseas.",
-      "url": "https://www.abc.net.au/news/2026-08-01/hannah-mcelhinney-wormhole-alternative-therapy/106971896",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-01T05:36:39.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/c5f38d26c7e2f1f5092081d5b8cefd26?impolicy=wcms_crop_resize&cropH=2323&cropW=4130&xPos=0&yPos=620&width=862&height=485",
-      "topic": "社会",
-      "score": 69,
-      "id": "59a6e56819c9"
-    },
-    {
-      "title": "Boxer earns Tuvalu's first ever Comm Games medal without winning fight",
-      "summary": "Tarona Taafaki lost her only fight at the Commonwealth Games, but still claimed Tuvalu's first ever medal at the event.",
-      "url": "https://www.abc.net.au/news/2026-08-01/commonwealth-games-boxer-tarona-taafaki-wins-tuvalu-first-medal/106985724",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-01T02:24:35.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/2d5a3ff257432c68855609d4e57a4e41?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=177&width=862&height=485",
-      "topic": "社会",
-      "score": 69,
-      "id": "78d9043b668f"
     }
   ]
 }
