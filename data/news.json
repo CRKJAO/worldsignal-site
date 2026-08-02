@@ -1,11 +1,50 @@
 {
-  "updatedAt": "2026-08-02T06:47:44.044Z",
+  "updatedAt": "2026-08-02T09:24:48.968Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-08-02T09:10:51.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f054/live/47777f10-8e44-11f1-b92b-e77f734e2374.jpg",
+      "topic": "政治",
+      "score": 100,
+      "id": "982dd1db1c6b"
+    },
+    {
+      "title": "Trump ‘cancels attack on Iran’ saying deal is near",
+      "summary": "US President Trump announced he was cancelling a planned attack on Iran with the ‘perimeters of a deal’ agreed to.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-02T08:43:15.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 96,
+      "id": "54a401967222"
+    },
+    {
+      "title": "Trump says he's cancelling Iran strikes, deal pending",
+      "summary": "Trump said that Iran and other Middle Eastern countries had asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\"",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "中东",
+      "publishedAt": "2026-08-02T07:34:27.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 90,
+      "id": "10bf318d8ddb"
+    },
     {
       "title": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
       "summary": "The US president announced that he has cancelled a planned military strike on Iran, claiming progress in talks.",
@@ -16,8 +55,60 @@
       "publishedAt": "2026-08-02T03:36:43.000Z",
       "image": "",
       "topic": "政治",
-      "score": 88,
+      "score": 89,
       "id": "bfb36ec256a0"
+    },
+    {
+      "title": "Live - US canceled Iran attack after deal framework reached, Trump says",
+      "summary": "Live - US canceled Iran attack after deal framework reached, Trump says &nbsp;&nbsp; Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJNEw4YWVnZlRxX204UFhRUkh4bUJtT05YckZtOGxfUS1wVlAtTkZyU2l3eElBVEFwdExlTUM4TFRoNFdyalVWQWlTS1BHQ1pXd1loOThzWVBhbG5za0E?oc=5",
+      "source": "Iran International",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-02T07:57:34.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 87,
+      "id": "86431d5e2b79"
+    },
+    {
+      "title": "Donald Trump cancels planned attack on Iran, calls for immediate deal",
+      "summary": "Donald Trump cancels planned attack on Iran, calls for immediate deal &nbsp;&nbsp; The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBILVkwZWo0eHNlNV9Sa2hkR0YyeHdRNE1nMTVyWkN2T1ljOVZBVUNFRzctQlR1VDVyT2Z4bXRiVTRhdlZtOXFXSWQ1ZW5BaGY3allLUTZxV0t5cDREQi1DVXRKdHd3RFhLWmc?oc=5",
+      "source": "The Jerusalem Post",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-02T04:55:32.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 87,
+      "id": "1364718eb441"
+    },
+    {
+      "title": "Iran war live: Trump cancels attack, calls for a ‘rapid’ deal on Hormuz",
+      "summary": "Move comes after Iran's top diplomat warned of a 'decisive response' to any US-Israeli 'aggression'.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-02T00:00:00.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 85,
+      "id": "5fddab7063fb"
+    },
+    {
+      "title": "Record-breaking Premier League move looms for Socceroo",
+      "summary": "Lucas Herrington is on the verge of a move to a Premier League club that would be the most expensive transfer for an Australian player.",
+      "url": "https://www.abc.net.au/news/2026-08-02/lucas-herrington-transfer-record-breaking-premier-league/106988080",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-02T08:25:39.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/c4ec479fd5e316392990e04b40792fd5?impolicy=wcms_crop_resize&cropH=1087&cropW=1932&xPos=741&yPos=167&width=862&height=485",
+      "topic": "社会",
+      "score": 84,
+      "id": "3c21b4404250"
     },
     {
       "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
@@ -29,7 +120,7 @@
       "publishedAt": "2026-08-02T05:26:39.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bc/live/9b18d720-8da6-11f1-9e26-8164f877b701.jpg",
       "topic": "社会",
-      "score": 87,
+      "score": 83,
       "id": "f3eba6a0b78e"
     },
     {
@@ -42,7 +133,7 @@
       "publishedAt": "2026-08-02T02:10:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 87,
+      "score": 83,
       "id": "af8742b749df"
     },
     {
@@ -55,34 +146,21 @@
       "publishedAt": "2026-08-02T01:54:07.000Z",
       "image": "",
       "topic": "社会",
-      "score": 86,
+      "score": 83,
       "id": "2b8938343556"
     },
     {
-      "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
-      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
+      "title": "Trump holds off on new strikes against Iran amid emerging 'deal'",
+      "summary": "Donald Trump says the US will hold off on fresh strikes against Iran, as Middle East allies have agreed to parameters of a deal to end the war.",
+      "url": "https://www.abc.net.au/news/2026-08-02/donald-trump-holds-off-on-strikes-against-iran/106987644",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
       "region": "中东",
-      "publishedAt": "2026-08-02T06:24:01.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c36/live/eb797180-8e18-11f1-b916-5b9500660788.jpg",
+      "publishedAt": "2026-08-02T04:32:56.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/966ee107c7ea2c2ff2c4995fa6103dd5?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=261&width=862&height=485",
       "topic": "政治",
-      "score": 84,
-      "id": "fb6fc86a8d3b"
-    },
-    {
-      "title": "EVs and hybrids approach half of Australian new car sales amid ongoing fuel crisis",
-      "summary": "Australians bought EVs and hybrids at nearly same rate as petrol cars between April and June, Australian Automobile Association data shows Get our breaking news email , free app or daily news podcast Australians are now buying electric and hybrid vehicles at the same rate as traditional petrol-powered cars, according to new data that shows EV sales doubled i",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/02/ev-hybrids-almost-half-australian-new-car-sales-april-june-fuel-crisis",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-02T05:00:19.000Z",
-      "image": "https://i.guim.co.uk/img/media/93f663bf15f50695771528d93c4362f2923c4729/1_0_5963_4770/master/5963.jpg?width=140&quality=85&auto=format&fit=max&s=a88c4c51eb0009fc5af8faa9f67d28ce",
-      "topic": "社会",
-      "score": 83,
-      "id": "a92fd202138b"
+      "score": 82,
+      "id": "8aae5137e9a6"
     },
     {
       "title": "Plane crash in Peru kills 13 people on tourist flight",
@@ -94,7 +172,7 @@
       "publishedAt": "2026-08-02T03:10:01.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/5d40ce99a20c393ccad4f05a666eea05?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 83,
+      "score": 80,
       "id": "d4a9d8bcce57"
     },
     {
@@ -107,21 +185,34 @@
       "publishedAt": "2026-08-02T02:58:51.000Z",
       "image": "",
       "topic": "社会",
-      "score": 83,
+      "score": 80,
       "id": "3362b82435bd"
     },
     {
-      "title": "Donald Trump cancels planned attack on Iran, calls for immediate deal",
-      "summary": "Donald Trump cancels planned attack on Iran, calls for immediate deal &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBILVkwZWo0eHNlNV9Sa2hkR0YyeHdRNE1nMTVyWkN2T1ljOVZBVUNFRzctQlR1VDVyT2Z4bXRiVTRhdlZtOXFXSWQ1ZW5BaGY3allLUTZxV0t5cDREQi1DVXRKdHd3RFhLWmc?oc=5",
-      "source": "The Jerusalem Post",
+      "title": "Iran war live: US cancels Tehran strike, stresses rapid agreement of terms",
+      "summary": "Iran war live: US cancels Tehran strike, stresses rapid agreement of terms &nbsp;&nbsp; Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+      "source": "Arabian Business",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-02T02:21:28.000Z",
+      "publishedAt": "2026-08-02T08:04:32.000Z",
       "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "f5264e9743d7"
+    },
+    {
+      "title": "EVs and hybrids approach half of Australian new car sales amid ongoing fuel crisis",
+      "summary": "Australians bought EVs and hybrids at nearly same rate as petrol cars between April and June, Australian Automobile Association data shows Get our breaking news email , free app or daily news podcast Australians are now buying electric and hybrid vehicles at the same rate as traditional petrol-powered cars, according to new data that shows EV sales doubled i",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/02/ev-hybrids-almost-half-australian-new-car-sales-april-june-fuel-crisis",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-02T05:00:19.000Z",
+      "image": "https://i.guim.co.uk/img/media/93f663bf15f50695771528d93c4362f2923c4729/1_0_5963_4770/master/5963.jpg?width=140&quality=85&auto=format&fit=max&s=a88c4c51eb0009fc5af8faa9f67d28ce",
       "topic": "社会",
-      "score": 83,
-      "id": "1364718eb441"
+      "score": 79,
+      "id": "a92fd202138b"
     },
     {
       "title": "Trump climbs down on Iran strikes after Saudi alarm and threats from Tehran",
@@ -133,7 +224,7 @@
       "publishedAt": "2026-08-02T04:45:37.000Z",
       "image": "https://i.guim.co.uk/img/media/644a3d991ac481989ea97a3977c47e2f3677c714/0_0_3862_3088/master/3862.jpg?width=140&quality=85&auto=format&fit=max&s=da5b0b0fd643f7a0f8f8e7ed21b565dd",
       "topic": "政治",
-      "score": 82,
+      "score": 79,
       "id": "f92103adedaa"
     },
     {
@@ -146,21 +237,21 @@
       "publishedAt": "2026-08-02T06:40:41.000Z",
       "image": "https://i.guim.co.uk/img/media/069bfcaf7a7a417688d5380c0da14177c120c7e4/212_67_1601_1280/master/1601.jpg?width=140&quality=85&auto=format&fit=max&s=2aa2464360de635641749ddbb021ae26",
       "topic": "政治",
-      "score": 80,
+      "score": 77,
       "id": "6f2125e07bbc"
     },
     {
       "title": "Trump says Middle East allies have reached outline of deal to end Iran war",
-      "summary": "Trump says Middle East allies have reached outline of deal to end Iran war &nbsp;&nbsp; BreakingNews.ie",
+      "summary": "Trump says Middle East allies have reached outline of deal to end Iran war &nbsp;&nbsp; breakingnews.ie",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUZQYmVBeG5Ja3h4R0lHaWdINFRWcHgwa1Y1V2lFa2dxT2M1X0x4d0E1clU0R21Dem5pZGstbW9rUVB6UlluM0NkTHp2RTg3dmZoRnFKSkgtSlQ2dFJpanFJUFYzSTdBakl2OEVCVjRYSFBiS1JkbjU0X1NBR1Y4alIxSllLelVQNWVEcFpHTGZ3SktKa2Ixd1lLLVU4SENvZ2JxYU9SOGIzWE50VWdoWEFHcHI1M0NMQ0JXZTNB?oc=5",
-      "source": "BreakingNews.ie",
+      "source": "breakingnews.ie",
       "feed": "Middle East News Network",
       "region": "中东",
       "publishedAt": "2026-08-02T02:58:22.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
-      "id": "a3d9e0f5fa2a"
+      "score": 77,
+      "id": "58f95a136975"
     },
     {
       "title": "Tourist plane crashes in Peru, killing 13",
@@ -172,47 +263,47 @@
       "publishedAt": "2026-08-02T00:29:55.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/233c/live/7e290c00-8e16-11f1-b8e8-d5f03f10fe6d.jpg",
       "topic": "社会",
-      "score": 80,
+      "score": 77,
       "id": "da7a825a1d04"
     },
     {
-      "title": "Live Updates: Latest from Israel, Iran, and Middle East",
-      "summary": "Live Updates: Latest from Israel, Iran, and Middle East &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtdkx1cHBkVk54UzdoRllmdW5tLU53YzN4dDJRQ0RZcFBHcHhUeDMxbVNvelBRdmpkLTFLYU5UQTVLQVRfaHVGb0tfUHRnNUhxQlRsNFpsMThDQTI1T0VFa2VRMEZka3ZzSDhtenJqSHM5VGo0Rk1zbjJhaDdUM0E?oc=5",
-      "source": "The Jerusalem Post",
+      "title": "KSA presses Trump for Middle East diplomacy - Shafaq News | Latest breaking news in Iraq and the world",
+      "summary": "KSA presses Trump for Middle East diplomacy - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; shafaq.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUMUdONXpQUlNDNU5sa2RPb044RDVlbDhaRS05NlJMTzBqSVBrczBFalNWYzVxRUxQY09iTk5qbi16RHBnVUE4dklveXFJS3hJaU5ZVjRqYWpKdmtjU3dYRnZRQi1SRzJ1cWFlb0U5UmRwcDF6bkJqT29Pdw?oc=5",
+      "source": "shafaq.com",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-02T00:00:05.000Z",
+      "publishedAt": "2026-08-02T09:12:56.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
-      "id": "acf88d717071"
+      "score": 76,
+      "id": "8295492abedb"
     },
     {
-      "title": "Iran war live: Trump cancels attack, calls for a ‘rapid’ deal on Hormuz",
-      "summary": "Move comes after Iran's top diplomat warned of a 'decisive response' to any US-Israeli 'aggression'.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
+      "title": "How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it",
+      "summary": "Once Turkiye's prime minister, Ahmet Davutoglu has stepped back from party politics.",
+      "url": "https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-02T00:00:00.000Z",
+      "region": "全球",
+      "publishedAt": "2026-08-02T09:07:20.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
-      "id": "5fddab7063fb"
+      "score": 76,
+      "id": "848d29866c17"
     },
     {
-      "title": "Record-breaking climber Nirmal Purja among those killed in avalanche",
-      "summary": "14 Peaks star Nirmal Purja has died in an avalanche while leading 10 climbers up Broad Peak mountain in Pakistan.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
+      "title": "Analyst Claims XRP Could Ease Japan’s Yen Crisis: Is It Realistic?",
+      "summary": "Analyst Claims XRP Could Ease Japan’s Yen Crisis: Is It Realistic? &nbsp;&nbsp; BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWTd0dFFHejhpNG95ZjFocWNKcUpfUzBNdm01TTVjTVZvNW56QjFLV1o1Z2V4OG9kbGNKV0VMaVg5R0VKenFEckE3TFhPZ0t1MkhIVktYXzdkeGFsSnBWN1JITnZuWlc3VGtjQi0zTUt3cTg?oc=5",
+      "source": "BeInCrypto",
+      "feed": "Latin America News Network",
       "region": "亚洲",
-      "publishedAt": "2026-08-01T20:10:01.000Z",
+      "publishedAt": "2026-08-02T09:00:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
-      "id": "a53e1be72ab8"
+      "score": 76,
+      "id": "3e4dc1ccec90"
     },
     {
       "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
@@ -222,9 +313,9 @@
       "feed": "BBC World",
       "region": "全球",
       "publishedAt": "2026-08-02T05:40:42.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b3a/live/f29cb820-8dda-11f1-9d54-295807679b3c.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/074e/live/33005890-8e4e-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "社会",
-      "score": 79,
+      "score": 76,
       "id": "39224f9d7482"
     },
     {
@@ -237,8 +328,99 @@
       "publishedAt": "2026-08-02T05:29:36.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 76,
       "id": "f37a4d986491"
+    },
+    {
+      "title": "Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan - officials",
+      "summary": "Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan - officials &nbsp;&nbsp; The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcjgyS25zUWJlWUZ3SkxBbnJRWDBHOVR5SE1pRE5MMmZ5NDcxVlhfQ2kyUnJxM2Y3TGpVbVNjZTVOYkw2SGcxRUUzWjN4SW9kdk9yWFpjNDFaaTZiV0hnZmN6V3Y2RS10ZnVLNWc2UmptRW1qbXoxUTBGSDhhUWFWSV9SZTRfdTk1aTVyQXU4amJPcTJUTjQ2X0FCVHZVLXVaN1RSSl9TeURCZU55SGZ0UE1HSUsxR19STEHSAb8BQVVfeXFMUGx6Q1p0aW10OXEtU1BQU3lERUJNSUZRdkJKOFF1d1NLSmhtOWUtVFkyVmFWalEtTnpCU2Z5ODlwQzZOc19rU2VISzdzWmhBcUZhcVYxUXJLcnhvSDFfbE1PR19Nckt3MzhvR2p5LUtRaGY4amtXSTExbVhWYTd2M3JKOG9OV0lJcDU2cXNWNW5PUWdCNVR4RFZjZXhiZHBZVUFyUjRtZzFzNThHd3pyOHlrRElUc3lBbUVoQUpNVU0?oc=5",
+      "source": "The Business Standard",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-02T03:10:00.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 76,
+      "id": "f7eaee1f1cdd"
+    },
+    {
+      "title": "Live Updates: Latest from Israel, Iran, and Middle East",
+      "summary": "Live Updates: Latest from Israel, Iran, and Middle East &nbsp;&nbsp; The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtdkx1cHBkVk54UzdoRllmdW5tLU53YzN4dDJRQ0RZcFBHcHhUeDMxbVNvelBRdmpkLTFLYU5UQTVLQVRfaHVGb0tfUHRnNUhxQlRsNFpsMThDQTI1T0VFa2VRMEZka3ZzSDhtenJqSHM5VGo0Rk1zbjJhaDdUM0E?oc=5",
+      "source": "The Jerusalem Post",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-02T00:00:05.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "acf88d717071"
+    },
+    {
+      "title": "Stock market turmoil sheds stark light on the opaque AI economy",
+      "summary": "Investors scramble to make sense of a shock Chinese challenge to the dominance of western chipmakers Even for the rollercoaster world of AI, last week was particularly volatile as investors scrambled to keep up with developments that threatened the dominance of the largest western chipmakers. It began with a double whammy. On Monday, the Chinese memory chipm",
+      "url": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-02T09:00:17.000Z",
+      "image": "https://i.guim.co.uk/img/media/f3c5945bf000f1a831b643986588a8d2fb63555a/213_0_2133_1707/master/2133.jpg?width=140&quality=85&auto=format&fit=max&s=962c63fe0325c197179f22d29e53f6c9",
+      "topic": "经济",
+      "score": 75,
+      "id": "5aed7512d68e"
+    },
+    {
+      "title": "Eight alleged offenders who cut off ankle bracelets spark police manhunt",
+      "summary": "The WA Police Union say six police officers were required to hunt each person who took off the device, meaning 48 officers were diverted from their usual duties this weekend.",
+      "url": "https://www.abc.net.au/news/2026-08-02/alleged-offenders-cutting-off-ankle-bracelets-sparks-manhunt/106987974",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-02T08:56:44.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/6a2773551e6f805f4dec42ff7828bf6c?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=31&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "019439533d91"
+    },
+    {
+      "title": "Petro urges global support to stop possible US invasion of Cuba",
+      "summary": "Petro urges global support to stop possible US invasion of Cuba",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/petro-urges-global-support-to-stop-possible-us-invasion-of-cuba?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-02T08:23:32.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "644d916cddb9"
+    },
+    {
+      "title": "Lionel Messi returns for Inter Miami after extended post-World Cup break",
+      "summary": "Argentinian star made his return for the MLS champions as Inter Miami play out a 2-2 result with Columbus Crew.",
+      "url": "https://www.aljazeera.com/sports/2026/8/2/lionel-messi-returns-for-inter-miami-after-extended-post-world-cup-break?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-02T08:20:43.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "c02ec842d361"
+    },
+    {
+      "title": "Tarik Skubal acquired by LA Dodgers at the MLB trade deadline",
+      "summary": "World Series champions for the past two years add Skubal to star-studded roster that already includes Shohei Ohtani.",
+      "url": "https://www.aljazeera.com/sports/2026/8/2/tarik-skubal-acquired-by-la-dodgers-at-the-mlb-trade-deadline?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-02T08:12:54.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 75,
+      "id": "db7df827d7b1"
     },
     {
       "title": "Shooting at In-N-Out Burger restaurant in Idaho leaves three people dead",
@@ -250,7 +432,7 @@
       "publishedAt": "2026-08-02T05:02:37.000Z",
       "image": "https://i.guim.co.uk/img/media/9ce514be75ec9e85c7aa22ed79c2cbcd64011d59/0_602_3230_2583/master/3230.jpg?width=140&quality=85&auto=format&fit=max&s=27d398bf4cc112cce17c075a0119d405",
       "topic": "社会",
-      "score": 78,
+      "score": 75,
       "id": "2413b596c090"
     },
     {
@@ -263,7 +445,7 @@
       "publishedAt": "2026-08-02T05:00:12.000Z",
       "image": "https://i.guim.co.uk/img/media/7aedbc8177d78b97d5a658851bfc1d18ac7e3dc0/1974_1061_3120_2496/master/3120.jpg?width=140&quality=85&auto=format&fit=max&s=d9225b816b830d2b63e0c97e9555a0bc",
       "topic": "科技",
-      "score": 78,
+      "score": 75,
       "id": "f355b410a212"
     },
     {
@@ -276,34 +458,60 @@
       "publishedAt": "2026-08-02T04:44:55.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 75,
       "id": "d9843979eda9"
     },
     {
-      "title": "Trump holds off on new strikes against Iran amid emerging 'deal'",
-      "summary": "Donald Trump says the US will hold off on fresh strikes against Iran, as Middle East allies have agreed to parameters of a deal to end the war.",
-      "url": "https://www.abc.net.au/news/2026-08-02/donald-trump-holds-off-on-strikes-against-iran/106987644",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "中东",
-      "publishedAt": "2026-08-02T04:32:56.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/966ee107c7ea2c2ff2c4995fa6103dd5?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=261&width=862&height=485",
-      "topic": "政治",
-      "score": 78,
-      "id": "8aae5137e9a6"
+      "title": "Arsenal’s Arteta expects more signings as Tzolis scores against Girona",
+      "summary": "Newly acquired Christos Tzolis scores for the English champions who have been linked to Bruno Guimaraes and Vinicius Jr.",
+      "url": "https://www.aljazeera.com/sports/2026/8/2/arsenals-arteta-expects-more-signings-as-tzolis-scores-against-girona?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-02T08:08:19.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "9a8b2cd5bdb0"
     },
     {
-      "title": "Historic strike, YouTuber's fate features in photo picks for June, July",
-      "summary": "It was a busy June and July for WA as the state experienced a rare shark attack, a historic bird flu detection, and World Cup fever in our own backyard.",
-      "url": "https://www.abc.net.au/news/2026-08-02/wa-photo-wrap-june-and-july/106838764",
+      "title": "'We'll kill you': Sandilands says he received threats in Stefanovic interview",
+      "summary": "In an interview with former Nine Today presenter, Karl Stefanovic, released on YouTube, Sandilands said threatening letters had been left at his office.",
+      "url": "https://www.abc.net.au/news/2026-08-02/kyle-sandilands-says-on-stefanovic-show-received-death-threats/106987624",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "大洋洲",
-      "publishedAt": "2026-08-02T01:00:37.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/a4f4d7f3aea9a5291abc3154cc1e7617?impolicy=wcms_crop_resize&cropH=909&cropW=1616&xPos=0&yPos=86&width=862&height=485",
+      "publishedAt": "2026-08-02T08:01:36.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/8add9ce857d4bf3d9257500fdae6fe8c?impolicy=wcms_crop_resize&cropH=268&cropW=477&xPos=0&yPos=151&width=862&height=485",
       "topic": "社会",
-      "score": 78,
-      "id": "3af4372d4a6e"
+      "score": 74,
+      "id": "f21b428096c7"
+    },
+    {
+      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+      "summary": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
+      "url": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "美洲",
+      "publishedAt": "2026-08-02T07:58:51.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6857/live/90b8ce50-868c-11f1-926f-c90d1bcfbc84.jpg",
+      "topic": "社会",
+      "score": 74,
+      "id": "5274aa323fc5"
+    },
+    {
+      "title": "Live: Diamonds fight for bronze as cyclists eye another medal haul on final day",
+      "summary": "Australia's cyclists will look to close their incredibly successful Commonwealth Games with another swag of medals, before the closing ceremony brings the action in Glasgow to a close. Follow live.",
+      "url": "https://www.abc.net.au/news/2026-08-02/live-blog-commonwealth-games-day-ten/106987006",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-02T07:58:47.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b415c9edd1b8692f527649810856a2f6?impolicy=wcms_crop_resize&cropH=2278&cropW=4049&xPos=0&yPos=79&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "741ef89ab0a2"
     },
     {
       "title": "Australia's Rhiannan Iffland becomes greatest cliff diver of all time",
@@ -315,8 +523,21 @@
       "publishedAt": "2026-08-02T04:28:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/dd2a68f053b392af11000ba17a1548fd?impolicy=wcms_crop_resize&cropH=1967&cropW=3497&xPos=0&yPos=9&width=862&height=485",
       "topic": "社会",
-      "score": 77,
+      "score": 74,
       "id": "23c9fe2d4b7e"
+    },
+    {
+      "title": "Explainer: Why is Ceuta a focal point of Europe's latest migrant crisis",
+      "summary": "Explainer: Why is Ceuta a focal point of Europe's latest migrant crisis &nbsp;&nbsp; Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVVwWWxPd2c3Wk5tZXBzbHNLdXNPb0h4MkdZWkVRYUJvMmtDU2pTMnI4M2psLTRZRUlFWDBFRmxOZUh0Ni1nTDMxMVdaZWY3QlNrQTk2Ry1BU0tqM1RoV3MzLWY3Y0tpYjdKT05ySmlfUHlyWVJXM1d1QXNELXlfMDhtLXd1cE9GNlVkTjlLTTZES0plZm1tRUlJRV9wRmpKc0dMSWYzdXhueXkxYzRucGVpQ3I?oc=5",
+      "source": "Big News Network.com",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-02T04:15:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "4a988c36bd2c"
     },
     {
       "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
@@ -328,21 +549,34 @@
       "publishedAt": "2026-08-02T04:00:11.000Z",
       "image": "https://i.guim.co.uk/img/media/725aee047802b1eb39e000a019d0566950c75641/742_425_2422_1938/master/2422.jpg?width=140&quality=85&auto=format&fit=max&s=31547ec23a7b4de1d24cbe7d80fa594a",
       "topic": "社会",
-      "score": 77,
+      "score": 74,
       "id": "80bdb60eb18d"
     },
     {
-      "title": "Trump Calls Off Planned Attack on Iran, Citing Diplomatic Progress",
-      "summary": "Trump Calls Off Planned Attack on Iran, Citing Diplomatic Progress &nbsp;&nbsp; wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZXdkU0hHU25adjh1bERoVU5VWkZldHVyUW9Sek5oRlU5LXRULXREcWtCZ3duWVgwcHJoZS12a180alJkWHhTcXJaNjJmYTgxelB5d0ZyN2RHdmtlUFRGVEwtYVFEanRzSFRnSG84Q2x6RlBkdXIzaGo4UC0tZk5WbElnT0NaaG1NMGViSzBmejV5ZlpFM25CLTZqUXcwdmVCZ285Z0lOb2dvUXM?oc=5",
-      "source": "wsj.com",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-02T03:56:00.000Z",
+      "title": "Fears shared on Australia reaching bleak milestone in spread of H5 bird flu",
+      "summary": "There are fears Australia has reached a bleak milestone in the spread of H5 bird flu, following the discovery of a large group of dead and sick birds off South Australia's coast on Friday.",
+      "url": "https://www.abc.net.au/news/2026-08-02/sa-bird-flu-concern/106987886",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-02T06:54:34.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b706aec15553d3f958392fc9e18daf61?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=466&width=862&height=485",
+      "topic": "社会",
+      "score": 73,
+      "id": "7cc8daeda11d"
+    },
+    {
+      "title": "Cuban spy network infiltrating US, supporting protesters, Marco Rubio says",
+      "summary": "Cuban spy network infiltrating US, supporting protesters, Marco Rubio says &nbsp;&nbsp; The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ib1k0UVprSUZxWjdZSnpIUXZCM01uYnBnUGJGWTFfQUcwckltRU9fdzQ0V0piMk4zNzZYYXYwTzQ2LWpUTEtXeFA1Wm1yS3ZybTFvVVFzdmFwemhad1Bj?oc=5",
+      "source": "The Jerusalem Post",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-02T06:45:08.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
-      "id": "5756c959306e"
+      "score": 73,
+      "id": "9d75e1a6178e"
     },
     {
       "title": "How Virunga Park protects people and gorillas from Ebola in eastern DRC",
@@ -354,21 +588,21 @@
       "publishedAt": "2026-08-02T03:46:27.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 73,
       "id": "6986216f2324"
     },
     {
-      "title": "Live: Tiger returns are turbulent week, Hynes closes in on 23-year-old record",
-      "summary": "Adam Doueihi returns for Wests Tigers after sitting out last week, while Cronulla Sharks flex their muscles with an impressive win over South Sydney. Follow live.",
+      "title": "'Rubbish' costs Rabbitohs as Hynes chases NRL record, Eels beat Tigers",
+      "summary": "South Sydney coach Wayne Bennett says \"rubbish\" from his team continues to cost them chances to win games, as the Rabbitohs are beaten by the Cronulla Sharks.",
       "url": "https://www.abc.net.au/news/2026-08-02/nrl-live-updates-sharks-rabbitohs-tigers-eels/106977954",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "大洋洲",
       "publishedAt": "2026-08-02T03:31:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/c6e9f8a0dd15855f26d23220744ce3ed?impolicy=wcms_crop_resize&cropH=2549&cropW=4532&xPos=0&yPos=236&width=862&height=485",
+      "image": "https://live-production.wcms.abc-cdn.net.au/cb0780e6df731d36dc4a1f5cb1c65d86?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 76,
-      "id": "40e43a8eba55"
+      "score": 73,
+      "id": "fad56f447a44"
     },
     {
       "title": "Concept images of controversial 2032 Brisbane Olympics precinct revealed – as it happened",
@@ -380,7 +614,7 @@
       "publishedAt": "2026-08-02T03:11:48.000Z",
       "image": "https://i.guim.co.uk/img/media/069bfcaf7a7a417688d5380c0da14177c120c7e4/212_67_1601_1280/master/1601.jpg?width=140&quality=85&auto=format&fit=max&s=2aa2464360de635641749ddbb021ae26",
       "topic": "科技",
-      "score": 76,
+      "score": 73,
       "id": "ac54f08ef536"
     },
     {
@@ -393,8 +627,21 @@
       "publishedAt": "2026-08-01T23:57:30.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 73,
       "id": "268630575a67"
+    },
+    {
+      "title": "America is exporting bewilderment to the rest of the world",
+      "summary": "America is exporting bewilderment to the rest of the world &nbsp;&nbsp; The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ1V5X242Mk1GTkJKVUtqdzhSX1JBaWFhdFdJVk1wZi1BblZ5ZHBILUUyNVY2R2pGWHZQNVdQc3FjS045V1hReHFkQlUzM0Fia0FRbnJlNGo1TG1YNWExNUVyanlsbHR2UmFiazFSU1JfUUlweFMwT0NZLTZZTmZ4ck1xeEtoRDkwekFWajRzeVB5OVBqNVcxZjJIbUNwWXZkWVN5Ym1jYl9IYVdrZGJ3OTlJTnpycWlqejZrZWxabEx2MnVfdFFINWVUSi15cHZzdlp6WWU3SGV5amJDUnfSAeMBQVVfeXFMTTNzeG5rUVFjUjZNM2JVZGxoRUt2NnB6NE13cHBidXM0MGtORXVTblFia0pIQS05U2JJNnVhTWtkWF9vbHYzU1ZxT3kzUW9RSXR5Mnhrd1Rhd2ZfU00yZ1BTaTZRYkxic2RyV3ZndzFnNVQ2UTNsZkZQME1EUDVTcVdKUUtjdXV0bTZocEtxTFd2RHhqd3o5TGRKUkVNQi1jbkdVZGlXaWdmSWwzaHVWTzVUb1RGOXBjUFNyZE9MdWY4WXNDOFEyeWlnMVVwdF9ZLW5Wa29mdG5XT2t3YVFuLWNmYVk?oc=5",
+      "source": "The Economic Times",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-02T09:01:15.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "9391718e152a"
     },
     {
       "title": "Grandfather and grandson pedal 5,300km from Broome to Bowral for MND",
@@ -406,11 +653,11 @@
       "publishedAt": "2026-08-02T06:00:33.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/985aa1740dc30ac7f2ce8be1e0800985?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 72,
       "id": "772413b5a874"
     },
     {
-      "title": "Hitting the right note: apolitical animals or European heroes for new euro designs?",
+      "title": "Callas, Beethoven, bee-eaters or storks: competition seeks to redesign euro notes",
       "summary": "The EU is using a currency redesign as an opportunity to be less neutral and try some finely balanced identity-building Is Europe best represented by the bold intellect of Marie Curie, the sprawling imagination of Miguel de Cervantes and the intense musical genius of Ludwig van Beethoven? Or by a migrating stork and a bee-eater, swooping across borderless pl",
       "url": "https://www.theguardian.com/world/2026/aug/02/european-central-bank-notes-new-design",
       "source": "The Guardian",
@@ -419,8 +666,8 @@
       "publishedAt": "2026-08-02T06:00:14.000Z",
       "image": "https://i.guim.co.uk/img/media/783bff783bd5f9cc087fe1db66bcd93d2b1e6efe/0_0_3937_3150/master/3937.jpg?width=140&quality=85&auto=format&fit=max&s=b8c50c7e128f3005f67d5eb8735bff39",
       "topic": "经济",
-      "score": 75,
-      "id": "22bb129d27fc"
+      "score": 72,
+      "id": "6e6162ec4a46"
     },
     {
       "title": "‘We cannot magic up more water’: the supply problems putting housing targets in England at risk",
@@ -432,47 +679,34 @@
       "publishedAt": "2026-08-02T06:00:14.000Z",
       "image": "https://i.guim.co.uk/img/media/01100570125b7be60fc504536dab5b9b022e2d24/383_0_6353_5083/master/6353.jpg?width=140&quality=85&auto=format&fit=max&s=b6001cdc509913fc555b54e5e288873c",
       "topic": "政治",
-      "score": 75,
+      "score": 72,
       "id": "7b0fca3fc4c3"
     },
     {
-      "title": "UK’s state investments agency hit by data breach",
-      "summary": "Security lapse leaves sensitive information and contact details of 51 government officials exposed for 40 hours The public body in charge of the UK’s state investments has been pushed to improve its internal security after a data breach left “high-level management information” publicly accessible for nearly two days. UK Government Investments (UKGI), the age",
-      "url": "https://www.theguardian.com/business/2026/aug/02/uk-state-investments-agency-data-breach",
+      "title": "Top mountaineer Nirmal Purja confirmed dead after 11 hit by avalanche in Pakistan",
+      "summary": "Other members of expedition led by world-renowned climber on Broad Peak also died, climbing company says A world-renowned Nepali mountaineer and former UK Special Forces member has died after being among 11 climbers caught in a deadly avalanche on Pakistan’s Broad Peak. Nirmal Purja was killed leading an expedition of 10 other people on the world’s 12th-high",
+      "url": "https://www.theguardian.com/world/2026/aug/01/top-mountaineer-nirmal-purja-confirmed-dead-after-11-hit-by-avalanche-in-pakistan",
       "source": "The Guardian",
       "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-02T06:00:13.000Z",
-      "image": "https://i.guim.co.uk/img/media/c24b73fd1d29d040bef47aaa6eb42c8cfac65aed/520_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=b93401b133970845b8d97ef78f6d802e",
-      "topic": "政治",
-      "score": 75,
-      "id": "19b1d25f4ff9"
+      "region": "亚洲",
+      "publishedAt": "2026-08-01T13:41:44.000Z",
+      "image": "https://i.guim.co.uk/img/media/23d4fb6445541007a1263767def85e76a634fc40/348_0_1889_1511/master/1889.jpg?width=140&quality=85&auto=format&fit=max&s=a35a88c8494000a6d268314c32d055e3",
+      "topic": "社会",
+      "score": 72,
+      "id": "d0f95677cf32"
     },
     {
-      "title": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating",
-      "summary": "No culprit has been identified in any of the attacks, which comes after authorities warned of possible Iranian plot.",
-      "url": "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-01T22:34:36.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "43406ed57348"
-    },
-    {
-      "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
-      "summary": "Students in Gaza overcome distressing conditions amid Israel's genocide to finish their Tawjihi high school exams.",
-      "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-02T05:27:04.000Z",
+      "title": "Zambia: Red Arrows FC land Congolese goal machine Pweto",
+      "summary": "Zambia: Red Arrows FC land Congolese goal machine Pweto &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUnBlVG1RQ2IxV3Nyc0lLcWtnQ2g4MXNGMW1PMjMxd0pQc1IwVTlFVElCZTlmOVRvOEFkdmJXV2VoYjJ2T2VwdnEtZTViai0zekM3RHdLVDhKWUhwX2VyWXd2VUNia1VFaWV0SFl6V0k2OGh3cnIzTWhySHEzNEpEU1pBZjVmNl9vWlRpdS1RNA?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-02T08:18:17.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
-      "id": "1373c47fb179"
+      "score": 71,
+      "id": "b615b25d5a3a"
     },
     {
       "title": "Drivers brace for petrol price hikes as fuel excise cut comes to end",
@@ -484,7 +718,7 @@
       "publishedAt": "2026-08-02T05:21:23.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/26d05dba28d6a9735d1beed6ab7ae8a5?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 71,
       "id": "43abe358f7f9"
     },
     {
@@ -497,11 +731,11 @@
       "publishedAt": "2026-08-02T05:20:05.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/44e72856bc7e8573416e5ec6e0f3e0de?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 71,
       "id": "888fa7749821"
     },
     {
-      "title": "Trump, Kushner, oligarchs and flamingos. Welcome to Albania's revolution",
+      "title": "How a factually dubious video by Ivanka Trump angered an entire nation",
       "summary": "Albania's coastline has become a hotspot for cheap European summer sojourns but as Ivanka Trump claims her Christopher Columbus moment locals are adamant that their island is not for sale.",
       "url": "https://www.abc.net.au/news/2026-08-02/albanias-flamingo-revolution-awash-with-trump-greed-oligarchs/106924816",
       "source": "ABC Australia",
@@ -510,34 +744,8 @@
       "publishedAt": "2026-08-02T05:09:59.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d5ba37eef0a3d263ec399ed4c4ba5772?impolicy=wcms_crop_resize&cropH=5197&cropW=9240&xPos=0&yPos=482&width=862&height=485",
       "topic": "社会",
-      "score": 74,
-      "id": "9d2a12895564"
-    },
-    {
-      "title": "Undercover police unit closed down over unjustified surveillance, spycops inquiry told",
-      "summary": "Senior officer behind closure says SDS caused ‘incalculable harm’ by infiltrating groups that posed no threat An undercover police unit that spied on tens of thousands of political activists had to be shut down amid severe criticisms and recriminations, the spycops public inquiry has heard. Jon Boutcher, a senior police officer who took over responsibility f",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/02/spycops-inquiry-undercover-police-unit-sds-closed-john-boutcher-unjustified-surveillance",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-02T05:00:13.000Z",
-      "image": "https://i.guim.co.uk/img/media/a9775fdb47053dfb3aa78009cfbc10191133a907/200_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=73b848394c52718fb2ba84a0c3e3791b",
-      "topic": "社会",
-      "score": 74,
-      "id": "df034ab87c6a"
-    },
-    {
-      "title": "Thirteen dead in Peruvian tourist plane crash over Nazca Lines",
-      "summary": "Footage shows firefighters dousing the wreckage of a crashed tourist aircraft in southern Peru.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/thirteen-dead-in-peruvian-tourist-plane-crash-over-nazca-lines?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-02T01:46:22.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "b7a47769abaa"
+      "score": 71,
+      "id": "8e3c46e26ec4"
     },
     {
       "title": "Australia records biggest-ever surge in EV sales",
@@ -549,47 +757,8 @@
       "publishedAt": "2026-08-02T01:43:07.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/cc61d94d7ba46c4241e2d7caae051016?impolicy=wcms_crop_resize&cropH=576&cropW=1024&xPos=0&yPos=53&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 71,
       "id": "644168e8244b"
-    },
-    {
-      "title": "Teenage girl's death sparks calls to change 'hostage justice' in Japan",
-      "summary": "A 16-year-old girl's family alleges she was so traumatised by her time in a police cell, it killed her. Her case is now the focus of court action alleging she was a victim of Japan's \"hostage justice\" system.",
-      "url": "https://www.abc.net.au/news/2026-08-02/japan-hostage-justice-system-under-scrutiny-after-teen-death/106967964",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "亚洲",
-      "publishedAt": "2026-08-02T01:37:56.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/18b4c345714a4fe1e8340d5be48b6f5b?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=3&width=862&height=485",
-      "topic": "政治",
-      "score": 74,
-      "id": "ed77831a844f"
-    },
-    {
-      "title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
-      "summary": "Senate race in Michigan comes to embody Democratic rift over Israel, as AIPAC spends heavily against progressive doctor.",
-      "url": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-01T22:31:52.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "9f8d23f3246c"
-    },
-    {
-      "title": "Tourist plane crash leaves 13 dead in Peru",
-      "summary": "A tourist plane has crashed in Peru, leaving 13 people dead, according to local authorities.",
-      "url": "https://news.sky.com/story/tourist-plane-crash-leaves-13-dead-in-peru-13569102",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "全球",
-      "publishedAt": "2026-08-01T19:50:00.000Z",
-      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-nazca-lines-peru_7312031.jpg?20260801220447",
-      "topic": "社会",
-      "score": 74,
-      "id": "6de1259ec8a9"
     },
     {
       "title": "EU offered Spain support ‘from first moment’ of Ceuta crisis, says von der Leyen, after Sánchez hits out – Europe live",
@@ -601,8 +770,34 @@
       "publishedAt": "2026-08-01T14:58:54.000Z",
       "image": "https://i.guim.co.uk/img/media/44a384de7c8e51cfe1cde39b738a012d21a71271/433_0_3558_2846/master/3558.jpg?width=140&quality=85&auto=format&fit=max&s=afd70b6149f7061038d3c33a6753df36",
       "topic": "政治",
-      "score": 74,
+      "score": 71,
       "id": "b6357f33ccb6"
+    },
+    {
+      "title": "Cricket World Cup coming back to Africa after 24 years",
+      "summary": "Cricket World Cup coming back to Africa after 24 years &nbsp;&nbsp; snl24.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc2QxSkFmemJ1YS1MOXpSd3ljaGU2cUdPSkJSdnlfR2ZrSm9BenQtZ0xacTNseTAwank2ZGNrMDJBRkRuMTZCaDl6TThjbUYyUlVfS2JEUG8yWEIyUzYzZ2ZTbGNyclJoaGNTQ3dpZ1M2T1ZyWXhpako4aGxxLXdDRDRQRE84cnVqZ1dWR19uZ2o0SjlldFZrYQ?oc=5",
+      "source": "snl24.com",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-02T08:01:56.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "a512418e4625"
+    },
+    {
+      "title": "VOX POPULI: Like rain, sudden tax cuts do not fall evenly on an unequal society",
+      "summary": "VOX POPULI: Like rain, sudden tax cuts do not fall evenly on an unequal society &nbsp;&nbsp; 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91ZklDSHJrMzAzNnA2cXlUSEctaHNlNVlxcVBIeER4ZXB0Y3E2eW91QWFBZHdvanZHOUFUMS14ckx1RWRrZkZVYURpSnptSzNWa2dXcmhhc2xEZGNMcGc?oc=5",
+      "source": "朝日新聞",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-02T08:01:28.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "166aa98098ff"
     },
     {
       "title": "Three incidents keep search and rescue crews busy in Tasmania",
@@ -614,34 +809,8 @@
       "publishedAt": "2026-08-02T04:43:49.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/aec6eed98399c2bb4dff8b1f72dd447f?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=240&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 70,
       "id": "e894fc134398"
-    },
-    {
-      "title": "Why isn’t anyone challenging Infantino for FIFA’s top job?",
-      "summary": "FIFA’s Gianni Infantino has scrapped his controversial plan to sell a stake in the World Cup after global outrage.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/why-isnt-anyone-challenging-infantino-for-fifas-top-job?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-02T04:34:19.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "d2e180450736"
-    },
-    {
-      "title": "Codere Online Reports Record Quarter Driven by Growth in Spain and Mexico",
-      "summary": "Codere Online Reports Record Quarter Driven by Growth in Spain and Mexico &nbsp;&nbsp; iGamingToday.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZTREYktCQ3psMjQ3SUFSWEk3Q0hkbHA0dEVKQ3haWElaaG5MNlpoenlfYzJWRnNKZTN3ckhKdjMzSVJlNGEyVThpUU9qQTdqQy1xcnlac3FINndqWmVtSWV0UVV5SXY0VFlZeVctRlhVUk9DTXNmYXdaaGozLUpON3V4VF96TDF3a3JBaGFKODh5MDNCN1d3QTVUTkFLUHRmb0VKOUdn?oc=5",
-      "source": "iGamingToday.com",
-      "feed": "Latin America News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-02T03:45:06.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "ee221dfd9031"
     },
     {
       "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
@@ -653,21 +822,8 @@
       "publishedAt": "2026-08-02T00:55:16.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
       "topic": "气候",
-      "score": 73,
+      "score": 70,
       "id": "b38ac863c393"
-    },
-    {
-      "title": "Hungary plans to shut down only nuclear power plant amid drought",
-      "summary": "Officials say they must shut down nation's sole nuclear plant as record-low Danube water levels disrupt reactor cooling.",
-      "url": "https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-02T00:49:25.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 73,
-      "id": "90319d45e8f4"
     },
     {
       "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
@@ -679,8 +835,34 @@
       "publishedAt": "2026-08-01T22:23:39.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 70,
       "id": "2e14981a638f"
+    },
+    {
+      "title": "Nimsdai Purja’s final climb: How a last-minute decision became his last mission",
+      "summary": "Nimsdai Purja’s final climb: How a last-minute decision became his last mission &nbsp;&nbsp; Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUl9JVzFlLU9jM1lRVjVsdXpyVUdIcXhXT3VWOVpraXEwU0xCVi1JUDBkeWxZbW9TOW9VSmlmbFZVRkM4ME00dGtKS29ULTFLckQzMDNZY01YWXM1a19ERC1LbTlvNTdWRFFNUTk4X0VvTmZhaXNod1JpaTlQdFl0NUNvbExQTHJYaDkyNGEyR3hLNFBiYng3RWJjcV9XODFhMjBtRFdPMVQ1VU1ybnlSWWMzLXpvOUZhMU9IVjBXREJUUUVqS2w4a0F6OVNJYmM2WWVOcGRqY28?oc=5",
+      "source": "Gulf News",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-02T07:06:20.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 69,
+      "id": "f7b3aee0a4c0"
+    },
+    {
+      "title": "Codere Online Reports Record Quarter Driven by Growth in Spain and Mexico",
+      "summary": "Codere Online Reports Record Quarter Driven by Growth in Spain and Mexico &nbsp;&nbsp; iGamingToday.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZTREYktCQ3psMjQ3SUFSWEk3Q0hkbHA0dEVKQ3haWElaaG5MNlpoenlfYzJWRnNKZTN3ckhKdjMzSVJlNGEyVThpUU9qQTdqQy1xcnlac3FINndqWmVtSWV0UVV5SXY0VFlZeVctRlhVUk9DTXNmYXdaaGozLUpON3V4VF96TDF3a3JBaGFKODh5MDNCN1d3QTVUTkFLUHRmb0VKOUdn?oc=5",
+      "source": "iGamingToday.com",
+      "feed": "Latin America News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-02T03:45:06.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 69,
+      "id": "ee221dfd9031"
     },
     {
       "title": "Kitara FC bolster squad with Ndugwa, Bbosa",
@@ -692,7 +874,7 @@
       "publishedAt": "2026-08-02T06:32:54.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 68,
       "id": "650ce6d6217a"
     },
     {
@@ -705,34 +887,8 @@
       "publishedAt": "2026-08-02T06:27:53.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 68,
       "id": "eb85b2826fd8"
-    },
-    {
-      "title": "Judge rejects Crown stance on ancient waka as archaeologist warns of storm threat",
-      "summary": "Judge rejects Crown stance on ancient waka as archaeologist warns of storm threat &nbsp;&nbsp; NZ Herald",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNGNFVUFsRzF4S1NKLUlpOTRIRHBvYkVqUXpCejl4cVBlM0c1NjlLbGVQTTNBcXdLZjMzZVhBTE0zV09lQ2VkM1FxMElEQmFwdVpvSmlYWm9kZFFfN3FZVmJHOWxoSWtzMUtHSzVmUDdOUGlOWDlLM2oyWmZ2UGNfcTlmUXZWbUVneFpGVDNfd3AzNF9qNHJLOGp5a1VXOFYzVGFXMlBWS2JEd1dXTklSUzlIa1hSVXdGbEpJaVVhdXYtdGZkb2RDcjJ0b1dpR0E?oc=5",
-      "source": "NZ Herald",
-      "feed": "Pacific News Network",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-02T03:25:42.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "23652d3b439c"
-    },
-    {
-      "title": "Cook Islands Language Week: Call to reclaim te reo Māori Kūki 'Āiran for future generations",
-      "summary": "Cook Islands Language Week: Call to reclaim te reo Māori Kūki 'Āiran for future generations &nbsp;&nbsp; pmn.co.nz",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYmxUMVpzVUNtQ1FtQVozMll4WXgzb0lLUnJsOHh3eFRYZkUxRWFvek9YemhpM2NPVkZQVjdTNzlLdUU5dmRrSWRoc1pqSFkxdGZ3WklOU3dCbHNsaEJRQ2pFU2tHNmRURG11WDA0enlkV05PcWtTOGRxeHlKMy1mbWM0bEVkeGVrV0FJZWtDNTc1MnVHQVlFTWNnZXNjX0k2STc0ZDliS256VzE1RkZfU0xSUmZpa2F5VHdJT1cyTVVfS1JSbC0yOFdnS20tZw?oc=5",
-      "source": "pmn.co.nz",
-      "feed": "Pacific News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-02T06:20:58.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "c3bd81a67036"
     },
     {
       "title": "Seasonal work in NZ helping Tongans build businesses back home",
@@ -744,7 +900,7 @@
       "publishedAt": "2026-08-02T06:02:00.000Z",
       "image": "",
       "topic": "经济",
-      "score": 71,
+      "score": 68,
       "id": "7919e6eaf73c"
     },
     {
@@ -757,7 +913,7 @@
       "publishedAt": "2026-08-02T06:00:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 68,
       "id": "26e159aedba8"
     },
     {
@@ -770,7 +926,7 @@
       "publishedAt": "2026-08-02T03:10:09.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/e9c83995bc27a07473c998faa00da5ce?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 71,
+      "score": 68,
       "id": "a5ee41a40d2a"
     },
     {
@@ -783,164 +939,8 @@
       "publishedAt": "2026-08-02T02:55:31.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 68,
       "id": "4d448ef33727"
-    },
-    {
-      "title": "Victoria Park masterplan for Brisbane 2032 unveiled",
-      "summary": "The draft plan includes Brisbane Stadium, the National Aquatic Centre at Centenary Pool, upgrades to Brisbane Showgrounds and \"expanded\" parklands and public spaces.",
-      "url": "https://www.abc.net.au/news/2026-08-02/victoria-park-olympic-paralympic-masterplan-unveiled/106987334",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-02T02:53:55.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/c9ea576bed894bcca29e69c82a607c50?impolicy=wcms_crop_resize&cropH=503&cropW=894&xPos=0&yPos=35&width=862&height=485",
-      "topic": "科技",
-      "score": 71,
-      "id": "1cfb3d087942"
-    },
-    {
-      "title": "Glorious athletics campaign ends in an empty stadium near midnight",
-      "summary": "A hilariously understated celebration marked the end of an enthralling athletics campaign in Glasgow, and the beginning of Australian track and field being taken seriously worldwide.",
-      "url": "https://www.abc.net.au/news/2026-08-02/australia-athletics-understated-commonwealth-games-finale/106986994",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-02T02:43:38.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ee3fe999a67086e8f7bedaf3f2b931f1?impolicy=wcms_crop_resize&cropH=2429&cropW=4319&xPos=681&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 71,
-      "id": "6d9dbe37cc5d"
-    },
-    {
-      "title": "Live: Eagles star in tears after loss to Tigers, Suns and Dees exchange blows",
-      "summary": "No.1 pick Willem Duursma breaks down after West Coast's loss to Richmond at the MCG as Gold Coast and Melbourne go goal-for-goal in a thrilling first half. Follow live.",
-      "url": "https://www.abc.net.au/news/2026-08-02/afl-round-21-tigers-eagles-suns-demons-bombers-crows-live-blog/106972882",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-02T02:37:54.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6c09e68be6fd8a5de39c866dbd4985f0?impolicy=wcms_crop_resize&cropH=869&cropW=1544&xPos=0&yPos=15&width=862&height=485",
-      "topic": "社会",
-      "score": 71,
-      "id": "1eea2dd18e72"
-    },
-    {
-      "title": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?",
-      "summary": "Taiwan's GDP is soaring on back of US imports of AI chips, but experts warn that problems could arise with Trump, China.",
-      "url": "https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-01T23:15:40.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 71,
-      "id": "54425e339126"
-    },
-    {
-      "title": "Russian ship defies sanctions to send military vehicles to Mali",
-      "summary": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
-      "url": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-01T23:03:23.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f867/live/e4bf7ee0-8cf4-11f1-b8ee-9b3c26ad07bb.png",
-      "topic": "政治",
-      "score": 71,
-      "id": "ef2e30bafbe1"
-    },
-    {
-      "title": "Brazil's Lula launches fourth term bid as Trump looms over campaign",
-      "summary": "Brazil's Lula launches fourth term bid as Trump looms over campaign &nbsp;&nbsp; France 24",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2ZxYXVNSUNRTjZqV3hnNkZlRkFJdnJoZHB4YnVTQktkVWZ2QWx5Z1NaTlJydDZhZFMxY2ktRWpDSEMyMFBRTWN4LS0yVklQRWdQOU45QmZwTTNCSEI2b0NMLVlwMFl1WDBxQzN4aDUtUm1UMzVMODhxcDIwbUhQNjhvVzVXYzJnZTVSWDNqdnA1dnAxUjllN3lxaS1XM09jbllPc3lrUDJ2eHdubFB5SkY1Yno?oc=5",
-      "source": "France 24",
-      "feed": "Latin America News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-02T01:23:13.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 70,
-      "id": "220330d89beb"
-    },
-    {
-      "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
-      "summary": "Divisions remain in the bloc over mass crossing of migrants into Spanish territory in north Africa The EU is to hold an urgent meeting of interior ministers on Tuesday amid continued divisions in the bloc over the arrival of more than 50,000 migrants in the Spanish territory of Ceuta in north Africa. The decision was taken by officials representing EU member",
-      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-01T19:03:39.000Z",
-      "image": "https://i.guim.co.uk/img/media/208d0701f36eec52f7b70e325b2b39b60397679b/758_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=d06bd317d08230595b0e508c484e9a3e",
-      "topic": "政治",
-      "score": 70,
-      "id": "089db3498880"
-    },
-    {
-      "title": "Daniel Ortega establishes Latin America’s last dictatorship in Nicaragua",
-      "summary": "Daniel Ortega establishes Latin America’s last dictatorship in Nicaragua &nbsp;&nbsp; EL PAÍS English",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM1NYVE5PRnpVQUtwT2VSR1dFcDBsQmd5dkhTYmM1OU92cTRHRXFuN1dwUnZuTWdmeHZrS1g4STJFcnV3eXViUFdSY1Q5TXFEQ0VKYWlvS05UcWptVGoxaDZudGx3a3V0NDlmUDllc091TS1SbkJuTnJtRE5HRDRUMFBIaURVbU9QT2llZXFzdlppTkZTeU1tTGo1OFZDVEFrMDNKVVNyUnkzN2Vidmp1c0tHX1Z6aFlVQnhDZldzaXd1TWRqY0lv0gHbAUFVX3lxTE03b2E3RXpOS2ZUV1VKU3k5RUFvcGpPV0QtNndBTW5Rc2t1dHQxX1lMWkoySU9SMmdxUWZoXzkxZHIzLXVieVhKdVdjS0VtUFFsdm94Vlp6WnNURXZ0MURxcHVqR2lmX2RYel9MYWwxdFR1UWpuOWNGbmJJMGRFQXljcHF3cmtnT1E3VHJnMG1Icjc0UDk1NG8tWENKQTl4ZldPdlNXamlzd0FXZlJzZGoyb0NRVDctcnFiUGJudUY1VnRtdGNyWlJFVTZOdTBIZFR0RGR6WGFXZk5zcw?oc=5",
-      "source": "EL PAÍS English",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-02T04:00:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "17a1fb3f910b"
-    },
-    {
-      "title": "Last call for voter registration: IEC urges South Africans to act now",
-      "summary": "Last call for voter registration: IEC urges South Africans to act now &nbsp;&nbsp; IOL",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcnNGWDFuMmZ1UHJzbk9vLXpqaGlTeUtfNGRzcXB5YTkyQ2RZZUVram1NNFdPN0tmS3hPMFdjQzNvajRmdTA0QThHdnhkc0dWdHFEc19zQ054OEV0RW9PYWlDMVd2WC03RmpjeG8ybVhCd0hPbGZIUlo5SVdneURzQnlTRkhoS2M1bWtMTlFkdjY2MDMyOWVFWnpuenpheGNUazNodUUtT1hkYndnWFV6UXU5UVRBam8?oc=5",
-      "source": "IOL",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-02T03:50:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 68,
-      "id": "f800a6f8c160"
-    },
-    {
-      "title": "India-Israel trade ties: India ranks as Israel’s second-largest Asian trading partner in merchandise",
-      "summary": "India-Israel trade ties: India ranks as Israel’s second-largest Asian trading partner in merchandise &nbsp;&nbsp; DD News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORHIxTlYyWmZtLXRIZThmcnV4QlJQeU95Y3g3ZFhibDNBbDl1QzVWTkI5RjJnSVRMZjN0b25GTzJtQVZnRmtPajM2QXFXZzZmTXd0aVhkdktBT2lVNWtrbl9uazFVZU5SM05iWmhIMG9NTW1HY3k0R2lpV21uWWpuWGsyaUg3SUlMc3VqTk1nT1FRUFVBbU1FSWdDLUNsdjl1Z1MxMTFxN0tmajNSMTU0MlZiZk9jd09JaHlUNEFNbnlsdw?oc=5",
-      "source": "DD News",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-02T03:30:52.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 68,
-      "id": "8d02d7f90189"
-    },
-    {
-      "title": "Peruvian plane crash kills 13, including European tourists",
-      "summary": "Those killed include 11 passengers and two pilots flying over the famous archaeological site, recognised by UNESCO.",
-      "url": "https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-01T20:57:04.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 68,
-      "id": "bf3e7382e2ae"
-    },
-    {
-      "title": "New York Times reveals Trump administration subpoena over North Korea story",
-      "summary": "The Justice Department faces criticism for increasing use of subpoenas in attempts to compel journalists to reveal info.",
-      "url": "https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-01T23:42:44.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 67,
-      "id": "b429e7751734"
     }
   ]
 }
