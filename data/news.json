@@ -1,11 +1,50 @@
 {
-  "updatedAt": "2026-08-02T23:15:39.909Z",
+  "updatedAt": "2026-08-03T00:59:50.079Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "Brazil’s Lula launches fourth-term bid, focuses on national sovereignty",
+      "summary": "Lula seeks to use Bolsonaro family ties with Trump to cast election as fight against submission to foreign interests.",
+      "url": "https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-02T23:37:16.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 91,
+      "id": "b037905776c7"
+    },
+    {
+      "title": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+      "summary": "US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-03T00:00:15.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 88,
+      "id": "9aa1ae211403"
+    },
+    {
+      "title": "‘Stop all outdoor activities’: South Korea records its highest ever temperature",
+      "summary": "Authorities issue alert saying indoor spaces without airconditioning are ‘dangerous’ as temperatures pass 40C for fifth straight day South Korea has registered its highest temperature since records began more than a century ago, as authorities warned people to “immediately” stop all outdoor activities in affected areas. The south-eastern city of Yangsan saw ",
+      "url": "https://www.theguardian.com/world/2026/aug/03/south-korea-highest-temperature",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "亚洲",
+      "publishedAt": "2026-08-02T23:54:50.000Z",
+      "image": "https://i.guim.co.uk/img/media/82b77a560b1fc5c2931801dab2d53a69422648a5/670_138_4819_3856/master/4819.jpg?width=140&quality=85&auto=format&fit=max&s=797800f15e19c956000b46a91d42f7a4",
+      "topic": "政治",
+      "score": 87,
+      "id": "c6946a3e49a6"
+    },
     {
       "title": "Sudan army drone attack on Darfur kills 35, rights group says",
       "summary": "Tens of thousands of people have been killed in the ongoing war between army chief al-Burhan and RSF commander Dagalo.",
@@ -16,7 +55,7 @@
       "publishedAt": "2026-08-02T22:51:09.000Z",
       "image": "",
       "topic": "社会",
-      "score": 89,
+      "score": 87,
       "id": "6d9786ffaf28"
     },
     {
@@ -29,7 +68,7 @@
       "publishedAt": "2026-08-02T22:12:00.000Z",
       "image": "",
       "topic": "气候",
-      "score": 87,
+      "score": 85,
       "id": "7277127ff1d5"
     },
     {
@@ -40,23 +79,10 @@
       "feed": "The Guardian",
       "region": "全球",
       "publishedAt": "2026-08-02T17:36:18.000Z",
-      "image": "https://i.guim.co.uk/img/media/a965371d1ec7803cb346c81a77adb2b56a498d7d/623_0_6300_5040/master/6300.jpg?width=140&quality=85&auto=format&fit=max&s=78eec0d342cb51e6a4c55d7ce50df276",
+      "image": "https://i.guim.co.uk/img/media/9d744c4fea299990f386d29687092abeacb7e0fe/157_94_1083_866/master/1083.jpg?width=140&quality=85&auto=format&fit=max&s=98b4e5f40b839d88bf238e3571aba604",
       "topic": "政治",
-      "score": 86,
+      "score": 84,
       "id": "284e26ec0d64"
-    },
-    {
-      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-      "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
-      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-02T20:36:37.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/be742720-8ea4-11f1-a7ab-8b30adf0800a.jpg",
-      "topic": "社会",
-      "score": 85,
-      "id": "e8007646f3c4"
     },
     {
       "title": "Trump backs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
@@ -68,8 +94,21 @@
       "publishedAt": "2026-08-02T20:16:50.000Z",
       "image": "https://i.guim.co.uk/img/media/644a3d991ac481989ea97a3977c47e2f3677c714/0_0_3862_3088/master/3862.jpg?width=140&quality=85&auto=format&fit=max&s=da5b0b0fd643f7a0f8f8e7ed21b565dd",
       "topic": "政治",
-      "score": 85,
+      "score": 83,
       "id": "e4c016a2a7f4"
+    },
+    {
+      "title": "Evacuations in Greece as Europe tackles wildfires",
+      "summary": "Evacuations in Greece as Europe tackles wildfires &nbsp;&nbsp; BreakingNews.ie",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV0IwZ0lLZUtFWlZlNTRyRUlnMXFGNHFQQ19iVF8zUTVRcGY5ellZeF9nVVpDLVpuOVdZcTFlRmdvdjhZSEE0MHV6U1pncS1leVpuN2VqRTh3QkdGNkJ6WnozSDZCekN4VzlNdERBTmhBNnE5NHFBX3hFY1RXbkZKS3NfYmN0S2k1MFFfQXJyNXR1cFA4YkhzRmR3VGc?oc=5",
+      "source": "BreakingNews.ie",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-02T14:18:05.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 83,
+      "id": "109da44ebc9d"
     },
     {
       "title": "Suspect in Idaho restaurant shooting died of self-inflicted gunshot wound, police say",
@@ -81,7 +120,7 @@
       "publishedAt": "2026-08-02T22:27:31.000Z",
       "image": "https://i.guim.co.uk/img/media/045a11a999b874ecd30b361fc46a9b80a6a0e151/411_0_2527_2024/master/2527.jpg?width=140&quality=85&auto=format&fit=max&s=94bbf763ba8a78fa457cebf6211e2cb4",
       "topic": "社会",
-      "score": 84,
+      "score": 82,
       "id": "27e28f821442"
     },
     {
@@ -94,34 +133,8 @@
       "publishedAt": "2026-08-02T19:30:25.000Z",
       "image": "",
       "topic": "社会",
-      "score": 84,
-      "id": "7ea47bd4feb3"
-    },
-    {
-      "title": "2 killed when firefighting helicopters collide near Athens as Europe's wildfire emergency rages",
-      "summary": "2 killed when firefighting helicopters collide near Athens as Europe's wildfire emergency rages &nbsp;&nbsp; Newsday",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUVZDWjNOdjZRWUxRV2NPRDZjanlOeDZGUWpfUndmN01YYkZUc0tSSXhwWWZsamRNWHJ4WGh0Zi15dHFKRXpINTNLNkxpZ3hlRE5jcEYyX09ma1VuVHdSTU1YV0pvQlM5WUhPZUs2ZXFmQnN0dUtyQ3Y1ZWZwVFNjOTlCdVY0Uzg5Z3JDaEJuX2FMTXd2d1dqOHB5UVI?oc=5",
-      "source": "Newsday",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-02T19:13:33.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 84,
-      "id": "049928cd39a9"
-    },
-    {
-      "title": "Two firefighting helicopters collide while battling wildfire in Greece",
-      "summary": "Two firefighting helicopters collide while battling wildfire in Greece &nbsp;&nbsp; Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3BQYnJJdGN4MzNYSUtjMzZiMk9qMTFaVHFqOXktb1Y5akVpQXJmNjVyMVE1NTZENVF0b3gtYkhJcVJweEtLcXFHQWxPemdkNFdvUG9NbjMxZjRnc0tYRUtxYW9rYVRrR015NGsyNVNIMzRlZkdrc2RSLWVqNlFQRUZoWXBVTnhrenQ1d01DcW14VGVrOGI0VTRQd1pkUUNQR0hzZkpjeUJkX0ZsSW4tXw?oc=5",
-      "source": "Euronews.com",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-02T21:16:17.000Z",
-      "image": "",
-      "topic": "气候",
       "score": 82,
-      "id": "cb98ce90ab4f"
+      "id": "7ea47bd4feb3"
     },
     {
       "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
@@ -133,8 +146,86 @@
       "publishedAt": "2026-08-02T11:12:00.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f054/live/47777f10-8e44-11f1-b92b-e77f734e2374.jpg",
       "topic": "政治",
-      "score": 82,
+      "score": 80,
       "id": "982dd1db1c6b"
+    },
+    {
+      "title": "UK’s first ‘super-university’, merging Greenwich and Kent, to launch in September",
+      "summary": "The new London and South East University Group will be UK’s third largest higher education institution The UK’s first “super-university”, which will merge the universities of Greenwich and Kent, is set to launch in September. The new London and South East University Group, to be known as the LASEUG, will have more than 50,000 students on four campuses across",
+      "url": "https://www.theguardian.com/education/2026/aug/03/uk-first-super-university-merger-greenwich-kent-september-launch",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-03T00:00:35.000Z",
+      "image": "https://i.guim.co.uk/img/media/12aebc6da4c524d7847f312c283ec0d361d5190d/383_0_3490_2792/master/3490.jpg?width=140&quality=85&auto=format&fit=max&s=6031208c2f1dcc503b4189f869a3620a",
+      "topic": "科技",
+      "score": 79,
+      "id": "6fe7649d8a96"
+    },
+    {
+      "title": "13yo boy dies in crash involving suspected stolen car",
+      "summary": "Three people have been arrested and taken to hospital under police guard after a crash that killed a 13-year-old boy at Lake Macquarie in New South Wales.",
+      "url": "https://www.abc.net.au/news/2026-08-03/teenager-killed-in-car-crash-on-lake-macquarie-paddock/106989392",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-02T23:51:18.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b79bd357e0c78f43807ea9421a82df24?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=494&width=862&height=485",
+      "topic": "社会",
+      "score": 79,
+      "id": "278e4a8832b1"
+    },
+    {
+      "title": "Alan Jones arrives for indecent assault, sexual touching trial",
+      "summary": "Veteran Sydney broadcaster Alan Jones arrives at court for the first day of his indecent assault and sexual touching trial.",
+      "url": "https://www.abc.net.au/news/2026-08-03/alan-jones-indecent-assault-sexual-touching-trial-starts/106985660",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-02T23:49:56.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/6c295df8d81bb0c0c062281e43f9a16a?impolicy=wcms_crop_resize&cropH=2648&cropW=4708&xPos=0&yPos=239&width=862&height=485",
+      "topic": "政治",
+      "score": 79,
+      "id": "74431583f704"
+    },
+    {
+      "title": "Trump says new round of Iran talks will begin Monday",
+      "summary": "The US president says Gulf allies and Tehran urged him to delay planned strikes.",
+      "url": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-02T23:48:08.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "ad5cdb165ca5"
+    },
+    {
+      "title": "Eastern Washington fires destroy 600 structures and force 60,000 to evacuate",
+      "summary": "Wildfires in and around Spokane have stretched ability of federal and local agencies to fight blazes Wildfires in eastern Washington state forced the evacuation of 60,000 people in the Spokane area while destroying at least 600 homes, businesses and other structures, authorities said on Sunday. The fires in and around Spokane, the state’s second largest city",
+      "url": "https://www.theguardian.com/us-news/2026/aug/02/eastern-washington-wildfires",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-02T23:33:08.000Z",
+      "image": "https://i.guim.co.uk/img/media/6906270290aba2591825637bef6af67d359b8635/653_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3b1ec46a265f1ca7dbe3587b7e497dc2",
+      "topic": "经济",
+      "score": 79,
+      "id": "0b4708da6feb"
+    },
+    {
+      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-02T20:36:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bf8/live/a535ae60-8ecb-11f1-b8ee-9b3c26ad07bb.jpg",
+      "topic": "社会",
+      "score": 79,
+      "id": "e8007646f3c4"
     },
     {
       "title": "Deadly suicide bombing targeting anti-militant rally in Pakistan",
@@ -146,21 +237,8 @@
       "publishedAt": "2026-08-02T20:29:00.000Z",
       "image": "https://e3.365dm.com/26/08/1920x1080/skynews-pakistan-kabal-suicide-bombing_7312464.jpg?20260802215329",
       "topic": "政治",
-      "score": 81,
+      "score": 79,
       "id": "b70accd3fff7"
-    },
-    {
-      "title": "Live Updates: Latest from Israel, Iran, and Middle East",
-      "summary": "Live Updates: Latest from Israel, Iran, and Middle East &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtdkx1cHBkVk54UzdoRllmdW5tLU53YzN4dDJRQ0RZcFBHcHhUeDMxbVNvelBRdmpkLTFLYU5UQTVLQVRfaHVGb0tfUHRnNUhxQlRsNFpsMThDQTI1T0VFa2VRMEZka3ZzSDhtenJqSHM5VGo0Rk1zbjJhaDdUM0E?oc=5",
-      "source": "The Jerusalem Post",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-02T18:00:05.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 81,
-      "id": "acf88d717071"
     },
     {
       "title": "Healey’s profiteering warning on food and fuel risks row with retailers",
@@ -172,60 +250,21 @@
       "publishedAt": "2026-08-02T23:01:18.000Z",
       "image": "https://i.guim.co.uk/img/media/e6a3cd2698b4e119649a9eb464bab631b757fd43/964_277_3941_3154/master/3941.jpg?width=140&quality=85&auto=format&fit=max&s=7a03aeb8573d75a479110e4a8bbee185",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "365d6cba0fa7"
     },
     {
-      "title": "News live: Australian company ‘deeply saddened’ by fatal collision of its two firefighting helicopters in Greece",
-      "summary": "Meanwhile fuel excise cut, imposed after outbreak of Iran conflict, ended at midnight on Monday. Follow today’s news live Alan Jones trial on indecent assault and sexual touching charges begins in Sydney The high-profile trial of former broadcaster Alan Jones for indecent assault and sexual touching charges begins today in Sydney’s Downing Centre local court",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-02T22:50:19.000Z",
-      "image": "https://i.guim.co.uk/img/media/1965d9fbc287213acaa0b89044ba0b0861cd1bcb/234_0_3828_3063/master/3828.jpg?width=140&quality=85&auto=format&fit=max&s=3168fc2a0bf3aa293419ee3c860f410e",
-      "topic": "政治",
-      "score": 80,
-      "id": "0862152f10ae"
-    },
-    {
-      "title": "Firefighting helicopters collide, killing two, as Greece battles wildfires",
-      "summary": "Firefighting helicopters collide, killing two, as Greece battles wildfires &nbsp;&nbsp; Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZEdScXpMLUNyYVRtSXVxdTcxNVp6Rkk5TkZZanVZLU5lNEx4U01NYTh6bi10aTl5X2FCcWVCMTR6SW1FNkQ3c1hGbzVHazRJYkkwd3JqMU56aVBlSnFxQWlwcFRFT1N1emZYUUVlRVhib3J1V3pLQ1o3TDRKVHpSVllySTJMaHdUdUhpbEkya1d1am0zN2pSUDN0RHExY0UwUXN5dDVOZmdaNUpnbk5IZE5R0gG3AUFVX3lxTE1teUs1cERWX2R3NUF0TkpaZWJfSHFpUEphZDZzUENhSVk2aEs5OUhrRjM3cmNMdW5mdk5IS3Y4bkVBU2JsRkRtX3NpUldQdGhMVG51QzVvVjI5clZuVjkxU1JDcVY3elJ3N1RuekQwUXVZMnVaRkdfdHBiaTh0R0tTWDBHMHdUVjdPRlRsR2RSS283T29pbUhUak1HclNXdlhMRkgxRm5ZZldlbzJ5cFMzNk5FY0NGRQ?oc=5",
-      "source": "Al Jazeera",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-02T20:17:16.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 80,
-      "id": "52881b00e604"
-    },
-    {
-      "title": "Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war",
-      "summary": "US president halted strikes after earlier threatening Iran with unprecedented force.",
-      "url": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-02T16:10:32.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 80,
-      "id": "85e3371553d1"
-    },
-    {
-      "title": "Wildfires force mass evacuations across the Pacific Northwest",
-      "summary": "Fast-moving wildfires are forcing evacuations across Washington State, US and nearby British Columbia, Canada.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
+      "title": "Brazil’s Lula, 80, says ‘in great shape’ as he launches fourth term bid",
+      "summary": "Brazil’s Lula, 80, says ‘in great shape’ as he launches fourth term bid &nbsp;&nbsp; Toowoomba Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRUxqQl9mdWE4VFBLT2FIb0RjLWhWd0NTcGVMZGxOSmFpWDZ0THB5S2pyMkRrSjh2UUh5X0djQzZaUWtzaEt6aTl2ZGE3QUdoTnJkNmJJazdrRnNuSHdMNTdmVHJ4aVlQSE9RZUxYSzY3c3d1THpKN2dHSndmaVNZYjAwTzkwUTcxX3dvVXpjVDAxdHpBSEMtQmVQdWcwbUg5MHJCeDdPdDVPS3NJQnI4TWtsX1dLSnJudVZNR2FsbC12VjdONU4yTjBNN3RPb2ZzcjZtQm93NGgzNGVKQzRvMGlIRFRpa0NoOVczRFdzbFQ1TUnSAfgBQVVfeXFMTU9fMDhsbmlpWlFkaUI1Q0RwSkk5c2lyc3d2SkFHWFRab2Rpa1l6Sk1YSkRqcmFKWjI1YlNlMlNXRjlJU3BTTUwtRjAxeWdseDZDQWJzay1jX19uU1dXZ3JWMy1sNTZ4WFFkWmdfVGtJaFRqU1BYWXYwRVVBaUpYbmZXWDJXTFJ5MmpHWnROMmFzd19ZYUhZRmw1cHE2Z3lwdjVEa2Vuem1WWVJMR1RuaWpONTBXVFcydDlXYXppQ1RUckhJN0g5V0lzODNLV052YW8zTlEzcDRXLTdZZC1mdk4wMnJiajhXdmJYREx5cndBVXNyRTJxbVA?oc=5",
+      "source": "Toowoomba Chronicle",
+      "feed": "Latin America News Network",
       "region": "美洲",
-      "publishedAt": "2026-08-02T21:47:18.000Z",
+      "publishedAt": "2026-08-02T19:56:00.000Z",
       "image": "",
-      "topic": "气候",
-      "score": 79,
-      "id": "5f8c5622e668"
+      "topic": "科技",
+      "score": 78,
+      "id": "91a9cf766378"
     },
     {
       "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
@@ -237,7 +276,7 @@
       "publishedAt": "2026-08-02T15:50:59.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be84/live/aa736060-8e72-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "bb84e2777bcd"
     },
     {
@@ -250,8 +289,60 @@
       "publishedAt": "2026-08-02T15:00:24.000Z",
       "image": "https://i.guim.co.uk/img/media/69934bda760b7256b0488e7edf7808c076bfdf8b/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=652fda041715ddfda552394d8419f61e",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "e4122a9eac6c"
+    },
+    {
+      "title": "Murder charges after man found dead at Australind bus stop",
+      "summary": "Two men in their 30s have been charged with murder after another man in his 20s was found dead in Western Australia's South West.",
+      "url": "https://www.abc.net.au/news/2026-08-03/murder-charges-for-australind-bus-stop-death/106989540",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-03T00:54:23.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d3b01f94136308f850040f4049cc186d?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 76,
+      "id": "9dd4be31f453"
+    },
+    {
+      "title": "Australia news live: betting companies allegedly offered problem gamblers drugs to fuel addiction, Senate inquiry hears",
+      "summary": "Senate inquiry into Albanese government’s gambling laws under way. Follow today’s news live Angus Taylor and Anthony Albanese on leave this week The opposition leader, Angus Taylor, is on leave for most of this week, his office has announced, with the deputy leader, Jane Hume, acting in his stead. NSWRL owes a massive debt of gratitude to Laurie for the serv",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-03T00:44:20.000Z",
+      "image": "https://i.guim.co.uk/img/media/7174d1e25e8860c02f5290f7bfa776f9aa4e8f1f/362_64_3788_3031/master/3788.jpg?width=140&quality=85&auto=format&fit=max&s=e1b3059f86c79974947b62a70aad8973",
+      "topic": "政治",
+      "score": 76,
+      "id": "59919bbab18b"
+    },
+    {
+      "title": "Luke Bateman tells inquiry gambling companies supplied him with cocaine and alcohol",
+      "summary": "Former rugby league player turned TikTok influencer tells parliamentary inquiry his spiralling addiction to gambling cost him about $1m Former rugby league star Luke Bateman has alleged gambling company promoters supplied him with cocaine and alcohol, telling a parliamentary inquiry the betting industry exercised no duty of care. Bateman, who is now a TikTok",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/03/ex-rugby-league-star-says-gambling-companies-fuelled-his-betting-addiction",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-03T00:39:59.000Z",
+      "image": "https://i.guim.co.uk/img/media/e02d38f7c353d77f5bd4262c72631e4ee5fe59b0/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=4dee6c2f452d201713e109067d554789",
+      "topic": "政治",
+      "score": 76,
+      "id": "f6cf96182a9b"
+    },
+    {
+      "title": "Wildfires force mass evacuations across the Pacific Northwest",
+      "summary": "Fast-moving wildfires are forcing evacuations across Washington State, US and nearby British Columbia, Canada.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-02T21:47:18.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 76,
+      "id": "5f8c5622e668"
     },
     {
       "title": "Cronulla coach's belief grows as Sharks surge towards NRL finals",
@@ -263,7 +354,7 @@
       "publishedAt": "2026-08-02T21:32:54.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/90d5e69896e52ee430c108f464cfa998?impolicy=wcms_crop_resize&cropH=2591&cropW=4606&xPos=0&yPos=28&width=862&height=485",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "a21b4ce4c9b2"
     },
     {
@@ -276,34 +367,47 @@
       "publishedAt": "2026-08-02T21:18:03.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "fe7e9fbd0b47"
     },
     {
-      "title": "Rupert Lowe urges Nigel Farage to work with Restore Britain",
-      "summary": "Lowe says the two should put ‘personalities and our past disagreements aside for good of the country’ The leader of Restore Britain, Rupert Lowe, has extended an olive branch to Nigel Farage, saying the two should put “personalities and our past disagreements aside for the good of the country”. Lowe told the Reform UK leader that if he was “prepared to work ",
-      "url": "https://www.theguardian.com/politics/2026/aug/02/rupert-lowe-urges-nigel-farage-to-work-with-restore-britain",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-02T21:05:52.000Z",
-      "image": "https://i.guim.co.uk/img/media/f3fe7e061d975a8bb357fa2ed86377c1ec865c69/1105_7_2767_2213/master/2767.jpg?width=140&quality=85&auto=format&fit=max&s=aa73c8c827e69eea823ba74563bbe4d4",
-      "topic": "社会",
-      "score": 78,
-      "id": "786f80174cec"
+      "title": "Mildura man sentenced for shooting neighbour's barking dog",
+      "summary": "Former Mildura supermarket owner John Green admits repeatedly shooting his neighbour's dog with an air rifle.",
+      "url": "https://www.abc.net.au/news/2026-08-03/former-mildura-business-owner-sentenced-for-shooting-shih-tzu/106980642",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-03T00:23:44.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4fe4746849a9057dc0b7993649b766d2?impolicy=wcms_crop_resize&cropH=98&cropW=174&xPos=198&yPos=51&width=862&height=485",
+      "topic": "经济",
+      "score": 75,
+      "id": "180dcb0585f0"
     },
     {
-      "title": "Two helicopters collide mid-air while tackling wildfires in Greece",
-      "summary": "Footage has emerged showing the moment two firefighting helicopters collided mid-air while fighting wildfires in Greece.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss",
+      "title": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
+      "summary": "Footage shows blast victims hurried into a hospital in northwestern Pakistan, after a suicide bombing.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-02T18:38:47.000Z",
+      "region": "亚洲",
+      "publishedAt": "2026-08-03T00:18:50.000Z",
       "image": "",
-      "topic": "气候",
-      "score": 78,
-      "id": "f6844a81bf13"
+      "topic": "社会",
+      "score": 75,
+      "id": "e5e7188e0907"
+    },
+    {
+      "title": "Company wants to turn straw into fuel to ease reliance on Middle East",
+      "summary": "Glas Energy is planning a $400 million renewable diesel refinery, south-east of Perth, which will turn thousands of tonnes of straw into millions of litres of fuel.",
+      "url": "https://www.abc.net.au/news/2026-08-03/glas-energy-renewable-diesel-refinery-proposal-narrogin/106986026",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "中东",
+      "publishedAt": "2026-08-03T00:01:20.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7d4a770c8bd4e79fcd614c0162d60212?impolicy=wcms_crop_resize&cropH=1988&cropW=3533&xPos=462&yPos=280&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "5475cec36878"
     },
     {
       "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak",
@@ -315,21 +419,21 @@
       "publishedAt": "2026-08-02T20:37:11.000Z",
       "image": "https://i.guim.co.uk/img/media/3d118040a687ad2bf2346cd24398dd0435b70fb9/1_46_4526_3621/master/4526.jpg?width=140&quality=85&auto=format&fit=max&s=89a6e45834395039c1bdcd8a6f0eeb5c",
       "topic": "社会",
-      "score": 77,
+      "score": 75,
       "id": "638079186cd0"
     },
     {
-      "title": "Brazil’s Lula, 80, says ‘in great shape’ as he launches fourth term bid",
-      "summary": "Brazil’s Lula, 80, says ‘in great shape’ as he launches fourth term bid &nbsp;&nbsp; The Weekly Times",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQb19XdVZyYzZLcG1xZ2hsMnpRWGF6T1VWcHF3X2pXTGwyRy1JaFBaRlhNMmhSOXNVOGZxcmM2WjBDVHkxcl9qVThOdFFqb096d24tS0c4MFZQU0V4RkdjSkttekZvTHl3Zmh6Mm0xS1o2UF9MXzVFUmtWRVFkNzh2ZDFDSnVhN2hkRVdkOVp2UXR1XzhBd1FFaEVUVmR5YkpqQWd5SUlRNzNleXFDdzFGRm5RaG1GbGtnZ3pJZE9hdWZmRWo5akEwd09EakpxMm9ZUi1QOHJkQ09qUDhQSThKdXlrdlRWdFN4d21iUTd0UjNUNUU2Z3fSAfsBQVVfeXFMTXZwRjdUU0JWWFQwcFdZN2JIeTZ0TjB3RXEzZW1OSWtzRmJ3TEVxNlRmR0dwTWhZWGNvTkJFYkpERWVFUU1IMEgzZ2VYRGYxVjB5TDRESWJqQ1BkLTRmRWRUOHpORUt6LUVIQXBGREFfY1E5Uy1ETFA5YVVRc01UZENsMVpCRjZRMnFsemJXUmdqdjU5UGMwZXpPYi1wa28zcldNOEE0dnlOQlU3bmR2MWNGTy1zR1BwQmdKQy0yUVRmTVlUeTJ1NEdGWE9TdUNKc0IwVEViRlhuQVBhUGV5M2E5aHU3Y19Cc0xVZWY2M3BFNEJtZXZxTXFKb1k?oc=5",
-      "source": "The Weekly Times",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-02T20:17:57.000Z",
+      "title": "Live Updates: Latest from Israel, Iran, and Middle East",
+      "summary": "Live Updates: Latest from Israel, Iran, and Middle East &nbsp;&nbsp; The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtdkx1cHBkVk54UzdoRllmdW5tLU53YzN4dDJRQ0RZcFBHcHhUeDMxbVNvelBRdmpkLTFLYU5UQTVLQVRfaHVGb0tfUHRnNUhxQlRsNFpsMThDQTI1T0VFa2VRMEZka3ZzSDhtenJqSHM5VGo0Rk1zbjJhaDdUM0E?oc=5",
+      "source": "The Jerusalem Post",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-02T18:00:05.000Z",
       "image": "",
-      "topic": "科技",
-      "score": 77,
-      "id": "41fb7b2b9839"
+      "topic": "社会",
+      "score": 75,
+      "id": "acf88d717071"
     },
     {
       "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
@@ -341,8 +445,21 @@
       "publishedAt": "2026-08-02T17:06:30.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 75,
       "id": "2de9ff159b02"
+    },
+    {
+      "title": "Wildfires rage across Europe as firefighters battle blazes strengthened by gale-force winds",
+      "summary": "Wildfires rage across Europe as firefighters battle blazes strengthened by gale-force winds &nbsp;&nbsp; New York Post",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNazY5dnZPUl8tR3RRaUE0X2J6dTBRTnpJLTAtWmsxX19ibURLWi02UEFxa0pQUFFtMWVqT2xPRFpqTHpsTHV1MkxiTDFQYlJWSGRrMENpb2xtQWN3bVVYV0dUdEN1VlhIVDNtUVd3Tkxzb3pVQmQzSGtyQl9vVlNHazUyZ0NsbHAtRmlQZmNNTjRBLWlZX2tBbFRqdHlqUQ?oc=5",
+      "source": "New York Post",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-02T14:49:00.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 75,
+      "id": "1e4269d8f32a"
     },
     {
       "title": "Moscow bomb kills at least three as device carried by woman explodes",
@@ -354,8 +471,34 @@
       "publishedAt": "2026-08-02T13:51:41.000Z",
       "image": "https://i.guim.co.uk/img/media/220ac724f33d1d565d98abcebac259d79c6fb324/0_0_6691_5353/master/6691.jpg?width=140&quality=85&auto=format&fit=max&s=0ad3573a7e4116010f0e6f062d7c4bae",
       "topic": "政治",
-      "score": 77,
+      "score": 75,
       "id": "28c16c81babc"
+    },
+    {
+      "title": "Trump says he's cancelling Iran strikes, deal pending",
+      "summary": "Trump said Iran and other Middle Eastern countries had asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\"",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "中东",
+      "publishedAt": "2026-08-02T07:34:27.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "10bf318d8ddb"
+    },
+    {
+      "title": "Ariana Grande to take ‘a step back’ from public life due to ‘endless, ongoing scrutiny’",
+      "summary": "Singer was due to reunite with Wicked co-star Jonathan Bailey in London production of Sunday in the Park With George Ariana Grande has announced plans to take a break from public-facing work after her tour ends due to “endless, ongoing public scrutiny”. She is pulling out of the upcoming London revival of Sunday in the Park With George. The pop singer was du",
+      "url": "https://www.theguardian.com/music/2026/aug/03/ariana-grande-statement-step-back-public-life-eternal-sunshine-tour",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-02T23:23:22.000Z",
+      "image": "https://i.guim.co.uk/img/media/cf1ecc2c157d0e770da388b0823f51f3d3d5af7b/85_0_2217_1774/master/2217.jpg?width=140&quality=85&auto=format&fit=max&s=10f66fe4dcdd618dbeab33a1a8e6c8d8",
+      "topic": "社会",
+      "score": 74,
+      "id": "1ec27cd866ea"
     },
     {
       "title": "Tasmania's greyhound racing ban closer, some trainers keen on exit scheme",
@@ -367,7 +510,7 @@
       "publishedAt": "2026-08-02T23:06:27.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/ef767a7502240aff8a98b69eca71514e?impolicy=wcms_crop_resize&cropH=1477&cropW=2625&xPos=0&yPos=117&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "ad00dc74437e"
     },
     {
@@ -380,7 +523,7 @@
       "publishedAt": "2026-08-02T23:01:34.000Z",
       "image": "https://i.guim.co.uk/img/media/72f6e0afe7b099a5d2b422c25cc19ac27978b843/131_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=9ed08f8e97388c7ef5688ea4736c5767",
       "topic": "政治",
-      "score": 76,
+      "score": 74,
       "id": "9d059574ecd1"
     },
     {
@@ -393,7 +536,7 @@
       "publishedAt": "2026-08-02T23:01:33.000Z",
       "image": "https://i.guim.co.uk/img/media/100f98b7449fec29e8191df2b206f16772219677/0_0_2775_2220/master/2775.jpg?width=140&quality=85&auto=format&fit=max&s=63ce8549347b33878d05d92dcbc11eff",
       "topic": "经济",
-      "score": 76,
+      "score": 74,
       "id": "b9a1c190bd47"
     },
     {
@@ -406,8 +549,21 @@
       "publishedAt": "2026-08-02T23:00:07.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/97d0d115f21bf47895b2a8ddb570e9f9?impolicy=wcms_crop_resize&cropH=3942&cropW=7008&xPos=0&yPos=365&width=862&height=485",
       "topic": "经济",
-      "score": 76,
+      "score": 74,
       "id": "a5af0f9a93bd"
+    },
+    {
+      "title": "Firefighting helicopters collide, killing two, as Greece battles wildfires",
+      "summary": "Firefighting helicopters collide, killing two, as Greece battles wildfires &nbsp;&nbsp; Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZEdScXpMLUNyYVRtSXVxdTcxNVp6Rkk5TkZZanVZLU5lNEx4U01NYTh6bi10aTl5X2FCcWVCMTR6SW1FNkQ3c1hGbzVHazRJYkkwd3JqMU56aVBlSnFxQWlwcFRFT1N1emZYUUVlRVhib3J1V3pLQ1o3TDRKVHpSVllySTJMaHdUdUhpbEkya1d1am0zN2pSUDN0RHExY0UwUXN5dDVOZmdaNUpnbk5IZE5R0gG3AUFVX3lxTE1teUs1cERWX2R3NUF0TkpaZWJfSHFpUEphZDZzUENhSVk2aEs5OUhrRjM3cmNMdW5mdk5IS3Y4bkVBU2JsRkRtX3NpUldQdGhMVG51QzVvVjI5clZuVjkxU1JDcVY3elJ3N1RuekQwUXVZMnVaRkdfdHBiaTh0R0tTWDBHMHdUVjdPRlRsR2RSS283T29pbUhUak1HclNXdlhMRkgxRm5ZZldlbzJ5cFMzNk5FY0NGRQ?oc=5",
+      "source": "Al Jazeera",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-02T20:17:16.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 74,
+      "id": "52881b00e604"
     },
     {
       "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
@@ -419,11 +575,11 @@
       "publishedAt": "2026-08-02T19:39:32.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "884ac48da6da"
     },
     {
-      "title": "Ex-NRL player reveals drug offers during crippling gambling addiction",
+      "title": "Ex-NRL player reveals betting companies offered to arrange illegal drugs",
       "summary": "Luke Bateman says gambling company employees unofficially offered him illicit drugs in order to cultivate a relationship with him when he was high-spend punter.",
       "url": "https://www.abc.net.au/news/2026-08-03/luke-bateman-nrl-gambling-addiction-ban/106987932",
       "source": "ABC Australia",
@@ -432,8 +588,8 @@
       "publishedAt": "2026-08-02T22:41:07.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/db263701fde249c01bbea6d7bf4abe4e?impolicy=wcms_crop_resize&cropH=2600&cropW=4623&xPos=0&yPos=1&width=862&height=485",
       "topic": "社会",
-      "score": 75,
-      "id": "c0015af8fea4"
+      "score": 73,
+      "id": "eb51ab0c52f1"
     },
     {
       "title": "Citizenship rule takes effect amid spike in Qld gun licence applications",
@@ -445,7 +601,7 @@
       "publishedAt": "2026-08-02T22:34:27.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/843e400139a4ff7c1f89d7d58afce741?impolicy=wcms_crop_resize&cropH=2395&cropW=4257&xPos=0&yPos=314&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "2275bbfbe1ad"
     },
     {
@@ -458,21 +614,21 @@
       "publishedAt": "2026-08-02T22:33:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/e4f6f4f4a7879aedae188be6de99b361?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=18&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "c0b970cb5b7b"
     },
     {
       "title": "West Asia war uncertainty keeps businesses on edge",
-      "summary": "West Asia war uncertainty keeps businesses on edge &nbsp;&nbsp; timesofindia.indiatimes.com",
+      "summary": "West Asia war uncertainty keeps businesses on edge &nbsp;&nbsp; The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSktjOXFyMTNOVE5yeV8telFJd0t3ekJqUkd2NXdKblY2SG4yVzFHQzh2ZkJxbkdVNHdDSWxHUWdDZ0pxaERhV0c3T1hEZTR1aWtmaVdJX2hSTEtwZkJDSlVibXZaNzNLTkdRc2NkdU9wbktscTlZcXI1Y0xwWjNzU1BoTVdlWHZfQjBrRmZNZ09zYjRCbGhGRkhSNDBudEpFUFRFN0h0MlRDTngzeTZHUEx3NmNPWDQ5c3JhbWVGV3haUnRJZ1BIeDhQNzJnal9TdlHSAdcBQVVfeXFMT29jTW5RZGZUSGk1ODA4a0VpckNwdHlwSXhuLXZodGpHQUt6bmxQU1d5NlJlNmtCYVUxSmRzU1pnUDZWTFVwd2kxcENyZmdNYlBsbWdYWnF5NHFTMWlaYkdnRFJ3bkZCSmRvbkFNUDR1NjJGckNyV3JvaFZ5anlaRmJUQnRzYmtxYWJkbmdNb0dpMHJUY0tIY1BTempaXzMzRzdKVHJBTkpvbnE3ZXZwVmhnTnZ4QzFmRXpINHlsam4yeUdKbGFTR1dnWXBFZ0labmIyaXhjeFE?oc=5",
-      "source": "timesofindia.indiatimes.com",
+      "source": "The Times of India",
       "feed": "Asia News Network",
       "region": "亚洲",
       "publishedAt": "2026-08-02T22:27:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
-      "id": "4a8b1d6f4a5a"
+      "score": 73,
+      "id": "9f3877a97605"
     },
     {
       "title": "Blues pay tribute to 'hero' Daley as he stands down as coach",
@@ -484,21 +640,8 @@
       "publishedAt": "2026-08-02T22:26:26.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/4c5eb76edc24484e600f3a84be6544c8?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "c8c7f22f62e9"
-    },
-    {
-      "title": "Commonwealth Games don't need to mean anything to you to mean the world",
-      "summary": "Australian chef de mission and eight-time Olympic medallist Petria Thomas cried as she spoke about the importance of the Commonwealth Games to her, so it doesn't really matter if it felt too easy for Australia at times.",
-      "url": "https://www.abc.net.au/news/2026-08-03/2026-glasgow-commonwealth-games-finale/106988146",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-02T22:03:53.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/df50d04c0e6f32af5d0f14ff189934f3?impolicy=wcms_crop_resize&cropH=2712&cropW=4822&xPos=0&yPos=141&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "c7990163c2e6"
     },
     {
       "title": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
@@ -510,21 +653,34 @@
       "publishedAt": "2026-08-02T19:08:06.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "4ba342fd6697"
     },
     {
-      "title": "Russian and Ukrainian strikes kill 14 on both sides",
-      "summary": "Ukrainian strikes target Russian oil hubs and high-rises as Zelenskyy warns of critical Patriot interceptor shortages",
-      "url": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-02T18:37:23.000Z",
+      "title": "ANJL Reviews Industry Contributions to Brazil’s New Sports Betting Authorization Rules",
+      "summary": "ANJL Reviews Industry Contributions to Brazil’s New Sports Betting Authorization Rules &nbsp;&nbsp; iGamingToday.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObkFXZEVaRi1VMVdUd3RXOE9JZzJWS0ctVmRTZVA3RFBDUjNQWGcxUlF4ZU1JdWZhbEFKSGVwYW1MSUg5M05EWDBPM2R2ZkRnTkFWNzRMYmFNWVlhRWZGTWs4SGs0R2ZOT25lTElzbTJxT0FfTldUb1FJQVB3TmlqZG84Q190Qkh6NjUxTWZrYVE4MU1vaDh2VXJvR1F0SDZXb09pa3NSMWhleXJQLVN4QTR6YkxTZw?oc=5",
+      "source": "iGamingToday.com",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-03T00:44:00.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "401895b015bf"
+      "topic": "社会",
+      "score": 72,
+      "id": "c5f58553e91b"
+    },
+    {
+      "title": "Commonwealth Games don't need to mean anything to you to mean the world",
+      "summary": "Australian chef de mission and eight-time Olympic medallist Petria Thomas cried as she spoke about the importance of the Commonwealth Games to her, so it doesn't really matter if it felt too easy for Australia at times.",
+      "url": "https://www.abc.net.au/news/2026-08-03/2026-glasgow-commonwealth-games-finale/106988146",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-02T22:03:53.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/df50d04c0e6f32af5d0f14ff189934f3?impolicy=wcms_crop_resize&cropH=2712&cropW=4822&xPos=0&yPos=141&width=862&height=485",
+      "topic": "社会",
+      "score": 72,
+      "id": "c7990163c2e6"
     },
     {
       "title": "Hundreds gather at Harts Range for red dirt racing and rodeo",
@@ -536,7 +692,7 @@
       "publishedAt": "2026-08-02T22:02:59.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/559eb20826221640204521be005f95d2?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "9956888a9afc"
     },
     {
@@ -549,7 +705,7 @@
       "publishedAt": "2026-08-02T22:01:53.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/37962ebb6d30d8f84fc75cc3f70f4fff?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=218&width=862&height=485",
       "topic": "政治",
-      "score": 74,
+      "score": 72,
       "id": "fb40096cab97"
     },
     {
@@ -562,7 +718,7 @@
       "publishedAt": "2026-08-02T22:01:37.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/05ed04d810b8be4939395260a14c3d4c?impolicy=wcms_crop_resize&cropH=864&cropW=1536&xPos=0&yPos=833&width=862&height=485",
       "topic": "经济",
-      "score": 74,
+      "score": 72,
       "id": "609475e7b319"
     },
     {
@@ -575,47 +731,8 @@
       "publishedAt": "2026-08-02T21:40:55.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "91cebb90a3db"
-    },
-    {
-      "title": "Outback businesses blame Live Traffic NSW for customer downturn",
-      "summary": "Small businesses in the outback say inaccuracies on Live Traffic NSW about whether roads are open or closed, or if they even exist, are causing confusion among travellers and a loss of vital income.",
-      "url": "https://www.abc.net.au/news/2026-08-03/outback-businesses-blame-live-traffic-nsw-for-loss-of-customers/106948060",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-02T21:35:22.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6ca422d83e6840d6ec2487f3378d0876?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-      "topic": "经济",
-      "score": 74,
-      "id": "5c9a998e6610"
-    },
-    {
-      "title": "Residents hope to raise $750,000 to fix small town's aged care problem",
-      "summary": "Residents in Texas are kept awake at night wondering what will happen to them as they get older, but they are dreaming big.",
-      "url": "https://www.abc.net.au/news/2026-08-03/texas-community-push-to-build-much-needed-aged-care-facility/106962542",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-02T21:18:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/16de48477123748a996f387486e54717?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "a3b90ad4e023"
-    },
-    {
-      "title": "Single mum has front-row seat to first home buyer struggles",
-      "summary": "Tess McKenna is an example of how hard it is to find an affordable home in Perth, saying it is not getting easier despite the market cooling.",
-      "url": "https://www.abc.net.au/news/2026-08-03/first-homebuyers-struggle-despite-property-market-cooling/106968668",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-02T21:17:46.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/e48481d4f3cb08cb8947bd8f2e655555?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=157&width=862&height=485",
-      "topic": "经济",
-      "score": 74,
-      "id": "3e3329e18918"
     },
     {
       "title": "Israeli army blasts echo across south Lebanon - Shafaq News | Latest breaking news in Iraq and the world",
@@ -627,21 +744,34 @@
       "publishedAt": "2026-08-02T21:16:10.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "48d505459323"
     },
     {
-      "title": "Burnham to be ‘relentless’ on small boat crossings after Ceuta crisis",
-      "summary": "Prime minister says UK needs to ‘bring back that control’ and safe routes for refugees are necessary to tackle trafficking Andy Burnham has pledged to be “relentless” in tackling small boat crossings after tens of thousands of migrants entered the Spanish territory of Ceuta, and he said “safe routes” for refugees were necessary to tackle trafficking gangs. S",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/02/andy-burnham-small-boat-crossings-uk-ceuta-crisis",
-      "source": "The Guardian",
-      "feed": "The Guardian",
+      "title": "Two helicopters collide mid-air while tackling wildfires in Greece",
+      "summary": "Footage has emerged showing the moment two firefighting helicopters collided mid-air while fighting wildfires in Greece.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
       "region": "全球",
-      "publishedAt": "2026-08-02T18:16:26.000Z",
-      "image": "https://i.guim.co.uk/img/media/24b807cdfe1d3b6d62d784e03b229a6dec3b5ffa/128_0_6179_4944/master/6179.jpg?width=140&quality=85&auto=format&fit=max&s=79e855a49b7b3c5c7db83057c401f111",
+      "publishedAt": "2026-08-02T18:38:47.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 72,
+      "id": "f6844a81bf13"
+    },
+    {
+      "title": "Russian and Ukrainian strikes kill 14 on both sides",
+      "summary": "Ukrainian strikes target Russian oil hubs and high-rises as Zelenskyy warns of critical Patriot interceptor shortages",
+      "url": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-02T18:37:23.000Z",
+      "image": "",
       "topic": "政治",
-      "score": 74,
-      "id": "bba2dd481473"
+      "score": 72,
+      "id": "401895b015bf"
     },
     {
       "title": "Expansion | Lula da Silva officializes his aspiration for a fourth term in the presidential elections of October",
@@ -653,34 +783,21 @@
       "publishedAt": "2026-08-02T17:56:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 72,
       "id": "f300ec4eee3a"
     },
     {
-      "title": "Live: Big tech faces higher tax if it does not reach deals with local publishers",
-      "summary": "Tech companies will be forced to pay a 2.5 per cent tax on digital advertising revenue if they do not reach deals with media companies. Follow live.",
-      "url": "https://www.abc.net.au/news/2026-08-03/federal-politics-live-blog-news-bargaining-incentive/106988882",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-02T21:10:47.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/aa5c0969d90287d1a450dec93f39b298?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "052cf63eba20"
-    },
-    {
-      "title": "Live: ASX set to tumble despite Wall St rallying on Amazon earnings",
-      "summary": "The ASX is priced for a sharp decline this morning despite Wall Street rallying strongly on Friday. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
-      "url": "https://www.abc.net.au/news/2026-08-03/asx-markets-business-live-news/106988204",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-02T21:05:46.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&cropH=530&cropW=942&xPos=0&yPos=14&width=862&height=485",
-      "topic": "经济",
-      "score": 73,
-      "id": "e441ac07012c"
+      "title": "ASIA WATCH: Nauru sells 'golden passports' to fund climate adaptation",
+      "summary": "ASIA WATCH: Nauru sells 'golden passports' to fund climate adaptation &nbsp;&nbsp; Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TV3NnLWZaLWFHbkJqNnlia3BvNjNUcnp6bS1KRlhDcV9Da2p6Q0tlUDRZa0Y2aFNESGxQUmZlNTdOVUxlNU16T2VNS0NiNEk1Q1VmbmdWM1lIdw?oc=5",
+      "source": "Japan Wire by Kyodo News",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-03T00:27:00.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 71,
+      "id": "6f5b69965d50"
     },
     {
       "title": "Lorena Wiebes sprints to second straight win at Tour de France Femmes",
@@ -692,7 +809,7 @@
       "publishedAt": "2026-08-02T20:59:25.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/5958b07dd889de80908196b9798908ec?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "16b010e730ba"
     },
     {
@@ -705,7 +822,7 @@
       "publishedAt": "2026-08-02T20:51:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "61f0dfc33b74"
     },
     {
@@ -718,7 +835,7 @@
       "publishedAt": "2026-08-02T20:45:01.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 71,
       "id": "b68178711b3c"
     },
     {
@@ -731,8 +848,21 @@
       "publishedAt": "2026-08-02T20:44:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "6d527e1dd15f"
+    },
+    {
+      "title": "Toyota expected to post fifth straight profit drop, investors weigh Japan quake fallout",
+      "summary": "Toyota expected to post fifth straight profit drop, investors weigh Japan quake fallout &nbsp;&nbsp; livemint.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcGljaWd6YzJud29OYnphVWRHZzdvYXV6Y0xjdmcxUFh0RWVrT3p6SE5lVngwUWw3YWp3UlFyRURJRnBuS0x0S0pIbEFLejhFcHdVTHA3OFlZLXppYU1ucnlmN245cnpwRkZ4UWNGWjB2NnBOOE9OOXRYdGVkbVFyT1lpMmxBMEFDT0JRdHhRbzJBZk45RVJrck5ia3lRalVBQ3hoYjlxRVBfdzdYUFdzaHBRN3hKSVR2OXJXalU1OG1DaTk5WjNjZHZFZ0dINEhpUHUxc1hCS2hTU3dTZ3fSAd4BQVVfeXFMTnBpY2lnemMybndvTmJ6YVVkR2c3b2F1emNMY3ZnMVBYdEVla096ekhOZVZ4MFFsN2Fqd1JRckVESUZwbktMdEtKSGxBS3o4RXB3VUxwNzhZWS16aWFNbnJ5ZjduOXJ6cEZGeFFjRlowdjZwTjhPTjl0WHRlZG1Rck9ZaTJsQTBBQ09CUXR4UW8yQWZOOUVSa3JOYmt5UWpVQUN4aGI5cUVQX3c3WFBXc2hwUTd4SklUdjlyV2pVNThtQ2k5OVozY2R2RWdHSDRIaVB1MXNYQktoU1N3U2d3?oc=5",
+      "source": "livemint.com",
+      "feed": "Latin America News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-02T23:00:55.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "9810ff47b090"
     },
     {
       "title": "Cut-price cars, pay rises and trips by foster care charity execs face scrutiny",
@@ -744,7 +874,7 @@
       "publishedAt": "2026-08-02T20:30:41.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/ce180b705926aeb24ee61f347f27b2c0?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 70,
       "id": "b03995ffaaa3"
     },
     {
@@ -757,21 +887,8 @@
       "publishedAt": "2026-08-02T20:29:32.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 70,
       "id": "a4c62e4769a1"
-    },
-    {
-      "title": "Trump says he's cancelling Iran strikes, deal pending",
-      "summary": "Trump said Iran and other Middle Eastern countries had asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\"",
-      "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "中东",
-      "publishedAt": "2026-08-02T07:34:27.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "10bf318d8ddb"
     },
     {
       "title": "US representative Marcy Kaptur taken to hospital after car crash",
@@ -783,7 +900,7 @@
       "publishedAt": "2026-08-02T20:20:52.000Z",
       "image": "https://i.guim.co.uk/img/media/b79e2ceb508dcfbec01b7bfb99e4e3763e46a89c/650_0_5885_4711/master/5885.jpg?width=140&quality=85&auto=format&fit=max&s=085dafb9a13438d715b8cebe5074a9a4",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "6c6d5e87d6ca"
     },
     {
@@ -796,7 +913,7 @@
       "publishedAt": "2026-08-02T20:01:21.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 70,
       "id": "45f1f813530f"
     },
     {
@@ -809,7 +926,7 @@
       "publishedAt": "2026-08-02T20:00:45.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "7d04b7574a2c"
     },
     {
@@ -822,125 +939,8 @@
       "publishedAt": "2026-08-02T16:55:39.000Z",
       "image": "",
       "topic": "气候",
-      "score": 72,
+      "score": 70,
       "id": "5a718b06d22e"
-    },
-    {
-      "title": "At the scene of deadly Moscow bomb blast",
-      "summary": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
-      "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-02T16:52:35.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96bd/live/9c600170-8e88-11f1-b2ab-0dd01740f9f6.jpg",
-      "topic": "社会",
-      "score": 72,
-      "id": "e44182317ee9"
-    },
-    {
-      "title": "Brazil's Lula launches reelection bid as concerns rise over foreign interference",
-      "summary": "Brazil's Lula launches reelection bid as concerns rise over foreign interference &nbsp;&nbsp; WPLG Local 10",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTh0NDMzVkJIQURwN1RBR1NFdG9EdEREbXlmbGZQUUFYTUxQR3ZUa2JzeG16Uk1IZHVnMU1TWWMyNEhScU9NYUNHRFUtODVQSVpXVXVRWnZOQjJzdlo3VHBzOENkWHRfZlJfYlUxdklBNjR4VVI1Q3FNS2ZfQTFSaTZVYnZMazhsa1BXTTNMNFBsM0ZnNXBuWHAxRnhwNUU3MVRqWW90SGpNeGZfZmlaSlpEMFFZWFMwX1p1bE4ySGU0SXYt?oc=5",
-      "source": "WPLG Local 10",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-02T16:35:44.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "363bbfb6a49e"
-    },
-    {
-      "title": "WAFCON 2026: Mali Beats Cape Verde 3-2",
-      "summary": "WAFCON 2026: Mali Beats Cape Verde 3-2 &nbsp;&nbsp; Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wTW5XbWRUWGFOZDNtRXRqOVN1a2RoYjdVRGZRS1NPY0FaTFZVYkhwX0lybEkya3g1QTNyZEhPeHktUWF1WjlCakpicVh3aDBydEtrZUc4OFcwTTVHdEI3ejZuRnhyX2YyRnFTUlhyQVp0dy11ME5rNQ?oc=5",
-      "source": "Africa Top Sports",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-02T22:21:25.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "5c0ce10307f3"
-    },
-    {
-      "title": "Japan Could Trigger the Biggest Market Shock of 2026: How Might Bitcoin React?",
-      "summary": "Japan Could Trigger the Biggest Market Shock of 2026: How Might Bitcoin React? &nbsp;&nbsp; BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wYklwaXlNaUUycDU4TnVQVzNPMzY2aGNCNHlvYVoxemhESVgzeTJqaVFmT3lHdWl3aTJpTk9LR3dIMFdNdFc4NElZRFNha3o5STJTZFFRcm00XzVhQ1FncGFqa1N5NHVOSFBV?oc=5",
-      "source": "BeInCrypto",
-      "feed": "Latin America News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-02T22:21:00.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 71,
-      "id": "324eb92d23c9"
-    },
-    {
-      "title": "Central Asia and Azerbaijan Form C6 Regional Framework",
-      "summary": "Central Asia and Azerbaijan Form C6 Regional Framework &nbsp;&nbsp; Akses.co.id",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56S043RmtpejZTWlRJbGluNDJMNGZkSWRJNXNuWE0xOEJQbUVnQ3h1NjQ0ME5DMmtLU2kyNWdzYW1QWmhDVTZmbW1idzBVTld5UTFLdGZBaFBJeFBMazhkMUl1Q1pqaEpaNVNqcGFHYWg?oc=5",
-      "source": "Akses.co.id",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-02T22:05:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "c483724427ca"
-    },
-    {
-      "title": "Most Americans say Trump has gone too far on US immigration: Poll",
-      "summary": "Half of Americans say Trump has gone too far on deportations, though most Republicans still support his approach.",
-      "url": "https://www.aljazeera.com/news/2026/8/2/most-americans-say-trump-has-gone-too-far-on-us-immigration-poll?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-02T19:26:05.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "9d4b4832a757"
-    },
-    {
-      "title": "BREAKING NEWS: Vladimir Petkovic set to leave role as Algeria head coach",
-      "summary": "BREAKING NEWS: Vladimir Petkovic set to leave role as Algeria head coach &nbsp;&nbsp; AfricaSoccer.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2JXVzA4Wlh5Nk1VSXFIUkNURTdSVmtnbTN1SmE5R3o0U2tfY2FfR2U2d0ZrZzVIcm9URXI5MzRhekRVTkpCVzhvY0tWMEhhaXRXcmRZNFFfOW9tYldvQTFDQTRUeFc4dlRGMEpiNEgwcV9ic1VrZG4zZGJYcXdYbzZLM2hpQ3JqMkx2Z1FQYXdDSmZiTUh5R2ZXUnhNQQ?oc=5",
-      "source": "AfricaSoccer.com",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-02T19:17:07.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "bd7e03564c25"
-    },
-    {
-      "title": "Ceuta maintains the events in honor of the Virgin of Africa despite the migration crisis",
-      "summary": "Ceuta maintains the events in honor of the Virgin of Africa despite the migration crisis &nbsp;&nbsp; Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVDlsaEJnVV9PcVJNOThYOWpESmJ3a3U1Z3ptNGY5R2ZVSzQ0RW8xaDBoRG1ydXY2R1lYeC1QVjBFTWJZeUVsMUU0RTRPZlI2a2c4NWoxb0VYN1h5YmFlVmhZc3Yxb1JCZy1wRFVfcEg4YVRCWVgwWWxaZ1pfXzhVOTJkbWpBZndCd3cxRlJfdnF0NjhfZ0JpV0xKb3Bzc0ZfNlBDWU1WZ3hIY2MyU0dDYmU2OFFmcHZBZTB4UGVfWUZlMWFP0gHKAUFVX3lxTE80SzhldXk2ekFaVlI4d1RJUU1Pa3YzSXhyUmlJNHBSZmJQdW80Z2ZieVNlTlVaQUpESmp0Ti02cWtpaXljS1ZPTU1jaHVDMVZUZHV3RGNXWUQ2MmluenAwYkdTV3ZyX3RBR2VPclpsc2o2UmNfQWdmVjQwcFkxcVJ3VnVES3h4Z2dPSkFVbTJnVFZYVzBWRUgwcUFzM256d0RjVHdmWjk0eEF3bWlqV2NHRUxaSUJ0Vk9TRDVWNjRoS284WGtLb09kMEE?oc=5",
-      "source": "Demócrata",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-02T18:40:31.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "5faf5af05207"
-    },
-    {
-      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-      "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
-      "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-02T15:48:00.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f50c/live/991bec40-8e83-11f1-9469-c37ab1100afc.png",
-      "topic": "政治",
-      "score": 71,
-      "id": "a3206cb612bd"
     }
   ]
 }
