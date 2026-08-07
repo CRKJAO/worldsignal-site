@@ -1,11 +1,37 @@
 {
-  "updatedAt": "2026-08-07T10:16:08.719Z",
+  "updatedAt": "2026-08-07T11:12:26.104Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "Central Europe sees record temperatures as heatwave continues",
+      "summary": "Record-breaking temperatures in Slovakia and Austria as Italy places all of its 27 major cities on highest heat alert.",
+      "url": "https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-07T10:11:26.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 92,
+      "id": "59df7bcd989c"
+    },
+    {
+      "title": "Pacific ministers fail to agree on China missile response",
+      "summary": "Pacific ministers fail to agree on China missile response &nbsp;&nbsp; Yahoo News Singapore",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRElOaEJiclFOd2h2T2JxcFVQc2pqd29aUWtWbU80OWVVTU9jMXpmLXpQNjllRUt2bEotdHdrSERYY1I3eGhiVnJFUnV5Y040Q21BU0pLaFhseHRtc1ZvemxDMTNrN3ltQUREa2tudFA5OVRQWk5ibDFUM25qRGEwQTFROEEyZw?oc=5",
+      "source": "Yahoo News Singapore",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-07T10:16:17.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 87,
+      "id": "828a61db1401"
+    },
     {
       "title": "China accused as Pacific nations block statement condemning missile test",
       "summary": "Naoero and Kiribati stir frustration at the opening day of the Pacific Islands Forum by blocking a regional statement criticising China's ballistic missile test.",
@@ -16,7 +42,7 @@
       "publishedAt": "2026-08-07T07:34:40.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c7bfd3c2dc6d8ebfa7d61dcb01db440e?impolicy=wcms_crop_resize&cropH=1424&cropW=2532&xPos=120&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 89,
+      "score": 87,
       "id": "db06907676b1"
     },
     {
@@ -29,7 +55,7 @@
       "publishedAt": "2026-08-07T06:56:17.000Z",
       "image": "",
       "topic": "科技",
-      "score": 88,
+      "score": 87,
       "id": "dcf3c0bc7921"
     },
     {
@@ -42,7 +68,7 @@
       "publishedAt": "2026-08-07T09:00:05.000Z",
       "image": "",
       "topic": "社会",
-      "score": 86,
+      "score": 85,
       "id": "acf88d717071"
     },
     {
@@ -55,21 +81,34 @@
       "publishedAt": "2026-08-07T07:51:24.000Z",
       "image": "https://i.guim.co.uk/img/media/a4b16518d4a50643ce550d44fd657d3d5d583cee/1281_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=4c40ac23aa306cb97083fdfba274e02c",
       "topic": "社会",
-      "score": 86,
+      "score": 85,
       "id": "6e0a7ec85597"
     },
     {
-      "title": "Guatemala's Fuego volcano erupts and other top photos from Latin America and the Caribbean",
-      "summary": "Guatemala's Fuego volcano erupts and other top photos from Latin America and the Caribbean &nbsp;&nbsp; dailyrecordnews.com",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdmF6WW9PNElNMFdXM1NxMEdkY1RGNW5WWHA5MG01UHhDaDFlejF4dElGbmE0V3Bza3hUR3ktOHREWERIWGE4NnVhS2NYWm1nWjJsaFVvdEo1UFJIT0VFdDF3WGdCaGs5LWtIeTMxNlQ2TmxCenBmLW9YcnVZWGdrbFVETHZsUC1sU0tyRTBmcWh2Qng2MnpPTnBrSjFsUlBhUEEyWEhfcDZVbXVQUnNidkg3V1o5QlNqdkVKSjlDODBLb3E0WEJaUkZCdGg0eU5SMFBacDUzRm16Mjg3dDY3V0lZZXNBSG1EVFRVd2xzV2k3MFFoS3FhTjFJeWZkZGYxNDZmTTZZcXc5SnZFVC1v?oc=5",
-      "source": "dailyrecordnews.com",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-07T04:34:07.000Z",
+      "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
+      "summary": "Tensions between the Houthis and Saudi Arabia have increased since the US-Israel war on Iran began.",
+      "url": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-07T10:52:34.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 85,
-      "id": "69ea72ce305c"
+      "topic": "政治",
+      "score": 84,
+      "id": "53cad88fc5f0"
+    },
+    {
+      "title": "Donald Trump refuses to say whether Ohio Republican Max Miller should step aside by tomorrow – US politics live",
+      "summary": "Former senior adviser to Trump is seeking reelection despite domestic abuse allegations by his ex-wife President Donald Trump will convene executives from some of ⁠the world’s largest mining companies ⁠at the ​State Department on Friday as his administration intensifies efforts to secure domestic and allied supplies of critical minerals. The White House need",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-07T10:46:07.000Z",
+      "image": "https://i.guim.co.uk/img/media/974f35d5b9b6294696bc54a024af914bce658219/55_0_4549_3639/master/4549.jpg?width=140&quality=85&auto=format&fit=max&s=f76c88810ba7361f03e180bc4bac0255",
+      "topic": "政治",
+      "score": 84,
+      "id": "fe96772a4ff8"
     },
     {
       "title": "Trump faces calls for windfall tax on big oil’s profits from Iran war",
@@ -81,7 +120,7 @@
       "publishedAt": "2026-08-07T09:00:13.000Z",
       "image": "https://i.guim.co.uk/img/media/43789218ac4189c69ff3f1456b402a451686a64f/678_0_3390_2712/master/3390.jpg?width=140&quality=85&auto=format&fit=max&s=cb072bf3a4d111f3e5f418223ecfc075",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "4ff07ab0004a"
     },
     {
@@ -94,7 +133,7 @@
       "publishedAt": "2026-08-07T09:00:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "e341b4000058"
     },
     {
@@ -107,21 +146,8 @@
       "publishedAt": "2026-08-07T08:40:57.000Z",
       "image": "https://i.guim.co.uk/img/media/8fae3335b5e3af4f9c1bfb011b6dcd2ab1126055/893_0_4796_3837/master/4796.jpg?width=140&quality=85&auto=format&fit=max&s=d4a58fe59d0edcf8ea2fce1913abf703",
       "topic": "社会",
-      "score": 83,
+      "score": 82,
       "id": "ddad860ade9e"
-    },
-    {
-      "title": "Pacific nations fail to agree on joint criticism of Chinese missile test",
-      "summary": "Pacific nations fail to agree on joint criticism of Chinese missile test &nbsp;&nbsp; newsofbahrain.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0WDRSSklyRjdhcTA2UkdxWDA0U2d0OFhIQk1jY3NNNjBtQVQyVzZFcGhuZGV3MjBwQW1RZXNmYmVNTEZ2RUpqZmdxODI5MXZEbUVwWWZudEtScFk?oc=5",
-      "source": "newsofbahrain.com",
-      "feed": "Pacific News Network",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-07T05:52:41.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 83,
-      "id": "b5daf4aa1f3a"
     },
     {
       "title": "Pacific nations fail to agree on statement condemning China missile test",
@@ -133,21 +159,8 @@
       "publishedAt": "2026-08-07T05:51:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 82,
+      "score": 81,
       "id": "fc6a638630bd"
-    },
-    {
-      "title": "Pacific unity tested in Fiji as Forum ministers fail to agree on China missile test response",
-      "summary": "Pacific unity tested in Fiji as Forum ministers fail to agree on China missile test response &nbsp;&nbsp; Pacific Media Network",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUTVNemNPR2t3STJETVJHX3BNRlN4M3c1dkowcERTOE00MFE2UkpNU1BmVjd2dExSZ0tUX285cVJOSEJnS21qcTQ5ZlhJWUlzZGZJRVU1VGl1aVloWjVMM0ZnZkNXaDhzeklDQk42ejFQRkpmMUtXNl9qSUhnWWZtMkxTZ2NTSXZmby1HVlVFcGZtWDMzSVQ5Vl9zZldTSlE1ZlMwR0NUdElKSE1SWF9rckw2VHBJU0RPUHhnaXhwZjBZOTJIMS1CczN3?oc=5",
-      "source": "Pacific Media Network",
-      "feed": "Pacific News Network",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-07T05:50:17.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 82,
-      "id": "09e38ca747a5"
     },
     {
       "title": "Why was Taiwan’s president evacuated in the middle of the night?",
@@ -159,21 +172,21 @@
       "publishedAt": "2026-08-07T04:52:19.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/790d/live/48a9d250-921a-11f1-af4d-5164294a85c7.jpg",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "ebd4ce8a16d3"
     },
     {
-      "title": "Putin discusses Middle east with UAE president",
-      "summary": "Putin discusses Middle east with UAE president &nbsp;&nbsp; Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX3BSU0E1ZVBJZF9xRG1kTXpKc3JXMUdTcHZ3WVZfU1RnYXY4XzlNWmZPWjJSUW9JTXFlZnJHaF9uRU1zcU83eVZVNDZtRzlNMjBXTV9tUlV6VXAxQkdldEVzRVZXVzNHeTcweEllZG0yb19zTWJqWk9UUW1ycW1BMzVXcGN1RHpJSXVCNGFzd0x0cUtFcFE?oc=5",
-      "source": "Breakingthenews.net",
-      "feed": "Middle East News Network",
+      "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
+      "summary": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz.",
+      "url": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
+      "source": "NPR World",
+      "feed": "NPR World",
       "region": "中东",
-      "publishedAt": "2026-08-07T10:03:00.000Z",
+      "publishedAt": "2026-08-07T10:56:19.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
-      "id": "13f03f0db382"
+      "score": 80,
+      "id": "f4da49452f8b"
     },
     {
       "title": "Africa backs Infantino as CAF unanimously votes in FIFA president’s favour",
@@ -185,7 +198,7 @@
       "publishedAt": "2026-08-07T07:44:06.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "bfb4133506a0"
     },
     {
@@ -198,8 +211,21 @@
       "publishedAt": "2026-08-07T07:00:11.000Z",
       "image": "https://i.guim.co.uk/img/media/17daec3a063bfb18f9e3f7b656db205ba96b1529/679_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=2d83867820ee5e47a7222955650f829f",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "55f603b29eba"
+    },
+    {
+      "title": "Guatemala's Fuego volcano erupts and other top photos from Latin America and the Caribbean",
+      "summary": "Guatemala's Fuego volcano erupts and other top photos from Latin America and the Caribbean &nbsp;&nbsp; Ottumwa Courier",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOeWxudW9sX2ZIbl9fVXRFUW5UZ2hLdHVFRWdtaDlrcXRXOGl0Y3hqU1VjTzRFYXdKcVhyalBWbm5mSEFuUTk0RElJOXZWOUh6YVJScHY4X0V0UFlLMVlzSEFkTl9Na3huNEVmZEdPNXJsZGJ3ZGUwV0dtQVV2WUh6UllFWFBQMHpRd3lPdTJOR1NoaUpnT1FfNWtDekJaSGt6QTVnWkxtUW9jVzZsLV9QX0t2dmJ6U3FPZEp0bE12YUg4MlRHTXB2OVBzaGtlVGpva2tyeldQYzF2WlNSR2NsUnZLUjNWRmxFOFlFNmd5ZmkyZEZsS3lTWXlXb3hvS0JuSUZJUjh0ZER3RDVhUjJtWnU4cUxRanlw?oc=5",
+      "source": "Ottumwa Courier",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-07T04:34:07.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 80,
+      "id": "15deae4f75f4"
     },
     {
       "title": "At least five killed in Thailand school shooting, police say",
@@ -211,21 +237,34 @@
       "publishedAt": "2026-08-07T04:23:52.000Z",
       "image": "",
       "topic": "社会",
-      "score": 81,
+      "score": 80,
       "id": "40dbd439df42"
     },
     {
-      "title": "Donald Trump refuses to say whether Ohio Republican Max Miller should step aside by tomorrow – US politics live",
-      "summary": "Former senior adviser to Trump is seeking reelection despite domestic abuse allegations by his ex-wife Hello and welcome to the US politics live blog. Donald Trump is declining to say whether representative Max Miller, of Ohio, should withdraw his reelection bid following domestic abuse allegations levelled against him by his ex-wife. One month after the Uni",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-07T09:57:19.000Z",
-      "image": "https://i.guim.co.uk/img/media/974f35d5b9b6294696bc54a024af914bce658219/55_0_4549_3639/master/4549.jpg?width=140&quality=85&auto=format&fit=max&s=f76c88810ba7361f03e180bc4bac0255",
+      "title": "Putin discusses Middle east with UAE president",
+      "summary": "Putin discusses Middle east with UAE president &nbsp;&nbsp; Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX3BSU0E1ZVBJZF9xRG1kTXpKc3JXMUdTcHZ3WVZfU1RnYXY4XzlNWmZPWjJSUW9JTXFlZnJHaF9uRU1zcU83eVZVNDZtRzlNMjBXTV9tUlV6VXAxQkdldEVzRVZXVzNHeTcweEllZG0yb19zTWJqWk9UUW1ycW1BMzVXcGN1RHpJSXVCNGFzd0x0cUtFcFE?oc=5",
+      "source": "Breakingthenews.net",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-07T10:03:00.000Z",
+      "image": "",
       "topic": "政治",
-      "score": 80,
-      "id": "fe96772a4ff8"
+      "score": 79,
+      "id": "13f03f0db382"
+    },
+    {
+      "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
+      "summary": "The UK and France are not seeking confrontation with Iran in the US-Israeli war Europe largely rejected, say analysts.",
+      "url": "https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-07T10:00:56.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "969d03374dfe"
     },
     {
       "title": "Man killed in suspected dog attack may have been an intruder, police say",
@@ -237,7 +276,7 @@
       "publishedAt": "2026-08-07T06:20:02.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/ddebfa8e6d15f192a5d8030fffade4f2?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "326f18399855"
     },
     {
@@ -250,7 +289,7 @@
       "publishedAt": "2026-08-07T03:45:58.000Z",
       "image": "",
       "topic": "气候",
-      "score": 80,
+      "score": 79,
       "id": "6c70ff702abb"
     },
     {
@@ -263,7 +302,7 @@
       "publishedAt": "2026-08-07T09:13:48.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "351cc9a78b92"
     },
     {
@@ -276,7 +315,7 @@
       "publishedAt": "2026-08-07T08:55:31.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/08e67c9fda1de96a5ea8ed948afaab3e?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=152&width=862&height=485",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "48a529eadb85"
     },
     {
@@ -289,7 +328,7 @@
       "publishedAt": "2026-08-07T08:55:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "56a5a8bdb1a8"
     },
     {
@@ -302,7 +341,7 @@
       "publishedAt": "2026-08-07T08:38:56.000Z",
       "image": "https://i.guim.co.uk/img/media/7ccb6ff268ce337ed3475e4ca6c7944aad6ccdcb/482_0_7660_6129/master/7660.jpg?width=140&quality=85&auto=format&fit=max&s=9e775f6e22baef4713679f6e16fa3bb3",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "06f5f6fe6793"
     },
     {
@@ -315,34 +354,34 @@
       "publishedAt": "2026-08-07T08:32:57.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5095/live/720754b0-922e-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "a5d1217d4945"
     },
     {
-      "title": "Artwork riffing on Renaissance painting and George Orwell wins $100k",
-      "summary": "Ryan Presley has won the top prize at the National Aboriginal and Torres Strait Islander Art Awards for an oil painting riffing on Renaissance art.",
-      "url": "https://www.abc.net.au/news/2026-08-07/natsiaa-art-awards-winners-ryan-presley-jenna-mayilema-lee/106992592",
+      "title": "Travis Head pips star duo to win second-straight Allan Border Medal",
+      "summary": "Swashbuckling batter Travis Head's big year — including three Ashes centuries — wins him a second straight Allan Border Medal, with fellow Ashes heroes Alex Carey and Mitchell Starc hot on his heels.",
+      "url": "https://www.abc.net.au/news/2026-08-07/travis-head-wins-second-consecutive-allan-border-medal/107010836",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "大洋洲",
-      "publishedAt": "2026-08-07T08:00:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/77115cfd568050619f44247750e5549e?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=235&width=862&height=485",
-      "topic": "政治",
-      "score": 78,
-      "id": "46b0f470f9ea"
+      "publishedAt": "2026-08-07T10:54:36.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f4177f30460388ef9d2de2286d247b48?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 76,
+      "id": "635389886bf8"
     },
     {
-      "title": "Pacific ministers to discuss issuing a joint statement on China missile test, World News",
-      "summary": "Pacific ministers to discuss issuing a joint statement on China missile test, World News &nbsp;&nbsp; AsiaOne",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSFRCMDYyZWVEM1hYZ0NDVTFaN2FZQzNGZ2pmdFVxaG1teVJSdHVSQWRCTWFKb1hDazRaMEpDRXliNnlfWlJMZVdRZjZSYnlBdHRIM3RjNWxGZU5NUGFuSWZmSFZxQ1FyV2ttWVhsUU5IZXNwWklVOXZtd1hkTE5SZGhtSzVCTVJnZk43NklsdUlzaWgtckJMMmlYMmE2Rjg?oc=5",
-      "source": "AsiaOne",
-      "feed": "Pacific News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-07T02:00:00.000Z",
-      "image": "",
+      "title": "Labour government says more people working illegally are being arrested and deported – UK politics live",
+      "summary": "More than double number of arrests made since 2024 compared with previous two-year period Conservative councillors have been told they “must not allow” Labour, Liberal Democrat and Green-led councils to disregard new guidance on single-sex spaces. Conservative chairman Kevin Hollinrake said he would ensure all Tory-run authorities comply with the guidance, w",
+      "url": "https://www.theguardian.com/politics/blog/live/2026/aug/07/labour-government-people-working-illegally-arrested-deported-uk-andy-burnham-politics-latest",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-07T10:48:50.000Z",
+      "image": "https://i.guim.co.uk/img/media/add7e484ae1911818a4b201fe35d3f79f8024174/185_0_2165_1733/master/2165.jpg?width=140&quality=85&auto=format&fit=max&s=9f6cf5a33ba5b1ea70d8faf443464233",
       "topic": "政治",
-      "score": 78,
-      "id": "75cbe2150e32"
+      "score": 76,
+      "id": "1f8b99879ade"
     },
     {
       "title": "Perth business claims $250k loss over Metronet works disruption",
@@ -354,8 +393,21 @@
       "publishedAt": "2026-08-07T08:16:02.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/3f0ce93bc2601196072946f3d877585c?impolicy=wcms_crop_resize&cropH=2239&cropW=3980&xPos=0&yPos=0&width=862&height=485",
       "topic": "经济",
-      "score": 77,
+      "score": 76,
       "id": "ebddc55d0902"
+    },
+    {
+      "title": "Artwork riffing on Renaissance painting and George Orwell wins $100k",
+      "summary": "Ryan Presley has won the top prize at the National Aboriginal and Torres Strait Islander Art Awards for an oil painting riffing on Renaissance art.",
+      "url": "https://www.abc.net.au/news/2026-08-07/natsiaa-art-awards-winners-ryan-presley-jenna-mayilema-lee/106992592",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-07T08:00:00.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/77115cfd568050619f44247750e5549e?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=235&width=862&height=485",
+      "topic": "政治",
+      "score": 76,
+      "id": "46b0f470f9ea"
     },
     {
       "title": "Earthquake strikes as doctors perform surgery",
@@ -367,7 +419,7 @@
       "publishedAt": "2026-08-07T07:43:05.000Z",
       "image": "",
       "topic": "气候",
-      "score": 77,
+      "score": 76,
       "id": "7ae788d98482"
     },
     {
@@ -380,21 +432,60 @@
       "publishedAt": "2026-08-07T07:23:12.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1f9ea3df3664fc802fb96369a8e89575?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "科技",
-      "score": 77,
+      "score": 76,
       "id": "0326d989452c"
     },
     {
-      "title": "Attorney general warns women and children at risk of ‘harmful conduct’ from smartglasses users – as it happened",
-      "summary": "This blog is now closed Federal parliament is returning from winter break next week. Do you have a question you’d like to ask Guardian Australia’s team of political reporters in Canberra? Our political editor, Tom McIlroy , and the team will be answering readers’ questions on the Australian Politics podcast. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/07/royal-commission-antisemitism-national-cabinet-datacentres-icac-liberal-party-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-ntwnfb",
+      "title": "Pacific ministers to discuss issuing a joint statement on China missile test, World News",
+      "summary": "Pacific ministers to discuss issuing a joint statement on China missile test, World News &nbsp;&nbsp; AsiaOne",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSFRCMDYyZWVEM1hYZ0NDVTFaN2FZQzNGZ2pmdFVxaG1teVJSdHVSQWRCTWFKb1hDazRaMEpDRXliNnlfWlJMZVdRZjZSYnlBdHRIM3RjNWxGZU5NUGFuSWZmSFZxQ1FyV2ttWVhsUU5IZXNwWklVOXZtd1hkTE5SZGhtSzVCTVJnZk43NklsdUlzaWgtckJMMmlYMmE2Rjg?oc=5",
+      "source": "AsiaOne",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-07T02:00:00.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 76,
+      "id": "75cbe2150e32"
+    },
+    {
+      "title": "Boeing 737 Max operators told to check fuselages for cracks",
+      "summary": "Inspections ordered by US regulator will affect about 470 aircraft, after reported problems in earlier models Business live – latest updates The US aviation regulator has ordered inspections of the fuselages of Boeing 737 Max planes for possible cracks in a component. The Federal Aviation Administration airworthiness directive will affect an estimated 471 ai",
+      "url": "https://www.theguardian.com/business/2026/aug/07/boeing-737-max-fuselage-cracks-check-faa",
       "source": "The Guardian",
       "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-07T07:12:11.000Z",
-      "image": "https://i.guim.co.uk/img/media/b41c4f59d68651701883bac3fa375dc47f2a4bae/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=64280571d22032043d8a0c4609da4232",
+      "region": "全球",
+      "publishedAt": "2026-08-07T10:25:11.000Z",
+      "image": "https://i.guim.co.uk/img/media/9fc39392b1c9915fc31f06dbf369e027cf526a44/0_132_1548_1238/master/1548.jpg?width=140&quality=85&auto=format&fit=max&s=087df9e48e52b69c53803163e2f58a96",
+      "topic": "经济",
+      "score": 75,
+      "id": "5c6f74f707d9"
+    },
+    {
+      "title": "2026 local government elections: D-Day for eligilbe voters to register",
+      "summary": "2026 local government elections: D-Day for eligilbe voters to register &nbsp;&nbsp; EWN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGFPWEhwWDhOT1NmZXFSVFJxam1mRjFIaXAxbDd0T2lER3dnRmZpSjk0SXVrQjFpNW13bmZ0LW9mZGU5Q3h5Ukg3MGpFZWJIbjNMQUp1czZxc2FGajAxenViTnRtS1NVWFIyR2lzN3lvNmI2NjJOTDNxOVhOSmRhQ0Rib0xfNlcxRmY5NGhFN01RTmw1MkM0?oc=5",
+      "source": "EWN",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-07T10:22:10.000Z",
+      "image": "",
       "topic": "政治",
-      "score": 77,
-      "id": "e8ba563fc1a6"
+      "score": 75,
+      "id": "4c19f0a524da"
+    },
+    {
+      "title": "Saudi Pro League’s England international Toney charged with assault",
+      "summary": "Ivan Toney charged for an assault that allegedly ​took place on December 6 last year in United Kingdom.",
+      "url": "https://www.aljazeera.com/sports/2026/8/7/saudi-pro-leagues-england-international-toney-charged-with-assault?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-07T10:11:15.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "7074714868d7"
     },
     {
       "title": "Drought and heat push Europe’s power grid to breaking point",
@@ -406,7 +497,7 @@
       "publishedAt": "2026-08-07T09:55:13.000Z",
       "image": "",
       "topic": "气候",
-      "score": 76,
+      "score": 75,
       "id": "835c9b14a0a8"
     },
     {
@@ -419,8 +510,21 @@
       "publishedAt": "2026-08-07T09:53:33.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "388cbe0cf763"
+    },
+    {
+      "title": "Attorney general warns women and children at risk of ‘harmful conduct’ from smartglasses users – as it happened",
+      "summary": "This blog is now closed Federal parliament is returning from winter break next week. Do you have a question you’d like to ask Guardian Australia’s team of political reporters in Canberra? Our political editor, Tom McIlroy , and the team will be answering readers’ questions on the Australian Politics podcast. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/07/royal-commission-antisemitism-national-cabinet-datacentres-icac-liberal-party-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-07T07:12:11.000Z",
+      "image": "https://i.guim.co.uk/img/media/b41c4f59d68651701883bac3fa375dc47f2a4bae/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=64280571d22032043d8a0c4609da4232",
+      "topic": "政治",
+      "score": 75,
+      "id": "e8ba563fc1a6"
     },
     {
       "title": "Family of young woman killed in Cairns crash thank community for support",
@@ -432,11 +536,11 @@
       "publishedAt": "2026-08-07T07:03:12.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/6f09c496ce6e2ba9db6af2b1db081f96?impolicy=wcms_crop_resize&cropH=963&cropW=1712&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "a7fea8d9d78e"
     },
     {
-      "title": "Live: Warriors dominate heavyweight clash, Panthers lose captain to injury",
+      "title": "Live: 'Doesn't look great': Fears for Panthers captain as Warriors dominate",
       "summary": "The New Zealand Warriors have made a premiership statement, hammering the ladder-leading Penrith Panthers 28-12. Follow live.",
       "url": "https://www.abc.net.au/news/2026-08-07/nrl-live-updates-warriors-panthers-roosters-bulldogs/106998868",
       "source": "ABC Australia",
@@ -445,8 +549,8 @@
       "publishedAt": "2026-08-07T06:59:37.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c4fd2b67c1a11ed55c8b3e47b3475024?impolicy=wcms_crop_resize&cropH=2092&cropW=3719&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 76,
-      "id": "eee2ae61c8fe"
+      "score": 75,
+      "id": "3ab0e5b1039c"
     },
     {
       "title": "Moment earthquake shakes hospital operating room in Japan",
@@ -458,7 +562,7 @@
       "publishedAt": "2026-08-07T06:46:34.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/218b/live/cf888d60-9239-11f1-a7ab-8b30adf0800a.jpg",
       "topic": "气候",
-      "score": 76,
+      "score": 75,
       "id": "1c8a00fe3ce1"
     },
     {
@@ -471,25 +575,12 @@
       "publishedAt": "2026-08-07T06:29:40.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "d46fc60fc68c"
     },
     {
-      "title": "Labour government says more people working illegally are being arrested and deported – UK politics live",
-      "summary": "More than double number of arrests made since 2024 compared with previous two-year period Plans to ban foreign nationals from social housing under a Conservative government have been condemned as “divisive”. Under proposals revealed on Friday, the party said about 230,000 homes would become available if foreign nationals were prevented from accessing social ",
-      "url": "https://www.theguardian.com/politics/blog/live/2026/aug/07/labour-government-people-working-illegally-arrested-deported-uk-andy-burnham-politics-latest",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-07T09:51:01.000Z",
-      "image": "https://i.guim.co.uk/img/media/add7e484ae1911818a4b201fe35d3f79f8024174/185_0_2165_1733/master/2165.jpg?width=140&quality=85&auto=format&fit=max&s=9f6cf5a33ba5b1ea70d8faf443464233",
-      "topic": "政治",
-      "score": 75,
-      "id": "1f8b99879ade"
-    },
-    {
       "title": "England striker Ivan Toney charged with assault after Soho nightclub incident",
-      "summary": "Met police say charge relates to alleged assault that reportedly took place in December at venue in London The England striker Ivan Toney has been charged with assault after an incident at a nightclub in Soho. The Metropolitan police said Ivan Toney, 30, of Northampton, was charged on 31 July with assault causing actual bodily harm. Continue reading...",
+      "summary": "Met police say charge relates to alleged assault that reportedly took place in December at venue in London The England striker Ivan Toney has been charged with assault after an incident at a nightclub in Soho. The Metropolitan police said Toney, 30, of Northampton, was charged on 31 July with assault causing actual bodily harm. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2026/aug/07/england-striker-ivan-toney-charged-with-assault-after-soho-nightclub-incident",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -497,7 +588,7 @@
       "publishedAt": "2026-08-07T09:40:14.000Z",
       "image": "https://i.guim.co.uk/img/media/9870e3ad9814e6bcbd4f22561c072794fb70e2e2/317_0_3228_2583/master/3228.jpg?width=140&quality=85&auto=format&fit=max&s=4c6b81791aad1b701a68e579e201a668",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "9beb61d6d9bb"
     },
     {
@@ -510,7 +601,7 @@
       "publishedAt": "2026-08-07T09:32:59.000Z",
       "image": "https://i.guim.co.uk/img/media/46399849510a52354e8f2a61ab6092675be8e1df/0_0_5000_3998/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=63ba0aab403d0bb7f7c945ba3323ee51",
       "topic": "经济",
-      "score": 75,
+      "score": 74,
       "id": "7b511294d6f9"
     },
     {
@@ -523,34 +614,8 @@
       "publishedAt": "2026-08-07T09:22:03.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1611/live/29966380-9240-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "803344ff3c4f"
-    },
-    {
-      "title": "Syria’s Jaramana bombing toll rises to 14 injured - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "Syria’s Jaramana bombing toll rises to 14 injured - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNU9VdjFuZE1qTGxvZHR2T1RjRHFjdmk3NDlkQnFVMzc3b2MwUURUUzI3eDh2Nm9uZ1dnWlVpenVyYl9zdi04dlRjUmJGdnVLMWRyRHltVG1GWGxLQ3o0UE1kMnNvLTVMUHdEdEp0TEFBU1FsdDhNdXYtTThsOE9QRzlHTl9VbHJqai1N?oc=5",
-      "source": "شفق نيوز",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-07T09:18:57.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "91c612daeec5"
-    },
-    {
-      "title": "Trump orders new 15% tariff on key material for solar panels and microchips",
-      "summary": "Move to raise levy on goods made with polysilicon aims to protect domestic US supply chains from China, the major producer Donald Trump has ordered a new 15% tariff on imported products made of polysilicon, an important ingredient in microchip manufacturing that is primarily produced by China. The new tariff, which will take effect on 4 December, is aimed at",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-08-07T09:11:36.000Z",
-      "image": "https://i.guim.co.uk/img/media/908237f4505e2ae1348ac9098ae93c4bd57241a4/427_0_4268_3414/master/4268.jpg?width=140&quality=85&auto=format&fit=max&s=72f26dc7be81b5bc49c089f9ec4c01d3",
-      "topic": "经济",
-      "score": 75,
-      "id": "2f22e99753cf"
     },
     {
       "title": "Primary schools to be told to identify children at risk of future unemployment",
@@ -562,21 +627,8 @@
       "publishedAt": "2026-08-07T06:00:11.000Z",
       "image": "https://i.guim.co.uk/img/media/c55a61dbb9c44a34e7e75072f4a97938f1fdbdea/516_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=d8adad8aec9d246775a2e79bfecf647f",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "175d306d883e"
-    },
-    {
-      "title": "Meet the offenders cleaning canals in the West Midlands as an alternative to prison",
-      "summary": "With the debate over prison overcrowding and what to do about it raging, one initiative offers an alternative solution As the prison overcrowding crisis shows no sign of abating and the debate rages over early releases , an initiative in the West Midlands offers an alternative to custodial sentences. The Guardian was offered rare access to the project, under",
-      "url": "https://www.theguardian.com/society/2026/aug/07/offenders-cleaning-canals-west-midlands-prison-overcrowding",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-07T06:00:10.000Z",
-      "image": "https://i.guim.co.uk/img/media/e223bbaca1effb1ad5e107d55f9d2b0c064739db/609_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=def663fce7c0146c07cb00c3ecbb5638",
-      "topic": "社会",
-      "score": 75,
-      "id": "1e9902927248"
     },
     {
       "title": "Bodies of climbers killed in avalanche retrieved from Broad Peak",
@@ -588,21 +640,8 @@
       "publishedAt": "2026-08-07T05:49:22.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "5cdff88ab0bc"
-    },
-    {
-      "title": "Five quick questions about Trump's birthright orders answered",
-      "summary": "US President Donald Trump is taking another swing at limiting birthright citizenship. Here are five simple questions to break down what's happened.",
-      "url": "https://www.abc.net.au/news/2026-08-07/trump-birthright-executive-orders-explained/107009810",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-07T05:33:56.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/4283e4753cf34773b289b14ff7a64d2c?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=97&width=862&height=485",
-      "topic": "政治",
-      "score": 75,
-      "id": "a3c67b3ada21"
     },
     {
       "title": "Exclusive report with the 308 people rescued by Nigerian forces",
@@ -614,8 +653,21 @@
       "publishedAt": "2026-08-07T02:30:23.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "9fe6742cd79c"
+    },
+    {
+      "title": "Trump orders new 15% tariff on key material for solar panels and microchips",
+      "summary": "Move to raise levy on goods made with polysilicon aims to protect domestic US supply chains from China, the major producer Donald Trump has ordered a new 15% tariff on imported products made of polysilicon, an important ingredient in microchip manufacturing that is primarily produced by China. The new tariff, which will take effect on 4 December, is aimed at",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "亚洲",
+      "publishedAt": "2026-08-07T09:11:36.000Z",
+      "image": "https://i.guim.co.uk/img/media/908237f4505e2ae1348ac9098ae93c4bd57241a4/427_0_4268_3414/master/4268.jpg?width=140&quality=85&auto=format&fit=max&s=72f26dc7be81b5bc49c089f9ec4c01d3",
+      "topic": "经济",
+      "score": 73,
+      "id": "2f22e99753cf"
     },
     {
       "title": "Buried for not being Brueghel: overlooked masterpiece by still-life pioneer discovered in storage area",
@@ -627,7 +679,7 @@
       "publishedAt": "2026-08-07T08:51:26.000Z",
       "image": "https://i.guim.co.uk/img/media/83c1b1bf6684f23b8223978f1527918982ad109a/456_73_4072_3259/master/4072.jpg?width=140&quality=85&auto=format&fit=max&s=377e58644228ee565f2d62578523ccd0",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "1e1abc32beda"
     },
     {
@@ -640,7 +692,7 @@
       "publishedAt": "2026-08-07T08:48:16.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b5c/live/8c44a560-923f-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "dc43e6ad5966"
     },
     {
@@ -653,7 +705,7 @@
       "publishedAt": "2026-08-07T08:41:06.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "43f3eea4b561"
     },
     {
@@ -666,21 +718,8 @@
       "publishedAt": "2026-08-07T08:38:50.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "e59633dc3caa"
-    },
-    {
-      "title": "Women leaders driving Amazon and e-commerce forward in South Africa",
-      "summary": "Women leaders driving Amazon and e-commerce forward in South Africa &nbsp;&nbsp; IOL",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWDN6TFBmNEx5NEtvcmFGRWhRemR2QWNQZnotZDBORU9ZT2o5b2ppYktscW5rdFJzVGNrcklzUFRPSnNob2pjUkNobUFZUkYtWUxGRFhjVml0X0ZKWS1ZcEdyRFhZRThQTF9oV3BHVEI1VEF6SHc4TUR4ZUpNZzNkQ3oxUVZiVGswYnl4YWdSWkl2czBOd1B3YVFNRDkwQlZ2NzJj?oc=5",
-      "source": "IOL",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-07T08:26:58.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "ad092e7290c2"
     },
     {
       "title": "Do dolphins grieve the way humans do?",
@@ -692,21 +731,8 @@
       "publishedAt": "2026-08-07T08:25:31.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/2e5208431453e60dbe15c89c106dec94?impolicy=wcms_crop_resize&cropH=170&cropW=302&xPos=194&yPos=8&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "430b59e5d98c"
-    },
-    {
-      "title": "Live: Lions and Hawks in blockbuster, Cats name player in concussion drama",
-      "summary": "Defending premiers Brisbane Lions host Hawthorn in a Friday night blockbuster at the Gabba, as Geelong makes a move in the midst of its concussion scandal. Follow live.",
-      "url": "https://www.abc.net.au/news/2026-08-07/afl-round-22-brisbane-lions-hawthorn-hawks-live-blog/106995760",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-07T08:23:49.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/eb9d02eac7e2505d64e2ee832dda3636?impolicy=wcms_crop_resize&cropH=1970&cropW=3503&xPos=0&yPos=60&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "2b94dfddfd01"
     },
     {
       "title": "BREAKING | It's official: SA votes on November 4",
@@ -718,7 +744,7 @@
       "publishedAt": "2026-08-07T08:17:02.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "3b40908e75dc"
     },
     {
@@ -731,7 +757,7 @@
       "publishedAt": "2026-08-07T08:12:34.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "c4451b9d336d"
     },
     {
@@ -744,7 +770,7 @@
       "publishedAt": "2026-08-07T05:34:15.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "b12371648e80"
     },
     {
@@ -757,7 +783,7 @@
       "publishedAt": "2026-08-07T05:00:48.000Z",
       "image": "",
       "topic": "气候",
-      "score": 74,
+      "score": 73,
       "id": "7ebb51b3beba"
     },
     {
@@ -770,8 +796,34 @@
       "publishedAt": "2026-08-07T05:00:08.000Z",
       "image": "https://i.guim.co.uk/img/media/2ebedaa8c75a1b13e758228615da2c9adc8d2a3e/536_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=3e7ec00e53a60031812ca6ed230e8c69",
       "topic": "气候",
-      "score": 74,
+      "score": 73,
       "id": "44fa53d6bd56"
+    },
+    {
+      "title": "Sports News | Inspired by Cricket Star Shane Watson, Archer Sahil Jadhav Gears Up for Asian Games Challenge",
+      "summary": "Sports News | Inspired by Cricket Star Shane Watson, Archer Sahil Jadhav Gears Up for Asian Games Challenge &nbsp;&nbsp; LatestLY",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRnFDNmJNSkExRzdOanI5LUFyMVZpZkhjVDAxeTFlYWJSWXJScU1xWFY2RFlrRGtLRXlkd2tKWlJLUUtCY25yMGVzUTN3aUh0RFdrbXBob1pVTm1FSWJyT1BsRE9OR2Rjd3hIUlNfazdlVTdLR3BvYmZVVVg0Z2xHUFprMEhWbnAydUVoZ0ZVR0hGRHJPSExMeEl6NGk4X0Jwd3hJQjl5eDhfZlI2QlV5RWZLMzNENzRwbTZJZlFmQ0syU3l1NW1RN1N0M1ZEaW9oN0o2bmkwR250am81ejhtSmRSYlYxdW1FRVHSAe8BQVVfeXFMT2RtN2RRZHE4bTdhdHpQSDFON2w5a2pqbHpHa0dfNzYtTDByWENrQU11NER3XzYxZWxDODdET2pwUmd3cVNsdXEwLWVsVFg4UVRLbkxORmIxUzVCWnRzcjZ0YUl6RWZ0Rnl1T2c2ZjNKVHFuUUszaG5BTHY2YjZDVlRCb0MyUFlQWUVwTTkxcnIxMHJiTllNYVo5cmVwNDlSYU1kTVAyYmdfRXQzSHZJNE5ubUlhTmJ5RVhUUU0xMUF1S2wyMnoyMEViQ0FHQVhHa3RqSWFIOE5uUHlKclRLTVhXWXdXcE9ZcG1RYl96QVE?oc=5",
+      "source": "LatestLY",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-07T10:54:20.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "3b5ca4530cd6"
+    },
+    {
+      "title": "Live: Morris dominates first half as Brisbane puts Hawthorn to the sword",
+      "summary": "Logan Morris kicks four goals in the first half as the Lions put down a marker against the Hawks at the Gabba. Follow live.",
+      "url": "https://www.abc.net.au/news/2026-08-07/afl-round-22-brisbane-lions-hawthorn-hawks-live-blog/106995760",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-07T08:23:49.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2dd76964c79a91cb65d28dc2ae5e6142?impolicy=wcms_crop_resize&cropH=1454&cropW=2584&xPos=0&yPos=134&width=862&height=485",
+      "topic": "社会",
+      "score": 72,
+      "id": "b723cd5c4b08"
     },
     {
       "title": "Nicole Kidman delivers message to former school on 150th anniversary",
@@ -783,7 +835,7 @@
       "publishedAt": "2026-08-07T07:50:32.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c7c9fede3418c71ea1c5538c911c5775?impolicy=wcms_crop_resize&cropH=1989&cropW=3536&xPos=0&yPos=176&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "d5c18b6b6093"
     },
     {
@@ -796,21 +848,21 @@
       "publishedAt": "2026-08-07T07:27:38.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "1efc8250978d"
     },
     {
-      "title": "Trump unbound: the making of an imperial presidency – podcast",
-      "summary": "Donald Trump’s second term is unlike his first. The politicians who challenged him are gone. The lawyers who once pushed back now choose their battles. What remains is an imperial president with almost no internal checks, using executive power to reshape everything from the economy, immigration and even the presidency itself. Few journalists have covered Tru",
-      "url": "https://www.theguardian.com/politics/audio/2026/aug/07/trump-unbound-the-making-of-an-imperial-presidency-podcast",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-07T04:00:06.000Z",
-      "image": "https://i.guim.co.uk/img/media/59f6346b963d8b869072f7fb7f0dcaa69f11cc94/205_0_2720_2175/master/2720.jpg?width=140&quality=85&auto=format&fit=max&s=1efbd3562babe46a6762ef02d6823e41",
-      "topic": "政治",
-      "score": 73,
-      "id": "705ffa61ce0d"
+      "title": "OPINION | The generation that taps",
+      "summary": "OPINION | The generation that taps &nbsp;&nbsp; SABC News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qSmhDV1A4MzJ3S1dORmNMQkdnX3lrdXZRYWVBZjJYRXhZbzhMUGR1bmN5UFI4Sm1iT1otbmZaQ2t6em9ZdkVhVFlWUWYwSXRaaUtoVWNUcjRHQ24teTg0VGhmWk1UeFdvVVJXVzR5elg2dmp3LUE?oc=5",
+      "source": "SABC News",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-07T10:31:06.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "afc60f0da8fc"
     },
     {
       "title": "Concerns planned boot camps may allow child abuse to go unreported",
@@ -822,8 +874,60 @@
       "publishedAt": "2026-08-07T07:25:27.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/5aecf3b3e0bed9164154c2c664fbebed?impolicy=wcms_crop_resize&cropH=895&cropW=1591&xPos=165&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "dc896c53efe7"
+    },
+    {
+      "title": "\"We doubled media investment\": Sudhir Sitapati as Godrej Consumer's Africa business powers 19% revenue growth",
+      "summary": "\"We doubled media investment\": Sudhir Sitapati as Godrej Consumer's Africa business powers 19% revenue growth &nbsp;&nbsp; Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNS3pGX3VkMzFZaGl6QUlsVjBwZG4yNDFCa2kwSVdPLVdJV2xoaFRTd2t1ZW41YXhQVVJRNXJ4aDk1RjdXaHdUUkctMmEwOWZnUm9BSldpek5vZDJsTVhNR3NzeXBzWFREQ0ZCZEgxcTdsbHljcUJpNkxwV0QwMkJpS3lPZXlta0ZmZGVfZDF0eVhubDZydUc3RXpqcjJVQXNhazJoZ3pIV0Q1ZXp5UTFFN0hKQWZQX2V0M1J2Z0tjSVFTTGlpMVl3V01NcDZyU0RUaDlQYnVSN0tZUDJwTV9meUV0NlhGQnEwUGFudnhOb3dTUGfSAfMBQVVfeXFMTUt6Rl91ZDMxWWhpekFJbFYwcGRuMjQxQmtpMElXTy1XSVdsaGhUU3drdWVuNWF4UFVSUTVyeGg5NUY3V2h3VFJHLTJhMDlmZ1JvQUpXaXpOb2QybE1YTUdzc3lwc1hURENGQmRIMXE3bGx5Y3FCaTZMcFdEMDJCaUt5T2V5bWtGZmRlX2QxdHlYbmw2cnVHN0V6anIyVUFzYWsyaGd6SFdENWV6eVExRTdISkFmUF9ldDNSdmdLY0lRU0xpaTFZd1dNTXA2clNEVGg5UGJ1UjdLWVAycE1fZnlFdDZYRkJxMFBhbnZ4Tm93U1Bn?oc=5",
+      "source": "Storyboard18",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-07T07:25:05.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 71,
+      "id": "ff5fbfbd8dd8"
+    },
+    {
+      "title": "Italy places all major cities on red alert as heatwave grips Europe",
+      "summary": "Italy places all major cities on red alert as heatwave grips Europe &nbsp;&nbsp; France 24",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0pTUWtHdUxSR3NJcklnY1dfU0p6c05qQ29HcGY2N2UzY3hDcnRvYkRKQXAwandWWWVRZC1UR2M5MzFmbzFSNXJneFE4TVFFSWhMODhiWEh6SElQUnh2QU1GUUFCRmVKVGRTVjNVNnJDWDdMbXdva016Q3habmFTZWZSSUFkNVZ5XzR1czhQUE5OX2tZZnNmSGtSMmNjLXBMNVduNnRqLU5yaEF4QjBlMlJR?oc=5",
+      "source": "France 24",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-07T07:23:07.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 71,
+      "id": "04e6e3625169"
+    },
+    {
+      "title": "Top Perth school suspends students over antisemitic group chat",
+      "summary": "Students have been suspended from the prestigious Wesley College in South Perth for using “antisemitic language and memes” to target a peer.",
+      "url": "https://www.abc.net.au/news/2026-08-07/top-perth-school-suspends-students-over-antisemitic-group-chat/107010706",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-07T07:21:40.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d682c5c42ce0ee6dd976d7c599277599?impolicy=wcms_crop_resize&cropH=915&cropW=1627&xPos=87&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 71,
+      "id": "c849faffe272"
+    },
+    {
+      "title": "New jumper revealed as NRL grants Perth Bears salary concessions",
+      "summary": "The NRL says the Perth Bears can leave some player wages outside its salary cap as it pursues a marquee signing.",
+      "url": "https://www.abc.net.au/news/2026-08-07/nrl-grants-perth-bears-salary-concessions/107009790",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-07T07:20:21.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d109f0b4c9c4bf1549a5385ed118de7a?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485",
+      "topic": "社会",
+      "score": 71,
+      "id": "9a053dc63701"
     },
     {
       "title": "Europe opensmostly higher as data pour in",
@@ -835,112 +939,8 @@
       "publishedAt": "2026-08-07T07:02:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "0c05de47c7d4"
-    },
-    {
-      "title": "Hormuz traffic falls to 33 ships this week - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "Hormuz traffic falls to 33 ships this week - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03QlZKZnFTbWNRS05xWHlwVi1uRGNZemhrTXBfVGc5RU53Ym1oTGl6Q29vOFRnYUVrdllfRTdCNEhocGlpZVdBRkRYWXBiTm4xU25aOVotVko1d0FWWkcydTE4X01CeTJPU29GYVlBdkpRZ3gtem9ULVFB?oc=5",
-      "source": "شفق نيوز",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-07T06:38:21.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "bc05e2e64df5"
-    },
-    {
-      "title": "Allianz's record result tells Asia-Pacific brokers: cyber appetite is growing, commercial terms are",
-      "summary": "Allianz's record result tells Asia-Pacific brokers: cyber appetite is growing, commercial terms are &nbsp;&nbsp; Insurance Business",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONjF1NU90b0g2aEJXLU96V3l5R2RjdTVQaWlzTFg1ZGhmMzVIa082bzEzbUNqQmlYRjVqREZfbW5VaGl2VXMyZVdNT0ZxWFdyZldqMHhZcUliaXNRbnFrZXY5VUZCeDZ6LVdwYlBUWmpCWDRmRS14RjBuUThUd0k1dDV6VW1DdUhHNmFpLS1LT3l3SUd5aV9SZG8yQUI3MTBYMjZWOTRYZkhzaE45TFp4VGdkcko2NWxFZTdUejdENWt4U3Z5TV9BcHFKQU1sczdCLWZqUklXWVNsdTQxOTQ0T1Bhd2lWa3NrTFJEVVhKLTJpVW9tTGF1UEZYZzc?oc=5",
-      "source": "Insurance Business",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-07T06:38:11.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 72,
-      "id": "1ba37ba85fa4"
-    },
-    {
-      "title": "Pope Leo to visit Uruguay, Argentina and Peru in November",
-      "summary": "Pope Leo to visit Uruguay, Argentina and Peru in November &nbsp;&nbsp; Periódico Digital Centroamericano y del Caribe",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN0dCcjBBa0FyUWVOSnFtVC1aZjZMVjRsUkh0U3VBN1BQbWdUR3hMVS1ZT1lSSFVtSzE3NkY1anRzS0dpX1IxeFlqQzZ2bVZyR0Z2MkJyQzJ3RXhEMmZnSFhCTW5kWXRINDU1bGd4MkMxQnRZVVplN2RTME9DNkUwc1NFVTZQR1dnOG1uUlU0T3NXVkJkb0hrbU5HWDUzbE9icFMzcGVZRGw?oc=5",
-      "source": "Periódico Digital Centroamericano y del Caribe",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-07T03:57:36.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "91ecdd3a6230"
-    },
-    {
-      "title": "Iran war live: Trump says Iran can’t ‘go on much longer’; Hormuz deal close",
-      "summary": "The US, Iran and Oman are close to a temporary deal to reopen the Strait of Hormuz.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "90deafa60e35"
-    },
-    {
-      "title": "‘No red line’: South Lebanon residents outraged as Israel resumes strikes",
-      "summary": "People in southern Lebanon question their government's approach as Israel launches more attacks and displacement orders.",
-      "url": "https://www.aljazeera.com/news/2026/8/6/south-lebanon-people-speak-out-as-israel-launches-attacks-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-06T23:46:37.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "145f8df8892c"
-    },
-    {
-      "title": "SA Citrus Growers shipping costs triple as Middle East conflict continues",
-      "summary": "SA Citrus Growers shipping costs triple as Middle East conflict continues &nbsp;&nbsp; EWN",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXJvREUwandCZVI2SXU4LVQtX3E5UkRpX0VDaUNhVV9tY3ZiZ3hmVVBxZEpybDZIWS1ibnFoZ2V3dEFYYXc1cnlfNjJGeTlhN3p2VHEtejZrTlh3N19kdXM2VnNSVjNRX3pmVzZ4ZHhqbW16cDJ0ZEpEZDA4NGhDaVNseFBmRjZQRFJTWFN4d3VaUFdfTm5KWjkybzlHV1dJVzR4QzY5Mm42UQ?oc=5",
-      "source": "EWN",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-07T09:44:02.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "0c92f05c4300"
-    },
-    {
-      "title": "Week 32 Asia Startup Funding Roundup",
-      "summary": "Week 32 Asia Startup Funding Roundup &nbsp;&nbsp; techloy.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IUlFjOVdlam9fTFBYWmMxcUpTT0M4NkNQdnZlY2pjWF9qQmhXeHlnNVZlNTZ5WTNHVmRGdjF3WFlqRFYxb2M1eXIyS3NxSFcxTjhfbWUweVd4SGlaSlpVSTNBRQ?oc=5",
-      "source": "techloy.com",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-07T09:36:37.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "96e1c48d8c09"
-    },
-    {
-      "title": "Week 32 Latin America Startup Funding Roundup",
-      "summary": "Week 32 Latin America Startup Funding Roundup &nbsp;&nbsp; techloy.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81YU1vS244RmF2RVlLTURKRkNWRzlKbktJdElfcEVnNEw1c05GVklnNHUyekRUaDJOSmRBT09OUm5YLWNuS1pXaFdJZ1FjTm9XUnlNR1B0d0d2c1hKbGI5V3RTMkM?oc=5",
-      "source": "techloy.com",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-07T09:36:37.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "145f565ea669"
     }
   ]
 }
