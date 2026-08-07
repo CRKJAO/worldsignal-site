@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T16:11:03.723Z",
+  "updatedAt": "2026-08-07T17:11:10.570Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -16,7 +16,7 @@
       "publishedAt": "2026-08-07T15:48:49.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
       "topic": "社会",
-      "score": 96,
+      "score": 95,
       "id": "3853003924a5"
     },
     {
@@ -29,8 +29,47 @@
       "publishedAt": "2026-08-07T11:03:07.000Z",
       "image": "",
       "topic": "经济",
-      "score": 90,
+      "score": 89,
       "id": "f6bf62ba205c"
+    },
+    {
+      "title": "Saudi Arabia, Pakistan, Turkiye defence pact challenges US role",
+      "summary": "Defence analyst Alex Alfirraz Scheers says the Saudi Arabia-Pakistan-Turkiye defence agreement signals a realignment",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-07T16:23:33.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 87,
+      "id": "58afc283cbfb"
+    },
+    {
+      "title": "NZ’s push for joint statement on China missile test falls flat amid growing Pacific Islands autonomy",
+      "summary": "NZ’s push for joint statement on China missile test falls flat amid growing Pacific Islands autonomy &nbsp;&nbsp; Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HaFl4WVFQR3d1RGlBVWNHcGhrTGpUV2wwUTZvRW5GdjNoTzVwb2RfNTVZc3NrSEFrQjdVTkV4SDdXYW5SeUpXMlJVTHhHZDJIZkFXelpCRmZOam44R1g3NUd3?oc=5",
+      "source": "Global Times",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-07T16:08:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 87,
+      "id": "c47c8871b17c"
+    },
+    {
+      "title": "Italy vows to maintain border checks despite Spain’s countermeasures threat",
+      "summary": "Madrid warns of 'proportional measures' if Rome does not put an end to checks amid fallout from Ceuta migrant crisis.",
+      "url": "https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-07T16:10:51.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 84,
+      "id": "de0f1d8c756d"
     },
     {
       "title": "Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?",
@@ -42,7 +81,7 @@
       "publishedAt": "2026-08-07T13:28:40.000Z",
       "image": "",
       "topic": "社会",
-      "score": 85,
+      "score": 84,
       "id": "53765f974a50"
     },
     {
@@ -55,47 +94,8 @@
       "publishedAt": "2026-08-07T12:34:13.000Z",
       "image": "",
       "topic": "政治",
-      "score": 85,
+      "score": 83,
       "id": "bb395416eff5"
-    },
-    {
-      "title": "Central Europe sees record temperatures as heatwave continues",
-      "summary": "Record-breaking temperatures in Slovakia and Austria as Italy places all of its 27 major cities on highest heat alert.",
-      "url": "https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-07T10:11:26.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 85,
-      "id": "59df7bcd989c"
-    },
-    {
-      "title": "Seven killed after Thai student opens fire at home and school",
-      "summary": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
-      "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-07T15:51:16.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4823/live/c54bf9d0-926c-11f1-9f0c-8d4ddef91df6.jpg",
-      "topic": "社会",
-      "score": 84,
-      "id": "99765fc75c7a"
-    },
-    {
-      "title": "Guatemala's Fuego volcano erupts and other top photos from Latin America and the Caribbean",
-      "summary": "Guatemala's Fuego volcano erupts and other top photos from Latin America and the Caribbean &nbsp;&nbsp; New Castle News",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOUU0zY1pya281dFNxQ2hkVjB6OTloWmczVXNORUgxN3RTdVlpQ3VybkdRMTlVYW9CdDFSTFpORWk5cVFNQVBmQVhYakEzOGJpU250cm9sVGt4S3J5ZXV5YkdKdHZaY1d1djN3d3RYanowSG85a0hTa21kbTdWdDJldk53OHlNYlVRdXRXWmJqOGpMekpFak1KZ1ZnSjdJT2l2bGVaeWVaRnpBeTBseTdyMkhQNGVFbE5VcVFYY2lkS2dCRUZpS1d5QU5SbDVYd3lCTmM1LVdPZDZGbmZBSktiWEViOVZkV2hFLWxHanVLbGppVVZlMmFnaTFRd1JDR0UtcDJvNXlyS3VzcGp0bnVN?oc=5",
-      "source": "New Castle News",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-07T13:12:10.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 84,
-      "id": "c2244fb10ab8"
     },
     {
       "title": "Iran plots to deal Trump a blow in midterms by keeping him entangled in war",
@@ -107,8 +107,21 @@
       "publishedAt": "2026-08-07T11:47:24.000Z",
       "image": "https://i.guim.co.uk/img/media/fe90568bae6b49080ea2fa0e28e0e91286745f7d/325_0_3287_2632/master/3287.jpg?width=140&quality=85&auto=format&fit=max&s=87ba5b47d7ddb0d0b71174387f5998de",
       "topic": "政治",
-      "score": 84,
+      "score": 82,
       "id": "3189c4cb651a"
+    },
+    {
+      "title": "Turkey, Pakistan, Saudi Arabia sign a mutual defense deal, and other Middle East news",
+      "summary": "Turkey, Pakistan, Saudi Arabia sign a mutual defense deal, and other Middle East news &nbsp;&nbsp; 102.3 KRMG",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDZxNEh0b3VyUG9iVE5HbWpBVXJrS3RicHFGTmdQZWRHd3pldS1kbkJOUTZkSGRLM19WTTVKX1dYYU80Z1ZVRXdaZlBlUU9UVEtCRTlyNnZMbktNb3dDM1hHMkZxVVZsOEJSU0pQZ0ctby0zcU15aGZVTnVEVG5JWEJsQ2NwenNGdVlJYlhYeUpYWm1admM5bFl6aXg1YlIyZWdBYzZVVzU3OUhvYVNhdA?oc=5",
+      "source": "102.3 KRMG",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-07T14:55:51.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 81,
+      "id": "59ab19fac6fe"
     },
     {
       "title": "Thailand school shooting: eight killed including suspected attacker, police say",
@@ -120,21 +133,8 @@
       "publishedAt": "2026-08-07T14:16:01.000Z",
       "image": "https://i.guim.co.uk/img/media/41dac7ba9c19d5382a4a80291b91237b01b225e9/189_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=74239fb8d2e70894d0e4582e86430132",
       "topic": "社会",
-      "score": 82,
+      "score": 81,
       "id": "6e0a7ec85597"
-    },
-    {
-      "title": "Simon Levy murders: has anything changed in policing since Sarah Everard’s killing?",
-      "summary": "Experts say the attackers’ behaviour, and the handling of their cases, have striking similarities About 40 metres off Tottenham High Street, up a slip road for deliveries to a B&M homewares store, is a stretch of concrete paving behind a 2-metre wall topped with spikes. This is the patch of ground that Simon Levy tried to turn into his personal killing field",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/07/simon-levy-murders-has-anything-changed-in-policing-since-sarah-everard-killing",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-07T14:07:53.000Z",
-      "image": "https://i.guim.co.uk/img/media/df12977cf6fa590ebce7df8d0b282e929f6e5edc/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=062c2b2ae2d7f859f9d21ea7aabad69b",
-      "topic": "政治",
-      "score": 82,
-      "id": "3f0566a2432e"
     },
     {
       "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
@@ -146,21 +146,34 @@
       "publishedAt": "2026-08-07T14:00:32.000Z",
       "image": "https://i.guim.co.uk/img/media/17daec3a063bfb18f9e3f7b656db205ba96b1529/679_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=2d83867820ee5e47a7222955650f829f",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "55f603b29eba"
     },
     {
-      "title": "Pacific ministers fail to agree on China missile response",
-      "summary": "Pacific ministers fail to agree on China missile response &nbsp;&nbsp; Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdE1GY2FuUWRFc1JFTWVHaUU3cEhEV2lSQWI3TEFyVTZBZEpDU3dxenNmY2pSdmFSbGZjOHIyZXd6eTJSSjJsdW5WY3ZVcnd6MzBvV0l3LUk3M1pCTkRxb0Qxc0lQcHpCcXJjM1A2X2M1bG0zc3diQ1Mtc195d1htclBLbkJKQUdRa1pMNzFQbmlKeW5zNDlEZXdUU2JkS0ltcE9tR256c3NxQTNwYkU2VzhMdjNWQdIBtgFBVV95cUxPdE1GY2FuUWRFc1JFTWVHaUU3cEhEV2lSQWI3TEFyVTZBZEpDU3dxenNmY2pSdmFSbGZjOHIyZXd6eTJSSjJsdW5WY3ZVcnd6MzBvV0l3LUk3M1pCTkRxb0Qxc0lQcHpCcXJjM1A2X2M1bG0zc3diQ1Mtc195d1htclBLbkJKQUdRa1pMNzFQbmlKeW5zNDlEZXdUU2JkS0ltcE9tR256c3NxQTNwYkU2VzhMdjNWQQ?oc=5",
-      "source": "Devdiscourse",
-      "feed": "Pacific News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-07T10:16:33.000Z",
+      "title": "Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds",
+      "summary": "Counter-disinformation group says social media channels connected to Pravda network helped amplify message Accounts with links to the Russian military promoting far-right messages reached more than 500,000 people in the days following the mass influx of people into Ceuta , according to an analysis by 411, a counter-disinformation group. Russia-linked social ",
+      "url": "https://www.theguardian.com/media/2026/aug/07/far-right-narrative-russia-online-accounts-ceuta-migration-crisis-analysis",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-07T16:35:26.000Z",
+      "image": "https://i.guim.co.uk/img/media/d9486cc2245f4b37ad03e084f3a6d387099b12f9/440_0_4585_3668/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=36b9a0a1f99ff6cc69e54f3411ed2e94",
+      "topic": "社会",
+      "score": 80,
+      "id": "53978a0b3668"
+    },
+    {
+      "title": "Central Europe sees record temperatures as heatwave continues",
+      "summary": "Record-breaking temperatures in Slovakia and Austria as Italy places all of its 27 major cities on highest heat alert.",
+      "url": "https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-07T10:11:26.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 81,
-      "id": "68b2a465e68c"
+      "topic": "气候",
+      "score": 80,
+      "id": "59df7bcd989c"
     },
     {
       "title": "China accused as Pacific nations block statement condemning missile test",
@@ -172,7 +185,7 @@
       "publishedAt": "2026-08-07T07:34:40.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c7bfd3c2dc6d8ebfa7d61dcb01db440e?impolicy=wcms_crop_resize&cropH=1424&cropW=2532&xPos=120&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 81,
+      "score": 80,
       "id": "db06907676b1"
     },
     {
@@ -185,7 +198,7 @@
       "publishedAt": "2026-08-07T06:56:17.000Z",
       "image": "",
       "topic": "科技",
-      "score": 81,
+      "score": 80,
       "id": "dcf3c0bc7921"
     },
     {
@@ -195,15 +208,41 @@
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "全球",
-      "publishedAt": "2026-08-07T15:53:33.000Z",
+      "publishedAt": "2026-08-07T16:27:40.000Z",
       "image": "https://i.guim.co.uk/img/media/5292ff0766733e690b2b74b35a987c061e302fe0/184_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=35d794c5f24c3e5ee07acc6c03765d27",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "f23d758a498d"
     },
     {
+      "title": "US labour market sheds jobs in July as labour force participation slumps",
+      "summary": "US labour market loses 23,000 jobs in July as education, government and retail sectors record significant declines.",
+      "url": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-07T16:25:35.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 79,
+      "id": "59ec476a4850"
+    },
+    {
+      "title": "Seven killed after Thai student opens fire at home and school",
+      "summary": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
+      "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-07T15:51:16.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfea/live/f48efef0-927f-11f1-870d-5d08c49babb2.jpg",
+      "topic": "社会",
+      "score": 79,
+      "id": "99765fc75c7a"
+    },
+    {
       "title": "Police and prosecution errors left proven sex offender free to murder two women in London",
-      "summary": "Delays to sexual assault charges and failures to report past convictions in court hearings gave Simon Levy chance to attack more women Catastrophic errors left a prolific and proven sex offender free before he murdered two women in London, it can be revealed. On Friday, an Old Bailey jury found Simon Levy, 40, guilty of murdering Carmenza Valencia-Trujillo i",
+      "summary": "Delays to sexual assault charges and failures to report past convictions in court hearings gave Simon Levy chance to attack more women • Violence against women: has anything changed in policing since Sarah Everard’s killing? Catastrophic errors left a persistent and proven sex offender free before he murdered two women in London, it can be revealed. On Frida",
       "url": "https://www.theguardian.com/uk-news/2026/aug/07/simon-levy-murder-trial-women-london-police-prosecution-errors",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -211,7 +250,7 @@
       "publishedAt": "2026-08-07T15:41:48.000Z",
       "image": "https://i.guim.co.uk/img/media/4d0c278f5c260e2c0fd4f2640a508e6e2fe327a6/131_1_532_426/master/532.jpg?width=140&quality=85&auto=format&fit=max&s=a6e51e3f04de4e6528ea79f61d62579f",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "e0326027a43b"
     },
     {
@@ -224,8 +263,21 @@
       "publishedAt": "2026-08-07T15:41:45.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "c5ae074f0745"
+    },
+    {
+      "title": "Guatemala's Fuego volcano erupts and other top photos from Latin America and the Caribbean",
+      "summary": "Guatemala's Fuego volcano erupts and other top photos from Latin America and the Caribbean &nbsp;&nbsp; New Castle News",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOUU0zY1pya281dFNxQ2hkVjB6OTloWmczVXNORUgxN3RTdVlpQ3VybkdRMTlVYW9CdDFSTFpORWk5cVFNQVBmQVhYakEzOGJpU250cm9sVGt4S3J5ZXV5YkdKdHZaY1d1djN3d3RYanowSG85a0hTa21kbTdWdDJldk53OHlNYlVRdXRXWmJqOGpMekpFak1KZ1ZnSjdJT2l2bGVaeWVaRnpBeTBseTdyMkhQNGVFbE5VcVFYY2lkS2dCRUZpS1d5QU5SbDVYd3lCTmM1LVdPZDZGbmZBSktiWEViOVZkV2hFLWxHanVLbGppVVZlMmFnaTFRd1JDR0UtcDJvNXlyS3VzcGp0bnVN?oc=5",
+      "source": "New Castle News",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-07T13:12:10.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "c2244fb10ab8"
     },
     {
       "title": "Kemi Badenoch’s weird week: defence of ex-neo-Nazi raises questions over Tory direction",
@@ -237,34 +289,8 @@
       "publishedAt": "2026-08-07T15:36:43.000Z",
       "image": "https://i.guim.co.uk/img/media/8198daa65ce9edc1ed98eb92ecfa4589b3c7aadc/1985_0_2973_2378/master/2973.jpg?width=140&quality=85&auto=format&fit=max&s=a2c97049d0f69378d099f0ff533bab0b",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "d2e2e564a230"
-    },
-    {
-      "title": "Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds",
-      "summary": "Counter-disinformation group says social media channels connected to Pravda network helped amplify message Accounts with links to the Russian military promoting far-right messages reached more than 500,000 people in the early days of the Ceuta migration crisis , according to an analysis done by 411, a counter-disinformation group. Russia-linked social media ",
-      "url": "https://www.theguardian.com/media/2026/aug/07/far-right-narrative-russia-online-accounts-ceuta-migration-crisis-analysis",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-07T14:48:03.000Z",
-      "image": "https://i.guim.co.uk/img/media/d9486cc2245f4b37ad03e084f3a6d387099b12f9/440_0_4585_3668/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=36b9a0a1f99ff6cc69e54f3411ed2e94",
-      "topic": "社会",
-      "score": 79,
-      "id": "53978a0b3668"
-    },
-    {
-      "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
-      "summary": "Houthis' expansion of cross-border attacks means an even bloodier war may be imminent, analysts say.",
-      "url": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-07T11:11:10.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 79,
-      "id": "bdef989cc430"
     },
     {
       "title": "Tate brothers’ lawyers urge ⁠US judge to release the two from Miami jail on bail",
@@ -276,7 +302,7 @@
       "publishedAt": "2026-08-07T14:35:54.000Z",
       "image": "https://i.guim.co.uk/img/media/c1920c7d0970f3ccc4bf6f4a5603151590a72e43/240_0_3289_2632/master/3289.jpg?width=140&quality=85&auto=format&fit=max&s=14e68298fca48120484ad4659f0c0272",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "c6497ed06ffa"
     },
     {
@@ -289,21 +315,21 @@
       "publishedAt": "2026-08-07T14:22:24.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "0f0ae55d60a0"
     },
     {
-      "title": "Turkey, Pakistan, Saudi Arabia sign a mutual defense deal, and other Middle East news",
-      "summary": "Turkey, Pakistan, Saudi Arabia sign a mutual defense deal, and other Middle East news &nbsp;&nbsp; WPLG Local 10",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY3RxU3Z5ak4yM0oxa0ZTaV9RdnNTejJRRE16UTVZTmVmbnlmQ1dvTGFXUTVNVkhMUE9PZ2JtUGVJTEFGODhxYnNtaEtUUzVJN0drcXFyMk1EczBUa0ozS3NyTFRDR2d4VUhZZXozbWdPTFlCWTV5d0x0cEZSV1BJblhVZ2Eyd3ZxVVhMblp3OXpqU0dERTF4UVFQZ3ZVSXVQRzJ3Y0pKdGR3UWZEZjNQNGRzY3dHcUJ1UjB6am5oaXc?oc=5",
-      "source": "WPLG Local 10",
-      "feed": "Middle East News Network",
+      "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
+      "summary": "Houthis' expansion of cross-border attacks means an even bloodier war may be imminent, analysts say.",
+      "url": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
       "region": "中东",
-      "publishedAt": "2026-08-07T11:31:07.000Z",
+      "publishedAt": "2026-08-07T11:11:10.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 78,
-      "id": "9f8ff3198950"
+      "topic": "政治",
+      "score": 77,
+      "id": "bdef989cc430"
     },
     {
       "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
@@ -315,8 +341,34 @@
       "publishedAt": "2026-08-07T10:52:34.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "53cad88fc5f0"
+    },
+    {
+      "title": "Cambridge academics reject university’s attempt to end row over Jason Arday",
+      "summary": "Group calls for ‘thorough and transparent investigation’ of hiring of professor who resigned after his claims came under scrutiny The University of Cambridge has announced a review into the way it vets and hires senior academic staff in an effort to fend off external and internal criticism of its appointment of Jason Arday as a professor. But a group of Camb",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/07/cambridge-academics-reject-universitys-attempt-to-end-row-over-jason-arday",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-07T16:49:15.000Z",
+      "image": "https://i.guim.co.uk/img/media/ec0c3c6c31b9e906e6b90936032d7d90060bae94/157_0_1917_1534/master/1917.jpg?width=140&quality=85&auto=format&fit=max&s=2ccf55f45835e40a6fa40a888377411a",
+      "topic": "社会",
+      "score": 76,
+      "id": "9a2750165abf"
+    },
+    {
+      "title": "Hun Manet is refining Cambodia’s authoritarian model",
+      "summary": "The PM has made repression less visible and more sophisticated, strengthening the authoritarian system he inherited.",
+      "url": "https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-07T16:47:33.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "802df36d5d1c"
     },
     {
       "title": "Lawyers for Andrew and Tristan Tate urge US judge to release them from jail",
@@ -328,8 +380,60 @@
       "publishedAt": "2026-08-07T13:56:33.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/56ab907463a73b0aaa253682eab6c8e8?impolicy=wcms_crop_resize&cropH=2214&cropW=3936&xPos=0&yPos=209&width=862&height=485",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "909b5d2917ea"
+    },
+    {
+      "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+      "summary": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-08-07T16:33:50.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
+      "topic": "社会",
+      "score": 75,
+      "id": "1df04fe85f58"
+    },
+    {
+      "title": "The EU condemns the \"unacceptable\" attacks by the Houthis in Yemen and southern Saudi Arabia.",
+      "summary": "The EU condemns the \"unacceptable\" attacks by the Houthis in Yemen and southern Saudi Arabia. &nbsp;&nbsp; Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeW5nN1o3UXJjVzU1cXVUSFhCTEg1S3BSSUgyRDYxaExwaG1mLW9GNnpzUHJmbVhxZ0F6OE1tY2h6RUFweFZLY2J4bmhxUlo5Ym1BWjZEdDVMcUNub2szZE9MMlJ1dWFPZ196TndvZlZkaS0zbW91RjY1dDNTSUw0akRpY2RPbF9zM1FSVExPLUpYNUxSZGVLQ1dlQzkwZWltVUM0M1lNQ0dzV0NBclU3V1IwUHBFUUVEM2VsNEtTRGRjWWJDaF9Na2VoZnNFZ9IB0wFBVV95cUxQQ3BqTU9JZUVuSzd3QTVjc2xRSUpzYW5ncmh1dW5FMlV0LTM2Z0xwQjI0XzZiY3NCN1hGMzdFVTNFTFgwdTRBVUtDbFdJRmRlSENvSnNGNUxJWXlCUy0tVXRDQ05oaTRSLWVJbllfWElNWHozcHUweVVNOXhBQ1F4WmFldl9Jc1RYY3NQbE5yX00yWHNfSFBheGtPWk1RSHpUOHdVWjNLZ3MxSHNERVJheGI3RzN5VU50YWtHbks5b2wtNmI2dkZSNEdtZ3hBaWZHcllN?oc=5",
+      "source": "Demócrata",
+      "feed": "Europe News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-07T16:24:31.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "a2f9dd4ec315"
+    },
+    {
+      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "summary": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
+      "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-08-07T16:13:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc5f/live/1bb4b890-927a-11f1-b7a2-c7c91f255a18.png",
+      "topic": "社会",
+      "score": 75,
+      "id": "b4cd82c41855"
+    },
+    {
+      "title": "Colombia’s new president to take office in ceremony in Cali highlighting hard line on armed groups",
+      "summary": "Colombia’s new president to take office in ceremony in Cali highlighting hard line on armed groups &nbsp;&nbsp; The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc3dGZlRQVkJ2UjZ0a3p1VWhvQURFV2JCUDdwTVg1cndJOWlEamJDU0s5eDdldjdmM1c4cWxpOEE5RGVpODJkaVFMdWxjV3pQbllDSGxDLWNvNVg3QlhmQTJQSGJBVkhGaTFWb0FsUWJFTzhxSWtoRVhxZ2l6aDlxMlQyanNoQnEwOHdfVkdQNEkyTXo1c01sa0l5blcybkwtejRrWlN3cXNQNGhwcmV0QWgxdE00clczOTdiRkFwbzEzbjhsRVNGU3pGMHFlMnVLUHRuODR6dlhxdlV4VDVzSG45WTBkSXVoWVR3QlhIb1B4Z1U?oc=5",
+      "source": "The Washington Post",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-07T16:13:25.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "e02e8a97a8ce"
     },
     {
       "title": "Russia drops record number of glide bombs on Ukraine as casualties pile up",
@@ -341,47 +445,8 @@
       "publishedAt": "2026-08-07T13:12:52.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 75,
       "id": "98ca4107d982"
-    },
-    {
-      "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
-      "summary": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-07T15:59:01.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
-      "topic": "社会",
-      "score": 76,
-      "id": "1df04fe85f58"
-    },
-    {
-      "title": "Colombia’s new president to take office in ceremony in Cali highlighting hard line on armed groups",
-      "summary": "Colombia’s new president to take office in ceremony in Cali highlighting hard line on armed groups &nbsp;&nbsp; The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc3dGZlRQVkJ2UjZ0a3p1VWhvQURFV2JCUDdwTVg1cndJOWlEamJDU0s5eDdldjdmM1c4cWxpOEE5RGVpODJkaVFMdWxjV3pQbllDSGxDLWNvNVg3QlhmQTJQSGJBVkhGaTFWb0FsUWJFTzhxSWtoRVhxZ2l6aDlxMlQyanNoQnEwOHdfVkdQNEkyTXo1c01sa0l5blcybkwtejRrWlN3cXNQNGhwcmV0QWgxdE00clczOTdiRkFwbzEzbjhsRVNGU3pGMHFlMnVLUHRuODR6dlhxdlV4VDVzSG45WTBkSXVoWVR3QlhIb1B4Z1U?oc=5",
-      "source": "The Washington Post",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-07T15:58:22.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 76,
-      "id": "e02e8a97a8ce"
-    },
-    {
-      "title": "Europe closes higher after data, earnings",
-      "summary": "Europe closes higher after data, earnings &nbsp;&nbsp; Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSE4yeHlFdVlPeTVFd19ZYW1HcVdZYWNGTF9mOW5nLVJyNllla0tjdC04MmtOZlJvS2s2TkNIM3NIeGxkaTRBbDR0WEJhYXZGOUJLeV9CZkx0cmRrekV3RVU1WFJJdkp0QWI2RnVOYzVRREt4TUJEcTE4RzZaYkozNnd6eDI1YWVRTFA5ck1R?oc=5",
-      "source": "Breakingthenews.net",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-07T15:36:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "b17d573fee4a"
     },
     {
       "title": "US airfares expected to stay high even if Iran ceasefire drops oil prices, experts say",
@@ -393,7 +458,7 @@
       "publishedAt": "2026-08-07T13:00:18.000Z",
       "image": "https://i.guim.co.uk/img/media/eb7f6b760c75b91a2876dd18dd8edebd0e0d05bc/624_0_6217_4977/master/6217.jpg?width=140&quality=85&auto=format&fit=max&s=b0a23d05a38759c2af68ea3fd12de77f",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "b74fdfecfe50"
     },
     {
@@ -406,7 +471,7 @@
       "publishedAt": "2026-08-07T13:00:18.000Z",
       "image": "https://i.guim.co.uk/img/media/3ee4443ff7acac0da45ebd3d4da2ca5c1ce50813/115_183_4695_3756/master/4695.jpg?width=140&quality=85&auto=format&fit=max&s=8273990a95eaee86623bd8c8f4ff5213",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "3933363faafe"
     },
     {
@@ -419,7 +484,7 @@
       "publishedAt": "2026-08-07T12:35:40.000Z",
       "image": "https://i.guim.co.uk/img/media/e09a36ce96c76d7d90cf5b5fa685b334ab945fad/1028_170_4020_3216/master/4020.jpg?width=140&quality=85&auto=format&fit=max&s=6896701a245df9c28ad9c8c6a3b9f1f9",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "4c63b00f4475"
     },
     {
@@ -432,21 +497,8 @@
       "publishedAt": "2026-08-07T12:30:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/19b61a26d7dcee5a389205609571b9ea?impolicy=wcms_crop_resize&cropH=506&cropW=900&xPos=0&yPos=10&width=862&height=485",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "350be2294817"
-    },
-    {
-      "title": "Several killed after student opens fire inside Thailand school",
-      "summary": "At least eight people were killed and 15 others injured after a student opened fire inside a school in Thailand.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-07T09:13:48.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "351cc9a78b92"
     },
     {
       "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
@@ -458,7 +510,7 @@
       "publishedAt": "2026-08-07T09:00:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "e341b4000058"
     },
     {
@@ -471,8 +523,34 @@
       "publishedAt": "2026-08-07T15:38:28.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfe5/live/40d88be0-926d-11f1-9f0c-8d4ddef91df6.png",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "5acf883fb317"
+    },
+    {
+      "title": "Breaking barriers: Aadielah Maker Diedericks' journey in public health advocacy",
+      "summary": "Breaking barriers: Aadielah Maker Diedericks' journey in public health advocacy &nbsp;&nbsp; IOL",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmRLZk1LRXhnTy0xVHU1U2pLbGlrMmxrZ01haUpTQV9SbWM5WXlON1NqWGE0Sm5WTG1SVEpQOEJic3NWWXg3RW1tY1E4bzA0bnVsWkFwWVd4Qkk4ME9PalZmeWxrYVNtNnZKN3JCRkVENUgxT1hwdTdkd052c2szWmF2WHM4QVY4ZXZYdmRaeW1vcERXbmpzTW80bHo2RGVSN1p4bTBGU080Z2ZaaHpfWkhQSjV1WG8?oc=5",
+      "source": "IOL",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-07T15:36:13.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "aaf433804475"
+    },
+    {
+      "title": "Europe closes higher after data, earnings",
+      "summary": "Europe closes higher after data, earnings &nbsp;&nbsp; Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSE4yeHlFdVlPeTVFd19ZYW1HcVdZYWNGTF9mOW5nLVJyNllla0tjdC04MmtOZlJvS2s2TkNIM3NIeGxkaTRBbDR0WEJhYXZGOUJLeV9CZkx0cmRrekV3RVU1WFJJdkp0QWI2RnVOYzVRREt4TUJEcTE4RzZaYkozNnd6eDI1YWVRTFA5ck1R?oc=5",
+      "source": "Breakingthenews.net",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-07T15:36:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "b17d573fee4a"
     },
     {
       "title": "US unexpectedly sheds 23,000 jobs in blow for Trump before midterms",
@@ -484,7 +562,7 @@
       "publishedAt": "2026-08-07T15:20:29.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/650ea34b5515804d331d990944a75799?impolicy=wcms_crop_resize&cropH=2250&cropW=4000&xPos=0&yPos=388&width=862&height=485",
       "topic": "经济",
-      "score": 75,
+      "score": 74,
       "id": "934d39b61a8c"
     },
     {
@@ -497,73 +575,21 @@
       "publishedAt": "2026-08-07T15:18:27.000Z",
       "image": "https://i.guim.co.uk/img/media/a2f7a19fe6e757c1381d8dcef1da2b572765b7cc/627_0_4839_3870/master/4839.jpg?width=140&quality=85&auto=format&fit=max&s=67a892487818ac1eaf964b28c5178cef",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "030147835d13"
     },
     {
-      "title": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos",
-      "summary": "Authorities suspect narcotics dealers and gang rivalries are behind prison violence at facilities in Sri Lanka.",
-      "url": "https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-07T15:10:22.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "60751546c44f"
-    },
-    {
-      "title": "ICE will not reveal body-camera footage unless in agency’s ‘best interests’",
-      "summary": "Much-delayed devices to be deployed by end of month after immigration agents involved in deaths or serious injuries Officers for Immigration and Customs Enforcement ( ICE ) will be equipped with much-delayed body cameras by the end of next month, it was reported on Friday. But experts have questioned the transparency of a policy that allows the ICE director ",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/ice-body-cameras-footage-release",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-07T15:08:26.000Z",
-      "image": "https://i.guim.co.uk/img/media/ce3c539d0209900c23b480386b25991bc491c0ad/482_400_2834_2267/master/2834.jpg?width=140&quality=85&auto=format&fit=max&s=0db3bdd302be2ffd3b53aba3b86e219b",
-      "topic": "社会",
-      "score": 75,
-      "id": "fbbaa5720c48"
-    },
-    {
-      "title": "Breaking barriers: Aadielah Maker Diedericks' journey in public health advocacy",
-      "summary": "Breaking barriers: Aadielah Maker Diedericks' journey in public health advocacy &nbsp;&nbsp; IOL",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmRLZk1LRXhnTy0xVHU1U2pLbGlrMmxrZ01haUpTQV9SbWM5WXlON1NqWGE0Sm5WTG1SVEpQOEJic3NWWXg3RW1tY1E4bzA0bnVsWkFwWVd4Qkk4ME9PalZmeWxrYVNtNnZKN3JCRkVENUgxT1hwdTdkd052c2szWmF2WHM4QVY4ZXZYdmRaeW1vcERXbmpzTW80bHo2RGVSN1p4bTBGU080Z2ZaaHpfWkhQSjV1WG8?oc=5",
-      "source": "IOL",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-07T15:00:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "aaf433804475"
-    },
-    {
       "title": "Seeking to ‘rally’ attack on China’s missile test launch, New Zealand foreign minister only humiliates himself",
-      "summary": "Seeking to ‘rally’ attack on China’s missile test launch, New Zealand foreign minister only humiliates himself &nbsp;&nbsp; globaltimes.cn",
+      "summary": "Seeking to ‘rally’ attack on China’s missile test launch, New Zealand foreign minister only humiliates himself &nbsp;&nbsp; Global Times",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZOEhYNmVDcC1SeThsOTRoNVlUMjhrR3E4dlhkdlhJNDVUN0V3TVZ1bG9mUDRraS0tREFDVzg5TWRmYWlBRURoQ1ZxNXp4Nkx4cTdUdU5sY2J3TS1vUkFKRHhR?oc=5",
-      "source": "globaltimes.cn",
+      "source": "Global Times",
       "feed": "Pacific News Network",
       "region": "亚洲",
       "publishedAt": "2026-08-07T11:43:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
-      "id": "d651d0744f74"
-    },
-    {
-      "title": "First school for robots opens in China",
-      "summary": "\"Our main goal is to empower robots' brains.\" China has launched its first robot school.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-07T11:33:28.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 75,
-      "id": "a3de5f6a0cd6"
+      "score": 74,
+      "id": "01b32bd34f73"
     },
     {
       "title": "Dogs to be euthanised after man dies following suspected animal attack at rural Sydney property",
@@ -575,7 +601,7 @@
       "publishedAt": "2026-08-07T08:40:57.000Z",
       "image": "https://i.guim.co.uk/img/media/8fae3335b5e3af4f9c1bfb011b6dcd2ab1126055/893_0_4796_3837/master/4796.jpg?width=140&quality=85&auto=format&fit=max&s=d4a58fe59d0edcf8ea2fce1913abf703",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "ddad860ade9e"
     },
     {
@@ -588,8 +614,21 @@
       "publishedAt": "2026-08-07T05:51:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "fc6a638630bd"
+    },
+    {
+      "title": "Pacific unity tested in Fiji as Forum ministers fail to agree on China missile test response",
+      "summary": "Pacific unity tested in Fiji as Forum ministers fail to agree on China missile test response &nbsp;&nbsp; Pacific Media Network",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUTVNemNPR2t3STJETVJHX3BNRlN4M3c1dkowcERTOE00MFE2UkpNU1BmVjd2dExSZ0tUX285cVJOSEJnS21qcTQ5ZlhJWUlzZGZJRVU1VGl1aVloWjVMM0ZnZkNXaDhzeklDQk42ejFQRkpmMUtXNl9qSUhnWWZtMkxTZ2NTSXZmby1HVlVFcGZtWDMzSVQ5Vl9zZldTSlE1ZlMwR0NUdElKSE1SWF9rckw2VHBJU0RPUHhnaXhwZjBZOTJIMS1CczN3?oc=5",
+      "source": "Pacific Media Network",
+      "feed": "Pacific News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-07T05:50:17.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 74,
+      "id": "09e38ca747a5"
     },
     {
       "title": "Why was Taiwan’s president evacuated in the middle of the night?",
@@ -601,8 +640,34 @@
       "publishedAt": "2026-08-07T04:52:19.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/790d/live/48a9d250-921a-11f1-af4d-5164294a85c7.jpg",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "ebd4ce8a16d3"
+    },
+    {
+      "title": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos",
+      "summary": "Authorities suspect narcotics dealers and gang rivalries are behind prison violence at facilities in Sri Lanka.",
+      "url": "https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-07T15:10:22.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 73,
+      "id": "60751546c44f"
+    },
+    {
+      "title": "ICE will not reveal body-camera footage unless in agency’s ‘best interests’",
+      "summary": "Much-delayed devices to be deployed by end of month after immigration agents involved in deaths or serious injuries Officers for Immigration and Customs Enforcement ( ICE ) will be equipped with much-delayed body cameras by the end of next month, it was reported on Friday. But experts have questioned the transparency of a policy that allows the ICE director ",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/ice-body-cameras-footage-release",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-07T15:08:26.000Z",
+      "image": "https://i.guim.co.uk/img/media/ce3c539d0209900c23b480386b25991bc491c0ad/482_400_2834_2267/master/2834.jpg?width=140&quality=85&auto=format&fit=max&s=0db3bdd302be2ffd3b53aba3b86e219b",
+      "topic": "社会",
+      "score": 73,
+      "id": "fbbaa5720c48"
     },
     {
       "title": "UK politics: Labour minister denies Burnham ‘too blokey’ – as it happened",
@@ -614,21 +679,21 @@
       "publishedAt": "2026-08-07T14:31:06.000Z",
       "image": "https://i.guim.co.uk/img/media/3c5d6bc7f7f215301e67cc17c530b8d6c8055e42/778_0_5720_4576/master/5720.jpg?width=140&quality=85&auto=format&fit=max&s=f4ca6ee2086f57ad75d287b4429cc86c",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "7019e9c26553"
     },
     {
-      "title": "Imade",
-      "summary": "A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart.",
-      "url": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss",
+      "title": "First school for robots opens in China",
+      "summary": "\"Our main goal is to empower robots' brains.\" China has launched its first robot school.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-07T14:18:53.000Z",
+      "region": "亚洲",
+      "publishedAt": "2026-08-07T11:33:28.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "ad7ccd8bc941"
+      "topic": "科技",
+      "score": 73,
+      "id": "a3de5f6a0cd6"
     },
     {
       "title": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
@@ -640,7 +705,7 @@
       "publishedAt": "2026-08-07T11:15:44.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "7d01464ccaad"
     },
     {
@@ -653,7 +718,7 @@
       "publishedAt": "2026-08-07T11:03:01.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "6c5ce7b63edf"
     },
     {
@@ -666,34 +731,47 @@
       "publishedAt": "2026-08-07T10:56:19.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "f4da49452f8b"
     },
     {
-      "title": "Africa backs Infantino as CAF unanimously votes in FIFA president’s favour",
-      "summary": "CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA's Gianni Infantino.",
-      "url": "https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss",
+      "title": "Imade",
+      "summary": "A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart.",
+      "url": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "非洲",
-      "publishedAt": "2026-08-07T07:44:06.000Z",
+      "region": "欧洲",
+      "publishedAt": "2026-08-07T14:18:53.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "bfb4133506a0"
+      "topic": "社会",
+      "score": 72,
+      "id": "ad7ccd8bc941"
     },
     {
-      "title": "Europe's heatwave rages on",
-      "summary": "Europe's heatwave rages on &nbsp;&nbsp; The Express Tribune",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DdFA1dkxlMFFQN0JhRk5wd3Q5V2lLdHFoZkNrTnMtU1lMODRuNHRYMWZhX21UUnl0RllEWXpqVE9XQTMzZlQ5WGltdUVWQkZoYldya2VRUERFVFRQb3BQaXJXRjB3NU9icGt4M05Vd9IBd0FVX3lxTE9nS0gtRTRNdURtZm44SVE4UU96X25tNjNySEZsTFVqTWJKNWstWjNkU29jOHZINzAyYzRTWGZkcUtXRDlkMWxyVW1OUG9nSGg0U3lUSFNDcmNCdGw4OW9qaU81NWFhOTdCM1BDUTdFMFd5c2R0b3ZR?oc=5",
-      "source": "The Express Tribune",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-07T04:38:55.000Z",
+      "title": "Unprecedented El Niño 'just getting started', Kiwis warned to prepare",
+      "summary": "Unprecedented El Niño 'just getting started', Kiwis warned to prepare &nbsp;&nbsp; NZ Herald",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUjAwYUpuTkNEVzhiZmlPV3BCSHZtOEFPblNmQjVPSlRVdWZ0b2NIY3RKMEpKWXlnVTQtMGc0Sm55N1lKMnA5RDQwZWprVVRFLWhTWW1oMjNKLVlYdEVYWFFQeWJtbDM2R2R0RzZEaW16M1dMOVBoSWhBVV9FT20zNjNob25CSms3SE1MNUJydzJmbjVsVTlYSnozU2dyOWFWVGs5enZYeVIxdjBwZ0d4WGhSZXJldzd6QWg1ZWJSUWN6QkZjSEhsQWNjV1hBZw?oc=5",
+      "source": "NZ Herald",
+      "feed": "Pacific News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-07T13:52:30.000Z",
       "image": "",
-      "topic": "气候",
-      "score": 74,
-      "id": "6c70ff702abb"
+      "topic": "政治",
+      "score": 72,
+      "id": "b3bd5adae56d"
+    },
+    {
+      "title": "Pupil kills ‘at least six’ in shooting at high school in Thailand",
+      "summary": "Pupil kills ‘at least six’ in shooting at high school in Thailand &nbsp;&nbsp; breakingnews.ie",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR3BDV2dRMmZQVU5ZcTU5aTRHOXI1enBBMWFpU3RGT25jR0RKbGdKLWJBSzdTaGlaUWk5ZHIwRFJGVnZDOUoxRWdvUHlOUU1oN1RGdG0tZ3p6VHNwek10STE2dE5GM1ZGRWZwNkJnQWxVTjhoZlA2LWkybWg4QzktRHJkUnRUMHdWanlTcEFKVGc3cGg4Ul8tNU9pNTBwQVdjSDJmV1hJSTJNVlgtZzRz?oc=5",
+      "source": "breakingnews.ie",
+      "feed": "Latin America News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-07T13:49:49.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "3ef5709146bb"
     },
     {
       "title": "Israel indicts settler over death of Palestinian activist who worked on No Other Land",
@@ -705,7 +783,7 @@
       "publishedAt": "2026-08-07T13:49:18.000Z",
       "image": "https://i.guim.co.uk/img/media/378b33aad444e6c1b0901fcc8d8745ab9e0cacf4/300_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=a0301ca33a3e422ca71a2f48adc54e40",
       "topic": "经济",
-      "score": 73,
+      "score": 72,
       "id": "92fb948b7b7b"
     },
     {
@@ -718,8 +796,73 @@
       "publishedAt": "2026-08-07T13:47:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "eaa0672e3ae7"
+    },
+    {
+      "title": "Why Europe is turning against immigration",
+      "summary": "Why Europe is turning against immigration &nbsp;&nbsp; The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSTZIMmxNYW41YXlxY2o3UUtMaWRSQVpBbXpPeXlCTEk1ci1DRnFFdm4zV0RVa2l5YUZNV2UxQk83c1JPaEpNa0FtQ21yR1dPNGU0Q3ZiUjJVaUM4UWhreloxUUVFRVhEOWdtX3ZPd1FwZzVPclpOeUVoUjV0RXFjUkZkanlDUHlZeXJKZ1VobEx2cXRua2prYUx3bXVwOUFfYlN1dXNHbW9WdEcyd2p3NDFRYW5aZ0nSAbwBQVVfeXFMUEduVHFtbEJFNnY5MW1BYm02NUx5T2hBNk45SklqVnYxWkZhMUk1NkJqbmZkb2dxdXRHLVZSUUR3TV94TzU0amlMLUlDNlFCaEJrUkVrRFRvVUswM0NsYUk1d2pRaWlHRVVOVzBmUUZfaGhjRmUtYWU5MVJrd251UWF4MW9XdFROTUQ5bEVqbUlqME1uZTZVOUMwYWVPeDVVVUE4eWpXa2FidDBJRUp6NV8tQTVYaE1jNVJneVc?oc=5",
+      "source": "The Times of India",
+      "feed": "Europe News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-07T13:46:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "529bbfae32e3"
+    },
+    {
+      "title": "South Africa: No, 2 Million Doses of HIV Medication Have Not Gone Uncollected Since Anti-Migrant Protests in South Africa",
+      "summary": "South Africa: No, 2 Million Doses of HIV Medication Have Not Gone Uncollected Since Anti-Migrant Protests in South Africa &nbsp;&nbsp; allAfrica.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hbk0wQWxRam9JX2NDTFNjNU5oaW5zWnhoT2lCeFBUX1BnTzdoYXZoSlNXcUU5cjVUZkxsdE9GVi1DdlZ3aUxNTmpZMzNtbnJ6SG5YNUFmcW0zQU0?oc=5",
+      "source": "allAfrica.com",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-07T13:22:48.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 72,
+      "id": "a79752c3b9b6"
+    },
+    {
+      "title": "Putin discusses Middle East with UAE president",
+      "summary": "Putin discusses Middle East with UAE president &nbsp;&nbsp; Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX3BSU0E1ZVBJZF9xRG1kTXpKc3JXMUdTcHZ3WVZfU1RnYXY4XzlNWmZPWjJSUW9JTXFlZnJHaF9uRU1zcU83eVZVNDZtRzlNMjBXTV9tUlV6VXAxQkdldEVzRVZXVzNHeTcweEllZG0yb19zTWJqWk9UUW1ycW1BMzVXcGN1RHpJSXVCNGFzd0x0cUtFcFE?oc=5",
+      "source": "Breakingthenews.net",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-07T10:03:00.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 72,
+      "id": "017bcff95559"
+    },
+    {
+      "title": "Europe's heatwave rages on",
+      "summary": "Europe's heatwave rages on &nbsp;&nbsp; The Express Tribune",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DdFA1dkxlMFFQN0JhRk5wd3Q5V2lLdHFoZkNrTnMtU1lMODRuNHRYMWZhX21UUnl0RllEWXpqVE9XQTMzZlQ5WGltdUVWQkZoYldya2VRUERFVFRQb3BQaXJXRjB3NU9icGt4M05Vd9IBd0FVX3lxTE9nS0gtRTRNdURtZm44SVE4UU96X25tNjNySEZsTFVqTWJKNWstWjNkU29jOHZINzAyYzRTWGZkcUtXRDlkMWxyVW1OUG9nSGg0U3lUSFNDcmNCdGw4OW9qaU81NWFhOTdCM1BDUTdFMFd5c2R0b3ZR?oc=5",
+      "source": "The Express Tribune",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-07T04:38:55.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 72,
+      "id": "6c70ff702abb"
+    },
+    {
+      "title": "Heat deaths top 25,000 in Europe as scorching weather persists",
+      "summary": "Heat deaths top 25,000 in Europe as scorching weather persists &nbsp;&nbsp; Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbl8xSmVUOVN2U3IzV2stZW5xS0M5SFdfOEV5akxmM3ZDejFZWkRLTm1hYjFmMXlrSWZCOE0zSWJoRE40Z0lBajV0S2RKVEtRem5uNm9kLXVWakZtNnBLVmMzYkxBSUpCdzdBWllNYk5Xc3pYSXBPb05zb19rT1dBNEhrV2ZjOGdON09LVGpVQk80NXc4OHZpZWNuaWNnblFPX2czUjlSVjBDS2JQc2dsWDdEM2wxdw?oc=5",
+      "source": "Los Angeles Times",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-07T16:35:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "64d2a2fc7fcb"
     },
     {
       "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
@@ -731,7 +874,7 @@
       "publishedAt": "2026-08-07T13:32:41.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5720/live/f30947f0-9240-11f1-8a95-af174e9f8ab7.jpg",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "b7931a26505d"
     },
     {
@@ -744,60 +887,8 @@
       "publishedAt": "2026-08-07T13:30:43.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "2dfa849c167a"
-    },
-    {
-      "title": "Colombia’s new president joins a right-wing wave facing tough reality",
-      "summary": "Colombia’s new president joins a right-wing wave facing tough reality &nbsp;&nbsp; The Derrick",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYmowRjZ4WFdFb1lDbzhOMEhuZEs0b3U4RlhBMFdGeC1iRDlFQ0RRa2U4TTBTcmw2ZE8zR0w4UVdpRFBYYjcwaXBIcEI3cmpsLXlpTVhQUkc5b0tjMWdISW5sQ2RSSkJxNldRV05NQVRNa1A2ZElPUVhmUEh0MWlreGluQXVJbjZxeVJmS1NZbjRLNU5Nb3U4WkRlY3Rvd2VWTmJPSEt4bk9lQTlnREIyWHB4ek96SW1YZkhzd2tqS0QwZFhaeFlybjkzSFV2Q3lGdXZOREN1SWt2cFVqMV84WFhNV09jZi1QSkZVOHBOeEIwWm44QndGMw?oc=5",
-      "source": "The Derrick",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-07T13:18:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "54d1696d8284"
-    },
-    {
-      "title": "Putin discusses Middle East with UAE president",
-      "summary": "Putin discusses Middle East with UAE president &nbsp;&nbsp; Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX3BSU0E1ZVBJZF9xRG1kTXpKc3JXMUdTcHZ3WVZfU1RnYXY4XzlNWmZPWjJSUW9JTXFlZnJHaF9uRU1zcU83eVZVNDZtRzlNMjBXTV9tUlV6VXAxQkdldEVzRVZXVzNHeTcweEllZG0yb19zTWJqWk9UUW1ycW1BMzVXcGN1RHpJSXVCNGFzd0x0cUtFcFE?oc=5",
-      "source": "Breakingthenews.net",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-07T10:03:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "017bcff95559"
-    },
-    {
-      "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
-      "summary": "The UK and France are not seeking confrontation with Iran in the US-Israeli war Europe largely rejected, say analysts.",
-      "url": "https://www.aljazeera.com/news/2026/8/7/european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-07T10:00:56.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "969d03374dfe"
-    },
-    {
-      "title": "US Releases New Video Showing UFO Spotted Over Middle East in 2025",
-      "summary": "US Releases New Video Showing UFO Spotted Over Middle East in 2025 &nbsp;&nbsp; latestly.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRUMtWjlFSktkM1N5c0RERDE3UVZQaHB5MWZfS0R0WW1lNTN0aU11aFMzM1JhbnFBczg1T211bmhqYVBsSVJ4bmM0alE1Z1B3bnhYUE5Ra1I2OFdBN2ZqQ056NEk1OW9wMHhTUTRtSl9MQ2tFU2dyRzViR2s3a3NhT1lfY1EtWGNWbGZtQ004SFhQUjV2azN5cG1jbThjUzZXRVVoelRGc0tSRU3SAbABQVVfeXFMTVd2ZkNYa3RmTldZamQyRDZPQlpUVHJnYjB1aUtIV2pOVldKWW8tbkoxSEZKMHR5R19RUHhVNmJIZ2VSY0pqQU1qMHNILU1qMWlNRHFabkpIb3R6N2ZGcnpOREFRSWthSms2d1ZVWk82ZzEwNVZuQ0NoZzNsOUlad2tjSTVnaHB2ZDVic3lwZGhfYkd1VnpyczJtZGhWbjVQcXNRZEYyTkNROFVhX2R6TDM?oc=5",
-      "source": "latestly.com",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-07T15:58:14.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "21d8303b878a"
     },
     {
       "title": "Armenian Apostolic Church leader faces trial as feud with PM deepens",
@@ -809,7 +900,7 @@
       "publishedAt": "2026-08-07T13:03:54.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "078c3f92d9b7"
     },
     {
@@ -822,21 +913,8 @@
       "publishedAt": "2026-08-07T09:06:21.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "0cac068b9b8d"
-    },
-    {
-      "title": "Kallas: EU expands Russia sanctions list",
-      "summary": "Kallas: EU expands Russia sanctions list &nbsp;&nbsp; Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXFRTUFxODFjUnRGcmM3cjVyUl8wRHJ2LXYxMFdDa1FzMy11U1FyR2l6MkRoNVlKa3lqRGF4TlplMS1yUTRGTks3RGVtMmJLN0p3dDlGLUJOTWZxVk14OVNiaG1vbjdobllMRkRiT2Ric3JYOHJqa1hCQlZzNjZpeGt0X2RIUU9oRUE1bnNR?oc=5",
-      "source": "Breakingthenews.net",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-07T08:55:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "56a5a8bdb1a8"
     },
     {
       "title": "Man killed in suspected dog attack may have been an intruder, police say",
@@ -848,99 +926,21 @@
       "publishedAt": "2026-08-07T06:20:02.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/ddebfa8e6d15f192a5d8030fffade4f2?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "326f18399855"
     },
     {
-      "title": "South Africa Cannot Afford Another Policy Experiment With Eskom",
-      "summary": "South Africa Cannot Afford Another Policy Experiment With Eskom &nbsp;&nbsp; Central News South Africa",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc3BZX2dfS2sxTUt0TnRFaUJRcl81YlBQd2wzdFB6Ml9YcVBndDd1Z3NyQ0R2VU1Fd0xxVGZLeUFVY3k4aEktVDJtMFltamhLdVpUVGxpbW1hNEZ4X1U4anZnNnB6LVMzbjJ6bXZ6VHY4V1NQYTVFQklLeF9ZNGpkQ3J6QmhKSGtBS3luSTBVY2xTT2Rw?oc=5",
-      "source": "Central News South Africa",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-07T15:37:49.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "cb48d6d197f8"
-    },
-    {
-      "title": "Week 32: Asia Top Startup Funding Rounds Led by Acrab",
-      "summary": "Week 32: Asia Top Startup Funding Rounds Led by Acrab &nbsp;&nbsp; Techloy",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IUlFjOVdlam9fTFBYWmMxcUpTT0M4NkNQdnZlY2pjWF9qQmhXeHlnNVZlNTZ5WTNHVmRGdjF3WFlqRFYxb2M1eXIyS3NxSFcxTjhfbWUweVd4SGlaSlpVSTNBRQ?oc=5",
-      "source": "Techloy",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-07T15:31:54.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "378214804903"
-    },
-    {
-      "title": "Week 32: Latin America Top Startup Funding Rounds Led by Decade",
-      "summary": "Week 32: Latin America Top Startup Funding Rounds Led by Decade &nbsp;&nbsp; Techloy",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81YU1vS244RmF2RVlLTURKRkNWRzlKbktJdElfcEVnNEw1c05GVklnNHUyekRUaDJOSmRBT09OUm5YLWNuS1pXaFdJZ1FjTm9XUnlNR1B0d0d2c1hKbGI5V3RTMkM?oc=5",
-      "source": "Techloy",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-07T15:31:54.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "908b5b2815aa"
-    },
-    {
-      "title": "Serbia races to contain wildfires as Europe's blistering heat wave grips the Balkans",
-      "summary": "Serbia races to contain wildfires as Europe's blistering heat wave grips the Balkans &nbsp;&nbsp; Newsday",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObzZrTWRJZ29fZVBub0xiWnBKYmRMd09vdGFuWWN2TmNnMmlBNkdMaUJ5ZUZmX09WbWV2dkJSWXpHZ01WdkhKa1dHR19PeVFmTW1PU21RbWo0MVd2c0h5NC1KTm9CRzhXVk1ZdDNFUHJpUThLZHU3dmdEYnVlSXdnc0JvUHNOMnktd2NaTQ?oc=5",
-      "source": "Newsday",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-07T15:23:08.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 71,
-      "id": "4d93cf1bd9a1"
-    },
-    {
-      "title": "Iran’s grip on trade is a potent weapon, but it has an expiry date",
-      "summary": "Iran can exploit dependence on Hormuz today, but prolonged disruption will erode that leverage",
-      "url": "https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
+      "title": "US Releases New Video Showing UFO Spotted Over Middle East in 2025",
+      "summary": "US Releases New Video Showing UFO Spotted Over Middle East in 2025 &nbsp;&nbsp; LatestLY",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRUMtWjlFSktkM1N5c0RERDE3UVZQaHB5MWZfS0R0WW1lNTN0aU11aFMzM1JhbnFBczg1T211bmhqYVBsSVJ4bmM0alE1Z1B3bnhYUE5Ra1I2OFdBN2ZqQ056NEk1OW9wMHhTUTRtSl9MQ2tFU2dyRzViR2s3a3NhT1lfY1EtWGNWbGZtQ004SFhQUjV2azN5cG1jbThjUzZXRVVoelRGc0tSRU3SAbABQVVfeXFMTVd2ZkNYa3RmTldZamQyRDZPQlpUVHJnYjB1aUtIV2pOVldKWW8tbkoxSEZKMHR5R19RUHhVNmJIZ2VSY0pqQU1qMHNILU1qMWlNRHFabkpIb3R6N2ZGcnpOREFRSWthSms2d1ZVWk82ZzEwNVZuQ0NoZzNsOUlad2tjSTVnaHB2ZDVic3lwZGhfYkd1VnpyczJtZGhWbjVQcXNRZEYyTkNROFVhX2R6TDM?oc=5",
+      "source": "LatestLY",
+      "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-07T12:28:52.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 71,
-      "id": "9ba211a7e59d"
-    },
-    {
-      "title": "Ariha Pangambam Wins India's First Asian Aerobic Gymnastics Championships Gold",
-      "summary": "Ariha Pangambam Wins India's First Asian Aerobic Gymnastics Championships Gold &nbsp;&nbsp; latestly.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM0VkZDJURXRteTJkMENkeUxEcFNTZGFHMDlQaXJ6b1ZsTWpDX01KcGJvYXZiNUliQTFmS0dlLWhvUzI2dVZhcTQxVngtWWlSOHE3MGlKUUhmbmxLeUhFdVlnNGJpbnFIX180WF9aTi1tMFVxSGNncTE4VXo5M2M3cEhxNG16Yi1TY2tHRFZkUFQwQmNPYjh2aUtoSmc5aFZmcEQ4Z2pNRmtSdVhzdlNHanloOElJRGJnenJrb3R2MNIBxAFBVV95cUxNUUVvSVVhN0tzWGlOUWV2M0RxWEpqRWlpLU1UYjVDN2dlTzZ5em9ncU9yTjAtUzBNUGIzV19GLUhXVHl6SXlXeFZ2eHU3aUZrNGhEak01dmd4UDdrUzFxVGdNMTl2WDZJUFM5VjAwOFB6NGdmU3MxMzJLN2hDbjlTNW5tSjFvWnZJSDNWaUZ5U2NYOHhkbFdkYTNUY2JHQ2k2SnhnVWxxWWlvSHZobXJaNjFRWHJVTkdBb0NOOThFZmRqUWt2?oc=5",
-      "source": "latestly.com",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-07T12:27:48.000Z",
+      "publishedAt": "2026-08-07T15:58:14.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
-      "id": "832347e0a323"
-    },
-    {
-      "title": "Argentina and Mexico join Africa in backing FIFA’s Infantino: What to know",
-      "summary": "How does FIFA presidency stand? Norway wants resignation, but Argentina and Mexico join Africa in Gianni Infantino camp.",
-      "url": "https://www.aljazeera.com/sports/2026/8/7/fifas-infantino-backed-by-argentina-and-mexico-deepening-world-cup-divide?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-07T12:23:03.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "6ee12f6ed01f"
+      "score": 70,
+      "id": "c982bbc044a2"
     }
   ]
 }
