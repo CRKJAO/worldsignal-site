@@ -1,11 +1,24 @@
 {
-  "updatedAt": "2026-08-08T10:53:19.883Z",
+  "updatedAt": "2026-08-08T11:46:59.254Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+      "summary": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off.",
+      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-08T10:19:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136a/live/52b81650-930d-11f1-a52f-31e1c3a4e20b.jpg",
+      "topic": "社会",
+      "score": 90,
+      "id": "23bc90019546"
+    },
     {
       "title": "Todd Blanche confirmed as US attorney general after divisive hearing",
       "summary": "The vote follows a tumultuous confirmation fight that exposed concerns — from some Republicans as well as Democrats — about putting Donald Trump's former defence lawyer in charge of a Justice Department that historically prides itself on its independence from the White House.",
@@ -16,21 +29,8 @@
       "publishedAt": "2026-08-08T09:14:12.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7e30deb5be783c9b7abb940ea795a71b?impolicy=wcms_crop_resize&cropH=2166&cropW=3850&xPos=0&yPos=151&width=862&height=485",
       "topic": "社会",
-      "score": 90,
+      "score": 89,
       "id": "54784c3f5318"
-    },
-    {
-      "title": "Trump loyalist Todd Blanche confirmed by Senate as US attorney general",
-      "summary": "Major win for president as former personal lawyer wins approval despite outcry over $1.8bn slush fund The US senate voted to confirm Todd Blanche as attorney general in a major win for Donald Trump, who will now have his one-time personal attorney sitting atop the nation’s law enforcement apparatus. Senator Bill Cassidy of Louisiana cast the deciding vote in",
-      "url": "https://www.theguardian.com/us-news/2026/aug/08/todd-blanche-attorney-general-confirmed",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-08T08:47:19.000Z",
-      "image": "https://i.guim.co.uk/img/media/6d18738f903273d07d91da4239cb4099cd2d11b3/432_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=1b31d083af94ef40a1431d5ebe05197e",
-      "topic": "政治",
-      "score": 90,
-      "id": "dd40118efc48"
     },
     {
       "title": "Child among three killed in Russian missile attacks near Kyiv",
@@ -42,8 +42,73 @@
       "publishedAt": "2026-08-08T06:12:56.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
       "topic": "政治",
-      "score": 88,
+      "score": 87,
       "id": "bb13025ecf3b"
+    },
+    {
+      "title": "Saudi Arabia, Pakistan and Turkey sign defense deal, raising some alarm in the Middle East (Video)",
+      "summary": "Saudi Arabia, Pakistan and Turkey sign defense deal, raising some alarm in the Middle East (Video) &nbsp;&nbsp; Social News XYZ",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVVE0bzVsOHhPVUtqOXZvQ0hyZGhTWmg5SUdIaWkwWG1nTUl0TFBBcmpPcUFEeXVKalBwVFMzS3lvZ2VvSjhSS0xBNVhnZ2NZY25XcGxFUDRSQTVVdjVxTUk3aGVOVWFKbGVnZzZZUVhVZXAzVHczR3V3bGJ6Z1pKMDVNTTJ3cDNNYWJ2MTF2cDBwUTktakgzYWx6T19pTkc2UTZSNHcxUU8zamlZQS0tdTVFYXZ3UGpqa0MzUV9oTTF3RTZCTDFwS1VFNE50UdIBzgFBVV95cUxNVVE0bzVsOHhPVUtqOXZvQ0hyZGhTWmg5SUdIaWkwWG1nTUl0TFBBcmpPcUFEeXVKalBwVFMzS3lvZ2VvSjhSS0xBNVhnZ2NZY25XcGxFUDRSQTVVdjVxTUk3aGVOVWFKbGVnZzZZUVhVZXAzVHczR3V3bGJ6Z1pKMDVNTTJ3cDNNYWJ2MTF2cDBwUTktakgzYWx6T19pTkc2UTZSNHcxUU8zamlZQS0tdTVFYXZ3UGpqa0MzUV9oTTF3RTZCTDFwS1VFNE50UQ?oc=5",
+      "source": "Social News XYZ",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-08T09:13:54.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 85,
+      "id": "9624f65f7346"
+    },
+    {
+      "title": "Nazi shipwrecks emerge from the depths as Europe’s Danube dries up",
+      "summary": "Unexploded ordnance and a military motorcycle also recovered owing to record heat and drought conditions Record-low water levels in the Danube have exposed remnants of Europe’s Nazi past, with dozens of second world war warships emerging from the riverbed during an intense drought. In the middle of the river on the Serbian and Romanian border, a broken-up hu",
+      "url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-08T10:55:15.000Z",
+      "image": "https://i.guim.co.uk/img/media/8027c1fdddf706a9e01ebcddb107c82840683794/264_0_2638_2111/master/2638.jpg?width=140&quality=85&auto=format&fit=max&s=109c582d253efd2bd5c417eb72fb8c66",
+      "topic": "政治",
+      "score": 84,
+      "id": "45744457c82e"
+    },
+    {
+      "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
+      "summary": "Instead of scrapping its network of bomb shelters after the Cold War, Switzerland kept building them. The country has more than 370,000 nuclear bomb shelters. Some are now used to house migrants.",
+      "url": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "美洲",
+      "publishedAt": "2026-08-08T11:01:00.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 83,
+      "id": "f9d3a0050915"
+    },
+    {
+      "title": "Live Updates: Latest from Israel, Iran, and Middle East",
+      "summary": "Live Updates: Latest from Israel, Iran, and Middle East &nbsp;&nbsp; The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FTWE4TWRhUjhlbHpZdUJKVERKV2p4X1E1N29XcllYRXktZHczbkgzck8tM1paa3VhalMwbXRUdWZlVHo2Z3hIbnNJbFNlaElpMnlZVzdYcFZRM3FiYlZiMGRBT0VoVTM4Y3NIb08zR094NXBsVi1TZ21iVEdjbE0?oc=5",
+      "source": "The Jerusalem Post",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-08T11:00:05.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 83,
+      "id": "acf88d717071"
+    },
+    {
+      "title": "Trump’s former personal lawyer narrowly confirmed as US attorney general",
+      "summary": "US Senate confirms Todd Blanche in narrow vote despite concerns over independence of office.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-08T10:36:10.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 83,
+      "id": "4ac09f9a5126"
     },
     {
       "title": "Bluster and backdown have turned Iran war into Trump’s own Groundhog Day",
@@ -55,21 +120,47 @@
       "publishedAt": "2026-08-08T09:00:43.000Z",
       "image": "https://i.guim.co.uk/img/media/636bbed858110f0ae16e7427aa28a757460c79c8/1_0_2664_2132/master/2664.jpg?width=140&quality=85&auto=format&fit=max&s=cf9a5800e8077a2787185c48e53250c0",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "73f72da1efdb"
     },
     {
-      "title": "Blanche ‘honored’ after Senate confirms him as US attorney general in narrow vote – US politics live",
-      "summary": "Donald Trump’s former defense lawyer confirmed by 50 votes to 49 early on Saturday morning, with senators deferring action on president’s voting bill until after recess Senator Bill Cassidy of Louisiana said he was undecided about whether to vote to confirm Todd Blanche as the attorney general as late as last Wednesday. “I’ve got to be convinced that he is a",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/08/todd-blanche-attorney-general-senate-vote-republicans-save-voting-bill-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-08T10:31:47.000Z",
-      "image": "https://i.guim.co.uk/img/media/9fae543c34f6f9a75db001757c800ee001016d3f/160_0_3336_2669/master/3336.jpg?width=140&quality=85&auto=format&fit=max&s=84c74586ff991e2b622baa25c03f6217",
+      "title": "Woman screams for her man as Ukraine war recruiters pounce",
+      "summary": "Viral video fuels concerns over Ukraine’s ‘busification’ and alleged abuse by recruitment officers.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-08T11:29:44.000Z",
+      "image": "",
       "topic": "政治",
       "score": 80,
-      "id": "0cea602269ff"
+      "id": "2f8b6be6de70"
+    },
+    {
+      "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
+      "summary": "Britain’s spooks take quiet satisfaction from survey ranking Secret Intelligence Service Europe’s top espionage agency MI6 has the swagger of James Bond; its French equivalent, DGSE, the complexities of the television drama Le Bureau. The film and TV shows may be fictional, but a survey run by a French magazine that placed the British spy agency above the Fr",
+      "url": "https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-08T11:00:44.000Z",
+      "image": "https://i.guim.co.uk/img/media/86981582763714b0d85cd7b666f6ba65de35e472/0_262_3312_2650/master/3312.jpg?width=140&quality=85&auto=format&fit=max&s=d64051c05a8556a0baa98f9dfb64aa5b",
+      "topic": "社会",
+      "score": 79,
+      "id": "a5520fc15e8b"
+    },
+    {
+      "title": "Live Updates: War returns to Iran with Israel, US strikes",
+      "summary": "Live Updates: War returns to Iran with Israel, US strikes &nbsp;&nbsp; Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5",
+      "source": "Dawn",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-08T09:55:11.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 78,
+      "id": "f2a7d64b0571"
     },
     {
       "title": "High divers take the plunge in Paris for a new test of reclaimed Seine’s water",
@@ -81,7 +172,7 @@
       "publishedAt": "2026-08-08T09:00:44.000Z",
       "image": "https://i.guim.co.uk/img/media/19973ee662f6750aafe1b450520fdeee330f96b6/1048_234_4707_3766/master/4707.jpg?width=140&quality=85&auto=format&fit=max&s=bd6628e73bf2c9eff817ebbd9b678f78",
       "topic": "科技",
-      "score": 78,
+      "score": 77,
       "id": "1637f7b0cb05"
     },
     {
@@ -94,7 +185,7 @@
       "publishedAt": "2026-08-08T09:00:43.000Z",
       "image": "https://i.guim.co.uk/img/media/f3f2322a6aaf7576a948922a0346fee3fa972217/283_0_2952_2361/master/2952.jpg?width=140&quality=85&auto=format&fit=max&s=47e0145dcfb55805b11a6aa9b67c89d9",
       "topic": "气候",
-      "score": 78,
+      "score": 77,
       "id": "c8b9a2490a71"
     },
     {
@@ -107,21 +198,34 @@
       "publishedAt": "2026-08-08T08:50:49.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "dc760098efb9"
     },
     {
-      "title": "Live: Wallabies new era given rude welcome by attacking Japan in first Test",
-      "summary": "Les Kiss takes the reins as Wallabies coach for the first time, with Australia facing Japan in Osaka.",
-      "url": "https://www.abc.net.au/news/2026-08-08/wallabies-vs-japan-first-test-live-scores/106999438",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
+      "title": "Families retrieve bodies after deadly shooting rampage outside Bangkok",
+      "summary": "Thailand has one of the highest rates of gun ownership in Asia.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
       "region": "亚洲",
-      "publishedAt": "2026-08-08T08:30:56.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/4d21d950d7e43cdfbce5f3655c71344f?impolicy=wcms_crop_resize&cropH=2000&cropW=3556&xPos=0&yPos=185&width=862&height=485",
+      "publishedAt": "2026-08-08T11:31:57.000Z",
+      "image": "",
       "topic": "社会",
-      "score": 77,
-      "id": "52d551233009"
+      "score": 76,
+      "id": "c646e9a71bc8"
+    },
+    {
+      "title": "Blanche AG confirmation allows Trump to continue ‘pervasive, breathtaking corruption’, says Schumer – US politics live",
+      "summary": "Senate minority leader condemns Republicans after Donald Trump’s former defense lawyer was confirmed by 50 votes to 49 early on Saturday morning Adding to Chuck Schumer’s comments, New Mexico’s Democratic representative Melanie Stansbury said the confirmation of Todd Blanche as attorney general represents a “dark moment” for the nation’s traditional system o",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/08/todd-blanche-attorney-general-senate-vote-republicans-save-voting-bill-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "美洲",
+      "publishedAt": "2026-08-08T11:26:33.000Z",
+      "image": "https://i.guim.co.uk/img/media/9929feb6f224df63c95a1032463f390dd8b086fb/680_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=5ae35ec9670d6ced26dabc8c40c8b4bc",
+      "topic": "社会",
+      "score": 76,
+      "id": "05741c7661fe"
     },
     {
       "title": "Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland",
@@ -133,34 +237,99 @@
       "publishedAt": "2026-08-08T08:06:35.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "e4ad473f2ece"
     },
     {
-      "title": "Russian strikes near Ukrainian capital kill three, including child",
-      "summary": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
-      "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-08T04:18:45.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 77,
-      "id": "b721b0e19f3f"
-    },
-    {
-      "title": "Yemen's army attacks Houthis, Turkey's Kurdish peace bill wins approval, and other Middle East news",
-      "summary": "Yemen's army attacks Houthis, Turkey's Kurdish peace bill wins approval, and other Middle East news &nbsp;&nbsp; Newsday",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVW94Ry1neUxSNy1BZWZQcGFiTHlSUGVCSHRSYjREMExGTWlnQ2FmX3ZjR0xRY09jblMyeElPeWttWUM3NGotQ0JTNWxtbnZKSjBHUHZFSGI2N1IyQVc3TjEySHBTbFpORHh3dHJLLW1sSFhZUm1scEQ0ckFDNXdRbWN3ZUtldm9YZ3FxdnRrZ1licWliRUxzazk0dFdxdjJ2VGFqdDNuSQ?oc=5",
-      "source": "Newsday",
+      "title": "Trump LIVE: Trump's Explosive Iran Warning Puts Middle East On Brink; War 2.0 Hours Away? Celta Vigo - Levante (49tlvYVQEb)",
+      "summary": "Trump LIVE: Trump's Explosive Iran Warning Puts Middle East On Brink; War 2.0 Hours Away? Celta Vigo - Levante (49tlvYVQEb) &nbsp;&nbsp; Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5QjI2QTIwYkJUUERxNkh2NDQ4N0cxZmRJSHJCekgtOFFrWk9US3FDM2hMRTIwVmtrVEZnY0dDNGRzT0pfSWQwSEwxOW9yVTRIb1JyaUZoeEpMaTQ?oc=5",
+      "source": "Mshale",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-08T10:41:52.000Z",
+      "publishedAt": "2026-08-08T04:50:20.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 76,
+      "id": "c99cbf4f16cc"
+    },
+    {
+      "title": "Arron Banks ‘hired private detective’ to look into journalist who investigated Reform UK",
+      "summary": "Asked whether he targeted reporter who investigated party finances, Brexit campaigner says: ‘When you live by the sword, you die by the sword’ The prominent Reform UK member and Brexit campaigner Arron Banks is said to have set private investigators on a Sunday Times journalist after he broke a series of stories about Nigel Farage. Banks is alleged to have p",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/08/arron-banks-hired-private-detective-to-look-into-journalist-who-investigated-reform-uk",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-08T11:11:54.000Z",
+      "image": "https://i.guim.co.uk/img/media/c1122053f7e786568ed1f88d19f4bce00e0daab2/0_0_2485_1989/master/2485.jpg?width=140&quality=85&auto=format&fit=max&s=a74083de23e8e968b72a528ecf9c3250",
+      "topic": "经济",
+      "score": 75,
+      "id": "2e1048b83d52"
+    },
+    {
+      "title": "The ornithological artist drawing 1,000 birds by hand – all for an app that wants you off your phone",
+      "summary": "The mission of the Flock app is quietly subversive: to encourage users to ditch their screens and explore the wonderful world of birding On a brilliantly bright afternoon in his gallery and studio in Bolinas, a small town on the northern California coast, Keith Hansen was putting the finishing touches on a watercolor of an almost improbably flamboyant painte",
+      "url": "https://www.theguardian.com/us-news/2026/aug/08/birds-artist-flock-app-california",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-08T11:00:47.000Z",
+      "image": "https://i.guim.co.uk/img/media/e2521b1b9d25f57a0371e5891a24da3ed4d6547a/417_0_2083_1668/master/2083.jpg?width=140&quality=85&auto=format&fit=max&s=762c5c6ae0acd5467a8184fdd98f3993",
+      "topic": "社会",
+      "score": 75,
+      "id": "8426e6c8075e"
+    },
+    {
+      "title": "Baywatch honors teenage lifeguard hero who saved boy in viral video",
+      "summary": "Ryder Williams, 16, presented with distinctive red jacket by star of TV rescuer reboot, Stephen Amell As life imitates art and vice versa, the star of the Baywatch reboot recently presented one of the distinctive red jackets seen on the beach rescuer drama to the teenage lifeguard who went viral for saving a boy off the California coast on camera. Stephen Am",
+      "url": "https://www.theguardian.com/us-news/2026/aug/08/baywatch-ryder-williams-lifeguard",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-08T11:00:47.000Z",
+      "image": "https://i.guim.co.uk/img/media/acf984544678e004a66e00f0d73db37590ad49af/0_139_1320_1056/master/1320.jpg?width=140&quality=85&auto=format&fit=max&s=3f87850ddc3a44d61cac767cbb6f3a1c",
+      "topic": "社会",
+      "score": 75,
+      "id": "521cf73c345a"
+    },
+    {
+      "title": "Yemen’s collapsing healthcare forces the sick to seek alternative medicines",
+      "summary": "Patients in Yemen who cannot afford healthcare or access relevant treatment are turning to alternative medicine.",
+      "url": "https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-08T10:58:46.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
-      "id": "f8f1cba4e33f"
+      "score": 75,
+      "id": "618734d33c3f"
+    },
+    {
+      "title": "Yemen's army attacks Houthis, Turkey’s Kurdish peace bill wins approval, and other Middle East news",
+      "summary": "Yemen's army attacks Houthis, Turkey’s Kurdish peace bill wins approval, and other Middle East news &nbsp;&nbsp; WPLG Local 10",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeEVQWDZDMmFsWFhtN0ZUMWkzUGxwOUF4OXJ6UGdTY2t1UW5mMXFZczhqZzlUbVg4LVVjNWNnbk9IdGlOdm51YS1xZC1NSlphQzk2b1hfdzNtT1pKWC1wMUdDeXNqZk1QczdxdkUtYmlKWW5IRkFibEtGWl9OMFBqV2ZHRGc2RXRKNjFzV1BKR0EwRXg5Q0ZWSU1MT0ZNSWpjdkkzVWpVMXkxWUxuUDY3MHh2NmdZZXJpSEFUR21feFpPTU9USE5zOFZTR1JFazdFemc?oc=5",
+      "source": "WPLG Local 10",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-08T10:41:36.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "7c716dc463ab"
+    },
+    {
+      "title": "How Israel’s occupation fuels resistance",
+      "summary": "Israel is trapped in a cycle it created.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-08T10:40:11.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "d5ba9fd3576c"
     },
     {
       "title": "CNA938 Rewind - Market Watch (31/7): Asian markets surged, led by KOSPI's record-breaking rally #SGToday",
@@ -172,8 +341,21 @@
       "publishedAt": "2026-08-08T07:06:12.000Z",
       "image": "",
       "topic": "经济",
-      "score": 76,
+      "score": 75,
       "id": "a82e16f4c96d"
+    },
+    {
+      "title": "Russian strikes near Ukrainian capital kill four, including child",
+      "summary": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-08T04:18:45.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "9fe340d5abb8"
     },
     {
       "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
@@ -185,7 +367,7 @@
       "publishedAt": "2026-08-08T00:02:49.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db46/live/2ce17130-927f-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "82b57c1eb487"
     },
     {
@@ -198,7 +380,7 @@
       "publishedAt": "2026-08-08T10:13:30.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "60729ef44c04"
     },
     {
@@ -211,7 +393,7 @@
       "publishedAt": "2026-08-08T10:10:13.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "ea8dbcb61233"
     },
     {
@@ -224,7 +406,7 @@
       "publishedAt": "2026-08-08T10:03:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "1863f12e097c"
     },
     {
@@ -237,7 +419,7 @@
       "publishedAt": "2026-08-08T10:00:04.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "21433065224a"
     },
     {
@@ -250,7 +432,7 @@
       "publishedAt": "2026-08-08T09:30:24.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "4fb91af18bea"
     },
     {
@@ -263,21 +445,8 @@
       "publishedAt": "2026-08-08T03:16:41.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/9f88a4d14f3f1d837cc123f9da88fbbd?impolicy=wcms_crop_resize&cropH=901&cropW=1602&xPos=318&yPos=177&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "8b698bcf50b9"
-    },
-    {
-      "title": "World News",
-      "summary": "World News &nbsp;&nbsp; LatestLY",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWjhNNEE0bHF0LWo0N3VYV0hLTzJqQmEydFhyVmNPYTRyT25XR0UyXzc3MkRiLUFmc0RYc0tTLV9sUlVmMnJZelBscnhaZ3FSRVNuZ21kWHM5ek1wT25xUjZ2ZUNtMzJEODV5eGt2UXdUeE1Vc2RMajNleU5YMkpnX2hqV2FWSVVRbEVxbXdXZkhCQmN2bFN5MzQ4aVZlRlRoZWtMRjM3YUprNlpZTng5bVJjUzZ5b3lfbUg2djdtRld6QmNmZnhfS3lxUEpaOXRubUJ2bWxPQUhSakhFX2xXTWo0U3FNaC1oXzhMYkVpMTNJeDBRMmJZcHFSRVNYRTjSAYQCQVVfeXFMTXZTSXNfSGc3Z3hwSzRmV1ZySy1WRWc2VHByb0plZ0J3TUxJaUpGYlJFek1DOWlRTHJKdlVEUUN6WjRtUGowa3lQZUpKenpWS1dVZDV6TzNwclUxN09Hc2lfN2tYZUJIR2RSSEVzNWkyMVdGZXdGRVo0STE3SGtVN3Z1OUdPOU9sSlpMSW5HUkNtVkdteUcxSjRjZ2dydXp3dTRydkVnM1ZjMWc5NmFJaXRaQ2N2MzhqTUQzcy1td1BFRktDREJFTVFVeU44VE9RUk4xYXhsX1VNc1BWbFd3d295a3NLeFJRaTVDVjQ2TG1QT0ZOdHVaZllXUnlXYi1RMmpPcFU?oc=5",
-      "source": "LatestLY",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-08T00:14:20.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "4d9628568ed3"
     },
     {
       "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
@@ -289,7 +458,7 @@
       "publishedAt": "2026-08-07T17:42:54.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "3853003924a5"
     },
     {
@@ -302,7 +471,7 @@
       "publishedAt": "2026-08-08T09:38:58.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "db21c41f50e6"
     },
     {
@@ -315,7 +484,7 @@
       "publishedAt": "2026-08-08T09:30:12.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "9a97ae9cb187"
     },
     {
@@ -328,7 +497,7 @@
       "publishedAt": "2026-08-08T08:59:28.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "0e31d0716bb2"
     },
     {
@@ -341,21 +510,21 @@
       "publishedAt": "2026-08-08T08:59:07.000Z",
       "image": "https://i.guim.co.uk/img/media/e072845b94751993421624b8a4522e8c1821b0a7/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=f8bbb7aadac2c858461e20942d0120a6",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "7f9aa6b7a204"
     },
     {
       "title": "Reiger Park shooting: 2 Anti-Gang Unit officers, 2 women killed in ambush",
-      "summary": "Reiger Park shooting: 2 Anti-Gang Unit officers, 2 women killed in ambush &nbsp;&nbsp; ewn.co.za",
+      "summary": "Reiger Park shooting: 2 Anti-Gang Unit officers, 2 women killed in ambush &nbsp;&nbsp; EWN",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQVktdUJHelk4OW5qR2ZSNFVxTXdQNHNkT2ZMVWZtN21SOFE4MTJGeXU2c21hMDh3TEc3WS1nT1c3M0luWjlUMW05Sk5XdENIbWhkREpYS2RfUFEzY0RoOUxSU1c3U1dLWHFMOEVDSHZOMGh5WkNicV9WUnNndnBUNkpQUzdTdmJvcERWaVgwa1k1eEpTR0xXcHNOT1Y0cEcxNjRkUmF4WQ?oc=5",
-      "source": "ewn.co.za",
+      "source": "EWN",
       "feed": "Africa News Network",
       "region": "非洲",
       "publishedAt": "2026-08-08T08:53:14.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
-      "id": "ace94a04f81f"
+      "score": 73,
+      "id": "45c37a5dc447"
     },
     {
       "title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
@@ -367,8 +536,21 @@
       "publishedAt": "2026-08-08T06:03:42.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "5e7bb0bdf420"
+    },
+    {
+      "title": "Live: Japan threatening to ruin Wallabies' new dawn after red card drama",
+      "summary": "Les Kiss takes the reins as Wallabies coach for the first time, with Australia facing Japan in Osaka.",
+      "url": "https://www.abc.net.au/news/2026-08-08/wallabies-vs-japan-first-test-live-scores/106999438",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "亚洲",
+      "publishedAt": "2026-08-08T08:30:56.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7664fce8f5ffdc38dd96cddbc0393acb?impolicy=wcms_crop_resize&cropH=1934&cropW=3439&xPos=0&yPos=46&width=862&height=485",
+      "topic": "社会",
+      "score": 72,
+      "id": "8336120d1dfa"
     },
     {
       "title": "Europe's Wildfires Are Exposing An 'Explosive' Threat: Thousands Of Buried Wartime Bombs",
@@ -380,7 +562,7 @@
       "publishedAt": "2026-08-08T08:06:35.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "34511dcf91e8"
     },
     {
@@ -393,21 +575,8 @@
       "publishedAt": "2026-08-08T08:03:55.000Z",
       "image": "",
       "topic": "经济",
-      "score": 73,
+      "score": 72,
       "id": "0698807e0aa8"
-    },
-    {
-      "title": "Iran war live: US says Strait of Hormuz deal could reopen vital oil route ‘soon’",
-      "summary": "Iran war live: US says Strait of Hormuz deal could reopen vital oil route ‘soon’ &nbsp;&nbsp; Arabian Business",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
-      "source": "Arabian Business",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-08T07:47:02.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 73,
-      "id": "2a703fbbf023"
     },
     {
       "title": "Gina Rinehart says ABC Ombudsman finding 'fails all Australian women'",
@@ -419,7 +588,7 @@
       "publishedAt": "2026-08-08T05:19:37.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7c7c27c3d460a1370e8303003eee386d?impolicy=wcms_crop_resize&cropH=1440&cropW=2560&xPos=0&yPos=215&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "d6a8ec2aca9f"
     },
     {
@@ -432,21 +601,21 @@
       "publishedAt": "2026-08-08T05:10:27.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "9aeb18da2dd4"
     },
     {
-      "title": "Norway Football Federation calls for FIFA president to resign",
-      "summary": "Norway’s football federation has called on Gianni Infantino to resign.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-08T04:37:56.000Z",
+      "title": "Top 10 African countries with the most global influence in 2026",
+      "summary": "Top 10 African countries with the most global influence in 2026 &nbsp;&nbsp; Business News Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNejJtSnktYW14ZHBxUlkyNXJ2S05FWVRzZ3Jlel82SkkyVlJ4T2R2TWk0amw1eVFTeXlTLTJCZF9zWFB4OUZvMDcyM1A1NnF2dS1SUjlFSHJIeGxnRkRJZHFVY1JvZUlDSmhCbkxFQkRJQXRrd3dnLUhNS2lGSjkwQkZoTnI4NWFpV2pQUFVLRERNT043RDZMbDhIVllDRmlfbVE?oc=5",
+      "source": "Business News Nigeria",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-08T11:15:00.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "5f860e69327a"
+      "topic": "经济",
+      "score": 71,
+      "id": "ba5e77b9ebb4"
     },
     {
       "title": "Sadiq Khan calls on Andy Burnham to commit to climate action as pressure grows over North Sea oil",
@@ -458,7 +627,7 @@
       "publishedAt": "2026-08-08T08:00:40.000Z",
       "image": "https://i.guim.co.uk/img/media/04a55c1a1305f8cd7240c375e96db463b0c0619c/266_0_3068_2455/master/3068.jpg?width=140&quality=85&auto=format&fit=max&s=18cc369ad63bcbcdc42e1cdfb86fc013",
       "topic": "经济",
-      "score": 72,
+      "score": 71,
       "id": "960f8f304be2"
     },
     {
@@ -471,7 +640,7 @@
       "publishedAt": "2026-08-08T08:00:40.000Z",
       "image": "https://i.guim.co.uk/img/media/a8f4e5ab7ca29045331c5dde371edf36083a0618/961_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=830a2dfc5c8cdb327e4687e858bfcaab",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "6adc9dafbe38"
     },
     {
@@ -484,7 +653,7 @@
       "publishedAt": "2026-08-08T08:00:13.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "8b5d214fef4b"
     },
     {
@@ -497,8 +666,21 @@
       "publishedAt": "2026-08-08T07:49:21.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "42b211ec5012"
+    },
+    {
+      "title": "Iran war live: US says Strait of Hormuz deal could reopen vital oil route ‘soon’",
+      "summary": "Iran war live: US says Strait of Hormuz deal could reopen vital oil route ‘soon’ &nbsp;&nbsp; Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+      "source": "Arabian Business",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-08T07:47:02.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 71,
+      "id": "2a703fbbf023"
     },
     {
       "title": "Pakistan Defeat Australia By 5 Wickets | Breaking News Diablo (pBjWmVJO97)",
@@ -510,7 +692,7 @@
       "publishedAt": "2026-08-08T07:45:10.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "bc77e822bab3"
     },
     {
@@ -523,8 +705,21 @@
       "publishedAt": "2026-08-08T07:13:41.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "bf4065e9b93c"
+    },
+    {
+      "title": "Norway Football Federation calls for FIFA president to resign",
+      "summary": "Norway’s football federation has called on Gianni Infantino to resign.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-08T04:37:56.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 71,
+      "id": "5f860e69327a"
     },
     {
       "title": "‘I’ve never been counted’: DR Congo’s first census in 42 years",
@@ -536,7 +731,7 @@
       "publishedAt": "2026-08-08T04:29:46.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "edebc11cbeba"
     },
     {
@@ -549,60 +744,21 @@
       "publishedAt": "2026-08-08T04:08:18.000Z",
       "image": "https://i.guim.co.uk/img/media/82efa4a4cf17ca09e017aed4040101482b7e0198/403_0_2036_1629/master/2036.jpg?width=140&quality=85&auto=format&fit=max&s=0ab8dc3d3a2584c174ff6fb508493b6b",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "7d32301edb99"
     },
     {
-      "title": "Colombia’s new president takes office vowing to ‘crush’ narco-terrorism",
-      "summary": "Right-wing politician Abelardo De La Espriella takes office after narrowly winning June’s presidential runoff.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-08T01:15:53.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "2e349d07305b"
-    },
-    {
-      "title": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
-      "summary": "The new president, who replaces leftist Gustavo Petro, continues the rightward political shift in Latin America.",
-      "url": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-08T00:31:52.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "9d4bef88c252"
-    },
-    {
-      "title": "Saudi Arabia, Pakistan and Turkey sign defense deal, raising some alarm in the Middle East (Video)",
-      "summary": "Saudi Arabia, Pakistan and Turkey sign defense deal, raising some alarm in the Middle East (Video) &nbsp;&nbsp; Social News XYZ",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVVE0bzVsOHhPVUtqOXZvQ0hyZGhTWmg5SUdIaWkwWG1nTUl0TFBBcmpPcUFEeXVKalBwVFMzS3lvZ2VvSjhSS0xBNVhnZ2NZY25XcGxFUDRSQTVVdjVxTUk3aGVOVWFKbGVnZzZZUVhVZXAzVHczR3V3bGJ6Z1pKMDVNTTJ3cDNNYWJ2MTF2cDBwUTktakgzYWx6T19pTkc2UTZSNHcxUU8zamlZQS0tdTVFYXZ3UGpqa0MzUV9oTTF3RTZCTDFwS1VFNE50UdIBzgFBVV95cUxNVVE0bzVsOHhPVUtqOXZvQ0hyZGhTWmg5SUdIaWkwWG1nTUl0TFBBcmpPcUFEeXVKalBwVFMzS3lvZ2VvSjhSS0xBNVhnZ2NZY25XcGxFUDRSQTVVdjVxTUk3aGVOVWFKbGVnZzZZUVhVZXAzVHczR3V3bGJ6Z1pKMDVNTTJ3cDNNYWJ2MTF2cDBwUTktakgzYWx6T19pTkc2UTZSNHcxUU8zamlZQS0tdTVFYXZ3UGpqa0MzUV9oTTF3RTZCTDFwS1VFNE50UQ?oc=5",
-      "source": "Social News XYZ",
+      "title": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates",
+      "summary": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates &nbsp;&nbsp; Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5",
+      "source": "Reuters",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-07T22:19:53.000Z",
+      "publishedAt": "2026-08-07T22:22:44.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "9624f65f7346"
-    },
-    {
-      "title": "US accused of meddling in British politics with $500,000 grant for ‘public education’ courses",
-      "summary": "Documents published on US embassy’s website prompt claims of attempt to export Maga propaganda to UK The US embassy in London is offering grants of up to half a million dollars for new “public education” programmes in what has been criticised as interference in British domestic politics. Using language that the pro-Trump Maga movement has sought to appropria",
-      "url": "https://www.theguardian.com/us-news/2026/aug/08/us-accused-of-meddling-in-british-politics-with-500000-grant-scheme-promoting-shared-values",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-08T07:00:41.000Z",
-      "image": "https://i.guim.co.uk/img/media/75e81b6f235cd7ddaa9045da5ec7ca3df52b68b9/126_0_3779_3024/master/3779.jpg?width=140&quality=85&auto=format&fit=max&s=65dcf74cfcfa13bbb444576c55f19544",
-      "topic": "社会",
+      "topic": "经济",
       "score": 71,
-      "id": "cc8baad06ee9"
+      "id": "e4208666d930"
     },
     {
       "title": "Spanish mountain village braces for astrotourists lured by total solar eclipse",
@@ -614,7 +770,7 @@
       "publishedAt": "2026-08-08T07:00:40.000Z",
       "image": "https://i.guim.co.uk/img/media/ffb28c0d6c3efd93122c5c7a958826fdf926d832/155_0_4651_3721/master/4651.jpg?width=140&quality=85&auto=format&fit=max&s=5cd11d6d3f9d8261e8ba6cb95caad97d",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "165c6d0e99ec"
     },
     {
@@ -627,34 +783,34 @@
       "publishedAt": "2026-08-08T03:20:41.000Z",
       "image": "",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "5f68b1596f34"
     },
     {
-      "title": "David Brat bound for Australia as diplomat confirmed as next US ambassador",
-      "summary": "Former Republican state congressman, who once argued Christianity and capitalism should merge, confirmed by US Senate to fill long-vacant role Get our breaking news email , free app or daily news podcast Former Virginia congressman David Brat has been confirmed by the US Senate to be the next US ambassador to Australia, after the role had been left vacant fo",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/08/david-brat-bound-for-australia-as-diplomat-confirmed-as-next-us-ambassador",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-07T23:50:39.000Z",
-      "image": "https://i.guim.co.uk/img/media/9da0bcae7ea865b7a38c61f71756377f8e83cadc/0_1184_3456_2765/master/3456.jpg?width=140&quality=85&auto=format&fit=max&s=c1c3dce4633e29ccbcc0ec98e3fd82e3",
-      "topic": "社会",
-      "score": 71,
-      "id": "f33206e8b237"
+      "title": "Understanding recent South African tax judgments: key lessons for businesses",
+      "summary": "Understanding recent South African tax judgments: key lessons for businesses &nbsp;&nbsp; IOL",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWRNOUNqSVM3Y3BCenVaNXRLX2xYeWxSY1VZWnlPUjBJSzFqUXpPVzZrV0piWUNiajdpWWZBRWcyejhsYkdjSlY1X2FkYkxQYXlJaFR4TTZFc0paaVc3ZGtuRkh3cFE5d0tRN01fdEZmV1ZMc0NPUk81c2dBR3RZQURXVXdUZjFRcldCVl9kSUpmbnVpaE03Q3lvd182S0t2ejFleWdwa2NyRmdaTG9KVnJkY1VRTE1lTURJR1FTYzVGeTRWV2c5WnRGcUplZVhkMFRpS3FDTEQ?oc=5",
+      "source": "IOL",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-08T09:43:42.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 69,
+      "id": "ebb73e574cb1"
     },
     {
-      "title": "Bodies spotted at site where 5 climbers went missing last year, Asia News",
-      "summary": "Bodies spotted at site where 5 climbers went missing last year, Asia News &nbsp;&nbsp; asiaone.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNmxlcnFVRUtjeHJSSzBNYkRmVlJYaHF4WlprVHdEYnc2T2lPSzRPWEd6QXFrMXo5MW9QR2o3VjZrSGFpNU9GRUVCd1l2dW1VdVF3NGhCeXB1Sy1lemJNU0EzQUVhR2VJTTBDaDV2OFRPd1BpWmRab2hmYnpGVzlRcDdqUFV2ajdrVklEM1l2Tm43QQ?oc=5",
-      "source": "asiaone.com",
+      "title": "South Korea to revive stalled rail project to North Korea",
+      "summary": "South Korea to revive stalled rail project to North Korea &nbsp;&nbsp; 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFX2RlZUk3bnBHTDI3UFR6U3NtNkhBRUVXbFh1cTNFai0zOGk5Zjg2QmUwTVJpYTRUVUVuTUVMM2d5dnpaQ2JBT2RxYktuazlMYVdnemFBaThDM0NzR0E?oc=5",
+      "source": "朝日新聞",
       "feed": "Asia News Network",
       "region": "亚洲",
-      "publishedAt": "2026-08-08T09:39:00.000Z",
+      "publishedAt": "2026-08-08T09:23:15.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
-      "id": "55a9130618d0"
+      "score": 69,
+      "id": "e7bc19e97db7"
     },
     {
       "title": "Tibetans embrace native tongue under China’s new ‘unity’ law",
@@ -666,8 +822,21 @@
       "publishedAt": "2026-08-08T09:21:34.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "542cc46edf75"
+    },
+    {
+      "title": "OPINION/ Joint yen intervention exposes fragile US bond market",
+      "summary": "OPINION/ Joint yen intervention exposes fragile US bond market &nbsp;&nbsp; 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCbHJDalJMVVpCUE15M0t4WnRtcm9aTFA5T0I0VThqdWZrZlhhRFRmQnhBUlFoVEhXcG1XOGhIODhOYUE3a015c1U5c0hDdk9ENGZ5ZHU4YVBWUTljdmc?oc=5",
+      "source": "朝日新聞",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-08T09:08:01.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 69,
+      "id": "ec5ed6744193"
     },
     {
       "title": "Israel Is Making Plans for a Post-America Middle East",
@@ -679,21 +848,8 @@
       "publishedAt": "2026-08-08T09:00:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "20256e0f3608"
-    },
-    {
-      "title": "Granada reinforces the security of its digital services with cyber protection aligned with Europe",
-      "summary": "Granada reinforces the security of its digital services with cyber protection aligned with Europe &nbsp;&nbsp; Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOODVOZkVpWkxERXk0dmZrZXFOT1NaZ1hWWmgwZVMwdUVjbzdNWXBRbkNVSWJHVDgzZnBXcG52M18wdmx4SDlJaXpmdEpvVXh1T2c3LWVmSnNEdGlhSVBvYThrZmFWVDk2TTI0Uzl6WC0zdzRhNjVKZ2xWREVzeWZJUDFlbnhTeHdiWUU0U2NZbWllS2RqVlNfeVRXcWYyWmNpeHlNS01pMXo5MDVXTTJJbERPQ3BJTmNLRWR2QVR0NUp0dllLTzhfc0ZfUjVBSnfSAdQBQVVfeXFMTXJfNG9HdkZwVjhEc3MxR09mblBrUkRIcUQtZXV3OFpOSnJpVjB4aThVN3FrMW1lN1VqTGFQNXVvMkh1UHhCRGFVX2J6SWgyRHB5aXY4eUFzLWplekdsU2hNM1BMU1k3Z0pnWVVtMGdrX0xqa09WOHQ1ZmRsTUYzN1VDa3dscFlld3NWOEY4aEZ1c2tGOHZSODRhd1hFX2RsTU1QazlaUHJRUk5CQnBfemcwbkZtV20wWlBTYS1nY0tfajJNeDRXd0ZuM1EzUmJEMjIzaVM?oc=5",
-      "source": "Demócrata",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-08T08:56:27.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 70,
-      "id": "e6b5be63e29c"
     },
     {
       "title": "Taiwan to attend Pacific leaders meeting",
@@ -705,8 +861,34 @@
       "publishedAt": "2026-08-08T05:47:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "e415c4827009"
+    },
+    {
+      "title": "David Brat bound for Australia as diplomat confirmed as next US ambassador",
+      "summary": "Former Republican state congressman, who once argued Christianity and capitalism should merge, confirmed by US Senate to fill long-vacant role Get our breaking news email , free app or daily news podcast Former Virginia congressman David Brat has been confirmed by the US Senate to be the next US ambassador to Australia, after the role had been left vacant fo",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/08/david-brat-bound-for-australia-as-diplomat-confirmed-as-next-us-ambassador",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-07T23:50:39.000Z",
+      "image": "https://i.guim.co.uk/img/media/9da0bcae7ea865b7a38c61f71756377f8e83cadc/0_1184_3456_2765/master/3456.jpg?width=140&quality=85&auto=format&fit=max&s=c1c3dce4633e29ccbcc0ec98e3fd82e3",
+      "topic": "社会",
+      "score": 69,
+      "id": "f33206e8b237"
+    },
+    {
+      "title": "Granada reinforces the security of its digital services with cyber protection aligned with Europe",
+      "summary": "Granada reinforces the security of its digital services with cyber protection aligned with Europe &nbsp;&nbsp; Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOODVOZkVpWkxERXk0dmZrZXFOT1NaZ1hWWmgwZVMwdUVjbzdNWXBRbkNVSWJHVDgzZnBXcG52M18wdmx4SDlJaXpmdEpvVXh1T2c3LWVmSnNEdGlhSVBvYThrZmFWVDk2TTI0Uzl6WC0zdzRhNjVKZ2xWREVzeWZJUDFlbnhTeHdiWUU0U2NZbWllS2RqVlNfeVRXcWYyWmNpeHlNS01pMXo5MDVXTTJJbERPQ3BJTmNLRWR2QVR0NUp0dllLTzhfc0ZfUjVBSnfSAdQBQVVfeXFMTXJfNG9HdkZwVjhEc3MxR09mblBrUkRIcUQtZXV3OFpOSnJpVjB4aThVN3FrMW1lN1VqTGFQNXVvMkh1UHhCRGFVX2J6SWgyRHB5aXY4eUFzLWplekdsU2hNM1BMU1k3Z0pnWVVtMGdrX0xqa09WOHQ1ZmRsTUYzN1VDa3dscFlld3NWOEY4aEZ1c2tGOHZSODRhd1hFX2RsTU1QazlaUHJRUk5CQnBfemcwbkZtV20wWlBTYS1nY0tfajJNeDRXd0ZuM1EzUmJEMjIzaVM?oc=5",
+      "source": "Demócrata",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-08T08:56:27.000Z",
+      "image": "",
+      "topic": "科技",
+      "score": 68,
+      "id": "e6b5be63e29c"
     },
     {
       "title": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
@@ -718,34 +900,8 @@
       "publishedAt": "2026-08-08T05:45:58.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 68,
       "id": "8fcb07dc2cd6"
-    },
-    {
-      "title": "City Power targets illegal connections, revenue collection in Alexandra",
-      "summary": "City Power targets illegal connections, revenue collection in Alexandra &nbsp;&nbsp; ewn.co.za",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQUdYcTBWUXh6RThWWVZCenNzSnRJRkd1OHUtYmJ4djJCbENKcFlpSzlQZGRhUk44MEE1aEVhQlhFSnRTUlVJSnJyVzZiREotX011cllwaGdfMXE4SDJZSGhDNFhzOXhfNHZXS3d5ZnV2NzNEMkJ5WVJPV1pMVC13MzNFdzhJSjhFMVE5NHQ5dVYwbENTdURnX0otZ2JOV21FNk1aWnBn?oc=5",
-      "source": "ewn.co.za",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-08T08:53:14.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "4bf26160b54a"
-    },
-    {
-      "title": "Undergraduates enroll in cram schools to pass college courses",
-      "summary": "Undergraduates enroll in cram schools to pass college courses &nbsp;&nbsp; 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiaW9rMXdQTHlFQXB5X2ltOG5PNG15cDU2WXpjdXdTT3dIaFFVVDViUHY2TnhzaE01dmlYb21Od3JabFp4T2ZPX2trNHV4V0pQVXpucnBUX3lXaGV5Wnc?oc=5",
-      "source": "朝日新聞",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-08T08:43:57.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "f5ba78ce5a63"
     },
     {
       "title": "Bangladesh say Shakib will not play cricket again after Hasina event",
@@ -757,7 +913,7 @@
       "publishedAt": "2026-08-08T05:30:53.000Z",
       "image": "",
       "topic": "社会",
-      "score": 69,
+      "score": 68,
       "id": "1042a45e4ed0"
     },
     {
@@ -770,7 +926,7 @@
       "publishedAt": "2026-08-08T05:28:45.000Z",
       "image": "",
       "topic": "经济",
-      "score": 69,
+      "score": 68,
       "id": "2f3a59bd4c7c"
     },
     {
@@ -783,164 +939,8 @@
       "publishedAt": "2026-08-08T05:26:32.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/337c0d29e4571a3184ffa326299e2ac4?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=144&width=862&height=485",
       "topic": "政治",
-      "score": 69,
+      "score": 68,
       "id": "0fa30d3686ab"
-    },
-    {
-      "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
-      "summary": "Scientists race to untangle complex links between exposure and mortality as fire weather grows more prevalent A thousand kilometres from the infernos gorging on northern Ontario’s boreal forests, Erin O’Connor watched the sky above Canada’s biggest city turn an “almost post-apocalyptic” orange as it filled with light-scattering particles of soot and ash. Ste",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-08-08T05:00:37.000Z",
-      "image": "https://i.guim.co.uk/img/media/6adb7135edd65d6b009bdc318353c7ef7283e8b4/551_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3a8a158b7b12e78a0a2475d751c62eec",
-      "topic": "气候",
-      "score": 69,
-      "id": "332d707f8aeb"
-    },
-    {
-      "title": "Trump blasts appeals court for halting White House ballroom construction, claiming decision is a ‘national security threat’ – as it happened",
-      "summary": "This live blog is now closed. Appeals court halts construction of Trump’s $400m White House ballroom Sign up for the Breaking News US email Following Lisa Murkowski’s announcement that she plans to vote “no” on Todd Blanche’s nomination to lead the Department of Justice, the acting attorney general can’t afford another defection in order to secure the perman",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-08T02:01:31.000Z",
-      "image": "https://i.guim.co.uk/img/media/2db1051d45e833922e985dbfb4cffd64742c8805/1068_0_3347_2677/master/3347.jpg?width=140&quality=85&auto=format&fit=max&s=9210f6358836071bb126b694b0529e6c",
-      "topic": "政治",
-      "score": 69,
-      "id": "c3e03c2a904a"
-    },
-    {
-      "title": "Who is Giorgia Meloni and what does she advocate regarding immigration: from Fratelli d'Italia to the Albania model",
-      "summary": "Who is Giorgia Meloni and what does she advocate regarding immigration: from Fratelli d'Italia to the Albania model &nbsp;&nbsp; Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ0JfLWJfcFVNOFNEaVo3OXFKWGFkSXJDSExZSVh5SU1fVklkRVB0QXlqN1RrWU9aOWdYT3lhR3BjRjVPZWtoM0cyXy10VC1jaHpaVzRIRHdvY0pyRmEyMWRUTHZtR1ZpaDkyLTJvV3BhbE45c0hjWmVJNFBCaEw3TGZFQTBKNWZPRnF4a3ZxdmNHSmh5VFV0dnFKMWlEdHZydjJEMnZ4SzhBeF85WDNqazlHY0xrTTBvMWZ2VUxGSTV0eG1mc3ZTMTNMQU9oWXg1OXktNE5ndVVOTzZMRjRCTldEZVLSAeoBQVVfeXFMTzFjd3c3elVvT0ZhUmg3TkdnTDlJU3Y0aEg4akgtNmpWeEFjZUhQaWl4UXBjTHFCdkNacUVoX3hpZEwwWXgyeWRvM21kTmpZMDRoaVZTY2ZJdUhmeDhmVGg4X1pnSVd4a2xmU3hMdlVhRl9sRi03QTltTzY1YmdQbjVNS0s4RndVZmdDOVdYSU5BNHpKNGdsZTdlMjd0QXh1N2JPb0hnOWFvUmVkTmVwTHl4enBpV1RqZkhSZzNuRy1PTWRLYnpJTnI4R2VpR2xFUmhXUWZERTl1LU1UOWF3Zkh6UVA5SWd0VlZn?oc=5",
-      "source": "Demócrata",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-08T07:36:11.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 68,
-      "id": "31539b62d6d9"
-    },
-    {
-      "title": "Former Kaizer Chiefs midfielder passes away after succumbing to injuries from a car accident",
-      "summary": "Former Kaizer Chiefs midfielder passes away after succumbing to injuries from a car accident &nbsp;&nbsp; Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTVpQbWgzaXhublJ4Vk5wb3dMNHh6QUlVSUk3RUxQZXRVRlFfWVFiLXZwdGhZOTV6N004Z1VOVVNjeHZrQko3WFJLNmVkd0RsSms2bGFST2MxSUdfclNtMXh0UUdsejZtR0JrOW1qN3R4WGxnZ2NDUng1Y3ZCVGIyZDRyVHd5S0hWSVlyUnVlQnpNZHVIdGRZVFotRUZxRXVZajFhSTk0ZVZKTVhMaEViVHJZMUpKVEpaclZ4VU50czc5ODIzazBOZzBlTE9tNHgtbWRjRnpzU1dFdFU5?oc=5",
-      "source": "Goal.com",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-08T07:34:57.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 68,
-      "id": "8416db4531ad"
-    },
-    {
-      "title": "Trump announces $560m critical minerals investment in tiny NSW town",
-      "summary": "The Pentagon is investing more than half a billion dollars to expand an Australian critical mineral project poised to become the world's first scandium mine.",
-      "url": "https://www.abc.net.au/news/2026-08-08/pentagon-loan-to-syerston-scandium-mine-in-nsw/107012648",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-08T04:48:43.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/f4d406d432d1e694b997734b2fb11ab6?impolicy=wcms_crop_resize&cropH=339&cropW=602&xPos=0&yPos=104&width=862&height=485",
-      "topic": "社会",
-      "score": 68,
-      "id": "22d94c77bc2e"
-    },
-    {
-      "title": "Rockliff adviser, ex-minister chosen as Liberal Senate replacements",
-      "summary": "A senior adviser to Tasmania's premier has been chosen to replace outgoing Liberal Senator Wendy Askew, while a former state minister will replace Senator Jonno Duniam when he finishes up at the end of the year.",
-      "url": "https://www.abc.net.au/news/2026-08-08/liberals-select-senate-replacements-for-tasmanians-duniam-askew/107012632",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-08T04:45:22.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/949882db6106f123c57a4ec6b46f0b7f?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=254&width=862&height=485",
-      "topic": "政治",
-      "score": 68,
-      "id": "d4e750de8d9d"
-    },
-    {
-      "title": "Perth man allegedly damaged 20 cars during 90-minute rampage",
-      "summary": "Police charge a 45-year-old who allegedly got out of his car and smashed several stationary vehicles, before leading officers on a wild chase through Perth's northern suburbs.",
-      "url": "https://www.abc.net.au/news/2026-08-08/perth-man-charged-over-car-smashing-and-police-chase/107012862",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-08T04:39:09.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/1cd8b0d4d35927ebb60dfc23f271c64a?impolicy=wcms_crop_resize&cropH=2250&cropW=4000&xPos=0&yPos=209&width=862&height=485",
-      "topic": "社会",
-      "score": 68,
-      "id": "057a2abcfa06"
-    },
-    {
-      "title": "Live: Souths tearing through Eels after extraordinary Battle of Brisbane",
-      "summary": "South Sydney is overwhelming Parramatta at Stadium Australia, after the Dolphins secured finals football with a stunning fightback against Brisbane. Follow live.",
-      "url": "https://www.abc.net.au/news/2026-08-08/nrl-live-updates-storm-sea-eagles-dolphins-broncos-rabbitohs-eel/107012870",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-08T04:38:08.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/3b1c168986295bec92a70131df34f62b?impolicy=wcms_crop_resize&cropH=1687&cropW=3000&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 68,
-      "id": "1f0cf37535af"
-    },
-    {
-      "title": "Alleged torturers to seek bail as 15yo assessed for electronic monitoring",
-      "summary": "Details of the alleged torture of an intellectually disabled teenager can be revealed after the alleged offenders face court in North Queensland.",
-      "url": "https://www.abc.net.au/news/2026-08-08/alleged-torturers-face-townsville-court-teenager-bashing/107012738",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-08T04:36:52.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/3a46201b234152d216ff74f4fbe22947?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "政治",
-      "score": 68,
-      "id": "4f07f100732c"
-    },
-    {
-      "title": "Armenia puts Church leader on trial for allegedly being a Russian spy",
-      "summary": "Armenia’s head of the Apostolic Church and senior clergy could face jail time over allegations of spying for Russia.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-08T04:31:42.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 68,
-      "id": "b44b0101b75a"
-    },
-    {
-      "title": "Why broadcasting row has Tour de France Femmes fans 'pissed off'",
-      "summary": "In the Tour de France Femmes, less than 40 seconds separates the top three riders with only two stages to go. That's just one reason why supporters are questioning why they can't watch the entire race.",
-      "url": "https://www.abc.net.au/news/2026-08-08/tour-de-france-femmes-fans-broadcast-row/107002508",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-08-08T04:31:34.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/4980e764c320c8a163311712f22763d8?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=327&width=862&height=485",
-      "topic": "社会",
-      "score": 68,
-      "id": "06fb22306c9c"
-    },
-    {
-      "title": "'Never seen anything like this': Britain's parks and pastures turn brown",
-      "summary": "London's parks turn brown and British farmers battle to salvage what is left of their produce as a drought grips multiple parts of the country.",
-      "url": "https://www.abc.net.au/news/2026-08-08/britain-green-pastures-turn-brown-amid-drought/107011800",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-08-08T04:16:36.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/714c807de699b0d9a50bb4b1b198b4ec?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=37&width=862&height=485",
-      "topic": "气候",
-      "score": 68,
-      "id": "c471d56589b4"
     }
   ]
 }
