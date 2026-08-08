@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T15:49:01.230Z",
+  "updatedAt": "2026-08-08T16:55:28.578Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -13,24 +13,11 @@
       "source": "BBC World",
       "feed": "BBC World",
       "region": "欧洲",
-      "publishedAt": "2026-08-08T13:29:38.000Z",
+      "publishedAt": "2026-08-08T15:49:41.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
       "topic": "政治",
-      "score": 91,
+      "score": 92,
       "id": "bb13025ecf3b"
-    },
-    {
-      "title": "China braces for Typhoon Dolphin after storm lashes Japan's southern islands",
-      "summary": "Typhoon Dolphin has lashed Japan's southern islands of Okinawa and turned towards China, where it is expected to make landfall late Sunday or early Monday local time.",
-      "url": "https://www.abc.net.au/news/2026-08-09/typhoon-dolphin-hits-japan-okinawa/107013284",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "亚洲",
-      "publishedAt": "2026-08-08T14:44:39.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/c670dd96c0370ee50e489fe116a59460?impolicy=wcms_crop_resize&cropH=2232&cropW=3968&xPos=0&yPos=206&width=862&height=485",
-      "topic": "政治",
-      "score": 87,
-      "id": "452ac6315842"
     },
     {
       "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
@@ -39,24 +26,50 @@
       "source": "BBC World",
       "feed": "BBC World",
       "region": "全球",
-      "publishedAt": "2026-08-08T13:23:16.000Z",
+      "publishedAt": "2026-08-08T15:56:39.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136a/live/52b81650-930d-11f1-a52f-31e1c3a4e20b.jpg",
       "topic": "社会",
-      "score": 85,
+      "score": 87,
       "id": "d96c8f8b452c"
     },
     {
-      "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
-      "summary": "In an interview with Al Jazeera, Masrour Barzani denies any 'pressure' to enter the Iran war despite over 1,000 attacks.",
-      "url": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-08T14:58:42.000Z",
-      "image": "",
+      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "美洲",
+      "publishedAt": "2026-08-08T16:34:18.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
       "topic": "政治",
       "score": 84,
-      "id": "15b223e44090"
+      "id": "a0f307aa4987"
+    },
+    {
+      "title": "European wildfires in numbers: How record-breaking heatwaves have scorched the continent",
+      "summary": "European wildfires in numbers: How record-breaking heatwaves have scorched the continent &nbsp;&nbsp; AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQekdaWVZNMEYyWDRmdUtIUFIybDJYMnBUX0pObHlMN2RJMHFPVGxYSnQ5bjN6M0lkbkN1X1hqUHp3Q2Q2UHU5NnRxVVFtS2tEYThKM2tWc0tRWkNpT1Boaldpc09fUlNSVHB5YUJNX0xjellwNDhVdDBxT0lrVzV1OXpRNkZFd01YQVdSdHpBbw?oc=5",
+      "source": "AOL.com",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-08T16:07:30.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 84,
+      "id": "6a228db20cd1"
+    },
+    {
+      "title": "Messi's father Jorge dies aged 68 after illness",
+      "summary": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-08T15:51:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcf2/live/be4e3d50-933e-11f1-a35f-039358cea467.jpg",
+      "topic": "社会",
+      "score": 83,
+      "id": "d269f299db08"
     },
     {
       "title": "Trump loyalist Todd Blanche confirmed by Senate as US attorney general",
@@ -68,21 +81,34 @@
       "publishedAt": "2026-08-08T12:34:41.000Z",
       "image": "https://i.guim.co.uk/img/media/6d18738f903273d07d91da4239cb4099cd2d11b3/432_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=1b31d083af94ef40a1431d5ebe05197e",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "dd40118efc48"
     },
     {
-      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-      "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
+      "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
+      "summary": "In an interview with Al Jazeera, Masrour Barzani denies any 'pressure' to enter the Iran war despite over 1,000 attacks.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-08T14:58:42.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 82,
+      "id": "15b223e44090"
+    },
+    {
+      "title": "China braces for Typhoon Dolphin after storm lashes Japan's southern islands",
+      "summary": "Typhoon Dolphin has lashed Japan's southern islands of Okinawa and turned towards China, where it is expected to make landfall late Sunday or early Monday local time.",
+      "url": "https://www.abc.net.au/news/2026-08-09/typhoon-dolphin-hits-japan-okinawa/107013284",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
       "region": "亚洲",
-      "publishedAt": "2026-08-08T15:15:17.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e0d/live/cc337040-933c-11f1-a35f-039358cea467.jpg",
-      "topic": "气候",
-      "score": 83,
-      "id": "1cfd96ebc23f"
+      "publishedAt": "2026-08-08T14:44:39.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/c670dd96c0370ee50e489fe116a59460?impolicy=wcms_crop_resize&cropH=2232&cropW=3968&xPos=0&yPos=206&width=862&height=485",
+      "topic": "政治",
+      "score": 82,
+      "id": "452ac6315842"
     },
     {
       "title": "War on Iran: Phase II: Day 28",
@@ -94,7 +120,7 @@
       "publishedAt": "2026-08-08T14:09:02.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "4e75ebb86dae"
     },
     {
@@ -107,21 +133,8 @@
       "publishedAt": "2026-08-08T13:59:21.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "552396682f44"
-    },
-    {
-      "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
-      "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "美洲",
-      "publishedAt": "2026-08-08T13:49:09.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
-      "topic": "政治",
-      "score": 82,
-      "id": "0bae80f06ba1"
     },
     {
       "title": "Blanche confirmation allows Trump to continue ‘pervasive, breathtaking corruption’, says Schumer – US politics live",
@@ -130,50 +143,37 @@
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "全球",
-      "publishedAt": "2026-08-08T15:36:31.000Z",
+      "publishedAt": "2026-08-08T16:35:12.000Z",
       "image": "https://i.guim.co.uk/img/media/9929feb6f224df63c95a1032463f390dd8b086fb/680_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=5ae35ec9670d6ced26dabc8c40c8b4bc",
       "topic": "政治",
       "score": 80,
       "id": "bd48c6fdfe5a"
     },
     {
-      "title": "Messi's father Jorge dies aged 68 after illness",
-      "summary": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+      "title": "Lionel Messi’s Father, Jorge Messi, Dies at 68",
+      "summary": "Lionel Messi’s Father, Jorge Messi, Dies at 68 &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR2JBWFJmM2JOSmp1VW1JNndlMkM2U1o1NlpyS256d0hLZnBPVFhOSm5qM2U2Tkp0WS1EOGx2SV9YOXNkZnhhemw3X0tkcGNUTlJMT1NGZWcweVNadm9jSmlIcUlNMEZxNy1BVnNINWRaZTNubzZYQXJRbU5CXzd3WA?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-08T15:53:34.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "f6932f9654d3"
+    },
+    {
+      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "summary": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
+      "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "feed": "BBC World",
       "region": "全球",
-      "publishedAt": "2026-08-08T15:36:01.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcf2/live/be4e3d50-933e-11f1-a35f-039358cea467.jpg",
-      "topic": "社会",
-      "score": 80,
-      "id": "d269f299db08"
-    },
-    {
-      "title": "Hunter Biden talks about how his father’s cancer has spread and is causing him pain",
-      "summary": "Joe Biden’s prostate cancer is reportedly ‘debilitating’, even as ex-president continues to speak out on public issues Former US president Joe Biden ’s prostate cancer has spread to other parts of his body and is causing him pain, even as he continues to speak out on public issues, his son Hunter said in an interview. In a wide-ranging interview with the BBC",
-      "url": "https://www.theguardian.com/us-news/2026/aug/08/joe-biden-hunter-cancer",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-08T15:14:56.000Z",
-      "image": "https://i.guim.co.uk/img/media/5e5dc14b92252ea246f53251de2837de2a232ec9/817_4_2203_1762/master/2203.jpg?width=140&quality=85&auto=format&fit=max&s=ee4d187ff5ee41c80a0cf2bec0b0c120",
+      "publishedAt": "2026-08-08T15:44:08.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f06/live/529a9080-933f-11f1-a35f-039358cea467.jpg",
       "topic": "政治",
-      "score": 80,
-      "id": "7e6f4abe7a0c"
-    },
-    {
-      "title": "European wildfires in numbers: How record-breaking heatwaves have scorched the continent",
-      "summary": "European wildfires in numbers: How record-breaking heatwaves have scorched the continent &nbsp;&nbsp; The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTVRFaGdpcVk0WnpqTWpkMFA2SC03NENkX2d6Z0hOU2VUNUNNQjF4Wm1KZkxQUUlhWmZtTUFWZkx2c2JiWnoxZ3FESmpWQ3QwNEJfd3h4RTJYdzh3YVBpLVAxMk8teFpBNFVqbGlWS2FSanFtUEhUVkZUcEozdjZYdEFfMng2dHhxVmhvUTYxUnh6Q3o5Q2tsdUplbHI1QVVDa1lCb3VvaE4?oc=5",
-      "source": "The Independent",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-08T14:56:00.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 80,
-      "id": "bd9c6e0f5b68"
+      "score": 79,
+      "id": "4674dfb1c913"
     },
     {
       "title": "Todd Blanche confirmed as US attorney general after divisive hearing",
@@ -185,21 +185,8 @@
       "publishedAt": "2026-08-08T09:14:12.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7e30deb5be783c9b7abb940ea795a71b?impolicy=wcms_crop_resize&cropH=2166&cropW=3850&xPos=0&yPos=151&width=862&height=485",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "54784c3f5318"
-    },
-    {
-      "title": "Saudi Arabia, Pakistan and Turkey sign defense deal, raising some alarm in the Middle East (Video)",
-      "summary": "Saudi Arabia, Pakistan and Turkey sign defense deal, raising some alarm in the Middle East (Video) &nbsp;&nbsp; Social News XYZ",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVVE0bzVsOHhPVUtqOXZvQ0hyZGhTWmg5SUdIaWkwWG1nTUl0TFBBcmpPcUFEeXVKalBwVFMzS3lvZ2VvSjhSS0xBNVhnZ2NZY25XcGxFUDRSQTVVdjVxTUk3aGVOVWFKbGVnZzZZUVhVZXAzVHczR3V3bGJ6Z1pKMDVNTTJ3cDNNYWJ2MTF2cDBwUTktakgzYWx6T19pTkc2UTZSNHcxUU8zamlZQS0tdTVFYXZ3UGpqa0MzUV9oTTF3RTZCTDFwS1VFNE50UdIBzgFBVV95cUxNVVE0bzVsOHhPVUtqOXZvQ0hyZGhTWmg5SUdIaWkwWG1nTUl0TFBBcmpPcUFEeXVKalBwVFMzS3lvZ2VvSjhSS0xBNVhnZ2NZY25XcGxFUDRSQTVVdjVxTUk3aGVOVWFKbGVnZzZZUVhVZXAzVHczR3V3bGJ6Z1pKMDVNTTJ3cDNNYWJ2MTF2cDBwUTktakgzYWx6T19pTkc2UTZSNHcxUU8zamlZQS0tdTVFYXZ3UGpqa0MzUV9oTTF3RTZCTDFwS1VFNE50UQ?oc=5",
-      "source": "Social News XYZ",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-08T09:13:54.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 80,
-      "id": "9624f65f7346"
     },
     {
       "title": "Bluster and backdown have turned Iran war into Trump’s own Groundhog Day",
@@ -211,21 +198,60 @@
       "publishedAt": "2026-08-08T09:00:43.000Z",
       "image": "https://i.guim.co.uk/img/media/636bbed858110f0ae16e7427aa28a757460c79c8/1_0_2664_2132/master/2664.jpg?width=140&quality=85&auto=format&fit=max&s=cf9a5800e8077a2787185c48e53250c0",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "73f72da1efdb"
     },
     {
-      "title": "Typhoon Dolphin hits Japan, heads towards China",
-      "summary": "Five elderly people have suffered non-life-threatening injuries, with three falling due to the wind in Japan.",
-      "url": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
+      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
       "region": "亚洲",
-      "publishedAt": "2026-08-08T08:50:49.000Z",
-      "image": "",
+      "publishedAt": "2026-08-08T15:15:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e0d/live/cc337040-933c-11f1-a35f-039358cea467.jpg",
+      "topic": "气候",
+      "score": 78,
+      "id": "1cfd96ebc23f"
+    },
+    {
+      "title": "Hunter Biden talks about how his father’s cancer has spread and is causing him pain",
+      "summary": "Joe Biden’s prostate cancer is reportedly ‘debilitating’, even as ex-president continues to speak out on public issues Former US president Joe Biden ’s prostate cancer has spread to other parts of his body and is causing him pain, even as he continues to speak out on public issues, his son Hunter said in an interview. In a wide-ranging interview with the BBC",
+      "url": "https://www.theguardian.com/us-news/2026/aug/08/joe-biden-hunter-cancer",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-08T15:14:56.000Z",
+      "image": "https://i.guim.co.uk/img/media/5e5dc14b92252ea246f53251de2837de2a232ec9/817_4_2203_1762/master/2203.jpg?width=140&quality=85&auto=format&fit=max&s=ee4d187ff5ee41c80a0cf2bec0b0c120",
       "topic": "政治",
-      "score": 80,
-      "id": "dc760098efb9"
+      "score": 78,
+      "id": "7e6f4abe7a0c"
+    },
+    {
+      "title": "Turkey-Saudi-Pakistan Defence Pact | New Alliance Amid Iran Tensions | What It Means for West Asia",
+      "summary": "Turkey-Saudi-Pakistan Defence Pact | New Alliance Amid Iran Tensions | What It Means for West Asia &nbsp;&nbsp; WION",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONmJEbHFqdi1EaUFhelRHLXk0Z0dmdGFPSlJpdUtTT3ZzSk1mRkFoZDc2QWwxUUxaVkNNcklpai1JMlB5ajkyVUJUUEZCTUlYaU5lZFVvdURhMjNRak1iRDV3V2RKQWJvckM1ZUM1dzM2SFNNeUp3TnQ0MTFRaDU0MEg0SmgzVnJCdWRaSE51Z080QlkwSUZtcm1WbE9DQU1mUDN2ZHFhN0VZbVZBUERWRHllbmI2OGxVdzdKbHNLMk9WOWFoMmktZmp0cm96RVZhbFh1VkxR0gHbAUFVX3lxTE9lSkRmQm5Wa0ZhaFg4aGNQRzFyaU0yQWczQktpWnVieXVmWWZfNXVwUFUwNWM3czNUWmxaVnI5RndBbGZmRjJ2ajJiUmUtOTdZUmZrOV96eTY0UkMwRS1Xekltbld2VHkzT2luQ2w3Z0lUamNxVFZocHQ4UUpaWHcyRG5nWUowZHFlUU1mTTFmUllSZG5FNzcyblBTeWpoVThVX3VVYXZJVnlnNk9TMVNEWVFWNFZsa2ZiUFREblUyQWExRFpZaDNvdC1TSTdwaG5WelpELThpU0VBdw?oc=5",
+      "source": "WION",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-08T15:01:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 78,
+      "id": "f75852818bb6"
+    },
+    {
+      "title": "Saudi Arabia, Pakistan and Turkey sign defense deal, raising some alarm in the Middle East (Video)",
+      "summary": "Saudi Arabia, Pakistan and Turkey sign defense deal, raising some alarm in the Middle East (Video) &nbsp;&nbsp; Social News XYZ",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVVE0bzVsOHhPVUtqOXZvQ0hyZGhTWmg5SUdIaWkwWG1nTUl0TFBBcmpPcUFEeXVKalBwVFMzS3lvZ2VvSjhSS0xBNVhnZ2NZY25XcGxFUDRSQTVVdjVxTUk3aGVOVWFKbGVnZzZZUVhVZXAzVHczR3V3bGJ6Z1pKMDVNTTJ3cDNNYWJ2MTF2cDBwUTktakgzYWx6T19pTkc2UTZSNHcxUU8zamlZQS0tdTVFYXZ3UGpqa0MzUV9oTTF3RTZCTDFwS1VFNE50UdIBzgFBVV95cUxNVVE0bzVsOHhPVUtqOXZvQ0hyZGhTWmg5SUdIaWkwWG1nTUl0TFBBcmpPcUFEeXVKalBwVFMzS3lvZ2VvSjhSS0xBNVhnZ2NZY25XcGxFUDRSQTVVdjVxTUk3aGVOVWFKbGVnZzZZUVhVZXAzVHczR3V3bGJ6Z1pKMDVNTTJ3cDNNYWJ2MTF2cDBwUTktakgzYWx6T19pTkc2UTZSNHcxUU8zamlZQS0tdTVFYXZ3UGpqa0MzUV9oTTF3RTZCTDFwS1VFNE50UQ?oc=5",
+      "source": "Social News XYZ",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-08T09:13:54.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 78,
+      "id": "9624f65f7346"
     },
     {
       "title": "New York authorities warn about gold bar scam targeting seniors",
@@ -237,7 +263,7 @@
       "publishedAt": "2026-08-08T14:20:19.000Z",
       "image": "https://i.guim.co.uk/img/media/2c77df882150eb76b777dc4259a5e542e50fd92d/411_0_2841_2273/master/2841.jpg?width=140&quality=85&auto=format&fit=max&s=08eea9d156f78495bc66c24cd2236e40",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "3ba9850707a9"
     },
     {
@@ -250,8 +276,21 @@
       "publishedAt": "2026-08-08T10:55:15.000Z",
       "image": "https://i.guim.co.uk/img/media/8027c1fdddf706a9e01ebcddb107c82840683794/264_0_2638_2111/master/2638.jpg?width=140&quality=85&auto=format&fit=max&s=109c582d253efd2bd5c417eb72fb8c66",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "45744457c82e"
+    },
+    {
+      "title": "How to watch Argentina vs South Africa for FREE: live stream details as Springboks prepare for New Zealand - TechRadar",
+      "summary": "How to watch Argentina vs South Africa for FREE: live stream details as Springboks prepare for New Zealand - TechRadar &nbsp;&nbsp; Nuevo Enfoque Urbano",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdDZYcFdRSl96T1c1OXBjWGpNV3lRSml1enUzZV9lSGtZcHJjYXpjZVBfQWtDUC1TbUhlc1UwZmxDYk1IbnowTXFrQUdJZUo3R3U1enpVZG1iMm14MUY2cWhnaWZIaWZFbHNmSU9Yd1I3MHY5SlJ3dm5XWGdGYzk4NFUwV1UyeG9hTy1ISm9HeXcwSmhrME9nd01qNW13a1NuUHFmWkJveHJGOHZ6b2xLeldCZXdNaTEydDBPa0hkcW83LVlrT18tVXY3Qm44RTNkMG8zYlpxZDF2YXVIVVV6ODhteWY?oc=5",
+      "source": "Nuevo Enfoque Urbano",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-08T16:53:33.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "99f5fb5b3077"
     },
     {
       "title": "Israel mulls Saudi, Turkiye, Pakistan pact as elections loom",
@@ -263,21 +302,8 @@
       "publishedAt": "2026-08-08T13:42:06.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "324cf7a215cb"
-    },
-    {
-      "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
-      "summary": "Instead of scrapping its network of bomb shelters after the Cold War, Switzerland kept building them. The country has more than 370,000 nuclear bomb shelters. Some are now used to house migrants.",
-      "url": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "美洲",
-      "publishedAt": "2026-08-08T11:01:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 78,
-      "id": "f9d3a0050915"
     },
     {
       "title": "Lion saved as cub from Ukraine war and brought to US battles rare fungal disease",
@@ -289,8 +315,60 @@
       "publishedAt": "2026-08-08T13:00:46.000Z",
       "image": "https://i.guim.co.uk/img/media/cf66c14695c54ab16692a04eee41f66b379b3e14/0_0_7506_6009/master/7506.jpg?width=140&quality=85&auto=format&fit=max&s=c740d906d0c2c66584a959c765b3f0b2",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "22f56c65cb1f"
+    },
+    {
+      "title": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
+      "summary": "From the Premier League and La Liga to the UEFA Champions League, which players hold the key to their clubs' season?",
+      "url": "https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-08T16:26:36.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "3475666114c0"
+    },
+    {
+      "title": "Opposition MP hurls eggs at Kosovo Prime Minister",
+      "summary": "An opposition lawmaker threw eggs at acting Prime Minster Albin Kurti during a parliamentary session.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-08T16:09:06.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "c3b0f89bb4f3"
+    },
+    {
+      "title": "One of UK’s best fossil collections sold overseas in ‘loss to the nation’",
+      "summary": "Exclusive: Lack of funds left British museums unable pay eight-figure sum for collection, which went to Abu Dhabi institution One of the most important collections of UK Jurassic fossils ever compiled has been sold to a museum in Abu Dhabi, the Guardian can reveal, in what British experts have described as a loss for the nation. The collection, which was ama",
+      "url": "https://www.theguardian.com/science/ng-interactive/2026/aug/09/one-of-uks-best-fossil-collections-sold-overseas-in-loss-to-the-nation",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-08T16:00:02.000Z",
+      "image": "https://i.guim.co.uk/img/media/c8dc76fa6d9188b10098600f39f54f5660cdff8c/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=b9b59b2c4a6c2ce5289c2addd252b6de",
+      "topic": "社会",
+      "score": 75,
+      "id": "f22144026b47"
+    },
+    {
+      "title": "UNRWA has been with me since birth, I cannot imagine a future without it",
+      "summary": "The UN body has been part of the lives of millions of Palestinian refugees. Post-genocide Gaza cannot cope without it",
+      "url": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-08T15:52:49.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "3e7d7d2d04c7"
     },
     {
       "title": "Baker Boy wins big at NIMAs",
@@ -302,12 +380,12 @@
       "publishedAt": "2026-08-08T12:31:44.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/674ba9f9d9b6836f3eaf5359b70ee295?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "1f626a56e10e"
     },
     {
-      "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
-      "summary": "The drone incidents in Europe have ignited fears that Moscow's war on Kyiv is now entangling NATO nations.",
+      "title": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation",
+      "summary": "Drone incidents in Europe igniting fears that Moscow's war on Kyiv is entangling NATO nations.",
       "url": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
@@ -315,8 +393,8 @@
       "publishedAt": "2026-08-08T12:30:52.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
-      "id": "b51162474b9a"
+      "score": 75,
+      "id": "0d4e79a2276c"
     },
     {
       "title": "12-year-old girl’s death raises Thai school shooting toll to eight",
@@ -328,34 +406,34 @@
       "publishedAt": "2026-08-08T12:28:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "99d374e9cb13"
     },
     {
-      "title": "NBA forward Clarke's death due to effects of drugs",
-      "summary": "Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals.",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-08T12:05:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55a4/live/9faa1ba0-9323-11f1-be7f-7379a19ef5b2.jpg",
-      "topic": "政治",
-      "score": 76,
-      "id": "fdb2140e72a7"
-    },
-    {
-      "title": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
-      "summary": "Last month, Atletico filed a complaint to FIFA over Barcelona allegedly tapping up the 26-year-old forward.",
-      "url": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss",
+      "title": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
+      "summary": "Judicial and security sources say a routine embassy visit landed a wanted former Syrian general in a Beirut jail cell.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-08T12:01:17.000Z",
+      "region": "中东",
+      "publishedAt": "2026-08-08T15:42:03.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 76,
-      "id": "51cbee2dec12"
+      "topic": "社会",
+      "score": 74,
+      "id": "f05eaef561cf"
+    },
+    {
+      "title": "Thousands evacuated as huge wildfire spreads in Canada",
+      "summary": "A fast-moving wildfire has swept through western Canada, forcing thousands of people to evacuate their homes.",
+      "url": "https://news.sky.com/story/thousands-evacuated-as-huge-wildfire-spreads-in-canada-13571032",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "美洲",
+      "publishedAt": "2026-08-08T15:10:00.000Z",
+      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-wildfire-canada_7316902.jpg?20260808165032",
+      "topic": "气候",
+      "score": 74,
+      "id": "92f5425ea9b6"
     },
     {
       "title": "Where in the UK will get the best view of the solar eclipse?",
@@ -367,7 +445,7 @@
       "publishedAt": "2026-08-08T15:08:31.000Z",
       "image": "https://i.guim.co.uk/img/media/46b7e1a59fbb0ae612813dac37c0dd575e0ac0ba/1538_639_3236_2588/master/3236.jpg?width=140&quality=85&auto=format&fit=max&s=155f983f258b1eb8ee9efd135fe7c613",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "8752dbfbca15"
     },
     {
@@ -380,21 +458,34 @@
       "publishedAt": "2026-08-08T15:01:29.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "63c743933552"
     },
     {
-      "title": "Nicola Sturgeon ‘has not spoken to’ estranged husband, Peter Murrell, since he was jailed",
-      "summary": "Scotland’s former first minister says she will not visit Murrell in prison, where he is serving five-year sentence for embezzling SNP funds Nicola Surgeon has said she will not visit her estranged husband, Peter Murrell, in prison, has stopped speaking to him and views herself as a “mug” for worrying about his wellbeing and mental health earlier this year. D",
-      "url": "https://www.theguardian.com/politics/2026/aug/08/nicola-sturgeon-estranged-peter-murrell-jailed-no-contact",
-      "source": "The Guardian",
-      "feed": "The Guardian",
+      "title": "NBA forward Clarke's death due to effects of drugs",
+      "summary": "Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
       "region": "全球",
-      "publishedAt": "2026-08-08T14:50:25.000Z",
-      "image": "https://i.guim.co.uk/img/media/ac50c5401655409dbaeea3ec3b484de1df15e7f4/125_44_1368_1094/master/1368.jpg?width=140&quality=85&auto=format&fit=max&s=28c438cb085aaeed8065c022f42d8b32",
+      "publishedAt": "2026-08-08T12:05:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55a4/live/9faa1ba0-9323-11f1-be7f-7379a19ef5b2.jpg",
       "topic": "政治",
-      "score": 75,
-      "id": "238a290fe528"
+      "score": 74,
+      "id": "fdb2140e72a7"
+    },
+    {
+      "title": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
+      "summary": "Last month, Atletico filed a complaint to FIFA over Barcelona allegedly tapping up the 26-year-old forward.",
+      "url": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-08T12:01:17.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 74,
+      "id": "51cbee2dec12"
     },
     {
       "title": "The post-American Middle East is beginning to take shape",
@@ -406,21 +497,8 @@
       "publishedAt": "2026-08-08T11:34:38.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "dbd9819281fc"
-    },
-    {
-      "title": "Thailand school shooting death toll rises to nine after girl dies",
-      "summary": "Thailand has one of the highest rates of gun ownership in Asia.",
-      "url": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-08T11:31:57.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "601e39833813"
     },
     {
       "title": "Woman screams in fear as Ukraine war recruiters pounce on man",
@@ -432,21 +510,34 @@
       "publishedAt": "2026-08-08T11:29:44.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "9d5175ff97e8"
     },
     {
-      "title": "Trump LIVE: Trump's Explosive Iran Warning Puts Middle East On Brink; War 2.0 Hours Away? Celta Vigo - Levante (49tlvYVQEb)",
-      "summary": "Trump LIVE: Trump's Explosive Iran Warning Puts Middle East On Brink; War 2.0 Hours Away? Celta Vigo - Levante (49tlvYVQEb) &nbsp;&nbsp; Mshale",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5QjI2QTIwYkJUUERxNkh2NDQ4N0cxZmRJSHJCekgtOFFrWk9US3FDM2hMRTIwVmtrVEZnY0dDNGRzT0pfSWQwSEwxOW9yVTRIb1JyaUZoeEpMaTQ?oc=5",
-      "source": "Mshale",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-08T04:50:20.000Z",
+      "title": "Typhoon Dolphin hits Japan, heads towards China",
+      "summary": "Typhoon Dolphin hits Japan, heads towards China &nbsp;&nbsp; Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWdLMlczbkcwQkhTU2hXeDdEWXd4Z0hhRmdvNTF1MlN4MWMtbEVZU09NWEdSOTU2c3RPR3JmVEM5aVZfNzh0NXZTMV9KZU1LVk5UemgwRGhQSGN6QWxjYzZyQmQ3QmxTUVFKMjh3aldEa3FkNnFhUkhPRDd1RlU1YmdQejVqSVBiOGVfZjRIc9IBlAFBVV95cUxQdFNNS3d4Wi1UVHRxbzRfbGtIRmF3UHdOcUhNcEhDRUt5R2N2M3VTcUotdTlNV0toeGkwcHo1WVhiVlFIdnVSMWQ4bkNhcGEtbkwxOXJSTnZteHZfR29rY2xTVHVLaXRJSVRLRnU0VG82SG1lQTdOeWQwcW42djVYUF80T01UWms5SGVZSVpZTDV0MzFm?oc=5",
+      "source": "Al Jazeera",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-08T08:57:39.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
-      "id": "c99cbf4f16cc"
+      "score": 74,
+      "id": "dc760098efb9"
+    },
+    {
+      "title": "Nicola Sturgeon ‘has not spoken to’ estranged husband, Peter Murrell, since he was jailed",
+      "summary": "Scotland’s former first minister says she will not visit Murrell in prison, where he is serving five-year sentence for embezzling SNP funds Nicola Surgeon has said she will not visit her estranged husband, Peter Murrell, in prison, has stopped speaking to him and views herself as a “mug” for worrying about his wellbeing and mental health earlier this year. D",
+      "url": "https://www.theguardian.com/politics/2026/aug/08/nicola-sturgeon-estranged-peter-murrell-jailed-no-contact",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-08T14:50:25.000Z",
+      "image": "https://i.guim.co.uk/img/media/ac50c5401655409dbaeea3ec3b484de1df15e7f4/125_44_1368_1094/master/1368.jpg?width=140&quality=85&auto=format&fit=max&s=28c438cb085aaeed8065c022f42d8b32",
+      "topic": "政治",
+      "score": 73,
+      "id": "238a290fe528"
     },
     {
       "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
@@ -458,7 +549,7 @@
       "publishedAt": "2026-08-08T14:25:19.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/918c/live/9be54310-9331-11f1-8c55-af7610e137d7.jpg",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "715be76f18fa"
     },
     {
@@ -471,21 +562,47 @@
       "publishedAt": "2026-08-08T14:17:30.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "91cebb90a3db"
     },
     {
-      "title": "Live Updates: Latest from Israel, Iran, and Middle East",
-      "summary": "Live Updates: Latest from Israel, Iran, and Middle East &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwVVNnOUpORFZ1VEdYN253bnBTSDNYV256YzNCaTFHQU5vUTV0b3pKSHpKdVlIWnJCTnNmNXZpelU4VWpZUHo3bXdpZkdIMUo5MWRHdm9UVFRsVU1NRkNHUU8ySDV4NTRmWXRoenY0NjBHeHZsM2MtUmw2dzRId2c?oc=5",
-      "source": "The Jerusalem Post",
+      "title": "Projectile hits vessel near Hormuz - Shafaq News | Latest breaking news in Iraq and the world",
+      "summary": "Projectile hits vessel near Hormuz - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1dTRhb2ZyLXBBWk1STzNjOS1vZTFORzM5M1ZNLWlBZGpHanBfZndIaTdOYlFTUWxjR0tOQ0hERVJvUUg0MXZVbU1GRjlLSElyYi1Lbk1FVjhtMzhtLXNFeTdBWTdMajJBX09vVVYwUUVZUU0wUGtJ?oc=5",
+      "source": "شفق نيوز",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-08T14:00:05.000Z",
+      "publishedAt": "2026-08-08T14:11:26.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
-      "id": "acf88d717071"
+      "score": 73,
+      "id": "aae1d893143d"
+    },
+    {
+      "title": "Thailand school shooting death toll rises to nine after girl dies",
+      "summary": "Thailand has one of the highest rates of gun ownership in Asia.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-08T11:31:57.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 73,
+      "id": "601e39833813"
+    },
+    {
+      "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
+      "summary": "Instead of scrapping its network of bomb shelters after the Cold War, Switzerland kept building them. The country has more than 370,000 nuclear bomb shelters. Some are now used to house migrants.",
+      "url": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "美洲",
+      "publishedAt": "2026-08-08T11:01:00.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 73,
+      "id": "f9d3a0050915"
     },
     {
       "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
@@ -497,21 +614,8 @@
       "publishedAt": "2026-08-08T13:52:40.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "6186fb00c211"
-    },
-    {
-      "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
-      "summary": "Britain’s spooks take quiet satisfaction from survey ranking Secret Intelligence Service Europe’s top espionage agency MI6 has the swagger of James Bond; its French equivalent, DGSE, the complexities of the television drama Le Bureau. The film and TV shows may be fictional, but a survey run by a French magazine that placed the British spy agency above the Fr",
-      "url": "https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-08T11:00:44.000Z",
-      "image": "https://i.guim.co.uk/img/media/354788906a85a7941ccdeb267c685de8545e9d8d/506_0_2197_1757/master/2197.jpg?width=140&quality=85&auto=format&fit=max&s=dc2c1ef2fac8d731b46a3ecc4f5f8468",
-      "topic": "社会",
-      "score": 74,
-      "id": "a5520fc15e8b"
     },
     {
       "title": "K-pop's global wave inspires Chile's next pop stars",
@@ -523,21 +627,8 @@
       "publishedAt": "2026-08-08T13:34:45.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "672a12f33a54"
-    },
-    {
-      "title": "Irish government jet en route to Dubai to extradite alleged crime boss Daniel Kinahan",
-      "summary": "An Irish government jet is on its way to Dubai for the extradition of alleged gang boss Daniel Kinahan.",
-      "url": "https://news.sky.com/story/irish-government-jet-en-route-to-dubai-to-fetch-alleged-crime-boss-daniel-kinahan-13570966",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "全球",
-      "publishedAt": "2026-08-08T13:11:00.000Z",
-      "image": "https://e3.365dm.com/26/04/1920x1080/skynews-daniel-kinahan-ireland_7222935.jpg?20260418063645",
-      "topic": "政治",
-      "score": 73,
-      "id": "3980c0c83196"
     },
     {
       "title": "'Alcohol Problem': Trump's Military Shake Up In Europe Amid Ukraine War, Sacks Top General",
@@ -549,7 +640,7 @@
       "publishedAt": "2026-08-08T13:08:14.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "ad6ebae2cb28"
     },
     {
@@ -562,47 +653,21 @@
       "publishedAt": "2026-08-08T10:36:10.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "4ac09f9a5126"
     },
     {
-      "title": "More than 178,000 immigrants have suddenly fled or been deported from South Africa. Here's why",
-      "summary": "More than 178,000 immigrants have suddenly fled or been deported from South Africa. Here's why &nbsp;&nbsp; The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdFR1blM1RXJpRmt6MldWSlh0TFJoaHoyWHpRc3c1dVRTellkMHRYZnl2ektiX3NnbGhYYnU1SlJienJRQlJkQ1JtdEdjNVgyLVFHQmZLOEJlUDZ4ZTh5OVd6WEl2dnExSXFOUGg4V0R4T2x2bFlRZ3h6RzJUcHMyV05RUjFHZG5BQ3Rsc2paS1hFTHhxbWdtOGFQaF9la1lLWGk3Sjc5RERYQ2FaYS1nTVhfN3hLUDhMeThxWWVsbWFkcXFLWWFjV1JlTDBVZ2NWa0l2SlZIa2FwMVlrMEx3Ty1uMGNJQTBETlV3?oc=5",
-      "source": "The Washington Post",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-08T15:43:22.000Z",
+      "title": "Araghchi: Iran, Oman \"very close\" to Hormuz corridor deal - Shafaq News | Latest breaking news in Iraq and the world",
+      "summary": "Araghchi: Iran, Oman \"very close\" to Hormuz corridor deal - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaHIwd19zdlNaUURWaldDYmtQT2VRQ0Q2X2pxVTZPVXFTcU13NGhkU1RRNExkd0Ric3FKZVF1WmRsNExWUDhzOHJySndVZUtmVm1ya0hJeFpjUXJoYUZGNUZVMm5Pb2JLOHhrVWhGMFloSUh3UEduVDJ1c0dlRks5OVBVajQzWVNzUXY0Mlo3SXU?oc=5",
+      "source": "شفق نيوز",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-08T12:41:08.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
-      "id": "3ad3c4ed0a1f"
-    },
-    {
-      "title": "A new tropical wave is coming off the coast of Africa",
-      "summary": "A new tropical wave is coming off the coast of Africa &nbsp;&nbsp; WDSU",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUUs3ZXhmN255OHVWZXVULVEwcy1kYmFoY3FOeFEtZmp6RjBLMDJneVRXMzdTRWhKLV9jZnNnVzVtVmp0TGw0OU1fME1Sbl9HRm4weFF6eXRzZElSQ3c4N0xCUzBXRVlMd2dZWDVJREtnMy1DZWJEYk5uTktKb0k3T0xid25UX1N4WHE0M09KV0c2dlhJY2c?oc=5",
-      "source": "WDSU",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-08T15:41:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "33b6b3d68501"
-    },
-    {
-      "title": "Ivory Coast’s ‘talking drum’ returns to home village after 110 years",
-      "summary": "Ivory Coast's 'talking drum' returns to home village after 110 years",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-08T12:52:04.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "73eac2ae2575"
+      "score": 71,
+      "id": "d77ed8fd8b1f"
     },
     {
       "title": "Middle East war enters fourth day in 'smoke and blood'",
@@ -614,7 +679,7 @@
       "publishedAt": "2026-08-08T12:28:10.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "b5c70ea59d4e"
     },
     {
@@ -627,21 +692,8 @@
       "publishedAt": "2026-08-08T09:00:44.000Z",
       "image": "https://i.guim.co.uk/img/media/19973ee662f6750aafe1b450520fdeee330f96b6/1048_234_4707_3766/master/4707.jpg?width=140&quality=85&auto=format&fit=max&s=bd6628e73bf2c9eff817ebbd9b678f78",
       "topic": "科技",
-      "score": 72,
+      "score": 71,
       "id": "1637f7b0cb05"
-    },
-    {
-      "title": "Scratch of the day: local football season postponed due to ‘rock hard’ pitches",
-      "summary": "Drought and record heat have forced the Norfolk and Suffolk league to move kick-off to the end of August as the ground is deemed too dangerous to play on This summer’s record drought has forced a football league to delay the start of its season because “rock hard” pitches are a danger to its players. The 2026/27 season in the Anglian Combination League of 85",
-      "url": "https://www.theguardian.com/environment/2026/aug/08/scratch-of-the-day-local-football-season-postponed-due-to-rock-hard-pitches",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-08T09:00:43.000Z",
-      "image": "https://i.guim.co.uk/img/media/f3f2322a6aaf7576a948922a0346fee3fa972217/283_0_2952_2361/master/2952.jpg?width=140&quality=85&auto=format&fit=max&s=47e0145dcfb55805b11a6aa9b67c89d9",
-      "topic": "气候",
-      "score": 72,
-      "id": "c8b9a2490a71"
     },
     {
       "title": "Virgin Voyages launches ‘Europe Sale’ with up to $500 onboard credit",
@@ -653,8 +705,34 @@
       "publishedAt": "2026-08-08T08:44:08.000Z",
       "image": "",
       "topic": "科技",
-      "score": 72,
+      "score": 71,
       "id": "08dda6c9f6f0"
+    },
+    {
+      "title": "More than 178,000 immigrants have suddenly fled or been deported from South Africa. Here's why",
+      "summary": "More than 178,000 immigrants have suddenly fled or been deported from South Africa. Here's why &nbsp;&nbsp; The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdFR1blM1RXJpRmt6MldWSlh0TFJoaHoyWHpRc3c1dVRTellkMHRYZnl2ektiX3NnbGhYYnU1SlJienJRQlJkQ1JtdEdjNVgyLVFHQmZLOEJlUDZ4ZTh5OVd6WEl2dnExSXFOUGg4V0R4T2x2bFlRZ3h6RzJUcHMyV05RUjFHZG5BQ3Rsc2paS1hFTHhxbWdtOGFQaF9la1lLWGk3Sjc5RERYQ2FaYS1nTVhfN3hLUDhMeThxWWVsbWFkcXFLWWFjV1JlTDBVZ2NWa0l2SlZIa2FwMVlrMEx3Ty1uMGNJQTBETlV3?oc=5",
+      "source": "The Washington Post",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-08T15:43:22.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "3ad3c4ed0a1f"
+    },
+    {
+      "title": "A new tropical wave is coming off the coast of Africa",
+      "summary": "A new tropical wave is coming off the coast of Africa &nbsp;&nbsp; wdsu.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUUs3ZXhmN255OHVWZXVULVEwcy1kYmFoY3FOeFEtZmp6RjBLMDJneVRXMzdTRWhKLV9jZnNnVzVtVmp0TGw0OU1fME1Sbl9HRm4weFF6eXRzZElSQ3c4N0xCUzBXRVlMd2dZWDVJREtnMy1DZWJEYk5uTktKb0k3T0xid25UX1N4WHE0M09KV0c2dlhJY2c?oc=5",
+      "source": "wdsu.com",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-08T15:41:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "3c0c1f2eec57"
     },
     {
       "title": "New book chronicles Home of Hope for Girls story",
@@ -666,34 +744,8 @@
       "publishedAt": "2026-08-08T15:23:03.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "9f6b21dc7b93"
-    },
-    {
-      "title": "Not In My Name condemns murder of St Stithians pupil Cameron Waldeck-Crooks",
-      "summary": "Not In My Name condemns murder of St Stithians pupil Cameron Waldeck-Crooks &nbsp;&nbsp; ewn.co.za",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRXlBTmJfUjJXbnU5ZUZ0aW9kZWtYampvT0xoUS13QWM2UGZyRGRhdElwYmZjTkozcEJZRnB6V2FoNXpXNGVGVGtZUW9BWGt4N2JoMnF2bkRqRVB0VVhhSXJFbnoxM2I4RDZQVk5zWXp6NkpqODcyTHgwVXRhLXZxZWVINFFBREI1OWZyajdOZWUwNVAxaFF4dW41ZHdzNWhjUk9QWXBlRWkzZGpZ?oc=5",
-      "source": "ewn.co.za",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-08T14:37:38.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "42ff62aa6d0a"
-    },
-    {
-      "title": "Police bodycam and CCTV catches Idaho mall shooting as it unfolds",
-      "summary": "Police bodycam and CCTV catches Idaho mall shooting as it unfolds",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-08T12:07:23.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "ab69a19a3047"
     },
     {
       "title": "Arsenal complete signing of Newcastle midfielder Bruno Guimaraes",
@@ -705,7 +757,7 @@
       "publishedAt": "2026-08-08T11:49:27.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "8922f47fb971"
     },
     {
@@ -718,8 +770,47 @@
       "publishedAt": "2026-08-08T11:46:53.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "e1588ca50f5a"
+    },
+    {
+      "title": "Not In My Name condemns murder of St Stithians pupil Cameron Waldeck-Crooks",
+      "summary": "Not In My Name condemns murder of St Stithians pupil Cameron Waldeck-Crooks &nbsp;&nbsp; EWN",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRXlBTmJfUjJXbnU5ZUZ0aW9kZWtYampvT0xoUS13QWM2UGZyRGRhdElwYmZjTkozcEJZRnB6V2FoNXpXNGVGVGtZUW9BWGt4N2JoMnF2bkRqRVB0VVhhSXJFbnoxM2I4RDZQVk5zWXp6NkpqODcyTHgwVXRhLXZxZWVINFFBREI1OWZyajdOZWUwNVAxaFF4dW41ZHdzNWhjUk9QWXBlRWkzZGpZ?oc=5",
+      "source": "EWN",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-08T14:37:38.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 69,
+      "id": "9af7eed605b9"
+    },
+    {
+      "title": "Middle East Tourism Faces 2026 Shock as WTTC Sees Rebound",
+      "summary": "Middle East Tourism Faces 2026 Shock as WTTC Sees Rebound &nbsp;&nbsp; thetraveler.org",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcFZkVlNCcUVDSVV5SHI0bldmYWJ1Zmd0a2tFeXF4bTZTYVZ1dmpPT05yaDBVMW5zY2RRYmZwQWR6UkFTX2M2MHVVQ05OZG40aTVxeU5xSG96MWRXN1hyWUw3NkItVGR5Y0lwcTJwejJvMEdtN2tBTFBMWXAyRHBsYTVlMTdfM3loNWhfVWJISQ?oc=5",
+      "source": "thetraveler.org",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-08T14:28:05.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 69,
+      "id": "3405717ee3b0"
+    },
+    {
+      "title": "Europe automotive industry is missing out on billions in profits - Dependence on Asian battery producers is increasing.",
+      "summary": "Europe automotive industry is missing out on billions in profits - Dependence on Asian battery producers is increasing. &nbsp;&nbsp; batteriesnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRF8zcHhMejgxZUU4TjhDaFhsVTN5NXE4eERRR2JOUHc1U29FZ2FaVGZjNTNSaXZPUF9tcXRWYXhWbVQxdGIyY3RTTUpCUVNXb1VhVWl2ZC1BMlBQS1EwRnhqQ3d5Tnc2QV9lX2EyTjFiQUdhR19LTEoxQVRsS3JSZzBJeGZ3TXhabjBhUlZ6MEhnMVVaa0I3eTRyVmZXM3M2Y2NIZkM0LWY2czh0R1Q4Vmoxem5NVHFvX3UxNWtoaVl1aVJaQnpILXhWdjZNdXdNbkxCZGR4aVFGbE0?oc=5",
+      "source": "batteriesnews.com",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-08T14:12:49.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 69,
+      "id": "1290e812b488"
     },
     {
       "title": "Jemimah Rodrigues suffers hamstring injury, Asia Cup participation in doubt",
@@ -731,21 +822,8 @@
       "publishedAt": "2026-08-08T11:41:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 69,
       "id": "68b72349f08f"
-    },
-    {
-      "title": "Sports News | Indian Squad Announced for AHF Junior Asia Cup 2026",
-      "summary": "Sports News | Indian Squad Announced for AHF Junior Asia Cup 2026 &nbsp;&nbsp; LatestLY",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGN3d0tJVEZXR3EyNW5MS0hCcHE1MEg1S3ROMDdDZlpjMXlMNEFTTmpncGJNMVlmZGtycWZxQ0NyWmN0Sk5ETUdac21CbjZFNWRBcWw2eW9jZjlVdVBuZUtnTFVXN0tqOVNPWjNLRzJhUUVfNzFzdmRvcE5yQy12QmotQU43TlBhd3d2TUVZbHhFWjBXTUtsWTJYQ3V1NEhDLTlCQ3RsaHlBT1RkUVQ1eFJKMNIBuAFBVV95cUxNNllRVkloTmFXVElCQllNYmNVUnpFTFBiTnhZN0FqZGJvaWF1dFR2a0UzOGtjOGxNUG1fRktOVlQtZTVNVGZVUlBXc0FDelFJcnF6Zm5tVHVrM0hsZ3l0ZFpxdTJFRldNOHNtWlI2Qm51elNEYU9oU0pxSHZfamMxblpHcXlXaENrVkQ0dFNzVFdRczJhb3RyMTNoaGJkWUwzV3dYSEpvcmZ1dnBwbkVjT0FScFdmb3dO?oc=5",
-      "source": "LatestLY",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-08T13:58:21.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "5eafb43b0922"
     },
     {
       "title": "Will Jemimah Rodrigues Miss Women's Asia Cup 2026? Latest Injury Update",
@@ -757,8 +835,21 @@
       "publishedAt": "2026-08-08T11:24:03.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "c524b630124d"
+    },
+    {
+      "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
+      "summary": "Britain’s spooks take quiet satisfaction from survey ranking Secret Intelligence Service Europe’s top espionage agency MI6 has the swagger of James Bond; its French equivalent, DGSE, the complexities of the television drama Le Bureau. The film and TV shows may be fictional, but a survey run by a French magazine that placed the British spy agency above the Fr",
+      "url": "https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-08T11:00:44.000Z",
+      "image": "https://i.guim.co.uk/img/media/354788906a85a7941ccdeb267c685de8545e9d8d/506_0_2197_1757/master/2197.jpg?width=140&quality=85&auto=format&fit=max&s=dc2c1ef2fac8d731b46a3ecc4f5f8468",
+      "topic": "社会",
+      "score": 69,
+      "id": "a5520fc15e8b"
     },
     {
       "title": "Yemen’s collapsing healthcare forces the sick to seek alternative medicines",
@@ -770,7 +861,7 @@
       "publishedAt": "2026-08-08T10:58:46.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "618734d33c3f"
     },
     {
@@ -783,60 +874,47 @@
       "publishedAt": "2026-08-08T10:41:36.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "21190bd84ee7"
     },
     {
-      "title": "Yemen attacks Houthis, Turkey’s Kurdish peace bill wins approval, and other Middle East news",
-      "summary": "Yemen attacks Houthis, Turkey’s Kurdish peace bill wins approval, and other Middle East news &nbsp;&nbsp; WPLG Local 10",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeEVQWDZDMmFsWFhtN0ZUMWkzUGxwOUF4OXJ6UGdTY2t1UW5mMXFZczhqZzlUbVg4LVVjNWNnbk9IdGlOdm51YS1xZC1NSlphQzk2b1hfdzNtT1pKWC1wMUdDeXNqZk1QczdxdkUtYmlKWW5IRkFibEtGWl9OMFBqV2ZHRGc2RXRKNjFzV1BKR0EwRXg5Q0ZWSU1MT0ZNSWpjdkkzVWpVMXkxWUxuUDY3MHh2NmdZZXJpSEFUR21feFpPTU9USE5zOFZTR1JFazdFemc?oc=5",
-      "source": "WPLG Local 10",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-08T10:41:36.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "df99c8743bff"
-    },
-    {
-      "title": "How Israel’s occupation fuels resistance",
-      "summary": "Israel is trapped in a cycle it created.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-08T10:40:11.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "d5ba9fd3576c"
-    },
-    {
       "title": "Defense white paper discusses new ways of war, industry build-up",
-      "summary": "Defense white paper discusses new ways of war, industry build-up &nbsp;&nbsp; asahi.com",
+      "summary": "Defense white paper discusses new ways of war, industry build-up &nbsp;&nbsp; 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XN2E1UnJTczlXZGhsQVhuRXBPcGxkNjZuUUdGQ1lXNkdCOThfb0RYQ0dsZVVnUE5GOWpkbnFJaUdJckk3ZkdsOWcwSGZHZHFGWE5od2l0SHllaGNKS2c?oc=5",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "feed": "Asia News Network",
       "region": "亚洲",
       "publishedAt": "2026-08-08T10:37:41.000Z",
       "image": "",
       "topic": "政治",
-      "score": 70,
-      "id": "194baac0f3cd"
+      "score": 69,
+      "id": "a94074b74ebc"
     },
     {
-      "title": "CNA938 Rewind - Market Watch (31/7): Asian markets surged, led by KOSPI's record-breaking rally #SGToday",
-      "summary": "CNA938 Rewind - Market Watch (31/7): Asian markets surged, led by KOSPI's record-breaking rally #SGToday &nbsp;&nbsp; CNA",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMWVXY0dHSmJKTkQ2Yms1aHdQT3Y3aGx1Uk8wWEFnZzhTSmJQbmV5WG1vS3VMVTF0SXNqRUlKc3U2VUhJbzdDbi12MkVMR3NGMGRpTmNqWGRCbk11ZmxsTnpZVFQxZDk0MmhuZHhnSVd3TlE1V0pZdmRKU25HemxldGJ4R2pfMHczMFBIV3FIeGdoNnZWa05GOEo4cVhSdFgtMXZTMG0zNWtmSFZLemlpSW8wNjlqbDBqMC12Yy1MQkx0eldTZ09KRXhrdUl4M0FOSE4zR0pBbnJmN1JRR2RVay1FZ2gwOHZOa3RZajFrX1Z4Vy1DaElfV2UxdG1pcnJpd3c?oc=5",
-      "source": "CNA",
+      "title": "Sports News | Indian Squad Announced for AHF Junior Asia Cup 2026",
+      "summary": "Sports News | Indian Squad Announced for AHF Junior Asia Cup 2026 &nbsp;&nbsp; LatestLY",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGN3d0tJVEZXR3EyNW5MS0hCcHE1MEg1S3ROMDdDZlpjMXlMNEFTTmpncGJNMVlmZGtycWZxQ0NyWmN0Sk5ETUdac21CbjZFNWRBcWw2eW9jZjlVdVBuZUtnTFVXN0tqOVNPWjNLRzJhUUVfNzFzdmRvcE5yQy12QmotQU43TlBhd3d2TUVZbHhFWjBXTUtsWTJYQ3V1NEhDLTlCQ3RsaHlBT1RkUVQ1eFJKMNIBuAFBVV95cUxNNllRVkloTmFXVElCQllNYmNVUnpFTFBiTnhZN0FqZGJvaWF1dFR2a0UzOGtjOGxNUG1fRktOVlQtZTVNVGZVUlBXc0FDelFJcnF6Zm5tVHVrM0hsZ3l0ZFpxdTJFRldNOHNtWlI2Qm51elNEYU9oU0pxSHZfamMxblpHcXlXaENrVkQ0dFNzVFdRczJhb3RyMTNoaGJkWUwzV3dYSEpvcmZ1dnBwbkVjT0FScFdmb3dO?oc=5",
+      "source": "LatestLY",
       "feed": "Asia News Network",
       "region": "亚洲",
-      "publishedAt": "2026-08-08T07:06:12.000Z",
+      "publishedAt": "2026-08-08T13:58:21.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 68,
+      "id": "5eafb43b0922"
+    },
+    {
+      "title": "5 Gorgeous Undiscovered European Cities On The Coast That Won’t Break The Bank",
+      "summary": "5 Gorgeous Undiscovered European Cities On The Coast That Won’t Break The Bank &nbsp;&nbsp; Travel Off Path",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVJTUnhEckxMT1hHMDRiNmVISEZZQU5VWGRWRy1NUTRnY0ZadTVOM0RIZ2Q2WTU1UERUSDBQcEhRQVNzM3pDV3owc19aV1FxY25YSC1PRnk1RlY4ZDhCUTFneUxNMGo0ZHJCYnBoOGxwby0zS1p1N2hSeHhzNkRQRm05MUduMU45djZTMGViT1pJM1RCMlh3SE1yRVlYNWxwTU91UzNITkhJTVJ6?oc=5",
+      "source": "Travel Off Path",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-08T13:56:12.000Z",
       "image": "",
       "topic": "经济",
-      "score": 70,
-      "id": "a82e16f4c96d"
+      "score": 68,
+      "id": "5215c0093a0f"
     },
     {
       "title": "Sports News | Indian Junior Pickleball Players Shine at Asian Junior Championship, Secure Three Medals",
@@ -848,7 +926,7 @@
       "publishedAt": "2026-08-08T13:44:18.000Z",
       "image": "",
       "topic": "社会",
-      "score": 69,
+      "score": 68,
       "id": "1cda99da1455"
     },
     {
@@ -861,86 +939,8 @@
       "publishedAt": "2026-08-08T10:13:30.000Z",
       "image": "",
       "topic": "社会",
-      "score": 69,
-      "id": "60729ef44c04"
-    },
-    {
-      "title": "Mount Etna ash suspends arrivals at Italy’s Catania airport",
-      "summary": "Catania international airport services the eastern part of Sicily, one of Italy's most popular tourist destinations.",
-      "url": "https://www.aljazeera.com/news/2026/8/8/mount-etna-ash-suspends-arrivals-at-italys-catania-airport?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-08T10:10:13.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "ea8dbcb61233"
-    },
-    {
-      "title": "More Madrid demands a Permanent European Fund for migrant minors after the Ceuta crisis",
-      "summary": "More Madrid demands a Permanent European Fund for migrant minors after the Ceuta crisis &nbsp;&nbsp; Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPanpkLXB0VHpzcU1ESFM2YlJuVzk5aFQ5UkFUNWJhWWJ3ZDRuTGNPV05JVEItVFJLQXk5NFVwMnlDWUJHUk5yXzN3WGk0c0I3d28xVUc0NkhuakJkaTZMQmFZR3pObkFNWmhtRmJZZ3JFUXpQZWt6T29HZlpkQWE0MG00aGVMdUlwc2Q3RENfQ1o4YTFEWHBYZjhrUHhzNUQ4YUd3bzZ5Z2R3VS1uZkRzQXZJUVlFc3BMRGd5elhjMjM4cXPSAcgBQVVfeXFMUHB5WHNDNG1LYjNwTXBvOU8zeFhXMXBfaS1LZFRENzhMT3lXRmRPV3JGSlRVRmtXRUVrWDRyRFE0UHNSSS1LaURhU19ONGpXLXdqQjE0Y3JHTndKV3QxekNtU3ZDR2lESVhMT1dwV0U3bEZoQkFCLVFUbGVNUmhhZUd4NjZ6WDc5b2dILXhPenRGY0NuTURMOWgzc1FNYU56Z1UxR0M2M0RIUlZ3blk5NGxtNTA0OXdJQXU4Z1Y3RTBGa1ZpeGFPY18?oc=5",
-      "source": "Demócrata",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-08T09:30:24.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "4fb91af18bea"
-    },
-    {
-      "title": "Dogs to be euthanased after man's death in suspected attack",
-      "summary": "Dogs suspected of mauling a man to death at a distinctive large home in south-west Sydney will be euthanased, after also injuring a council worker.",
-      "url": "https://www.abc.net.au/news/2026-08-08/dogs-supected-of-fatal-attack-in-sydney-to-be-euthanased/107012384",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-08T03:16:41.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/9f88a4d14f3f1d837cc123f9da88fbbd?impolicy=wcms_crop_resize&cropH=901&cropW=1602&xPos=318&yPos=177&width=862&height=485",
-      "topic": "社会",
-      "score": 69,
-      "id": "8b698bcf50b9"
-    },
-    {
-      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-      "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
-      "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-08T00:02:49.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db46/live/2ce17130-927f-11f1-b2ab-0dd01740f9f6.jpg",
-      "topic": "政治",
-      "score": 69,
-      "id": "82b57c1eb487"
-    },
-    {
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-08-07T17:42:54.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
-      "topic": "社会",
-      "score": 69,
-      "id": "3853003924a5"
-    },
-    {
-      "title": "A L’Express survey named MI6 the best intelligence agency in Europe",
-      "summary": "A L’Express survey named MI6 the best intelligence agency in Europe &nbsp;&nbsp; UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTFBBWkkzRm4xcURmcm5vTDNmSzEzTjdXX2FPTVlGZEgwY04tSWZ4Y0FCeS1WVTFLaE9FUkw5RWpCU2J1ZGpNSnBUelN2UGlJRkxKLWdCMGFnOHlWOTJOQjBpV3VQZXlEVzBaWEN2Skp0YjBrZFp6ODN4ZnpKZ1Fpck50MmdpejVsNER3amU1U1hIMmdKVEd3aFJ3?oc=5",
-      "source": "UA.NEWS",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-08T12:15:10.000Z",
-      "image": "",
-      "topic": "社会",
       "score": 68,
-      "id": "1e478694722d"
+      "id": "60729ef44c04"
     }
   ]
 }
