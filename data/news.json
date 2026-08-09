@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T13:18:25.645Z",
+  "updatedAt": "2026-08-09T14:55:08.216Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -16,21 +16,60 @@
       "publishedAt": "2026-08-09T12:29:39.000Z",
       "image": "https://i.guim.co.uk/img/media/4b3ebbb27a298382cf514404f7afc68b64dbe38a/1024_0_7883_6308/master/7883.jpg?width=140&quality=85&auto=format&fit=max&s=b1d67f15bd43054197f8b769c23e99cf",
       "topic": "经济",
-      "score": 100,
+      "score": 98,
       "id": "ccac164313ef"
     },
     {
-      "title": "Middle East crisis live: Netanyahu rejects US’s Gaza plan and vows no withdrawal until Hamas disarms",
-      "summary": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump The US plan that would see Hamas disarmed and Israeli withdrawal from Gaza was announced at the end of July. Here’s a recap of the details of that plan from when it was announced: Announcing the agreement in a social media post, Trump said it involved the “complete disarmame",
+      "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+      "summary": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump Along with his rejection of the US Gaza plan earlier, Israeli prime minister Benjamin Netanyahu vowed once again to prevent Iran from obtaining nuclear weapons, regardless of the course of diplomacy with Washington and Arab states. “I want to emphasise once again: with an ag",
       "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "中东",
-      "publishedAt": "2026-08-09T13:01:41.000Z",
-      "image": "https://i.guim.co.uk/img/media/c83b4d0b48941cb84bb6e5152cbb19e557aca147/591_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=245d14a8ebb88a7db295dcc65e3d9b16",
+      "publishedAt": "2026-08-09T13:54:33.000Z",
+      "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
       "topic": "政治",
-      "score": 96,
-      "id": "55725c12008b"
+      "score": 95,
+      "id": "a28adf9fb33e"
+    },
+    {
+      "title": "Houthis claim attacks on Saudi oil facility and Yemeni port, and other Mideast news",
+      "summary": "Houthis claim attacks on Saudi oil facility and Yemeni port, and other Mideast news &nbsp;&nbsp; 102.3 KRMG",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb1dEdlZTMjJ2eTR6X1RjRTFhRnRzQnlGRWdoVlc0ajdTa2NvNkFvUHlSZFhXRE4yWjlZNU5JZTZEbjdwUG1MNnpqb284NFRQOGtUM2JRZWtTdDY4THlWeEtTMWhtSkJ6a3d1VXJ1bDItaVdMbVZCdE4waS1laEYtVGg2Q2todGNHeTZfQUoydmZlblR5OXo0alNSN2xMOTgzdFYtWUUxS1JnS05rX3UtdkVHZ0FjUktzQTJGUWFrcw?oc=5",
+      "source": "102.3 KRMG",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-09T14:48:45.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 92,
+      "id": "3e72af9f5a66"
+    },
+    {
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "summary": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-08-09T14:18:10.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/449b/live/1de67870-93f5-11f1-a10f-45ed743c6e4b.jpg",
+      "topic": "政治",
+      "score": 91,
+      "id": "db95bc45c44b"
+    },
+    {
+      "title": "Netanyahu rejects Trump’s Board of Peace plan for Gaza",
+      "summary": "Israel rejects Trump’s 15-point Gaza plan, Netanyahu says.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-09T13:15:54.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 90,
+      "id": "128129631d18"
     },
     {
       "title": "Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news - ABC News",
@@ -42,47 +81,34 @@
       "publishedAt": "2026-08-09T09:52:17.000Z",
       "image": "",
       "topic": "经济",
-      "score": 93,
+      "score": 90,
       "id": "eeef570efd3b"
     },
     {
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "summary": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
+      "title": "Netanyahu rejects Gaza plan, in new break from Trump",
+      "summary": "Netanyahu rejects Gaza plan, in new break from Trump &nbsp;&nbsp; CNA",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb213a09zWFNiMXdfeVlVSHJIcEd0MkFLckV3a1lES05XcF9iM1RHMGVRbmd1aVZHY3JaTU8ydGUyc2pKSnJIZUpCZkRlcmNySDlnMGQ3UmozbFpyZUd6d040Uml0X1dnMFJzMTB3b2hHaV9GYjlROVJpN2w3Q1JiYkZXQXVQUnJCdExiQ2NBb2I3UmtBT0pERkdjYw?oc=5",
+      "source": "CNA",
+      "feed": "Asia News Network",
       "region": "中东",
-      "publishedAt": "2026-08-09T12:12:10.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c0/live/8df702a0-93e7-11f1-8231-7d4e2048054e.jpg",
-      "topic": "政治",
-      "score": 91,
-      "id": "db95bc45c44b"
-    },
-    {
-      "title": "Netanyahu rejects Trump's Board of Peace plan for Gaza",
-      "summary": "Benjamin Netanyahu says he rejects a 15-point plan for Gaza by Donald Trump's Board of Peace.",
-      "url": "https://news.sky.com/story/israeli-prime-minister-benjamin-netanyahu-rejects-trumps-board-of-peace-plan-for-gaza-13571334",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "中东",
-      "publishedAt": "2026-08-09T11:23:00.000Z",
-      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-gaza-palestinians_7317452.jpg?20260809125253",
-      "topic": "社会",
-      "score": 90,
-      "id": "465b2fdec08e"
-    },
-    {
-      "title": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
-      "summary": "Saudi Energy Ministry gives no cause, but Houthis claim attack at refinery. No casualties reported.",
-      "url": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-09T07:58:00.000Z",
+      "publishedAt": "2026-08-09T13:45:04.000Z",
       "image": "",
       "topic": "社会",
-      "score": 90,
-      "id": "5c0aae65718b"
+      "score": 87,
+      "id": "110e1ce1058e"
+    },
+    {
+      "title": "Saudi Arabia's defense pact with Turkey, Pakistan complicates peace with Israel",
+      "summary": "Saudi Arabia's defense pact with Turkey, Pakistan complicates peace with Israel &nbsp;&nbsp; jpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xemcxYlBmdE1ESjJ4VDZpMHBoRnRsUndsYVlxWkxVb1dVYTZCVC1ONXVMRlJqWGpjV0UyMjNMVWZwSnZPTHBfYTZuTDE4UmhPTEpoVWRUZG5YN1pR?oc=5",
+      "source": "jpost.com",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-09T13:39:10.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 86,
+      "id": "3a36096d94ab"
     },
     {
       "title": "Which other countries could join the Turkiye-Saudi-Pakistan defence pact?",
@@ -94,8 +120,34 @@
       "publishedAt": "2026-08-09T11:59:59.000Z",
       "image": "",
       "topic": "政治",
-      "score": 87,
+      "score": 85,
       "id": "c1602918c3ca"
+    },
+    {
+      "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
+      "summary": "Rage-baiting efforts of Trump accounts silenced after posts such as a video linking her Red album to Republicans Some of Taylor Swift ’s songs have been removed from videos posted on social media by Donald Trump ’s campaign and the White House, silencing efforts to mock the pop star. A video posted 3 August featuring the US president and the first lady, Mela",
+      "url": "https://www.theguardian.com/us-news/2026/aug/09/taylor-swift-songs-removed-trump-white-house-posts",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-09T14:33:46.000Z",
+      "image": "https://i.guim.co.uk/img/media/3061128d1ecf3aa61fe3f6421191463751f7166e/470_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=e919a7067c4ced6f4c720e4aa615797b",
+      "topic": "政治",
+      "score": 84,
+      "id": "bae807320fd1"
+    },
+    {
+      "title": "Trump targets birthright citizenship again",
+      "summary": "US President Donald Trump has signed two new executive orders targeting birthright citizenship.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/trump-targets-birthright-citizenship-again?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-09T14:20:31.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 84,
+      "id": "1379b2be4e88"
     },
     {
       "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
@@ -107,8 +159,21 @@
       "publishedAt": "2026-08-09T10:55:06.000Z",
       "image": "",
       "topic": "政治",
-      "score": 86,
+      "score": 84,
       "id": "a86dd4ef826d"
+    },
+    {
+      "title": "Turkey Expects Egypt to Join Defense Agreement with Saudi Arabia and Pakistan",
+      "summary": "Turkey Expects Egypt to Join Defense Agreement with Saudi Arabia and Pakistan &nbsp;&nbsp; jordannews.jo",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZmNUd29vYzVaUlNjNmxwVGNnZ0tTVnRMLXpUSXFRbGEtZ0JoVG12TFlfTTlETHpCTzZoV2x0R3NvYXI5bkVsYmpsUFBVZVhiYm1jWnFTZnJ1Rl90dExROGYzc3FCSlYwVzBsaFlINmw3bUJURXhKU3h3QzltMEMwQWNRWTRjUTI4R0ExNGFGaTNuMzdrOWplLWVsZDVQbGNoSG9PTGlFZm9lNGlkUXYwSTJFN2FXbGJpRF9LUDB1VnhlSUVFV0d3TU05bGY?oc=5",
+      "source": "jordannews.jo",
+      "feed": "Middle East News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-09T08:35:45.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 84,
+      "id": "43af36e8d360"
     },
     {
       "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
@@ -120,11 +185,11 @@
       "publishedAt": "2026-08-09T10:02:59.000Z",
       "image": "",
       "topic": "政治",
-      "score": 85,
+      "score": 83,
       "id": "69ab9af674b7"
     },
     {
-      "title": "Parents of baby girl killed at nursery fear unsafe sleeping ‘rife’ across England",
+      "title": "Parents of baby girl killed at nursery fear unsafe sleeping ‘rife’ in sector across England",
       "summary": "Katie and John Meehan say responses to campaign they launched after death of daughter Genevieve must be ‘wake-up call’ The parents of a nine-month-old girl who died after being placed in an unsafe sleeping position at nursery said they feared poor practice may be “rife” across England. Genevieve Meehan suffocated when she was strapped face down to a beanbag ",
       "url": "https://www.theguardian.com/education/2026/aug/09/parents-baby-killed-in-care-poor-practice-rife-nurseries-england",
       "source": "The Guardian",
@@ -133,12 +198,12 @@
       "publishedAt": "2026-08-09T13:00:16.000Z",
       "image": "https://i.guim.co.uk/img/media/fa1a8cbbd246dcd48a76127aaf6b02fa52093999/1053_132_7034_5628/master/7034.jpg?width=140&quality=85&auto=format&fit=max&s=1507c4b271b6d75a131023a619b885d5",
       "topic": "科技",
-      "score": 84,
-      "id": "6a89a061174b"
+      "score": 82,
+      "id": "56c52688a39d"
     },
     {
       "title": "Top Democrats simulate election threats as Trump continues assault on voting",
-      "summary": "Chuck Schumer and other senators took part in exercises in which legal experts laid out election disruption scenarios In a Washington DC conference room last month, some of the most senior Democrats in the US Senate gathered to plan for a prospect that only recently would have felt more attune to science fiction: they started to wargame democracy. Chuck Schu",
+      "summary": "Chuck Schumer and other senators took part in exercises in which legal experts laid out election disruption scenarios In a Washington DC conference room last month, some of the most senior Democrats in the US Senate gathered to plan for a prospect that only recently would have felt more akin to science fiction: they started to wargame democracy. Chuck Schume",
       "url": "https://www.theguardian.com/us-news/2026/aug/09/democrats-election-disruption-planning-exercises",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -146,8 +211,21 @@
       "publishedAt": "2026-08-09T12:00:14.000Z",
       "image": "https://i.guim.co.uk/img/media/4b0ca9b25c2eb9dd83304452b8c682b684434ed6/880_0_4480_3583/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=b001a6221a07a00b69af5d6b1cb3c16b",
       "topic": "政治",
-      "score": 83,
+      "score": 81,
       "id": "6c68a015e7ab"
+    },
+    {
+      "title": "Chinese EV sales surge to new high in Europe, putting tariffs under scrutiny",
+      "summary": "Imports this year now account for 14% of the market amid claims vehicles are being dumped in the EU and UK Chinese electric car sales have risen across Europe to a record high driven by strong demand and low tariffs in the UK and a surge in buyers in Italy. Against a backdrop of claims that Chinese carmakers are “dumping” state-subsidised vehicles in the EU ",
+      "url": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-09T14:30:58.000Z",
+      "image": "https://i.guim.co.uk/img/media/e5fe24d1799da0408c9ca663658b3d23e982aae5/300_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=86c6d405ea029535366ef8d23fcac925",
+      "topic": "经济",
+      "score": 80,
+      "id": "e89d4685db0d"
     },
     {
       "title": "Body of woman found in suitcase by side of road in regional NSW",
@@ -159,7 +237,7 @@
       "publishedAt": "2026-08-09T11:46:58.000Z",
       "image": "https://i.guim.co.uk/img/media/3196c32ea1f275a17536e3a24a9bbf783e04a010/716_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=244fd5f0742b69fefdc9a99eb3234d38",
       "topic": "社会",
-      "score": 82,
+      "score": 80,
       "id": "e59723afb40c"
     },
     {
@@ -172,8 +250,60 @@
       "publishedAt": "2026-08-09T10:45:57.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 80,
       "id": "c7c8dd0b11c7"
+    },
+    {
+      "title": "Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say",
+      "summary": "Experts warn Israel's new administrative zones in Gaza seek to erase the Palestinian cause and force mass displacement.",
+      "url": "https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-09T13:54:41.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "f61fa0a9d31a"
+    },
+    {
+      "title": "Zelenskyy says 50,000 North Korean troops will help Russia in war",
+      "summary": "Mr Zelenskyy took to social media to announced that \"a decision has been made for 30,000 to 50,000 North Koreans to be deployed on the territory of Russia\", while calling on South Korea to provide support for Ukraine's air defence.",
+      "url": "https://www.abc.net.au/news/2026-08-09/zelenskyy-says-50-000-north-korean-soldiers-will-help-russia/107014914",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "欧洲",
+      "publishedAt": "2026-08-09T13:48:16.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/6fee036e6c9413e8b1fded471c31b7d3?impolicy=wcms_crop_resize&cropH=2199&cropW=3909&xPos=0&yPos=15&width=862&height=485",
+      "topic": "政治",
+      "score": 79,
+      "id": "cfedbd95bde9"
+    },
+    {
+      "title": "‘The wealthy poor’: Soaring food prices hurt Iranian families",
+      "summary": "Iranians from all walks of life struggle under the weight of rising inflation and war pressure.",
+      "url": "https://www.aljazeera.com/features/2026/8/9/the-wealthy-poor-soaring-food-prices-hurt-iranian-families?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-09T13:23:05.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 78,
+      "id": "ad17fb4ec01e"
+    },
+    {
+      "title": "Business News",
+      "summary": "Business News &nbsp;&nbsp; LatestLY",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPV1F4VnZ1cEJvdDdfWHF1bnV1Zk9HV0Y2WnZkYjNydmxLdm01Q2VXZlNieGFwbkZTaWl1eGcxTEdDNHZmUzd1dWRzaDhvaGZpV3JRd3JkQ3FoWGlPcEFtS2dVcV8wWFpLMTdwM2loY3hCMEhhUWRiMTlMdHpVQ1JMem9SNW91eHJOdDF6ZXZseXJMeEtTRWJqT1pPenhYd05VS0FXeVhLXzAtbTBmdzFyY2JtakoyTWxkT3phTWFOVjh5T182c2VnT3R0RFp1QmlUQVMxUmtDcDEtM0FoVXZCOEtBOHh0SVBaWUh0OUJBQUFyYkFtdndueTgxYnJCUEIxZFpOSGh0MjlIVGlLUHBUdkZ2SHpWQdIBmwJBVV95cUxQYkQyM3puRTR1V3JzM3R1QjVSWWhiSUVfNHdGbklTQjJmc0Zsbm5PMktFRmpjTEFfWHpXcEZMUWpleEgyMXZZaTgzcy1WbDI0bFE2Q0VvVUZjQ0JvMnVrekJYR3MycWRBd2lpMzZRbDhlTFNxcnVub1EyV0ZrM2JuNTNVbktIb2lHQ0xvVDRkb0VrdjJJNkRzQ0E2NVlFUk1RWEQwa3FmbG5RNWt5aVhVV2FhcjhBMUNxeHVqN01sandtdkNYckRqUmM2aEFNZTVpc0g5VjRtR2VROW1xUENsU25jcmppUHR0QVllYnBSa1JnWl9kd1JENEYtS0VqV0RiNjUxWnR6S1k0VTZFNko2ZVZITnJ6Z2NCd0Yw?oc=5",
+      "source": "LatestLY",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-09T13:18:23.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 78,
+      "id": "6b32fde4815e"
     },
     {
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
@@ -185,7 +315,7 @@
       "publishedAt": "2026-08-09T13:08:21.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/8ee7ee90-9374-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "b965b6f90628"
     },
     {
@@ -198,8 +328,99 @@
       "publishedAt": "2026-08-09T12:51:17.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/5627467bdbc90ec8f33f6791bda6b0c2?impolicy=wcms_crop_resize&cropH=296&cropW=526&xPos=0&yPos=71&width=862&height=485",
       "topic": "社会",
-      "score": 79,
+      "score": 77,
       "id": "f28bf03af6e9"
+    },
+    {
+      "title": "United States Drives Record Tourism Boom in The Bahamas",
+      "summary": "United States Drives Record Tourism Boom in The Bahamas &nbsp;&nbsp; thetraveler.org",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXFaRGpDaVNQem9Ld1JNWl9Id3l3endOdEhMQTZyNmlmQ05XTjZJMjVGSWVIbzdQZE9qb1BYOWI0MDNzTEV2WUhPNmJNbWhmZVBaQnhMUmJUUW5wcU9zdGc2UC14N053QjhsRHRfdkFnV21LazZiOFBCZEE1a0d3VDhyVXEtRC1mNjJyaA?oc=5",
+      "source": "thetraveler.org",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-09T14:49:05.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "6b7b8f1da48c"
+    },
+    {
+      "title": "Gaza engineer builds animal shelters out of empty cans",
+      "summary": "Gaza engineer builds animal shelters out of empty cans",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-09T14:28:34.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "a3b865f3474c"
+    },
+    {
+      "title": "The Mecca pact is not just another regional alliance",
+      "summary": "It could set the stage for a profound transformation of regional security in the Gulf.",
+      "url": "https://www.aljazeera.com/opinions/2026/8/9/the-mecca-pact-is-not-just-another-regional-alliance?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-09T14:23:13.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "0fa18b4c1dfd"
+    },
+    {
+      "title": "Paramilitary promises footage of supreme leader unseen since March",
+      "summary": "Video of Iran's supreme leader Mojtaba Khamenei who has not been seen in public since he assumed the role in March, has been promised by a paramilitary leader.",
+      "url": "https://www.abc.net.au/news/2026-08-10/footage-of-irans-supreme-leader-promised/107014896",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "中东",
+      "publishedAt": "2026-08-09T14:19:06.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/5f53a68101d89b0397f570c156f2855d?impolicy=wcms_crop_resize&cropH=2054&cropW=3651&xPos=0&yPos=94&width=862&height=485",
+      "topic": "政治",
+      "score": 75,
+      "id": "a4164e5a7eb7"
+    },
+    {
+      "title": "A pretty penny: three Banksy artworks cost taxpayers £150,000 in upkeep",
+      "summary": "Shadow justice secretary says artist should foot bill, while others say his murals make art accessible Three Banksy artworks have cost taxpayers almost £150,000 in cleaning, security and other costs, with the bill expected to rise. The largest bill relates to a mural painted on the Royal Courts of Justice in London in September 2025, where efforts to remove ",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/09/banksy-artworks-huge-upkeep-costs-taxpayer",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-09T14:09:47.000Z",
+      "image": "https://i.guim.co.uk/img/media/33e34cb39e9338df40e276b2e9df48623df9ce8b/659_0_4341_3475/master/4341.jpg?width=140&quality=85&auto=format&fit=max&s=fd603f4f3f90c2d4e1ddbe677b421852",
+      "topic": "政治",
+      "score": 75,
+      "id": "5f9bae413a35"
+    },
+    {
+      "title": "Most X accounts posting about Belfast and Southampton unrest were based outside UK",
+      "summary": "Exclusive: Analysis shows 55% of accounts were located overseas – and seven of 12 most-read posts came from US More than half the accounts that posted on Elon Musk’s X about the rioting in Belfast and the civil disorder in Southampton in June were based outside the UK, an analysis by the Guardian can reveal. Of the 8,672 accounts whose combined posts about t",
+      "url": "https://www.theguardian.com/world/2026/aug/09/x-accounts-posts-belfast-southampton-riots-june-2026-analysis",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-09T14:00:55.000Z",
+      "image": "https://i.guim.co.uk/img/media/e3ad3f320233fae63d9d27dfe1cc7c64f28b9fad/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d1e55c62336296181ed8b38c823c18c3",
+      "topic": "社会",
+      "score": 75,
+      "id": "d8fcce701289"
+    },
+    {
+      "title": "British MotoGP: Raul Fernandez dominates at Silverstone to beat Martin",
+      "summary": "Aprilia rider's victory over Jorge Martin extends Silverstone’s run of different Grand Prix winners to twelve in a row.",
+      "url": "https://www.aljazeera.com/sports/2026/8/9/british-motogp-raul-fernandez-dominates-at-silverstone-to-beat-martin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-09T13:53:53.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "1d5e4296e4d8"
     },
     {
       "title": "FIFA decries ‘concerted’ effort to undermine Infantino as crisis deepens",
@@ -211,21 +432,34 @@
       "publishedAt": "2026-08-09T10:30:11.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 75,
       "id": "e36a2edfd3e4"
     },
     {
-      "title": "Taylor Swift songs removed from Donald Trump social media posts",
-      "summary": "Despite their long-running feud with the pop superstar, the Trump White House and campaign had used several Swift tracks in TikTok videos, including the 2020 song August for a video showing the US president and First Lady Melania Trump watching fireworks.",
-      "url": "https://www.abc.net.au/news/2026-08-09/taylor-swift-songs-removed-from-donald-trump-social-media-posts/107014750",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-09T10:21:27.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/c4d8c35dbbc90023a392c5c44f1fa323?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=176&width=862&height=485",
-      "topic": "政治",
-      "score": 77,
-      "id": "5ad6d8b16e88"
+      "title": "Why does Iran defeat the empires trying to conquer it?",
+      "summary": "On the second episode of Deja Vu, we look at Iran and the great powers that have tried to shape it.",
+      "url": "https://www.aljazeera.com/video/deja-vu-2/2026/8/9/why-does-iran-defeat-the-empires-trying-to-conquer-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-09T13:36:24.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "2cf1863d79be"
+    },
+    {
+      "title": "Barzani says Iraqi Kurdistan wants peace as regional tensions rise",
+      "summary": "Barzani says Iraqi Kurdistan wants peace as regional tensions rise",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/barzani-says-iraqi-kurdistan-wants-peace-as-regional-tensions-rise?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-09T13:28:55.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "6440ff266628"
     },
     {
       "title": "Indonesia closes national park in East Java as wildfire expands",
@@ -237,7 +471,7 @@
       "publishedAt": "2026-08-09T13:13:46.000Z",
       "image": "",
       "topic": "气候",
-      "score": 76,
+      "score": 74,
       "id": "13cc744ca5bd"
     },
     {
@@ -250,21 +484,8 @@
       "publishedAt": "2026-08-09T12:56:59.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "34ab37bc7190"
-    },
-    {
-      "title": "Cyprus natural gas to supply Europe by first half of 2028, minister says, as EU seeks new sources - ABC News",
-      "summary": "Cyprus natural gas to supply Europe by first half of 2028, minister says, as EU seeks new sources &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbTFhVGRreEp0YmZSeGlkd1ZNN0pCdzlmV25aRXFoMUdfUGVuZ0ZXSzQ2eFFuYXlHdWVhejBVbkhtczBIMXZWOGhtWkxDNHlLNzlIN0F2Y1hCOUQ1RjV6NjdhNC1pVEF4azRSUzBzVFh1aHNETVhKOWR2ektZX3U4TXk3Y2NDb2F6WTE1NTdhUWRTN0Z4QkFmTk9lWWZxNHN5VkY1cElvVETSAa4BQVVfeXFMTjJ4SDJ6cVNWRHprQTVtM3VmQ0tQN1RoV3FadGg5cDdqRk5VbjE0S19xRGtHVmk2RmlfTzh0dGFCYzE2dDhHbmhUaW5YMlpYN1YtcUVGX1BRZGl1Tk9UVlY5QWcwRTFQVGpaem91YjNYNGE3bFBUd2JHemZDT0VWTzNFdExGWHctb0dNSXZQaVhrODMxQXhkS2t0dGk4WWVRWHR4WlVYT2p4WlpGbjV3?oc=5",
-      "source": "Breaking News, Latest News and Videos",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-09T09:33:45.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 76,
-      "id": "8759e9019c35"
     },
     {
       "title": "In Munich, it's never too early for a breakfast beer with sausage and pretzels",
@@ -276,7 +497,7 @@
       "publishedAt": "2026-08-09T12:48:36.000Z",
       "image": "",
       "topic": "经济",
-      "score": 75,
+      "score": 73,
       "id": "2cf3864808f2"
     },
     {
@@ -289,7 +510,7 @@
       "publishedAt": "2026-08-09T12:42:48.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "603bfc30234a"
     },
     {
@@ -302,7 +523,7 @@
       "publishedAt": "2026-08-09T12:39:18.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6578/live/9e6e94f0-8bfd-11f1-a52a-dba993a97936.jpg",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "8dd5500b612d"
     },
     {
@@ -315,7 +536,7 @@
       "publishedAt": "2026-08-09T12:27:26.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bf5/live/b85c51b0-93f3-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "654d4a9ced65"
     },
     {
@@ -328,60 +549,8 @@
       "publishedAt": "2026-08-09T12:07:51.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "0000cd4e9738"
-    },
-    {
-      "title": "Iran war live: Tehran demands end to Strait of Hormuz blockade as US pushes for deal closure",
-      "summary": "Iran war live: Tehran demands end to Strait of Hormuz blockade as US pushes for deal closure &nbsp;&nbsp; Arabian Business",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
-      "source": "Arabian Business",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-09T09:06:10.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "52074e7c2be2"
-    },
-    {
-      "title": "AI push is putting banks at mercy of tech firms, warns Moody’s",
-      "summary": "Finance sector will gain from the tech but it will need substantial investment and create risks, says rating agency The rating agency Moody’s has said the race to adopt AI is putting big banks at the mercy of a small group of Silicon Valley firms, leaving them vulnerable to widespread outages and price gouging by profit-hungry tech bosses. The financial sect",
-      "url": "https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-09T09:00:10.000Z",
-      "image": "https://i.guim.co.uk/img/media/155f183baa3a7bbeae6d10fead4d288fa7bc8e66/1241_0_6468_5174/master/6468.jpg?width=140&quality=85&auto=format&fit=max&s=608d6815661c79c0aab4311f1b98c7c4",
-      "topic": "经济",
-      "score": 75,
-      "id": "4fa172bb55bd"
-    },
-    {
-      "title": "Flight cancellations, evacuations as China braces for Typhoon Dolphin",
-      "summary": "Over 1,600 flights cancelled as Typhoon Dolphin approaches China's eastern coast, with winds reaching 162km/h overnight.",
-      "url": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-09T08:37:37.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "3221814040a1"
-    },
-    {
-      "title": "Wildfire forces thousands of evacuations in Western Canada",
-      "summary": "A fast-moving wildfire has forced more than 20,000 people to evacuate parts of British Columbia’s Okanagan region.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-09T06:10:08.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 75,
-      "id": "f641fe590d3f"
     },
     {
       "title": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
@@ -393,21 +562,8 @@
       "publishedAt": "2026-08-09T11:58:02.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "fad565b82742"
-    },
-    {
-      "title": "‘US and Iran are talking past each other’ in indirect negotiations",
-      "summary": "‘US and Iran are talking past each other’ in indirect negotiations",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/us-and-iran-are-talking-past-each-other-in-indirect-negotiations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-09T11:53:03.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "e079ef9621dc"
     },
     {
       "title": "Hundreds forced onto Rome streets amid crackdown on squatted building",
@@ -419,7 +575,7 @@
       "publishedAt": "2026-08-09T11:31:54.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "11f4c984b1c8"
     },
     {
@@ -432,34 +588,47 @@
       "publishedAt": "2026-08-09T11:24:49.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "4c424453b538"
     },
     {
+      "title": "Pitso Mosimane’s reported R5m Bafana offer dwarfed by previous coaches’ pay packets",
+      "summary": "Pitso Mosimane’s reported R5m Bafana offer dwarfed by previous coaches’ pay packets &nbsp;&nbsp; EWN",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdmR0SEo5Yzd6bXBxZkhMdDN5VGk2UXVLbEFWV1FqLXhTbmV6d2YwdnBhQ01JZVlHcHg4ajZWR1dGRl9lbXNJMUp6cUhZSlpjdHdGNF9XaFFqblFFWUc3RkpUc2VoU0N2a1JHSUZ4MGlQMjduRDJZTm5paXFoZzJOcjdFZGdwN0h2S2lTYUFKOTBDaFEtV1JnSmpzV1ZYdVJvV3EyeXRzLTg?oc=5",
+      "source": "EWN",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-09T11:23:49.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 72,
+      "id": "f660db0ee479"
+    },
+    {
       "title": "Treasury warns expanding SRD grant could come with a nearly R100bn price tag",
-      "summary": "Treasury warns expanding SRD grant could come with a nearly R100bn price tag &nbsp;&nbsp; ewn.co.za",
+      "summary": "Treasury warns expanding SRD grant could come with a nearly R100bn price tag &nbsp;&nbsp; EWN",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVV6b2kxeWM0RVppZzRfMWhWZk1IZWNJUmZPT3hObFlYV3VKWTBDdlMxV3pJVXdldlJZZnpRTi1RZ0M2NXNETWVqQkc5LVYzMVhBQmN6d2NEeE9sVHJNQXBOMlVVQXpDcmhFbUEyYmQzX1Z2VmFzX0U0U0pOb1NjeWhLN1BaNUJQQzV2T1BwSlBuNDNuaXhZMnFzeENlMnZm?oc=5",
-      "source": "ewn.co.za",
+      "source": "EWN",
       "feed": "Africa News Network",
       "region": "非洲",
       "publishedAt": "2026-08-09T11:23:46.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
-      "id": "7b8e32514257"
+      "score": 72,
+      "id": "3d8a7c5fe330"
     },
     {
-      "title": "Pitso Mosimane’s reported R5m Bafana offer dwarfed by previous coaches’ pay packets",
-      "summary": "Pitso Mosimane’s reported R5m Bafana offer dwarfed by previous coaches’ pay packets &nbsp;&nbsp; ewn.co.za",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdmR0SEo5Yzd6bXBxZkhMdDN5VGk2UXVLbEFWV1FqLXhTbmV6d2YwdnBhQ01JZVlHcHg4ajZWR1dGRl9lbXNJMUp6cUhZSlpjdHdGNF9XaFFqblFFWUc3RkpUc2VoU0N2a1JHSUZ4MGlQMjduRDJZTm5paXFoZzJOcjdFZGdwN0h2S2lTYUFKOTBDaFEtV1JnSmpzV1ZYdVJvV3EyeXRzLTg?oc=5",
-      "source": "ewn.co.za",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-09T11:15:00.000Z",
+      "title": "No lockdown planned, Government assures amid West Asia crisis; fuel prices stabilised",
+      "summary": "No lockdown planned, Government assures amid West Asia crisis; fuel prices stabilised &nbsp;&nbsp; DD News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ1NGaU5rOGo3bUpOU0dWQjJKMkpoQ1pZeXMxMkhDa3B1dmRDOFRUYnItalFZRVhXV0VxSzZ0MVRlTTBLZktiSmNBeFdiSzlOVGRlV2NQUkRYTjQ5dU92OVpsc0JQb0dyREhXOFBxRXBUNGlpcmY3UWZmMFQwdURra2xISXRnaHZBM2JiTGlIMjhDQmxHU0ZNNE9PNGNQWTAzaURCQUhqZXZWTENpQmc?oc=5",
+      "source": "DD News",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-09T11:11:15.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
-      "id": "52f5a0d8be26"
+      "score": 72,
+      "id": "6c9c286fdab5"
     },
     {
       "title": "Body found in suitcase in southern NSW",
@@ -471,7 +640,7 @@
       "publishedAt": "2026-08-09T08:42:04.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/bc9791eb995085049a4f6237a07cce16?impolicy=wcms_crop_resize&cropH=3915&cropW=6960&xPos=0&yPos=363&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "ad36c2cfcb74"
     },
     {
@@ -484,21 +653,21 @@
       "publishedAt": "2026-08-09T07:39:00.000Z",
       "image": "",
       "topic": "气候",
-      "score": 74,
+      "score": 72,
       "id": "12826156713a"
     },
     {
-      "title": "Iran makes new strait demands, the UAE says a ship was targeted and other Middle East news",
-      "summary": "Iran makes new strait demands, the UAE says a ship was targeted and other Middle East news &nbsp;&nbsp; KCRA",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWk1oTlFRTVdONlhmYmkzQTVsWTlWVVMwdnRUUDR1emxiWXNLR1ZLSThsUUVqZ0N2b1FrS0U3bWVFLVZHXzB6a1hwV0Uwd0dHcHdqTS1EYlJHY2Z6UlQ1ME5iLUF1OW5Gd1pWVi1wVFA5aFFPTS1xOE5VQ3FFbm9pUVNFYXNPTXFCX3Z0YmlmSFZva1JBTmowVy1RRV9rZWc2YWxYa1N6TzFPMVpWMUZFNktXcnYwc3NPSzhfckNsc3J0S2pDTXc?oc=5",
-      "source": "KCRA",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-09T01:58:00.000Z",
+      "title": "Two ocean anomalies could reshape Europe’s winter of 2026-2027",
+      "summary": "Two ocean anomalies could reshape Europe’s winter of 2026-2027 &nbsp;&nbsp; BGNES",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcldIZFFXS1JUNDg2Z2YxN0pvUWt4MU1FMFM3UDU5VGx0dGdlRG5IVXhaSDdQQ2otLTkzUFplUjNTYVFjZ2Vvck5EY3FCckNzWEgweWlEMm5sTTVJOFlXVXROWEt3Rk12aFFzMFNDeVZNRDFGSUdPMjRRcXgxSXdXOXZLTjYtb1Q1Y2NEWEdoeC1PcVJYd2c?oc=5",
+      "source": "BGNES",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-09T14:03:22.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
-      "id": "1fe9f62d208d"
+      "score": 71,
+      "id": "f81268699e74"
     },
     {
       "title": "New Fremantle Traffic Bridge to open ahead of schedule",
@@ -510,7 +679,7 @@
       "publishedAt": "2026-08-09T11:02:17.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/eb96225feb0715d28e795dfe976fd470?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=466&width=862&height=485",
       "topic": "经济",
-      "score": 73,
+      "score": 71,
       "id": "95931cfd3ba6"
     },
     {
@@ -523,7 +692,7 @@
       "publishedAt": "2026-08-09T11:00:15.000Z",
       "image": "https://i.guim.co.uk/img/media/3c731f67887cd034e0b9ebc3a1001981b6f404bd/196_0_3121_2496/master/3121.jpg?width=140&quality=85&auto=format&fit=max&s=4ea699e9e727e61b95b4592de8ecddac",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "6192afb4b07e"
     },
     {
@@ -536,7 +705,7 @@
       "publishedAt": "2026-08-09T10:45:52.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "3ce4ff563945"
     },
     {
@@ -549,21 +718,21 @@
       "publishedAt": "2026-08-09T10:35:58.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/15bbe5196d132d8365b686e3670a0484?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "经济",
-      "score": 73,
+      "score": 71,
       "id": "fd871357ae03"
     },
     {
-      "title": "Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day",
-      "summary": "Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say.",
-      "url": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-09T10:35:00.000Z",
+      "title": "A top US general in Europe abruptly removed from command - ABC News",
+      "summary": "A top US general in Europe abruptly removed from command &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejVlb1d5OGFxaFdDcDEwRDNncmFZQ1hjZmhSVGlqWnJFd0hYXzhSd1pPTWFQNEhSOWdrZ2FqbzFOTXBtaHpqNUZZQ0h5aEo5cUxvN0RKcGdFREI5eGNCaGkyNm5GUmtaZjdUTHFiZVRwOWk4dHUyMXlSTzRZMXNubk1RY191TUpYOXpSUjE3eGhKc01VbnRhUlV30gGfAUFVX3lxTE8tYkdxWk9WVWNYRVZ4REZoWVBMUnhucWJ2TVRJbzRNT2thTXhHdlYzMC05Q19SeVAzOFdhZTFZSndwbW1lazNOUEx6TkdkRy10MmN0dHlmZFJVWWxtY2tYSVdyOHRhUFU3NVhZUWJMbU5BeXp5czFCaDlBNW11OXZlU0l4REE4QnFJLW8zcjJyV3RBaVUzR0pTMmdyVEVPOA?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-09T10:29:12.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "12860c4694ed"
+      "topic": "社会",
+      "score": 71,
+      "id": "301fd58d5702"
     },
     {
       "title": "'Mind-blowing' near misses along Adelaide rail lines prompt plea to pedestrians",
@@ -575,7 +744,7 @@
       "publishedAt": "2026-08-09T07:38:23.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/75018615a0a5119e9ad72d32122dcef4?impolicy=wcms_crop_resize&cropH=1289&cropW=2291&xPos=262&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 73,
+      "score": 71,
       "id": "90bfa139233a"
     },
     {
@@ -588,7 +757,7 @@
       "publishedAt": "2026-08-09T07:00:08.000Z",
       "image": "https://i.guim.co.uk/img/media/cf6e5500a73b1c6d7beda2064a865f481d67eb3b/1333_0_6667_5334/master/6667.jpg?width=140&quality=85&auto=format&fit=max&s=ee3bb0b09606c2675caa9815550f3c78",
       "topic": "政治",
-      "score": 73,
+      "score": 71,
       "id": "68ead043a1a5"
     },
     {
@@ -601,7 +770,7 @@
       "publishedAt": "2026-08-09T10:15:10.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "893c33b9cf35"
     },
     {
@@ -614,7 +783,7 @@
       "publishedAt": "2026-08-09T10:10:06.000Z",
       "image": "https://i.guim.co.uk/img/media/c7c6df6f05c20be27a2e0cb1cefc04bb29cc77cd/511_0_4859_3886/master/4859.jpg?width=140&quality=85&auto=format&fit=max&s=280ae3c8a7e7d9f8a66b1d87b9767fbd",
       "topic": "政治",
-      "score": 72,
+      "score": 70,
       "id": "57c106a97345"
     },
     {
@@ -627,7 +796,7 @@
       "publishedAt": "2026-08-09T09:44:28.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "903111208a99"
     },
     {
@@ -640,7 +809,7 @@
       "publishedAt": "2026-08-09T09:38:51.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "37d25cac1faa"
     },
     {
@@ -653,21 +822,21 @@
       "publishedAt": "2026-08-09T09:37:16.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 70,
       "id": "bf6cff752aba"
     },
     {
-      "title": "Israel advances plan for 627 settler units in occupied West Bank",
-      "summary": "New settlement tender in West Bank deepens Israeli efforts to sever Palestinian ties to Jerusalem, officials warn.",
-      "url": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-09T06:57:56.000Z",
+      "title": "Asia stocks struggle for direction, oil moves higher",
+      "summary": "Asia stocks struggle for direction, oil moves higher &nbsp;&nbsp; The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVmpoZnF1VFNjRmpLaTRGRTdDcUd5eVdBZzY1XzlxNDl2Tzh2YnJ0RW93TGM5TzJPQk1PU3FzTUZKOEh0RkdaWEozdHlIU2pLajR3anZObDZBNGUwSjJ6czlCQUZ2UHZLcWZ3NFBOaDlrVnBvOFhnZW16VDdlU3hkeFh6SkJIbnRBNmRxR0Z0UnFPTXREZlpDM0JnQzFIZDEwSlHSAacBQVVfeXFMTzV1RzdGNHM1ZWxvV28tT1FWNktzNFVoY0pNd2RvME1ZMlJXTGZWRDNFN2Q2T1VKM3hsSjU0QnRHR3BBN3FhcEdQRzE2YTg0WFRHUVdvQXVwR25yYnJZSmdzd0VvVmVCTC1vSU4wSGpkeGw0WVpBOF80VGVwWGZCRkg5QzJSQllGdEdfQUVyWkVsOFhuYUxpWU1mcXR4WmhpV0hwV01JNTg?oc=5",
+      "source": "The Business Standard",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-09T12:43:49.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "aad20bb2c913"
+      "topic": "经济",
+      "score": 69,
+      "id": "ed065f2fd438"
     },
     {
       "title": "Malala calls for solidarity against gender oppression in Afghanistan",
@@ -679,21 +848,34 @@
       "publishedAt": "2026-08-09T12:20:58.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 69,
       "id": "bdf5b92474e3"
     },
     {
       "title": "Afghan women seeking inspiration from South Africans to combat Taliban oppression - Malala Yousafzai",
-      "summary": "Afghan women seeking inspiration from South Africans to combat Taliban oppression - Malala Yousafzai &nbsp;&nbsp; ewn.co.za",
+      "summary": "Afghan women seeking inspiration from South Africans to combat Taliban oppression - Malala Yousafzai &nbsp;&nbsp; EWN",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZkZvUVkzU1dBczRUYzBPcExQY3NhNG5YdU1UOF9JUktqeGRWVTc5R084TnVGQmFYejdlQmVpZ0QydTVoLTF5SmwzVGcyektXdDhRSUdZVFBFRldmT3RzUlpjSW1DTW9ucWk3Ny1LcngyTlEzajlLTXdLeU5CekIwRGJ2QXFObmpNZWxKUEt3Ylp6VjRwSU1INTRtLUUzaHFxTGV2cXBJNVpEelF2bmlFT3h4UHAybEkxNVp6YUFB?oc=5",
-      "source": "ewn.co.za",
+      "source": "EWN",
       "feed": "Africa News Network",
       "region": "非洲",
       "publishedAt": "2026-08-09T12:19:11.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
-      "id": "96f29f1d3f55"
+      "score": 69,
+      "id": "07a965cfac6b"
+    },
+    {
+      "title": "A Glimpse of Africa Festival returns to Grand Rapids, but in a scaled-back format",
+      "summary": "A Glimpse of Africa Festival returns to Grand Rapids, but in a scaled-back format &nbsp;&nbsp; MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLVVMVld4ZUJzQW9VRFllTjFUWUtZbWxDdnhLM3I1MVVhQnB3bGY5LW5SOHk2aDdGVURDNjlLUm1uS3lvaGZMOW8wSEJmV3VDT0dUNnNOS0hBbjgtYVpxUDdEQlZUbDgwcTUzbEpmTE1BUlE0ODIybU9SazJ5RXRXYzJDbW5IUW9zc3NzUGI0UHY5a1laV0NJZTBDRFNwUmE0R2hMT3FBdDdXRUNRWVRmMkZ6dzNXMGRvR3BwTlBoU1NXRzdXNDB0RG1GOHA4d21wQUJjVGJyUkNZVTRlZU90SkxR0gHiAUFVX3lxTE8tVUxWV3hlQnNBb1VEWWVOMVRZS1ltbEN2eEszcjUxVWFCcHdsZjktblI4eTZoN0ZVREM2OUtSbW5LeW9oZkw5bzBIQmZXdUNPR1Q2c05LSEFuOC1hWnFQN0RCVlRsODBxNTNsSmZMTUFSUTQ4MjJtT1JrMnlFdFdjMkNtbkhRb3Nzc3NQYjRQdjlrWVpXQ0llMENEU3BSYTRHaExPcUF0N1dFQ1FZVGYyRnp3M1cwZG9HcHBOUGhTU1dHN1c0MHREbUY4cDh3bXBBQmNUYnJSQ1lVNGVlT3RKTFE?oc=5",
+      "source": "MLive.com",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-09T12:15:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 69,
+      "id": "c9410544137c"
     },
     {
       "title": "Blues start AFLW season with 26-point win over Saints",
@@ -705,7 +887,7 @@
       "publishedAt": "2026-08-09T09:15:37.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c7cad101b117711626cd3c5a359ddad6?impolicy=wcms_crop_resize&cropH=1326&cropW=2357&xPos=0&yPos=17&width=862&height=485",
       "topic": "社会",
-      "score": 71,
+      "score": 69,
       "id": "2a8c2720a907"
     },
     {
@@ -718,7 +900,7 @@
       "publishedAt": "2026-08-09T09:05:47.000Z",
       "image": "",
       "topic": "政治",
-      "score": 71,
+      "score": 69,
       "id": "b196f61ec081"
     },
     {
@@ -731,34 +913,8 @@
       "publishedAt": "2026-08-09T09:00:12.000Z",
       "image": "https://i.guim.co.uk/img/media/96f320c73f4f2f639d9bb6f3269a7448d6967fd3/139_0_4166_3333/master/4166.jpg?width=140&quality=85&auto=format&fit=max&s=c8c0c17695feddd9e75bd0685f0b4a96",
       "topic": "社会",
-      "score": 71,
+      "score": 69,
       "id": "cd5037802c5b"
-    },
-    {
-      "title": "Where are the Ugandan boxers? Four are latest athletes to vanish after UK sports events",
-      "summary": "Team manager has ‘no idea’ why they disappeared, after reports one of Commonwealth Games athletes said they intended to claim asylum Years of arduous preparation and training had come to fruition and the pressure was finally lifted. After competing for their country in the Commonwealth Games in Glasgow, athletes from Uganda were afforded a couple of days’ si",
-      "url": "https://www.theguardian.com/sport/2026/aug/09/where-are-ugandan-boxers-athletes-vanish-uk-sports-events",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-09T09:00:11.000Z",
-      "image": "https://i.guim.co.uk/img/media/0723f4533443547288c5bb04df34534b7b31a589/537_0_4046_3237/master/4046.jpg?width=140&quality=85&auto=format&fit=max&s=ae4043c09bc98c88f0635dde677a5724",
-      "topic": "社会",
-      "score": 71,
-      "id": "72e2afd981f0"
-    },
-    {
-      "title": "Israeli raids, settler attacks sweep West Bank - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "Israeli raids, settler attacks sweep West Bank - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMEVCWlZZcjFteWdqV1d4TkxLLV9xMHBqSHdqaGYwLWpaRnRTdmxyUzBQVXl0SUk0SkdFZVZHczcyX3REelJVanRVb25jYWRyVkFjUGZwUGZVQU5FSzRvMmtIUXBIazV2Zk1sOXl2S2xFMU9oUktNQXI5THpINUIyeHBBM2xZdw?oc=5",
-      "source": "شفق نيوز",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-09T05:42:52.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 71,
-      "id": "6d4f829c5078"
     },
     {
       "title": "CNA938 Rewind - Will we continue to see record-breaking million-dollar resale flat transactions?",
@@ -770,177 +926,21 @@
       "publishedAt": "2026-08-09T05:42:37.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 69,
       "id": "52f5c022f457"
     },
     {
-      "title": "Sydney gardener fined almost $200,000 for removing 287 trees to improve harbourside mansion’s water views",
-      "summary": "Local council described incident as ‘worst act of environmental vandalism in Lane Cove history’ Get our breaking news email , free app or daily news podcast It began with a gardener being hired to trim grass at a harbourside mansion in Sydney – and escalated to payments being left in a shoe for the unlawful felling of hundreds of native trees in protected bu",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/09/trees-vandalism-lane-cove-council-sydney-gardener-fined-court-longueville-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-09T05:35:39.000Z",
-      "image": "https://i.guim.co.uk/img/media/6f04c097bcfbdc9f945a8b4ee546e26b7460da0f/125_0_1875_1500/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=11c89d274a6fa4a166a63dd8863d4c5b",
-      "topic": "气候",
-      "score": 71,
-      "id": "bfa6ab0cbbb5"
-    },
-    {
-      "title": "Women’s Day in South Africa turns 70 with equality still out of reach",
-      "summary": "The 1956 march transformed women’s rights and political power, but millions still cannot fully enjoy those gains.",
-      "url": "https://www.aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "非洲",
-      "publishedAt": "2026-08-09T08:37:39.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "e3f5bdcf357c"
-    },
-    {
-      "title": "Munster free to play after dangerous contact charge downgraded",
-      "summary": "Melbourne Storm five-eighth Cameron Munster avoids suspension after the NRL match review committee downgrades his dangerous contact charge from Saturday's win over Manly.",
-      "url": "https://www.abc.net.au/news/2026-08-09/cameron-munster-dangerous-contact-charge-downgraded/107014712",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-09T08:26:01.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/88723128b05f0d2b89d849222d675f4f?impolicy=wcms_crop_resize&cropH=1151&cropW=2046&xPos=0&yPos=185&width=862&height=485",
-      "topic": "气候",
-      "score": 70,
-      "id": "6281fa83eb4a"
-    },
-    {
-      "title": "Banyana Banyana’s WAFCON exit leaves World Cup hopes hanging by a thread",
-      "summary": "Banyana Banyana’s WAFCON exit leaves World Cup hopes hanging by a thread &nbsp;&nbsp; ewn.co.za",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkx4bWtvaWdOQXN4NUZzMXd4b1ZuVXc0aE9FNHNvREJoU1VZRERXNU1QVmlpQkhmQktoQmswNmJDa2lERFl0WDAxcGw2QWdiNkNtVklxSlJvN2FqaXFHb3ctSUFnTlhrLWFtVDhYal8xZ1RJaVl6YXdNWjROT3JIWUh0eDBmRDBSbF9OdHNGcVRjWGNGR1dMbFlMZ3V4akprU2g1OV9NQmY?oc=5",
-      "source": "ewn.co.za",
+      "title": "2026 film festivals and markets calendar: latest dates",
+      "summary": "2026 film festivals and markets calendar: latest dates &nbsp;&nbsp; Screen Daily",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZkE0MTRabzdEUTJEbGxOQWd3dVVIS25BVlhYRlg5U2hXbGRQSk9ibi1iaUNLemwzMC1VRFhiRUN4VWZCajRMLXJlZU9sdkt4VG9PUXM0RUJBTnQweUszU0pGbzZxUlMwTDBIUXJkQjVPLW1kTjd6NHcwQUZLOWJ5dEZrMzdMMUx4SjFvQTZLVWRlb2xLVFEtbWtXWUk1UWtKeFNXYQ?oc=5",
+      "source": "Screen Daily",
       "feed": "Africa News Network",
       "region": "非洲",
-      "publishedAt": "2026-08-09T08:10:51.000Z",
+      "publishedAt": "2026-08-09T11:59:01.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "8f2b54a6feaa"
-    },
-    {
-      "title": "Pak Shouldn’t Go Anti-Iran Under Mecca Pact, Saudi Forcing It To Enter Middle-Eastern Wars: Shia Cleric | E",
-      "summary": "Pak Shouldn’t Go Anti-Iran Under Mecca Pact, Saudi Forcing It To Enter Middle-Eastern Wars: Shia Cleric | E &nbsp;&nbsp; News18",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ3pQTTdGM0I1TmhKaDQ5Znk1emkxakVXbm5iRkRjZjN1LUhMd1NFY2d0U3F1WTBuV3FDTjNqYnVERDBybHlzMzRFSWptcmhRYlJmR1gzSG5mTm9hN3VGZmxsQXVSV3NGSkV6NVBlSV9aSVRJZFlmR3pIeHZmMEwxMlVYemFsNVBSejdsUHlXa2kyaXJaUmtLbWxxcUFCQW96Mi1GT3ctVlJSZDB6a21GNE1tLUoycFFnT2pZVHd4d1ZoSDRoRkdPMDByNWU1alVSOWdpU2QyeVhHS3hsd3NHLUFKTVhDZUFKZ21DZE9zUUdhSWtzZEVRUGdrb1_SAfwBQVVfeXFMT2d6UE03RjNCNU5oSmg0OWZ5NXppMWpFV25uYkZEY2YzdS1ITHdTRWNndFNxdVkwbldxQ04zamJ1REQwcmx5czM0RUlqbXJoUWJSZkdYM0huZk5vYTd1RmZsbEF1UldzRkpFejVQZUlfWklUSWRZZkd6SHh2ZjBMMTJVWHphbDVQUno3bFB5V2tpMmlyWlJrS21scXFBQkFvejItRk93LVZSUmQwemttRjRNbS1KMnBRZ09qWVR3eHdWaEg0aEZHTzAwcjVlNWpVUjlnaVNkMnlYR0t4bHdzRy1BSk1YQ2VBSmdtQ2RPc1FHYUlrc2RFUVBna29f?oc=5",
-      "source": "News18",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-09T08:04:37.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 70,
-      "id": "159c9c79afc8"
-    },
-    {
-      "title": "Iran issues new demands as Pezeshkian seeks deal",
-      "summary": "Senior Iranian security official sets broader conditions for reopening Hormuz.",
-      "url": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-09T05:06:02.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "5dc01b0b9102"
-    },
-    {
-      "title": "Plastics contamination an ‘overlooked’ concern in food waste schemes, experts say",
-      "summary": "Researchers find microplastics can persist in compost, leaching into agricultural soils Plastic contamination should be a central concern in efforts to deal with food waste, which campaigners call one of the most overlooked problems of the climate crisis, researchers have said. This is despite the fact that, as the chef, author and activist Max La Manna puts",
-      "url": "https://www.theguardian.com/environment/2026/aug/09/plastics-pollution-food-waste-landfill-recycling-research",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-09T05:00:06.000Z",
-      "image": "https://i.guim.co.uk/img/media/12f3d66621ae10a2bf4257f916f3a7998184d2ea/309_0_3848_3078/master/3848.jpg?width=140&quality=85&auto=format&fit=max&s=6a538b637f873dab28dbdfde74a18d4d",
       "topic": "经济",
-      "score": 70,
-      "id": "a50a1f8cffc6"
-    },
-    {
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-08T18:06:25.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
-      "topic": "政治",
-      "score": 70,
-      "id": "bb13025ecf3b"
-    },
-    {
-      "title": "Full List of Top Government Officials from 3 Countries Whose US Visas Trump Administration Revoked",
-      "summary": "Full List of Top Government Officials from 3 Countries Whose US Visas Trump Administration Revoked &nbsp;&nbsp; Legit.ng",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmU2N0cyZDVHTkdfQmo5aGl0SG5wT2duUTFVMEUtVWFJc2tnR0xqMkxZd3hIZ0oyc2ZyaWhicWNnV2kwVVhGTGp2T21fLVdlSzNCbENRYnlqQU13QW1Wc2JCTWhFa0hqWjlRRGRFU1NJbHFOZEdXN2JyZjYzZ3ViNmkyclFCTnhHQjUzd0tVVWE0ZVFsTnZrYU1aaFlPQXBDRWJhM0NWck55eVJK?oc=5",
-      "source": "Legit.ng",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-09T11:13:57.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 69,
-      "id": "0df8a725fa26"
-    },
-    {
-      "title": "‘Farm owners are crying now’: SA migrant exodus leaves employers short-handed",
-      "summary": "‘Farm owners are crying now’: SA migrant exodus leaves employers short-handed &nbsp;&nbsp; News24",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcTJLT1NMQmI2emRMOVZBUWJlbzhfR0JRZ0pPemhzdkxFV3U1TzZqc0x0aGEtd0FhQ3FQSFZURWRac253alVQcXdpRnUzNFU0d1lwLUZTR2dfUld3RUo1c0h2RUx4Y3RwR3g3Z19SZk54X3NBaURTWWRzcUNQWFhkRXJEVHVHZG1Ld1lIcHBXTGhUakpRSm81SGRzMEtBT2QzdGVnTnZ3dFptNzUxZ2VVX1pBVklLRTM1aFFmRXBfRnNVdWxscmFZ?oc=5",
-      "source": "News24",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-09T11:02:51.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "4c2273b548ca"
-    },
-    {
-      "title": "Meet the 10 top-funded startups and tech companies in Thailand",
-      "summary": "Meet the 10 top-funded startups and tech companies in Thailand &nbsp;&nbsp; Tech in Asia",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdTNUZzFwc1hQMUJBSVE2bmoxeUNDVENtRE0zYnE5M3B1LXdPU0R5T0RqY0lTQXJRWDVhYjJYTjdIbmRCc2tSQ3k4aE5vV0hJM1RySnI4cERkMTI2NnQ3a3ByaW4tME04VFFVVXpTNDdoVTloVXdOQ3ozU2J0YW1aQkk2ZUxJUXE5ZkRhZHBDY3E0R0ZiZ3Z1Qi1nZw?oc=5",
-      "source": "Tech in Asia",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-09T11:00:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "182de7e17e62"
-    },
-    {
-      "title": "Asia’s Climate Whiplash: Why South Korea Is Burning While Jammu & Kashmir Is Flooding | Planet Pulse",
-      "summary": "Asia’s Climate Whiplash: Why South Korea Is Burning While Jammu & Kashmir Is Flooding | Planet Pulse &nbsp;&nbsp; Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVjk3eGdGd2lLUHdNVi16aUZuaTZrdFhvaWIzb0NjZTZFMDNZR1lfV1hkY3lxWXdLcVhEWUhUVERKMTNhZTNWeHhKZDNTaU9wM3oxREZoM1k5UHJIcHhSOHRyNUhCTmtGcEwwQzJjN2ZfUEFIcVB3QkJrV25QOXpmZ1hieVZTSkg0cVo0T0VHTVJiRjg4SURQU19lRUJ0SDI5Y1VVUU1rUnFLVW80UHhmNWwxZlhTcS05bktWTTR6c2I3ajNGWGRuS2l3Q3hFNG1qYlBkb3ZkY3VISXhFWGJsUHFuTjF4THprLVRXYmF4UEpYY2Nn0gH0AUFVX3lxTE9WOTd4Z0Z3aUtQd01WLXppRm5pNmt0WG9pYjNvQ2NlNkUwM1lHWV9XWGRjeXFZd0txWERZSFRUREoxM2FlM1Z4eEpkM1NpT3AzejFERmgzWTlQckhweFI4dHI1SEJOa0ZwTDBDMmM3Zl9QQUhxUHdCQmtXblA5emZnWGJ5VlNKSDRxWjRPRUdNUmJGODhJRFBTX2VFQnRIMjljVVVRTWtScUtVbzRQeGY1bDFmWFNxLTluS1ZNNHpzYjdqM0ZYZG5LaXdDeEU0bWpiUGRvdmRjdUhJeEVYYmxQcW5OMXhMemstVFdiYXhQSlhjY2c?oc=5",
-      "source": "Firstpost",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-09T11:00:00.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 69,
-      "id": "10f1e04ed32a"
-    },
-    {
-      "title": "Cachalia expected to visit Reiger Park after deadly shooting",
-      "summary": "Cachalia expected to visit Reiger Park after deadly shooting &nbsp;&nbsp; ewn.co.za",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXZKaHFSendzM29SZXFXaDZuRGh3Y2hTclM3SWlkdnhkU0h6azJ3a0FYUzNLanlILThqdlA1aTRndC0yYzJPWEczMDJydzFnSDZsc3VvV3JiM3FidGhYSEVSdU1pQjJsVUV4bjUzaXppRjQwUlB5QU1paUw3bmhtVGFWTjlhVl9mVGk0d2dMZm9RbjFxUjFETA?oc=5",
-      "source": "ewn.co.za",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-09T10:44:06.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "fcb1908dc2d0"
+      "score": 68,
+      "id": "4c4b035ddbbe"
     }
   ]
 }
