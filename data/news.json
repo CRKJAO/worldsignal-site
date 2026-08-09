@@ -1,37 +1,11 @@
 {
-  "updatedAt": "2026-08-09T20:54:28.205Z",
+  "updatedAt": "2026-08-09T21:50:50.065Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
-    {
-      "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
-      "summary": "Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-in Middle East crisis live – latest updates Israel’s prime minister, Benjamin Netanyahu , has rejected a US-backed 15-point peace plan for Gaza in a rare public break with Donald Trump. In a statement on Sunday, Netanyahu said that he w",
-      "url": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-09T20:00:48.000Z",
-      "image": "https://i.guim.co.uk/img/media/abf1b6b87678a98aa666eefdb7ed2e2cd9ea85b7/398_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=e6af5cf00baed2cc316fa8eafb7307d8",
-      "topic": "政治",
-      "score": 100,
-      "id": "1155948527a3"
-    },
-    {
-      "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
-      "summary": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump Israel rejects US-led 15-point Gaza peace plan, says Netanyahu Israeli prime minister Benjamin Netanyahu rejected a Gaza plan hailed by US president Donald Trump, vowing no military pullout of Gaza until Hamas is “genuinely” disarmed. The Israeli military “will not carry out",
-      "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-09T19:54:53.000Z",
-      "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
-      "topic": "政治",
-      "score": 100,
-      "id": "a28adf9fb33e"
-    },
     {
       "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
       "summary": "Netanyahu's comments come just over a week after President Trump said his Board of Peace had reached a \"historic\" agreement with Hamas to give up its weapons.",
@@ -46,6 +20,32 @@
       "id": "82efbcdda8dd"
     },
     {
+      "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
+      "summary": "Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-in Middle East crisis live – latest updates Israel’s prime minister, Benjamin Netanyahu, has rejected a US-backed 15-point peace plan for Gaza in a rare public break with Donald Trump. In a statement on Sunday, Netanyahu said that he wa",
+      "url": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-08-09T20:00:48.000Z",
+      "image": "https://i.guim.co.uk/img/media/abf1b6b87678a98aa666eefdb7ed2e2cd9ea85b7/398_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=e6af5cf00baed2cc316fa8eafb7307d8",
+      "topic": "政治",
+      "score": 99,
+      "id": "1155948527a3"
+    },
+    {
+      "title": "Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms – as it happened",
+      "summary": "This live blog is now closed. Israel rejects US-led 15-point Gaza peace plan, says Netanyahu Israeli prime minister Benjamin Netanyahu rejected a Gaza plan hailed by US president Donald Trump, vowing no military pullout of Gaza until Hamas is “genuinely” disarmed. The Israeli military “will not carry out any withdrawal until Hamas is genuinely disarmed and w",
+      "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-08-09T19:54:53.000Z",
+      "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
+      "topic": "政治",
+      "score": 94,
+      "id": "2a3896b468fb"
+    },
+    {
       "title": "Israeli government rejects Trump's Gaza peace plan",
       "summary": "Israeli Prime Minster Benjamin Netanyahu says Hamas's proposed plan for disarming is \"unacceptable\", rejecting the Trump administration's plans to end fighting in the Palestinian territory.",
       "url": "https://www.abc.net.au/news/2026-08-10/israel-rejects-trump-gaza-plan/107015052",
@@ -55,7 +55,7 @@
       "publishedAt": "2026-08-09T18:51:51.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/175b3f9e4f38c259298cd43c5b8d9c06?impolicy=wcms_crop_resize&cropH=1549&cropW=2754&xPos=0&yPos=161&width=862&height=485",
       "topic": "政治",
-      "score": 89,
+      "score": 88,
       "id": "320ab3d16f5a"
     },
     {
@@ -68,7 +68,7 @@
       "publishedAt": "2026-08-09T18:05:38.000Z",
       "image": "https://i.guim.co.uk/img/media/a84ad1f8f75e23c077ddc53d5ca740051e2fc3a7/1168_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=dfe92a62c6fe74d571cd960942ebc60d",
       "topic": "社会",
-      "score": 86,
+      "score": 85,
       "id": "76ed45b074bb"
     },
     {
@@ -81,21 +81,34 @@
       "publishedAt": "2026-08-09T16:08:19.000Z",
       "image": "",
       "topic": "社会",
-      "score": 86,
+      "score": 85,
       "id": "95f212d3cea9"
     },
     {
-      "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news",
-      "summary": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news &nbsp;&nbsp; The Tribune-Democrat",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUTBpcFhGLXg0cFRCWjZhal80aUk5LUpsNngwSTVFaVVNMHdPbGdvQ3FMaWV5VkZkeldmSUpNandMVlVENUFUU3hqRXdtRDh2NXJkWTBsSEJuTk9Cd0V5dkVwRVRLMkNrSWNwTlJrbVk0dUlHWHhfWDFBSXVpbzhwLWF0VXNkbzVMY0hvanV3R2stY0FNTWZIcDN4VDZ0aEdrRkdlOU8xU1ZDbjJKMUhmaTNvZWpnQWpnWnRfRVpLQV9fUXktT3BZVWxXMTVSYVJNNGo3SkJOVmg1WmJHOEFKbWRTLWNTYURIdTR2Q2c1WnhqUktla2Z6MUliMUlzeXdEdkphLWpOOA?oc=5",
-      "source": "The Tribune-Democrat",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-09T17:25:00.000Z",
-      "image": "",
-      "topic": "社会",
+      "title": "Push for memorial to two men killed in sea mine tragedy on home soil",
+      "summary": "The granddaughter of Able Seaman Thomas Todd, who was killed at Beachport by an exploding German sea mine, is calling for a memorial to him and another man killed during World War II.",
+      "url": "https://www.abc.net.au/news/2026-08-10/beachport-sea-mine-tragedy-world-war-ii-memorial/107003700",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-09T21:04:02.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f5983e9243e733f7e9d20a2bd54325ab?impolicy=wcms_crop_resize&cropH=458&cropW=815&xPos=0&yPos=2&width=862&height=485",
+      "topic": "政治",
       "score": 84,
-      "id": "4a2663ae7b32"
+      "id": "3fa1b5329e58"
+    },
+    {
+      "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+      "summary": "Espionage, sabotage, cyberattacks, and covert operations are a 'constant reality', says Germany's interior minister.",
+      "url": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-09T20:40:25.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 83,
+      "id": "2196dc1ea3f0"
     },
     {
       "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
@@ -107,7 +120,7 @@
       "publishedAt": "2026-08-09T14:26:30.000Z",
       "image": "",
       "topic": "社会",
-      "score": 84,
+      "score": 83,
       "id": "fea705db0989"
     },
     {
@@ -120,8 +133,34 @@
       "publishedAt": "2026-08-09T19:30:34.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/43caceb869ae2aae36b77f4529da4cf4?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "c639fee0ec00"
+    },
+    {
+      "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news",
+      "summary": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news &nbsp;&nbsp; The Tribune-Democrat",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUTBpcFhGLXg0cFRCWjZhal80aUk5LUpsNngwSTVFaVVNMHdPbGdvQ3FMaWV5VkZkeldmSUpNandMVlVENUFUU3hqRXdtRDh2NXJkWTBsSEJuTk9Cd0V5dkVwRVRLMkNrSWNwTlJrbVk0dUlHWHhfWDFBSXVpbzhwLWF0VXNkbzVMY0hvanV3R2stY0FNTWZIcDN4VDZ0aEdrRkdlOU8xU1ZDbjJKMUhmaTNvZWpnQWpnWnRfRVpLQV9fUXktT3BZVWxXMTVSYVJNNGo3SkJOVmg1WmJHOEFKbWRTLWNTYURIdTR2Q2c1WnhqUktla2Z6MUliMUlzeXdEdkphLWpOOA?oc=5",
+      "source": "The Tribune-Democrat",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-09T17:25:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 82,
+      "id": "4a2663ae7b32"
+    },
+    {
+      "title": "How Iran's 'Axis of Resistance' has shaped the war",
+      "summary": "NPR's Rob Schmitz speaks with Peter Salisbury, professor at Columbia University's School of International and Public Affairs, about how Iran and its allies have reshaped the war in the Middle East.",
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5923613/how-irans-axis-of-resistance-has-shaped-the-war",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "中东",
+      "publishedAt": "2026-08-09T21:27:11.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 80,
+      "id": "982749086829"
     },
     {
       "title": "Typhoon Dolphin makes landfall in China as its strongest storm this year",
@@ -133,8 +172,21 @@
       "publishedAt": "2026-08-09T18:13:57.000Z",
       "image": "https://i.guim.co.uk/img/media/3e8c6be8fd658a84e9988f87ef3012e3ac4d67ec/401_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=c932cef553625465d51c20516ef83f91",
       "topic": "气候",
-      "score": 81,
+      "score": 80,
       "id": "1ec817ec1b6e"
+    },
+    {
+      "title": "Live: ASX set to lift after Wall St hit another record close",
+      "summary": "The ASX is expected to hit a fresh record high after Wall Street's S&P 500 also closed at a record. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "url": "https://www.abc.net.au/news/2026-08-10/asx-markets-business-live-news/107014540",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-09T20:57:56.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&cropH=530&cropW=942&xPos=0&yPos=14&width=862&height=485",
+      "topic": "经济",
+      "score": 79,
+      "id": "0831a366d771"
     },
     {
       "title": "'Licence to play': New Wallabies coach backing players in attack",
@@ -146,7 +198,7 @@
       "publishedAt": "2026-08-09T20:04:33.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/3da10307f07735dc52888096588c33ab?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "d96fbb7767a9"
     },
     {
@@ -159,8 +211,21 @@
       "publishedAt": "2026-08-09T20:02:57.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "cca5fbf02e85"
+    },
+    {
+      "title": "Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news - ABC News",
+      "summary": "Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUTBxdFVjVVJrOS0wcmVTV1lJWGNWM1dQOVFoU2hkSVF3Rm05aG1Ybmo1WTRRbklia2NvX1hGWDZJMVhYa3hpRFlkMHdWbTY5YlF3eUZXOWRyMHl4SXhsd3V1c1ZDN0UzQXdmNkVldkJOYXoyLUZlZDd0OS1KR1Z3ZUdBbFdBT0VFWTNfd1hMWV9yTmhnYjBQRXNPY0ZURzNpYWltemZjdS11c2vSAbABQVVfeXFMTm1nbTNVSUZySE9kOXRFQTNLcHNyTThGQjdyQ1NLUjZLZXNJMFVjTnpiWklqc0dWdHoxMnhKVGhwRDk2cmVaU2d2aVBybWJPRC1HaUJGLXByeDN1bERTM1ZWMDlMdXFvaEdnT2NYRTV3anZRdnUxQUxhUXcwbVBKMS1wR1JKSUEyd2VQS1cwLUlUSEZ6TW5JRS1DWEx4TzJqR283ZGMtdUNTVkdhRFZRNkE?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-09T09:52:17.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 78,
+      "id": "eeef570efd3b"
     },
     {
       "title": "Israel is ‘trying to make Palestine disappear’: The Elders",
@@ -172,24 +237,11 @@
       "publishedAt": "2026-08-09T19:30:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "019a6b18a59b"
     },
     {
-      "title": "US-Iran latest: Fighter jets over skies of Middle East",
-      "summary": "US-Iran latest: Fighter jets over skies of Middle East &nbsp;&nbsp; LiveNOW from FOX",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84Q3VnbGdueDVkZjE3ZEc2UEluN3hUNHBSYXlWT2FfRHd3ZGppT1J5b2RYQ21VRi1QZjBUamNmdmp0cUdWdTQtaFhkLTZSY1NBUjViLUhFaUc4TE83c0RmUENUTdIBaEFVX3lxTFBPVEhWUWNQWlBwdW9WTEVWR08yZHVMZ2lNZHE2a1IyQllZSFFJampKb1hVVUNzcUhXSWpLd0VNLWtVbk9yNVI0UjVaZnVINEUzTzJtV0I5c25VZ1Z2Wk1NeFRLMGlxNmZW?oc=5",
-      "source": "LiveNOW from FOX",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-09T16:35:48.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 79,
-      "id": "87842a33f2eb"
-    },
-    {
-      "title": "Bulldogs junior runs out despite brother benched over gang war concerns",
+      "title": "NRL clubs split on playing Alameddine brothers over gang war concerns",
       "summary": "Escalating gangland tensions see a junior member of the Alameddines benched from playing rugby league, but his brother has been given the green light to play.",
       "url": "https://www.abc.net.au/news/2026-08-10/nrl-alameddine-gang-war-eels-bulldogs/107014320",
       "source": "ABC Australia",
@@ -198,8 +250,8 @@
       "publishedAt": "2026-08-09T19:14:04.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c66a32d57fab4f56a067d7e8d732c6ff?impolicy=wcms_crop_resize&cropH=467&cropW=831&xPos=0&yPos=101&width=862&height=485",
       "topic": "政治",
-      "score": 78,
-      "id": "c843d33306da"
+      "score": 77,
+      "id": "613dc8b22e77"
     },
     {
       "title": "Australia divided over how to tackle illegal tobacco crisis",
@@ -209,9 +261,9 @@
       "feed": "ABC Australia",
       "region": "大洋洲",
       "publishedAt": "2026-08-09T19:00:42.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/39ce8b2c52006f4968982eeda30993ea?impolicy=wcms_crop_resize&cropH=2492&cropW=4430&xPos=326&yPos=476&width=862&height=485",
+      "image": "https://live-production.wcms.abc-cdn.net.au/5527933bb947fc2e972f82cd0d326321?impolicy=wcms_crop_resize&cropH=860&cropW=1529&xPos=7&yPos=643&width=862&height=485",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "4c890840f872"
     },
     {
@@ -224,7 +276,7 @@
       "publishedAt": "2026-08-09T18:59:33.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "34f98892c7c3"
     },
     {
@@ -237,7 +289,7 @@
       "publishedAt": "2026-08-09T18:55:13.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d74b433ed6f8acb4fcfb90094a884e30?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "f7fe458bcd5e"
     },
     {
@@ -250,8 +302,21 @@
       "publishedAt": "2026-08-09T18:44:33.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/0fd4a89f6e0120cc041f9019c03bda31?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=90&width=862&height=485",
       "topic": "科技",
-      "score": 78,
+      "score": 77,
       "id": "d9a9fddd5fc9"
+    },
+    {
+      "title": "US-Iran latest: Fighter jets over skies of Middle East",
+      "summary": "US-Iran latest: Fighter jets over skies of Middle East &nbsp;&nbsp; LiveNOW from FOX",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84Q3VnbGdueDVkZjE3ZEc2UEluN3hUNHBSYXlWT2FfRHd3ZGppT1J5b2RYQ21VRi1QZjBUamNmdmp0cUdWdTQtaFhkLTZSY1NBUjViLUhFaUc4TE83c0RmUENUTdIBaEFVX3lxTFBPVEhWUWNQWlBwdW9WTEVWR08yZHVMZ2lNZHE2a1IyQllZSFFJampKb1hVVUNzcUhXSWpLd0VNLWtVbk9yNVI0UjVaZnVINEUzTzJtV0I5c25VZ1Z2Wk1NeFRLMGlxNmZW?oc=5",
+      "source": "LiveNOW from FOX",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-09T16:35:48.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 77,
+      "id": "87842a33f2eb"
     },
     {
       "title": "War on Iran: Phase II: Day 29",
@@ -263,21 +328,34 @@
       "publishedAt": "2026-08-09T15:46:09.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "c6dcde2d94c5"
     },
     {
-      "title": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
-      "summary": "Drone strike comes after Riyadh signs defence pact and Tehran issues tough demands to reopen strait of Hormuz Middle East crisis live – latest updates Yemen’s Tehran-aligned Houthis have claimed responsibility for an attack on a refinery in Saudi Arabia, two days after the kingdom signed ⁠a defence pact with Turkey ⁠and Pakistan in response to ​growing regio",
-      "url": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
+      "title": "Australia news live: transport minister calls in Airservices Australia for urgent meeting after Sydney airport chaos",
+      "summary": "Intervention follows days of delays and a near-miss between two planes on the Sydney aiport tarmac. Follow today’s news live Prue Car , the NSW deputy premier, has asked the NSW Education Standards Authority (Nesa) to impose a ban on unsupervised take-home assessments during a broad review of AI’s impact on student learning. Car said she has asked Nesa to “u",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
       "source": "The Guardian",
       "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-09T15:11:28.000Z",
-      "image": "https://i.guim.co.uk/img/media/4b3ebbb27a298382cf514404f7afc68b64dbe38a/1024_0_7883_6308/master/7883.jpg?width=140&quality=85&auto=format&fit=max&s=b1d67f15bd43054197f8b769c23e99cf",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-09T21:38:38.000Z",
+      "image": "https://i.guim.co.uk/img/media/ba3f1fb65ac9fc329ce582b9d317e2a3698e1b96/921_565_4207_3366/master/4207.jpg?width=140&quality=85&auto=format&fit=max&s=17e9736d34acb742781cde98da5e9440",
+      "topic": "社会",
+      "score": 76,
+      "id": "6c8d8edf8bd1"
+    },
+    {
+      "title": "Burnham vows crackdown on ‘rip-off’ business practices to ease cost of living",
+      "summary": "First of PM’s ‘everyday fixes’ to be banning fake discounts and making it easier to cancel unwanted subscriptions Andy Burnham: I’ll end the rip-offs that people hate Andy Burnham has promised a series of measures to tackle the cost of living, including a ban on fake discounts and making it easier for people to escape unwanted subscriptions. The crackdown on",
+      "url": "https://www.theguardian.com/business/2026/aug/09/burnham-vows-crackdown-on-rip-off-business-practices-to-ease-cost-of-living",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-09T21:30:26.000Z",
+      "image": "https://i.guim.co.uk/img/media/68e1035be26c62f377ad067d6b2c6b2d23a92f96/274_0_3393_2714/master/3393.jpg?width=140&quality=85&auto=format&fit=max&s=95c7810e461a9ff9796b3b38f4097df4",
       "topic": "经济",
-      "score": 78,
-      "id": "09bc6ce80dd5"
+      "score": 76,
+      "id": "9a7d6373c182"
     },
     {
       "title": "Where does Iran stand on Saudi-Pakistan-Turkiye pact?",
@@ -289,7 +367,7 @@
       "publishedAt": "2026-08-09T18:44:28.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "dd8df7552fe1"
     },
     {
@@ -302,7 +380,7 @@
       "publishedAt": "2026-08-09T18:20:25.000Z",
       "image": "https://i.guim.co.uk/img/media/d430cbfd2ba568e638adef3c68e9dfd626c145a3/317_0_3083_2467/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=726a139367f12898d5cf4b0779a5ab70",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "b4de50e3defc"
     },
     {
@@ -315,7 +393,7 @@
       "publishedAt": "2026-08-09T18:10:57.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "7071826bf3db"
     },
     {
@@ -328,12 +406,25 @@
       "publishedAt": "2026-08-09T18:03:55.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/8ee7ee90-9374-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "b965b6f90628"
     },
     {
+      "title": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
+      "summary": "Drone strike comes after Riyadh signs defence pact and Tehran issues tough demands to reopen strait of Hormuz Middle East crisis live – latest updates Yemen’s Tehran-aligned Houthis have claimed responsibility for an attack on a refinery in Saudi Arabia, two days after the kingdom signed ⁠a defence pact with Turkey ⁠and Pakistan in response to ​growing regio",
+      "url": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-08-09T15:11:28.000Z",
+      "image": "https://i.guim.co.uk/img/media/4b3ebbb27a298382cf514404f7afc68b64dbe38a/1024_0_7883_6308/master/7883.jpg?width=140&quality=85&auto=format&fit=max&s=b1d67f15bd43054197f8b769c23e99cf",
+      "topic": "经济",
+      "score": 76,
+      "id": "09bc6ce80dd5"
+    },
+    {
       "title": "China expresses ‘grave concern’ as internal documents reveal suicide warning before death in Melbourne immigration detention",
-      "summary": "Exclusive: Serious questions raised about whether Chinese citizen was properly monitored at centre run by US prison giant Get our breaking news email , free app or daily news podcast The US private prison company running Australia’s immigration system was warned that a newly detained Chinese citizen expressed suicidal ideation and had a history of self-harm ",
+      "summary": "Exclusive: Serious questions raised about whether Chinese citizen was properly monitored at centre run by US prison giant Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The US private prison company running Australia’s immigration system was warned that a newly detained Chinese citizen expr",
       "url": "https://www.theguardian.com/australia-news/2026/aug/10/woman-who-took-her-own-life-in-melbourne-detention-centre-was-known-suicide-risk-documents-reveal-ntwnfb",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -341,8 +432,86 @@
       "publishedAt": "2026-08-09T15:00:18.000Z",
       "image": "https://i.guim.co.uk/img/media/fd9a9ef5603a1a8b1cb43452ae04657f38c22e5b/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=77bfc17fbe81de5a3f0c4be157d70bad",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "c18e4f8d0c91"
+    },
+    {
+      "title": "Police working to determine how long body in suitcase lay by road",
+      "summary": "Police are still working to identify human remains found in a suitcase by the side of a road in southern NSW.",
+      "url": "https://www.abc.net.au/news/2026-08-10/oallen-suitcase-body-police/107015534",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-09T21:19:54.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f44d4a698fc6ca5d96ef348d8a82b315?impolicy=wcms_crop_resize&cropH=816&cropW=1451&xPos=270&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "c9686a50e4f7"
+    },
+    {
+      "title": "Live: Bulk-billing rates on the rise",
+      "summary": "The federal government says the number of Australians seeing a GP for free is on the rise. Follow live.",
+      "url": "https://www.abc.net.au/news/2026-08-10/federal-politics-live-blog-august-10/107015492",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-09T21:17:23.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ec58bfece3a53fffab05c501752268a0?impolicy=wcms_crop_resize&cropH=3510&cropW=6240&xPos=0&yPos=2&width=862&height=485",
+      "topic": "政治",
+      "score": 75,
+      "id": "097c280935dd"
+    },
+    {
+      "title": "Big changes for NSW renters as portable bond scheme begins",
+      "summary": "The NSW government's portable rental bond system starts today and will cost renters who want to use the online service $25.",
+      "url": "https://www.abc.net.au/news/2026-08-10/nsw-portable-rental-bond-system-is-live/107014380",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-09T21:04:33.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/0c87f0509129e7473ac026223f03e933?impolicy=wcms_crop_resize&cropH=3342&cropW=5941&xPos=0&yPos=131&width=862&height=485",
+      "topic": "政治",
+      "score": 75,
+      "id": "a3081367dd19"
+    },
+    {
+      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-09T20:58:18.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c84/live/2e385c70-9431-11f1-b2ab-0dd01740f9f6.jpg",
+      "topic": "社会",
+      "score": 75,
+      "id": "35c3934b346d"
+    },
+    {
+      "title": "Hundreds of cars stolen from Melbourne gyms in six-month-period",
+      "summary": "Police say young offenders are sneaking into gyms and stealing the keys to vehicles which are then used to commit other crimes.",
+      "url": "https://www.abc.net.au/news/2026-08-10/vic-police-warning-over-gym-thefts/107015468",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-09T20:54:41.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f6725f85385cd1ee46095a7e7323b93f?impolicy=wcms_crop_resize&cropH=472&cropW=840&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "57f0b4cbf3ee"
+    },
+    {
+      "title": "'Not ready to compete': Sinner pulls out of tournament ahead of US Open",
+      "summary": "Men's tennis world number one Jannik Sinner pulls out of the Cincinnati Open with a right knee injury, handing the Italian a blow in his preparations for this month's US Open.",
+      "url": "https://www.abc.net.au/news/2026-08-10/jannik-sinner-pulls-out-of-cincinnati-open/107015540",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-09T20:53:45.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2921b2e4bb9ab65dc752b2a360574532?impolicy=wcms_crop_resize&cropH=2775&cropW=4934&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "d3b8a66fe95e"
     },
     {
       "title": "Italy condemns Spain’s ‘unacceptable’ border controls as Ceuta fallout intensifies",
@@ -354,7 +523,7 @@
       "publishedAt": "2026-08-09T14:59:39.000Z",
       "image": "https://i.guim.co.uk/img/media/df1ae1a0cf4a2932b7a6f91ec85088ba91d36dca/336_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=659c8e33ae2fc6591f41b8208f121745",
       "topic": "社会",
-      "score": 77,
+      "score": 75,
       "id": "679db9f22189"
     },
     {
@@ -367,21 +536,8 @@
       "publishedAt": "2026-08-09T20:31:54.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/ca6d862c4dd89a611f4d996ffc3ae590?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=51&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "1418b9d7ce84"
-    },
-    {
-      "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
-      "summary": "Rage-baiting efforts of Trump accounts silenced after posts such as a video linking her Red album to Republicans Some of Taylor Swift ’s songs have been removed from videos posted on social media by Donald Trump ’s campaign and the White House, silencing efforts to mock the pop star. A video posted 3 August featuring the US president and the first lady, Mela",
-      "url": "https://www.theguardian.com/us-news/2026/aug/09/taylor-swift-songs-removed-trump-white-house-posts",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-09T14:33:46.000Z",
-      "image": "https://i.guim.co.uk/img/media/3061128d1ecf3aa61fe3f6421191463751f7166e/470_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=e919a7067c4ced6f4c720e4aa615797b",
-      "topic": "政治",
-      "score": 76,
-      "id": "bae807320fd1"
     },
     {
       "title": "Iran vows to keep Strait of Hormuz closed until US meets demands",
@@ -393,11 +549,11 @@
       "publishedAt": "2026-08-09T20:14:34.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "a04cdc2cf525"
     },
     {
-      "title": "Not every Mount Barker business is reaping the boom town benefit",
+      "title": "'Not going to be around for much longer': Small business under pressure despite population growth",
       "summary": "Mount Barker is one of South Australia's fastest-growing districts, but while some businesses are excited about the prospect of more customers, others are competing with tightening wallets and operating pressures.",
       "url": "https://www.abc.net.au/news/2026-08-10/mount-barker-is-growing-but-not-all-businesses-are-booming/107003234",
       "source": "ABC Australia",
@@ -406,8 +562,8 @@
       "publishedAt": "2026-08-09T20:13:40.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/a31dabb9739edaff2cbcc5d831f8437c?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=212&width=862&height=485",
       "topic": "经济",
-      "score": 75,
-      "id": "711ec92401a9"
+      "score": 74,
+      "id": "47e6fc8889ad"
     },
     {
       "title": "'Pack a poncho': Gusty winds and short storms for south-east corner",
@@ -419,21 +575,8 @@
       "publishedAt": "2026-08-09T20:13:34.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1f49ca5cd174ec69eee87486ee111378?impolicy=wcms_crop_resize&cropH=2088&cropW=3712&xPos=0&yPos=141&width=862&height=485",
       "topic": "气候",
-      "score": 75,
+      "score": 74,
       "id": "9c6599b95904"
-    },
-    {
-      "title": "Senate confirms new attorney general as Middle East tensions remain high",
-      "summary": "Senate confirms new attorney general as Middle East tensions remain high &nbsp;&nbsp; cbs19.tv",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRlk2TmVjMGRpVmxaUkpFY3RleG5kQmU5eHU4OWYyQVNXN3oyOFhhckxldi04SWgyMVFqZGVETE04TDVnbDNfRElEV1ExVTRZc0l4a1huc0J4czFqcXVBcnhqNFo2d0lWSVBDQlZLLWMzeHdDaGEtdlJiUlZxbFlZZzlQbGtuOEdqVFBfM3FDcU4yclE3bUJMeGdQcWlTbW95OTAyZWlxSzVCZWYtekwyMU5qUGdLRWNUVk5CdlM4c2JPUjlrY2I2M1B3Y3lkZVhUYkxLZllSa3ViMDk2dVBod2VBWVlGQQ?oc=5",
-      "source": "cbs19.tv",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-09T20:07:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "9ebbf629bfc2"
     },
     {
       "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
@@ -445,7 +588,7 @@
       "publishedAt": "2026-08-09T19:57:28.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8796/live/272fe5e0-9424-11f1-aa3c-4fd5547f7539.jpg",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "807ee6cf34ee"
     },
     {
@@ -458,47 +601,21 @@
       "publishedAt": "2026-08-09T19:52:01.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "1b6cfdfbfd97"
     },
     {
-      "title": "'Build, baby, build': Politician's land approvals in spotlight amid donation spree",
-      "summary": "Queensland Deputy Premier Jarrod Bleijie personally approved town planning changes championing house development in a zone where landowners included a developer who had just donated $50,000 for a private lunch with the politician.",
-      "url": "https://www.abc.net.au/news/2026-08-10/deputy-premier-jarrod-bleijie-planning-approvals-under-scrutiny/106989154",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-09T19:51:01.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/2111e9a16d61791ae293ba2d86324579?impolicy=wcms_crop_resize&cropH=909&cropW=1616&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "1e7abca22a16"
-    },
-    {
-      "title": "Parents of baby girl killed at nursery fear unsafe sleeping ‘rife’ in sector across England",
-      "summary": "Katie and John Meehan say responses to campaign they launched after death of daughter Genevieve must be ‘wake-up call’ The parents of a nine-month-old girl who died after being placed in an unsafe sleeping position at nursery said they feared poor practice may be “rife” across England. Genevieve Meehan suffocated when she was strapped face down to a beanbag ",
-      "url": "https://www.theguardian.com/education/2026/aug/09/parents-baby-killed-in-care-poor-practice-rife-nurseries-england",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-09T13:00:16.000Z",
-      "image": "https://i.guim.co.uk/img/media/fa1a8cbbd246dcd48a76127aaf6b02fa52093999/1053_132_7034_5628/master/7034.jpg?width=140&quality=85&auto=format&fit=max&s=1507c4b271b6d75a131023a619b885d5",
-      "topic": "科技",
-      "score": 75,
-      "id": "56c52688a39d"
-    },
-    {
-      "title": "Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news - ABC News",
-      "summary": "Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUTBxdFVjVVJrOS0wcmVTV1lJWGNWM1dQOVFoU2hkSVF3Rm05aG1Ybmo1WTRRbklia2NvX1hGWDZJMVhYa3hpRFlkMHdWbTY5YlF3eUZXOWRyMHl4SXhsd3V1c1ZDN0UzQXdmNkVldkJOYXoyLUZlZDd0OS1KR1Z3ZUdBbFdBT0VFWTNfd1hMWV9yTmhnYjBQRXNPY0ZURzNpYWltemZjdS11c2vSAbABQVVfeXFMTm1nbTNVSUZySE9kOXRFQTNLcHNyTThGQjdyQ1NLUjZLZXNJMFVjTnpiWklqc0dWdHoxMnhKVGhwRDk2cmVaU2d2aVBybWJPRC1HaUJGLXByeDN1bERTM1ZWMDlMdXFvaEdnT2NYRTV3anZRdnUxQUxhUXcwbVBKMS1wR1JKSUEyd2VQS1cwLUlUSEZ6TW5JRS1DWEx4TzJqR283ZGMtdUNTVkdhRFZRNkE?oc=5",
-      "source": "Breaking News, Latest News and Videos",
+      "title": "Houthis claim attacks on Saudi oil facility and Yemeni port, and other Mideast news",
+      "summary": "Houthis claim attacks on Saudi oil facility and Yemeni port, and other Mideast news &nbsp;&nbsp; WPLG Local 10",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMGtOdUdzWmFEVGRYNVBlTlcyWVRETzBJd3RnekdyeVhnS21MNVl2RlVLMGRLY2RtMzlTNkUwcTRQY0x2Z21fVUM0eFFfRkhuVVVUcHVBS1I3OEtFTFgxUEJuOXJDMS02U0s5UzJMcWVTdXVoVHhVZTRtMEVSMXRpSkxzcV9zV0F2SlJJSUlFT0Q4Y01Zd3Vud0Zud2ROTXJ5MFJnMVlSUGstakQ0LWV0RXZJcGVqY3VaOEtDREpnVDAxNkxRZ1E?oc=5",
+      "source": "WPLG Local 10",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-09T09:52:17.000Z",
+      "publishedAt": "2026-08-09T07:29:35.000Z",
       "image": "",
       "topic": "经济",
-      "score": 75,
-      "id": "eeef570efd3b"
+      "score": 74,
+      "id": "9d784605ef47"
     },
     {
       "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
@@ -510,21 +627,8 @@
       "publishedAt": "2026-08-09T19:40:09.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d79/live/103a7590-9405-11f1-a3c4-b3ff07dc0ce9.jpg",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "4364fe9370e7"
-    },
-    {
-      "title": "Wind in the wilderness a real threat to unprepared hikers",
-      "summary": "Bushwalker and meteorologist Urshla Connor knows from personal and professional experience that being prepared for changing weather can make all the difference between a beautiful hike and a life-threatening situation in Tasmania's wilderness.",
-      "url": "https://www.abc.net.au/news/2026-08-10/bom-advice-on-hiking-preparedness-in-windy-weather/106977532",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-09T19:17:30.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/b5cf63d03372e80ed1ac23ef62c05091?impolicy=wcms_crop_resize&cropH=864&cropW=1536&xPos=0&yPos=665&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "abc1c5a4b5cd"
     },
     {
       "title": "Can the Doha Framework end the conflict in eastern DRC?",
@@ -536,7 +640,7 @@
       "publishedAt": "2026-08-09T19:07:35.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "8f94adaa4380"
     },
     {
@@ -549,21 +653,8 @@
       "publishedAt": "2026-08-09T19:06:23.000Z",
       "image": "https://i.guim.co.uk/img/media/c1f65fac6b8a7f109e61bc731e7d728fa93be1be/432_0_4318_3455/master/4318.jpg?width=140&quality=85&auto=format&fit=max&s=4dcdd7646d245e27d1381c003635eb4d",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "2ffdd27a6322"
-    },
-    {
-      "title": "UAE extradites alleged international crime boss Daniel Kinahan to Ireland",
-      "summary": "Daniel Kinahan is the latest alleged member of the multinational organised crime group to face charges in Dublin.",
-      "url": "https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-09T16:00:50.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "52e11ff2333c"
     },
     {
       "title": "Ecuador charges ex-minister over presidential candidate assassination case",
@@ -575,34 +666,8 @@
       "publishedAt": "2026-08-09T15:34:04.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4de/live/4cc53a50-9404-11f1-a10f-45ed743c6e4b.jpg",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "40a144e96c01"
-    },
-    {
-      "title": "The end of the low interest rate era is here and it weighs on house prices",
-      "summary": "We seem to have flipped from worrying about rising house prices to worrying about falling house prices. Well, some of us have, anyway.",
-      "url": "https://www.abc.net.au/news/2026-08-10/interest-rates-house-prices-only-part-of-story/107010092",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-09T18:52:44.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/4704db963bc12cfcea80aebf15e02f99?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "5dd7dbe90abf"
-    },
-    {
-      "title": "Albanese is the opposite of Rudd and that comes with its own risks",
-      "summary": "Cabinet's indecision on support for Tony Burke's immigration cuts shows a key difference between Anthony Albanese and Kevin Rudd.",
-      "url": "https://www.abc.net.au/news/2026-08-10/albanese-immigration-cuts-gambling-legislation/107014442",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-09T18:45:55.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/87a196ebdfa63e71908dbfe3b8f06000?impolicy=wcms_crop_resize&cropH=5624&cropW=9999&xPos=0&yPos=521&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "c0bc2e675007"
     },
     {
       "title": "Perseid meteor shower set to dazzle northern hemisphere this week",
@@ -614,99 +679,47 @@
       "publishedAt": "2026-08-09T18:43:55.000Z",
       "image": "https://i.guim.co.uk/img/media/20261b375dd07330ea4b3a2f08b24d050788a8b0/623_0_6225_4980/master/6225.jpg?width=140&quality=85&auto=format&fit=max&s=4cb7037994e5ade5321a3b3483a420c4",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "7d5313d37164"
     },
     {
-      "title": "Millions of Australians will have no say in who inherits their super",
-      "summary": "New research shows most Australians have not made a legally binding death benefit nomination to ensure their superannuation goes to who they want it to when they die. And many funds do not make it easy.",
-      "url": "https://www.abc.net.au/news/2026-08-10/superannuation-death-benefit-nominations-survey-finds-funds-fail/106991968",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-09T18:41:42.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/667f8e92648bf8ef9f4fdda08f841c5a?impolicy=wcms_crop_resize&cropH=2810&cropW=4995&xPos=0&yPos=304&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "6f458ed50790"
-    },
-    {
-      "title": "History quiz: Show us what you know about 90s pop culture and musical masterpieces",
-      "summary": "We'll also test you on the Paris Olympics, the 2017 parliamentary citizenship scandal and history-making Test cricket.",
-      "url": "https://www.abc.net.au/news/2026-08-10/this-week-in-history-quiz-august-10/107006848",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-09T18:30:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/94c635d9f75bf6975b6e98c176673887?impolicy=wcms_crop_resize&cropH=622&cropW=1106&xPos=0&yPos=0&width=862&height=485",
-      "topic": "政治",
-      "score": 73,
-      "id": "bbb5349e0df9"
-    },
-    {
-      "title": "What are the rules for taking carer's leave from work?",
-      "summary": "When it comes to taking time off work for your own personal illness or injury, you probably have some idea of what your entitlements are. But when it comes to needing time off to care for others, you may be more unsure of your rights.",
-      "url": "https://www.abc.net.au/news/2026-08-10/when-can-you-use-your-carer-s-leave-entitlements/106998228",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-09T18:30:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/97b36f46e2c66d68842ce3a07ef36e18?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=398&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "0a2cc39c6751"
-    },
-    {
-      "title": "Concerns mount over integrity of Israel’s upcoming October elections",
-      "summary": "Poll shows 70 percent of Jewish Israelis fear election integrity risks as Netanyahu government faces mounting criticism.",
-      "url": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-09T15:20:18.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "6afb6e1aecba"
-    },
-    {
       "title": "Why misguided influencers are wrong to ditch sunscreen during Europe’s record-breaking heatwave",
-      "summary": "Why misguided influencers are wrong to ditch sunscreen during Europe’s record-breaking heatwave &nbsp;&nbsp; independent.co.uk",
+      "summary": "Why misguided influencers are wrong to ditch sunscreen during Europe’s record-breaking heatwave &nbsp;&nbsp; The Independent",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0xsTDljX3BucHowbFdqSmhXR3Q1NDlCLWE0dk1JRm5JcXVMbTQtLUhkYzhhYUxNclo0U0drdUtjc21ma1kwcUVEMTYybVE2UTZEaXdNMFlIZ3FpaDlhcjNrY3RDTFJua29CWnJnTExmdjdUbERYcWVXdk9LSkpHZ1Z4VUIwbGtLa0l6ZzUyVjZZSDh6ZWQ1ckRWLUpaLVd1WmhSclRiWk5QaTNUU1FicGo3MnoySHZV?oc=5",
-      "source": "independent.co.uk",
+      "source": "The Independent",
       "feed": "Europe News Network",
       "region": "欧洲",
       "publishedAt": "2026-08-09T14:59:00.000Z",
       "image": "",
       "topic": "气候",
-      "score": 73,
-      "id": "7adef3df3c92"
+      "score": 72,
+      "id": "12826156713a"
     },
     {
-      "title": "Body of woman found in suitcase by side of road in regional NSW",
-      "summary": "Police called to Oallen, about 40km south of Goulburn, on Sunday afternoon after suitcase discovered near Wolgon Road Get our breaking news email , free app or daily news podcast The body of a woman has been found in a suitcase by the side of a road in regional New South Wales south of Goulburn. NSW police said they were called to Wolgon Road, near Oallen Fo",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/09/body-woman-found-suitcase-regional-nsw-road-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-09T11:46:58.000Z",
-      "image": "https://i.guim.co.uk/img/media/3196c32ea1f275a17536e3a24a9bbf783e04a010/716_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=244fd5f0742b69fefdc9a99eb3234d38",
-      "topic": "社会",
-      "score": 73,
-      "id": "e59723afb40c"
-    },
-    {
-      "title": "U.S. Opposes China's Unilateral Claims, Supports Philippines in South China Sea",
-      "summary": "U.S. Opposes China's Unilateral Claims, Supports Philippines in South China Sea &nbsp;&nbsp; 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGRQM0E1UEMtb2swTFp1SjhVZVZkcHd1dVZ3SFliRUUwckFPcFdxYXhTSzRadWxER1YybXpBOG5UU3FOTldhVmp0TFVwSGhYTGxQZmJ1RldaQ0QzYjk3dk9MdmxYTk9jTkFzWW5tdlFrV0JhNUQ5aXAtVGlaV1FUWENrMlY?oc=5",
-      "source": "조선일보",
-      "feed": "Pacific News Network",
+      "title": "4 Best Asian Destinations for Comfortable, Budget-Friendly Retirement Living Abroad",
+      "summary": "4 Best Asian Destinations for Comfortable, Budget-Friendly Retirement Living Abroad &nbsp;&nbsp; Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEk3SGNaWEVyX0d1UTNkdXhhVktvbk9HUS1Fd1cyd3BLMmJpcUVaSUdQVmJmNUdZU1ViTnpKMkoxWTBzZDktUy1GUWQzTDdyZXg3TjF5TWFSdE5yc050QzhyUnpiOGI4clRfUDJzbnlFcGdKNFdEdnEyR0JGQ1BZSzA2NGVVZDh5aWxPMTBqS1A1dGt5LUlnanAyeVg3d3lSTE1Ya0dOeDBxYXpFMy1CdjkwNUcxbGloMmFKTw?oc=5",
+      "source": "Investopedia",
+      "feed": "Asia News Network",
       "region": "亚洲",
-      "publishedAt": "2026-08-09T20:31:49.000Z",
+      "publishedAt": "2026-08-09T21:12:11.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
-      "id": "75a2b0a1f1dd"
+      "score": 71,
+      "id": "7ef2e6bcdb72"
+    },
+    {
+      "title": "WAFCON 2026: Black Queens Held to 1-1 Draw by Malawi at Half-Time",
+      "summary": "WAFCON 2026: Black Queens Held to 1-1 Draw by Malawi at Half-Time &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcDEwYmRoRVJGQWM3TlljdGRYa2llTURKUGh1UXBQOGk1ZG93YmRiaW1iNnhwMWN5V0RqbHFuR0JQRko1MmlsaGpISWp4N2pSUWFweHRaZTVUU1U3WXd4bGVpWWhyNXBMbWJsUlpEMmI4SG84WXZxYW12Tk94T0NnNnVGSnBpMEZ4SEJjRW9iUGVvRmplWTQwSng3WU0?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-09T20:54:42.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "58a2d069b620"
     },
     {
       "title": "Labour seeking ‘deeper relationship’ with EU under Burnham, new minister says",
@@ -718,21 +731,8 @@
       "publishedAt": "2026-08-09T18:00:21.000Z",
       "image": "https://i.guim.co.uk/img/media/d61be8214c1fda97376aa7e05150d0ed5d3eedea/1056_732_5539_4431/master/5539.jpg?width=140&quality=85&auto=format&fit=max&s=440262522ce6344acb24cf5af682e8bd",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "6d329f1ad82b"
-    },
-    {
-      "title": "Defense pact between Saudi Arabia, Turkey, Pakistan will boost India-Israel ties",
-      "summary": "Defense pact between Saudi Arabia, Turkey, Pakistan will boost India-Israel ties &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FSnliMkNjcmc3SkZjV3kwbHRlaGh0NEEzQTVFTlI5dzZRdmdKODl5UFloZ0NTbG9fdmtwcXRXSldodi1JM0NWS0JOVkhYdnozRndHZ2o0ZEkyQzhl?oc=5",
-      "source": "The Jerusalem Post",
-      "feed": "Middle East News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-09T17:43:02.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "f0f9867ddd49"
     },
     {
       "title": "No energy crisis in the country despite ongoing West Asia conflict, says PM Modi in LS",
@@ -744,8 +744,21 @@
       "publishedAt": "2026-08-09T17:12:05.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "830c08269b1d"
+    },
+    {
+      "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
+      "summary": "Rage-baiting efforts of Trump accounts silenced after posts such as a video linking her Red album to Republicans Some of Taylor Swift ’s songs have been removed from videos posted on social media by Donald Trump ’s campaign and the White House, silencing efforts to mock the pop star. A video posted 3 August featuring the US president and the first lady, Mela",
+      "url": "https://www.theguardian.com/us-news/2026/aug/09/taylor-swift-songs-removed-trump-white-house-posts",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-09T14:33:46.000Z",
+      "image": "https://i.guim.co.uk/img/media/3061128d1ecf3aa61fe3f6421191463751f7166e/470_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=e919a7067c4ced6f4c720e4aa615797b",
+      "topic": "政治",
+      "score": 71,
+      "id": "bae807320fd1"
     },
     {
       "title": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny",
@@ -757,7 +770,7 @@
       "publishedAt": "2026-08-09T14:30:58.000Z",
       "image": "https://i.guim.co.uk/img/media/e5fe24d1799da0408c9ca663658b3d23e982aae5/300_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=86c6d405ea029535366ef8d23fcac925",
       "topic": "经济",
-      "score": 72,
+      "score": 71,
       "id": "fa2d7fde9f70"
     },
     {
@@ -770,7 +783,7 @@
       "publishedAt": "2026-08-09T14:20:51.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "72b25ee61909"
     },
     {
@@ -783,21 +796,21 @@
       "publishedAt": "2026-08-09T14:20:31.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "1379b2be4e88"
     },
     {
-      "title": "Zelenskyy says 50,000 North Korean troops will help Russia in war",
-      "summary": "Mr Zelenskyy took to social media to announced that \"a decision has been made for 30,000 to 50,000 North Koreans to be deployed on the territory of Russia\", while calling on South Korea to provide support for Ukraine's air defence.",
-      "url": "https://www.abc.net.au/news/2026-08-09/zelenskyy-says-50-000-north-korean-soldiers-will-help-russia/107014914",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-08-09T13:48:16.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6fee036e6c9413e8b1fded471c31b7d3?impolicy=wcms_crop_resize&cropH=2199&cropW=3909&xPos=0&yPos=15&width=862&height=485",
-      "topic": "政治",
-      "score": 72,
-      "id": "cfedbd95bde9"
+      "title": "U.S. Opposes China's Unilateral Claims, Supports Philippines in South China Sea",
+      "summary": "U.S. Opposes China's Unilateral Claims, Supports Philippines in South China Sea &nbsp;&nbsp; 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGRQM0E1UEMtb2swTFp1SjhVZVZkcHd1dVZ3SFliRUUwckFPcFdxYXhTSzRadWxER1YybXpBOG5UU3FOTldhVmp0TFVwSGhYTGxQZmJ1RldaQ0QzYjk3dk9MdmxYTk9jTkFzWW5tdlFrV0JhNUQ5aXAtVGlaV1FUWENrMlY?oc=5",
+      "source": "조선일보",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-09T20:31:49.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "75a2b0a1f1dd"
     },
     {
       "title": "Ramayana Routes and Maritime Bridges: India and Southeast Asia’s Living Civilizational Ties",
@@ -809,7 +822,7 @@
       "publishedAt": "2026-08-09T20:25:59.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "489b70411c21"
     },
     {
@@ -822,7 +835,7 @@
       "publishedAt": "2026-08-09T19:54:29.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "49c7765fd815"
     },
     {
@@ -835,7 +848,7 @@
       "publishedAt": "2026-08-09T17:00:20.000Z",
       "image": "https://i.guim.co.uk/img/media/03613f8c7ee3464153270403fdaa1f03ca89b6e9/230_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=e98d33f2b090196e967ff782783a462f",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "92a387122839"
     },
     {
@@ -848,7 +861,7 @@
       "publishedAt": "2026-08-09T16:53:53.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "aad2b81feee3"
     },
     {
@@ -861,7 +874,7 @@
       "publishedAt": "2026-08-09T16:43:23.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f6f/live/8f493ea0-9407-11f1-a3c4-b3ff07dc0ce9.jpg",
       "topic": "气候",
-      "score": 71,
+      "score": 70,
       "id": "03ee1962cb5d"
     },
     {
@@ -874,7 +887,7 @@
       "publishedAt": "2026-08-09T16:41:00.000Z",
       "image": "",
       "topic": "气候",
-      "score": 71,
+      "score": 70,
       "id": "9b631554c81c"
     },
     {
@@ -887,7 +900,7 @@
       "publishedAt": "2026-08-09T16:22:17.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "2841d9da5a3c"
     },
     {
@@ -900,21 +913,21 @@
       "publishedAt": "2026-08-09T16:18:10.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e19/live/9f71d840-940d-11f1-870d-5d08c49babb2.png",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "62e7bd478a14"
     },
     {
-      "title": "Alleged Irish international crime boss charged",
-      "summary": "Daniel Joseph Kinahan was flown from Dubai to Dublin, the UAE state news agency reported, after his arrest in April, with allegations about his \"serious organised crime offences\".",
-      "url": "https://www.abc.net.au/news/2026-08-09/daniel-joseph-kinahan-alleged-crime-boss-extradited-to-ireland-/107014878",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-09T12:51:17.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/5627467bdbc90ec8f33f6791bda6b0c2?impolicy=wcms_crop_resize&cropH=296&cropW=526&xPos=0&yPos=71&width=862&height=485",
+      "title": "Incumbents secure Hawaii primary wins, defying progressive challengers",
+      "summary": "Their victories highlight ongoing clashes between centrist Democrats and more progressive candidates.",
+      "url": "https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-09T16:07:23.000Z",
+      "image": "",
       "topic": "社会",
-      "score": 70,
-      "id": "54a87ff3e6db"
+      "score": 69,
+      "id": "dab845e6bb90"
     },
     {
       "title": "World Bank raises India’s growth forecast from 6.3 to 6.6 percent for current financial year",
@@ -926,21 +939,8 @@
       "publishedAt": "2026-08-09T18:23:54.000Z",
       "image": "",
       "topic": "经济",
-      "score": 69,
+      "score": 68,
       "id": "c07734dfae86"
-    },
-    {
-      "title": "Pakistani grooming gang suspect ‘refuses to give date for return to UK’",
-      "summary": "Rukhsar Ahmed was recently elected an MP in Pakistan while on bail over alleged child rape in 1990s Manchester A grooming gang suspect released on bail in the UK and then re-elected as an MP in Pakistan has reportedly declined to say when he would return to face rape charges. The Guardian disclosed that Rukhsar Ahmed, a former Pakistan state minister, was ar",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/09/rukhsar-ahmed-pakistan-grooming-gang-suspect-refuses-date-return-uk",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-08-09T15:41:31.000Z",
-      "image": "https://i.guim.co.uk/img/media/96ad613a42d517a29d428310e8dd7925e10bfd85/0_0_2542_2033/master/2542.jpg?width=140&quality=85&auto=format&fit=max&s=0eeef7bb2dd157c54e8fb2f4eafb4625",
-      "topic": "政治",
-      "score": 69,
-      "id": "8cda9dd3dfd2"
     }
   ]
 }
