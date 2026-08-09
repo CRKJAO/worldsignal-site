@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T21:50:50.065Z",
+  "updatedAt": "2026-08-09T22:53:18.876Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -29,7 +29,7 @@
       "publishedAt": "2026-08-09T20:00:48.000Z",
       "image": "https://i.guim.co.uk/img/media/abf1b6b87678a98aa666eefdb7ed2e2cd9ea85b7/398_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=e6af5cf00baed2cc316fa8eafb7307d8",
       "topic": "政治",
-      "score": 99,
+      "score": 97,
       "id": "1155948527a3"
     },
     {
@@ -42,7 +42,7 @@
       "publishedAt": "2026-08-09T19:54:53.000Z",
       "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
       "topic": "政治",
-      "score": 94,
+      "score": 93,
       "id": "2a3896b468fb"
     },
     {
@@ -53,23 +53,23 @@
       "feed": "ABC Australia",
       "region": "中东",
       "publishedAt": "2026-08-09T18:51:51.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/175b3f9e4f38c259298cd43c5b8d9c06?impolicy=wcms_crop_resize&cropH=1549&cropW=2754&xPos=0&yPos=161&width=862&height=485",
+      "image": "https://live-production.wcms.abc-cdn.net.au/175b3f9e4f38c259298cd43c5b8d9c06?impolicy=wcms_crop_resize&cropH=1549&cropW=2754&xPos=0&yPos=15&width=862&height=485",
       "topic": "政治",
-      "score": 88,
+      "score": 87,
       "id": "320ab3d16f5a"
     },
     {
-      "title": "Lake Mead plummets to historic low water level as Colorado River struggles",
-      "summary": "Levels at reservoir along Arizona-Nevada border dipped below previous record set in 2022, amid water crisis in west Lake Mead, the largest reservoir in the United States, has plummeted to its lowest water level since it was filled some 90 years ago, the latest sign of a deepening water crisis in the American west. Water levels at the reservoir, which straddl",
-      "url": "https://www.theguardian.com/us-news/2026/aug/09/lake-mead-record-low-water-level-colorado-river",
+      "title": "Trump appoints staff secretary Will Scharf as new White House counsel",
+      "summary": "Scharf, who helped president win approval for $400m ballroom, to replace David Warrington on 1 September Donald Trump announced on Sunday that ⁠Will ​Scharf, the staff secretary who helped secure approval for the $400m White House ballroom project, will become ⁠White House counsel and assistant to the president. Effective 1 September, Scharf will replace Dav",
+      "url": "https://www.theguardian.com/us-news/2026/aug/09/trump-will-scharf-white-house-counsel",
       "source": "The Guardian",
       "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-08-09T18:05:38.000Z",
-      "image": "https://i.guim.co.uk/img/media/a84ad1f8f75e23c077ddc53d5ca740051e2fc3a7/1168_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=dfe92a62c6fe74d571cd960942ebc60d",
-      "topic": "社会",
-      "score": 85,
-      "id": "76ed45b074bb"
+      "region": "全球",
+      "publishedAt": "2026-08-09T22:28:31.000Z",
+      "image": "https://i.guim.co.uk/img/media/9c35e64e0b4daef2926f3caaeadeb3452ebd4f07/351_0_4303_3443/master/4303.jpg?width=140&quality=85&auto=format&fit=max&s=7bcfefd5283a0214531bb143e327fc42",
+      "topic": "政治",
+      "score": 84,
+      "id": "237511eedc75"
     },
     {
       "title": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
@@ -81,8 +81,34 @@
       "publishedAt": "2026-08-09T16:08:19.000Z",
       "image": "",
       "topic": "社会",
-      "score": 85,
+      "score": 84,
       "id": "95f212d3cea9"
+    },
+    {
+      "title": "Flights cancelled, evacuations as Typhoon Dolphin hits China",
+      "summary": "Typhoon Dolphin makes landfall in densely populated eastern China, meteorological authorities say, after the storm triggered more than 1,000 flight cancellations, evacuations and a top-level alert.",
+      "url": "https://www.abc.net.au/news/2026-08-10/typhoon-dolphin-hits-east-coast-china/107015548",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "亚洲",
+      "publishedAt": "2026-08-09T21:49:43.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a38f751581190fed91e07da7cdc4ee8e?impolicy=wcms_crop_resize&cropH=1125&cropW=2000&xPos=0&yPos=104&width=862&height=485",
+      "topic": "气候",
+      "score": 83,
+      "id": "44ce2e9d9abe"
+    },
+    {
+      "title": "Car bomb hits Colombia highway a day after new president sworn in",
+      "summary": "Car bomb hits Colombia highway a day after new president sworn in &nbsp;&nbsp; Northeast Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVFCWUc5MlgydnBCdXFyLVF2U0tvRG1GZ3AtMG85clkxOWJCbjViYzBTeV9PZGZiVmZyemgyTzlYcC1LR0hEQk9BTEJxN3VQMVRualQ0eTF4MlhiMFlDVDNFVWdPN19LRkEzYWQxSWgtRFgwb1pZUEZoYUp1azQtWWIxQnI5Ylh5bVZVMmZGbm4wd1NHUThEQmRGRUhLSnpoOGkybXNHUQ?oc=5",
+      "source": "Northeast Times",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-09T21:30:00.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 83,
+      "id": "79f9ecf54efe"
     },
     {
       "title": "Push for memorial to two men killed in sea mine tragedy on home soil",
@@ -94,8 +120,21 @@
       "publishedAt": "2026-08-09T21:04:02.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/f5983e9243e733f7e9d20a2bd54325ab?impolicy=wcms_crop_resize&cropH=458&cropW=815&xPos=0&yPos=2&width=862&height=485",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "3fa1b5329e58"
+    },
+    {
+      "title": "Lake Mead plummets to historic low water level as Colorado River struggles",
+      "summary": "Levels at reservoir along Arizona-Nevada border dipped below previous record set in 2022, amid water crisis in west Lake Mead, the largest reservoir in the United States, has plummeted to its lowest water level since it was filled some 90 years ago, the latest sign of a deepening water crisis in the American west. Water levels at the reservoir, which straddl",
+      "url": "https://www.theguardian.com/us-news/2026/aug/09/lake-mead-record-low-water-level-colorado-river",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "美洲",
+      "publishedAt": "2026-08-09T18:05:38.000Z",
+      "image": "https://i.guim.co.uk/img/media/a84ad1f8f75e23c077ddc53d5ca740051e2fc3a7/1168_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=dfe92a62c6fe74d571cd960942ebc60d",
+      "topic": "社会",
+      "score": 83,
+      "id": "76ed45b074bb"
     },
     {
       "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
@@ -107,21 +146,8 @@
       "publishedAt": "2026-08-09T20:40:25.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "2196dc1ea3f0"
-    },
-    {
-      "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
-      "summary": "As Netanyahu demands 'genuine' Hamas disarmament before considering pull-out from Gaza, a look at what happens next.",
-      "url": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-09T14:26:30.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 83,
-      "id": "fea705db0989"
     },
     {
       "title": "Regional emergency departments a 'basket case of mania', doctor warns",
@@ -133,7 +159,7 @@
       "publishedAt": "2026-08-09T19:30:34.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/43caceb869ae2aae36b77f4529da4cf4?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "c639fee0ec00"
     },
     {
@@ -146,8 +172,86 @@
       "publishedAt": "2026-08-09T17:25:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 82,
+      "score": 81,
       "id": "4a2663ae7b32"
+    },
+    {
+      "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
+      "summary": "As Netanyahu demands 'genuine' Hamas disarmament before considering pull-out from Gaza, a look at what happens next.",
+      "url": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-09T14:26:30.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 81,
+      "id": "fea705db0989"
+    },
+    {
+      "title": "Body of woman found in suitcase by side of road in regional NSW",
+      "summary": "Police called to Oallen, about 40km south of Goulburn, on Sunday afternoon after suitcase discovered near Wolgon Road Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The body of a woman has been found in a suitcase by the side of a road south of Goulburn in regional New South Wales. NSW poli",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/09/body-woman-found-suitcase-regional-nsw-road-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-09T22:37:00.000Z",
+      "image": "https://i.guim.co.uk/img/media/3196c32ea1f275a17536e3a24a9bbf783e04a010/716_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=244fd5f0742b69fefdc9a99eb3234d38",
+      "topic": "社会",
+      "score": 80,
+      "id": "e59723afb40c"
+    },
+    {
+      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "美洲",
+      "publishedAt": "2026-08-09T22:27:53.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/8ee7ee90-9374-11f1-b2ab-0dd01740f9f6.jpg",
+      "topic": "政治",
+      "score": 80,
+      "id": "b965b6f90628"
+    },
+    {
+      "title": "Alexandria Ocasio-Cortez announces decision to freeze her eggs",
+      "summary": "US congresswoman to share journey online as she criticizes Trump administration’s attacks on reproductive care Alexandria Ocasio-Cortez has announced she is going to freeze her eggs and will be sharing the process online. The progressive New York congresswoman, 36, revealed her decision to undergo fertility treatment in a series of Instagram stories this wee",
+      "url": "https://www.theguardian.com/us-news/2026/aug/09/alexandria-ocasio-cortez-eggs-fertility",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-09T22:06:49.000Z",
+      "image": "https://i.guim.co.uk/img/media/a9b4a18ff3d2fc52ce4a506f3dc7e993683408e2/681_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1ffcee8835ba1495c875440f5bde2442",
+      "topic": "社会",
+      "score": 79,
+      "id": "91d330e90cbf"
+    },
+    {
+      "title": "Gold hunters fear World Heritage bid could undermine prospecting",
+      "summary": "Victorian prospectors say they fear further regulations could follow if the state's historic goldfields receive World Heritage status.",
+      "url": "https://www.abc.net.au/news/2026-08-10/goldfields-world-heritage-bid-gold-rush-prospectors-fears/106993404",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-09T22:01:18.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/edb7a207c1bbefd49c5f7f13a61ffa3a?impolicy=wcms_crop_resize&cropH=608&cropW=1080&xPos=0&yPos=100&width=862&height=485",
+      "topic": "社会",
+      "score": 79,
+      "id": "9fffd3532ea1"
+    },
+    {
+      "title": "Demi Vollering wins Tour de France for the 2nd time",
+      "summary": "Vollering, who first won the competition in 2023, finished the stage more than a minute ahead of Spaniard Paula Blasi Cairol and 2024 champion Polish rider Katarzyna Niewiadoma-Phinney.",
+      "url": "https://www.npr.org/2026/08/09/g-s1-137991/demi-vollering-tour-de-france-winner",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "欧洲",
+      "publishedAt": "2026-08-09T22:00:52.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "ddeb236541de"
     },
     {
       "title": "How Iran's 'Axis of Resistance' has shaped the war",
@@ -159,7 +263,7 @@
       "publishedAt": "2026-08-09T21:27:11.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "982749086829"
     },
     {
@@ -172,8 +276,21 @@
       "publishedAt": "2026-08-09T18:13:57.000Z",
       "image": "https://i.guim.co.uk/img/media/3e8c6be8fd658a84e9988f87ef3012e3ac4d67ec/401_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=c932cef553625465d51c20516ef83f91",
       "topic": "气候",
-      "score": 80,
+      "score": 79,
       "id": "1ec817ec1b6e"
+    },
+    {
+      "title": "Live: Former Japanese ambassador warns PM over 'insulting' melon gesture",
+      "summary": "Anthony Albanese is accused of being “ungracious” over his description of melons gifted to him by his Japanese counterpart on a podcast. Follow live.",
+      "url": "https://www.abc.net.au/news/2026-08-10/federal-politics-live-blog-august-10/107015492",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "亚洲",
+      "publishedAt": "2026-08-09T21:17:23.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/92075b5ac2fb9da93602fa3cd39490ca?impolicy=wcms_crop_resize&cropH=285&cropW=506&xPos=0&yPos=9&width=862&height=485",
+      "topic": "政治",
+      "score": 78,
+      "id": "157f74b17516"
     },
     {
       "title": "Live: ASX set to lift after Wall St hit another record close",
@@ -185,8 +302,21 @@
       "publishedAt": "2026-08-09T20:57:56.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&cropH=530&cropW=942&xPos=0&yPos=14&width=862&height=485",
       "topic": "经济",
-      "score": 79,
+      "score": 78,
       "id": "0831a366d771"
+    },
+    {
+      "title": "'Go chase the dreams': Vollering wins second Tour de France Femmes",
+      "summary": "Dutch rider Demi Vollering has won the 2026 Tour de France Femmes, the second time she has won the famous tour.",
+      "url": "https://www.abc.net.au/news/2026-08-10/demi-vollering-wins-tour-de-france-femmes/107014760",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "欧洲",
+      "publishedAt": "2026-08-09T20:31:54.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ca6d862c4dd89a611f4d996ffc3ae590?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=51&width=862&height=485",
+      "topic": "社会",
+      "score": 77,
+      "id": "1418b9d7ce84"
     },
     {
       "title": "'Licence to play': New Wallabies coach backing players in attack",
@@ -198,7 +328,7 @@
       "publishedAt": "2026-08-09T20:04:33.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/3da10307f07735dc52888096588c33ab?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "d96fbb7767a9"
     },
     {
@@ -211,7 +341,7 @@
       "publishedAt": "2026-08-09T20:02:57.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "cca5fbf02e85"
     },
     {
@@ -224,8 +354,47 @@
       "publishedAt": "2026-08-09T09:52:17.000Z",
       "image": "",
       "topic": "经济",
-      "score": 78,
+      "score": 77,
       "id": "eeef570efd3b"
+    },
+    {
+      "title": "Three rescued from flood waters after SA's weekend deluge",
+      "summary": "Three people were rescued after attempting to drive through flood waters, following a weekend of heavy rainfall and storms across South Australia.",
+      "url": "https://www.abc.net.au/news/2026-08-10/three-people-rescued-from-flood-waters-as-heavy-rain-barrages-sa/107015594",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-09T22:40:58.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/c83e596aac1e2b28d0a83063881cd6e5?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=341&width=862&height=485",
+      "topic": "气候",
+      "score": 76,
+      "id": "dcdfa9966766"
+    },
+    {
+      "title": "Australia news live: NSW schools may ban take-home tests over AI concerns; minister calls urgent meeting over airport chaos",
+      "summary": "Intervention follows days of delays and a near-miss between two planes on the Sydney aiport tarmac. Follow today’s news live The NSW government is rolling out a new scheme of smart rental bonds , which will allow some renters to transfer their bonds from one rental to the next when they move house. The scheme will end the need to save up thousands of dollars",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-09T22:39:36.000Z",
+      "image": "https://i.guim.co.uk/img/media/91c8c61f82e8542f583871de4e5b05468c24ff30/2037_1868_4050_3242/master/4050.jpg?width=140&quality=85&auto=format&fit=max&s=6d793ce6dc2abfc77b0358647d7d5499",
+      "topic": "政治",
+      "score": 76,
+      "id": "eb37a1d1ee34"
+    },
+    {
+      "title": "Iran says Oman deal in 'final stages' but US must act to open Hormuz",
+      "summary": "Iran says Oman deal in 'final stages' but US must act to open Hormuz &nbsp;&nbsp; Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KcFExU3IzV0hqRVctRnF0cDJLUFFfN0hGRktMeVQyc0tmVUNrRHd5MVQ4R3RsVG1HS0xET0FjV0NnNU40RnYxLXR5bDhQMC1EczI4?oc=5",
+      "source": "Reuters",
+      "feed": "Latin America News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-09T19:59:33.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "b1d85088ed4f"
     },
     {
       "title": "Israel is ‘trying to make Palestine disappear’: The Elders",
@@ -237,7 +406,7 @@
       "publishedAt": "2026-08-09T19:30:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "019a6b18a59b"
     },
     {
@@ -248,9 +417,9 @@
       "feed": "ABC Australia",
       "region": "大洋洲",
       "publishedAt": "2026-08-09T19:14:04.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/c66a32d57fab4f56a067d7e8d732c6ff?impolicy=wcms_crop_resize&cropH=467&cropW=831&xPos=0&yPos=101&width=862&height=485",
+      "image": "https://live-production.wcms.abc-cdn.net.au/c66a32d57fab4f56a067d7e8d732c6ff?impolicy=wcms_crop_resize&cropH=396&cropW=703&xPos=64&yPos=149&width=862&height=485",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "613dc8b22e77"
     },
     {
@@ -263,7 +432,7 @@
       "publishedAt": "2026-08-09T19:00:42.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/5527933bb947fc2e972f82cd0d326321?impolicy=wcms_crop_resize&cropH=860&cropW=1529&xPos=7&yPos=643&width=862&height=485",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "4c890840f872"
     },
     {
@@ -276,34 +445,8 @@
       "publishedAt": "2026-08-09T18:59:33.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "34f98892c7c3"
-    },
-    {
-      "title": "Who killed Tupac? Three decades later, there may finally be answers",
-      "summary": "Three decades after the murder of rapper Tupac Shakur, the world may get some answers about who killed the young superstar, and why.",
-      "url": "https://www.abc.net.au/news/2026-08-10/tupac-shakur-shooting-murder-trial-to-begin-in-las-vegas/107008936",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-09T18:55:13.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d74b433ed6f8acb4fcfb90094a884e30?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 77,
-      "id": "f7fe458bcd5e"
-    },
-    {
-      "title": "How a simple request for AI to book a gym class exposed a major threat",
-      "summary": "When Andrew asked his AI personal assistant to book him a spot in a gym class, he had no idea he would accidentally initiate an autonomous cyber attack.",
-      "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-09T18:44:33.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/0fd4a89f6e0120cc041f9019c03bda31?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=90&width=862&height=485",
-      "topic": "科技",
-      "score": 77,
-      "id": "d9a9fddd5fc9"
     },
     {
       "title": "US-Iran latest: Fighter jets over skies of Middle East",
@@ -315,7 +458,7 @@
       "publishedAt": "2026-08-09T16:35:48.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "87842a33f2eb"
     },
     {
@@ -328,34 +471,60 @@
       "publishedAt": "2026-08-09T15:46:09.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "c6dcde2d94c5"
     },
     {
-      "title": "Australia news live: transport minister calls in Airservices Australia for urgent meeting after Sydney airport chaos",
-      "summary": "Intervention follows days of delays and a near-miss between two planes on the Sydney aiport tarmac. Follow today’s news live Prue Car , the NSW deputy premier, has asked the NSW Education Standards Authority (Nesa) to impose a ban on unsupervised take-home assessments during a broad review of AI’s impact on student learning. Car said she has asked Nesa to “u",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
+      "title": "Carlton fans chant 'we want Fraser', talks on coaching future imminent",
+      "summary": "Carlton fans are chanting Josh Fraser's name and a similar endorsement from the club's hierarchy for the Blues' interim coach to take the reins full-time could follow as soon as this week.",
+      "url": "https://www.abc.net.au/news/2026-08-10/decision-on-carlton-blues-coaching-pitch-looms/107015656",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
       "region": "大洋洲",
-      "publishedAt": "2026-08-09T21:38:38.000Z",
-      "image": "https://i.guim.co.uk/img/media/ba3f1fb65ac9fc329ce582b9d317e2a3698e1b96/921_565_4207_3366/master/4207.jpg?width=140&quality=85&auto=format&fit=max&s=17e9736d34acb742781cde98da5e9440",
+      "publishedAt": "2026-08-09T22:06:03.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/9c03dc5dcc49e8c8f31815acbab6d268?impolicy=wcms_crop_resize&cropH=2381&cropW=4233&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 76,
-      "id": "6c8d8edf8bd1"
+      "score": 75,
+      "id": "073480be589e"
     },
     {
-      "title": "Burnham vows crackdown on ‘rip-off’ business practices to ease cost of living",
-      "summary": "First of PM’s ‘everyday fixes’ to be banning fake discounts and making it easier to cancel unwanted subscriptions Andy Burnham: I’ll end the rip-offs that people hate Andy Burnham has promised a series of measures to tackle the cost of living, including a ban on fake discounts and making it easier for people to escape unwanted subscriptions. The crackdown on",
-      "url": "https://www.theguardian.com/business/2026/aug/09/burnham-vows-crackdown-on-rip-off-business-practices-to-ease-cost-of-living",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-09T21:30:26.000Z",
-      "image": "https://i.guim.co.uk/img/media/68e1035be26c62f377ad067d6b2c6b2d23a92f96/274_0_3393_2714/master/3393.jpg?width=140&quality=85&auto=format&fit=max&s=95c7810e461a9ff9796b3b38f4097df4",
-      "topic": "经济",
-      "score": 76,
-      "id": "9a7d6373c182"
+      "title": "Aviation bosses summoned, airport workers stood down after Sydney near-miss",
+      "summary": "Airservices Australia's CEO has been summoned to meet with the federal Transport Minister after a near-miss at Sydney Airport on Sunday.",
+      "url": "https://www.abc.net.au/news/2026-08-10/sydney-airport-near-miss-catherine-king-airservices-staff/107014408",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-09T21:56:33.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/84adb552364794584ca2c19cb317fd8e?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=527&width=862&height=485",
+      "topic": "政治",
+      "score": 75,
+      "id": "537ee6b0bf43"
+    },
+    {
+      "title": "How Elliot won Race Around the World in 'opportunity of a lifetime'",
+      "summary": "After 100 days telling stories from the furthest corners of the globe, Race Around the World winner Elliot Constable credits one particular approach for his success.",
+      "url": "https://www.abc.net.au/news/2026-08-10/how-elliot-won-race-around-the-world/106969786",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-09T21:55:18.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/1ab682520803d359241584a22845282e?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "1557551c5190"
+    },
+    {
+      "title": "Who killed Tupac? Three decades later, there may finally be answers",
+      "summary": "Three decades after the murder of rapper Tupac Shakur, the world may get some answers about who killed the young superstar, and why.",
+      "url": "https://www.abc.net.au/news/2026-08-10/tupac-shakur-shooting-murder-trial-to-begin-in-las-vegas/107008936",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-09T18:55:13.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d74b433ed6f8acb4fcfb90094a884e30?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "f7fe458bcd5e"
     },
     {
       "title": "Where does Iran stand on Saudi-Pakistan-Turkiye pact?",
@@ -367,7 +536,7 @@
       "publishedAt": "2026-08-09T18:44:28.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "dd8df7552fe1"
     },
     {
@@ -380,7 +549,7 @@
       "publishedAt": "2026-08-09T18:20:25.000Z",
       "image": "https://i.guim.co.uk/img/media/d430cbfd2ba568e638adef3c68e9dfd626c145a3/317_0_3083_2467/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=726a139367f12898d5cf4b0779a5ab70",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "b4de50e3defc"
     },
     {
@@ -393,21 +562,8 @@
       "publishedAt": "2026-08-09T18:10:57.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "7071826bf3db"
-    },
-    {
-      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
-      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "美洲",
-      "publishedAt": "2026-08-09T18:03:55.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/8ee7ee90-9374-11f1-b2ab-0dd01740f9f6.jpg",
-      "topic": "政治",
-      "score": 76,
-      "id": "b965b6f90628"
     },
     {
       "title": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
@@ -419,12 +575,12 @@
       "publishedAt": "2026-08-09T15:11:28.000Z",
       "image": "https://i.guim.co.uk/img/media/4b3ebbb27a298382cf514404f7afc68b64dbe38a/1024_0_7883_6308/master/7883.jpg?width=140&quality=85&auto=format&fit=max&s=b1d67f15bd43054197f8b769c23e99cf",
       "topic": "经济",
-      "score": 76,
+      "score": 75,
       "id": "09bc6ce80dd5"
     },
     {
       "title": "China expresses ‘grave concern’ as internal documents reveal suicide warning before death in Melbourne immigration detention",
-      "summary": "Exclusive: Serious questions raised about whether Chinese citizen was properly monitored at centre run by US prison giant Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The US private prison company running Australia’s immigration system was warned that a newly detained Chinese citizen expr",
+      "summary": "Exclusive: Serious questions raised about whether Chinese citizen was properly monitored at centre run by US prison giant Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The US private prison company running Australia’s immigration detention system was warned that a newly detained Chinese ci",
       "url": "https://www.theguardian.com/australia-news/2026/aug/10/woman-who-took-her-own-life-in-melbourne-detention-centre-was-known-suicide-risk-documents-reveal-ntwnfb",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -432,8 +588,21 @@
       "publishedAt": "2026-08-09T15:00:18.000Z",
       "image": "https://i.guim.co.uk/img/media/fd9a9ef5603a1a8b1cb43452ae04657f38c22e5b/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=77bfc17fbe81de5a3f0c4be157d70bad",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "c18e4f8d0c91"
+    },
+    {
+      "title": "Burnham vows crackdown on ‘rip-off’ business practices to ease cost of living",
+      "summary": "First of PM’s ‘everyday fixes’ to be banning fake discounts and making it easier to cancel unwanted subscriptions Andy Burnham: I’ll end the rip-offs that people hate Andy Burnham has promised a series of measures to tackle the cost of living, including a ban on fake discounts and making it easier for people to escape unwanted subscriptions. The crackdown on",
+      "url": "https://www.theguardian.com/business/2026/aug/09/burnham-vows-crackdown-on-rip-off-business-practices-to-ease-cost-of-living",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-09T21:30:26.000Z",
+      "image": "https://i.guim.co.uk/img/media/68e1035be26c62f377ad067d6b2c6b2d23a92f96/274_0_3393_2714/master/3393.jpg?width=140&quality=85&auto=format&fit=max&s=95c7810e461a9ff9796b3b38f4097df4",
+      "topic": "经济",
+      "score": 74,
+      "id": "9a7d6373c182"
     },
     {
       "title": "Police working to determine how long body in suitcase lay by road",
@@ -445,21 +614,8 @@
       "publishedAt": "2026-08-09T21:19:54.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/f44d4a698fc6ca5d96ef348d8a82b315?impolicy=wcms_crop_resize&cropH=816&cropW=1451&xPos=270&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "c9686a50e4f7"
-    },
-    {
-      "title": "Live: Bulk-billing rates on the rise",
-      "summary": "The federal government says the number of Australians seeing a GP for free is on the rise. Follow live.",
-      "url": "https://www.abc.net.au/news/2026-08-10/federal-politics-live-blog-august-10/107015492",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-09T21:17:23.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ec58bfece3a53fffab05c501752268a0?impolicy=wcms_crop_resize&cropH=3510&cropW=6240&xPos=0&yPos=2&width=862&height=485",
-      "topic": "政治",
-      "score": 75,
-      "id": "097c280935dd"
     },
     {
       "title": "Big changes for NSW renters as portable bond scheme begins",
@@ -471,7 +627,7 @@
       "publishedAt": "2026-08-09T21:04:33.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/0c87f0509129e7473ac026223f03e933?impolicy=wcms_crop_resize&cropH=3342&cropW=5941&xPos=0&yPos=131&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "a3081367dd19"
     },
     {
@@ -484,34 +640,8 @@
       "publishedAt": "2026-08-09T20:58:18.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c84/live/2e385c70-9431-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "35c3934b346d"
-    },
-    {
-      "title": "Hundreds of cars stolen from Melbourne gyms in six-month-period",
-      "summary": "Police say young offenders are sneaking into gyms and stealing the keys to vehicles which are then used to commit other crimes.",
-      "url": "https://www.abc.net.au/news/2026-08-10/vic-police-warning-over-gym-thefts/107015468",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-09T20:54:41.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/f6725f85385cd1ee46095a7e7323b93f?impolicy=wcms_crop_resize&cropH=472&cropW=840&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "57f0b4cbf3ee"
-    },
-    {
-      "title": "'Not ready to compete': Sinner pulls out of tournament ahead of US Open",
-      "summary": "Men's tennis world number one Jannik Sinner pulls out of the Cincinnati Open with a right knee injury, handing the Italian a blow in his preparations for this month's US Open.",
-      "url": "https://www.abc.net.au/news/2026-08-10/jannik-sinner-pulls-out-of-cincinnati-open/107015540",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-09T20:53:45.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/2921b2e4bb9ab65dc752b2a360574532?impolicy=wcms_crop_resize&cropH=2775&cropW=4934&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "d3b8a66fe95e"
     },
     {
       "title": "Italy condemns Spain’s ‘unacceptable’ border controls as Ceuta fallout intensifies",
@@ -523,60 +653,21 @@
       "publishedAt": "2026-08-09T14:59:39.000Z",
       "image": "https://i.guim.co.uk/img/media/df1ae1a0cf4a2932b7a6f91ec85088ba91d36dca/336_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=659c8e33ae2fc6591f41b8208f121745",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "679db9f22189"
     },
     {
-      "title": "'Go chase the dreams': Vollering wins second Tour de France Femmes",
-      "summary": "Dutch rider Demi Vollering has won the 2026 Tour de France Femmes, the second time she has won the famous tour.",
-      "url": "https://www.abc.net.au/news/2026-08-10/demi-vollering-wins-tour-de-france-femmes/107014760",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-08-09T20:31:54.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ca6d862c4dd89a611f4d996ffc3ae590?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=51&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "1418b9d7ce84"
-    },
-    {
-      "title": "Iran vows to keep Strait of Hormuz closed until US meets demands",
-      "summary": "Iran vows to keep Strait of Hormuz closed until US meets demands &nbsp;&nbsp; France 24",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZy1KTHFVaVRHeVUzelhJbURMeVpyLWdBVUUxZDdjdEllQXdEZ0QyZVZQVy0wY293UXlhV055WkJSV0lVV0VIdVpIcF9ZeHJFUnBkcU1EdDg2VklMR3QzdXRubEdGR1ZtYVFsVXhpdFNoczlHeFJBS3Q4Q294TGo2cXpZYzNTOFE0MzFONlJRWUNkbHhQNnc3bkxaMFM3M3RGaEdqMjNvLTlkVi1pTG5IS3plVQ?oc=5",
-      "source": "France 24",
-      "feed": "Middle East News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-09T20:14:34.000Z",
+      "title": "Cameroon's Triumph: Breaking Nigeria's Reign at WAFCON",
+      "summary": "Cameroon's Triumph: Breaking Nigeria's Reign at WAFCON &nbsp;&nbsp; Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS0lmZ0hKQXpxdGxpZ2lMd090a05LaGhLdTlJMDlXVW9oZ0s4eXVUMW9Bb044WjBveTBPLXBlWHROZ2VUUVFSdnotazRXbTlPT2sydlJSR05JVHB1OWFpUWFaUWh0YzVtMDNiNFBVbXhOSTdxYVgtLTE3R29KX2ZULThneS1JOHZXMjh1bjlFbGR1OXBQeG1kSnlEM2Z1OUJ3TDk3dHV3VDI5UmhXY3VzMGtDWdIBswFBVV95cUxQS0lmZ0hKQXpxdGxpZ2lMd090a05LaGhLdTlJMDlXVW9oZ0s4eXVUMW9Bb044WjBveTBPLXBlWHROZ2VUUVFSdnotazRXbTlPT2sydlJSR05JVHB1OWFpUWFaUWh0YzVtMDNiNFBVbXhOSTdxYVgtLTE3R29KX2ZULThneS1JOHZXMjh1bjlFbGR1OXBQeG1kSnlEM2Z1OUJ3TDk3dHV3VDI5UmhXY3VzMGtDWQ?oc=5",
+      "source": "Devdiscourse",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-09T19:52:01.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
-      "id": "a04cdc2cf525"
-    },
-    {
-      "title": "'Not going to be around for much longer': Small business under pressure despite population growth",
-      "summary": "Mount Barker is one of South Australia's fastest-growing districts, but while some businesses are excited about the prospect of more customers, others are competing with tightening wallets and operating pressures.",
-      "url": "https://www.abc.net.au/news/2026-08-10/mount-barker-is-growing-but-not-all-businesses-are-booming/107003234",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-09T20:13:40.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/a31dabb9739edaff2cbcc5d831f8437c?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=212&width=862&height=485",
-      "topic": "经济",
-      "score": 74,
-      "id": "47e6fc8889ad"
-    },
-    {
-      "title": "'Pack a poncho': Gusty winds and short storms for south-east corner",
-      "summary": "South-eastern and central Queensland may see thunderstorms on Monday, with strong winds and short, sharp rainfall with \"meagre\" totals. With some regions enjoying an Ekka public holiday, they are advised to \"pack a poncho\".",
-      "url": "https://www.abc.net.au/news/2026-08-10/gusty-winds-short-storms-for-south-east-qld/107014130",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-09T20:13:34.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/1f49ca5cd174ec69eee87486ee111378?impolicy=wcms_crop_resize&cropH=2088&cropW=3712&xPos=0&yPos=141&width=862&height=485",
-      "topic": "气候",
-      "score": 74,
-      "id": "9c6599b95904"
+      "score": 73,
+      "id": "1b6cfdfbfd97"
     },
     {
       "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
@@ -588,34 +679,8 @@
       "publishedAt": "2026-08-09T19:57:28.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8796/live/272fe5e0-9424-11f1-aa3c-4fd5547f7539.jpg",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "807ee6cf34ee"
-    },
-    {
-      "title": "Cameroon's Triumph: Breaking Nigeria's Reign at WAFCON",
-      "summary": "Cameroon's Triumph: Breaking Nigeria's Reign at WAFCON &nbsp;&nbsp; Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOenkyX04zZ0g1ODZaX1FmYU5uMDUzcndNZDhYTUJEc2l2eEVTdG9LUXJULUlGV0o3aFJ0VE5TOF9mM2hvdVhaLUNzREJINDFWa2dWLXB6dXJqVG11YnFMUWlyVTF4ZXZLMFdPVmRuZDNuQUVvbFlDRjQ3TldwdWk5VkZRQ1ZIbkxNTVgzNFItdnAyS1pveDd1M0JQVlZ4YlQ4dU44aGlRY1podlhvUXfSAbMBQVVfeXFMUEtJZmdISkF6cXRsaWdpTHdPdGtOS2hoS3U5STA5V1VvaGdLOHl1VDFvQW9OOFowb3kwTy1wZVh0TmdlVFFRUnZ6LWs0V205T09rMnZSUkdOSVRwdTlhaVFhWlFodGM1bTAzYjRQVW14Tkk3cWFYLS0xN0dvSl9mVC04Z3ktSTh2VzI4dW45RWxkdTlwUHhtZEp5RDNmdTlCd0w5N3R1d1QyOVJoV2N1czBrQ1k?oc=5",
-      "source": "Devdiscourse",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-09T19:52:01.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "1b6cfdfbfd97"
-    },
-    {
-      "title": "Houthis claim attacks on Saudi oil facility and Yemeni port, and other Mideast news",
-      "summary": "Houthis claim attacks on Saudi oil facility and Yemeni port, and other Mideast news &nbsp;&nbsp; WPLG Local 10",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMGtOdUdzWmFEVGRYNVBlTlcyWVRETzBJd3RnekdyeVhnS21MNVl2RlVLMGRLY2RtMzlTNkUwcTRQY0x2Z21fVUM0eFFfRkhuVVVUcHVBS1I3OEtFTFgxUEJuOXJDMS02U0s5UzJMcWVTdXVoVHhVZTRtMEVSMXRpSkxzcV9zV0F2SlJJSUlFT0Q4Y01Zd3Vud0Zud2ROTXJ5MFJnMVlSUGstakQ0LWV0RXZJcGVqY3VaOEtDREpnVDAxNkxRZ1E?oc=5",
-      "source": "WPLG Local 10",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-09T07:29:35.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 74,
-      "id": "9d784605ef47"
     },
     {
       "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
@@ -627,8 +692,47 @@
       "publishedAt": "2026-08-09T19:40:09.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d79/live/103a7590-9405-11f1-a3c4-b3ff07dc0ce9.jpg",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "4364fe9370e7"
+    },
+    {
+      "title": "4 Best Asian Destinations for Comfortable, Budget-Friendly Retirement Living Abroad",
+      "summary": "4 Best Asian Destinations for Comfortable, Budget-Friendly Retirement Living Abroad &nbsp;&nbsp; Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEk3SGNaWEVyX0d1UTNkdXhhVktvbk9HUS1Fd1cyd3BLMmJpcUVaSUdQVmJmNUdZU1ViTnpKMkoxWTBzZDktUy1GUWQzTDdyZXg3TjF5TWFSdE5yc050QzhyUnpiOGI4clRfUDJzbnlFcGdKNFdEdnEyR0JGQ1BZSzA2NGVVZDh5aWxPMTBqS1A1dGt5LUlnanAyeVg3d3lSTE1Ya0dOeDBxYXpFMy1CdjkwNUcxbGloMmFKTw?oc=5",
+      "source": "Investopedia",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-09T22:17:47.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "7ef2e6bcdb72"
+    },
+    {
+      "title": "Man mauled by bear: 'I shoved my hand down its throat'",
+      "summary": "Man mauled by bear: 'I shoved my hand down its throat' &nbsp;&nbsp; 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmb0ZYaUNCREVtSUgzckVzcUJDN2JmMmZEUVVUWFBfaEVWQ0tUU29sdTJoblZ4WGxLTUpibGsyNGdISFI3Umx5amlLZmlGU3JzN3JJX01R?oc=5",
+      "source": "朝日新聞",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-09T22:00:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "82b9f250dd23"
+    },
+    {
+      "title": "WAFCON 2026: Malawi Edge Ghana 2-1 as Black Queens’ WAFCON Run Ends",
+      "summary": "WAFCON 2026: Malawi Edge Ghana 2-1 as Black Queens’ WAFCON Run Ends &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemFjM2ktbnNlcW11UE1WZEZUaHdseFM1bTZaMll0aEF6dFRKVEpfZURtY2xhamo3SG1LcnB6QXNmUTBia3I3bFlkQ1ZzOUN3a0tDT2Fjb2JRcV9WRi14S0gwLXNid2pLcExuVjBoVkR0TEN1U25uMWJfdEQ2RmxFQlJ2UThSdEtvMnBVbHpDaTdLV3p5U0laMTF3Nkdndw?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-09T21:59:57.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "16604e3e0f99"
     },
     {
       "title": "Can the Doha Framework end the conflict in eastern DRC?",
@@ -640,7 +744,7 @@
       "publishedAt": "2026-08-09T19:07:35.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "8f94adaa4380"
     },
     {
@@ -653,21 +757,8 @@
       "publishedAt": "2026-08-09T19:06:23.000Z",
       "image": "https://i.guim.co.uk/img/media/c1f65fac6b8a7f109e61bc731e7d728fa93be1be/432_0_4318_3455/master/4318.jpg?width=140&quality=85&auto=format&fit=max&s=4dcdd7646d245e27d1381c003635eb4d",
       "topic": "社会",
-      "score": 73,
+      "score": 71,
       "id": "2ffdd27a6322"
-    },
-    {
-      "title": "Ecuador charges ex-minister over presidential candidate assassination case",
-      "summary": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
-      "url": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-09T15:34:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4de/live/4cc53a50-9404-11f1-a10f-45ed743c6e4b.jpg",
-      "topic": "政治",
-      "score": 73,
-      "id": "40a144e96c01"
     },
     {
       "title": "Perseid meteor shower set to dazzle northern hemisphere this week",
@@ -679,8 +770,21 @@
       "publishedAt": "2026-08-09T18:43:55.000Z",
       "image": "https://i.guim.co.uk/img/media/20261b375dd07330ea4b3a2f08b24d050788a8b0/623_0_6225_4980/master/6225.jpg?width=140&quality=85&auto=format&fit=max&s=4cb7037994e5ade5321a3b3483a420c4",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "7d5313d37164"
+    },
+    {
+      "title": "Ecuador charges ex-minister over presidential candidate assassination case",
+      "summary": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
+      "url": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-09T15:34:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4de/live/4cc53a50-9404-11f1-a10f-45ed743c6e4b.jpg",
+      "topic": "政治",
+      "score": 71,
+      "id": "40a144e96c01"
     },
     {
       "title": "Why misguided influencers are wrong to ditch sunscreen during Europe’s record-breaking heatwave",
@@ -692,21 +796,8 @@
       "publishedAt": "2026-08-09T14:59:00.000Z",
       "image": "",
       "topic": "气候",
-      "score": 72,
-      "id": "12826156713a"
-    },
-    {
-      "title": "4 Best Asian Destinations for Comfortable, Budget-Friendly Retirement Living Abroad",
-      "summary": "4 Best Asian Destinations for Comfortable, Budget-Friendly Retirement Living Abroad &nbsp;&nbsp; Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEk3SGNaWEVyX0d1UTNkdXhhVktvbk9HUS1Fd1cyd3BLMmJpcUVaSUdQVmJmNUdZU1ViTnpKMkoxWTBzZDktUy1GUWQzTDdyZXg3TjF5TWFSdE5yc050QzhyUnpiOGI4clRfUDJzbnlFcGdKNFdEdnEyR0JGQ1BZSzA2NGVVZDh5aWxPMTBqS1A1dGt5LUlnanAyeVg3d3lSTE1Ya0dOeDBxYXpFMy1CdjkwNUcxbGloMmFKTw?oc=5",
-      "source": "Investopedia",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-09T21:12:11.000Z",
-      "image": "",
-      "topic": "社会",
       "score": 71,
-      "id": "7ef2e6bcdb72"
+      "id": "12826156713a"
     },
     {
       "title": "WAFCON 2026: Black Queens Held to 1-1 Draw by Malawi at Half-Time",
@@ -718,7 +809,7 @@
       "publishedAt": "2026-08-09T20:54:42.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "58a2d069b620"
     },
     {
@@ -731,34 +822,8 @@
       "publishedAt": "2026-08-09T18:00:21.000Z",
       "image": "https://i.guim.co.uk/img/media/d61be8214c1fda97376aa7e05150d0ed5d3eedea/1056_732_5539_4431/master/5539.jpg?width=140&quality=85&auto=format&fit=max&s=440262522ce6344acb24cf5af682e8bd",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "6d329f1ad82b"
-    },
-    {
-      "title": "No energy crisis in the country despite ongoing West Asia conflict, says PM Modi in LS",
-      "summary": "No energy crisis in the country despite ongoing West Asia conflict, says PM Modi in LS &nbsp;&nbsp; newsonair.gov.in",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcGU2NFNxczRKX0tFOWNmeGZzdmdKV2pUZm1LLU15WWczdHlkR3g5Y1F5a2hDc29LSjRlaDllVnNBN2prTV9VdXh5SV95UEU2NjVIR05rSjVLNmQ1OWRzTlRwenBDOWtnTFpCaHNCN05uX1FFZllKbFBuaTl6d2FXclZmZS1UUjV5ZlZGZU82OUZDNWpaNU1hd0F2aUdJYXh4Z1I3eVZxUWVSaEF5MzhoUWdnQkQ2Z1J3SkV6cg?oc=5",
-      "source": "newsonair.gov.in",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-09T17:12:05.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "830c08269b1d"
-    },
-    {
-      "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
-      "summary": "Rage-baiting efforts of Trump accounts silenced after posts such as a video linking her Red album to Republicans Some of Taylor Swift ’s songs have been removed from videos posted on social media by Donald Trump ’s campaign and the White House, silencing efforts to mock the pop star. A video posted 3 August featuring the US president and the first lady, Mela",
-      "url": "https://www.theguardian.com/us-news/2026/aug/09/taylor-swift-songs-removed-trump-white-house-posts",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-09T14:33:46.000Z",
-      "image": "https://i.guim.co.uk/img/media/3061128d1ecf3aa61fe3f6421191463751f7166e/470_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=e919a7067c4ced6f4c720e4aa615797b",
-      "topic": "政治",
-      "score": 71,
-      "id": "bae807320fd1"
     },
     {
       "title": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny",
@@ -770,7 +835,7 @@
       "publishedAt": "2026-08-09T14:30:58.000Z",
       "image": "https://i.guim.co.uk/img/media/e5fe24d1799da0408c9ca663658b3d23e982aae5/300_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=86c6d405ea029535366ef8d23fcac925",
       "topic": "经济",
-      "score": 71,
+      "score": 70,
       "id": "fa2d7fde9f70"
     },
     {
@@ -783,7 +848,7 @@
       "publishedAt": "2026-08-09T14:20:51.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "72b25ee61909"
     },
     {
@@ -796,21 +861,8 @@
       "publishedAt": "2026-08-09T14:20:31.000Z",
       "image": "",
       "topic": "政治",
-      "score": 71,
-      "id": "1379b2be4e88"
-    },
-    {
-      "title": "U.S. Opposes China's Unilateral Claims, Supports Philippines in South China Sea",
-      "summary": "U.S. Opposes China's Unilateral Claims, Supports Philippines in South China Sea &nbsp;&nbsp; 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGRQM0E1UEMtb2swTFp1SjhVZVZkcHd1dVZ3SFliRUUwckFPcFdxYXhTSzRadWxER1YybXpBOG5UU3FOTldhVmp0TFVwSGhYTGxQZmJ1RldaQ0QzYjk3dk9MdmxYTk9jTkFzWW5tdlFrV0JhNUQ5aXAtVGlaV1FUWENrMlY?oc=5",
-      "source": "조선일보",
-      "feed": "Pacific News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-09T20:31:49.000Z",
-      "image": "",
-      "topic": "社会",
       "score": 70,
-      "id": "75a2b0a1f1dd"
+      "id": "1379b2be4e88"
     },
     {
       "title": "Ramayana Routes and Maritime Bridges: India and Southeast Asia’s Living Civilizational Ties",
@@ -822,21 +874,21 @@
       "publishedAt": "2026-08-09T20:25:59.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "489b70411c21"
     },
     {
-      "title": "WAFCON 2026: Cameroon End Super Falcons’ Title Hopes As World Cup Race Remains Intact",
-      "summary": "WAFCON 2026: Cameroon End Super Falcons’ Title Hopes As World Cup Race Remains Intact &nbsp;&nbsp; Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlRhU3Y5NXU3MVlxeElzRV9lYmp4elhZN3ZpX0xYS2VxZEhYNFB6Ry04QVRMd1duVU1wZTBFekZRLVNPMjRpeVdnVFo1UjBUMmwtUmp5UUI3NVlCcjVGQ2FHYWZUV0p2LXV6RmkxUDUwdHVCUGVaTzNkWnhOVmdvTkZfR2dYX0QxSjdIQ29sZzd6MWJqOFFDSUxHV2QxOUtCVGlhNkxvWTVadXpEdUk2R28zaGwwUQ?oc=5",
-      "source": "Africa Top Sports",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-09T19:54:29.000Z",
+      "title": "No energy crisis in the country despite ongoing West Asia conflict, says PM Modi in LS",
+      "summary": "No energy crisis in the country despite ongoing West Asia conflict, says PM Modi in LS &nbsp;&nbsp; News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcGU2NFNxczRKX0tFOWNmeGZzdmdKV2pUZm1LLU15WWczdHlkR3g5Y1F5a2hDc29LSjRlaDllVnNBN2prTV9VdXh5SV95UEU2NjVIR05rSjVLNmQ1OWRzTlRwenBDOWtnTFpCaHNCN05uX1FFZllKbFBuaTl6d2FXclZmZS1UUjV5ZlZGZU82OUZDNWpaNU1hd0F2aUdJYXh4Z1I3eVZxUWVSaEF5MzhoUWdnQkQ2Z1J3SkV6cg?oc=5",
+      "source": "News On AIR",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-09T17:12:05.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
-      "id": "49c7765fd815"
+      "score": 69,
+      "id": "91cebb90a3db"
     },
     {
       "title": "London mayor orders council to drop plan to ban new pubs and bars in Soho and West End",
@@ -848,7 +900,7 @@
       "publishedAt": "2026-08-09T17:00:20.000Z",
       "image": "https://i.guim.co.uk/img/media/03613f8c7ee3464153270403fdaa1f03ca89b6e9/230_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=e98d33f2b090196e967ff782783a462f",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "92a387122839"
     },
     {
@@ -861,8 +913,21 @@
       "publishedAt": "2026-08-09T16:53:53.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "aad2b81feee3"
+    },
+    {
+      "title": "WAFCON 2026: Cameroon End Super Falcons’ Title Hopes As World Cup Race Remains Intact",
+      "summary": "WAFCON 2026: Cameroon End Super Falcons’ Title Hopes As World Cup Race Remains Intact &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlRhU3Y5NXU3MVlxeElzRV9lYmp4elhZN3ZpX0xYS2VxZEhYNFB6Ry04QVRMd1duVU1wZTBFekZRLVNPMjRpeVdnVFo1UjBUMmwtUmp5UUI3NVlCcjVGQ2FHYWZUV0p2LXV6RmkxUDUwdHVCUGVaTzNkWnhOVmdvTkZfR2dYX0QxSjdIQ29sZzd6MWJqOFFDSUxHV2QxOUtCVGlhNkxvWTVadXpEdUk2R28zaGwwUQ?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-09T19:54:29.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 68,
+      "id": "49c7765fd815"
     },
     {
       "title": "Puerto Rico rations water supplies due to intense drought",
@@ -874,73 +939,8 @@
       "publishedAt": "2026-08-09T16:43:23.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f6f/live/8f493ea0-9407-11f1-a3c4-b3ff07dc0ce9.jpg",
       "topic": "气候",
-      "score": 70,
-      "id": "03ee1962cb5d"
-    },
-    {
-      "title": "Wildfires in Albania and Spain cause hundreds to evacuate",
-      "summary": "Wildfires have spread near Albania’s capital and in parts of southern Spain, prompting hundreds to evacuate.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-09T16:41:00.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 70,
-      "id": "9b631554c81c"
-    },
-    {
-      "title": "Sports News",
-      "summary": "Sports News &nbsp;&nbsp; LatestLY",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX3gwdlNKZjc4bDh3YUZwVnA3R1NjRlZfcEl3V0JDRjdkZWI5TnlUZHZzcDNLbVdBOVQyYnRvUjVPM0VhSUtxcjZWNkRDQWcxTUZELWMwV0xWZjUwelVGUXlfNGRhWGNaRjdtLXVHbW01UGFnWUFhbHdmUUF5TnJfTVFMUGtoX2gtRkZzZkFRb1VrZmtfVjZIbzNZOVlwS3RKRTJ0U2h0QjhMcnAyTDRpc2tSbEVyaXpVSVJzMlo2RFdKS1BRMEdyVF9GUFlDWTItY2V0VUoxQzk1Y3JSMHJVZXppVHh3bFYzNDRNdUk5Ml_SAfYBQVVfeXFMTjZ6M1dfSzZ2VkpiZHRKSWpUYzdjelB3V0ltYy0wZklKSjVxQ2toMzl2T0w4MTlSUHVQLTlhZ3lVaHRId1pKLVVYRGpRNzVWSnVBVmRVek5JNXpuYTFORFFTOVl5VWRzenp4akNhTGZFdm0xZ0l5ZmJBVE1XeFFTZG8xZDV6Rlp2Y0x1WkRSWHBGX2tzQUE5NHFONk1pak5sSEt1MlFXUVI5SGRxMVl0cDJ2enVsSVk0eHZIdmtGYnBCbWZOcUFrMWNpRmdRYlV3em0zUFlWOUtMRUxFSDltZ05TeUR2NUJ4T25kOUE0M1dxU3RrQVp3?oc=5",
-      "source": "LatestLY",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-09T16:22:17.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "2841d9da5a3c"
-    },
-    {
-      "title": "Drones spotted over German base days after Leipzig bomb incident",
-      "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-09T16:18:10.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e19/live/9f71d840-940d-11f1-870d-5d08c49babb2.png",
-      "topic": "社会",
-      "score": 69,
-      "id": "62e7bd478a14"
-    },
-    {
-      "title": "Incumbents secure Hawaii primary wins, defying progressive challengers",
-      "summary": "Their victories highlight ongoing clashes between centrist Democrats and more progressive candidates.",
-      "url": "https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-09T16:07:23.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "dab845e6bb90"
-    },
-    {
-      "title": "World Bank raises India’s growth forecast from 6.3 to 6.6 percent for current financial year",
-      "summary": "World Bank raises India’s growth forecast from 6.3 to 6.6 percent for current financial year &nbsp;&nbsp; newsonair.gov.in",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzJsaXdFWEo5UmtPT2tCT25pWkplN0NwYy1iWVlnUWlaal8yb0FURUpjeXJoS0JFR2pxT0FpdnZ4UHM5ZE13a05ueE9fMFQ4dUlUUzJGelJBZGRRRDViZFBJS0NvSkg0YlZ2N0pZUmdGMi1fSlliakpBVXlVcFVxdHJJSkpEMEdOdGFNcGdqaUExVEc5OXhkdlVsbEZhNGpaOWczT2tTaVc2T3ktX3A5S2lWYllkX3F6?oc=5",
-      "source": "newsonair.gov.in",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-09T18:23:54.000Z",
-      "image": "",
-      "topic": "经济",
       "score": 68,
-      "id": "c07734dfae86"
+      "id": "03ee1962cb5d"
     }
   ]
 }
