@@ -1,24 +1,11 @@
 {
-  "updatedAt": "2026-08-11T06:07:21.228Z",
+  "updatedAt": "2026-08-11T07:40:50.400Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
-    {
-      "title": "At least 132 killed in Colombia's largest earthquake in years",
-      "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
-      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "美洲",
-      "publishedAt": "2026-08-11T04:06:07.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b4c/live/491511d0-953c-11f1-a0b1-8d38ae2a7560.jpg",
-      "topic": "气候",
-      "score": 91,
-      "id": "dab1885014bb"
-    },
     {
       "title": "Europe braces for another heatwave after record-breaking temperatures",
       "summary": "Extreme heat warnings issued in Britain and France with temperatures forecasted to reach mid-30s Celsius this week.",
@@ -29,76 +16,76 @@
       "publishedAt": "2026-08-10T21:29:32.000Z",
       "image": "",
       "topic": "政治",
-      "score": 90,
+      "score": 92,
       "id": "5bba27a32256"
     },
     {
-      "title": "RBA interest rates: Reserve Bank holds cash rate at 4.35% but threatens more hikes if needed",
-      "summary": "In a widely expected decision, the Reserve Bank of Australia holds interest rate after three hikes earlier this year Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Reserve Bank of Australia has held the official cash rate at 4.35% but threatened to hike again if needed, as it warned fal",
-      "url": "https://www.theguardian.com/business/2026/aug/11/rba-interest-rate-announcement-decision-cash-rates-economy",
+      "title": "Australia news live: Bullock warns more hikes possible after RBA holds cash rate at 4.35%; Greens accuse Carroll of ‘crumbling to big business’ over work from home bill",
+      "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Ted O’Brien says that just because the Japanese government has downplayed melon-gate, doesn’t mean Anthony Albanese ’s gaffe isn’t a “national embarrassment”. We’ve seen reports Japan sent a memo to the government last month suggesting they did not believe the prime ministe",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
       "source": "The Guardian",
       "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T05:10:41.000Z",
-      "image": "https://i.guim.co.uk/img/media/f3b9b971ac6f8e9e14fdb56a1aaba299990c7d4a/226_0_4114_3293/master/4114.jpg?width=140&quality=85&auto=format&fit=max&s=72538054a29970f162e94c0340eb492d",
+      "region": "亚洲",
+      "publishedAt": "2026-08-11T07:27:30.000Z",
+      "image": "https://i.guim.co.uk/img/media/29dd6a722af5dda5f582e1c3162e11d24a4a5735/375_0_3748_2999/master/3748.jpg?width=140&quality=85&auto=format&fit=max&s=ef7d5216e7a30bf76fa73e26bca8fb62",
       "topic": "政治",
-      "score": 88,
-      "id": "db5ba9fbe6cb"
+      "score": 89,
+      "id": "6eedda967e37"
     },
     {
-      "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
-      "summary": "Live Updates: Latest from Israel, Iran, and the Middle East &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SR2p3ZnVMTHRtSW5abzdqazNGVzFXUUlZd0czVDFLY0owQWtNckJMWGt0NzVmREx4eEtPQXpVNzFlTzJ1NE4tNVZscWxkaW1ISEFrX2Y3Y2RTTWk4dTlSR2tPb0dsczhvelY1bkZwRVloZm1QSVpxOF8wRDc1TW8?oc=5",
-      "source": "The Jerusalem Post",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-11T05:00:05.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 87,
-      "id": "6f521ec72b20"
+      "title": "At least 132 killed in Colombia's largest earthquake in years",
+      "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "美洲",
+      "publishedAt": "2026-08-11T04:06:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f2f/live/f1603a50-954a-11f1-a7ab-8b30adf0800a.jpg",
+      "topic": "气候",
+      "score": 89,
+      "id": "dab1885014bb"
     },
     {
-      "title": "'The right price': How North Korea benefits from Russia alliance",
+      "title": "Zelenskyy warns of North Korea-Russia alliance",
       "summary": "Almost two weeks ago, what is believed to be a North Korean missile was fired in a Russian attack that killed a Ukrainian family. It could be part of a major escalation in North Korea's involvement in the war in Ukraine.",
       "url": "https://www.abc.net.au/news/2026-08-11/zelenskyy-warns-of-north-korea-russia-alliance/107022944",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "欧洲",
       "publishedAt": "2026-08-11T04:24:16.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/8b8c16242b747ce19c9420242de28de4?impolicy=wcms_crop_resize&cropH=676&cropW=1201&xPos=0&yPos=142&width=862&height=485",
-      "topic": "政治",
-      "score": 87,
-      "id": "cde6c0b6ae9b"
-    },
-    {
-      "title": "Australia news live: Bullock warns more hikes possible after RBA holds cash rate at 4.35%; PM faces Coalition questions on ‘classless’ melon comment",
-      "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Ted O’Brien says that just because the Japanese government has downplayed melon-gate, doesn’t mean Anthony Albanese ’s gaffe isn’t a “national embarrassment”. We’ve seen reports Japan sent a memo to the government last month suggesting they did not believe the prime ministe",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-08-11T05:54:31.000Z",
-      "image": "https://i.guim.co.uk/img/media/29dd6a722af5dda5f582e1c3162e11d24a4a5735/375_0_3748_2999/master/3748.jpg?width=140&quality=85&auto=format&fit=max&s=ef7d5216e7a30bf76fa73e26bca8fb62",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ae99b5a6e723d9eb6d96a89bf2e69f9e?impolicy=wcms_crop_resize&cropH=2724&cropW=4842&xPos=0&yPos=252&width=862&height=485",
       "topic": "政治",
       "score": 85,
-      "id": "69f722b044da"
+      "id": "8f194d3b47e8"
     },
     {
-      "title": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan",
-      "summary": "US President Donald Trump maintains that his relationship with Israel's PM Benjamin Netanyahu is still good.",
-      "url": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss",
+      "title": "Russian attacks kill six in Ukraine’s Zaporizhzhia",
+      "summary": "A children's hospital has also been struck in Kyiv, according to Ukraine's state emergency service.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-11T07:07:51.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 84,
+      "id": "96e7cf3ff29d"
+    },
+    {
+      "title": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
+      "summary": "The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
       "region": "中东",
-      "publishedAt": "2026-08-10T21:03:53.000Z",
+      "publishedAt": "2026-08-11T06:05:07.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 85,
-      "id": "b64e99acbd22"
+      "topic": "科技",
+      "score": 83,
+      "id": "3247ff4c42e9"
     },
     {
-      "title": "Coalition divided over tougher gambling laws - with MPs warning Angus Taylor against overreach",
+      "title": "Coalition divided over tougher gambling laws – with MPs warning Angus Taylor against overreach",
       "summary": "Some Liberal and National MPs warned against over-regulation in party room discussion, while others argued for more stringent rules Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Coalition MPs have warned the opposition leader, Angus Taylor, not to overreach in talks with Anthony Albanese o",
       "url": "https://www.theguardian.com/australia-news/2026/aug/11/coalition-divided-angus-taylor-gambling-laws-overreach",
       "source": "The Guardian",
@@ -107,8 +94,8 @@
       "publishedAt": "2026-08-11T05:49:24.000Z",
       "image": "https://i.guim.co.uk/img/media/ae9319faf9575ee7af2b2ba254e7ec4e74637834/2014_234_4338_3469/master/4338.jpg?width=140&quality=85&auto=format&fit=max&s=b334d91434fe61549af1c7b882584546",
       "topic": "政治",
-      "score": 84,
-      "id": "2ddecba507ea"
+      "score": 82,
+      "id": "cd5164b35bcc"
     },
     {
       "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
@@ -120,8 +107,21 @@
       "publishedAt": "2026-08-11T05:48:27.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
+      "score": 82,
       "id": "a0d0117bae8e"
+    },
+    {
+      "title": "Colombia searches for missing after powerful earthquake kills at least 111",
+      "summary": "Colombia searches for missing after powerful earthquake kills at least 111 &nbsp;&nbsp; BreakingNews.ie",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ1Y2R0w4bC1PNjJWY3NhZ1FvcjNXNnNQTUtWNjNBQXZSTjFIaDRRMXdHSGhLbTZndHBHcDM1VjhDRzFjRGpua184ZFcyXzRxRlVFcXNUUUVXUGd5ajZMSV9PSU5XdE45QXl2bjNILTMyY1dvTXd6R2dFdDZOd25BM2xjV2F4ckthWkI2OWdtN005Z0ZtT3NZSnVPREJRazB5R0V3Ri13dGxybm5mSlkwVVF6YXpPNW1DS1ljUVFn?oc=5",
+      "source": "BreakingNews.ie",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-11T05:02:33.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 82,
+      "id": "5ddd2320041e"
     },
     {
       "title": "Can Netanyahu defy Trump on his Gaza peace plan?",
@@ -133,7 +133,7 @@
       "publishedAt": "2026-08-11T00:00:19.000Z",
       "image": "",
       "topic": "社会",
-      "score": 84,
+      "score": 82,
       "id": "2eb9a8cbe19c"
     },
     {
@@ -146,21 +146,60 @@
       "publishedAt": "2026-08-11T04:37:27.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 81,
       "id": "2acc2f554a01"
     },
     {
-      "title": "Alan Jones trial: alleged victim told brother indecent assaults weren’t ‘too bad’ but involved broadcaster grabbing his penis, court hears",
-      "summary": "Former 2GB and 2UE radio host, now 85, has pleaded not guilty to 22 charges of indecent assault and sexual touching Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast An alleged victim of Alan Jones told his older brother, after the broadcaster was arrested, that his indecent assaults were “not",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/11/alan-jones-trial-sydney-indecent-assault-sexual-touching-court-case-ntwnfb",
+      "title": "Victoria to ban suppression orders for rapists following Ralph Carr, Tom Silvagni convictions under new pledge",
+      "summary": "Premier Ben Carroll promises if re-elected to ‘close every loophole’ used by high-profile accused and convicted criminals to hide their identities in the courts Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The use of suppression orders by convicted rapists will be banned in Victoria, prem",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/11/victoria-to-ban-suppression-orders-for-rapists-ntwnfb",
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "大洋洲",
-      "publishedAt": "2026-08-11T04:32:40.000Z",
-      "image": "https://i.guim.co.uk/img/media/2ab39661cc72badbd9ff8adae0a5d9c79a5ffe8c/95_0_6114_4894/master/6114.jpg?width=140&quality=85&auto=format&fit=max&s=d69a8e0c69ce2b5087fa5cfb43112e31",
+      "publishedAt": "2026-08-11T07:29:28.000Z",
+      "image": "https://i.guim.co.uk/img/media/233136b6b7cf5db8336c2bdd6a204d4946713e0d/0_0_6090_4875/master/6090.jpg?width=140&quality=85&auto=format&fit=max&s=5d5b71cda71a38cd494d331cdc0ee024",
       "topic": "政治",
-      "score": 82,
-      "id": "e2ac7e723fd9"
+      "score": 80,
+      "id": "9403575d91d1"
+    },
+    {
+      "title": "Donald Trump says replacing Gianni Infantino would be a ‘terrible mistake’",
+      "summary": "Trump's comments are the first time he has spoken in FIFA president's defence since FFE plans were leaked on July 28.",
+      "url": "https://www.aljazeera.com/sports/2026/8/11/donald-trump-says-replacing-gianni-infantino-would-be-a-terrible-mistake?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-11T07:13:29.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 80,
+      "id": "dea77f29bda0"
+    },
+    {
+      "title": "Oil prices hold steady after jumping 5%, while Asian shares are mixed - ABC News",
+      "summary": "Oil prices hold steady after jumping 5%, while Asian shares are mixed &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWGs5Wk13YUtxRXBTUGRWWGlZM2RDUjdISWl4OFpQdjAwS1dVZER0eXZzdW1QdnU0TjdWWkpVUnZhVlBDcG5MandweHIzY3RhX0RXcU9wSkV4TjVsby1ZM3ZGdGdJQTFGcUFnMlkxNVE3bFB0QUpPMUdIVmdoYXEtTE8yLWEzUlF1U2daU1ZCam5IUG1Edm8yWdIBngFBVV95cUxQVThnYnBLSWdyVXJvVUdRTGozQUV4TDEyRnFNS2hDTUN6SzRFc0FwZFFldVFjVEFWOWZyazFERFY5RTVoeEU2OXVsUlNwcGhSUHVHZEsxTnpNUVRCNUhpenUxazBhX0haNHZLRTBDcklQMFo5MDJsNVJZMUU4WVR5QTI5SEUzbFh1RGFaZk1hclp4eF9uOGgwaUp4VC1YUQ?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-11T07:06:52.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 80,
+      "id": "2f63b1773e7b"
+    },
+    {
+      "title": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
+      "summary": "Elaborate ruse was used to transport president to military flight from Air Force One in July Donald Trump departed on a secret military flight from Turkey to Britain last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse – prompted by an Iranian assassination threat – that involved hiding the president in an airpor",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-11T06:46:56.000Z",
+      "image": "https://i.guim.co.uk/img/media/1689d23cc9c76b118263c1cdf1b005a6d7d5e279/624_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=2bde3f956ee6f231409277875f2d625c",
+      "topic": "政治",
+      "score": 79,
+      "id": "684dd8bfc6db"
     },
     {
       "title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
@@ -172,21 +211,34 @@
       "publishedAt": "2026-08-10T20:55:34.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d1a/live/757b3bc0-950d-11f1-a7ab-8b30adf0800a.jpg",
       "topic": "气候",
-      "score": 81,
+      "score": 79,
       "id": "61091382c78a"
     },
     {
-      "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
-      "summary": "Turkey's parliament approved legislation that would introduce a conditional pardon for thousands of Kurdish militants in a bid to advance the government's peace initiative with their insurgent group.",
-      "url": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
-      "source": "NPR World",
-      "feed": "NPR World",
+      "title": "Trump signs order to reduce childhood vaccines and break up MMR shots",
+      "summary": "The revised vaccination schedule recommends immunising children against 11 diseases, six fewer than currently recommended.",
+      "url": "https://www.abc.net.au/news/2026-08-11/trump-executive-order-childhood-immunisation/107024148",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-11T06:09:34.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/41baf56331396a326de3118007e7e573?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 78,
+      "id": "b5b9df6a2790"
+    },
+    {
+      "title": "Inside Donald Trump's 'Hunger Games'-style athletics contest",
+      "summary": "US President Donald Trump has pitted 120 students from the 50 states, territories and some Native American nations against each other to win a college scholarship.",
+      "url": "https://www.abc.net.au/news/2026-08-11/donald-trump-patriot-games-us-students-college-scholarship/107022658",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
       "region": "美洲",
-      "publishedAt": "2026-08-11T06:03:49.000Z",
-      "image": "",
+      "publishedAt": "2026-08-11T06:06:45.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/79e90dc654e03c63ea234f46a023de60?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "政治",
-      "score": 80,
-      "id": "dfe5c786c81e"
+      "score": 78,
+      "id": "2e2d676d9a68"
     },
     {
       "title": "Tuesday briefing: To drill or not to drill – Burnham’s first big climate test",
@@ -198,7 +250,7 @@
       "publishedAt": "2026-08-11T05:46:22.000Z",
       "image": "https://i.guim.co.uk/img/media/c643457f774bd61407850b463c617e1141a13be4/473_0_3692_2953/master/3692.jpg?width=140&quality=85&auto=format&fit=max&s=511e88f8d74c1de97bcf041768c05a3d",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "f36d72a9a990"
     },
     {
@@ -211,7 +263,7 @@
       "publishedAt": "2026-08-11T05:32:08.000Z",
       "image": "https://i.guim.co.uk/img/media/9ada7efe0440a985b43f294d081bd99e5f27be14/1376_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=d708d575017a4953b585d99fb4dea378",
       "topic": "社会",
-      "score": 80,
+      "score": 78,
       "id": "53f9afbcccf6"
     },
     {
@@ -224,7 +276,7 @@
       "publishedAt": "2026-08-11T05:28:30.000Z",
       "image": "https://i.guim.co.uk/img/media/61be4ba64b0ffa390e91a150366ad82f748bdc68/248_0_4855_3884/master/4855.jpg?width=140&quality=85&auto=format&fit=max&s=98e48f71d04dd1c5d9fd4029fd037042",
       "topic": "社会",
-      "score": 80,
+      "score": 78,
       "id": "acef2f399d00"
     },
     {
@@ -237,7 +289,7 @@
       "publishedAt": "2026-08-11T02:32:47.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "099ed043ffbb"
     },
     {
@@ -250,7 +302,7 @@
       "publishedAt": "2026-08-11T02:14:32.000Z",
       "image": "https://i.guim.co.uk/img/media/18957e6c34be30efa7537d3518bf9de153e9b7e7/96_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=f03cb21758e8e706a5cbff5815ac9f46",
       "topic": "气候",
-      "score": 80,
+      "score": 78,
       "id": "573a0016bfaf"
     },
     {
@@ -263,7 +315,7 @@
       "publishedAt": "2026-08-11T02:12:18.000Z",
       "image": "https://i.guim.co.uk/img/media/c762e144ddc72b6031ab6f372efddeed68516df0/783_88_1406_1125/master/1406.jpg?width=140&quality=85&auto=format&fit=max&s=c77dd19c70c47084c20b381b401a8d51",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "a9c4e586e3fd"
     },
     {
@@ -276,7 +328,7 @@
       "publishedAt": "2026-08-11T05:02:58.000Z",
       "image": "",
       "topic": "气候",
-      "score": 79,
+      "score": 77,
       "id": "bd09bdfdad5f"
     },
     {
@@ -289,8 +341,21 @@
       "publishedAt": "2026-08-11T05:00:05.000Z",
       "image": "https://i.guim.co.uk/img/media/d456aa5887d8b0dfa0d5f0250667c2b2397de8e9/312_481_3362_2687/master/3362.jpg?width=140&quality=85&auto=format&fit=max&s=04dde2f926de9746cc116fa050145a95",
       "topic": "社会",
-      "score": 79,
+      "score": 77,
       "id": "a5bc0793ea9a"
+    },
+    {
+      "title": "China’s Long March 7A rocket explodes after lift-off",
+      "summary": "China’s Long March 7A rocket exploded shortly after lifting off from the Wenchang launch site in Hainan.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-11T04:34:50.000Z",
+      "image": "",
+      "topic": "科技",
+      "score": 77,
+      "id": "c99eb39f2a49"
     },
     {
       "title": "Moment of terror as powerful earthquake shakes airport in Colombia",
@@ -302,7 +367,7 @@
       "publishedAt": "2026-08-10T22:46:32.000Z",
       "image": "",
       "topic": "气候",
-      "score": 79,
+      "score": 77,
       "id": "1924c0cedb5f"
     },
     {
@@ -315,8 +380,34 @@
       "publishedAt": "2026-08-10T21:48:23.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "dc0fd5d0a563"
+    },
+    {
+      "title": "Europe opens mixed with Mideast saga in focus",
+      "summary": "Europe opens mixed with Mideast saga in focus &nbsp;&nbsp; Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSE5TWE9xWndLVWdxR2tzTzJaSWFBOHVRYVNsWkh2azBiamI5cFpMV2JxalFtMDdwdjA5QkQ5OXhTcUZQOE1FSktreEZDTlc2OE5NdW5mNXVJT3lyakFyOGpRNWgtTVQ2dzZwV1JLaDVTWmo2QVZKMFQ2UGc4ZVIxZkhvZXhjWlZpNkdFR09aYnRNRGNV?oc=5",
+      "source": "Breakingthenews.net",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-11T07:02:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "32ef1da832db"
+    },
+    {
+      "title": "BREAKING: 14 illegal miners found dead in Marikana",
+      "summary": "BREAKING: 14 illegal miners found dead in Marikana &nbsp;&nbsp; The Citizen",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYjFEV1pHLUp1NG1xQWJRVGhqbU5QMlNRVlJnOFpSY2k3OC15TEpEV2VPTWdEM0pCQlhpZUg3UUhiZlk3S1JVVkdRNEE0TDl5d0sxcVQ0MTJYLURrNUdZejJuTHJmZ3FxVHNzNzZORWNESlZmbkZQZHh4dXZiaEI3dlpuNVVTazdvLW9hRmRvVlNBM2lqZ2l4aDZBS0FNdjVCZG5lVjcxODU?oc=5",
+      "source": "The Citizen",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-11T07:00:41.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "24717124220d"
     },
     {
       "title": "Trump’s media company reports $238m loss",
@@ -328,34 +419,21 @@
       "publishedAt": "2026-08-11T04:52:07.000Z",
       "image": "",
       "topic": "科技",
-      "score": 78,
+      "score": 76,
       "id": "79edcdc166a4"
     },
     {
-      "title": "Reserve Bank keeps interest rates at 4.35pc",
-      "summary": "The Reserve Bank has kept interest rates on hold at its August meeting, after three rate hikes earlier this year.",
-      "url": "https://www.abc.net.au/news/2026-08-11/rba-interest-rates-august-2026/107023850",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T04:48:33.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d00502de866a4c52387efe2e743a26ff?impolicy=wcms_crop_resize&cropH=2032&cropW=3613&xPos=0&yPos=0&width=862&height=485",
-      "topic": "经济",
-      "score": 78,
-      "id": "d0cb44afe6e8"
-    },
-    {
-      "title": "China’s Long March 7A rocket explodes after lift-off",
-      "summary": "China’s Long March 7A rocket exploded shortly after lifting off from the Wenchang launch site in Hainan.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-11T04:34:50.000Z",
+      "title": "Colombia searches for its missing after a powerful earthquake kills more than 100",
+      "summary": "Colombia searches for its missing after a powerful earthquake kills more than 100 &nbsp;&nbsp; News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNanR6TndqVDZfMmxfTTA3TC1ramcwT1dEVlc5TktFamdGeUxBODJmb295RU9CUy1CN0hGbURzSFFvZUF0Z1kybmh6SXJtVVZjcnozSjFaMTBTTXFCclZ5OVM2WEo0XzFDd1V2TGxlLWU4ejVKcURkUXZ1ZzFQVzRzbU00YXF3TUJibUdkTmJsdkM3YmJVT1VBWGRxM191MG5ab1liRWZfekRhSnNLVjdZQW1vbFlDdjhxaWxlalc3RGk5TGtRWldXVQ?oc=5",
+      "source": "News4JAX",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-11T04:24:16.000Z",
       "image": "",
-      "topic": "科技",
-      "score": 78,
-      "id": "c99eb39f2a49"
+      "topic": "气候",
+      "score": 76,
+      "id": "95c1244cf33f"
     },
     {
       "title": "NZ PM calls urgent meeting to address 'increased' leadership speculation",
@@ -367,7 +445,7 @@
       "publishedAt": "2026-08-11T04:12:03.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/4e8bfb459fa0bd32ba033f82db7cd3b6?impolicy=wcms_crop_resize&cropH=2599&cropW=4620&xPos=0&yPos=481&width=862&height=485",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "5c7cc4134b49"
     },
     {
@@ -380,7 +458,7 @@
       "publishedAt": "2026-08-11T04:09:10.000Z",
       "image": "",
       "topic": "经济",
-      "score": 78,
+      "score": 76,
       "id": "3935c13badbf"
     },
     {
@@ -393,8 +471,86 @@
       "publishedAt": "2026-08-10T20:45:52.000Z",
       "image": "https://i.guim.co.uk/img/media/3569dec9cee41843292d1bd0fc9a412b89d6e8db/813_724_4096_3276/master/4096.jpg?width=140&quality=85&auto=format&fit=max&s=7711ca52b661d238011192af3e3a6434",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "4a6acd494d55"
+    },
+    {
+      "title": "Small but promising signs of recovery on Great Barrier Reef",
+      "summary": "Surveys show coral cover increased in several parts of the reef, partly due to monsoons bringing cooler weather.",
+      "url": "https://www.abc.net.au/news/2026-08-11/great-barrier-reef-small-signs-recovery/107025118",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-11T07:15:55.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/5f86b7ea8e239470f88c89d932efe21c?impolicy=wcms_crop_resize&cropH=2448&cropW=4352&xPos=0&yPos=408&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "4b3a3d7f1fe6"
+    },
+    {
+      "title": "Former Darwin councillor sentenced over 'insidious' domestic violence",
+      "summary": "Prominent former gallery owner Paul Arnold has been found guilty on more than a dozen domestic violence charges, including assault, stalking and breaching a domestic violence order.",
+      "url": "https://www.abc.net.au/news/2026-08-11/paul-arnold-former-darwin-councillor-sentenced-for-dv-offences/107022760",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-11T06:55:16.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/8f4327da94f963d80f590aff26b91d98?impolicy=wcms_crop_resize&cropH=1013&cropW=1800&xPos=0&yPos=416&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "25ecf88edac4"
+    },
+    {
+      "title": "China missile test deepens Pacific divide over growing militarisation",
+      "summary": "China missile test deepens Pacific divide over growing militarisation &nbsp;&nbsp; mediaselangor.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yeWRJVzNfbEdvdWYtb1A0X1ZMd2IxVHVNSFRvN1hkRFhIVHdkRktTVFdkMXk0SW5SdFViYjRKOFdLVV9ZWFNJUVJHYlg5a1J4bzhyNnFn?oc=5",
+      "source": "mediaselangor.com",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-11T06:52:46.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "cd4181cc176d"
+    },
+    {
+      "title": "Australia’s prime minister refuses to apologise to Japanese counterpart over melon gaffe",
+      "summary": "Anthony Albanese faces criticism after appearing to joke on a podcast about a gift of melons from Sanae Takaichi The Australian prime minister, Anthony Albanese, has rejected calls to apologise to Japan’s prime minister over a joke he made about melons on a satirical podcast, amid a media frenzy and accusations of sexual innuendo. Government MPs have defende",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/11/australia-pm-anthony-albanese-refuses-to-apologise-japan-sanae-takaichi-melon-gaffe",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "亚洲",
+      "publishedAt": "2026-08-11T06:49:53.000Z",
+      "image": "https://i.guim.co.uk/img/media/c3e0fa30e7718dbd8473ec1a840c2120c38e426a/609_439_3411_2729/master/3411.jpg?width=140&quality=85&auto=format&fit=max&s=6f3412d391a965e25dbff6e9cd248768",
+      "topic": "政治",
+      "score": 75,
+      "id": "bb32d4e12295"
+    },
+    {
+      "title": "Holiday Inn owner suffers Middle East slowdown as Iran war hits tourism",
+      "summary": "Holiday Inn owner suffers Middle East slowdown as Iran war hits tourism &nbsp;&nbsp; City AM",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wVmRGWllCY3BMRFRWMXd0dlE1aVdjUGZneVVUR0tkTlE3M2lvejNPRHF6aEhFNzhqUWVHSVJpZ1RvVDZZRm1faTI2aWpKdlBEdk5RNTdDUEdTeTdKWnM5RWhuai10a1RVVWdsVEdydmJNdGE3ZXJLNS1yWQ?oc=5",
+      "source": "City AM",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-11T06:40:46.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "ae87224d63be"
+    },
+    {
+      "title": "Nvidia links with Wall Street firms for $500bn AI financing deal",
+      "summary": "Apollo, BlackRock, Goldman Sachs and KKR among those working with chipmaker to fund infrastructure Nvidia ⁠has partnered with six major Wall Street financial institutions to raise ⁠more than $500bn (£370bn) capital for artificial intelligence infrastructure. The Nvidia chief executive, Jensen Huang, said on X that the company has ⁠the option to backstop up t",
+      "url": "https://www.theguardian.com/technology/2026/aug/11/nvidia-wall-street-finance-ai-infrastructure",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-11T06:32:13.000Z",
+      "image": "https://i.guim.co.uk/img/media/60c16c51afb0ee89b7d02519aa2c93e163f953f3/250_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=fe3a474f91d675ef87e8f0d06d07e065",
+      "topic": "科技",
+      "score": 75,
+      "id": "852d3c523fb9"
     },
     {
       "title": "US had hottest month on record in July, England's drought worsens",
@@ -406,21 +562,8 @@
       "publishedAt": "2026-08-11T03:40:54.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/a81c68825bda492f3e6506fd128c1937?impolicy=wcms_crop_resize&cropH=2250&cropW=4000&xPos=0&yPos=208&width=862&height=485",
       "topic": "气候",
-      "score": 77,
+      "score": 75,
       "id": "60c104715a55"
-    },
-    {
-      "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
-      "summary": "Search teams and civilians picked through the remains of destroyed buildings in the country's third-largest city, Cali, passing large pieces of concrete and rubble down a long line of volunteers.",
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "美洲",
-      "publishedAt": "2026-08-11T03:39:40.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 77,
-      "id": "a7c7a4c8d7d2"
     },
     {
       "title": "Where did all the money go if the US is running out of weapons?",
@@ -432,21 +575,21 @@
       "publishedAt": "2026-08-11T03:32:57.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 75,
       "id": "64b2ead0e483"
     },
     {
-      "title": "Extreme Weather in July: Record-breaking heat in Europe, wildfires in Canada and drought-related deaths in Uganda",
-      "summary": "Extreme Weather in July: Record-breaking heat in Europe, wildfires in Canada and drought-related deaths in Uganda &nbsp;&nbsp; Table.Briefings",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcFMwNXZIX0tHb1VwajZXUFF1MGFvcUtkWHNib3ZhXzRSdlNCOVBka3hNWW5VTl9GNUFuckVwTy1BNkcwRG9RMm1zclp2Y013RXZGSlBUdHJqVnRzQ2N0ZWxPaXczT2VLaHZheUgyZDlqbWlVT18zYklmVW40ajY5Rmw1ZFlEclVJZGFBSlI3VndzQkRjVHMyQWhBTzI0TVlTU210VjQ3T2t6YkxkclFZSWNfQk5pbjFQSU80NmFkeFNpX2NrcmNEUUJLRURRYTBvZWN2bzU3YjlsZko5LXVWMg?oc=5",
-      "source": "Table.Briefings",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-11T03:05:13.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 77,
-      "id": "f8df36f9e357"
+      "title": "Alan Jones trial hears from brother and ex-girlfriend of alleged victim",
+      "summary": "The brother of a man accusing Alan Jones of indecent assault has told the court he never saw the radio host act inappropriately towards his brother, and was only told of the allegations after Mr Jones's arrest.",
+      "url": "https://www.abc.net.au/news/2026-08-11/alan-jones-trial-complainant-j-brother-gives-evidence/107021772",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-11T03:00:40.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/025beb5c4acaff71a2399d03f42b46c2?impolicy=wcms_crop_resize&cropH=640&cropW=1138&xPos=0&yPos=114&width=862&height=485",
+      "topic": "政治",
+      "score": 75,
+      "id": "ba9026ad745c"
     },
     {
       "title": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
@@ -458,7 +601,7 @@
       "publishedAt": "2026-08-11T00:00:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 75,
       "id": "3ff00a1dd100"
     },
     {
@@ -471,8 +614,73 @@
       "publishedAt": "2026-08-10T14:43:08.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1688/live/5a6f2b30-94c1-11f1-adb5-bd19050a74a5.jpg",
       "topic": "政治",
-      "score": 77,
+      "score": 75,
       "id": "3eef1b0159a7"
+    },
+    {
+      "title": "Mother allegedly 'laughed' while intellectually disabled teenage son was tortured",
+      "summary": "The mother of an intellectually disabled teenager who was allegedly tortured, allegedly laughed and joked while watching on, a court has heard during her bail application.",
+      "url": "https://www.abc.net.au/news/2026-08-11/mother-allegedly-laughed-watched-teenager-tortured/107024544",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-11T06:09:31.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/6aaf38e5c925631f789fe93af472d351?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "topic": "政治",
+      "score": 74,
+      "id": "d035277c3655"
+    },
+    {
+      "title": "China Missile Test Raises Fears of Growing Pacific Militarisation",
+      "summary": "China Missile Test Raises Fears of Growing Pacific Militarisation &nbsp;&nbsp; moderndiplomacy.eu",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN1dwdXFWSnU4aDdxeGZZZUZLZlZZNmU5LUlqaDZ5R0dSZTRwSldSRTdRbE1wSTdKMkhqWTlZUGhlODQtc05WQlNtVDhrZXp1WDlZalNFeU5zNzZNa0cyZlFmaTRNSTVpLW4tWFkzTTFHWEs4dG5XZnZNcHBQbWQwU2o2NTgxcTVwaUo1dEYxbnVJa1ljazdfRzh6UEFYbV8yck5NUmliVQ?oc=5",
+      "source": "moderndiplomacy.eu",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-11T06:07:59.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "7ac634f34e05"
+    },
+    {
+      "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
+      "summary": "Turkey's parliament approved legislation that would introduce a conditional pardon for thousands of Kurdish militants in a bid to advance the government's peace initiative with their insurgent group.",
+      "url": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "美洲",
+      "publishedAt": "2026-08-11T06:03:49.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 74,
+      "id": "dfe5c786c81e"
+    },
+    {
+      "title": "Europe set to open mixed with Iran in focus",
+      "summary": "Europe set to open mixed with Iran in focus &nbsp;&nbsp; Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2YyalZod1NjbGtOMjNvN2lGU3hqbWkxS3VOdktVQl9XcDU3LW5FVWU0emR2bzhKcVFxX0Jwc0NpYnV1YzhjaWFNQVRwX2hyaDV0UWlJNGFDUzdRZWtYS1U1dXc4ZE9pX0toU0JQOWxIWmt3OGExMWEwMTc0NnE4VElyM1ZBNHhhbnFkRDl2U1ZDdw?oc=5",
+      "source": "Breakingthenews.net",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-11T06:03:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "71d54d2c2f99"
+    },
+    {
+      "title": "Consumer confidence at near two-year high as World Cup and UK holidaying lift summer spending",
+      "summary": "Barclays says survey shows people feel more secure in jobs and have more leeway to spend on non-essentials Business live – latest updates Consumer confidence hit its highest level in almost two years in July, according to research that indicated the closing stages of the men’s football World Cup and more people holidaying in the UK lifted summer spending. A ",
+      "url": "https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-11T06:00:06.000Z",
+      "image": "https://i.guim.co.uk/img/media/ce2dc0f2f1425759e6200ca1d54fbc9cfda9e07c/167_0_3896_3117/master/3896.jpg?width=140&quality=85&auto=format&fit=max&s=79e30fab281c0a2f223cedb1d6ca6754",
+      "topic": "经济",
+      "score": 74,
+      "id": "0e4014302713"
     },
     {
       "title": "Slater still firing at 54 at Tahiti Pro, eliminating Medina",
@@ -484,7 +692,7 @@
       "publishedAt": "2026-08-11T05:55:01.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/b3f5ef733e0c0b06cecaedcac78f572f?impolicy=wcms_crop_resize&cropH=2512&cropW=4467&xPos=0&yPos=823&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "f8536ec616e6"
     },
     {
@@ -497,21 +705,21 @@
       "publishedAt": "2026-08-11T05:46:13.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/8600c0323db9d7821dce0490fe48f3a2?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "549a9e2bf3c7"
     },
     {
-      "title": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports",
-      "summary": "Elaborate ruse was used to transport president to military flight from Air Force One to return from Nato meet Prompted by an Iranian assassination threat, Donald Trump departed on a secret military flight from Turkey to Britain last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse that involved hiding the presiden",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-11T02:29:56.000Z",
-      "image": "https://i.guim.co.uk/img/media/1689d23cc9c76b118263c1cdf1b005a6d7d5e279/624_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=2bde3f956ee6f231409277875f2d625c",
-      "topic": "政治",
-      "score": 76,
-      "id": "d201ad3466b1"
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "美洲",
+      "publishedAt": "2026-08-11T02:43:01.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60c/live/ae01a660-94f8-11f1-9181-85140b8ce01b.jpg",
+      "topic": "社会",
+      "score": 74,
+      "id": "dafc1ebecc31"
     },
     {
       "title": "How Gianni Infantino's FIFA leadership imploded over two weeks",
@@ -523,8 +731,21 @@
       "publishedAt": "2026-08-11T02:19:27.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/58b5742a9c42b985d65a3d284c107be0?impolicy=wcms_crop_resize&cropH=1259&cropW=2238&xPos=2095&yPos=693&width=862&height=485",
       "topic": "政治",
-      "score": 76,
+      "score": 74,
       "id": "c74845bef99c"
+    },
+    {
+      "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
+      "summary": "Live Updates: Latest from Israel, Iran, and the Middle East &nbsp;&nbsp; jpost.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Eb0x2cEc3NkRmU2ZIaVl6WkgzY2I2Y2lMSm9tdXFHRnk4bTNtRFJCZUZuT0JfMmlGMEdlMTJoVS16dXhSVW9sUjM4YmtmNzZvR3p0UWRwdzhUbjJFV1Y0bC1PZDVtQ0lTajhZcTVnQ1JqN3VJQXJwU3VvZmUwbTA?oc=5",
+      "source": "jpost.com",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-11T00:00:05.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "e2e1bbb3d251"
     },
     {
       "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
@@ -536,7 +757,7 @@
       "publishedAt": "2026-08-10T16:25:30.000Z",
       "image": "https://i.guim.co.uk/img/media/c3ddc8f9aef2cdda8bb7bbbca0d04cc087cae526/0_600_1214_971/master/1214.jpg?width=140&quality=85&auto=format&fit=max&s=b08feff7dd241b02615f4eec4df805eb",
       "topic": "经济",
-      "score": 76,
+      "score": 74,
       "id": "adea171b9441"
     },
     {
@@ -549,11 +770,11 @@
       "publishedAt": "2026-08-11T05:19:38.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/a49679dd5700694013043c9f39a2a133?impolicy=wcms_crop_resize&cropH=608&cropW=1080&xPos=0&yPos=230&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "9ca0a097a5ea"
     },
     {
-      "title": "NT Police claim they can't trigger curfew in Katherine amid crime fears",
+      "title": "Calls for Alice Springs-style curfew in NT town rejected by police",
       "summary": "Northern Territory Police have surged resources into the crime-hit town of Katherine, as a federal Labor MP joins calls for a curfew to be triggered as a \"circuit breaker\".",
       "url": "https://www.abc.net.au/news/2026-08-11/nt-police-reject-katherine-curfew-calls-over-crime-in-community/107023096",
       "source": "ABC Australia",
@@ -562,21 +783,21 @@
       "publishedAt": "2026-08-11T05:18:38.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/eca0fe776a638bc3c1d7fd0b16d71ae2?impolicy=wcms_crop_resize&cropH=1389&cropW=2469&xPos=373&yPos=603&width=862&height=485",
       "topic": "社会",
-      "score": 75,
-      "id": "c22d7c1825ce"
+      "score": 73,
+      "id": "e8416fe80d4e"
     },
     {
       "title": "Asia mixed after Australian central bank's rate decision",
-      "summary": "Asia mixed after Australian central bank's rate decision &nbsp;&nbsp; breakingthenews.net",
+      "summary": "Asia mixed after Australian central bank's rate decision &nbsp;&nbsp; Breakingthenews.net",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHUwcUZnTVpOdmNKTWFEUFo3R0dPRzMtWnh3akNOT1NKTGJqNm0yV19OUk5EQ19FV3FJTjRtVHRaZWpTcmQ5cVI1ejk5dzNPM1ZZbnBWeWpTQ0JiX2RTUkhTa1ZkdUs3d0pXa0pfSmFRZG5VTUctU3YzVzY1SjBkaDdWUTRHbDlsRkxGcDN5RWdtSF9HbkRaMkJlTHRCVHAybExB?oc=5",
-      "source": "breakingthenews.net",
+      "source": "Breakingthenews.net",
       "feed": "Asia News Network",
       "region": "亚洲",
       "publishedAt": "2026-08-11T05:17:00.000Z",
       "image": "",
       "topic": "经济",
-      "score": 75,
-      "id": "481cdaecdf52"
+      "score": 73,
+      "id": "020d21cda361"
     },
     {
       "title": "Somali referee arrives for UEFA Super Cup after World Cup exclusion",
@@ -588,7 +809,7 @@
       "publishedAt": "2026-08-11T05:12:05.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "32198e485344"
     },
     {
@@ -601,7 +822,7 @@
       "publishedAt": "2026-08-11T05:06:04.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7d4bdfd54004dcdb49b4a0ca4724d814?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "efee038cb505"
     },
     {
@@ -614,7 +835,7 @@
       "publishedAt": "2026-08-11T05:00:04.000Z",
       "image": "https://i.guim.co.uk/img/media/0ab752bf8878158527fbac397137cd10418ac1cd/1066_0_5487_4390/master/5487.jpg?width=140&quality=85&auto=format&fit=max&s=6f4c6404e16e4c70c66fbac59ef3b574",
       "topic": "经济",
-      "score": 75,
+      "score": 73,
       "id": "581aa0a6d1a8"
     },
     {
@@ -627,7 +848,7 @@
       "publishedAt": "2026-08-11T04:55:23.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "48666ba29442"
     },
     {
@@ -640,7 +861,7 @@
       "publishedAt": "2026-08-11T02:08:55.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "51d237df5e49"
     },
     {
@@ -653,21 +874,8 @@
       "publishedAt": "2026-08-11T02:08:14.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/ed314c4ae9bbe07b631c78d217dd99cc?impolicy=wcms_crop_resize&cropH=466&cropW=828&xPos=0&yPos=349&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "b10131284067"
-    },
-    {
-      "title": "'Seismic shift': Māori set to invest in First Nations projects under new deal",
-      "summary": "One of the biggest and wealthiest Māori tribal authorities has signed a deal to invest in large-scale First Nations projects in renewable energy, mining, agriculture and more. Indigenous business groups say it's a watershed moment towards greater economic self-determination.",
-      "url": "https://www.abc.net.au/news/2026-08-11/new-zealand-maori-indigenous-business-australia-agreement/107018450",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T02:05:16.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/561b9b96a3b590fa65b3f3d4306c6c65?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=52&width=862&height=485",
-      "topic": "政治",
-      "score": 75,
-      "id": "8fd5c4f77cba"
     },
     {
       "title": "Doctors and lawmakers condemn Trump order calling for sweeping changes to childhood vaccines – as it happened",
@@ -679,7 +887,7 @@
       "publishedAt": "2026-08-11T02:00:22.000Z",
       "image": "https://i.guim.co.uk/img/media/2ec09972f4fd1597254f1e4d0f79673b650edf17/243_0_4663_3731/master/4663.jpg?width=140&quality=85&auto=format&fit=max&s=a4f3e0ee31828fbb84a8549f4254e365",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "7e2b93041628"
     },
     {
@@ -692,8 +900,34 @@
       "publishedAt": "2026-08-10T22:35:48.000Z",
       "image": "",
       "topic": "气候",
-      "score": 75,
+      "score": 73,
       "id": "b74000756af7"
+    },
+    {
+      "title": "UEFA tightens VAR rules amid growing FIFA tensions",
+      "summary": "UEFA tightens VAR rules amid growing FIFA tensions &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFVsRnN6R2VJWEFTbUJtTnJHamx3N0x2TGpyc1NxYmNVYm54aUVLeFprRUhweUp0Ulk0cGxVZGxSMU1PUFRaY25EOEwzMG5uN0JqSGFCMlhWUGN2UnVxYmE0Tko3ZlNkZmozNzVlbE0xeVU2OEV4dXFCNFlXcy1kV3FUa1g4SndrNWc?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-11T07:29:36.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "237e7aa00b2f"
+    },
+    {
+      "title": "Top 4 Affordable Retirement Destinations in South America for Low Living Costs and Strong Healthcare",
+      "summary": "Top 4 Affordable Retirement Destinations in South America for Low Living Costs and Strong Healthcare &nbsp;&nbsp; Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV3hXNHZpT1JVRjRTeGo0WE5ocC1Dc2pNYXJ4UGxMaWQ2QVdhYkFrT2FJd2xtOXl4d2U2NmZXcjBGSHJPMVM4aW5Ub2w2NjNmQmZORWpOVGFiWUpYbFRnSlYycmhwOFdMdHQtc25zTWliZU4ybHhSMWY0YlA1ZUsyWUVvRVFpZUtwbFVTSzdFWWM1SFM2OF9JSkF6ZDJXSWJFMlBoMFBUeGx2bE9mTHlqdjJ6eGFIVDkwQ0E?oc=5",
+      "source": "Investopedia",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-11T07:19:29.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "62f91faa95e8"
     },
     {
       "title": "Asian markets set for muted open amid Middle East tensions",
@@ -705,242 +939,8 @@
       "publishedAt": "2026-08-11T04:47:00.000Z",
       "image": "",
       "topic": "经济",
-      "score": 74,
+      "score": 72,
       "id": "6d0951d6b2d7"
-    },
-    {
-      "title": "Morning Bid: Middle East deadlock By Reuters",
-      "summary": "Morning Bid: Middle East deadlock By Reuters &nbsp;&nbsp; Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcEl4cG9TalU0VnEzOUpoazRibDJGRjZPVHItZWtxTmItWTB4TnliMkctLVR6bkFYVVdoN2s5VlR4ZXBuZGl0ZFpYVnZVRFNCZWViYkpIOGFQZzVDakZYZmpoejJ3VWJPNHZXeUREY3RuUV8tRDY1Snp6MS1GWGJCMlh6TlBTTEU2TGdzeQ?oc=5",
-      "source": "Investing.com",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-11T04:44:02.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "47a63e20f855"
-    },
-    {
-      "title": "Colombia searches for its missing after a powerful earthquake kills more than 100",
-      "summary": "Colombia searches for its missing after a powerful earthquake kills more than 100 &nbsp;&nbsp; News4JAX",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNanR6TndqVDZfMmxfTTA3TC1ramcwT1dEVlc5TktFamdGeUxBODJmb295RU9CUy1CN0hGbURzSFFvZUF0Z1kybmh6SXJtVVZjcnozSjFaMTBTTXFCclZ5OVM2WEo0XzFDd1V2TGxlLWU4ejVKcURkUXZ1ZzFQVzRzbU00YXF3TUJibUdkTmJsdkM3YmJVT1VBWGRxM191MG5ab1liRWZfekRhSnNLVjdZQW1vbFlDdjhxaWxlalc3RGk5TGtRWldXVQ?oc=5",
-      "source": "News4JAX",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-11T04:24:16.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 74,
-      "id": "95c1244cf33f"
-    },
-    {
-      "title": "Trump scoffs at Iran’s demand for war reparations and other Mideast developments",
-      "summary": "Trump scoffs at Iran’s demand for war reparations and other Mideast developments &nbsp;&nbsp; WLBT",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1Q4STA1bnRhaDdVNDE0YnlSQVo5UHhhUU5tdWpyYnM3MHNzYmlQTXdLR3pSNlNfbzJ2VHF0U1lNd0ZLUEpLckZFaEpZT0daTGNNeVlsc190dzZkX3h4X0FIb3NqeEVpcXBrRjBJSC1IZ2NzQkxWaFpUck43OTkyd1dUZWJKMzdnUHkxZlhUMl9zcWsyQktTTmhub2MtVTdDRzd3?oc=5",
-      "source": "WLBT",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-11T01:15:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "ce434e76955e"
-    },
-    {
-      "title": "Soldiers take cover as Colombia quake flattens military barracks",
-      "summary": "Video shows soldiers running from buildings at a military base in Cali as a magnitude 7.4 earthquake",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-11T01:06:36.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "191cc0607302"
-    },
-    {
-      "title": "After Record-Breaking Summer Start, Europe Braces for New Heat Wave",
-      "summary": "After Record-Breaking Summer Start, Europe Braces for New Heat Wave &nbsp;&nbsp; The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYTI0dEhmSTMzdmRBRWJaTjhVMEN4dUxZYjB5NG9oS2JVblQzVWxkaHZDYzAyRVF2cUVGR05ZWnBiUVJIVFF5dUVzeFhKaEtpMlQ1R01kRmE1dXpHdWFHT29YQWF5eDJ1ZE9wamE2clR6a19pM2Z4c3ByRklPRUZpU0FGeTZCUnZkaGRSZWNfSWJMdFRJ?oc=5",
-      "source": "The New York Times",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-10T12:16:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "bbdf79371ecb"
-    },
-    {
-      "title": "'We deserve to be counted': Gender, sexuality to be asked about in census",
-      "summary": "The 2026 census will include questions about sexual orientation and gender identity for the first time to help build a clearer picture of Australia's LGBTQ+ population, and support planning for health and community services.",
-      "url": "https://www.abc.net.au/news/2026-08-11/2026-census-ask-gender-sexual-orientation-lgbtq-data-gaps/107018232",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T04:02:19.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/f08c34cf6fb887d0a8b6b01c828d9dce?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "f4cfb3bdaffb"
-    },
-    {
-      "title": "Driver 'incredibly fortunate' to avoid serious injury after hitting tree",
-      "summary": "Police said a vehicle crashed into a tree in Adelaide's southern suburbs, but the driver has managed to escape with just \"minor injuries\".",
-      "url": "https://www.abc.net.au/news/2026-08-11/sa-driver-escape-tree-crash-with-minor-injuries/107024080",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T04:01:55.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/68d8219d5a3c1acc7e2462d0dcb2bd4e?impolicy=wcms_crop_resize&cropH=626&cropW=1112&xPos=0&yPos=74&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "f16cf32cd66c"
-    },
-    {
-      "title": "MLBB Championship Tour Southeast Asia officially launches in Q4 2026 as part of global esports expansion",
-      "summary": "MLBB Championship Tour Southeast Asia officially launches in Q4 2026 as part of global esports expansion &nbsp;&nbsp; GamingonPhone",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY2NmM0tzN2VyRHBDdnp3Ym5XeEZKOXFsN0lNbFp6d0t4bmx3UkZKcE9UU2JSQ0RnTWgwWTFKRjV5LUpfUzVoUVVEUDRVdFZxWDk4M0NpTFZweWo3WGxoVXJMZjk5QXZTRTVDaHlEdFZ0YXR5Ql9sNXBSd0ZzNDFWT3JMcUladGtLdTJieVlzNGEzY3gyQXRzMEQwNXN3OE55aUZyYTdsQUVaUWNLMllGdXUwaTg0ZXFmbDVWa3k3dkplUDFMY09CWFBOVnl4aEtkQXc?oc=5",
-      "source": "GamingonPhone",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-11T03:41:43.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 73,
-      "id": "5a2592e43434"
-    },
-    {
-      "title": "Pentagon official asks Asian allies to invest more in defense to deter aggression - ABC News",
-      "summary": "Pentagon official asks Asian allies to invest more in defense to deter aggression &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSE9YaXkxeHFNZUFCd0VVSHUwV3FHR0xEcHh6YjNvdVljWVhPb1BNMnpPb3RRenp5SE55Q0FFRkJpWER0MlZVZy1ZLUx4WkRCZ3ZRLVZYTGMwWFZnNVNIaUpyelozTUQzT09JM2J2QklZZm1YLU5lRFB4ZkRYX2tINVJLRW1Ec1pneENFdVJYTkxKTW5IM3Z4d2VoYVZ0akpC0gGmAUFVX3lxTE5VZGhxUEppRkx1STdtWk9pZnYwTUxvR09wcmdKX2FQaHZyWUVFQVpWbTRDdW1INjRielJoZ09YVm05elBSV2FhSENYaXM4LW5FN3RybmVyTm43QldjbFc1Ri1oS0lyNGtMdmVwM05KN1VCd051VHhlVGNBN21BeENmN0VRUDFTa3J6NXY1SXlWVVJZTFFpbWJmYWo0MzNXSm51MjdVcUE?oc=5",
-      "source": "Breaking News, Latest News and Videos",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-11T03:10:39.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "67c1565540da"
-    },
-    {
-      "title": "Strong earthquake in Colombia as officials report deaths, injuries and collapsed buildings",
-      "summary": "Strong earthquake in Colombia as officials report deaths, injuries and collapsed buildings &nbsp;&nbsp; NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRkNFclNVYzViVVlfM3VSWmZvMk1jR0ozZzlJWW4yM2JkdVNrY3RSMUg2TW1rWHhzb1F5WlFjSTg3WWNNeHByWVlHc29YbXUtLTdEZjdrOFJTQ1hZTV95X2NDLWlyM2ZZbUFJbl9EUTBlRlY3TE9sTV9TN29yVmxGTGVaT3dOWU50RmhuYkdzZzlLMnBxV2xPY3JGQzhfQi1UazUzUjhPOVBzQU5JdGRQSHRRdFo1cGZscDBqM3JjSmM?oc=5",
-      "source": "NBC News",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-10T23:33:03.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 73,
-      "id": "3feb0d6af6c3"
-    },
-    {
-      "title": "Extreme weather forces schools closure, disrupts peak traffic",
-      "summary": "Extreme weather forces schools closure, disrupts peak traffic &nbsp;&nbsp; EWN",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMklkSDlQQzI0U3d4Q2hHTHlab0RCQ21JVDIycEQ5d1UzQnNDcmFzVDdPNkJkUExoMjU5OU5NQUg0LUUtcWctX2ZLeV9oYkQ1SXhjSUpnVmdtTjB1QWtJbzl4LWlzaUh6dEVFYnA5NkFVcDFiMVY0bl9zdmUyXzVZajFLSEVueTF5dzliZ3pwcGF2MnZEaXhMd1BZMA?oc=5",
-      "source": "EWN",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-11T05:59:34.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "b2155813a00f"
-    },
-    {
-      "title": "China missile test deepens Pacific divide over growing militarisation",
-      "summary": "China missile test deepens Pacific divide over growing militarisation &nbsp;&nbsp; The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkhSMnNPZzZaamxqN1BFRFVhOW5RYUxWSkV5cG8wTUVOZUVFYnNzdjZFV0tmbUY1bEc0ZnVlUDFndmdSUllvT1lHT1k5RTMtTks2UFJqRGRVM1dvYVU0cjhQSFA5N05VdG5tSnlrVmJiSE82eUhuYl9rZnpfSXhvNkZlU0FYbkZZOU1DTElQUGF3dmVsQkxBaWphWW9tMXJ4YzNmMV9B?oc=5",
-      "source": "The Straits Times",
-      "feed": "Pacific News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-11T05:59:28.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "e8bc368fa1be"
-    },
-    {
-      "title": "DPR CREAM+ARTIC, Concludes European Tour and Successfully Launches Latin America Tour",
-      "summary": "DPR CREAM+ARTIC, Concludes European Tour and Successfully Launches Latin America Tour &nbsp;&nbsp; starnewskorea.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QVGZTc1dBX2UyTUpwQlhqdktiSTBLbFVLM1JtRUhsX01jdjJ6WDJQT3Bjb2M4QlF5dXNka04zUWFlai0zOUg2LVdZUW5tU0NmSUIzVUl5QWo4SHJTdXdjOTlnempIeUpVaS1OakNkN0JwdTFFbHJzZQ?oc=5",
-      "source": "starnewskorea.com",
-      "feed": "Latin America News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-11T02:46:15.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 72,
-      "id": "58c44950e7c0"
-    },
-    {
-      "title": "Colombia’s far-right government recognises Israeli claim over Golan Heights",
-      "summary": "The South American nation is only the second country to recognise Israel's claims over the illegally annexed territory.",
-      "url": "https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-11T02:44:39.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "4195e693cf5e"
-    },
-    {
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "美洲",
-      "publishedAt": "2026-08-11T02:43:01.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60c/live/ae01a660-94f8-11f1-9181-85140b8ce01b.jpg",
-      "topic": "社会",
-      "score": 72,
-      "id": "dafc1ebecc31"
-    },
-    {
-      "title": "Asia mixed with no progress in US-Iran talks",
-      "summary": "Asia mixed with no progress in US-Iran talks &nbsp;&nbsp; breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXlRWWVNaDNrTUdxTzg1NVI1b1VOZVdFZlZHV1FUV1dnblFCc2YxWVFKOERUNEoxck0wMFAtNGl1SmlxS1ZlMldodGppTDhTYXE1N1ZLYVpXMXRwM0RlNlJyb2hHSFJmM1V2eVR0MHZBanJxRVhzOEJkek5QRzQ5SjUyams5NWNVS1RPZV83cUlwRWc?oc=5",
-      "source": "breakingthenews.net",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-11T02:29:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "77af0780709c"
-    },
-    {
-      "title": "Inside a secret launch site for Ukraine’s deep-strike drones",
-      "summary": "AJ's Audrey MacAlpine reports from a secret launch site in eastern Ukraine, where soldiers prepare long-range drones.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-10T23:18:53.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 72,
-      "id": "e59f4bdf0a25"
-    },
-    {
-      "title": "Pound-to-Dollar Price Forecast: GBP Wavers Amid Middle East Uncertainty",
-      "summary": "Pound-to-Dollar Price Forecast: GBP Wavers Amid Middle East Uncertainty &nbsp;&nbsp; Exchange Rates Org UK",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMlNiMDNyUGxIZFZHTDVvY0xiQWNkdGZjZW0zVUpBMlRhQUktRVh6d3ktRUJTa2tzbnpzQW5iM1UxcXc0aTZXVy01X3MtUW9sdmRiSFN1SF8xSWpFVzI1bExRWUlHTHVvd0lRYnZQU0U5a0YxWVZiVEtackVkc0wzVzFERUpOXzBFQXlFSXhEUFhEbExDNXBvaGVmLXB1VDRQakRVMnFyUGFheGRCdDloRXNMdjZuNTRoTmJ1U1VWY1dvaWlCWXpLNFN3?oc=5",
-      "source": "Exchange Rates Org UK",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-11T05:30:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "de4f3a996c14"
     }
   ]
 }
