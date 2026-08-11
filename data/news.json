@@ -1,24 +1,11 @@
 {
-  "updatedAt": "2026-08-11T21:07:11.845Z",
+  "updatedAt": "2026-08-11T22:07:33.834Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
-    {
-      "title": "Western Europe records hottest June and July in history",
-      "summary": "Western Europe records hottest June and July in history &nbsp;&nbsp; The Brussels Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVRub2lXN1NTMlJ5MEVxaGFldEVIY25OZmlHYURDMzVWMU1mN2E1Q05TNFFVVkphRWJ1Y085d2R0dXV0SFZzSUktWlhyVVo5c1lybjd3YnpFUDIzTWtpUnA3RVZjaWdyUkowNXAwQTdqYUV1emVDOFhLRVRpZGJ4TTBZdE5BT1dMblFGb1RrOGdBUnp1R2phQkJId3ktODM2?oc=5",
-      "source": "The Brussels Times",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-11T18:56:29.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 90,
-      "id": "d626a3060081"
-    },
     {
       "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
       "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
@@ -29,7 +16,7 @@
       "publishedAt": "2026-08-11T14:50:10.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edd9/live/d8ac8750-956f-11f1-98c3-1da4f20b80e4.jpg",
       "topic": "政治",
-      "score": 89,
+      "score": 88,
       "id": "38f9144db2f4"
     },
     {
@@ -39,10 +26,10 @@
       "source": "BBC World",
       "feed": "BBC World",
       "region": "中东",
-      "publishedAt": "2026-08-11T20:55:54.000Z",
+      "publishedAt": "2026-08-11T21:14:56.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2554/live/747b0460-95be-11f1-a556-013790f38050.png",
       "topic": "社会",
-      "score": 88,
+      "score": 87,
       "id": "aebbe748a8b4"
     },
     {
@@ -55,7 +42,7 @@
       "publishedAt": "2026-08-11T10:40:45.000Z",
       "image": "https://i.guim.co.uk/img/media/69f4d6bd877a926e54d765cdc4b16a72656110fb/292_0_2933_2346/master/2933.jpg?width=140&quality=85&auto=format&fit=max&s=bfa89c7c1190f50a5ca7d5320567aa6f",
       "topic": "政治",
-      "score": 88,
+      "score": 86,
       "id": "d09ffef9a2d5"
     },
     {
@@ -68,21 +55,34 @@
       "publishedAt": "2026-08-11T12:56:18.000Z",
       "image": "",
       "topic": "气候",
-      "score": 87,
+      "score": 85,
       "id": "6082eb802133"
     },
     {
-      "title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast",
-      "summary": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast &nbsp;&nbsp; cbs19news.com",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYTZLY3I3Rk1IQkZpeDRBOU9ZcEdoaXFRVkU0eG9HdUZSdGlMRGRxUWNZckxTT2lzV3JNRzJ5dm1qN3BMcV95TzdOd0VjVm9Fa1d4bDJ6VHlqa2tYQlEyMzhCNFJRUVVtRkd6bU9iM1RLdGdmZ0tDd2d6UW53LUh5eEFhMlZUZVZVQms5bE5WeVYxVHlkcTVaQ1U3cTBiUllLcDZRYldnU25SUnVoUGJCY1ZLQm00dkJ4ZEE0Nl9YSXg1QXFVTlBOSkxmSEdad1loZjNwV05sY1l5dEZFVEJjNExPNUxOSEZFVWlaTVBKeVkzZWlxS25fNXhDNnE?oc=5",
-      "source": "cbs19news.com",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-11T19:20:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 86,
-      "id": "4454a3fd8f88"
+      "title": "Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers",
+      "summary": "Journalists and others were allowed to fly on presidential jet despite security threat while Trump was spirited away Sign up for the Breaking News US newsletter email Democrats called on Tuesday for a congressional briefing over a stunning charade in which Donald Trump was secretly spirited to different plane than the one the public and press believed he was",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-11T21:46:34.000Z",
+      "image": "https://i.guim.co.uk/img/media/23ebfe0c82fd31d0d8992c386988982a50f04133/328_0_1981_1585/master/1981.jpg?width=140&quality=85&auto=format&fit=max&s=354cf211bbd231010f6f5b8f5e7ade25",
+      "topic": "政治",
+      "score": 84,
+      "id": "1c2944ee6c5d"
+    },
+    {
+      "title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
+      "summary": "BBC Mundo has gone to the site of Torres del Limonar, a collapsed building in Cali where rescue workers fight to free survivors.",
+      "url": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "美洲",
+      "publishedAt": "2026-08-11T21:34:55.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db6f/live/e683cf90-95c5-11f1-870d-5d08c49babb2.jpg",
+      "topic": "气候",
+      "score": 84,
+      "id": "f782f6828e67"
     },
     {
       "title": "South Africa mine collapse kills 14 suspected illegal miners",
@@ -94,8 +94,21 @@
       "publishedAt": "2026-08-11T18:31:54.000Z",
       "image": "",
       "topic": "社会",
-      "score": 86,
+      "score": 84,
       "id": "8ab70dfe15c8"
+    },
+    {
+      "title": "Exclusive | U.S. Fires on Ship Breaking Its Blockade of Iran",
+      "summary": "Exclusive | U.S. Fires on Ship Breaking Its Blockade of Iran &nbsp;&nbsp; WSJ",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDhFeHNmTTdEYjl4RHZoSEVKRlV5X0dxVnBQWWgxX2NkUWlSaUJvWHFnbEt4bkNVV2lULVJPcnRvQUcxRWVWbmZreVNFa0FsWUdIUEloT29sWW9wb1BtU2Y4R2NEdnEtVFFidFoxOVJpTm43cERCYVoyVXZpTHlUX3Y5bEVBZTU1VVdKS1hVYkFpbnJlUG45QTBB?oc=5",
+      "source": "WSJ",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-11T20:57:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 83,
+      "id": "5ae90c1af819"
     },
     {
       "title": "Israel demolishes home of Palestinian killed during settler attack",
@@ -107,7 +120,7 @@
       "publishedAt": "2026-08-11T20:18:51.000Z",
       "image": "",
       "topic": "社会",
-      "score": 84,
+      "score": 83,
       "id": "1cf2ef0db00d"
     },
     {
@@ -120,21 +133,8 @@
       "publishedAt": "2026-08-11T17:59:50.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
-      "id": "624ee4b59296"
-    },
-    {
-      "title": "'People are losing everything': Ukraine's drones could crash Russian banks",
-      "summary": "On the outskirts of Russian cities, warehouses belonging to the country's largest online retailer have been struck by Kyiv's drones and some analysts say it could lead to a financial crisis.",
-      "url": "https://www.abc.net.au/news/2026-08-12/ukraine-strikes-on-wildberries-could-crash-russian-banks/107026238",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-08-11T19:27:59.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/821ea98445e7162ccdb78fa0530ffa96?impolicy=wcms_crop_resize&cropH=656&cropW=1166&xPos=0&yPos=846&width=862&height=485",
-      "topic": "政治",
       "score": 83,
-      "id": "ee4087d52117"
+      "id": "624ee4b59296"
     },
     {
       "title": "At least 14 artisanal miners killed in collapse at an illicit mine in South Africa - ABC News",
@@ -146,7 +146,7 @@
       "publishedAt": "2026-08-11T16:06:54.000Z",
       "image": "",
       "topic": "社会",
-      "score": 83,
+      "score": 82,
       "id": "c6be7f0e0d68"
     },
     {
@@ -159,8 +159,34 @@
       "publishedAt": "2026-08-11T10:07:14.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "e2de77fe9edf"
+    },
+    {
+      "title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast",
+      "summary": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast &nbsp;&nbsp; The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRzNoM0YyOFVYZDh5bzRaN3NncXRyMUNnUTBsdmxycWtCSGs3M0F3SXYwb1RNeVctaUcxR3RlTjRGRTVRUmZzWEpZMmFlOXRZU2ZzaDdyQndSSnUyeVhXZ2RhMEVOSGhkRmp0eVZ2WWsta3lrTFRZdFVISG1lYnIzVGZQNTRjM3Z5X3BIenBKN05ReW9Rc1NOX3Q4Ui1HNE12MjdfNnZWc0NkY2tCcWQtVHhsM3MzaUJpTTFQODIwWVFPYkZlVW80UFE4SDRNTDJpTjdTM212QQ?oc=5",
+      "source": "The Seattle Times",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-11T19:35:39.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 81,
+      "id": "fe7cc7d20f66"
+    },
+    {
+      "title": "'People are losing everything': Ukraine's drones could crash Russian banks",
+      "summary": "On the outskirts of Russian cities, warehouses belonging to the country's largest online retailer have been struck by Kyiv's drones and some analysts say it could lead to a financial crisis.",
+      "url": "https://www.abc.net.au/news/2026-08-12/ukraine-strikes-on-wildberries-could-crash-russian-banks/107026238",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "欧洲",
+      "publishedAt": "2026-08-11T19:27:59.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/821ea98445e7162ccdb78fa0530ffa96?impolicy=wcms_crop_resize&cropH=656&cropW=1166&xPos=0&yPos=846&width=862&height=485",
+      "topic": "政治",
+      "score": 81,
+      "id": "ee4087d52117"
     },
     {
       "title": "West Bank at breaking point as Israel advances ‘de facto annexation,’ UN warns",
@@ -172,8 +198,60 @@
       "publishedAt": "2026-08-11T19:10:53.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "9e84a7ae501c"
+    },
+    {
+      "title": "Australia politics live: Coalition to heavily cut net migration and shred 96% of house construction code; CBA posts bumper $11bn profit",
+      "summary": "Policy comes as debate continues over causes of and solutions to housing issues. Follow today’s news live Get our breaking news email , free app or daily news podcast ‘Some people call it putting on a jumper’: Should energy efficiency standards in housing be optional? The opposition is considering it. We have a risk that Australians can’t afford to rent or t",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-11T22:00:31.000Z",
+      "image": "https://i.guim.co.uk/img/media/85f15695a556ae3f012ac83591fe6ed73e6d5e01/0_0_5794_4638/master/5794.jpg?width=140&quality=85&auto=format&fit=max&s=bedc7888388796ad0f00c7bdc4edfba2",
+      "topic": "社会",
+      "score": 80,
+      "id": "dd66e824e0c2"
+    },
+    {
+      "title": "Officials monitoring polling sites in Minnesota’s two largest counties, says Trump’s justice department – live",
+      "summary": "Federal staff will have to stay 100ft outside polling sites in Hennepin and Ramsey counties after county officials refuse access Sign up to the US Breaking News email Pete Hegseth ’s appointments to a key Pentagon advisory body include two men with ties to the venture capital fund where Donald Trump Jr is a partner, which has lucrative investments in militar",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-11T21:57:13.000Z",
+      "image": "https://i.guim.co.uk/img/media/3dbcbca6ffcaae6b8fa7ceeae364a64bc739e413/595_308_3661_2930/master/3661.jpg?width=140&quality=85&auto=format&fit=max&s=36e9259cd0c388f6eabcf4247e2f15e9",
+      "topic": "社会",
+      "score": 80,
+      "id": "4cd5a5a51b8e"
+    },
+    {
+      "title": "The Office star Lucy Davis announces she has incurable cancer",
+      "summary": "Actress Lucy Davis, best known for her role as Dawn Tinsley on the UK version of The Office, says she has \"incurable\" stage 4 breast cancer.",
+      "url": "https://www.abc.net.au/news/2026-08-12/the-office-lucy-davis-breast-cancer/107026596",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-11T21:47:42.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/9b747a91ca12e2d85a56b91251e653f4?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=155&width=862&height=485",
+      "topic": "社会",
+      "score": 80,
+      "id": "e67a7c3c74c4"
+    },
+    {
+      "title": "Luigi Mangione murder trial to have anonymous jury",
+      "summary": "The judge overseeing the state murder trial ruled the 12-person jury would remain anonymous because of the intense media spotlight on the case.",
+      "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-11T19:12:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/668e/live/b3fcc830-95a0-11f1-a036-eb7cd99c5268.jpg",
+      "topic": "社会",
+      "score": 80,
+      "id": "8e44e652d055"
     },
     {
       "title": "Venezuela and Israel restore consular ties as relations warm",
@@ -185,7 +263,7 @@
       "publishedAt": "2026-08-11T18:58:33.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 80,
       "id": "5b05d5da9891"
     },
     {
@@ -198,7 +276,7 @@
       "publishedAt": "2026-08-11T18:34:39.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ba/live/772d0f60-959a-11f1-976a-4934d54b5403.jpg",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "84bc0251ef41"
     },
     {
@@ -211,8 +289,21 @@
       "publishedAt": "2026-08-11T18:18:44.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "4e15f3919357"
+    },
+    {
+      "title": "Lebanon parliament votes to abolish death penalty",
+      "summary": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
+      "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-08-11T15:24:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dc8/live/f4f01500-9590-11f1-b8bb-1b597db1ad66.jpg",
+      "topic": "政治",
+      "score": 80,
+      "id": "66b62dbbd562"
     },
     {
       "title": "More than 160 people killed in Colombia’s strongest earthquake in years",
@@ -224,8 +315,47 @@
       "publishedAt": "2026-08-11T14:47:00.000Z",
       "image": "",
       "topic": "气候",
-      "score": 81,
+      "score": 80,
       "id": "f392ef9a4307"
+    },
+    {
+      "title": "Western Europe records hottest June and July on record",
+      "summary": "Western Europe records hottest June and July on record &nbsp;&nbsp; The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMEU3ODlmMFdwOEtINEhmamtuOHI5enRZVU0tRWZ4NGx2ZEU0WDdUU1Q5aG9udFZtMGN2U01Ob2NZNHA3bEQ2LWJYWno3bS02SGd2OHNaSElhRmVXMDdFSEVuYWU1ZWJEZzZmWTZOUkxiWl9kYk9teDBaWW5IaEV5NmNSUVp3WHNTbnlZZmJPNGVXQm41NWk5a2lNc013NFFB0gGmAUFVX3lxTE5mczdMQWdEYW1DUDE2UDItVjg3d0ExV2Fxa1JPUWl0a295ZzFZRGpFXzhsVlZCRVYtTTNuOElEcmNka0F0QVo1MXVDNm5VUDM3T2phbEZXZVFyQTFjdHlneXBWaGhPbVZSM1E2d28wVmtDdzBIb2dWcmtOcVpfUnF3MV9SNmNCb2dsem1TemlIaFU0SXFIMU5ZVnVEQUUyTHQ0WmN6R3c?oc=5",
+      "source": "The Business Standard",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-11T11:59:44.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 80,
+      "id": "f1476defcb1c"
+    },
+    {
+      "title": "12yo will walk 500km for meeting with with prime minister in Canberra",
+      "summary": "Dusty Langby will walk from Warren in western NSW to the prime minister's office in Canberra to talk about the need for better paediatric care in the bush.",
+      "url": "https://www.abc.net.au/news/2026-08-12/dusty-langby-12-years-old-walk-to-meet-pm/107000328",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-11T21:17:22.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/26b6ef7bd09bf57cf9de7ed8087d0a9f?impolicy=wcms_crop_resize&cropH=606&cropW=1077&xPos=0&yPos=281&width=862&height=485",
+      "topic": "政治",
+      "score": 79,
+      "id": "16bbd9d83d9b"
+    },
+    {
+      "title": "E-scooter injuries plummet following council ban, study finds",
+      "summary": "There has been a significant reduction in emergency department presentations following the City of Perth's ban on hiring e-scooters, according to a new study.",
+      "url": "https://www.abc.net.au/news/2026-08-12/escooter-injuries-drop-following-city-of-perth-ban/107023742",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-11T21:16:16.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f9f2e007bfccc35bdb505c841cd5249c?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=240&width=862&height=485",
+      "topic": "社会",
+      "score": 79,
+      "id": "dac30fc5e87f"
     },
     {
       "title": "Health watchdog issues warning over second alleged fake Victorian doctor",
@@ -237,7 +367,7 @@
       "publishedAt": "2026-08-11T20:54:11.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/76ad538443771e6f831dc19043add827?impolicy=wcms_crop_resize&cropH=2772&cropW=4928&xPos=0&yPos=492&width=862&height=485",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "0f6b5fbefa79"
     },
     {
@@ -250,7 +380,7 @@
       "publishedAt": "2026-08-11T20:49:15.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1cbdb9326824a2a7e6c9f84e67308c5e?impolicy=wcms_crop_resize&cropH=2916&cropW=5184&xPos=0&yPos=270&width=862&height=485",
       "topic": "科技",
-      "score": 80,
+      "score": 79,
       "id": "e57293b0cabe"
     },
     {
@@ -263,21 +393,8 @@
       "publishedAt": "2026-08-11T20:39:42.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c31/live/13972cd0-95c0-11f1-a556-013790f38050.jpg",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "efa30500359d"
-    },
-    {
-      "title": "Officials monitoring polling sites in Minnesota’s two largest counties, says Trump’s justice department – live",
-      "summary": "Federal staff will have to stay 100ft outside polling sites in Hennepin and Ramsey counties after county officials refuse access Sign up to the US Breaking News email Pete Hegseth ’s appointments to a key Pentagon advisory body include two men with ties to the venture capital fund where Donald Trump Jr is a partner, which has lucrative investments in militar",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-11T20:31:59.000Z",
-      "image": "https://i.guim.co.uk/img/media/3dbcbca6ffcaae6b8fa7ceeae364a64bc739e413/595_308_3661_2930/master/3661.jpg?width=140&quality=85&auto=format&fit=max&s=36e9259cd0c388f6eabcf4247e2f15e9",
-      "topic": "社会",
-      "score": 80,
-      "id": "4cd5a5a51b8e"
     },
     {
       "title": "In Gaza’s tents, widows face war’s harshest realities alone",
@@ -289,7 +406,7 @@
       "publishedAt": "2026-08-11T20:30:11.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "dd406dad4d0c"
     },
     {
@@ -302,7 +419,7 @@
       "publishedAt": "2026-08-11T20:29:34.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "d38f4914b53b"
     },
     {
@@ -315,7 +432,7 @@
       "publishedAt": "2026-08-11T20:15:26.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "71afcaf3ca4a"
     },
     {
@@ -328,7 +445,7 @@
       "publishedAt": "2026-08-11T20:11:53.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "5eda04e7b7b7"
     },
     {
@@ -341,7 +458,7 @@
       "publishedAt": "2026-08-11T20:06:54.000Z",
       "image": "",
       "topic": "气候",
-      "score": 79,
+      "score": 78,
       "id": "f2ab50ddb9bf"
     },
     {
@@ -354,7 +471,7 @@
       "publishedAt": "2026-08-11T16:56:55.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "34daafd8a384"
     },
     {
@@ -367,7 +484,7 @@
       "publishedAt": "2026-08-11T16:19:44.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7862/live/6d64a760-953e-11f1-ba5b-b1a600ddfa74.jpg",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "cbec7e365d5b"
     },
     {
@@ -380,7 +497,7 @@
       "publishedAt": "2026-08-11T13:28:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "29851328b99d"
     },
     {
@@ -393,8 +510,21 @@
       "publishedAt": "2026-08-11T13:21:32.000Z",
       "image": "",
       "topic": "气候",
-      "score": 79,
+      "score": 78,
       "id": "c7de0f036ae6"
+    },
+    {
+      "title": "ADHD wait crisis forces Tasmanians to seek interstate diagnoses",
+      "summary": "Tasmania's public health system is struggling to cope with demand for ADHD testing, with many turning to private psychiatrists, a parliamentary report has found.",
+      "url": "https://www.abc.net.au/news/2026-08-12/delayed-adhd-diagnosis-impacting-tasmanian-children-outcomes/107024688",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-11T19:35:09.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/eecde2f62ea432d2b72b4f3abcc3fa92?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=168&width=862&height=485",
+      "topic": "政治",
+      "score": 77,
+      "id": "deaddf1b3bd3"
     },
     {
       "title": "US forces fired at ship breaking blockade of Iranian ports, CENTCOM confirms",
@@ -406,21 +536,8 @@
       "publishedAt": "2026-08-11T19:18:48.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "0fc39a19821f"
-    },
-    {
-      "title": "Luigi Mangione murder trial to have anonymous jury and overflow seating",
-      "summary": "The judge overseeing the state murder trial has set out some rules for public access, but other questions remain about the high-profile case.",
-      "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-11T19:12:54.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/668e/live/b3fcc830-95a0-11f1-a036-eb7cd99c5268.jpg",
-      "topic": "社会",
-      "score": 78,
-      "id": "61bd9d3ac6fc"
     },
     {
       "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
@@ -432,33 +549,46 @@
       "publishedAt": "2026-08-11T19:09:52.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69cb/live/7fca1ff0-95b8-11f1-b16a-9d1bd99de52e.jpg",
       "topic": "气候",
-      "score": 78,
+      "score": 77,
       "id": "cf7df5a991c2"
     },
     {
-      "title": "VIP gambling perks targeted as Labor, Coalition edge toward deal",
-      "summary": "Labor and the Coalition have held a second round of \"constructive\" talks on the federal government's proposal to restrict gambling advertising, making a major party deal likely.",
-      "url": "https://www.abc.net.au/news/2026-08-12/labor-coalition-talks-on-proposed-gambling-restriction-laws/107026046",
+      "title": "Live: CBA reports $10.9b profit, home loan applications down 15pc since May",
+      "summary": "The nation's second-largest company Commonwealth Bank has announced a $10.9 billion full-year profit. The Australian share market will start its day lower on fading optimism about the Strait of Hormuz reopening soon. Follow live.",
+      "url": "https://www.abc.net.au/news/2026-08-12/asx-markets-business-live-news/107025982",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "大洋洲",
-      "publishedAt": "2026-08-11T19:00:53.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/8aaf750988f18f2a26bbd8f7c63bd6aa?impolicy=wcms_crop_resize&cropH=2578&cropW=4583&xPos=113&yPos=236&width=862&height=485",
-      "topic": "政治",
-      "score": 78,
-      "id": "f500ef5c9c3f"
+      "publishedAt": "2026-08-11T21:47:28.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3e0e52e4016b0b8dfc5856ae2b315e94?impolicy=wcms_crop_resize&cropH=5346&cropW=9504&xPos=0&yPos=495&width=862&height=485",
+      "topic": "经济",
+      "score": 76,
+      "id": "9b96fa812af8"
+    },
+    {
+      "title": "Homeless mother's baby taken away while waiting for social housing",
+      "summary": "Hannah* says she wept for days after child safety officers turned up at the hospital to take her two-day-old baby away.",
+      "url": "https://www.abc.net.au/news/2026-08-12/baby-taken-while-on-housing-list/107016058",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-11T21:44:08.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/76cdf7d53f35beed385eb4917f915411?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=207&width=862&height=485",
+      "topic": "社会",
+      "score": 76,
+      "id": "f0f91c141a1b"
     },
     {
       "title": "UN officials: Occupied West Bank at ‘breaking point’",
       "summary": "UN officials: Occupied West Bank at ‘breaking point’ &nbsp;&nbsp; Middle East Monitor",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMFc0VG8zbnI3cjU1LXFYY2tCaXJzM3F0WDlfV3JjQi1BVV9QV1BvMzVVaWY5UUx6Ums0bEJja2U4OWZvUTFVam1DZ0NJX3RJczJVb0g1Z2hZVTQ5c0NCZWFEdjQyd3BRUG1uSzRmc3VOdjRkSDRjTmdnYjVxYWF6ZmR6Z2IyOGNDUlRhaUhDQlNBUzY3OTZpVNIBngFBVV95cUxOYlZfcGgtV1VVclF4SUhqRnRMRFhCRmxJSGVXVmpMeW9mZDNvNlVvdmYtUF9HMTJBZ3VpdzJYLTQ1dF9VRTZtdTZiNU9PT2VIU1NFc0Y3bnVSN3N2Q28zMk5nRkVMU3V6Wm9wd0ZsOVVlTnRvZzB5dnZwSEh4UUphS0FFLWJqY1VDcVVoenBIeGpFQkVrVFpsTV9Qdmc3Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYlZfcGgtV1VVclF4SUhqRnRMRFhCRmxJSGVXVmpMeW9mZDNvNlVvdmYtUF9HMTJBZ3VpdzJYLTQ1dF9VRTZtdTZiNU9PT2VIU1NFc0Y3bnVSN3N2Q28zMk5nRkVMU3V6Wm9wd0ZsOVVlTnRvZzB5dnZwSEh4UUphS0FFLWJqY1VDcVVoenBIeGpFQkVrVFpsTV9Qdmc3Z9IBngFBVV95cUxOYlZfcGgtV1VVclF4SUhqRnRMRFhCRmxJSGVXVmpMeW9mZDNvNlVvdmYtUF9HMTJBZ3VpdzJYLTQ1dF9VRTZtdTZiNU9PT2VIU1NFc0Y3bnVSN3N2Q28zMk5nRkVMU3V6Wm9wd0ZsOVVlTnRvZzB5dnZwSEh4UUphS0FFLWJqY1VDcVVoenBIeGpFQkVrVFpsTV9Qdmc3Zw?oc=5",
       "source": "Middle East Monitor",
       "feed": "Middle East News Network",
       "region": "中东",
       "publishedAt": "2026-08-11T18:59:00.000Z",
       "image": "",
       "topic": "经济",
-      "score": 78,
+      "score": 76,
       "id": "d0dff0f5bb2f"
     },
     {
@@ -471,21 +601,8 @@
       "publishedAt": "2026-08-11T18:48:23.000Z",
       "image": "https://i.guim.co.uk/img/media/ecff802e26783a1a24654e85eb23c20624e8fd90/474_0_4152_3322/master/4152.jpg?width=140&quality=85&auto=format&fit=max&s=b2ca00d5180406a126cfad4ce2f00cb7",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "ba0d59355f4b"
-    },
-    {
-      "title": "Health insurers access full medical records in 'aggressive' audits",
-      "summary": "Hospitals and allied health providers are concerned that insurers are asking providers for their patients' full clinical history.",
-      "url": "https://www.abc.net.au/news/2026-08-12/health-insurers-can-access-your-private-medical-notes/106671630",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T18:35:55.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/3b291079c874041fb9314472d3d65693?impolicy=wcms_crop_resize&cropH=2807&cropW=4991&xPos=0&yPos=347&width=862&height=485",
-      "topic": "社会",
-      "score": 77,
-      "id": "c54b0cecbb6b"
     },
     {
       "title": "Paramount CEO may remove operations from California over stalled merger",
@@ -497,38 +614,103 @@
       "publishedAt": "2026-08-11T18:34:31.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "ad38ccabbb88"
     },
     {
-      "title": "‘Justice at last’: Syrians react to Assad death sentence",
-      "summary": "Syrians gathered to celebrate after a court sentenced ousted President Bashar al-Assad to death in absentia.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/justice-at-last-syrians-react-to-assad-death-sentence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-11T18:32:42.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 77,
-      "id": "4ba84c81672b"
+      "title": "Dethroned Miss North Carolina USA threatens legal action over title removal",
+      "summary": "Brittany Boltinhouse’s attorney says removal of title and crown ‘another troubling example of cancel culture’ A lawyer for beauty queen Brittany Boltinhouse, dethroned as Miss North Carolina USA last week, is threatening legal action, claiming the actions of pageant organizers were “wrongful and unjustified”. The attorney, Patrick Mincey, described the remov",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/miss-north-carolina-title-brittany-boltinhouse",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-11T21:40:54.000Z",
+      "image": "https://i.guim.co.uk/img/media/47544c5503f3c4d3115fcf16fe632a2fd25f0d22/418_0_4164_3332/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=a4a9c214b4da7cb2563ad616e4145f14",
+      "topic": "社会",
+      "score": 75,
+      "id": "9e5a38b1aa60"
     },
     {
-      "title": "Lebanon parliament votes to abolish death penalty",
-      "summary": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
-      "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-08-11T15:24:07.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dc8/live/f4f01500-9590-11f1-b8bb-1b597db1ad66.jpg",
-      "topic": "政治",
-      "score": 77,
-      "id": "66b62dbbd562"
+      "title": "After 80 years of dairying, no-one wants this farm's milk.",
+      "summary": "Despite Queensland importing half its milk, Jason Rozynski fears he will have to slaughter his 600 cows if a processor won't buy his milk.",
+      "url": "https://www.abc.net.au/news/rural/2026-08-12/dairy-farmer-loses-supply-contract/107023390",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-11T21:36:48.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7a20ca70f7a56e0dc38cecbda8b1a520?impolicy=wcms_crop_resize&cropH=931&cropW=1655&xPos=255&yPos=89&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "806757b42d89"
     },
     {
-      "title": "Live: Coalition demands AFP look at leaked melon gaffe correspondence",
-      "summary": "The federal opposition has written to federal police urging them to investigate an apparent leak of correspondence over the prime minister's melon gaffe between Japan and Australia. Follow live.",
+      "title": "Drastic measures older buyers are taking to save for their own home",
+      "summary": "Moving back in with his mum at age 53 has helped John and his wife to save for their future home.",
+      "url": "https://www.abc.net.au/news/2026-08-12/qld-gold-coast-older-buyers-move-home-save/107024338",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-11T21:34:38.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4ac8f338b25a3c6dbe0f74617214647a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "361eeb1d95b6"
+    },
+    {
+      "title": "New partnership hopes DNA will help solve First Nations cold cases",
+      "summary": "Cutting edge forensic science could help shine new light on current First Nations cold cases across Australia.",
+      "url": "https://www.abc.net.au/news/2026-08-12/new-global-first-partnership-to-shed-light-on-missing-persons/106999426",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-11T21:33:28.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/0292c490b712e0058ec8d7727334285d?impolicy=wcms_crop_resize&cropH=2250&cropW=4000&xPos=0&yPos=315&width=862&height=485",
+      "topic": "科技",
+      "score": 75,
+      "id": "238ac298f46d"
+    },
+    {
+      "title": "Trump says FIFA would be making 'terrible mistake' to remove Infantino",
+      "summary": "After weeks of silence following Gianni Infantino's failed World Cup bid, his close ally Donald Trump finally speaks up.",
+      "url": "https://www.abc.net.au/news/2026-08-12/fifa-boss-gianni-infantino-receives-donald-trump-endorsement/107026670",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-11T21:28:23.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/289c998cce43fb2e8e851babef75382c?impolicy=wcms_crop_resize&cropH=2251&cropW=4002&xPos=0&yPos=141&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "2392d4983c70"
+    },
+    {
+      "title": "'Scary' task removed with free period products in all ACT public schools",
+      "summary": "All ACT public school students will now be able to access free pads and tampons from bathroom dispensers without having to ask, as part of an initiative aiming to end period poverty.",
+      "url": "https://www.abc.net.au/news/2026-08-12/free-accessible-period-products-in-all-act-public-schools/107025270",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-11T21:21:02.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/1b02af5ce6b28d80b985cb74db87139c?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "1f9e65d33201"
+    },
+    {
+      "title": "Wallaroos name new head coach as 2029 Rugby World Cup looms on horizon",
+      "summary": "As the Wallaroos edge closer to becoming a full-time program, a key appointment has been made in the build-up to the 2029 Women's Rugby World Cup.",
+      "url": "https://www.abc.net.au/news/2026-08-12/wallaroos-head-coach-sione-fukofuka-2029-rugby-world-cup/107026222",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-11T21:08:25.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7ff1e36742b3ff395f76dfb379b6cc19?impolicy=wcms_crop_resize&cropH=1607&cropW=2857&xPos=9&yPos=168&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "4c1cafdd4b3b"
+    },
+    {
+      "title": "Live: Coalition demands AFP look into leaked melon gaffe correspondence",
+      "summary": "The federal opposition has written to federal police urging them to investigate an apparent leak of correspondence between Japan and Australia over the prime minister's melon gaffe. Follow live.",
       "url": "https://www.abc.net.au/news/2026-08-12/federal-politics-live-blog-august-12/107026630",
       "source": "ABC Australia",
       "feed": "ABC Australia",
@@ -536,8 +718,8 @@
       "publishedAt": "2026-08-11T21:00:07.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c275e9d545662d72026bf246bc620cb3?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=110&width=862&height=485",
       "topic": "政治",
-      "score": 76,
-      "id": "adc07a5904ff"
+      "score": 75,
+      "id": "b385c95b8211"
     },
     {
       "title": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -549,7 +731,7 @@
       "publishedAt": "2026-08-11T21:00:00.000Z",
       "image": "",
       "topic": "经济",
-      "score": 76,
+      "score": 75,
       "id": "494744862d79"
     },
     {
@@ -562,34 +744,34 @@
       "publishedAt": "2026-08-11T20:56:37.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/9562884149167d4f4a2929c3e67a9b77?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=480&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "c1f865861587"
     },
     {
-      "title": "Peaking inside the industrial kitchens cooking 80,000 meals for the troops",
-      "summary": "More than 80 chefs from around the world have cooked a staggering 80,000 meals in just three weeks, serving thousands of international military visitors to Darwin for Australia's largest aviation combat training activity — Exercise Pitch Black.",
-      "url": "https://www.abc.net.au/news/2026-08-12/exercise-pitch-black-darwin-mess-hall-cooks-keeping-troops-fed/107023014",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T20:54:56.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/06ea84129d1796a5030fe1810a9f65fc?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-      "topic": "政治",
-      "score": 76,
-      "id": "ae05d3c1a0c3"
+      "title": "Relatives mourn victims of Pakistan avalanche",
+      "summary": "Relatives gathered to mourn the three Nepali mountaineers, Kili Pemba Sherpa, Gyalu Sherpa, and Nima Sherpa.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-11T20:56:30.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "3cf0eb4f1bd6"
     },
     {
-      "title": "Fraser confirms intentions for Carlton coaching job after hot streak",
-      "summary": "After initially stating he wasn't interested in pursuing the full-time role, Carlton interim coach Josh Fraser has had a change of heart.",
-      "url": "https://www.abc.net.au/news/2026-08-12/afl-josh-fraser-wants-carlton-coaching-job-after-hot-start/107026628",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T20:46:54.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/5884f400c61243c0d34f35414a36504b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=244&width=862&height=485",
+      "title": "The Office actor Lucy Davis says she has incurable stage four breast cancer",
+      "summary": "Star, 53, says disease has metastasised to her bones and it is too late for chemotherapy Lucy Davis, the actor best known for playing Dawn Tinsley in The Office, has said she has incurable stage four breast cancer. The 53-year-old said she was diagnosed a year and a half ago and the disease had metastasised to her bones including her spine, right hip and rib",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/11/lucy-davis-the-office-actor-stage-four-breast-cancer",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-11T17:55:49.000Z",
+      "image": "https://i.guim.co.uk/img/media/2aed01df0b024f33b2da1ec413c411567d12df7c/0_64_2593_2073/master/2593.jpg?width=140&quality=85&auto=format&fit=max&s=cb73ad1758953c1a253c97f3dfdba0e9",
       "topic": "社会",
-      "score": 76,
-      "id": "6fd5faee4790"
+      "score": 75,
+      "id": "2de516467c2f"
     },
     {
       "title": "Driver who broke sound barrier sets new speed record in hydrogen-powered car",
@@ -601,34 +783,8 @@
       "publishedAt": "2026-08-11T17:48:25.000Z",
       "image": "https://i.guim.co.uk/img/media/1e0d28e08ae3a8b923ef12343fc38cf85ac32a71/254_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=1dbb6b247145db91ad9f250beb85931d",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "fafe3ee96669"
-    },
-    {
-      "title": "Florida paddleboarder rescues woman from alligator attack",
-      "summary": "Mike Heard used his paddle to strike gator that had latched on to swimmer in Silver River after hearing yells of ‘Gator!’ A Florida paddleboarder rescued a woman from an alligator attack in Marion county over the weekend. On Saturday, an alligator bit the woman on the arm while she was swimming in the Silver River, according to local reports citing Marion co",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/florida-alligator-rescue-paddleboarder",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-11T17:37:40.000Z",
-      "image": "https://i.guim.co.uk/img/media/3ef942dc588dbd5ebfddcd5ae43b4a6ae8884e8d/487_0_3748_3000/master/3748.jpg?width=140&quality=85&auto=format&fit=max&s=77cd8cdedf1a0dabde36d52fa4c50e22",
-      "topic": "社会",
-      "score": 76,
-      "id": "17daea30a7cb"
-    },
-    {
-      "title": "University of Michigan to switch to pass/fail grades for first-semester students",
-      "summary": "School said it is pivoting away from letter-grading system to ‘curb the mental health crisis’ among college students The University of Michigan will pivot to a pass-or-fail-style grading system, instead of letter grades, for first-semester students in an effort to “curb the mental health crisis unfolding among college-aged individuals”. The school said in a ",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/university-of-michigan-pass-fail-grading-system",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-11T17:12:54.000Z",
-      "image": "https://i.guim.co.uk/img/media/67afa9e8d2563497c10c26bf4fb81ae806126950/489_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=497b06efa067a277c34648ae76b6122e",
-      "topic": "社会",
-      "score": 76,
-      "id": "9e86372e13a7"
     },
     {
       "title": "US state department has canceled over 175,000 visas since Trump’s return to office",
@@ -640,7 +796,7 @@
       "publishedAt": "2026-08-11T20:40:59.000Z",
       "image": "https://i.guim.co.uk/img/media/4b1c4de1e3a634f4f93a72dfc2d4c3c265237f69/256_0_3288_2632/master/3288.jpg?width=140&quality=85&auto=format&fit=max&s=983c308b9c3fd505bcfebb371f33ae3c",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "7cb2f09eb3f4"
     },
     {
@@ -653,73 +809,21 @@
       "publishedAt": "2026-08-11T20:35:50.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "9fbde492106c"
     },
     {
-      "title": "'Dare to Dream' project combats lack of queer spaces in Sydney's west",
-      "summary": "Amid the hustle of shoppers in Parramatta, an art installation with personal shrines symbolises an oasis for Greater Western Sydney's queer community seeking visibility and acceptance.",
-      "url": "https://www.abc.net.au/news/2026-08-12/sydney-art-safe-spaces-supporting-queer-and-gender-diverse/107018128",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T20:25:11.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/2123320030bdacef15e369fc401a4115?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=0&width=862&height=485",
-      "topic": "科技",
-      "score": 75,
-      "id": "f9d19f8ec1e7"
-    },
-    {
-      "title": "National leader or problem rediscoverer? The issue with Malinauskas's AI royal commission",
-      "summary": "South Australia's royal commission into artificial intelligence is Premier Peter Malinauskas's latest foray into a national issue. There's no guarantee of success, writes state political reporter Thomas Kelsall.",
-      "url": "https://www.abc.net.au/news/2026-08-12/sa-ai-royal-commission-has-prompted-questions-from-critics/107024532",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T20:12:51.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/0b04ece0f2de518f9a2cee71a09c8a5d?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=55&width=862&height=485",
-      "topic": "科技",
-      "score": 75,
-      "id": "d18be6a02069"
-    },
-    {
-      "title": "Calls to address hidden pain of regional pregnancy loss",
-      "summary": "Bunbury psychologist Heidi Lynn Welsh has endured the pain of multiple lost pregnancies, and finally more help is on its way to address the regional gaps in bereavement support for women like her.",
-      "url": "https://www.abc.net.au/news/2026-08-12/pregnancy-loss-causing-trauma-for-regional-families/107009552",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T20:01:13.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/cef4c0ac81c1c774001f412f7b09d5df?impolicy=wcms_crop_resize&cropH=2613&cropW=4646&xPos=0&yPos=263&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "2fdd714b6a29"
-    },
-    {
-      "title": "Inner Melbourne council walks away from plan for key worker housing",
-      "summary": "The City of Yarra has halted plans to build at least 50 affordable rental apartments for workers in Abbotsford.",
-      "url": "https://www.abc.net.au/news/2026-08-12/yarra-council-affordable-housing-halted/107024402",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T20:01:02.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/0f22c4b21e165c96d9755d51074c6e42?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "801ceed33fae"
-    },
-    {
-      "title": "Women coaches have almost tripled, but 'misogynistic and abusive' behaviour remains",
-      "summary": "The number of female head coaches in Australian high performance sport has seen a massive increase over the past four years, but significant institutional and cultural barriers remain.",
-      "url": "https://www.abc.net.au/news/2026-08-12/women-coaches-increase-ais-report-barriers-remain/107026070",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T19:53:47.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/261ee1154e15a5b8d5fba1e27d4107d8?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=15&width=862&height=485",
+      "title": "At least 15 dead and dozens missing after ferry capsizes in Zimbabwe lake",
+      "summary": "At least 15 people have died and another 27 are missing after an overloaded ferry capsized on a huge lake in Zimbabwe, officials have said.",
+      "url": "https://news.sky.com/story/boat-carrying-more-than-90-capsizes-in-zimbabwe-13572036",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "全球",
+      "publishedAt": "2026-08-11T16:58:00.000Z",
+      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-lake-kariba-zimbabwe_7319177.jpg?20260811180931",
       "topic": "社会",
       "score": 74,
-      "id": "027b212cf073"
+      "id": "4ec74036b7d9"
     },
     {
       "title": "White House pushes DoJ to revive reflecting pool case against Olympian",
@@ -731,34 +835,21 @@
       "publishedAt": "2026-08-11T19:49:21.000Z",
       "image": "https://i.guim.co.uk/img/media/c00a27d9e1844cdf7cd3690aab0729299ae58337/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=404355688cbb21f0018810554c800d10",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "b66a44945456"
     },
     {
-      "title": "Wait times, cost barriers to ADHD testing in Tasmania, report finds",
-      "summary": "Tasmania's public health system is struggling to cope with demand for ADHD testing, with many turning to private psychiatrists, a parliamentary report has found.",
-      "url": "https://www.abc.net.au/news/2026-08-12/delayed-adhd-diagnosis-impacting-tasmanian-children-outcomes/107024688",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T19:35:09.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/eecde2f62ea432d2b72b4f3abcc3fa92?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=168&width=862&height=485",
-      "topic": "政治",
-      "score": 74,
-      "id": "7eb34afabbed"
-    },
-    {
       "title": "Middle East oil output to remain below pre-conflict levels in 2027",
-      "summary": "Middle East oil output to remain below pre-conflict levels in 2027 &nbsp;&nbsp; Investing.com Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUUZzS0s4WWE4Z1k5b1E4M3czWkJwQVkwSTU1dk9yLWkzZ29hQ1ljbFFJd21VOWdPTzhqSkJlQ01DdDl3TGZ4dDlKdE9aU2hjci1QYVRoaFk3U1V1YzZIVmUzWGw1dV9tM3A3OXJuTW1nS2JqMGNIQXJDMTNVS081ZE1MNWRvblRfb3czcW9aVlhvVEt6Ti1tVG02NG51NDEwTzBSSExTOXZCY2RKYlIySjZCcHlQV2M3QmJBdXdLVkRWVTl3?oc=5",
-      "source": "Investing.com Nigeria",
+      "summary": "Middle East oil output to remain below pre-conflict levels in 2027 &nbsp;&nbsp; Investing.com South Africa",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMVlrSUpjcGUtUnR4UUtVbHpoajRSRnlTUmtJTURpR0I1YnlYS1BpOG9ZZzNnVm1od1lvUmg5NWk3T0U2d1ZkZGlxdjhSdHNzYXNsZm5KdHBLd0sxbl80V0ZEOGZackY4dm1BSlVDZG5DeE9UUG9vTXUycHJORlQ2QmthSmxQc1UxOVo3ZmVfbWp6cDBDY0VfRjlzTkdWakVBaER3NEpDRXN4NDEydnVyMjZrbDdYdHp5c2JHRWlUbngzbzVq?oc=5",
+      "source": "Investing.com South Africa",
       "feed": "Middle East News Network",
       "region": "非洲",
-      "publishedAt": "2026-08-11T19:24:56.000Z",
+      "publishedAt": "2026-08-11T19:30:24.000Z",
       "image": "",
       "topic": "经济",
-      "score": 74,
-      "id": "6ff34876b11e"
+      "score": 73,
+      "id": "aa90d9806a9a"
     },
     {
       "title": "Truck crash in Egypt kills 18, many of them child labourers",
@@ -770,99 +861,21 @@
       "publishedAt": "2026-08-11T19:21:32.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "fe67ddc5ab3e"
     },
     {
-      "title": "A year on, this human skull mystery at Mildura may never be solved",
-      "summary": "More than 12 months after a human skull was discovered on the banks of Australia's longest river, investigations remain ongoing.",
-      "url": "https://www.abc.net.au/news/2026-08-12/police-investigation-into-human-skull-remains-ongoing/107004530",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T19:08:38.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/1f0b9b6ba67a1b175e3e9a3ef32bcff3?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=75&width=862&height=485",
-      "topic": "经济",
-      "score": 74,
-      "id": "fae28a85be8d"
-    },
-    {
-      "title": "Hungary elects supreme court judge ousted by Orban as new president",
-      "summary": "Baka replaces Orban appointee Tamas Sulyok, ousted weeks ago during Tisza’s campaign against Orban-era power structures.",
-      "url": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-11T15:50:51.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "5e11e585ca16"
-    },
-    {
-      "title": "UNESCO says 2.4 million Afghan girls denied access to further education",
-      "summary": "UNESCO says the figure could reach four million by 2030 unless Taliban reverses policy.",
-      "url": "https://www.aljazeera.com/news/2026/8/11/unesco-says-2-4-million-afghan-girls-denied-access-to-further-education?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-11T18:59:42.000Z",
+      "title": "Eye on Africa - Nigerians returnees try to re-adapt after trauma in South Africa",
+      "summary": "Eye on Africa - Nigerians returnees try to re-adapt after trauma in South Africa &nbsp;&nbsp; France 24",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUURiR1hrd2k1NzY4ckdMeHFRMU11TmQwZDBCNWlXZHdLLV91VU1DQjhoUmw0czhlX1FMRWZyS1J5WFFqRnZnY3hYNUJ0VGdVbnQ5a3FqaTdoTFd0X040RDRWU2VKSEd6U3R2bGRxSUJrdmk4LWttaV93THRrQzJwQXZvRElETENmY3htOTBLOW1VT292RXlZ?oc=5",
+      "source": "France 24",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-11T21:10:57.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
-      "id": "5aaf34d52237"
-    },
-    {
-      "title": "From a tome to a pamphlet: Liberal vows to demolish building code",
-      "summary": "Opposition housing spokesperson Andrew Bragg has promised to slash the National Construction Code from over 2,000 pages to 80 if elected.",
-      "url": "https://www.abc.net.au/news/2026-08-12/federal-politics-andrew-bragg-building-code-national-press-club/107025376",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T18:55:14.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/3e00cbb153c8a6a5303e9d6ec3b0fdc5?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "4c6fb4d64b70"
-    },
-    {
-      "title": "Beloved 'Little Blue Boat' brought back from the brink by volunteers",
-      "summary": "For years, the 'Little Blue Boat' had a special place in the hearts of many in Hobart, until a storm nearly sank it for good. Now, after much hard work, this icon of southern Tasmania is ready for the water again.",
-      "url": "https://www.abc.net.au/news/2026-08-12/little-blue-boat-sea-breeze-restored-franklin-tasmania/107023366",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T18:44:30.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/4cf70c27096881963a7acd74b85bf2d5?impolicy=wcms_crop_resize&cropH=864&cropW=1536&xPos=0&yPos=195&width=862&height=485",
-      "topic": "气候",
-      "score": 73,
-      "id": "78470dfb97cf"
-    },
-    {
-      "title": "Refugee with disability from Pakistan finds 'dream job' at Sydney airport",
-      "summary": "Refugees with disabilities have often been put in the \"too-hard basket\" by employment service providers but a new scheme that's more focused on tailored help is reportedly having some success.",
-      "url": "https://www.abc.net.au/news/2026-08-12/new-system-to-help-refugees-with-disability/106842132",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "亚洲",
-      "publishedAt": "2026-08-11T18:39:41.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/3f784145865b61fb40d5c96df219f6c3?impolicy=wcms_crop_resize&cropH=2109&cropW=3750&xPos=0&yPos=1445&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "4bf47e8e67f1"
-    },
-    {
-      "title": "Mediafactory breaks into Asia-Pacific’s Top 100 most effective agencies - Daily Mirror",
-      "summary": "Mediafactory breaks into Asia-Pacific’s Top 100 most effective agencies &nbsp;&nbsp; Daily Mirror - Sri Lanka",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUm94UkpZbHFiQjZDLXhIRUxUVVJaMjliYTAtWEFDdUJ2SGUyZzM4eFFUUHdmenZKaF96a2FqSDEzakN4UmJmdXl5R1lOZ29NckhnM1ZfYktLY3hnNEVOMEhWM0d2ZURxRmpac1FjRXlPekZvdnFyNkxlQWcwdUpMWVZwWHZRTVhPMW8tZzdBWEFKXy1xeWZYM2hreTRTMVVPSThacjM1dUVTVFhyMm1jYTg3T2JRdkhlY3ZkSUpTdw?oc=5",
-      "source": "Sri Lanka",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-11T20:51:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "f9c2e5400ea3"
+      "score": 71,
+      "id": "ffd39d7f81fe"
     },
     {
       "title": "Brazil’s Supreme Court to weigh cases that could weaken Amazon protections",
@@ -874,21 +887,21 @@
       "publishedAt": "2026-08-11T18:00:01.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "ec3f458308d6"
     },
     {
-      "title": "No energy crisis in the country despite ongoing West Asia conflict, says PM Modi in LS",
-      "summary": "No energy crisis in the country despite ongoing West Asia conflict, says PM Modi in LS &nbsp;&nbsp; News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcGU2NFNxczRKX0tFOWNmeGZzdmdKV2pUZm1LLU15WWczdHlkR3g5Y1F5a2hDc29LSjRlaDllVnNBN2prTV9VdXh5SV95UEU2NjVIR05rSjVLNmQ1OWRzTlRwenBDOWtnTFpCaHNCN05uX1FFZllKbFBuaTl6d2FXclZmZS1UUjV5ZlZGZU82OUZDNWpaNU1hd0F2aUdJYXh4Z1I3eVZxUWVSaEF5MzhoUWdnQkQ2Z1J3SkV6cg?oc=5",
-      "source": "News On AIR",
+      "title": "Mediafactory breaks into Asia-Pacific’s Top 100 most effective agencies - Daily Mirror",
+      "summary": "Mediafactory breaks into Asia-Pacific’s Top 100 most effective agencies &nbsp;&nbsp; Daily Mirror - Sri Lanka",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUm94UkpZbHFiQjZDLXhIRUxUVVJaMjliYTAtWEFDdUJ2SGUyZzM4eFFUUHdmenZKaF96a2FqSDEzakN4UmJmdXl5R1lOZ29NckhnM1ZfYktLY3hnNEVOMEhWM0d2ZURxRmpac1FjRXlPekZvdnFyNkxlQWcwdUpMWVZwWHZRTVhPMW8tZzdBWEFKXy1xeWZYM2hreTRTMVVPSThacjM1dUVTVFhyMm1jYTg3T2JRdkhlY3ZkSUpTdw?oc=5",
+      "source": "Sri Lanka",
       "feed": "Asia News Network",
       "region": "亚洲",
-      "publishedAt": "2026-08-11T17:14:59.000Z",
+      "publishedAt": "2026-08-11T20:51:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
-      "id": "91cebb90a3db"
+      "score": 70,
+      "id": "f9c2e5400ea3"
     },
     {
       "title": "Egyptian billionaire Hisham Talaat Moustafa ranks 30th on Forbes Middle East's CEO list",
@@ -900,8 +913,21 @@
       "publishedAt": "2026-08-11T20:12:51.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "dbcd73351113"
+    },
+    {
+      "title": "No energy crisis in the country despite ongoing West Asia conflict, says PM Modi in LS",
+      "summary": "No energy crisis in the country despite ongoing West Asia conflict, says PM Modi in LS &nbsp;&nbsp; News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcGU2NFNxczRKX0tFOWNmeGZzdmdKV2pUZm1LLU15WWczdHlkR3g5Y1F5a2hDc29LSjRlaDllVnNBN2prTV9VdXh5SV95UEU2NjVIR05rSjVLNmQ1OWRzTlRwenBDOWtnTFpCaHNCN05uX1FFZllKbFBuaTl6d2FXclZmZS1UUjV5ZlZGZU82OUZDNWpaNU1hd0F2aUdJYXh4Z1I3eVZxUWVSaEF5MzhoUWdnQkQ2Z1J3SkV6cg?oc=5",
+      "source": "News On AIR",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-11T17:14:59.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "91cebb90a3db"
     },
     {
       "title": "Russia frees ex-US Marine Robert Gilman from detention",
@@ -913,34 +939,8 @@
       "publishedAt": "2026-08-11T17:09:31.000Z",
       "image": "",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "beec18118087"
-    },
-    {
-      "title": "Poland says Women’s World Cup plan on course despite UEFA boycott of FIFA",
-      "summary": "Poland says their preparations to host the Women's Under-20 World Cup remain on schedule, despite UEFA-FIFA fallout.",
-      "url": "https://www.aljazeera.com/sports/2026/8/11/poland-says-womens-world-cup-plan-on-course-despite-uefa-boycott-of-fifa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-11T17:04:52.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "dc86d34935bf"
-    },
-    {
-      "title": "Russia releases former US Marine reported in poor health",
-      "summary": "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-11T17:02:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/719e/live/5d95bd80-959b-11f1-a7ab-8b30adf0800a.jpg",
-      "topic": "社会",
-      "score": 71,
-      "id": "bff67f9fc83b"
     }
   ]
 }
