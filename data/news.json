@@ -1,11 +1,37 @@
 {
-  "updatedAt": "2026-08-11T11:09:12.980Z",
+  "updatedAt": "2026-08-11T12:00:21.603Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-08-11T10:43:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edd9/live/d8ac8750-956f-11f1-98c3-1da4f20b80e4.jpg",
+      "topic": "政治",
+      "score": 99,
+      "id": "38f9144db2f4"
+    },
+    {
+      "title": "Syrian court sentences Bashar al-Assad to death in absentia for war crimes",
+      "summary": "Verdict relates to atrocities committed during the country’s 14-year civil war in which about 500,000 people died A Syrian court has sentenced the country’s former president Bashar al-Assad and his brother Maher to death in absentia for crimes against humanity and war crimes during the 14-year civil war, in which about half a million people died. The two men",
+      "url": "https://www.theguardian.com/world/2026/aug/11/syria-bashar-al-assad-death-sentence-war-crimes",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-08-11T10:40:45.000Z",
+      "image": "https://i.guim.co.uk/img/media/74fd663a49a67244a46abc599987a69d31307234/294_0_2913_2330/master/2913.jpg?width=140&quality=85&auto=format&fit=max&s=b54e5b958e222f7aa5a7ae01d98aac01",
+      "topic": "政治",
+      "score": 99,
+      "id": "d09ffef9a2d5"
+    },
     {
       "title": "Former Syrian President Assad sentenced to death in absentia",
       "summary": "A Syrian court sentenced Assad along with his brother to death in absentia for crimes against humanity and war crimes during Syria's 14-year conflict that left about half a million people dead.",
@@ -16,21 +42,8 @@
       "publishedAt": "2026-08-11T10:07:14.000Z",
       "image": "",
       "topic": "政治",
-      "score": 100,
-      "id": "e2de77fe9edf"
-    },
-    {
-      "title": "Bashar al Assad sentenced to death by Syrian court",
-      "summary": "Former Syrian president Bashar al Assad has been sentenced to death in absentia for crimes against humanity and war crimes, following a ruling by a court in the country.",
-      "url": "https://news.sky.com/story/bashar-al-assad-sentenced-to-death-in-absentia-by-syrian-court-for-war-crimes-13571874",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "中东",
-      "publishedAt": "2026-08-11T08:42:00.000Z",
-      "image": "https://e3.365dm.com/25/03/1920x1080/skynews-syria-isis_6855227.jpg?20250313161414",
-      "topic": "政治",
       "score": 98,
-      "id": "6d435082d633"
+      "id": "e2de77fe9edf"
     },
     {
       "title": "Russia used North Korean missiles in Ukraine attack, Zelenskyy says",
@@ -42,21 +55,21 @@
       "publishedAt": "2026-08-11T08:18:34.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/8d271bd4426aec705d2cb2b8de4c47c4?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "政治",
-      "score": 94,
+      "score": 89,
       "id": "93e001ef6457"
     },
     {
-      "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
-      "summary": "Russian attacks on the Ukrainian city of Zaporizhzhia killed at least six people and injured 20, officials said Spanish foreign minister José Manuel Albares visited Ceuta earlier today, as he insisted that Madrid had it all under control despite “the most unique and complex” border arrangements there. He said Spain was in direct dialogue with the Moroccan au",
-      "url": "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-11T10:59:11.000Z",
-      "image": "https://i.guim.co.uk/img/media/88b14e35fdcc2ab6eeda8293cf438fe03c83db8f/242_0_3480_2785/master/3480.jpg?width=140&quality=85&auto=format&fit=max&s=694a13f86ff952740596f1119588b856",
-      "topic": "政治",
-      "score": 89,
-      "id": "2ebe4288c0f8"
+      "title": "Watch: Family escapes home during Colombia earthquake",
+      "summary": "At least 132 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years.",
+      "url": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "美洲",
+      "publishedAt": "2026-08-11T10:12:21.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8697/live/519cdac0-955c-11f1-b96f-3d43158251d5.jpg",
+      "topic": "气候",
+      "score": 87,
+      "id": "fdd98cb75347"
     },
     {
       "title": "At least 132 killed in Colombia's largest earthquake in years",
@@ -68,25 +81,12 @@
       "publishedAt": "2026-08-11T04:06:07.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f2f/live/f1603a50-954a-11f1-a7ab-8b30adf0800a.jpg",
       "topic": "气候",
-      "score": 88,
+      "score": 87,
       "id": "dab1885014bb"
     },
     {
-      "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
-      "summary": "Live Updates: Latest from Israel, Iran, and the Middle East &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SR2p3ZnVMTHRtSW5abzdqazNGVzFXUUlZd0czVDFLY0owQWtNckJMWGt0NzVmREx4eEtPQXpVNzFlTzJ1NE4tNVZscWxkaW1ISEFrX2Y3Y2RTTWk4dTlSR2tPb0dsczhvelY1bkZwRVloZm1QSVpxOF8wRDc1TW8?oc=5",
-      "source": "The Jerusalem Post",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-11T10:00:05.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 87,
-      "id": "6f521ec72b20"
-    },
-    {
       "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-      "summary": "The US president was part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+      "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
       "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "feed": "BBC World",
@@ -94,7 +94,7 @@
       "publishedAt": "2026-08-11T09:58:45.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f69/live/2dd49110-956f-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "政治",
-      "score": 87,
+      "score": 86,
       "id": "290eb66ba39e"
     },
     {
@@ -107,8 +107,34 @@
       "publishedAt": "2026-08-11T09:39:58.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7862/live/6d64a760-953e-11f1-ba5b-b1a600ddfa74.jpg",
       "topic": "政治",
-      "score": 87,
+      "score": 86,
       "id": "cbec7e365d5b"
+    },
+    {
+      "title": "Syria sentences absent former leader Bashar al-Assad to death",
+      "summary": "The 60-year-old, who was president of Syria for 24 years until 2024 before fleeing to Moscow, was found guilty of crimes including killings, torture, and arbitrary arrest.",
+      "url": "https://www.abc.net.au/news/2026-08-11/bashar-al-assad-former-syrian-leader-sentenced-to-death/107026136",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "中东",
+      "publishedAt": "2026-08-11T11:09:57.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/5c44ddd540c75e91fc2407fd4cb79dd7?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485",
+      "topic": "政治",
+      "score": 83,
+      "id": "42100b1d9862"
+    },
+    {
+      "title": "DRC Ebola death toll passes 2,000 amid fastest-growing outbreak on record",
+      "summary": "A total of 4,381 cases across five provinces have been confirmed in the Democratic Republic of the Congo as of Tuesday.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/drc-ebola-death-toll-passes-2000-amid-fastest-growing-outbreak-on-record?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "非洲",
+      "publishedAt": "2026-08-11T10:52:27.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 83,
+      "id": "4b12a08791fb"
     },
     {
       "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
@@ -120,34 +146,8 @@
       "publishedAt": "2026-08-11T10:14:01.000Z",
       "image": "https://i.guim.co.uk/img/media/61a4b85fd3aa13e7e5f7eeb77da07c7d3e7a9ef3/693_0_3467_2773/master/3467.jpg?width=140&quality=85&auto=format&fit=max&s=5cfd7be58936229d9e68dc4ee2995445",
       "topic": "气候",
-      "score": 84,
+      "score": 83,
       "id": "573a0016bfaf"
-    },
-    {
-      "title": "Watch: Family escapes home during Colombia earthquake",
-      "summary": "At least 132 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years.",
-      "url": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "美洲",
-      "publishedAt": "2026-08-11T10:12:21.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8697/live/519cdac0-955c-11f1-b96f-3d43158251d5.jpg",
-      "topic": "气候",
-      "score": 84,
-      "id": "fdd98cb75347"
-    },
-    {
-      "title": "Live Updates: War returns to Iran with Israel, US strikes",
-      "summary": "Live Updates: War returns to Iran with Israel, US strikes &nbsp;&nbsp; Dawn",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5",
-      "source": "Dawn",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-11T07:15:41.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 84,
-      "id": "f2a7d64b0571"
     },
     {
       "title": "Who is Atef Najib, former Syrian official sentenced to death with al-Assad?",
@@ -159,8 +159,21 @@
       "publishedAt": "2026-08-11T10:03:25.000Z",
       "image": "",
       "topic": "社会",
-      "score": 83,
+      "score": 82,
       "id": "f92d57333f8f"
+    },
+    {
+      "title": "Live Updates: War returns to Iran with Israel, US strikes",
+      "summary": "Live Updates: War returns to Iran with Israel, US strikes &nbsp;&nbsp; Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5",
+      "source": "Dawn",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-11T07:15:41.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 82,
+      "id": "f2a7d64b0571"
     },
     {
       "title": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
@@ -172,7 +185,7 @@
       "publishedAt": "2026-08-11T06:46:56.000Z",
       "image": "https://i.guim.co.uk/img/media/1689d23cc9c76b118263c1cdf1b005a6d7d5e279/624_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=2bde3f956ee6f231409277875f2d625c",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "684dd8bfc6db"
     },
     {
@@ -185,7 +198,7 @@
       "publishedAt": "2026-08-11T09:02:36.000Z",
       "image": "",
       "topic": "社会",
-      "score": 82,
+      "score": 81,
       "id": "bf42c6508b7d"
     },
     {
@@ -198,8 +211,73 @@
       "publishedAt": "2026-08-11T08:55:59.000Z",
       "image": "https://i.guim.co.uk/img/media/ae9319faf9575ee7af2b2ba254e7ec4e74637834/2014_234_4338_3469/master/4338.jpg?width=140&quality=85&auto=format&fit=max&s=b334d91434fe61549af1c7b882584546",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "cd5164b35bcc"
+    },
+    {
+      "title": "Andy Burnham says he would preferably not want a ‘single prisoner’ released early - UK politics live",
+      "summary": "The prime minister says the prison early release scheme crisis shows he’s someone who had ‘never taken no for an answer’ In his pooled TV interview, Andy Burnham repeated the point he made in his Facebook post earlier (see 9.58am ), saying he was confident that more could be done to free up space in the prison system (which would allow the early release syst",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/11/andy-burnham-labour-prisoner-release-scheme-councils-conservatives-kemi-badenoch-reform-nigel-farage-uk-politics-live-news",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-11T11:42:58.000Z",
+      "image": "https://i.guim.co.uk/img/media/a848cae00f5edd76a7ad9ed42eb7a08aa6cc555e/750_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=b31c9263bc870c3f339d634eebf0088b",
+      "topic": "政治",
+      "score": 80,
+      "id": "1d658dadc793"
+    },
+    {
+      "title": "Democratic progressives and establishment set to clash in more primaries – US politics live",
+      "summary": "Tuesday’s competitions in Wisconsin and Minnesota follow similar battles for the direction of the party, including last week in Michigan where progressive Abdul El-Sayed triumphed Sign up to the US Breaking News email Minnesota voters on both sides of the aisle are weighing the direction of their parties – and their chances of winning over the general electo",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-11T11:35:26.000Z",
+      "image": "https://i.guim.co.uk/img/media/81229da70b97be6987d3ca350cc303262a649d0d/176_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=fd31a97c6623c1f7a50a6b1a0670f40b",
+      "topic": "社会",
+      "score": 80,
+      "id": "abd5622f090b"
+    },
+    {
+      "title": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
+      "summary": "After a drone crashes in Germany, fears of suspected Russian operations rise across Europe.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-11T11:30:48.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 80,
+      "id": "89c2ce579d8e"
+    },
+    {
+      "title": "Palestine weekly: Netanyahu hedges on Gaza roadmap",
+      "summary": "Attacks in Gaza slowed sharply this week even as Netanyahu publicly rejected Trump's 15-point peace plan.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-11T11:28:05.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 80,
+      "id": "0859b2273d60"
+    },
+    {
+      "title": "‘Extreme heat’ warning issued for parts of England on Thursday as temperatures could reach 38C – latest news",
+      "summary": "Met Office says this warning will likely cause ‘adverse’ health effects with travel and power generation also possibly affected The Guardian’s environment editor, Fiona Harvey , has written a useful explainer about the UK public services that are struggling in the extreme weather. You can read it in full here: There’s only one solution in the end to the drou",
+      "url": "https://www.theguardian.com/environment/live/2026/aug/11/uk-europe-france-heatwave-climate-crisis-drought-amber-health-alert-latest-updates-news",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-11T11:19:37.000Z",
+      "image": "https://i.guim.co.uk/img/media/fcf80d6af5a29c812141753455828f62cfcde900/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=45260e65874e3e52ca0fe25ab75bbef7",
+      "topic": "政治",
+      "score": 80,
+      "id": "296c5b3d1d32"
     },
     {
       "title": "Delivery drivers to be paid minimum $31.30 an hour across Australia in ‘world-leading’ decision",
@@ -211,7 +289,7 @@
       "publishedAt": "2026-08-11T08:25:41.000Z",
       "image": "https://i.guim.co.uk/img/media/b08c2f80d5ee7504b93805cda932ee6594e25005/1206_1334_3932_3146/master/3932.jpg?width=140&quality=85&auto=format&fit=max&s=a7bd4b00c3cf2a4729f93f894b4ba63b",
       "topic": "社会",
-      "score": 81,
+      "score": 80,
       "id": "bb9b1a139863"
     },
     {
@@ -224,7 +302,7 @@
       "publishedAt": "2026-08-11T07:56:48.000Z",
       "image": "https://i.guim.co.uk/img/media/29dd6a722af5dda5f582e1c3162e11d24a4a5735/375_0_3748_2999/master/3748.jpg?width=140&quality=85&auto=format&fit=max&s=ef7d5216e7a30bf76fa73e26bca8fb62",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "5d30ad0b45c4"
     },
     {
@@ -237,8 +315,21 @@
       "publishedAt": "2026-08-11T07:50:09.000Z",
       "image": "https://i.guim.co.uk/img/media/f3b9b971ac6f8e9e14fdb56a1aaba299990c7d4a/226_0_4114_3293/master/4114.jpg?width=140&quality=85&auto=format&fit=max&s=72538054a29970f162e94c0340eb492d",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "db5ba9fbe6cb"
+    },
+    {
+      "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
+      "summary": "Today marks one year since the National Guard was deployed to the nation's capital. Here's what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colombia.",
+      "url": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "美洲",
+      "publishedAt": "2026-08-11T11:11:14.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 79,
+      "id": "17bf781b185f"
     },
     {
       "title": "HCA workers push for higher pay and more staffing amid billions in profits: ‘I’m struggling’",
@@ -250,7 +341,7 @@
       "publishedAt": "2026-08-11T11:00:02.000Z",
       "image": "https://i.guim.co.uk/img/media/346be83cac89cd5f8e81f007fa688c32fa6ce856/155_0_1833_1467/master/1833.jpg?width=140&quality=85&auto=format&fit=max&s=4cac6566f3af72aca28558ad3609cb5d",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "43d6dc8b5acc"
     },
     {
@@ -263,34 +354,21 @@
       "publishedAt": "2026-08-11T11:00:00.000Z",
       "image": "https://i.guim.co.uk/img/media/77eb11408fbcb83154b561bcd98a0f7c9aaac1b5/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c97b8e7d6fc7983de9961e7d6d658e64",
       "topic": "科技",
-      "score": 80,
+      "score": 79,
       "id": "5bcb620e20d3"
     },
     {
-      "title": "Democratic progressives and establishment set to clash in more primaries – US politics live",
-      "summary": "Tuesday’s competitions in Wisconsin and Minnesota follow similar battles for the direction of the party, including last week in Michigan where progressive Abdul El-Sayed triumphed Sign up to the US Breaking News email In the race to replace the late US senator Lindsey Graham, 10 candidates have been barnstorming South Carolina diners, church halls and recrea",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
+      "title": "What to know about South Carolina’s election to replace Lindsey Graham",
+      "summary": "Tuesday's special election will pick a Republican challenger for the midterm Senate race transformed by Graham's death.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/what-to-know-about-south-carolinas-election-to-replace-lindsey-graham?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
       "region": "全球",
-      "publishedAt": "2026-08-11T10:59:56.000Z",
-      "image": "https://i.guim.co.uk/img/media/81229da70b97be6987d3ca350cc303262a649d0d/176_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=fd31a97c6623c1f7a50a6b1a0670f40b",
-      "topic": "气候",
-      "score": 80,
-      "id": "abd5622f090b"
-    },
-    {
-      "title": "‘Extreme heat’ warning issued for parts of England on Thursday as temperatures could reach 38C – latest news",
-      "summary": "Met Office says this warning will likely cause ‘adverse’ health effects with travel and power generation also possibly affected The Guardian’s environment editor, Fiona Harvey , has written a useful explainer about the UK public services that are struggling in the extreme weather. You can read it in full here: There’s only one solution in the end to the drou",
-      "url": "https://www.theguardian.com/environment/live/2026/aug/11/uk-europe-france-heatwave-climate-crisis-drought-amber-health-alert-latest-updates-news",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-11T10:53:49.000Z",
-      "image": "https://i.guim.co.uk/img/media/fcf80d6af5a29c812141753455828f62cfcde900/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=45260e65874e3e52ca0fe25ab75bbef7",
+      "publishedAt": "2026-08-11T10:55:03.000Z",
+      "image": "",
       "topic": "政治",
-      "score": 80,
-      "id": "296c5b3d1d32"
+      "score": 79,
+      "id": "194ae008bdec"
     },
     {
       "title": "Meta glasses banned from courts in England and Wales",
@@ -302,7 +380,7 @@
       "publishedAt": "2026-08-11T10:29:29.000Z",
       "image": "https://i.guim.co.uk/img/media/4a486dc22d1f66eddb54d2e1e16341f360057bca/442_0_3221_2577/master/3221.jpg?width=140&quality=85&auto=format&fit=max&s=2b951ace4b365e8430f4a67d24325c3c",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "ad91f0944cb0"
     },
     {
@@ -315,7 +393,7 @@
       "publishedAt": "2026-08-11T08:18:08.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "215705bf69aa"
     },
     {
@@ -328,21 +406,8 @@
       "publishedAt": "2026-08-11T07:41:09.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/68444c1dbc9c88f8a229fe704bd23c57?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "621a5ed045d1"
-    },
-    {
-      "title": "Russian attacks kill six in Ukraine’s Zaporizhzhia",
-      "summary": "A children's hospital has also been struck in Kyiv, according to Ukraine's state emergency service.",
-      "url": "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-11T07:07:51.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 80,
-      "id": "96e7cf3ff29d"
     },
     {
       "title": "Europe braces for another heatwave after record-breaking temperatures",
@@ -354,7 +419,7 @@
       "publishedAt": "2026-08-10T21:45:38.000Z",
       "image": "",
       "topic": "气候",
-      "score": 80,
+      "score": 79,
       "id": "5bba27a32256"
     },
     {
@@ -367,7 +432,7 @@
       "publishedAt": "2026-08-11T10:25:50.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "3c9fde507c71"
     },
     {
@@ -380,7 +445,7 @@
       "publishedAt": "2026-08-11T10:00:58.000Z",
       "image": "https://i.guim.co.uk/img/media/1ad8ba008d874d16ab5b8e1361fd3dd235eca1f4/494_0_4979_3984/master/4979.jpg?width=140&quality=85&auto=format&fit=max&s=60590f628cee503ddf06974dec085637",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "c2ff9b53f10a"
     },
     {
@@ -393,21 +458,8 @@
       "publishedAt": "2026-08-11T10:00:56.000Z",
       "image": "https://i.guim.co.uk/img/media/7fafe72e791f1cef8766e3c4cee46890ac54aa69/1_0_3445_2756/master/3445.jpg?width=140&quality=85&auto=format&fit=max&s=93c245d55b0c7f11a87edcbfb40d0071",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "1b41751a2aed"
-    },
-    {
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "美洲",
-      "publishedAt": "2026-08-11T10:00:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60c/live/ae01a660-94f8-11f1-9181-85140b8ce01b.jpg",
-      "topic": "社会",
-      "score": 79,
-      "id": "dafc1ebecc31"
     },
     {
       "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
@@ -419,7 +471,7 @@
       "publishedAt": "2026-08-11T09:47:53.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "ac245b4f20bd"
     },
     {
@@ -432,21 +484,8 @@
       "publishedAt": "2026-08-11T09:43:11.000Z",
       "image": "",
       "topic": "科技",
-      "score": 79,
+      "score": 78,
       "id": "d50349c04c25"
-    },
-    {
-      "title": "Burnham rough-sleeper pledge at risk from failures in housing ex-prisoners, charity warns",
-      "summary": "Analysis finds nearly one in six people leaving jail last year in England and Wales were released into homelessness Andy Burnham’s pledge to end rough sleeping in England is under threat from a failure to find accommodation for a growing number of newly released prisoners, a charity has said. An analysis by the social justice charity Nacro has found that nea",
-      "url": "https://www.theguardian.com/society/2026/aug/11/andy-burnham-rough-sleeping-housing-released-prisoners",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-11T09:41:59.000Z",
-      "image": "https://i.guim.co.uk/img/media/275e253794d806f831159a4128ef5cf8810460d5/599_458_5219_4175/master/5219.jpg?width=140&quality=85&auto=format&fit=max&s=c60acee7241dca48febfe0883ad76f09",
-      "topic": "政治",
-      "score": 79,
-      "id": "4c758c52bdd6"
     },
     {
       "title": "Colombia quake: Frantic search for survivors as over 2,700 reported missing",
@@ -458,8 +497,21 @@
       "publishedAt": "2026-08-11T09:41:26.000Z",
       "image": "",
       "topic": "气候",
-      "score": 79,
+      "score": 78,
       "id": "aab4ae67d356"
+    },
+    {
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "美洲",
+      "publishedAt": "2026-08-11T10:00:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60c/live/ae01a660-94f8-11f1-9181-85140b8ce01b.jpg",
+      "topic": "社会",
+      "score": 77,
+      "id": "dafc1ebecc31"
     },
     {
       "title": "Cats confirm Kolodjashnij unavailable to play amid concussion waiver saga",
@@ -471,21 +523,8 @@
       "publishedAt": "2026-08-11T09:24:22.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/a715343a2d5756156af536cc4562e5e4?impolicy=wcms_crop_resize&cropH=2067&cropW=3674&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "7e1e78278278"
-    },
-    {
-      "title": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
-      "summary": "The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.",
-      "url": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-11T06:05:07.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 78,
-      "id": "3247ff4c42e9"
     },
     {
       "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
@@ -497,8 +536,60 @@
       "publishedAt": "2026-08-11T05:48:27.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "a0d0117bae8e"
+    },
+    {
+      "title": "Southern Lebanon: Israeli strikes wound two, hit ambulance - Shafaq News | Latest breaking news in Iraq and the world",
+      "summary": "Southern Lebanon: Israeli strikes wound two, hit ambulance - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWFKT19fcGZfT09uZWJlaDFfdDRoNlpIVmJPS004a09UQ0xTUkNPbHRyOHBXWk1lbnd6alR3cms3UUh1MzhRLWtLRm5HUWVCSUE5SDRpeWEzTXFjeGhJajZHMzJHTWlDMUU5VDdzTHZybUNySktUUWt5QlVlM1NOaERpMGF2VlMyR2VVSDNDelZYUEFQ?oc=5",
+      "source": "شفق نيوز",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-11T11:48:19.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "081ef14363c0"
+    },
+    {
+      "title": "EXPLAINER - Cook Islands election emerges as test of China-West rivalry in Pacific",
+      "summary": "EXPLAINER - Cook Islands election emerges as test of China-West rivalry in Pacific &nbsp;&nbsp; Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ2xIODBocERKc0FxbmRYRklKZER3QkZuclQwUmFiaklZZHQxOXZnYlpHWFBKVU9FY1hZVUJPT2g1ei1yR1hPb2N5MWltRE9VekhOZ3cySHFoVGVNeGlDUGg4cFdxbXhtYkRCQ2pFbDV4Zlp2aHdxajNWdGFLVlZOYnpmZHd5WWU5LUxGZ2VPU3pqNE45SE5MR0dpQ21RWHFTSERkV0hOVU9ab3NuVl9oV2g2YWNtQVVqTkpYeW1aZFM0Q0pK?oc=5",
+      "source": "Anadolu Ajansı",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-11T11:26:40.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 76,
+      "id": "b555eb4d119d"
+    },
+    {
+      "title": "Iranian-backed Houthi rebels renew attacks on key port, and other developments in the Mideast",
+      "summary": "Iranian-backed Houthi rebels renew attacks on key port, and other developments in the Mideast &nbsp;&nbsp; KTVN",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOLVRTdDJaZVNTM1ZPZVB0cDFyNk9nRDlkOVhSUnI2SWdCRDZna1AzbHNScW1aSUtkUnl5YjB0aHYzMkpRV3hBeWtTa2Y3V0JFXzllcW02NUVrNld4RmpEYWhFd1hSUmp3R1BCSVVCM0Q0cFJmY2xSaVBVT2x3Y1laQ3h3MkFVeS1UUjVzWWpFRUptS2RfbHF3TFNzMWxTdkNYZFB5QkZIN2c0YUVqQnIwWFlKa1F1TFFYdUVyY3JwMERrMGRRLUhQbXVXU2NzUHRNb3hvVVU1eEhvVXk4YUJ0Q1ZBZjE2UXQtQi1iS2pHOHB5eUpfc1RyWXdwTmhuSkRhbTFYNkNvT194UQ?oc=5",
+      "source": "KTVN",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-11T11:24:18.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "6b802eeaaed2"
+    },
+    {
+      "title": "Boipatong residents hopeful elections will bring about change",
+      "summary": "Boipatong residents hopeful elections will bring about change &nbsp;&nbsp; sabcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNczdLcHZKaU5sS0NCWE9qWVRUb09TT2g5WXQxX0JtMFdnTFFWU0tEelZRdndfTldXbUNGbkw1N2R2N0dmUGZNaGdKTWdaXzhXTDJEcWJoOXBMSVFib0FOLW4yb1FxdG45dGFaNnllb0h5dGZtWXhWemh5SlgyU2gwd3FKc1d3cmFDczJneDZSRjlMTFVh?oc=5",
+      "source": "sabcnews.com",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-11T11:18:01.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 76,
+      "id": "dbbe44d72752"
     },
     {
       "title": "Rescue efforts intensify as quake devastates western Colombia towns",
@@ -510,7 +601,7 @@
       "publishedAt": "2026-08-11T08:47:34.000Z",
       "image": "",
       "topic": "气候",
-      "score": 77,
+      "score": 76,
       "id": "1b265ea8711b"
     },
     {
@@ -523,7 +614,7 @@
       "publishedAt": "2026-08-11T08:42:58.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1f389968b1dfcc5cb0259c62847c5698?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "4f8a72c6c18e"
     },
     {
@@ -536,7 +627,7 @@
       "publishedAt": "2026-08-11T08:39:14.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "e89572429976"
     },
     {
@@ -549,7 +640,7 @@
       "publishedAt": "2026-08-11T08:38:11.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/945486c9f1c61b5591420f86f5d54844?impolicy=wcms_crop_resize&cropH=485&cropW=862&xPos=0&yPos=0&width=862&height=485",
       "topic": "科技",
-      "score": 77,
+      "score": 76,
       "id": "0f851aece75d"
     },
     {
@@ -562,7 +653,7 @@
       "publishedAt": "2026-08-11T08:31:41.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "282cfd1d2d46"
     },
     {
@@ -575,7 +666,7 @@
       "publishedAt": "2026-08-11T08:27:57.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "d38f5d9b9bd9"
     },
     {
@@ -588,7 +679,7 @@
       "publishedAt": "2026-08-11T08:20:27.000Z",
       "image": "https://i.guim.co.uk/img/media/61be4ba64b0ffa390e91a150366ad82f748bdc68/248_0_4855_3884/master/4855.jpg?width=140&quality=85&auto=format&fit=max&s=98e48f71d04dd1c5d9fd4029fd037042",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "671e274b318b"
     },
     {
@@ -601,21 +692,8 @@
       "publishedAt": "2026-08-11T08:13:31.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "107bf9b8ca7e"
-    },
-    {
-      "title": "What is the US spending all their war money on?",
-      "summary": "Why is the US Pentagon asking for more money for the war on Iran?",
-      "url": "https://www.aljazeera.com/video/money-works/2026/8/11/what-is-the-us-spending-all-their-war-money-on?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-11T08:04:59.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 77,
-      "id": "5f7269f86ed4"
     },
     {
       "title": "Fourteen illegal miners killed in rockfall as South Africa's deadly 'zama zama' crisis continues",
@@ -627,38 +705,77 @@
       "publishedAt": "2026-08-11T08:01:57.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "6ef7c4344557"
     },
     {
-      "title": "Colombia searches for missing after powerful earthquake kills at least 111",
-      "summary": "Colombia searches for missing after powerful earthquake kills at least 111 &nbsp;&nbsp; BreakingNews.ie",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ1Y2R0w4bC1PNjJWY3NhZ1FvcjNXNnNQTUtWNjNBQXZSTjFIaDRRMXdHSGhLbTZndHBHcDM1VjhDRzFjRGpua184ZFcyXzRxRlVFcXNUUUVXUGd5ajZMSV9PSU5XdE45QXl2bjNILTMyY1dvTXd6R2dFdDZOd25BM2xjV2F4ckthWkI2OWdtN005Z0ZtT3NZSnVPREJRazB5R0V3Ri13dGxybm5mSlkwVVF6YXpPNW1DS1ljUVFn?oc=5",
-      "source": "BreakingNews.ie",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-11T05:02:33.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 77,
-      "id": "5ddd2320041e"
+      "title": "Spanish foreign minister says ‘every last person’ will be returned to Morocco, urging migrants to ‘not risk lives again’ – Europe live",
+      "summary": "José Manuel Albares visited Ceuta earlier as he insisted that Madrid had it all under control Spanish foreign minister José Manuel Albares visited Ceuta earlier today, as he insisted that Madrid had it all under control despite “the most unique and complex” border arrangements there. He said Spain was in direct dialogue with the Moroccan authorities on how t",
+      "url": "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-11T11:34:20.000Z",
+      "image": "https://i.guim.co.uk/img/media/762c4e27b37244ec11a6983c789013b8ed0e5063/2693_791_2821_2257/master/2821.jpg?width=140&quality=85&auto=format&fit=max&s=3b3a465bcc7b13164e19cb101d96b786",
+      "topic": "政治",
+      "score": 75,
+      "id": "6b085463a3f7"
     },
     {
-      "title": "Andy Burnham says he’s ‘increasingly confident’ early release of PC Harper killers can be prevented - UK politics live",
-      "summary": "The prime minister says other work to reduce prisoner numbers could allow for more space for serious offenders Andy Burnham has said that in an ideal world he would not want to see “a single prisoner” released early. Speaking to reporters on a visit in Derbyshire, he also said that his decision to order the justice secretary to look again for a means of excl",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/11/andy-burnham-labour-prisoner-release-scheme-councils-conservatives-kemi-badenoch-reform-nigel-farage-uk-politics-live-news",
+      "title": "Future of southern Lebanon peacekeeping uncertain ahead of UNIFIL phase-out",
+      "summary": "Future peacekeeping missions may shrink significantly, risking security gaps, as political solutions remain elusive.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-11T11:28:53.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "d8bf9204a500"
+    },
+    {
+      "title": "Baby among those rescued as hundreds feared missing after Colombia quake",
+      "summary": "A 7.4-magnitude quake devastated western Colombia, killing 132, destroying buildings and leaving hundreds missing.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/baby-among-those-rescued-as-hundreds-feared-missing-after-colombia-quake?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-11T11:26:18.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "17aebd05f410"
+    },
+    {
+      "title": "Marco Jansen's Twin Brother Duan Earns Maiden South Africa Call-Up For Namibia Tour",
+      "summary": "Marco Jansen's Twin Brother Duan Earns Maiden South Africa Call-Up For Namibia Tour &nbsp;&nbsp; News18",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWmpqS2M0czZORndaMzk5NnNPeGx6blhQa05oa2stWkJjM0xJZjRsNWJpUWhqY05vWUVWcEVXczdBT2p4MmIxTDFzX25GeExtTnJyMVVBVl9Wc1lPbW10UDBJZ091QVI2aEh3SVRCcmRiS0FjbkNDVGZFWVRSWG1qNkNHYkR1MjdsaHBUZ29qNkFkdXBmeXFWSVd3NXFvYUJYcXpQbDhKb2FGbzZiTnhGUEhiQVBiTTNXWk5MZUtlSlM5OEVIZmgtdFd4NNIBywFBVV95cUxNWmpqS2M0czZORndaMzk5NnNPeGx6blhQa05oa2stWkJjM0xJZjRsNWJpUWhqY05vWUVWcEVXczdBT2p4MmIxTDFzX25GeExtTnJyMVVBVl9Wc1lPbW10UDBJZ091QVI2aEh3SVRCcmRiS0FjbkNDVGZFWVRSWG1qNkNHYkR1MjdsaHBUZ29qNkFkdXBmeXFWSVd3NXFvYUJYcXpQbDhKb2FGbzZiTnhGUEhiQVBiTTNXWk5MZUtlSlM5OEVIZmgtdFd4NA?oc=5",
+      "source": "News18",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-11T11:15:42.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "e32d6e3cfe37"
+    },
+    {
+      "title": "Burnham ‘increasingly confident’ PC Harper’s killers will not get early release",
+      "summary": "Prime minister says he has asked justice secretary to push through measures to increase the number of prison places Andy Burnham has said he is increasingly confident he can adapt the early release scheme for prisoners to exclude the killers of PC Andrew Harper and other serious offenders, saying he understood and shared the public’s concern about their pote",
+      "url": "https://www.theguardian.com/politics/2026/aug/11/andy-burnham-justice-secretary-early-release-scheme-pc-andrew-harper-killers",
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "全球",
-      "publishedAt": "2026-08-11T10:53:18.000Z",
-      "image": "https://i.guim.co.uk/img/media/54682724d0a29b41bfb9ede71e8749007a8ee70d/790_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=e5b8f781e35f80d85d46266ba47a95a1",
+      "publishedAt": "2026-08-11T11:09:37.000Z",
+      "image": "https://i.guim.co.uk/img/media/e162c848ca4ab13f79a77d791fd2d07c1d0af11a/263_0_3086_2468/master/3086.jpg?width=140&quality=85&auto=format&fit=max&s=a5ab7e3f3e9fcddacddf9e189f2c2103",
       "topic": "政治",
-      "score": 76,
-      "id": "65c9aee85873"
+      "score": 75,
+      "id": "991990b24499"
     },
     {
       "title": "Hotel prices in Europe jump before total solar eclipse",
-      "summary": "Rooms in Icelandic capital Reykjavík cost double usual rate, with Spain also enjoying strong bookings Europe’s total solar eclipse: the best place to see it Hotel prices have surged in key European cities, as hundreds of thousands of tourists flock to see the first total eclipse visible from the continent this century. Iceland’s capital Reykjavík has seen on",
+      "summary": "Rooms in Icelandic capital Reykjavík cost double usual rate and Spain also enjoying strong bookings Europe’s total solar eclipse: the best place to see it Hotel prices have surged in key European cities as hundreds of thousands of tourists flock to see the first total eclipse visible from the continent this century. Iceland’s capital, Reykjavík, has seen one",
       "url": "https://www.theguardian.com/travel/2026/aug/11/hotel-prices-europe-total-solar-eclipse-iceland-spain-bookings",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -666,7 +783,7 @@
       "publishedAt": "2026-08-11T10:50:12.000Z",
       "image": "https://i.guim.co.uk/img/media/f9d3f771537010f1ecdf34843284a595c0922bd9/304_0_4171_3337/master/4171.jpg?width=140&quality=85&auto=format&fit=max&s=04e5d27c5a227edb3a2313891dfc0d31",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "fffca8bf8fdb"
     },
     {
@@ -679,34 +796,21 @@
       "publishedAt": "2026-08-11T07:39:11.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/18ada42848c0e386ae36cf7b5a36f312?impolicy=wcms_crop_resize&cropH=584&cropW=1038&xPos=0&yPos=137&width=862&height=485",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "897e1c2201ce"
     },
     {
-      "title": "Trump demands Iran pay compensation after Tehran makes conditions for reopening Strait of Hormuz",
-      "summary": "Trump demands Iran pay compensation after Tehran makes conditions for reopening Strait of Hormuz &nbsp;&nbsp; cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeVR5TzZOblVGaldmaERTUlk2Sk5XSEhfYWNiTWMyRVhwNXdZamp5LVhBX2JKMTdxSlFlZHQ4WFc3Vk1OakI0VFlNMThrS3ZPdzB6LUxCSThSSmtvbW5ISkJYSWN3WUNDaTFUTXl1QnFoXzlCV3UtdW9CNjJodTc2VGhWTG0?oc=5",
-      "source": "cbsnews.com",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-11T10:19:58.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "bd20f719588a"
-    },
-    {
-      "title": "Sussan Ley took America's 'road to nowhere', it helped her find herself again",
+      "title": "'Incredible disconnection': What Sussan Ley saw in the US shocked her",
       "summary": "Sussan Ley left Australia after being ousted as Coalition leader. Her trip to the US saw her find an enhanced pride in the success of Australian multiculturalism.",
       "url": "https://www.abc.net.au/news/2026-08-11/sussan-ley-finds-herself-us-trip-amongst-downtrodden/107025488",
       "source": "ABC Australia",
       "feed": "ABC Australia",
-      "region": "美洲",
+      "region": "大洋洲",
       "publishedAt": "2026-08-11T10:06:55.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d27ac6ce3b8a468b6c33b1ce71d38e69?impolicy=wcms_crop_resize&cropH=675&cropW=1200&xPos=0&yPos=471&width=862&height=485",
       "topic": "社会",
-      "score": 75,
-      "id": "620617bbd83e"
+      "score": 74,
+      "id": "eba7b21117f9"
     },
     {
       "title": "Bangladesh and India battle to save cricket series after political turmoil",
@@ -718,7 +822,7 @@
       "publishedAt": "2026-08-11T10:02:35.000Z",
       "image": "",
       "topic": "经济",
-      "score": 75,
+      "score": 74,
       "id": "897efd51ead4"
     },
     {
@@ -731,73 +835,8 @@
       "publishedAt": "2026-08-11T10:00:58.000Z",
       "image": "https://i.guim.co.uk/img/media/ecb2fd7d8643da44a89a07d3646d14474d201aac/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5a7557b7c524f1f34190eb0f398d2feb",
       "topic": "气候",
-      "score": 75,
-      "id": "404374c54074"
-    },
-    {
-      "title": "UN: Israeli attacks in Gaza continue to put civilians at risk",
-      "summary": "UN: Israeli attacks in Gaza continue to put civilians at risk &nbsp;&nbsp; Middle East Monitor",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0lLV2xubkRxSWRobnR3NXk2M004Z2ZDSHRuX29rOHJheWtQbEJWd2wyd2V5MFVaX21UY1BZb0diUVRDc1Z4VHVPZVpkcEZmb25GY2RQTmpteEw3VHdieHliTGROSElTRkhqRTdQRXZKQURDQllBMS1JLXlQYkxJUG13VXpnX3lUM3BfY1RqbUNOLUFpV3RMZ3dDS3ZDMUhXWW16Y3hDRWRvV3Mx0gGsAUFVX3lxTE5PSUtXbG5uRHFJZGhudHc1eTYzTThnZkNIdG5fb2s4cmF5a1BsQlZ3bDJ3ZXkwVVpfbVRjUFlvR2JRVENzVnhUdU9lWmRwRmZvbkZjZFBOam14TDdUd2J4eWJMZE5ISVNGSGpFN1BFdkpBRENCWUExLUkteVBiTElQbXdVemdfeVQzcF9jVGptQ04tQWlXdExnd0NLdkMxSFdZbXpjeENFZG9XczE?oc=5",
-      "source": "Middle East Monitor",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-11T09:51:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "7594757c3899"
-    },
-    {
-      "title": "Why Latin America Is A Hotspot For Deadly Earthquakes",
-      "summary": "Why Latin America Is A Hotspot For Deadly Earthquakes &nbsp;&nbsp; Outlook India",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQk5ZdmFUdG9RTW5OeWZRZWNqcVBZTEExdzBMaVo1NGZDVnRLMkxWOVl4OEcyVW01OXhhWDQ5TWtRelZkUlJhX2JLOF9GbktncEJhS0RYN3RYSE9odEx2R2VVRE4zSExpTHpCS2h5MzBNVXJVaWVZZmRhNnNzUWhwWWFLZmdid0sxWlZ2U2Y5LVR2TWFJZ3RiSUZTb0fSAaoBQVVfeXFMTTU2WFhjZVJGYUhmTHpzUHRfS3JVaU53eDA2TlVxSFkwUGtCd1dWRFU3ZFdnODNXSGlkWUxZOVhTLTNvNWwtX3RVUFVRRzBVbHpHdlpYX2h5aEVENnRodks4bVB1dWtFVnhweUV5SEFibEVubVRUQTJUc0hzWFZhc3hPbEJMYjZkdTZZUjNNS1JfWTl6RHFoZFU0UlVSMFp6NklfZ25hZTBCcWc?oc=5",
-      "source": "Outlook India",
-      "feed": "Latin America News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-11T09:38:26.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 75,
-      "id": "301356f5c156"
-    },
-    {
-      "title": "Donald Trump says replacing Gianni Infantino would be a ‘terrible mistake’",
-      "summary": "Trump's comments are the first time he has spoken in FIFA president's defence since FFE plans were leaked on July 28.",
-      "url": "https://www.aljazeera.com/sports/2026/8/11/donald-trump-says-replacing-gianni-infantino-would-be-a-terrible-mistake?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-11T07:13:29.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "dea77f29bda0"
-    },
-    {
-      "title": "Trump demands Iran pay compensation for decades of US soldier deaths",
-      "summary": "US president’s statement is latest sign that negotations to end war and reopen strait of Hormuz have stalled Donald Trump has said he will demand that Iran pay compensation for the deaths of thousands of US soldiers and Iran’s own civilians killed in recent decades in the latest sign his negotiations to end the war and reopen the strait of Hormuz have reache",
-      "url": "https://www.theguardian.com/world/2026/aug/10/trump-demands-iran-pay-compensation-for-decades-of-us-soldier-deaths",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-10T20:45:52.000Z",
-      "image": "https://i.guim.co.uk/img/media/3569dec9cee41843292d1bd0fc9a412b89d6e8db/813_724_4096_3276/master/4096.jpg?width=140&quality=85&auto=format&fit=max&s=7711ca52b661d238011192af3e3a6434",
-      "topic": "政治",
-      "score": 75,
-      "id": "4a6acd494d55"
-    },
-    {
-      "title": "Burnham ‘increasingly confident’ PC Harper’s killers will not get early release",
-      "summary": "Prime minister says he has asked justice secretary to push through measures to increase the number of prison places Andy Burnham has said he is increasingly confident he can adapt the early release scheme for prisoners to exclude the killers of PC Andrew Harper and other serious offenders, saying he understood and shared the public’s concern about their pote",
-      "url": "https://www.theguardian.com/politics/2026/aug/11/andy-burnham-justice-secretary-early-release-scheme-pc-andrew-harper-killers",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-11T09:57:04.000Z",
-      "image": "https://i.guim.co.uk/img/media/e162c848ca4ab13f79a77d791fd2d07c1d0af11a/263_0_3086_2468/master/3086.jpg?width=140&quality=85&auto=format&fit=max&s=a5ab7e3f3e9fcddacddf9e189f2c2103",
-      "topic": "政治",
       "score": 74,
-      "id": "991990b24499"
+      "id": "404374c54074"
     },
     {
       "title": "The Global South’s digital future must not belong to Bezos and Musk",
@@ -809,8 +848,34 @@
       "publishedAt": "2026-08-11T09:52:01.000Z",
       "image": "",
       "topic": "经济",
-      "score": 74,
+      "score": 73,
       "id": "1ad27d006a4b"
+    },
+    {
+      "title": "Who Is Duan Jansen? South Africa All-Rounder’s Twin Brother Picked For Proteas Tour Of Namibia",
+      "summary": "Who Is Duan Jansen? South Africa All-Rounder’s Twin Brother Picked For Proteas Tour Of Namibia &nbsp;&nbsp; NewsX",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeFlTZF8yckVrY25jZGI0VWFYT3B1RmtCRm9lMFRmSkZ3Vm02cVpvRkF3UHkycEdLOTlsV3lyTWNITFVUZW54N2VUcXgtWFRZMm96SVlEWUlXa3NrcWNtYmdSQzR2VXB5Z2ZrNDEwRW9DTnVJWHZWSlVhMm44cnNjN3MtRVRQeFA3dC1qQXppaEw2dnlGT3Mybk8zYzRWOEVmLVhDaHo5OW4ybkpOMTV1OTBNVmZmM3FfcUxVSXMydG9HV2Q5czY2d3g3WXpmd9IBzgFBVV95cUxPeFlTZF8yckVrY25jZGI0VWFYT3B1RmtCRm9lMFRmSkZ3Vm02cVpvRkF3UHkycEdLOTlsV3lyTWNITFVUZW54N2VUcXgtWFRZMm96SVlEWUlXa3NrcWNtYmdSQzR2VXB5Z2ZrNDEwRW9DTnVJWHZWSlVhMm44cnNjN3MtRVRQeFA3dC1qQXppaEw2dnlGT3Mybk8zYzRWOEVmLVhDaHo5OW4ybkpOMTV1OTBNVmZmM3FfcUxVSXMydG9HV2Q5czY2d3g3WXpmdw?oc=5",
+      "source": "NewsX",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-11T09:46:27.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 73,
+      "id": "c4406c07df73"
+    },
+    {
+      "title": "Early prisoner releases mean pledge to cut rough sleeping ‘may fail’",
+      "summary": "Charity says government must focus on securing housing for ex-prisoners if Burnham is to meet rough-sleeping promise • UK politics live – latest updates Andy Burnham’s pledge to end rough sleeping in England is under threat from a failure to find accommodation for a growing number of newly released prisoners, a charity has said. An analysis by the social jus",
+      "url": "https://www.theguardian.com/society/2026/aug/11/andy-burnham-rough-sleeping-housing-released-prisoners",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-11T09:41:59.000Z",
+      "image": "https://i.guim.co.uk/img/media/275e253794d806f831159a4128ef5cf8810460d5/599_458_5219_4175/master/5219.jpg?width=140&quality=85&auto=format&fit=max&s=c60acee7241dca48febfe0883ad76f09",
+      "topic": "政治",
+      "score": 73,
+      "id": "e030770fbcde"
     },
     {
       "title": "At least 14 artisanal miners found dead at a disused mine in South Africa, police say - ABC News",
@@ -822,7 +887,7 @@
       "publishedAt": "2026-08-11T09:12:39.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "c2b33af0b186"
     },
     {
@@ -835,21 +900,21 @@
       "publishedAt": "2026-08-11T09:10:10.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "301e690102b9"
     },
     {
-      "title": "Sri Lanka Latest Breaking News and Headlines - Print Edition Asia joins Europe against football chief’s ‘deception’ - Daily Mirror",
-      "summary": "Sri Lanka Latest Breaking News and Headlines - Print Edition Asia joins Europe against football chief’s ‘deception’ &nbsp;&nbsp; Daily Mirror - Sri Lanka",
+      "title": "Sri Lanka Latest Breaking News and Headlines - Print Edition Asia joins Europe against football chief’s ‘deception’",
+      "summary": "Sri Lanka Latest Breaking News and Headlines - Print Edition Asia joins Europe against football chief’s ‘deception’ &nbsp;&nbsp; dailymirror.lk",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaW5VbE14R0d5RzhjdllpU09PZWxrMnpyWnlNdjgyd09fcl90SUxzSUdzRmZVcU5OeGRPWTlNS2hJX1B5T0FWSU1xel9Qa1RZQWVRNkV1RHdPMElPZmplMDZxbjBQM1FZRmxMX3puT1Z3MGIzTzFlbUg2Vk1QQVkxZTNTN2hqd05MaXY4WnVRelRYTDN4bUYySnZydnZRdWFHOUVzbA?oc=5",
-      "source": "Sri Lanka",
+      "source": "dailymirror.lk",
       "feed": "Asia News Network",
       "region": "亚洲",
       "publishedAt": "2026-08-11T08:56:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
-      "id": "afbc9de835f7"
+      "score": 73,
+      "id": "25dc7282e60d"
     },
     {
       "title": "Trump signs order to reduce childhood vaccines and break up MMR shots",
@@ -861,7 +926,7 @@
       "publishedAt": "2026-08-11T06:09:34.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/41baf56331396a326de3118007e7e573?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "b5b9df6a2790"
     },
     {
@@ -874,73 +939,8 @@
       "publishedAt": "2026-08-11T06:06:45.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/79e90dc654e03c63ea234f46a023de60?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "2e2d676d9a68"
-    },
-    {
-      "title": "Alleged 2007 murder at Adelaide party involved 'payback', court told",
-      "summary": "A man standing trial for an alleged stabbing murder at a party in Adelaide's north in 2007 did not inflict the fatal wound but was among a group of four men accused of murdering the victim, a court hears.",
-      "url": "https://www.abc.net.au/news/2026-08-11/kimlong-rim-goes-on-trial-for-alleged-murder-of-thea-kheav/107024530",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T08:49:42.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/a6472514df3669461bfe4a5a76ac36aa?impolicy=wcms_crop_resize&cropH=387&cropW=687&xPos=178&yPos=48&width=862&height=485",
-      "topic": "政治",
-      "score": 73,
-      "id": "af6fd6c6d15d"
-    },
-    {
-      "title": "Swiatek to face Svitolina in Canadian Open semifinal",
-      "summary": "Former world no 1 Iga Swiatek cruised past Diana Shnaider to set up a clash with Elina Svitolina in Toronto.",
-      "url": "https://www.aljazeera.com/sports/2026/8/11/swiatek-to-face-svitolina-in-canadian-open-semifinals-toronto?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-11T08:47:07.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "de2d0d7a75f4"
-    },
-    {
-      "title": "Man tells jury he saw farmer accused of triple murder shoot family",
-      "summary": "The trial of a Queensland cattle farmer accused of a triple murder has heard from a man who says he witnessed the shooting and survived a gunshot himself.",
-      "url": "https://www.abc.net.au/news/2026-08-11/bogie-triple-murder-trial-ross-tighe-shooting-qld-trial/107023536",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T08:44:53.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/7c8e197c186313c6c50c9638ebe4ae17?impolicy=wcms_crop_resize&cropH=348&cropW=618&xPos=0&yPos=99&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "ad5c7865e410"
-    },
-    {
-      "title": "Veteran Manly prop Nathan Brown outlines NRL exit plan",
-      "summary": "Former NSW State of Origin prop Nathan Brown reveals he has long intended to make 2026 his last season in the NRL, as he eyes off a finals exit at Manly.",
-      "url": "https://www.abc.net.au/news/2026-08-11/veteran-prop-nathan-brown-outlines-nrl-exit-plan/107025646",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-11T08:38:23.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d2b5286666d9ca497ef5c88dbdb6adc3?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "80f3340f1852"
-    },
-    {
-      "title": "China missile test puts Pacific’s ‘Ocean of Peace’ vision under pressure",
-      "summary": "China missile test puts Pacific’s ‘Ocean of Peace’ vision under pressure &nbsp;&nbsp; Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNblNfQm96YUlsYVlhN250V2xicXJ3REJLQk5RcElra2FFeUltTVptb2VmcnNwSDEyY295aVdMMXNUUFJBLXo3dUR4R0RKczJsYWJYYmZ0M1VUd25TSHBPRzE3OGVqd0FxSVRzN2dJUGc3R24xVWw2YW1DTlNQQVNZWmtLV2hQb3BiaTI0aDJwaVRNTnF1VVpMNzlhMGRnNGxMOFBhdGdBOUQ0Wndka1VkLThsMTA5d9IBuwFBVV95cUxNNmtvem51aEd0QXhxeFpxbUlDSW1mSWtRTEpkaWtzMXY3b0NiTnRaQl9WbzZVZEE0V3p4cnBZVEV2WDBRbWdwY3I4cW04UlRKVzNsdFFDeEU5RWxveTZyb2dDaWdlMnczYzA3b3gxNzdOSEZuNS1wdWZVS2dnMnBZOFNxejh0c2NOajNxUFRoOXdNTmZ5eTkycE5NcS1LME41WHEwU1pEbmlyX1JSblBoaUpjS1Vnd1BLa0Nr?oc=5",
-      "source": "Firstpost",
-      "feed": "Pacific News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-11T08:35:54.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "098f63bd13c4"
     }
   ]
 }
