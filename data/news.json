@@ -1,24 +1,11 @@
 {
-  "updatedAt": "2026-08-12T16:14:07.048Z",
+  "updatedAt": "2026-08-12T17:16:36.863Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
-    {
-      "title": "USS Abraham Lincoln sailors tried to jump overboard amid extended deployment – reports",
-      "summary": "Aircraft carrier’s crew in ninth month at sea and has spent record 250 days consecutively without making land Military families and Congress members are sounding the alarm about an intensifying mental health crisis onboard the USS Abraham Lincoln, as its 5,000 sailors and marines endure a record-breaking deployment at sea tied to the war with Iran. Two leadi",
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/uss-abraham-lincoln-overboard-extended-deployment",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-12T15:37:16.000Z",
-      "image": "https://i.guim.co.uk/img/media/56e122503dac04f5e60a5fc9de36923be558c49b/522_415_2109_1687/master/2109.jpg?width=140&quality=85&auto=format&fit=max&s=6a5ee6da26c089046b20517ee7dd84a4",
-      "topic": "政治",
-      "score": 93,
-      "id": "dc3625f1273e"
-    },
     {
       "title": "Europe prepares for first total solar eclipse in 27 years",
       "summary": "Europe is gearing up for its first total solar eclipse in 27 years.",
@@ -29,21 +16,8 @@
       "publishedAt": "2026-08-12T15:40:24.000Z",
       "image": "",
       "topic": "社会",
-      "score": 91,
+      "score": 90,
       "id": "3e6b15dfb94b"
-    },
-    {
-      "title": "Victorian police investigate allegation a car drove deliberately at speed towards anti-racism protester",
-      "summary": "Exclusive: ‘Peaceful community rally’ of more than 150 people was walking in Broadmeadows when car travelling in same direction allegedly approached Get our breaking news email , free app or daily news podcast Victorian police are investigating allegations that a car was deliberately driven at speed towards a protester taking part in an anti-racism rally in ",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/13/anti-racism-protest-melbourne-car-police-response-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-12T15:00:33.000Z",
-      "image": "https://i.guim.co.uk/img/media/48aa9fc6bb471e009cb16ecc5ce1b19d30635f33/13_52_1285_1028/master/1285.jpg?width=140&quality=85&auto=format&fit=max&s=e8d2dfeea730d850427587eb75d092ad",
-      "topic": "政治",
-      "score": 88,
-      "id": "f73b58e3ee7e"
     },
     {
       "title": "Lebanon becomes first Middle East country to end death penalty",
@@ -55,8 +29,21 @@
       "publishedAt": "2026-08-12T15:24:50.000Z",
       "image": "",
       "topic": "社会",
-      "score": 87,
+      "score": 86,
       "id": "cb33635e84dc"
+    },
+    {
+      "title": "Victorian police investigate allegation a car drove deliberately at speed towards anti-racism protester",
+      "summary": "Exclusive: ‘Peaceful community rally’ of more than 150 people was walking in Broadmeadows when car travelling in same direction allegedly approached Get our breaking news email , free app or daily news podcast Victorian police are investigating allegations that a car was deliberately driven at speed towards a protester taking part in an anti-racism rally in ",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/13/anti-racism-protest-melbourne-car-police-response-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-12T15:00:33.000Z",
+      "image": "https://i.guim.co.uk/img/media/48aa9fc6bb471e009cb16ecc5ce1b19d30635f33/13_52_1285_1028/master/1285.jpg?width=140&quality=85&auto=format&fit=max&s=e8d2dfeea730d850427587eb75d092ad",
+      "topic": "政治",
+      "score": 86,
+      "id": "f73b58e3ee7e"
     },
     {
       "title": "Rare solar eclipse to sweep across Europe and the Arctic",
@@ -68,21 +55,8 @@
       "publishedAt": "2026-08-12T12:33:09.000Z",
       "image": "",
       "topic": "社会",
-      "score": 87,
+      "score": 86,
       "id": "75a552d6f3b1"
-    },
-    {
-      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-08-12T15:57:18.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ce/live/3ac23d60-9659-11f1-b2ab-0dd01740f9f6.jpg",
-      "topic": "政治",
-      "score": 84,
-      "id": "f6aa7c8e3c47"
     },
     {
       "title": "Cooper warns NHS must prepare for regular heatwaves as Burnham holds emergency Cobra meeting – UK politics live",
@@ -91,24 +65,24 @@
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "全球",
-      "publishedAt": "2026-08-12T15:50:14.000Z",
+      "publishedAt": "2026-08-12T17:11:28.000Z",
       "image": "https://i.guim.co.uk/img/media/c2f9e0bf01220dbe9da4dc398a30387fa7517303/276_0_4525_3620/master/4525.jpg?width=140&quality=85&auto=format&fit=max&s=f92855a51a7f114a0bc48ccf010c9979",
       "topic": "气候",
-      "score": 84,
+      "score": 85,
       "id": "fa366d8ace72"
     },
     {
-      "title": "David Crowley vows to earn support from progressives after winning messy Democratic primary for Wisconsin governor – live",
-      "summary": "David Crowley speaks after accepting Democratic nomination for Wisconsin governor; progressive Francesca Hong had led polls by a large margin in election lead-up David Crowley wins Wisconsin Democratic primary for governor Key takeaways from primary night Sign up for the Breaking News US email Core inflation, which measures prices without volatile goods like",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-12T15:46:07.000Z",
-      "image": "https://i.guim.co.uk/img/media/cbcf8dada59a7a019432856fc51c1bf51659cb70/2572_405_3814_3051/master/3814.jpg?width=140&quality=85&auto=format&fit=max&s=612147dd19fc68221adf3816918e0157",
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-08-12T16:34:01.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ce/live/3ac23d60-9659-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "政治",
       "score": 84,
-      "id": "39e98e8f34c8"
+      "id": "f6aa7c8e3c47"
     },
     {
       "title": "Colombia declares three days of mourning after deadly earthquake",
@@ -120,7 +94,7 @@
       "publishedAt": "2026-08-12T15:39:37.000Z",
       "image": "",
       "topic": "气候",
-      "score": 84,
+      "score": 82,
       "id": "a0cbc45c792a"
     },
     {
@@ -133,21 +107,21 @@
       "publishedAt": "2026-08-12T15:36:33.000Z",
       "image": "",
       "topic": "经济",
-      "score": 84,
+      "score": 82,
       "id": "5effa6658781"
     },
     {
       "title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast",
-      "summary": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast &nbsp;&nbsp; wgntv.com",
+      "summary": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast &nbsp;&nbsp; WGN-TV",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWk81RjB2SkZOcGdnZ3hyejRwYWtMd0ZCcHQwLUdMUVNTdmJfdVBBMS1PUmxvbkQzVm1NMDNXNTR4OU9tSFNmeEY1VHFzaHgwbXdiRGV3dDhrdXJLV0RxSTJONENPQl94R0V5WWR4VU41TFRSUy1BM1h3ZlEzZkZob3NGOGdUNmtjekdHbVliN25RNnN2a1RPcGpWRXpFY05nNmE5UFVOOTBjWXZ1cjNqQXF3SUpTZWp0S0JqYUVTc0pfRDVSa3JUNHVDY202VlBWNXN1dEc0ZG_SAd4BQVVfeXFMTUw1X1FETG9aeEdmR25pODdqWHRVSGlIbnhWYXg1QVZ0R2F4VFF1UF81T1U2QjJBSWd2RS1GTVdFYXNkRzYzVWhqeWdPNkl0Tlc4dEtOWWNHQlVsOHJrbE43TXl0eEtBWkxQRU9TUUNSdHotSGdCRG9vVUV6UWRac2lRSDFxSzFac192UzRrNGNJR3VMakZTMzBVZ1V0RHJubnJNcERvMEkzcGprQ2J3cDN6X0RfYXFpcUo5aFpOYks0RFdFMFBUS3NOWlVHWVp3amN2cllBMHZjUktELXNB?oc=5",
-      "source": "wgntv.com",
+      "source": "WGN-TV",
       "feed": "Middle East News Network",
       "region": "中东",
       "publishedAt": "2026-08-12T08:46:53.000Z",
       "image": "",
       "topic": "社会",
-      "score": 83,
-      "id": "207ca1023139"
+      "score": 82,
+      "id": "308ad3bb20b1"
     },
     {
       "title": "Why the UK faces a prisons crisis amid row over release of cop killers",
@@ -159,7 +133,7 @@
       "publishedAt": "2026-08-12T14:23:34.000Z",
       "image": "",
       "topic": "社会",
-      "score": 82,
+      "score": 81,
       "id": "1e7d2b072292"
     },
     {
@@ -172,21 +146,8 @@
       "publishedAt": "2026-08-12T13:47:14.000Z",
       "image": "",
       "topic": "社会",
-      "score": 82,
+      "score": 81,
       "id": "3f53d5abbdce"
-    },
-    {
-      "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
-      "summary": "Yesterday's primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat",
-      "url": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "中东",
-      "publishedAt": "2026-08-12T11:25:11.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 82,
-      "id": "de47761a750c"
     },
     {
       "title": "Iran war and high living costs fuelling last-minute holiday bookings, Tui says",
@@ -198,8 +159,73 @@
       "publishedAt": "2026-08-12T10:45:20.000Z",
       "image": "https://i.guim.co.uk/img/media/78d41d8881a406c4948e6c29980749b70b98e507/539_0_5389_4312/master/5389.jpg?width=140&quality=85&auto=format&fit=max&s=0d1258c8b598342e5d75373b6537df9d",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "96311a1827c8"
+    },
+    {
+      "title": "Europe solar eclipse live: millions flock to viewing spots in Spain, UK and Iceland",
+      "summary": "Eclipse to be witnessed by tens of millions across western Europe as enthusiasts gather along path of totality in Land’s End, Cornwall The roads and car parks of west and north Cornwall are clogged as people gather to watch the solar eclipse. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-12T17:10:40.000Z",
+      "image": "https://i.guim.co.uk/img/media/4d02d1f55b623f155cb2b5c387bd768f492af737/668_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=961dff2c5d9b842e3b27c2857a272537",
+      "topic": "社会",
+      "score": 80,
+      "id": "16ac53a3ad7f"
+    },
+    {
+      "title": "Francesca Hong backs David Crowley for Wisconsin governor as Democratic nominee vows to earn support from progressives – live",
+      "summary": "Progressive Francesca Hong says her campaign ‘was not about getting one person into office’; David Crowley takes on Trump-backed Tom Tiffany in November David Crowley wins Wisconsin Democratic primary for governor Key takeaways from primary night Sign up for the Breaking News US email Core inflation, which measures prices without volatile goods like food and",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-12T16:55:41.000Z",
+      "image": "https://i.guim.co.uk/img/media/75c7a7ac96c86eadf662a0d69e4fc7d221ecca6a/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=899ed181e651094610d5c3c7b15535ce",
+      "topic": "经济",
+      "score": 80,
+      "id": "ef581cf84325"
+    },
+    {
+      "title": "A huge AI datacenter is planned near Mar-a-Lago. The Everglades could pay the price",
+      "summary": "Plans for hyperscale datacenter in Palm Beach county prompt concerns over water and electricity demands About 16 miles (26km) west of the Mar-a-Lago estate on President Donald J Trump Highway, near the northern edge of the Florida Everglades, developers have proposed a hyperscale datacenter on a 202-acre (82-hectare) parcel of land surrounded by water. Local",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/datacenter-everglades-risk",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-12T16:22:54.000Z",
+      "image": "https://i.guim.co.uk/img/media/46bcdb07c387ce1354f20c90b5ca22a07649b628/8_0_2235_1789/master/2235.jpg?width=140&quality=85&auto=format&fit=max&s=f6a17990547871e32ea60411c259e0d6",
+      "topic": "政治",
+      "score": 79,
+      "id": "df3097e95dea"
+    },
+    {
+      "title": "Israel deliberately starting wildfires in southern Lebanon, firefighters say",
+      "summary": "Emergency services, residents and environmental groups say military dropping flares to destroy forests and crops Firefighters and residents of south Lebanon have accused the Israeli military of lighting wildfires in the region, as forested areas burned down in blazes sparked by Israeli bombing. Environmental groups said the fires in recent weeks were part of",
+      "url": "https://www.theguardian.com/world/2026/aug/12/israel-deliberately-starting-wildfires-in-southern-lebanon-firefighters-say",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-08-12T16:17:55.000Z",
+      "image": "https://i.guim.co.uk/img/media/768b59211b73d36e593c2a99cd68cfb928ef96fb/845_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=92c4631120ee0b8cb23a3d6b8848e2ac",
+      "topic": "气候",
+      "score": 79,
+      "id": "f8894034b0a8"
+    },
+    {
+      "title": "LA Lakers to be sold in record $12.5bn deal",
+      "summary": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-12T16:11:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/315f/live/02590670-9668-11f1-a6eb-474cf36e6c34.jpg",
+      "topic": "社会",
+      "score": 79,
+      "id": "ae558bb1a22f"
     },
     {
       "title": "After an earthquake, how long can trapped people survive? - ABC News",
@@ -211,34 +237,8 @@
       "publishedAt": "2026-08-12T15:52:41.000Z",
       "image": "",
       "topic": "气候",
-      "score": 80,
-      "id": "a2c6c44a4e7a"
-    },
-    {
-      "title": "Mike Lindell refuses to concede in Minnesota primary despite getting far fewer votes",
-      "summary": "With almost all votes counted in Republican primary for governor, Lisa Demuth is ahead by over 10% of ballots Progressive Peggy Flanagan sweeps Minnesota Senate primary in race defined by anti-ICE anger US politics live – latest updates Mike Lindell, the pillow salesman, Trump supporter and election denier, has refused to concede defeat in Minnesota’s Republ",
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/mike-lindell-refuses-concede-minnesota-primary",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-12T15:51:45.000Z",
-      "image": "https://i.guim.co.uk/img/media/f515e3826567ec5e051366d6d508634f0c3c2cff/362_0_4585_3667/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=8c36e26ccb771739a43bb2f5d7b18146",
-      "topic": "政治",
-      "score": 80,
-      "id": "126ba25c271d"
-    },
-    {
-      "title": "Europe solar eclipse live: millions flock to viewing spots in Spain, UK and Iceland",
-      "summary": "Eclipse to be witnessed by tens of millions across western Europe as enthusiasts gather along path of totality in Land’s End, Cornwall The roads and car parks of west and north Cornwall are clogged as people gather to watch the solar eclipse. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-12T15:41:12.000Z",
-      "image": "https://i.guim.co.uk/img/media/2471d3100acfc8fc4f8e16fda75eca7b9e7080c9/246_0_2469_1975/master/2469.jpg?width=140&quality=85&auto=format&fit=max&s=b5bbb3632413e6cb3a30cf4a3488337f",
-      "topic": "社会",
       "score": 79,
-      "id": "16ac53a3ad7f"
+      "id": "a2c6c44a4e7a"
     },
     {
       "title": "Iran remains defiant as it vows to fight US until demands met",
@@ -250,7 +250,7 @@
       "publishedAt": "2026-08-12T15:29:20.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "4037bf07a835"
     },
     {
@@ -263,7 +263,7 @@
       "publishedAt": "2026-08-12T15:07:41.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "81bde520a2fd"
     },
     {
@@ -276,7 +276,7 @@
       "publishedAt": "2026-08-12T15:00:33.000Z",
       "image": "https://i.guim.co.uk/img/media/0f73a43c7adabdff5e4709c7319a3e2dd6459d4d/1571_0_7857_6286/master/7857.jpg?width=140&quality=85&auto=format&fit=max&s=89ab0e690c9864e19027848375b256bc",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "a74fa9fe3589"
     },
     {
@@ -289,7 +289,7 @@
       "publishedAt": "2026-08-12T15:00:33.000Z",
       "image": "https://i.guim.co.uk/img/media/8ee4cf3e63a0c40c86419ec213d5c5bdeea5fb34/0_0_6115_4895/master/6115.jpg?width=140&quality=85&auto=format&fit=max&s=ca4182dfc200a1efbad058d993bd4702",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "a153fca536da"
     },
     {
@@ -302,21 +302,8 @@
       "publishedAt": "2026-08-12T15:00:32.000Z",
       "image": "https://i.guim.co.uk/img/media/b910c50614324ad60a763066cd494184b879e9e4/383_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=12ca0d266ab1a999a9fed2f636ecd066",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "1ebe5dce56e4"
-    },
-    {
-      "title": "UK heatwave: Burnham considers ban on disposable barbecues to prevent wildfires – as it happened",
-      "summary": "Prime minister suggests possible measure as he prepares to chair emergency Cobra meeting in response to extreme heat Here’s today’s latest Met Office forecast for UK cities: Aberdeen 22C Belfast 24C Birmingham 32C Cardiff 33C Glasgow 25C Liverpool 32C London 32C Newcastle 29C Plymouth 31C Sheffield 31C Continue reading...",
-      "url": "https://www.theguardian.com/environment/live/2026/aug/12/heatwave-extreme-heat-cobra-uk-wildfires-drought-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-12T14:47:02.000Z",
-      "image": "https://i.guim.co.uk/img/media/5150659ee52117008e96e7d35a4cde1ee5287088/623_0_4635_3708/master/4635.jpg?width=140&quality=85&auto=format&fit=max&s=de4e1770ea96cf1219e32157512ee692",
-      "topic": "气候",
-      "score": 79,
-      "id": "e9b69b97ce95"
     },
     {
       "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
@@ -328,34 +315,21 @@
       "publishedAt": "2026-08-12T12:21:08.000Z",
       "image": "https://i.guim.co.uk/img/media/bc9bcbc1f8089593ac3841e431f1cec076f4f3bc/81_0_805_644/master/805.jpg?width=140&quality=85&auto=format&fit=max&s=1dd0145b25007671142bed3c66aac50b",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "151ed97ef851"
     },
     {
-      "title": "India News",
-      "summary": "India News &nbsp;&nbsp; LatestLY",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbFJBRTdzbWlkSk9ZNmVxUEZuSnpqSXJzY1JYelRma1FfNFN5Q3FORFR6aVhZdUl3aGxTU3ZoNlloR1lWclZIRkFpTjVkSjc0TjE5cU9DWmhIT0w5aXlvWHVlTUlPd0ZGUGdsSl9SU21nX2hlVmdwZElaXzdib2F2X2VvemRwRkFwWFdMb0tCeXMxaktJSkF0cjdFQWxhaWU1dzJ2aFR1RTgxU05VVTlvVmxHY0RTZi1DSjFXclg1WlR6Wkx6RnRScXdjdGpDUl96NFZuaElPa004TzVfY0VvTE10a25JRDZ6Ulg2NjZpMzFRRDFRbzdvLTRpTXF6d9IBgwJBVV95cUxNc3NueWNiOGJqcU13M1lIQ0xVc2VpSi13M29lZHlnV09KSURpZ1BqOFFOaE9JeGFjdTAzdDRWWFlCbWV0TWx3bi12QUxtUGN0NktjbU81aWRrOTk1Nk1FZXB1NTJiT2hJeW05ZWh1bGJDY0ZkRW5RSlN4SUlqRWx3YUFuY0tNMDMtSFFPa2JQOHJmNTBjOXNFSEE2dy1VZjg3c1gzdV9yd2xYejdIQ2d6a0Z0bjhGeDA0YnY5eml5SU4yZXhKc3FsYWxUTlg5Yno2Qnhibkt4dWtKSExZbkFVYlVpa0V6bHVIZDBDNFlvLWJoUDVtazJQYmQxVWZQLURWWmJJ?oc=5",
-      "source": "LatestLY",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-12T08:50:27.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 79,
-      "id": "9ccbd14edb04"
-    },
-    {
-      "title": "Iran is not anti-imperialist. It is a state calculating survival",
-      "summary": "Regardless of its current hostile rhetoric, the Islamic Republic will likely reach a settlement with the US and Israel.",
-      "url": "https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
+      "title": "US embassies in Middle East prepare for extended period with reduced staff amid Iran War",
+      "summary": "US embassies in Middle East prepare for extended period with reduced staff amid Iran War &nbsp;&nbsp; abc-7.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY0ZnWGlISWdXUFo2OGdNSWt4a3NBMC1mUDY0U0VrTDVleUZ6Vm1GMnRxZENVZ0s4SHJ4bkNDalgzQVpzTjBZZWJlSEZXMEhfTWFhQ012RDBuYzlLbUpoTGhuSVlSUDlnRUJBc1IyNVBMa1J3clkwNW5uRDBRdEU5MDZ6TWRidmM0dGYtTGJ4UVRqRzJScklXT0VMSTZrelk?oc=5",
+      "source": "abc-7.com",
+      "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-12T14:23:13.000Z",
+      "publishedAt": "2026-08-12T11:53:59.000Z",
       "image": "",
-      "topic": "社会",
+      "topic": "政治",
       "score": 78,
-      "id": "43dd25ebb0d3"
+      "id": "d59a2312a495"
     },
     {
       "title": "In Venice, it’s not politics as usual as film-makers aim to recapture our attention",
@@ -367,7 +341,7 @@
       "publishedAt": "2026-08-12T14:15:57.000Z",
       "image": "https://i.guim.co.uk/img/media/feea433775261228a93b40a6ed3b354e418990fe/797_0_2457_1966/master/2457.jpg?width=140&quality=85&auto=format&fit=max&s=ec425a90c43d8c61eaaf69c8d4a16d80",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "2bb3d482bd95"
     },
     {
@@ -380,21 +354,8 @@
       "publishedAt": "2026-08-12T14:01:20.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "3aa4c762166f"
-    },
-    {
-      "title": "‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks",
-      "summary": "Racist settler graffiti on West Bank homes and schools reveals a brazen ideological drive for Palestinian displacement.",
-      "url": "https://www.aljazeera.com/features/2026/8/12/burn-in-hell-israeli-settlers-spread-hate-through-graffiti-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-12T13:58:02.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 78,
-      "id": "618e3a40e104"
     },
     {
       "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
@@ -406,8 +367,21 @@
       "publishedAt": "2026-08-12T11:28:02.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b547/live/5e706700-9654-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "09a753fe5ffa"
+    },
+    {
+      "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
+      "summary": "Yesterday's primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat",
+      "url": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "中东",
+      "publishedAt": "2026-08-12T11:25:11.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 77,
+      "id": "de47761a750c"
     },
     {
       "title": "Germany approves lifting curbs on spy agencies in security ‘revolution’",
@@ -419,8 +393,99 @@
       "publishedAt": "2026-08-12T10:43:25.000Z",
       "image": "https://i.guim.co.uk/img/media/f07b72e0c4c965580f00a92166b3ddabe2224c9d/497_0_4479_3583/master/4479.jpg?width=140&quality=85&auto=format&fit=max&s=bf7bd6b09a52cea329ec5713e686be8c",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "8a49f1e81700"
+    },
+    {
+      "title": "India News",
+      "summary": "India News &nbsp;&nbsp; LatestLY",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbFJBRTdzbWlkSk9ZNmVxUEZuSnpqSXJzY1JYelRma1FfNFN5Q3FORFR6aVhZdUl3aGxTU3ZoNlloR1lWclZIRkFpTjVkSjc0TjE5cU9DWmhIT0w5aXlvWHVlTUlPd0ZGUGdsSl9SU21nX2hlVmdwZElaXzdib2F2X2VvemRwRkFwWFdMb0tCeXMxaktJSkF0cjdFQWxhaWU1dzJ2aFR1RTgxU05VVTlvVmxHY0RTZi1DSjFXclg1WlR6Wkx6RnRScXdjdGpDUl96NFZuaElPa004TzVfY0VvTE10a25JRDZ6Ulg2NjZpMzFRRDFRbzdvLTRpTXF6d9IBgwJBVV95cUxNc3NueWNiOGJqcU13M1lIQ0xVc2VpSi13M29lZHlnV09KSURpZ1BqOFFOaE9JeGFjdTAzdDRWWFlCbWV0TWx3bi12QUxtUGN0NktjbU81aWRrOTk1Nk1FZXB1NTJiT2hJeW05ZWh1bGJDY0ZkRW5RSlN4SUlqRWx3YUFuY0tNMDMtSFFPa2JQOHJmNTBjOXNFSEE2dy1VZjg3c1gzdV9yd2xYejdIQ2d6a0Z0bjhGeDA0YnY5eml5SU4yZXhKc3FsYWxUTlg5Yno2Qnhibkt4dWtKSExZbkFVYlVpa0V6bHVIZDBDNFlvLWJoUDVtazJQYmQxVWZQLURWWmJJ?oc=5",
+      "source": "LatestLY",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-12T08:50:27.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 77,
+      "id": "9ccbd14edb04"
+    },
+    {
+      "title": "Double murderer and rapist Simon Levy handed whole-life tariff",
+      "summary": "Errors by police and prosecutors left serial sex offender free to murder Carmenza Valencia-Trujillo and Sheryl Wilkins Simon Levy, the prolific sexual predator left free by police and prosecution errors to murder two women, will never leave prison after being sentenced to a rare whole-life tariff. Judge Lucraft KC said Levy, 40, “ruthlessly” exploited women ",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/12/serial-sex-offender-simon-levy-sentenced-double-muder",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-12T17:14:04.000Z",
+      "image": "https://i.guim.co.uk/img/media/e33274a6ae5cbdee6be7de6208bd49cd508fe1c0/0_78_581_465/master/581.jpg?width=140&quality=85&auto=format&fit=max&s=b24ad98f5a36eebd30f9f6968fb87bbf",
+      "topic": "经济",
+      "score": 76,
+      "id": "222fe4113471"
+    },
+    {
+      "title": "US inflation eases as food and fuel costs cool",
+      "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-12T17:03:05.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a864/live/f178bef0-9648-11f1-9d8e-b1efdebf2f99.jpg",
+      "topic": "经济",
+      "score": 76,
+      "id": "ac391ee78a88"
+    },
+    {
+      "title": "David Crowley wins Democratic primary for Wisconsin’s governor in upset over progressive Francesca Hong",
+      "summary": "Crowley pulls off last-minute victory in tight race after polls had shown Hong as the clear Democratic frontrunner David Crowley, the Milwaukee county executive, won the Democratic primary for Wisconsin governor after beating the democratic socialist Francesca Hong in a tight contest. Crowley pulled off a last-minute victory in the critical swing state after",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/david-crowley-defeats-francesca-hong-to-win-democratic-primary-for-wisconsin-governor",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-12T17:02:28.000Z",
+      "image": "https://i.guim.co.uk/img/media/b5af928443ea9378ea68235b0408c676108e3dcd/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ba65a2c010f1cf313d9ce04f3da13020",
+      "topic": "社会",
+      "score": 76,
+      "id": "b2b1a0a588f6"
+    },
+    {
+      "title": "Honk if your barn is burning: pet goose alerts sleeping Texas family to blaze",
+      "summary": "Family ‘extremely grateful’ to four-month-old ‘Goosey’ who ran out of fire-billowing building and repeatedly squawked A pet goose is being credited with helping save a Texas family’s animals after sounding a honking alarm as a fire tore through their barn. The dramatic moment unfolded on the morning of 4 August in Fort Bend county, where four-month-old Goose",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/goose-alerts-family-burning-barn-texas",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-12T16:54:29.000Z",
+      "image": "https://i.guim.co.uk/img/media/4a15db7473076dcd48ebf52b9cd21e4730937e90/471_0_3985_3187/master/3985.jpg?width=140&quality=85&auto=format&fit=max&s=1e0c63eb5345bf9e54b62b8b459c802b",
+      "topic": "社会",
+      "score": 76,
+      "id": "bdabde655bcb"
+    },
+    {
+      "title": "Iran is not anti-imperialist. It is a state calculating survival",
+      "summary": "Regardless of its current hostile rhetoric, the Islamic Republic will likely reach a settlement with the US and Israel.",
+      "url": "https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-12T14:23:13.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "43dd25ebb0d3"
+    },
+    {
+      "title": "‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks",
+      "summary": "Racist settler graffiti on West Bank homes and schools reveals a brazen ideological drive for Palestinian displacement.",
+      "url": "https://www.aljazeera.com/features/2026/8/12/burn-in-hell-israeli-settlers-spread-hate-through-graffiti-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-12T13:58:02.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 76,
+      "id": "618e3a40e104"
     },
     {
       "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
@@ -432,7 +497,7 @@
       "publishedAt": "2026-08-12T13:55:56.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ae/live/552e0070-960f-11f1-9e5b-d5848bb02f11.jpg",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "5c103c85096f"
     },
     {
@@ -445,7 +510,7 @@
       "publishedAt": "2026-08-12T13:35:12.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c016/live/64934810-962b-11f1-acde-358da1a6646b.jpg",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "21252a381972"
     },
     {
@@ -458,7 +523,7 @@
       "publishedAt": "2026-08-12T13:29:29.000Z",
       "image": "",
       "topic": "科技",
-      "score": 77,
+      "score": 76,
       "id": "7671224ab931"
     },
     {
@@ -471,7 +536,7 @@
       "publishedAt": "2026-08-12T10:37:42.000Z",
       "image": "",
       "topic": "气候",
-      "score": 77,
+      "score": 76,
       "id": "afe09fdbe772"
     },
     {
@@ -484,60 +549,112 @@
       "publishedAt": "2026-08-12T10:02:16.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "b13aa49dd222"
     },
     {
-      "title": "WhatsApp ‘drops’, price hikes and queues in scramble for solar eclipse specs",
+      "title": "Unexpected hearing scheduled for Luigi Mangione sparks plea deal speculation",
+      "summary": "Rumors of plea deal in federal case have been circulating since June for suspect accused of killing Brian Thompson An unexpected hearing in the federal stalking case against Luigi Mangione has been scheduled, leading to speculation that the alleged United Healthcare CEO assassin was seeking a plea deal that would in turn end a murder prosecution in New York ",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/luigi-mangione-united-health-murder-hearing",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-12T16:50:13.000Z",
+      "image": "https://i.guim.co.uk/img/media/c4d16d5a6ba5c21685735554d47da14ad151cbf7/471_0_2733_2187/master/2733.jpg?width=140&quality=85&auto=format&fit=max&s=518042062160fc5a46ed27a98698ef51",
+      "topic": "社会",
+      "score": 75,
+      "id": "3baba7caeec1"
+    },
+    {
+      "title": "Thousands of Canadians call for US ambassador's expulsion",
+      "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
+      "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-12T16:35:52.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aed/live/6188d850-9659-11f1-ad58-9debde8148f5.jpg",
+      "topic": "政治",
+      "score": 75,
+      "id": "4ef10678397f"
+    },
+    {
+      "title": "European stocks ease from record highs as investors weigh earnings, Middle East risks",
+      "summary": "European stocks ease from record highs as investors weigh earnings, Middle East risks &nbsp;&nbsp; The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOQ2g3blJMeVpnY0lSdk4xSXd1UUF5N2xkMGR4SkoyR3M5TGwzYVhoNkdqM3RXY1pVcENlcDJaQU4xYXhSVWVzRi1HWndkd3pVSnNxbDFIUkdBdVJDUEVTZktLcm5scVpSTjB2QWxBdkttbUxkUDR4cmxfYS0tNm50LVAwQVc3VzRCcnpsN3Z3Z3h1b0h6WHZCRVd5cXhSYW9qRGJob2FRNWFTaEthUDJWZTZiTUlRUHllVlE1QXFjSFhKQUNKaTdJOUhudDhJQVAxUW9xR1pjUUlicUhRWU1hSmhJbkV0U01vMGJoUHVQUUF3T2ZCamhIckdYTmplYkxJN01wRVcya2p3cXJQdU11a0tR?oc=5",
+      "source": "The Lufkin Daily News",
+      "feed": "Middle East News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-12T16:31:43.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "f8b057c13a21"
+    },
+    {
+      "title": "Cambridge agrees to hold independent inquiry into Jason Arday appointment",
+      "summary": "Vice-chancellor Deborah Prentice says she recognises the ‘difficult case’ has damaged the university Cambridge University’s leadership has bowed to internal pressure for an independent investigation into its appointment of Jason Arday as a professor, with its vice-chancellor admitting the affair has damaged the institution. Prof Deborah Prentice said she rec",
+      "url": "https://www.theguardian.com/education/2026/aug/12/cambridge-independent-inquiry-jason-arday-appointment",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-12T16:28:24.000Z",
+      "image": "https://i.guim.co.uk/img/media/078585230720e57be4043373d66def63a82d11f2/2071_1563_4873_3901/master/4873.jpg?width=140&quality=85&auto=format&fit=max&s=4931a62af1138e33512631a4c9d752d7",
+      "topic": "社会",
+      "score": 75,
+      "id": "948a2e520556"
+    },
+    {
+      "title": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
+      "summary": "Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics.",
+      "url": "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-12T16:23:28.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "28141303b2d9"
+    },
+    {
+      "title": "Great Britain braced to pay millions for backup electricity during solar eclipse",
+      "summary": "Event expected to curtail solar power just as summer’s fifth heatwave increases use of air conditioning and fans Great Britain is braced to pay millions for backup electricity supplies to prevent a shortfall on Wednesday evening as the near-total solar eclipse is expected to wipe out solar power generation. The government’s electricity grid operator is expec",
+      "url": "https://www.theguardian.com/business/2026/aug/12/great-britain-faces-electricity-supply-shortfall-during-solar-eclipse",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-12T16:21:52.000Z",
+      "image": "https://i.guim.co.uk/img/media/675d946d226af95bf47c061d95f0324eebe1b99a/0_0_7558_6048/master/7558.jpg?width=140&quality=85&auto=format&fit=max&s=6285753920da94847dfba2d56c08a0a4",
+      "topic": "政治",
+      "score": 75,
+      "id": "bc4488c33375"
+    },
+    {
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-08-12T16:14:08.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b5/live/2509dcc0-9641-11f1-8414-97750c5a4202.jpg",
+      "topic": "经济",
+      "score": 75,
+      "id": "e7e0f6a26552"
+    },
+    {
+      "title": "WhatsApp ‘drops’, price hikes and queues: scramble for solar eclipse specs",
       "summary": "Amid doubling prices and fraying tempers, shoppers hunt for elusive eyewear to prepare for rare eclipse of sun • Europe solar eclipse – latest updates A secretive WhatsApp group was pinging with notifications throughout Wednesday, letting its members know where in London the latest “drop” would take place. The group’s focus, rather than being for an illicit ",
       "url": "https://www.theguardian.com/science/2026/aug/12/secret-drops-whatsapp-threads-queues-hunt-solar-eclipse-specs",
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "欧洲",
-      "publishedAt": "2026-08-12T15:54:15.000Z",
+      "publishedAt": "2026-08-12T16:05:37.000Z",
       "image": "https://i.guim.co.uk/img/media/10e8be124d92c9c9a0f279fc078b2fa9d4f1c2eb/0_341_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=9526587242dc99f04c888b5fab33742f",
       "topic": "社会",
-      "score": 76,
-      "id": "89ef6f87f1bc"
-    },
-    {
-      "title": "Patriot Games: Trump’s ‘freedom finale’ to celebrate 250 is … a school sports day",
-      "summary": "‘Outstanding young Americans’ came together to catch a tennis ball for freedom The Patriot Games, held this week in Ohio, was intended to be a “national athletic competition celebrating the character, determination, and excellence that define the American spirit”, according to a press release. The competition, which organizers insisted would be nothing like ",
-      "url": "https://www.theguardian.com/global/2026/aug/12/patriot-games-aka-trumps-school-sports-day",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-08-12T15:52:33.000Z",
-      "image": "https://i.guim.co.uk/img/media/462011ca42adffeacfbf268839d28200c49c88ef/308_0_2542_2034/master/2542.jpg?width=140&quality=85&auto=format&fit=max&s=8846213d17560043707018d903facd07",
-      "topic": "社会",
-      "score": 76,
-      "id": "0ce58c11cd22"
-    },
-    {
-      "title": "David Crowley wins Democratic primary for Wisconsin’s governor in upset over progressive Francesca Hong",
-      "summary": "Crowley pulls off last-minute victory in tight race after polls had shown Hong as the clear Democratic frontrunner David Crowley, the Milwaukee county executive, won the Democratic primary for Wisconsin governor after beating the democratic socialist Francesca Hong. Crowley pulled off a last-minute victory after re-entering the campaign and snagging an endor",
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/david-crowley-defeats-francesca-hong-to-win-democratic-primary-for-wisconsin-governor",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-12T15:52:14.000Z",
-      "image": "https://i.guim.co.uk/img/media/b5af928443ea9378ea68235b0408c676108e3dcd/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ba65a2c010f1cf313d9ce04f3da13020",
-      "topic": "社会",
-      "score": 76,
-      "id": "b2b1a0a588f6"
-    },
-    {
-      "title": "Israel carries out first Gaza strike in more than week, one killed: Officials",
-      "summary": "Israel carries out first Gaza strike in more than week, one killed: Officials &nbsp;&nbsp; Al Arabiya English",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRWtpWkJreFBhbGhjbk5YVFFWOW1nTUVBZWhBQ09xU0VjLVRwbUQ4YUtaVllHbUtabThDbE43cDktbTlPMzd0cGNiN1hDcUNJNGlDRF9lWHdXalVIQ0pUTXBiZU12T0g2RXVXVE02cTlWVU00ZHpORjlYX1lPSUNGcHBuUDhmb0VkZXBxb0NWYkQ0c1VvcEZNbWM1RlB4cmlqSDVWdlltalVyQjVhWk0zRVFnV3lnTjh1SEEzWmFLbE1UQWd1ZF9RMmFDSFNMUdIB0wFBVV95cUxQZjBTakN6V3Z6SnBtbFVYZm1PV184SzF5SzVuc1VRWUNjMXQ3Vzc1QkgwRldEZ2RsQzNzX2dkcVhHa25zTk9vU3BDbjRVaTZRLTdNN1pZSnNjdEI2QlcteXhQMjE3TWIzaG10UkxTMWp1cHZaVWVCMHNhcHllYndBVFRXY0xYaVFDMlNxUTROYVJ5dGVRYWZiTGdrTmFBd21yUk5adEpqcGRWejQ3cERlOUgzNkx2U1dKRGlWZkVrWHBFSmlMMWN5UHVfSW9kVVdwN3k4?oc=5",
-      "source": "Al Arabiya English",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-12T15:35:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "d2fef57c68fb"
+      "score": 75,
+      "id": "b9195e5b211f"
     },
     {
       "title": "Why has North Korea fired a missile ahead of US-South Korea drills?",
@@ -549,7 +666,7 @@
       "publishedAt": "2026-08-12T13:10:14.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "18e415f312cb"
     },
     {
@@ -562,8 +679,34 @@
       "publishedAt": "2026-08-12T12:59:02.000Z",
       "image": "https://i.guim.co.uk/img/media/4699365a574ba9f5af1c6c492c54aedb79191772/11_0_4521_3615/master/4521.jpg?width=140&quality=85&auto=format&fit=max&s=95ff57d3d6eaf557d052b245329f362a",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "3587116ee2e0"
+    },
+    {
+      "title": "Israel carries out first Gaza strike in more than week, one killed: Officials",
+      "summary": "Israel carries out first Gaza strike in more than week, one killed: Officials &nbsp;&nbsp; english.alarabiya.net",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRWtpWkJreFBhbGhjbk5YVFFWOW1nTUVBZWhBQ09xU0VjLVRwbUQ4YUtaVllHbUtabThDbE43cDktbTlPMzd0cGNiN1hDcUNJNGlDRF9lWHdXalVIQ0pUTXBiZU12T0g2RXVXVE02cTlWVU00ZHpORjlYX1lPSUNGcHBuUDhmb0VkZXBxb0NWYkQ0c1VvcEZNbWM1RlB4cmlqSDVWdlltalVyQjVhWk0zRVFnV3lnTjh1SEEzWmFLbE1UQWd1ZF9RMmFDSFNMUdIB0wFBVV95cUxQZjBTakN6V3Z6SnBtbFVYZm1PV184SzF5SzVuc1VRWUNjMXQ3Vzc1QkgwRldEZ2RsQzNzX2dkcVhHa25zTk9vU3BDbjRVaTZRLTdNN1pZSnNjdEI2QlcteXhQMjE3TWIzaG10UkxTMWp1cHZaVWVCMHNhcHllYndBVFRXY0xYaVFDMlNxUTROYVJ5dGVRYWZiTGdrTmFBd21yUk5adEpqcGRWejQ3cERlOUgzNkx2U1dKRGlWZkVrWHBFSmlMMWN5UHVfSW9kVVdwN3k4?oc=5",
+      "source": "english.alarabiya.net",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-12T15:35:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "53ddd8dcc08e"
+    },
+    {
+      "title": "Europe is approaching 1,740 hotel projects and sets a record in the high-end segment, according to Lodging Econometrics.",
+      "summary": "Europe is approaching 1,740 hotel projects and sets a record in the high-end segment, according to Lodging Econometrics. &nbsp;&nbsp; Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRlZZeHR5ZE4tUUVZTmdqTzhLN3F4eE01TUVNZ3pRc2N0ZHFBWThwbDl1bXBNbW5GWnRDZjBPRHhBRkZORlR0eUdLZmxMN0s0b0p2WDRXemx4Z3pmLWtycHhXTlJCbGs4RExzUm9qTXdtX2I2RXIxN1BYTWZvQml1eUhFX1FWQVd0UGlieV9yWnR0dFZnMW11S3ZlOTBGUHFBbVhQSW9NZ2N6OUNoZnRBTjRQanJRNTRISS1PNS1BeWhRNnZGQ3ZGTVFvQmtEV1UtU3VBdDRDenlJaXcxNmdFNnFJRnVOS0lTSWxn0gHwAUFVX3lxTE9mVzRGQXN4Sm5uc2x1dUdqbUxnQnFHSkUycTdsaGg0RWRobk9IRnFVT1pVRVF6OWw3VTQ2MGg4eUNHWFR1dTB0Vk9nN2RwYWZvZ3BqLU1WYUtJVHcyRDc3T3dpVE54UnhaMFZfZkhIdjBOd3l3NEJZci1nNV9yakpzSUhjMy02MW1vaW5kcmdTeVBERmZTTHNTRi13X3lPNC1xXzlFXzVyMFY5Z3RrakFMN0NicDNwX0FiUlZKa1oxUERmR0h6RWtEUldnY2dsNVUxSEU1QUxDVWhWMVRJOE1JSzV5Qk9nNU5RN2plUG1IVA?oc=5",
+      "source": "Demócrata",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-12T14:58:43.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "1d4965faacf2"
     },
     {
       "title": "Aluminium smelter bailout to cost taxpayers $2.5b over 10 years",
@@ -575,7 +718,7 @@
       "publishedAt": "2026-08-12T12:32:58.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/5f61cba316348b056026b9676a23f1d2?impolicy=wcms_crop_resize&cropH=1125&cropW=2000&xPos=0&yPos=375&width=862&height=485",
       "topic": "政治",
-      "score": 76,
+      "score": 74,
       "id": "e4db54b28c29"
     },
     {
@@ -588,99 +731,8 @@
       "publishedAt": "2026-08-12T12:04:23.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "c7c0c64ba946"
-    },
-    {
-      "title": "Zambia’s president rallies for second term ahead of election",
-      "summary": "Zambia's president rallies for second term ahead of election",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-12T09:16:22.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 76,
-      "id": "594c9d3d809c"
-    },
-    {
-      "title": "Eurovision changes rules to prevent winners involved in 'armed conflict' from hosting",
-      "summary": "Eurovision Song Contest organisers have announced changes to the rules, saying winning broadcasters are to be prevented from hosting if involved in armed conflict or a \"sensitive geopolitical situation\" that could affect the safety of the event.",
-      "url": "https://news.sky.com/story/eurovision-changes-rules-to-prevent-winners-involved-in-armed-conflict-from-hosting-13572324",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "全球",
-      "publishedAt": "2026-08-12T15:49:00.000Z",
-      "image": "https://e3.365dm.com/26/04/1920x1080/skynews-breaking-breakingnews_7210863.png?20260516142605",
-      "topic": "社会",
-      "score": 75,
-      "id": "79a8b5dff2a6"
-    },
-    {
-      "title": "WHO chief says Trump vaccine push goes against ‘decades of evidence’",
-      "summary": "The US health secretary has spent years saying the MMR vaccine caused autism despite no medical evidence.",
-      "url": "https://www.aljazeera.com/news/2026/8/12/who-chief-says-trump-vaccine-push-goes-against-decades-of-evidence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-12T15:30:18.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "9c3a6dd6f220"
-    },
-    {
-      "title": "Burnham to consider ban on disposable barbecues as wildfires rage in UK",
-      "summary": "PM to look at imposing restriction on devices in public spaces, though campaigners fear it does not go far enough The government will look at banning disposable barbecues as wildfires continue to rage across the UK, Andy Burnham has said. Disposable barbecues have been the cause of a number of serious fires over the last few years, but campaigners were criti",
-      "url": "https://www.theguardian.com/society/2026/aug/12/andy-burnham-ban-disposable-barbecues-wildfires-uk",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-12T15:13:45.000Z",
-      "image": "https://i.guim.co.uk/img/media/0d87129f86fd712aa05f330120d6b1793467b392/182_0_4140_3312/master/4140.jpg?width=140&quality=85&auto=format&fit=max&s=263242acf51907392534a06ac8ced832",
-      "topic": "政治",
-      "score": 75,
-      "id": "0c56e694cee2"
-    },
-    {
-      "title": "Cambridge agrees to hold independent inquiry into Jason Arday appointment",
-      "summary": "Vice-chancellor Deborah Prentice says she recognises the ‘difficult case’ has damaged the university Cambridge University’s leadership has bowed to internal pressure for an independent investigation into its appointment of Jason Arday as a professor, with its vice-chancellor admitting the affair has damaged the institution. Prof Deborah Prentice said she rec",
-      "url": "https://www.theguardian.com/education/2026/aug/12/cambridge-independent-inquiry-jason-arday-appointment",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-12T15:09:50.000Z",
-      "image": "https://i.guim.co.uk/img/media/078585230720e57be4043373d66def63a82d11f2/2071_1563_4873_3901/master/4873.jpg?width=140&quality=85&auto=format&fit=max&s=4931a62af1138e33512631a4c9d752d7",
-      "topic": "社会",
-      "score": 75,
-      "id": "948a2e520556"
-    },
-    {
-      "title": "US consumer inflation slows in July as energy prices briefly retreat",
-      "summary": "Energy prices declined 1.5 percent in July but remain 14.7 percent higher compared with a year ago.",
-      "url": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-12T15:08:31.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 75,
-      "id": "888acbc5db44"
-    },
-    {
-      "title": "china europe-trade-route",
-      "summary": "china europe-trade-route &nbsp;&nbsp; WION",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0cmN4bTRrUndickpHMnl4MmJPUmpVcmVsbVN3azl3UVlmRWVheTQyZUZldzE3N3dlV3RHQjJ0N1ZBdTNVdURyTHpDdlVtYm5yWjRsZ0tBYVR0c3JmTzJ2cGI1TQ?oc=5",
-      "source": "WION",
-      "feed": "Europe News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-12T15:07:48.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 75,
-      "id": "1365313b5f05"
     },
     {
       "title": "Crest Africa unveils Top 50 African entrepreneurs defining the continent’s future in 2026",
@@ -692,60 +744,8 @@
       "publishedAt": "2026-08-12T15:04:03.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "e7453036ee1e"
-    },
-    {
-      "title": "Europe is approaching 1,740 hotel projects and sets a record in the high-end segment, according to Lodging Econometrics.",
-      "summary": "Europe is approaching 1,740 hotel projects and sets a record in the high-end segment, according to Lodging Econometrics. &nbsp;&nbsp; Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRlZZeHR5ZE4tUUVZTmdqTzhLN3F4eE01TUVNZ3pRc2N0ZHFBWThwbDl1bXBNbW5GWnRDZjBPRHhBRkZORlR0eUdLZmxMN0s0b0p2WDRXemx4Z3pmLWtycHhXTlJCbGs4RExzUm9qTXdtX2I2RXIxN1BYTWZvQml1eUhFX1FWQVd0UGlieV9yWnR0dFZnMW11S3ZlOTBGUHFBbVhQSW9NZ2N6OUNoZnRBTjRQanJRNTRISS1PNS1BeWhRNnZGQ3ZGTVFvQmtEV1UtU3VBdDRDenlJaXcxNmdFNnFJRnVOS0lTSWxn0gHwAUFVX3lxTE9mVzRGQXN4Sm5uc2x1dUdqbUxnQnFHSkUycTdsaGg0RWRobk9IRnFVT1pVRVF6OWw3VTQ2MGg4eUNHWFR1dTB0Vk9nN2RwYWZvZ3BqLU1WYUtJVHcyRDc3T3dpVE54UnhaMFZfZkhIdjBOd3l3NEJZci1nNV9yakpzSUhjMy02MW1vaW5kcmdTeVBERmZTTHNTRi13X3lPNC1xXzlFXzVyMFY5Z3RrakFMN0NicDNwX0FiUlZKa1oxUERmR0h6RWtEUldnY2dsNVUxSEU1QUxDVWhWMVRJOE1JSzV5Qk9nNU5RN2plUG1IVA?oc=5",
-      "source": "Demócrata",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-12T14:58:43.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "1d4965faacf2"
-    },
-    {
-      "title": "Dozens dead after Zimbabwe ferry capsize, major retrieval mission launched",
-      "summary": "Dozens of people have been reported dead and their bodies retrieved from Lake Kariba in Zimbabwe after a passenger ferry capsized, according to local officials.",
-      "url": "https://www.abc.net.au/news/2026-08-12/zimbabwe-ferry-capsize-on-lake-kariba-leaves-dozens-dead/107030716",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-12T11:41:58.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/c44e88563508d4b354974a469661126e?impolicy=wcms_crop_resize&cropH=641&cropW=1139&xPos=0&yPos=303&width=862&height=485",
-      "topic": "科技",
-      "score": 75,
-      "id": "7cedd8925bb3"
-    },
-    {
-      "title": "US embassies in the Middle East prepare for extended period with reduced staff amid Iran war",
-      "summary": "US embassies in the Middle East prepare for extended period with reduced staff amid Iran war &nbsp;&nbsp; CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11NERZd0gtX2pCeW04Uk1XcXcyOUg5X1VfSkp2enNWRDBPSGJSNy1LZ3Q1LUtNclNHVXZ4LWh4M1EwQlR3OUJsNmlRc1ZxMlBHbURFaFJDRV9ReF8zal9LOFltQ3ZRb1AzVElKMUQtTFRPYWh0cGQyeW95UzBZZw?oc=5",
-      "source": "CNN",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-12T09:00:29.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "46cc85ed36a0"
-    },
-    {
-      "title": "Oman and the Political Economy of the Strait of Hormuz",
-      "summary": "Oman and the Political Economy of the Strait of Hormuz &nbsp;&nbsp; Middle East Monitor",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdG9ORzFhcmozZG9wQ080WE9aOE9Ka2lpZ3AzWnBsQWZ1MmFQM1JTemtOVXRRcnVLTUVrelUtSFo0NkZhTzJBWEFUTDNfN0sxU1RoZmlxSl9QVVJvR3J0R0l6bDRnV1AxckxUOWNUS0VxZGhCNDZnMC1TRjNLYWlULVB5ZHBXZ1QyTGtBWDdsa3hRMXltQ3RlNC14Z1FhV2FzbDQtWNIBpAFBVV95cUxPdG9ORzFhcmozZG9wQ080WE9aOE9Ka2lpZ3AzWnBsQWZ1MmFQM1JTemtOVXRRcnVLTUVrelUtSFo0NkZhTzJBWEFUTDNfN0sxU1RoZmlxSl9QVVJvR3J0R0l6bDRnV1AxckxUOWNUS0VxZGhCNDZnMC1TRjNLYWlULVB5ZHBXZ1QyTGtBWDdsa3hRMXltQ3RlNC14Z1FhV2FzbDQtWA?oc=5",
-      "source": "Middle East Monitor",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-12T15:01:00.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 74,
-      "id": "3314ab32f892"
     },
     {
       "title": "Solar Eclipse Photos: Viewers Line Up in Europe To Watch",
@@ -757,21 +757,8 @@
       "publishedAt": "2026-08-12T14:56:18.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "534ad1ecd951"
-    },
-    {
-      "title": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
-      "summary": "The legislation will 'exceptionally' reduce certain prison terms, says Lebanon's parliament speaker.",
-      "url": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-12T14:26:45.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "b7decae08a5d"
     },
     {
       "title": "“Africa has a real talent pool in breaking\", a sport that is hugely popular among young people",
@@ -783,8 +770,21 @@
       "publishedAt": "2026-08-12T14:10:33.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "d31d7ce96298"
+    },
+    {
+      "title": "Dozens dead after Zimbabwe ferry capsize, major retrieval mission launched",
+      "summary": "Dozens of people have been reported dead and their bodies retrieved from Lake Kariba in Zimbabwe after a passenger ferry capsized, according to local officials.",
+      "url": "https://www.abc.net.au/news/2026-08-12/zimbabwe-ferry-capsize-on-lake-kariba-leaves-dozens-dead/107030716",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-12T11:41:58.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/c44e88563508d4b354974a469661126e?impolicy=wcms_crop_resize&cropH=641&cropW=1139&xPos=0&yPos=303&width=862&height=485",
+      "topic": "科技",
+      "score": 73,
+      "id": "7cedd8925bb3"
     },
     {
       "title": "Neo-Nazi vandal attack at SA workers club is 'modern-day fascism'",
@@ -796,7 +796,7 @@
       "publishedAt": "2026-08-12T11:30:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/e6d1d8b8f1d7037f37c6f31195509387?impolicy=wcms_crop_resize&cropH=810&cropW=1440&xPos=0&yPos=825&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "d74f7710ab19"
     },
     {
@@ -809,21 +809,21 @@
       "publishedAt": "2026-08-12T11:11:26.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "286ad9b4579c"
     },
     {
-      "title": "Andrew Tate's extradition fight tests his influence with Trump's America",
-      "summary": "After President Trump took office, Andrew Tate proclaimed, \"The Tates will be free.\" A year later, Tate is being held in federal prison after he was arrested following a U.K. extradition request.",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "美洲",
-      "publishedAt": "2026-08-12T10:47:30.000Z",
+      "title": "South Africa seeks reimbursement from African countries for migrant repatriations - ABC News",
+      "summary": "South Africa seeks reimbursement from African countries for migrant repatriations &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM28wWVh0MzZfcVV4QTdXSjZpRGFQVWdMSmg5X09HaE1LaDFfUXo4SlJ5eEJYbDFiVFNvN21vTTNGVEYySTZjYnNqNC1NWWxycDVZc09pSVdTV1NlSTRrOWpWRXhST0x4WUNIXzZsd3ptMkZlbFdOZ0VDMTRFYi15MmpTOF96UnBOWXl1aE9jdmEtdzZPamRWa3A0cU1jaHlRVlRISEt1N0lmQjllVjl5NDdvZndwckNBUVgzdTlHX3dtU21m0gHKAUFVX3lxTE14Q3dpWTFaSmFwOGk4WGJqUC1uU0lFS0VLRTN4RUVRR21rekphT0NIQTQ5UWdsN284c0Q4M3ZuVUE1a245R3Q5SE4wS1VqbUU3WDlIb2hFeUhXNE5ESGtfcEJxWjdnWEFSek10REUzRjFYM29BQzVUTlRBU3oydUpRZ0VnVk8wTlo2Y3VoNVdDOGJsQ3Z1b3pjQmpWZUpUaVc2OWpSWGgwWEhELV9oYngxOFozQ0k5RlZzZHpuME1Cbzh2SnVVdjItbHc?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-12T11:00:11.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "bb5caf13e9c6"
+      "topic": "社会",
+      "score": 73,
+      "id": "4af005938214"
     },
     {
       "title": "Mass evacuations in Beijing as Typhoon Dolphin brings more torrential rain to China",
@@ -835,7 +835,7 @@
       "publishedAt": "2026-08-12T04:43:19.000Z",
       "image": "https://i.guim.co.uk/img/media/f8fb1b124e55f144fc7cd2eb02e455d8a4a99f15/515_0_5148_4118/master/5148.jpg?width=140&quality=85&auto=format&fit=max&s=99494d812a6214759bc2f7209bf134a6",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "b065760b0469"
     },
     {
@@ -848,34 +848,73 @@
       "publishedAt": "2026-08-12T13:52:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "762466d98cb3"
     },
     {
-      "title": "Colombia declares three days mourning for quake victims as EU pledges assistance",
-      "summary": "Colombia declares three days mourning for quake victims as EU pledges assistance &nbsp;&nbsp; Inbox.lv",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkgzdzNpbGUzM3pxdjBWNGt1ZDdIelFuMlp2NllRNHIyYzNic0JjT1dRTjFpN19fNm1iY3NQVlM3cHBSMEg1TjA1NDQtcC1sVHVCV2doMWJ5UkNrUnYtcmZLUC1WR3NQQ19qYm5ydmYzcDJHVFlSWWhlWjl2cWpRWXQxa1p0NXBFLUpHYUhvUldaVXBTV2JRT3lOREdMZE8yZzlQT1Zhdk9IazRXNzl5bkltb2dUSXU1TlBpc3J6dw?oc=5",
-      "source": "Inbox.lv",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-12T13:46:52.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "f77d544f0c46"
-    },
-    {
-      "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
-      "summary": "The pristine white sand dunes of the Lençóis Maranhenses National Park are bordered by thick jungle on one side and the Atlantic Ocean on the other. Thousands of lagoons fill up after the rainy season.",
-      "url": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
+      "title": "Andrew Tate's extradition fight tests his influence with Trump's America",
+      "summary": "After President Trump took office, Andrew Tate proclaimed, \"The Tates will be free.\" A year later, Tate is being held in federal prison after he was arrested following a U.K. extradition request.",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
       "source": "NPR World",
       "feed": "NPR World",
       "region": "美洲",
-      "publishedAt": "2026-08-12T13:38:58.000Z",
+      "publishedAt": "2026-08-12T10:47:30.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 72,
+      "id": "bb5caf13e9c6"
+    },
+    {
+      "title": "Montauk Brewing to celebrate opening of Port Jefferson brewpub",
+      "summary": "Montauk Brewing to celebrate opening of Port Jefferson brewpub &nbsp;&nbsp; Long Island Business News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LOTJ2VEZWQ19qTVF6X1dZQXhVdFhHZ2wySWNiYjgzZ2UwcnVEZksyNEJjZW9hSVpqR0tJT3ZqLVpOS1NOZmtMbko5N2NUQ3RYREQ0b2trTE45MDJBLV91T1pOZEZ2R1YyQVB0RThlQkJ5SWw1ZjBqaUdnNEpRQQ?oc=5",
+      "source": "Long Island Business News",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-12T16:40:55.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 71,
+      "id": "39052c438505"
+    },
+    {
+      "title": "Uber invests in Latin American motorcycle lender Galgo to finance gig workers",
+      "summary": "Uber invests in Latin American motorcycle lender Galgo to finance gig workers &nbsp;&nbsp; Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdmplTGVaY3hjV20wZUNvN0x3ZnpENzVsenAxSERfY0dyM2J2Y3VBTVV4Zm5aU2QxekNlNXY2blNXeTgybzhRaTNfR0ZnSUV5LVJBMkR5SGNZSm9NVUQwelpjeUwwV19wWVo4VGpDMlRYeEoxY2llb1B2VEY3WnhvVUg0SGZRMGk3bFQxb2dUTFp1N3RZczg4ME1teGJhdUdQTG45TkxtZW83QjVSemlISDc1ajVibHotTDBNQlB5Zw?oc=5",
+      "source": "Reuters",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-12T16:38:09.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 71,
+      "id": "3db2b8006a15"
+    },
+    {
+      "title": "Kwasi Sibo Agrees Personal Terms with Gençlerbirliği Despite Bigger Offers",
+      "summary": "Kwasi Sibo Agrees Personal Terms with Gençlerbirliği Despite Bigger Offers &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUpHcGt0ekN6VTgzRVcwdVRIMG5CYldxdGpoMmVkbjQzTnlvTmJZX01QV1k4c0g3NXJFbl82TjV3WHJ5clQtUjR0bE9Cal9xYmJoUkxBX0pXb1FWaWpPUnJ0aDM3azhKN2xORHlaOVRMcV9qdUFhODJnTXc1Um55X2ZoZlZkem9mV1pWRFFrQ0I0RnZ5X1JDSHJvVU4wRDNJSGtFQ0FYM2dvQQ?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-12T16:36:57.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
-      "id": "6bd2a2398ae4"
+      "score": 71,
+      "id": "1fbd58159525"
+    },
+    {
+      "title": "Top 7 West African countries with strongest economies in 2026",
+      "summary": "Top 7 West African countries with strongest economies in 2026 &nbsp;&nbsp; Tribune Online",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMzZTNFNMOVdHN3l5eHFJMW5NWERYaHpWOEs1TzdpNGxfSHhwSW1BVFh3S2xqNFhCd3RDbXB2MEgzRmxYSEl4cW1ORDhjbml1SE1oYnlJVXdDUnlHZG1EczBzckJVRU5PeGZSREZPLTdEWUxMZkNqUHhtSG9kTzZIbG5CeVVieUhmZFM5VGhiREZyZklx0gGaAUFVX3lxTE0tSkFkQ2hMblEzVThtTm1yZXBVUy1nWFRYNkl0eGlfaDZaR0xOdlMzUnZQYVRKSFdIY0RVTV94VXYwb1FIUUprbmJjTnJ0Q1VsalJQamk2VE1WZUpQRUZQSlVERWdmQ3JueU9iRHFnNklnMmxwdWpNRGVBM3FTdkx2VThlMFNjcHd2RldIdWZITnoydTN3eG9jaXc?oc=5",
+      "source": "Tribune Online",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-12T16:17:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "3d8c1844609d"
     },
     {
       "title": "FIBA includes PHL’s Moral among U-18 Asia Cup players to watch",
@@ -887,60 +926,21 @@
       "publishedAt": "2026-08-12T16:09:03.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "7618caf4fed7"
     },
     {
-      "title": "Razak Brimah Returns to Linares Deportivo as Goalkeeper Coach",
-      "summary": "Razak Brimah Returns to Linares Deportivo as Goalkeeper Coach &nbsp;&nbsp; Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNkdmUlBNT08wbXZnZ3BPbEQwYjNCMWdZMmNNSGlUQlV5eWxJWm5FdFRmazQ0YnBQdmdtaGhBZm43SEk2dHpTRDJURnIteFAtS2thZXMydENnZ3JMR251UW45ZnZsT0lrZmtNLXJqSjdjRmJqc21faVlVSWh4bVJRNmwwcXQxMDNISnMwRU1vZUp5NS1kOWpmWg?oc=5",
-      "source": "Africa Top Sports",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-12T15:52:09.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "42a243651a96"
-    },
-    {
-      "title": "BREAKING: ConCourt Denies Direct Access in Impeachment Battle",
-      "summary": "BREAKING: ConCourt Denies Direct Access in Impeachment Battle &nbsp;&nbsp; Central News South Africa",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOVU0eHdWWC1idjVWUmRkTG1Uck5OeVRYXzlsMXhFZmlMU3ljT3FsWW1MMjJFUGt0bkRIazBuUFhJRHNBU21OYVV3QnpGSVY5UEotUWFWOUtwVjkzSGw3VmJsb19wT0hPcGk3cXhra0JJLTEwVVBWTFlHRFNGT25CVkQ1MHBES0FTU2RyaXBoSFI?oc=5",
-      "source": "Central News South Africa",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-12T12:45:52.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "537393356409"
-    },
-    {
-      "title": "Brazil’s elections are the acid test for Trump’s Latin America policy",
-      "summary": "Brazil’s elections are the acid test for Trump’s Latin America policy &nbsp;&nbsp; The Hill",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaE5qelhUd2hzMjFIWFRDYVJqMTM2SUp0ellsbGJiV1RLNENkb05vQXdQSU1lMkFBUDdvSy1hSnRsaG12X0dkVlNSd1J4OGZsTzZPWjZUcm1pcDY4ZnQtSEZvQjZWQ3B5Y2Y5dzhLMUdyYTNkdndSTzVHdERXVHByeVBvRERaR1d00gGOAUFVX3lxTFB2SmZKQTRfQ0diNExFN2RVMm13MXV6eXIwZEtZWFY5ei1RS3BVeDBwdE1hallIUDgtYlQ3VnVhZGpjcWtwd2JDZ1Zqek1hMmtLUHZJWFRpTUJnR3l3bDRNNUs4TldnWVlfYXhpTDFBS3BUY0tZZXlyZDBRODFDOXVpcDlYRDd0MkszUGs4SUE?oc=5",
-      "source": "The Hill",
-      "feed": "Latin America News Network",
+      "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
+      "summary": "The pristine white sand dunes of the Lençóis Maranhenses National Park are bordered by thick jungle on one side and the Atlantic Ocean on the other. Thousands of lagoons fill up after the rainy season.",
+      "url": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
+      "source": "NPR World",
+      "feed": "NPR World",
       "region": "美洲",
-      "publishedAt": "2026-08-12T12:30:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "9002b5360690"
-    },
-    {
-      "title": "The China Ready® Workshop will return to WTM Africa 2027",
-      "summary": "The China Ready® Workshop will return to WTM Africa 2027 &nbsp;&nbsp; Breaking Travel News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOU9DdlNrdlpwNkFwS3AyWElfV1pWREd0MWh3bG5zZGpSc0J3RUlUR1UxZklILWNfM280Q2NBRFp0ZHgtUE5GTGRqajJjZjFXZU52dklxMUlSLVN0MVRPX3pUUUNad1M0OEtDajNrOEdyU0tLWmxkZkFiYjVoc1NlZWQwdXJ4RktJcjVfSmo3ZUt3XzluSG8tekJONTVVZzBPbmVEV21QZw?oc=5",
-      "source": "Breaking Travel News",
-      "feed": "Africa News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-12T12:19:52.000Z",
+      "publishedAt": "2026-08-12T13:38:58.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
-      "id": "d129ce4c3989"
+      "score": 71,
+      "id": "6bd2a2398ae4"
     }
   ]
 }
