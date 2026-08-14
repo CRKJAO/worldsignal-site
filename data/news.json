@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T19:59:52.889Z",
+  "updatedAt": "2026-08-14T20:48:34.275Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -13,10 +13,10 @@
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "中东",
-      "publishedAt": "2026-08-14T19:52:36.000Z",
+      "publishedAt": "2026-08-14T20:05:13.000Z",
       "image": "https://i.guim.co.uk/img/media/2251b7781f41115e466b90701ad19a4ba293a2f4/226_0_2225_1780/master/2225.jpg?width=140&quality=85&auto=format&fit=max&s=6934d33550d6da311805ef5934723f22",
       "topic": "政治",
-      "score": 97,
+      "score": 96,
       "id": "d5f237a0af7f"
     },
     {
@@ -29,7 +29,7 @@
       "publishedAt": "2026-08-14T17:28:25.000Z",
       "image": "",
       "topic": "社会",
-      "score": 89,
+      "score": 88,
       "id": "feba2076411d"
     },
     {
@@ -42,7 +42,7 @@
       "publishedAt": "2026-08-14T16:58:04.000Z",
       "image": "https://i.guim.co.uk/img/media/4e74294d7fc12a4f6c823be60d68e8ff43d71b97/984_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=40fcf0dd5ba505158e68d69f898bc919",
       "topic": "气候",
-      "score": 89,
+      "score": 88,
       "id": "54cbfdfcf766"
     },
     {
@@ -55,7 +55,7 @@
       "publishedAt": "2026-08-14T16:10:45.000Z",
       "image": "",
       "topic": "社会",
-      "score": 88,
+      "score": 87,
       "id": "3af7b501f64f"
     },
     {
@@ -68,21 +68,21 @@
       "publishedAt": "2026-08-14T17:12:14.000Z",
       "image": "https://i.guim.co.uk/img/media/37d9d05fd3b13992e53c2a7f0210f723e9bc0a54/92_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=d48ac485a44d0aa8c919e574f740994f",
       "topic": "政治",
-      "score": 85,
+      "score": 84,
       "id": "b5dbdc292bb4"
     },
     {
-      "title": "Hundreds evacuated from resorts as wildfires stretch across Europe",
-      "summary": "One person has died and 40 have been injured as Croatia battles wildfires amid Europe's heatwave.",
-      "url": "https://www.abc.net.au/news/2026-08-15/tourists-evacuated-from-european-holiday-cities/107040790",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-08-14T14:20:15.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/0a1cfbbb62992b157b7c749967dc508c?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "气候",
-      "score": 85,
-      "id": "4a99e26c9970"
+      "title": "Son of Mexico’s former president AMLO alleges US revoked his visa",
+      "summary": "The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels.",
+      "url": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-14T19:44:43.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 83,
+      "id": "da724c452828"
     },
     {
       "title": "Emergency alert warning of wildfire risk sent to phones in England and Wales",
@@ -94,7 +94,7 @@
       "publishedAt": "2026-08-14T19:19:48.000Z",
       "image": "https://i.guim.co.uk/img/media/1e1e8e07ed8e61f60e2907f7b8f5e01449b2c84f/546_0_5346_4276/master/5346.jpg?width=140&quality=85&auto=format&fit=max&s=79ddba5be1c7d4d61f4f5304d0af6188",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "c393055e2245"
     },
     {
@@ -107,7 +107,7 @@
       "publishedAt": "2026-08-14T19:04:21.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d60fb93d5707fbfa1a9b46155b351c37?impolicy=wcms_crop_resize&cropH=896&cropW=1592&xPos=0&yPos=99&width=862&height=485",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "34e780ff3b7b"
     },
     {
@@ -120,7 +120,7 @@
       "publishedAt": "2026-08-14T16:35:06.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f52/live/af679960-97f5-11f1-9577-b1309b6ea3af.jpg",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "2f7aa3e8d2c7"
     },
     {
@@ -133,21 +133,8 @@
       "publishedAt": "2026-08-14T16:28:45.000Z",
       "image": "",
       "topic": "社会",
-      "score": 84,
+      "score": 83,
       "id": "7576b68f704c"
-    },
-    {
-      "title": "United States creates multinational attack drone task force for Middle East",
-      "summary": "United States creates multinational attack drone task force for Middle East &nbsp;&nbsp; Baltimore Sun",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTy1FS1FrNkpYeUhORFhzUE5QeC1RS19EcWFzUHA1c2l2ejRjOG8wUU1hZm9rUmJEUzhaTVVkTS1hTWRhdV9NMzMzYVZlUmNzcDc0blA0Y0hMQzlqUklGal82V2RYSlRtZE84SXhRTTg2a1Vmb0ZHWl9hb3UwZkZTMmRXR1BrbV9ZWkl5WWY1NHk2emhfdU1RZmpNRVdleXl5V1JnREQtSkNLTlN0SU9mekxOUXVNdXc?oc=5",
-      "source": "Baltimore Sun",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-14T13:30:47.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 84,
-      "id": "338d3e400c3d"
     },
     {
       "title": "Trump asks Supreme Court to allow ballroom work to continue",
@@ -159,7 +146,7 @@
       "publishedAt": "2026-08-14T19:05:22.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50eb/live/f1f95720-97e9-11f1-a76b-f1c27c51f3da.jpg",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "e651e4a9c3ca"
     },
     {
@@ -172,7 +159,7 @@
       "publishedAt": "2026-08-14T18:55:24.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "15ad3454d6c8"
     },
     {
@@ -185,7 +172,7 @@
       "publishedAt": "2026-08-14T18:51:11.000Z",
       "image": "https://i.guim.co.uk/img/media/02b86401dda47441867ef599b6a0a5f84e392894/1176_0_6160_4930/master/6160.jpg?width=140&quality=85&auto=format&fit=max&s=bfb61b86eafb39d41dc2f57543077929",
       "topic": "气候",
-      "score": 83,
+      "score": 82,
       "id": "252838a0fb3f"
     },
     {
@@ -198,7 +185,7 @@
       "publishedAt": "2026-08-14T18:43:30.000Z",
       "image": "https://i.guim.co.uk/img/media/e231b4275002c454cd9c88f1c77dfb71e6f6f61e/0_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=997ccde33b3e057967e4f406ebdd0f57",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "05d80f616d87"
     },
     {
@@ -211,7 +198,7 @@
       "publishedAt": "2026-08-14T15:52:57.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "329092f33543"
     },
     {
@@ -224,7 +211,7 @@
       "publishedAt": "2026-08-14T18:09:12.000Z",
       "image": "",
       "topic": "社会",
-      "score": 82,
+      "score": 81,
       "id": "85e6c1f04615"
     },
     {
@@ -237,8 +224,34 @@
       "publishedAt": "2026-08-14T17:52:51.000Z",
       "image": "https://i.guim.co.uk/img/media/b3ca7d7b89c8fea93d13e3268882fcc9a706ce5d/912_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=e7d53f1056ecc53d39b3744b1c0b197b",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "bba75bceb7b5"
+    },
+    {
+      "title": "Trump says record Navy deployment in Iran operations 'not nearly long enough'",
+      "summary": "Trump says record Navy deployment in Iran operations 'not nearly long enough' &nbsp;&nbsp; France 24",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd3dmTlc4LVVYRlpFN0RCa3N0SkV6Smx6V1hjNWs1ZC16bGtUQldkV2lIVlpsaldEZjk0WjM1VnZUMkxzRWRpSFoxeUsxODhlOFBwMl9NazR2Vk45dEV1STlMRzF2SERjeEpwMHJPMDBzZTdEWjZZUVhrS0NibElpejFkVGp0LWRGMkRrRGtlZlJ6V0Z5Rml3c3YyZ0hTdU80dXU4a0JxZjh0WTBpZkRObnY4bzlZTFF3YndWeEhMQUxLQQ?oc=5",
+      "source": "France 24",
+      "feed": "Middle East News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-14T20:17:38.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 80,
+      "id": "385c78788750"
+    },
+    {
+      "title": "Breaking: Professor Jason Arday, Who Resigned from Cambridge Over Alleged Plagiarism, Found Dead",
+      "summary": "Breaking: Professor Jason Arday, Who Resigned from Cambridge Over Alleged Plagiarism, Found Dead &nbsp;&nbsp; Legit.ng",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXlraXBKWFZhLVMwNGdMcEU1ODE3ZVE3dHJWRVVNYVM1S1lrem1kMUQzSlcyNjJGXzVkdk5WTFhOREZfM0h4ZDdoZ1AwM2Q5YzFDd0R4UFd5LWY3ZVB1cTI4RGlGQlpYd2EzSDBhcVVob2dySUluVExYc2VNWmNVTnRpQS1NUnF6SFlFNTFZc0hPOWVhb3NYelpwTU50Tm5YWGk5WnUwVnZRVTQ?oc=5",
+      "source": "Legit.ng",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-14T20:17:17.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 80,
+      "id": "ebe5eeb38765"
     },
     {
       "title": "New aircraft carrier heads to Middle East amid concerns about USS Lincoln conditions - CBS News",
@@ -250,8 +263,21 @@
       "publishedAt": "2026-08-14T14:35:19.000Z",
       "image": "",
       "topic": "社会",
-      "score": 81,
+      "score": 80,
       "id": "5fe4d9ae9772"
+    },
+    {
+      "title": "Hundreds evacuated from resorts as wildfires stretch across Europe",
+      "summary": "One person has died and 40 have been injured as Croatia battles wildfires amid Europe's heatwave.",
+      "url": "https://www.abc.net.au/news/2026-08-15/tourists-evacuated-from-european-holiday-cities/107040790",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "欧洲",
+      "publishedAt": "2026-08-14T14:20:15.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/0a1cfbbb62992b157b7c749967dc508c?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
+      "topic": "气候",
+      "score": 80,
+      "id": "4a99e26c9970"
     },
     {
       "title": "European countries battle multiple wildfires as record heat grips the continent - ABC News",
@@ -263,8 +289,47 @@
       "publishedAt": "2026-08-14T13:36:36.000Z",
       "image": "",
       "topic": "气候",
-      "score": 81,
+      "score": 80,
       "id": "721facc6a3f8"
+    },
+    {
+      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+      "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
+      "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-14T20:22:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1535/live/7141a7f0-9806-11f1-8f19-057f099340f6.jpg",
+      "topic": "气候",
+      "score": 79,
+      "id": "4d3a7c7b48d1"
+    },
+    {
+      "title": "Trump says Navy deployment in the Middle East is 'not nearly long enough'",
+      "summary": "Trump says Navy deployment in the Middle East is 'not nearly long enough' &nbsp;&nbsp; swiowanewssource.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdS1KNENjOUphNlloV3daal9JR1ZiUVU1cmVTSU5iVVZCMEJNelcwQ1lQaTlmU3RxeEd6T2Y0ZVdWSmFwaXc2clFNMV9ndlplSk9fMTJuVnRDQWRXRmpEdU5iYU03YVBKaGJnbDFtcTdnOVAzdXRKc3VyZ0FhZ0dRUXo0QWNBeWs?oc=5",
+      "source": "swiowanewssource.com",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-14T20:16:59.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "d1188c6d8d27"
+    },
+    {
+      "title": "Jason Arday found dead after resigning from Cambridge over plagiarism claims",
+      "summary": "Academic was pronounced dead at his home in south London after police called to address after 3pm on Friday Jason Arday, the black academic who resigned last week as a professor at the University of Cambridge , has been found dead at his home in south London. The Metropolitan police said officers were called to Arday’s address by the London ambulance service",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-14T19:56:25.000Z",
+      "image": "https://i.guim.co.uk/img/media/f2b11433fe6a4e276c2594f779870a25470a56f3/885_291_6035_4827/master/6035.jpg?width=140&quality=85&auto=format&fit=max&s=ee862e70da4d8a274daf52a3de25968e",
+      "topic": "社会",
+      "score": 79,
+      "id": "cf26c65dffd0"
     },
     {
       "title": "New aerial video reveals huge scale of oil spill off Oman",
@@ -276,8 +341,21 @@
       "publishedAt": "2026-08-14T19:36:45.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "0539dc984816"
+    },
+    {
+      "title": "Telstra records profit and CEO pay rise as remote areas struggle for service",
+      "summary": "Telstra has blamed natural disasters for long outages in remote areas of Australia. But does that fully exempt them from blame?",
+      "url": "https://www.abc.net.au/news/2026-08-15/telstra-urged-to-improve-regional-remote-services-and-connection/107038598",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-14T19:24:45.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/1f438d60fe0a6b93e3bf64e81c84957f?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
+      "topic": "社会",
+      "score": 79,
+      "id": "a89e3306de9b"
     },
     {
       "title": "Tech stocks pull Wall Street lower as investors weigh data, Middle East tensions",
@@ -289,7 +367,7 @@
       "publishedAt": "2026-08-14T17:08:03.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "03138a7f9958"
     },
     {
@@ -302,21 +380,21 @@
       "publishedAt": "2026-08-14T13:46:20.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "1121b748aa6e"
     },
     {
       "title": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln",
-      "summary": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln &nbsp;&nbsp; yahoo.com",
+      "summary": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln &nbsp;&nbsp; Yahoo",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY1g5LW5rbnRxVWRlRktxaHpPcTY0V0l5RmtMVmhUdkhjR3RPYm13STlUYVNsZGp6V2doc0duOHVhVjZaTVFhc0JTcVI5aTA5b1ZFWmw1UkY3akwwYVExWmdSbWNPNzZCZHJYbnVrUVhmdU40RFRid0h3Rk5uajY5OWloQmxsQzJYSHdJbHJRdzU1X0JlSGc?oc=5",
-      "source": "yahoo.com",
+      "source": "Yahoo",
       "feed": "Middle East News Network",
       "region": "中东",
       "publishedAt": "2026-08-14T13:45:22.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
-      "id": "f908f9948185"
+      "score": 79,
+      "id": "0bbfbaa9838c"
     },
     {
       "title": "USS Washington heading to Middle East after issues on long-deployed USS Lincoln",
@@ -328,7 +406,7 @@
       "publishedAt": "2026-08-14T13:17:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "67be8b8f1388"
     },
     {
@@ -341,8 +419,21 @@
       "publishedAt": "2026-08-14T13:11:48.000Z",
       "image": "https://i.guim.co.uk/img/media/17e68e19ed25b80e37efd7f163ec27d98dba3af4/284_0_2842_2274/master/2842.jpg?width=140&quality=85&auto=format&fit=max&s=e40693c8a0ee296c9b0ec63ff8630adb",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "7e55cd009f8d"
+    },
+    {
+      "title": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan",
+      "summary": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan &nbsp;&nbsp; The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRkNoblJJT2dwOFlHV0RGRktWUE05M2ttZmNBYlAwNFpEQ09ob0lhVHFRVDhZUGN0WVhuaUxOc0RJdmpidW1GQWpoLU5jdjZ6Y0QwazV4bjB5RmV0ZldsWmNOczRwVkZOdjNGdG81RFZ5Zkt3MkpPNlh2T0xkdW1RZG5rbkNuNUU?oc=5",
+      "source": "The New York Times",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-14T12:47:33.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "d543cf56ed45"
     },
     {
       "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
@@ -354,7 +445,7 @@
       "publishedAt": "2026-08-14T06:31:29.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "052b66d9c11d"
     },
     {
@@ -367,7 +458,7 @@
       "publishedAt": "2026-08-14T19:02:49.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "48eaa18463e5"
     },
     {
@@ -380,7 +471,7 @@
       "publishedAt": "2026-08-14T18:44:06.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/549383837549e0b59e12ad81c802aa77?impolicy=wcms_crop_resize&cropH=2266&cropW=4028&xPos=0&yPos=210&width=862&height=485",
       "topic": "气候",
-      "score": 79,
+      "score": 78,
       "id": "53244d5bce41"
     },
     {
@@ -393,7 +484,7 @@
       "publishedAt": "2026-08-14T18:43:36.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "e670dfceff80"
     },
     {
@@ -406,7 +497,7 @@
       "publishedAt": "2026-08-14T18:21:20.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "e94afef93295"
     },
     {
@@ -419,8 +510,21 @@
       "publishedAt": "2026-08-14T15:36:58.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "127209db1fae"
+    },
+    {
+      "title": "One dead, dozens injured and thousands evacuated in Croatian wildfires – as it happened",
+      "summary": "Firefighters discover body and say more than 40 people hurt in the Lokva Rogoznica and Omiš areas England has received just 4mm of rain so far in August, or 6% of the long-term average for the month , the Environment Agency said on Friday, as reported by PA. It follows the driest July on record for the country , when only 7mm of rain was measured, or 10% of ",
+      "url": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-14T15:23:29.000Z",
+      "image": "https://i.guim.co.uk/img/media/6d153fe5361ed9b23a587ee6ca162a617be7205b/759_0_4161_3330/master/4161.jpg?width=140&quality=85&auto=format&fit=max&s=0a86c794780529b8d6905361f0e2d668",
+      "topic": "气候",
+      "score": 78,
+      "id": "12d6e1c06e8d"
     },
     {
       "title": "Iberian orca known for ramming boats seen with suspected gunshot wounds",
@@ -432,7 +536,7 @@
       "publishedAt": "2026-08-14T15:07:10.000Z",
       "image": "https://i.guim.co.uk/img/media/b001a448cf993677aa864dffcd0d41224f661c57/561_0_3086_2469/master/3086.jpg?width=140&quality=85&auto=format&fit=max&s=2a8f238c41ac69dbb6bb6935052cd2fe",
       "topic": "科技",
-      "score": 79,
+      "score": 78,
       "id": "09777beff9bc"
     },
     {
@@ -445,7 +549,7 @@
       "publishedAt": "2026-08-14T11:50:00.000Z",
       "image": "",
       "topic": "科技",
-      "score": 79,
+      "score": 78,
       "id": "812ab2c9a8c2"
     },
     {
@@ -458,7 +562,7 @@
       "publishedAt": "2026-08-14T18:37:59.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "5aac39d22ca8"
     },
     {
@@ -471,7 +575,7 @@
       "publishedAt": "2026-08-14T18:17:25.000Z",
       "image": "https://i.guim.co.uk/img/media/d79448fe73575d2a7537a08a8dca3110befa2224/683_0_2608_2087/master/2608.jpg?width=140&quality=85&auto=format&fit=max&s=4d64688e7e1b5b62f60fd8a28dda6609",
       "topic": "气候",
-      "score": 78,
+      "score": 77,
       "id": "957fd6f6b2cb"
     },
     {
@@ -484,7 +588,7 @@
       "publishedAt": "2026-08-14T14:55:17.000Z",
       "image": "https://i.guim.co.uk/img/media/b0b8de4d6a510eeae2d1c3e3b4a748dd233cbb87/0_435_3840_3074/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=17dd0acd0c6f47f7d76ae9a01b695348",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "518aeebca2e8"
     },
     {
@@ -497,34 +601,86 @@
       "publishedAt": "2026-08-14T12:11:50.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "01fd5f0dba3f"
     },
     {
       "title": "Boeing chooses the CEO of GOL as the new president for Latin America and the Caribbean",
-      "summary": "Boeing chooses the CEO of GOL as the new president for Latin America and the Caribbean &nbsp;&nbsp; democrata.es",
+      "summary": "Boeing chooses the CEO of GOL as the new president for Latin America and the Caribbean &nbsp;&nbsp; Demócrata",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVJrRmRZUzZjRVV2QTEwcUZfSExOZ014ZlFpd1ZObjV3a3hmY1pTOFJYTWhHbmo3WlFqMnliMHk3aEFNZXRSLTM3bkkzbmVteDV4UlZ3MjJHQ1BXU3RWcWJHZ3JFUTdYX3VsM1ptemF1SkljeFJkYnA4R054YlNuWjBzRzVodVpQN0lENGlhV21CamN6MTFBLWFzRmpqVzNrTmtDa29fck1GN2ZtT3o2eVpzZVNQbEU5b0tyaFZteEHSAcYBQVVfeXFMUHRQV1liLTFPT3ZhbHBEaUtzMHh2WXF6N3Itb2FGRlVPM3hlZ3kxVWkwOC1jVTIxVjBCTTJfNEQyMXY5ZEI1X1QzUlZMZ0NnU01Dc3lMc3QtQXl0SVZFQndiY3pMcWVfVFRXMEpSMTc1dnp6WVFuSmsyVWg4QUlER1h6MkFqTWhuUFlCZ1BuYjQ3dEdPMzc4VjRsTGhTYl9FQXpNMFI2Nk5Pc2JsM0VsSHVWSEtiNGU4dU55MVVTa0c5X0RYVzBR?oc=5",
-      "source": "democrata.es",
+      "source": "Demócrata",
       "feed": "Latin America News Network",
       "region": "美洲",
       "publishedAt": "2026-08-14T08:44:26.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
-      "id": "62cf443a1c8e"
+      "score": 77,
+      "id": "f122dbd3f53e"
     },
     {
-      "title": "Standards watchdog resumes Farage probe as rivals slam needless byelection",
-      "summary": "Reform UK leader says he stayed away from vote count in Clacton to avoid being ‘humiliated by nobodies’ Nigel Farage’s attempt to draw the sting from inquiries into his financial affairs appeared to have backfired on Friday as the standards watchdog reopened its investigation and MPs from all sides condemned the needless byelection. The Reform UK leader decl",
-      "url": "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-14T17:00:23.000Z",
-      "image": "https://i.guim.co.uk/img/media/e11d09108b2d9b38bf04bfc4b7ab36522216a24f/1683_258_3782_3026/master/3782.jpg?width=140&quality=85&auto=format&fit=max&s=d13fea38bf35f4524aaf8eb42a99e453",
+      "title": "Trial project sees everyday locals settle refugees in their backyard",
+      "summary": "As debate about immigration continues, communities across the country roll out the welcome mat for refugee families.",
+      "url": "https://www.abc.net.au/news/2026-08-15/everyday-australians-welcoming-refugees-crisp-program-permanent/106961766",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-14T20:38:48.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f333012dcbd3daece3c7923f06b6eee6?impolicy=wcms_crop_resize&cropH=3942&cropW=7008&xPos=0&yPos=1&width=862&height=485",
+      "topic": "社会",
+      "score": 76,
+      "id": "129608a08002"
+    },
+    {
+      "title": "Attorney Ben Crump retained by family of 22-year-old woman shot and killed by JSO",
+      "summary": "Attorney Ben Crump retained by family of 22-year-old woman shot and killed by JSO &nbsp;&nbsp; News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbktoaDJHSEZ0UkFrd2M1U3ZaUEdxRVI4bU9xdVE2a1dsbWd0VkI5bkpRZGJYLUtsdmZvandQT3h6NExxNzhhbnlvZkdvLUNYSXllSDR1NWR4OVkzTUVfQzg2YnpXSHVjRmdfY1kyeU5GazVGXzBIaFNMb0ZreTZNWjRzYUtsRzl2VjNsNEo2RGdfSlhEbGwyQ1pYR05RdFpPdTAyaDEyMFJkS0hvRTRsYU9oemtWYTVPUGozNENGRTcxcDhtemo5bw?oc=5",
+      "source": "News4JAX",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-14T20:32:42.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "ec98f740c3d4"
+    },
+    {
+      "title": "Showery days ahead after week of sunny Queensland skies",
+      "summary": "Scattered showers will fall on much of Queensland's east coast this weekend, with the state's south-west also in for overcast and potentially stormy weather heading into next week.",
+      "url": "https://www.abc.net.au/news/2026-08-15/showery-days-ahead-for-queensland-after-week-of-clear-skies/107037900",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-14T20:15:00.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a006b5352a40791c65357a7435451100?impolicy=wcms_crop_resize&cropH=2088&cropW=3712&xPos=0&yPos=691&width=862&height=485",
+      "topic": "气候",
+      "score": 75,
+      "id": "2fe8af18603d"
+    },
+    {
+      "title": "The fight to protect an 85-year-old fire station and its 'haunted' history",
+      "summary": "The building is unlike any other in town, with even the occasional ghost story capturing the community's imagination.",
+      "url": "https://www.abc.net.au/news/2026-08-15/heritage-listing-call-for-gympie-haunted-fire-station/107024924",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-14T20:00:00.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ebbe9fc6b11ec4912adc00c7bf790436?impolicy=wcms_crop_resize&cropH=575&cropW=1023&xPos=0&yPos=186&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "1a5371717ea7"
+    },
+    {
+      "title": "Opinion - Brazil’s elections are the acid test for Trump’s Latin America policy",
+      "summary": "Opinion - Brazil’s elections are the acid test for Trump’s Latin America policy &nbsp;&nbsp; AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkxFUVpQRnhmcVdKU0VpUjNieElYLV9Wek4yWUF5M2Q2OFk0QWZmNUFfcWtBeGtlQ2RPT0lNMjZlQ2hZRkVReXBwNzJhbVEzdnBoYnVjVkdpa0Znck1MTTRqLTZEN1JkOElUMTZiSFRrXzB2REhJQXhvelk5OHBxZ1JFR1c?oc=5",
+      "source": "AOL.com",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-14T19:25:56.000Z",
+      "image": "",
       "topic": "政治",
-      "score": 77,
-      "id": "fe5035fe59c0"
+      "score": 75,
+      "id": "41c873449b1c"
     },
     {
       "title": "What’s next for far-right Reform UK after Farage’s by-election win?",
@@ -536,7 +692,7 @@
       "publishedAt": "2026-08-14T16:35:45.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "b688cbb3868c"
     },
     {
@@ -549,7 +705,7 @@
       "publishedAt": "2026-08-14T16:28:59.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3018/live/da9b86e0-97b0-11f1-a7ab-8b30adf0800a.jpg",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "a5369aa3e395"
     },
     {
@@ -562,7 +718,7 @@
       "publishedAt": "2026-08-14T16:08:07.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "fd62a8e8c549"
     },
     {
@@ -575,21 +731,8 @@
       "publishedAt": "2026-08-14T12:43:56.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "3c45802ad952"
-    },
-    {
-      "title": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan",
-      "summary": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan &nbsp;&nbsp; nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRkNoblJJT2dwOFlHV0RGRktWUE05M2ttZmNBYlAwNFpEQ09ob0lhVHFRVDhZUGN0WVhuaUxOc0RJdmpidW1GQWpoLU5jdjZ6Y0QwazV4bjB5RmV0ZldsWmNOczRwVkZOdjNGdG81RFZ5Zkt3MkpPNlh2T0xkdW1RZG5rbkNuNUU?oc=5",
-      "source": "nytimes.com",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-14T09:39:02.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "38cd248db15f"
     },
     {
       "title": "Nationals 'fighting' to win Bendigo as Jacinta Allan exits politics",
@@ -601,7 +744,7 @@
       "publishedAt": "2026-08-14T19:30:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1d981e54b4076af40ea727b2fef86ea7?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "b9ffefc26b6c"
     },
     {
@@ -614,24 +757,11 @@
       "publishedAt": "2026-08-14T19:27:08.000Z",
       "image": "https://i.guim.co.uk/img/media/8dc2340929bd6c90c7cfb1d3acb624bde3941b93/682_0_4071_3259/master/4071.jpg?width=140&quality=85&auto=format&fit=max&s=66102cfdd1d9bae208d4a2e9ce4db9b8",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "e4e48a20683c"
     },
     {
-      "title": "Telstra urged to 'step up' in services for regional and remote Australians",
-      "summary": "Telstra has blamed natural disasters for long outages in remote areas of Australia. But does that fully exempt them from blame?",
-      "url": "https://www.abc.net.au/news/2026-08-15/telstra-urged-to-improve-regional-remote-services-and-connection/107038598",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-14T19:24:45.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/1f438d60fe0a6b93e3bf64e81c84957f?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "3b7a2b8f18bb"
-    },
-    {
-      "title": "Rejuvenated Hockeyroos and Kookaburras tackle World Cup with fresh perspectives",
+      "title": "Hockeyroos and Kookaburras tackle World Cup with fresh perspectives",
       "summary": "The Kookaburras and Hockeyroos' last major tournament was Paris 2024 where they exited in the quarter-finals. They have both experienced significant change since then, and are determined to start their new eras with success at the World Cup.",
       "url": "https://www.abc.net.au/news/2026-08-15/hockeyroos-kookaburras-tackle-world-cup-fresh-perspectives/107039264",
       "source": "ABC Australia",
@@ -640,11 +770,11 @@
       "publishedAt": "2026-08-14T19:19:35.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/93c290854e136c37b3c6dd00847906bf?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 75,
-      "id": "3427666e9de8"
+      "score": 74,
+      "id": "ec8c5f2dfdfe"
     },
     {
-      "title": "US forest service chief reportedly pressed staff for more support for wildfire near his ranch",
+      "title": "US Forest Service chief reportedly pressed staff for more support for wildfire near his ranch",
       "summary": "Michael Boren requested more aircraft for 7-acre Cabin Creek fire, some of which were diverted from other fires Michael Boren, the US undersecretary of agriculture for natural resources and environment who oversees the US Forest Service, reportedly pressed agency staff last month to deploy more aircraft to a 7-acre (2.8-hectare) fire that was burning near hi",
       "url": "https://www.theguardian.com/us-news/2026/aug/14/michael-boren-idaho-wildfire-ranch",
       "source": "The Guardian",
@@ -653,21 +783,8 @@
       "publishedAt": "2026-08-14T19:01:58.000Z",
       "image": "https://i.guim.co.uk/img/media/53e9d220265b6a2b92065a106d9958c729a2a488/580_0_2974_2381/master/2974.jpg?width=140&quality=85&auto=format&fit=max&s=6f0c72bc81878458e0670f8afac62909",
       "topic": "气候",
-      "score": 75,
-      "id": "a33edaa9de80"
-    },
-    {
-      "title": "Saudi Arabia, Turkiye and the UAE are looking to Africa",
-      "summary": "The expansion of strategic ambitions by Saudi Arabia, Turkiye and the UAE into Africa show just how quickly global forces are shifting.",
-      "url": "https://www.abc.net.au/news/2026-08-15/africa-pakistan-turkiye-saudi-arabia-mecca-pact-egypt-djibouti/107037396",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "非洲",
-      "publishedAt": "2026-08-14T19:00:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/fabcc88d9acb7f9b2e2570363c2e5787?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=24&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "0432036bb2fb"
+      "score": 74,
+      "id": "1d3418bed477"
     },
     {
       "title": "What dozens of empty chairs revealed about Australia's racism inquiry",
@@ -679,8 +796,21 @@
       "publishedAt": "2026-08-14T19:00:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/5a987d40712e567e7233e695c0355a13?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "5d10ff053809"
+    },
+    {
+      "title": "As strategic alliances shift, all eyes are on Africa",
+      "summary": "The expansion of strategic ambitions by Saudi Arabia, Turkiye and the UAE into Africa show just how quickly global forces are shifting.",
+      "url": "https://www.abc.net.au/news/2026-08-15/africa-pakistan-turkiye-saudi-arabia-mecca-pact-egypt-djibouti/107037396",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "非洲",
+      "publishedAt": "2026-08-14T19:00:00.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/fabcc88d9acb7f9b2e2570363c2e5787?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=24&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "372d78fdf638"
     },
     {
       "title": "Brazil's Lula triggers reciprocity process against US tariffs in effort to show strength - ABC News",
@@ -692,7 +822,7 @@
       "publishedAt": "2026-08-14T18:44:47.000Z",
       "image": "",
       "topic": "经济",
-      "score": 75,
+      "score": 74,
       "id": "cbebb2e35c9d"
     },
     {
@@ -705,34 +835,8 @@
       "publishedAt": "2026-08-14T15:40:27.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "fda11784ce65"
-    },
-    {
-      "title": "One dead, dozens injured and thousands evacuated in Croatian wildfires – as it happened",
-      "summary": "Firefighters discover body and say more than 40 people hurt in the Lokva Rogoznica and Omiš areas England has received just 4mm of rain so far in August, or 6% of the long-term average for the month , the Environment Agency said on Friday, as reported by PA. It follows the driest July on record for the country , when only 7mm of rain was measured, or 10% of ",
-      "url": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-14T15:23:29.000Z",
-      "image": "https://i.guim.co.uk/img/media/6d153fe5361ed9b23a587ee6ca162a617be7205b/759_0_4161_3330/master/4161.jpg?width=140&quality=85&auto=format&fit=max&s=0a86c794780529b8d6905361f0e2d668",
-      "topic": "气候",
-      "score": 75,
-      "id": "12d6e1c06e8d"
-    },
-    {
-      "title": "US missionary kidnapped in Niger released after nine months in captivity",
-      "summary": "Kevin Rideout, a pilot with the evangelical missionary agency SIM International, was abducted in the capital, Niamey.",
-      "url": "https://www.aljazeera.com/news/2026/8/14/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-14T12:54:30.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "7a2d738f8a0d"
     },
     {
       "title": "Five dead in Japan after record-breaking rainfall causes severe flooding",
@@ -744,7 +848,7 @@
       "publishedAt": "2026-08-14T06:01:00.000Z",
       "image": "https://e3.365dm.com/26/08/1920x1080/skynews-japan-floods-chiba_7321213.jpg?20260814073528",
       "topic": "气候",
-      "score": 75,
+      "score": 74,
       "id": "5df34754f5fb"
     },
     {
@@ -757,11 +861,11 @@
       "publishedAt": "2026-08-14T18:45:22.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/bd6a7664ceddeb9bb5bf6ce3756ebd5d?impolicy=wcms_crop_resize&cropH=2517&cropW=4475&xPos=259&yPos=165&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "105fb94edbec"
     },
     {
-      "title": "As Trump's reflecting pool mess unfolded, a camera captured it all",
+      "title": "From this camera, Trump's reflecting pool mess has nowhere to hide",
       "summary": "Piecing together webcam images, court documents and online posts highlights what the public was told about Donald Trump's reflecting pool saga and the reality behind the scenes.",
       "url": "https://www.abc.net.au/news/2026-08-15/trumps-reflecting-pool-mess-all-captured-on-webcam/106941676",
       "source": "ABC Australia",
@@ -770,11 +874,11 @@
       "publishedAt": "2026-08-14T18:41:08.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/a8e50305f0b5b2ec362c2782ba08996b?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 74,
-      "id": "fce0469d08e5"
+      "score": 73,
+      "id": "3829a39e9e9b"
     },
     {
-      "title": "'I live with the scars': Why the fight against HIV is not over",
+      "title": "'It will come back with a vengeance': Why the fight against HIV is not over",
       "summary": "Australia's community-led response to HIV has put an internationally remarkable goal within reach, but new challenges are threatening to disrupt decades of progress.",
       "url": "https://www.abc.net.au/news/2026-08-15/hiv-fight-in-australia-not-over-as-new-challenges-emerge/107016504",
       "source": "ABC Australia",
@@ -783,8 +887,8 @@
       "publishedAt": "2026-08-14T18:38:52.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/60132fb4e308793730c7e52a2bb8d692?impolicy=wcms_crop_resize&cropH=1405&cropW=2499&xPos=0&yPos=133&width=862&height=485",
       "topic": "社会",
-      "score": 74,
-      "id": "eef031b7d4de"
+      "score": 73,
+      "id": "d8403e048ccf"
     },
     {
       "title": "Madonna will not be playing Glastonbury in 2027, Emily Eavis says",
@@ -796,7 +900,7 @@
       "publishedAt": "2026-08-14T18:38:25.000Z",
       "image": "https://i.guim.co.uk/img/media/e825c3c0f9b006b9d1bde2db18a1b29a10d39c9c/303_0_3146_2517/master/3146.jpg?width=140&quality=85&auto=format&fit=max&s=a353331fbe45e9b1f7b4b36c41868697",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "e1f6c7d14db1"
     },
     {
@@ -809,7 +913,7 @@
       "publishedAt": "2026-08-14T18:30:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/b2b50a82165af4cd8af5b7288fb1f03b?impolicy=wcms_crop_resize&cropH=2800&cropW=4978&xPos=0&yPos=283&width=862&height=485",
       "topic": "气候",
-      "score": 74,
+      "score": 73,
       "id": "add66d40226f"
     },
     {
@@ -822,7 +926,7 @@
       "publishedAt": "2026-08-14T18:30:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/940a0645b3f1f3b7262afce20e989ee9?impolicy=wcms_crop_resize&cropH=2811&cropW=4997&xPos=0&yPos=387&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "e165f1a42c79"
     },
     {
@@ -835,112 +939,8 @@
       "publishedAt": "2026-08-14T18:30:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/ed28f3ede50742b869f26caa22bb515b?impolicy=wcms_crop_resize&cropH=2160&cropW=3840&xPos=0&yPos=198&width=862&height=485",
       "topic": "科技",
-      "score": 74,
+      "score": 73,
       "id": "979a0369682e"
-    },
-    {
-      "title": "Spain gives ageing nuclear plant three-year extension as Middle East crisis rattles energy markets",
-      "summary": "Spain gives ageing nuclear plant three-year extension as Middle East crisis rattles energy markets &nbsp;&nbsp; Olive Press News Spain",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSVlOVDhJQXRYOXdYNjl6ZEtfMnBteEdvamV2UlZUckplSnVtQTFyYjZzYk81R3hIRzk4LWFZZjM1TU5rNUVuX1lQdE4zYUQ3Q1FvSmlLbDBmczl4WmM2NDRRdGllclF2SzZranZuNjV6YS1Ra253cXpMWnlodUthaENZNGVDamdoekpoWnRJRFRuNjVHUnhVWkdFRkNJZnc0YXlfbEp6TmhNdk14MWZacDVDUFFEVVh6LTFUSnhjSHBoN21zU1BoTWRR?oc=5",
-      "source": "Olive Press News Spain",
-      "feed": "Middle East News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-14T15:01:00.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 74,
-      "id": "7ae90d52828a"
-    },
-    {
-      "title": "Son of former Mexican President López Obrador says US revoked his visa and appeals directly to Trump",
-      "summary": "Son of former Mexican President López Obrador says US revoked his visa and appeals directly to Trump &nbsp;&nbsp; WSLS",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZUJqRnpENzRrSk1uVUtITk5sRzlVcEE1QU5JUm5RX3NObGxJVXNneDVuRTBIcEhhN00tSHdIdS1RR2tRZ1R5UVl0NnFGMmd6WXhvT2VuMjZqR0ZDc3laZHRmMXBEOHBEa01jWjVRakZjOTJVM045MWsxZnJPbmtsQXVEeFlrNmJUZllfVHpXOVhsS3YwOGRZc1JNMHBudXBTN2NCbHRYOGxFNVI0WDhxbV9BM1F0elhoY2VYOHJ6NFZWMEc1U2t0TGNUM1lFbXMzdHEyOEpjM2VYZUx4?oc=5",
-      "source": "WSLS",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-14T16:56:56.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "7ad297047797"
-    },
-    {
-      "title": "Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact",
-      "summary": "The pact says an armed ⁠⁠attack on any one of the ⁠⁠three countries would be ⁠⁠regarded as an ⁠⁠attack against them all.",
-      "url": "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-14T14:19:30.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "d1673599542d"
-    },
-    {
-      "title": "Deborah Mailman becomes first Indigenous inductee to Logies Hall of Fame",
-      "summary": "Deborah Mailman, star of Total Control and The Secret Life of Us, is also the sixth woman to enter the Logie Awards Hall of Fame.",
-      "url": "https://www.abc.net.au/news/2026-08-15/deborah-mailman-logies-hall-of-fame/106992594",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-14T14:01:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/41e5119c1ee9948473889a033d6f5eb0?impolicy=wcms_crop_resize&cropH=1623&cropW=2886&xPos=0&yPos=164&width=862&height=485",
-      "topic": "政治",
-      "score": 73,
-      "id": "a02e3c3af27a"
-    },
-    {
-      "title": "Pakistan PM’s ‘red line’ warning to India over water treaty",
-      "summary": "Pakistan Prime Minister Shehbaz Sharif accused India of illegally suspending the Indus Waters Treaty.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-14T13:07:19.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "9d9a7586a1b5"
-    },
-    {
-      "title": "Russia stance will be defended in court, pledges World Athletics chief Coe",
-      "summary": "Russian Athletics has lodged new claim at Court of Arbitration for Sport to challenge sanctions, but WA will fight it.",
-      "url": "https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-14T13:04:23.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "a32a06f40cca"
-    },
-    {
-      "title": "Canadian plasma clinics pause collections after deaths of two donors",
-      "summary": "Grifols, which runs private chain of clinics, to temporarily stop taking donations after new government investigation A chain of private plasma donation clinics in Canada has said it is pausing collections after the deaths of two donors and a new government investigation into potential unsafe practices. Grifols, a Spanish healthcare company which runs 17 cli",
-      "url": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-08-14T16:21:39.000Z",
-      "image": "https://i.guim.co.uk/img/media/2372fdc8cb2b4510838e8a8f2e1f73d31cb5d001/126_0_506_405/master/506.jpg?width=140&quality=85&auto=format&fit=max&s=ce7d5756551da9f0f87312692ca2891f",
-      "topic": "政治",
-      "score": 71,
-      "id": "e83157278d4c"
-    },
-    {
-      "title": "See the impact of the record heat and wildfires gripping much of Europe",
-      "summary": "See the impact of the record heat and wildfires gripping much of Europe &nbsp;&nbsp; CBC",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONldrS29qVUZQa04zcC1UUXBxZXdzeTdfUHNCM3ZFazdzNkN4ZHJrYkVKTzM4NFFIREsxdjZLMGo3LVphamVuWmFzQ2hHVlQ2Mks0aVVWemI3b2xGaHBvczlsbmpQb2QxUkRyTFlRVzJyS0V0Vm9sUVZzdDJjZEd6N2lqLUsyLW9aYWMzVw?oc=5",
-      "source": "CBC",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-14T15:42:47.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 71,
-      "id": "b3dce513056e"
     }
   ]
 }
