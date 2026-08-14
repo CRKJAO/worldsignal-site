@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T22:43:30.140Z",
+  "updatedAt": "2026-08-14T23:40:50.778Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -8,7 +8,7 @@
   "items": [
     {
       "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea ‘not nearly enough’ – live",
-      "summary": "President claims families not worried, despite relatives raising concerns, but confirms USS George Washington will replace aircraft carrier on Iran mission Trump administration asks ⁠US supreme court to allow construction of White House ballroom Sign up for the Breaking News US email The Trump administration, in its appeal to the supreme court today, said th",
+      "summary": "President claims families not worried, despite relatives raising concerns, but confirms USS George Washington will replace aircraft carrier on Iran mission Trump downplays concerns about sailors deployed for record 250 days Sign up for the Breaking News US email The Trump administration, in its appeal to the supreme court today, said that “this case involves",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -16,12 +16,25 @@
       "publishedAt": "2026-08-14T22:32:19.000Z",
       "image": "https://i.guim.co.uk/img/media/dfdb2088fca801961af56d1dc574e5ef9cdb13c6/122_0_3727_2981/master/3727.jpg?width=140&quality=85&auto=format&fit=max&s=4021f65d032ea3bc9af9dc0c71a30097",
       "topic": "政治",
-      "score": 97,
+      "score": 96,
       "id": "d5f237a0af7f"
     },
     {
-      "title": "Trump downplays concerns about sailors aboard USS Abraham Lincoln amid record deployment",
-      "summary": "President said nine months at sea ‘not nearly long enough’ even as families call for attention to mental health crisis Donald Trump has downplayed concerns about US sailors enduring a record-setting deployment of nearly nine months aboard the USS Abraham Lincoln on Friday, saying the deployment is “not nearly long enough” as concerns mount over mental health",
+      "title": "Breaking: Magnitude-7.8 earthquake strikes off coast of Indonesia",
+      "summary": "A magnitude-7.8 earthquake strikes off the coast of Indonesia in the Flores region, triggering an early tsunami warning by the country's geophysics agency but posing no current threat to Australia.",
+      "url": "https://www.abc.net.au/news/2026-08-15/earthquake-strikes-off-coast-of-indonesia/107041680",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "亚洲",
+      "publishedAt": "2026-08-14T23:07:19.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/051acf672f5cf5ff176b659d922c7872?impolicy=wcms_crop_resize&cropH=595&cropW=1058&xPos=0&yPos=0&width=862&height=485",
+      "topic": "政治",
+      "score": 93,
+      "id": "6ce66cbb5c88"
+    },
+    {
+      "title": "Trump downplays concerns about sailors onboard USS Abraham Lincoln amid record deployment",
+      "summary": "President said nine months at sea ‘not nearly long enough’ even as families call for attention to mental health crisis Donald Trump has downplayed concerns about US sailors enduring a record-setting deployment of nearly nine months onboard the USS Abraham Lincoln on Friday, saying the deployment was “not nearly long enough” as concerns mount over mental heal",
       "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-uss-abraham-lincoln-deployment",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -29,8 +42,8 @@
       "publishedAt": "2026-08-14T22:12:55.000Z",
       "image": "https://i.guim.co.uk/img/media/bb189f5df21af2d08918529132fc52e6524508eb/335_0_1873_1500/master/1873.jpg?width=140&quality=85&auto=format&fit=max&s=95ddd8370a8aa4f5a84dba4df3221791",
       "topic": "政治",
-      "score": 93,
-      "id": "4448fdb669cd"
+      "score": 91,
+      "id": "972ae6f290f5"
     },
     {
       "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
@@ -42,7 +55,7 @@
       "publishedAt": "2026-08-14T21:50:46.000Z",
       "image": "",
       "topic": "政治",
-      "score": 92,
+      "score": 91,
       "id": "18078fac1d84"
     },
     {
@@ -55,7 +68,7 @@
       "publishedAt": "2026-08-14T21:38:17.000Z",
       "image": "https://i.guim.co.uk/img/media/b5c83da9efbbf04d1758c3b4f20d9ba23182b70d/206_0_4535_3628/master/4535.jpg?width=140&quality=85&auto=format&fit=max&s=f1935c96b4f6952f19cc53d22246976e",
       "topic": "政治",
-      "score": 91,
+      "score": 90,
       "id": "420c69d10a45"
     },
     {
@@ -68,7 +81,7 @@
       "publishedAt": "2026-08-14T21:29:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 91,
+      "score": 90,
       "id": "573dd9e92d96"
     },
     {
@@ -81,7 +94,7 @@
       "publishedAt": "2026-08-14T21:17:15.000Z",
       "image": "",
       "topic": "社会",
-      "score": 90,
+      "score": 89,
       "id": "d9b5717b2bf5"
     },
     {
@@ -94,7 +107,7 @@
       "publishedAt": "2026-08-14T22:15:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 87,
+      "score": 86,
       "id": "d131c3354b6c"
     },
     {
@@ -107,7 +120,7 @@
       "publishedAt": "2026-08-14T22:10:51.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/8601df28c464abcc41059b1fb10eddaf?impolicy=wcms_crop_resize&cropH=527&cropW=936&xPos=0&yPos=7&width=862&height=485",
       "topic": "气候",
-      "score": 87,
+      "score": 86,
       "id": "2170f7771891"
     },
     {
@@ -120,8 +133,34 @@
       "publishedAt": "2026-08-14T18:23:56.000Z",
       "image": "",
       "topic": "社会",
-      "score": 87,
+      "score": 86,
       "id": "af5065f38c30"
+    },
+    {
+      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
+      "summary": "One person killed and hundreds evacuated in Croatia as blazes also hit Germany, Greece and Spain Almost 500 people have been arrested on suspicion of starting wildfires in France since the start of the summer, authorities have said, as firefighters in half a dozen European countries tackle ferocious blazes amid a record-breaking heatwave. A fire engulfed ⁠ho",
+      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-14T16:58:04.000Z",
+      "image": "https://i.guim.co.uk/img/media/4e74294d7fc12a4f6c823be60d68e8ff43d71b97/984_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=40fcf0dd5ba505158e68d69f898bc919",
+      "topic": "气候",
+      "score": 85,
+      "id": "54cbfdfcf766"
+    },
+    {
+      "title": "Tsunami warning issued as massive earthquake strikes off Indonesia’s Flores island",
+      "summary": "Tsunami warning issued as massive earthquake strikes off Indonesia’s Flores island &nbsp;&nbsp; 7NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWS1IZndjUndySTVMbmp3MW40X0FiNDFwYzZHZ0hSOTB5bjVpQ3lhNVdYdlpQOVdoRGxyMHZUMXV3TG1CemFoMFBtdUhXQWdGYURhbUlkU2ctdmhiUzZmbEZhMTBuemQ4RE1hdDJ1RkhoVjRtUUJVVnphRVFNZW9rM3g3VS12blVqNUF4UjhFZ09ZUkNzZHFKMWhoTHdNRDdyQVliQ3ladHFpUFQ0RExlYk5tdljSAboBQVVfeXFMTXk2aldZNlZPTWUxTnAyWTVkSGxiQUZ6ZUtGZGRMeDJQUW1uYVM2ajdSaEwtZ3VvZTRqSUlDVkp5bUJxdEc0WHlUMm4yOEFxbmVDeGxXMzFkd3loREZCd2ZrYjRqNmV6ZTJEYjZSaksxc2JVT0gzXzhEbUtreF9idV9yd3U4UEJGTWJvX1Uyak9NcG03M1JEbjdjeTZWWHEwVnFqeGlrZjhubzF6cVA4bDc5bGVPMHFKcWlR?oc=5",
+      "source": "7NEWS",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-14T23:03:00.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 84,
+      "id": "42cd818f881c"
     },
     {
       "title": "S&P 500 ends lower as investors weigh data, Middle East tensions",
@@ -133,7 +172,7 @@
       "publishedAt": "2026-08-14T20:47:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 86,
+      "score": 84,
       "id": "e2531bdf431d"
     },
     {
@@ -146,7 +185,7 @@
       "publishedAt": "2026-08-14T20:46:40.000Z",
       "image": "",
       "topic": "社会",
-      "score": 86,
+      "score": 84,
       "id": "89c3cd504e5f"
     },
     {
@@ -159,7 +198,7 @@
       "publishedAt": "2026-08-14T20:17:17.000Z",
       "image": "",
       "topic": "社会",
-      "score": 85,
+      "score": 84,
       "id": "346af854a431"
     },
     {
@@ -172,47 +211,21 @@
       "publishedAt": "2026-08-14T15:54:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 84,
+      "score": 83,
       "id": "3af7b501f64f"
     },
     {
-      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
-      "summary": "One person killed and hundreds evacuated in Croatia as blazes also hit Germany, Greece and Spain Almost 500 people have been arrested on suspicion of starting wildfires in France since the start of the summer, authorities have said, as firefighters in half a dozen European countries tackle ferocious blazes amid a record-breaking heatwave. A fire engulfed ⁠ho",
-      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-14T16:58:04.000Z",
-      "image": "https://i.guim.co.uk/img/media/4e74294d7fc12a4f6c823be60d68e8ff43d71b97/984_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=40fcf0dd5ba505158e68d69f898bc919",
-      "topic": "气候",
-      "score": 82,
-      "id": "54cbfdfcf766"
-    },
-    {
-      "title": "Son of Mexico’s former president AMLO alleges US revoked his visa",
-      "summary": "The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels.",
-      "url": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss",
+      "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
+      "summary": "Six Houthi ballistic missiles struck Yemen's government-held al-Makha port, killing at least four.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-14T19:44:43.000Z",
+      "region": "中东",
+      "publishedAt": "2026-08-14T22:58:58.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
-      "id": "da724c452828"
-    },
-    {
-      "title": "Emergency alert warning of wildfire risk sent to phones in England and Wales",
-      "summary": "People urged not to light barbecues, campfires or anything else that could spark fire during period of extreme heat Millions of people across England and Wales received an emergency alert to their phones on Friday as the government warned against activities that could start fires. The deputy prime minister, Louise Haigh, said it was the most extensive use to",
-      "url": "https://www.theguardian.com/world/2026/aug/14/emergency-alert-warning-wildfire-risk-sent-phones-england-wales",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-14T19:19:48.000Z",
-      "image": "https://i.guim.co.uk/img/media/1e1e8e07ed8e61f60e2907f7b8f5e01449b2c84f/546_0_5346_4276/master/5346.jpg?width=140&quality=85&auto=format&fit=max&s=79ddba5be1c7d4d61f4f5304d0af6188",
-      "topic": "政治",
-      "score": 81,
-      "id": "c393055e2245"
+      "score": 80,
+      "id": "8762fdd765b2"
     },
     {
       "title": "French court blocks Macron’s social media ban for under-15s",
@@ -224,21 +237,8 @@
       "publishedAt": "2026-08-14T17:12:14.000Z",
       "image": "https://i.guim.co.uk/img/media/37d9d05fd3b13992e53c2a7f0210f723e9bc0a54/92_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=d48ac485a44d0aa8c919e574f740994f",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "b5dbdc292bb4"
-    },
-    {
-      "title": "Tech stocks pull Wall Street lower as investors weigh data, Middle East tensions",
-      "summary": "Tech stocks pull Wall Street lower as investors weigh data, Middle East tensions &nbsp;&nbsp; The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMl9wZTJqX2VETWN6QXBBOVIySGQ0TW9HUnJzZ3VrSl83RkprZmtXRVVOM2YzTk9OdWVqVDZCempkTXp5anU0Y2tablM1cXJmLWMwUG5xRkJaN2tBcVh6X2toMWpGQjVXaWFTbC1hNmRHSHJfdmdGTFZ4VjgyV3pEc0ZDUERkWmoyWW9SMnM0R0V5LTJMZFZiMDUtclVDenFUN05Ub2h2dDh2cFBxRDdPTi1kaVdxVlVNaEo3dXhLbDBDVkZfWVVHVzg4Y2FNUncyWmMzc1pEMzJpZTBvQVJpRXlSakdManJMZzJud1dDaVc4U19vanZJc3k2eDZaZGRFNDc1bS1fNTlPc2c?oc=5",
-      "source": "The Lufkin Daily News",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-14T17:08:03.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 81,
-      "id": "03138a7f9958"
     },
     {
       "title": "France's top court blocks social media ban for under-15s",
@@ -250,8 +250,47 @@
       "publishedAt": "2026-08-14T16:35:06.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f52/live/af679960-97f5-11f1-9577-b1309b6ea3af.jpg",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "2f7aa3e8d2c7"
+    },
+    {
+      "title": "Trump says Navy deployment in the Middle East is 'not nearly long enough'",
+      "summary": "Trump says Navy deployment in the Middle East is 'not nearly long enough' &nbsp;&nbsp; San Mateo Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcG53UjhWUjMzTlpRaEJGVmt1anRpVENVNWdYR0RtMXZyX3JnVnRPVmlab1hXMjN5VVVVMk1Kd1JUX1drWW9pMGdQUzVSSC1BUnNsRkYzV2ctdmRyaUpUejhBQnNjcEtmdUZudWV0YnhVTTkyaGdoVnNINXh3ejN0bF8wd3VVczFPY2xGc05nOW93TW5nRkQ4UWNFV2dWMlhnSndWVm82eXhrNUZYLUtuTXVqWGc5VTRteEFzbFZ2T0xkODRmczV3N3l0NzJ1dXBTQ2s0SzhKa2llOWJmMkFRejY2aG1VeWUzdHFVajJrTFFVaEEtUHk0?oc=5",
+      "source": "San Mateo Daily Journal",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-14T23:00:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "9be8d1192036"
+    },
+    {
+      "title": "Ex-minister stands by staffer's stat dec over claims of inconsistencies",
+      "summary": "Former Tasmanian Liberal minister Jane Howlett has faced questioning over a range of potential election guidelines issues, including claims that a statutory declaration she tabled in parliament contained inconsistencies.",
+      "url": "https://www.abc.net.au/news/2026-08-15/tas-liberal-jane-howlett-election-breaches-hearing/107040666",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-14T22:50:23.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/5b8905a042fd26789450a6c8ebd2461d?impolicy=wcms_crop_resize&cropH=4417&cropW=7853&xPos=1597&yPos=1279&width=862&height=485",
+      "topic": "政治",
+      "score": 79,
+      "id": "14b06c896e3d"
+    },
+    {
+      "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
+      "summary": "Hostilities are rising between Iran-backed Houthis and Yemen's internationally recognised government.",
+      "url": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-14T22:45:19.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "fff9431940b0"
     },
     {
       "title": "Driver trapped in crashed car after alleged Melbourne carjacking",
@@ -263,8 +302,99 @@
       "publishedAt": "2026-08-14T22:29:27.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/9b5d46ca2b4e3fa1a009fb779f2e3c0d?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "9f888d448419"
+    },
+    {
+      "title": "Son of Mexico’s former president AMLO alleges US revoked his visa",
+      "summary": "The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels.",
+      "url": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-14T19:44:43.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "da724c452828"
+    },
+    {
+      "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+      "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-14T19:20:43.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/475a/live/4ceb94d0-9827-11f1-87b9-bf39baa58377.jpg",
+      "topic": "社会",
+      "score": 79,
+      "id": "7d99da91bdcb"
+    },
+    {
+      "title": "Emergency alert warning of wildfire risk sent to phones in England and Wales",
+      "summary": "People urged not to light barbecues, campfires or anything else that could spark fire during period of extreme heat Millions of people across England and Wales received an emergency alert to their phones on Friday as the government warned against activities that could start fires. The deputy prime minister, Louise Haigh, said it was the most extensive use to",
+      "url": "https://www.theguardian.com/world/2026/aug/14/emergency-alert-warning-wildfire-risk-sent-phones-england-wales",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-14T19:19:48.000Z",
+      "image": "https://i.guim.co.uk/img/media/1e1e8e07ed8e61f60e2907f7b8f5e01449b2c84f/546_0_5346_4276/master/5346.jpg?width=140&quality=85&auto=format&fit=max&s=79ddba5be1c7d4d61f4f5304d0af6188",
+      "topic": "政治",
+      "score": 79,
+      "id": "c393055e2245"
+    },
+    {
+      "title": "Trump asks Supreme Court to allow ballroom work to continue",
+      "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-14T19:05:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50eb/live/f1f95720-97e9-11f1-a76b-f1c27c51f3da.jpg",
+      "topic": "政治",
+      "score": 79,
+      "id": "e651e4a9c3ca"
+    },
+    {
+      "title": "Burnham criticised for EV and North Sea approach amid climate crisis",
+      "summary": "Cut in electric vehicle sales targets could add millions of tonnes of CO 2 to emissions in UK, say green campaigners Andy Burnham has been criticised for moving to cut electric vehicle (EV) sales targets and accept North Sea drilling at a time of devastating wildfires caused by the climate emergency. The prime minister for the first time acknowledged on Frid",
+      "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-14T18:51:11.000Z",
+      "image": "https://i.guim.co.uk/img/media/02b86401dda47441867ef599b6a0a5f84e392894/1176_0_6160_4930/master/6160.jpg?width=140&quality=85&auto=format&fit=max&s=bfb61b86eafb39d41dc2f57543077929",
+      "topic": "气候",
+      "score": 79,
+      "id": "252838a0fb3f"
+    },
+    {
+      "title": "Navy to swap USS Abraham Lincoln for George Washington in the Middle East",
+      "summary": "Navy to swap USS Abraham Lincoln for George Washington in the Middle East &nbsp;&nbsp; taskandpurpose.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWF9qUm4zRHNxMUY5MkNmNWtmVEZTVFgwUElNTGlSRU1sTXoxdGVHbXVJS0ZsVmx6eUh1aU80U1ByREV5UnhoZFdJRG1pd1NKMVY2ZkFsd19oQWg4Y3dYSVdjOFRJMGxBYUwyVFVJa2FIdTZ5NmpGN1NMQ25DOXdnLTNrS3dOUW42M2pj?oc=5",
+      "source": "taskandpurpose.com",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-14T16:28:45.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "01b8c9c965f4"
+    },
+    {
+      "title": "Top French court upholds assisted dying law, rejects teen social media ban",
+      "summary": "The decisions mark both a victory and a setback for President Emmanuel Macron, who had championed both policies.",
+      "url": "https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-14T15:52:57.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "329092f33543"
     },
     {
       "title": "Bezos consortium enters 'definitive agreement' to buy Liverpool stake",
@@ -276,7 +406,7 @@
       "publishedAt": "2026-08-14T22:05:15.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/51a1cbf18556ef5813a644eb5a53a619?impolicy=wcms_crop_resize&cropH=2250&cropW=4000&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 80,
+      "score": 78,
       "id": "fb0a64c1f17f"
     },
     {
@@ -289,73 +419,8 @@
       "publishedAt": "2026-08-14T22:03:08.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "c282428133c8"
-    },
-    {
-      "title": "Trump asks Supreme Court to allow ballroom work to continue",
-      "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-14T19:05:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50eb/live/f1f95720-97e9-11f1-a76b-f1c27c51f3da.jpg",
-      "topic": "政治",
-      "score": 80,
-      "id": "e651e4a9c3ca"
-    },
-    {
-      "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
-      "summary": "The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.",
-      "url": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-14T18:55:24.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 80,
-      "id": "15ad3454d6c8"
-    },
-    {
-      "title": "Burnham criticised for EV and North Sea approach amid climate crisis",
-      "summary": "Cut in electric vehicle sales targets could add millions of tonnes of CO 2 to emissions in UK, say green campaigners Andy Burnham has been criticised for moving to cut electric vehicle (EV) sales targets and accept North Sea drilling at a time of devastating wildfires caused by the climate emergency. The prime minister for the first time acknowledged on Frid",
-      "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-14T18:51:11.000Z",
-      "image": "https://i.guim.co.uk/img/media/02b86401dda47441867ef599b6a0a5f84e392894/1176_0_6160_4930/master/6160.jpg?width=140&quality=85&auto=format&fit=max&s=bfb61b86eafb39d41dc2f57543077929",
-      "topic": "气候",
-      "score": 80,
-      "id": "252838a0fb3f"
-    },
-    {
-      "title": "Navy to swap USS Abraham Lincoln for George Washington in the Middle East",
-      "summary": "Navy to swap USS Abraham Lincoln for George Washington in the Middle East &nbsp;&nbsp; Task & Purpose",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWF9qUm4zRHNxMUY5MkNmNWtmVEZTVFgwUElNTGlSRU1sTXoxdGVHbXVJS0ZsVmx6eUh1aU80U1ByREV5UnhoZFdJRG1pd1NKMVY2ZkFsd19oQWg4Y3dYSVdjOFRJMGxBYUwyVFVJa2FIdTZ5NmpGN1NMQ25DOXdnLTNrS3dOUW42M2pj?oc=5",
-      "source": "Task & Purpose",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-14T16:28:45.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 80,
-      "id": "7576b68f704c"
-    },
-    {
-      "title": "Top French court upholds assisted dying law, rejects teen social media ban",
-      "summary": "The decisions mark both a victory and a setback for President Emmanuel Macron, who had championed both policies.",
-      "url": "https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-14T15:52:57.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 80,
-      "id": "329092f33543"
     },
     {
       "title": "Wildfires rage across Europe as heatwaves drive record temperatures",
@@ -367,7 +432,7 @@
       "publishedAt": "2026-08-14T21:50:35.000Z",
       "image": "",
       "topic": "气候",
-      "score": 79,
+      "score": 78,
       "id": "e1a5aad3e013"
     },
     {
@@ -380,7 +445,7 @@
       "publishedAt": "2026-08-14T21:30:38.000Z",
       "image": "https://i.guim.co.uk/img/media/df7be427e6cfbc469ded79f62c0d9115bd1cb541/162_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=25c1fad17b78a47cef718227a2db1e62",
       "topic": "气候",
-      "score": 79,
+      "score": 78,
       "id": "918133fd068b"
     },
     {
@@ -393,8 +458,21 @@
       "publishedAt": "2026-08-14T21:28:35.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/5141a202e922f8e6cc5909ce2d2302a4?impolicy=wcms_crop_resize&cropH=2250&cropW=4000&xPos=0&yPos=175&width=862&height=485",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "4283ad84de0f"
+    },
+    {
+      "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
+      "summary": "The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.",
+      "url": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-14T18:55:24.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 78,
+      "id": "15ad3454d6c8"
     },
     {
       "title": "Woman arrested after second world war memorial in DC vandalized",
@@ -406,7 +484,7 @@
       "publishedAt": "2026-08-14T18:43:30.000Z",
       "image": "https://i.guim.co.uk/img/media/e231b4275002c454cd9c88f1c77dfb71e6f6f61e/0_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=997ccde33b3e057967e4f406ebdd0f57",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "05d80f616d87"
     },
     {
@@ -419,7 +497,7 @@
       "publishedAt": "2026-08-14T17:52:51.000Z",
       "image": "https://i.guim.co.uk/img/media/b3ca7d7b89c8fea93d13e3268882fcc9a706ce5d/912_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=e7d53f1056ecc53d39b3744b1c0b197b",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "bba75bceb7b5"
     },
     {
@@ -432,7 +510,7 @@
       "publishedAt": "2026-08-14T21:10:41.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d97779386cb31a9aa599df355c074c64?impolicy=wcms_crop_resize&cropH=489&cropW=870&xPos=0&yPos=19&width=862&height=485",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "a8481e3e00a6"
     },
     {
@@ -445,8 +523,21 @@
       "publishedAt": "2026-08-14T21:05:47.000Z",
       "image": "https://i.guim.co.uk/img/media/c519726d2d851d677c5334018aad733b64b7db60/1132_104_3152_2521/master/3152.jpg?width=140&quality=85&auto=format&fit=max&s=4b43cc592cbf0420e7e7cee8db94689f",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "fbaf919be2ce"
+    },
+    {
+      "title": "Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing",
+      "summary": "Luigi Mangione pleaded guilty to killing UnitedHealthcare CEO Brian Thompson in 2024.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceos-killing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-14T18:09:12.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 77,
+      "id": "85e6c1f04615"
     },
     {
       "title": "New aircraft carrier heads to Middle East amid concerns about USS Lincoln conditions - CBS News",
@@ -458,7 +549,7 @@
       "publishedAt": "2026-08-14T14:35:19.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "5fe4d9ae9772"
     },
     {
@@ -471,21 +562,21 @@
       "publishedAt": "2026-08-14T20:22:56.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1535/live/7141a7f0-9806-11f1-8f19-057f099340f6.jpg",
       "topic": "气候",
-      "score": 77,
+      "score": 76,
       "id": "4d3a7c7b48d1"
     },
     {
-      "title": "New aerial video reveals huge scale of oil spill off Oman",
-      "summary": "A potential environmental disaster is unfolding off Oman, where a grounded tanker is leaking sanctioned Russian oil.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-14T19:36:45.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 77,
-      "id": "0539dc984816"
+      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+      "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-14T17:36:27.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f214/live/46acc190-97f3-11f1-8170-33f7e8571fbe.jpg",
+      "topic": "社会",
+      "score": 76,
+      "id": "f350623105eb"
     },
     {
       "title": "Wall St opens mixed as investors weigh Middle East tensions, data By Reuters",
@@ -497,7 +588,7 @@
       "publishedAt": "2026-08-14T13:46:20.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "1121b748aa6e"
     },
     {
@@ -510,8 +601,47 @@
       "publishedAt": "2026-08-14T13:11:48.000Z",
       "image": "https://i.guim.co.uk/img/media/17e68e19ed25b80e37efd7f163ec27d98dba3af4/284_0_2842_2274/master/2842.jpg?width=140&quality=85&auto=format&fit=max&s=e40693c8a0ee296c9b0ec63ff8630adb",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "7e55cd009f8d"
+    },
+    {
+      "title": "Date set for opening of $195m Powerhouse Parramatta",
+      "summary": "The $915 million Powerhouse Parramatta will open its doors to the public on November 7, becoming Western Sydney's first state cultural institution.",
+      "url": "https://www.abc.net.au/news/2026-08-15/nsw-powerhouse-parramatta-to-open-november-7/107041612",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-14T22:58:15.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/42b93d7d4f624fd53ec62598a4298f9d?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "ad2c1c5db9f1"
+    },
+    {
+      "title": "Artefacts from across the globe returned to southern WA",
+      "summary": "Menang artefacts returned from museums across London, Edinburgh, Melbourne and Sydney are being showcased in a special exhibition in Albany.",
+      "url": "https://www.abc.net.au/news/2026-08-15/menang-artefacts-returned-to-country-albany-wa/106889850",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-14T22:52:07.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a428116055b98ad6c5c318724420ebd1?impolicy=wcms_crop_resize&cropH=542&cropW=963&xPos=0&yPos=89&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "1d9f678101be"
+    },
+    {
+      "title": "Hopes 'mini guts' will help researchers treat inflammatory bowel disease",
+      "summary": "Melbourne researchers create 3D models to study treatments for Crohn's and ulcerative colitis.",
+      "url": "https://www.abc.net.au/news/2026-08-15/monash-researchers-create-intestine-model-to-research-ibd/107036880",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-14T22:44:55.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/bd2b60dda25e7243d636dbd12c4d1e88?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=120&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "e704b912d254"
     },
     {
       "title": "Kumanjayi Little Baby to be remembered at funeral service today",
@@ -523,7 +653,7 @@
       "publishedAt": "2026-08-14T22:37:19.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/afe3d7e057cba6e3a2fcabce6dc63575?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "875ddd84a059"
     },
     {
@@ -536,73 +666,21 @@
       "publishedAt": "2026-08-14T22:10:00.000Z",
       "image": "",
       "topic": "经济",
-      "score": 76,
+      "score": 75,
       "id": "b9c8ff424a05"
     },
     {
-      "title": "Telstra records profit and CEO pay rise as remote areas struggle for service",
-      "summary": "Telstra has blamed natural disasters for long outages in remote areas of Australia. But does that fully exempt them from blame?",
-      "url": "https://www.abc.net.au/news/2026-08-15/telstra-urged-to-improve-regional-remote-services-and-connection/107038598",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-14T19:24:45.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/1f438d60fe0a6b93e3bf64e81c84957f?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "社会",
-      "score": 76,
-      "id": "a89e3306de9b"
-    },
-    {
-      "title": "Men attack trans women in Indonesia after regulation deems them a 'threat'",
-      "summary": "A series of attacks perpetrated by men on trans women in Indonesia has left the community feeling anxious and scared. Activists and experts say the violence did not suddenly emerge.",
-      "url": "https://www.abc.net.au/news/2026-08-15/men-attack-transwomen-in-indonesia-after-rule-deems-them-threat/107023468",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "亚洲",
-      "publishedAt": "2026-08-14T19:04:21.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d60fb93d5707fbfa1a9b46155b351c37?impolicy=wcms_crop_resize&cropH=896&cropW=1592&xPos=0&yPos=99&width=862&height=485",
-      "topic": "社会",
-      "score": 76,
-      "id": "0e429217534f"
-    },
-    {
-      "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
-      "summary": "Qatar FA President Hamad bin Khalifa Al-Thani complains about lack of consultation about AFC open letter to FIFA.",
-      "url": "https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss",
+      "title": "New aerial video reveals huge scale of oil spill off Oman",
+      "summary": "A potential environmental disaster is unfolding off Oman, where a grounded tanker is leaking sanctioned Russian oil.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-14T15:36:58.000Z",
+      "region": "欧洲",
+      "publishedAt": "2026-08-14T19:36:45.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
-      "id": "127209db1fae"
-    },
-    {
-      "title": "USS Washington heading to Middle East after issues on long-deployed USS Lincoln",
-      "summary": "USS Washington heading to Middle East after issues on long-deployed USS Lincoln &nbsp;&nbsp; cbs8.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUFliSlB6THcwdUd1LVduWkxOTmFFdjhOMmNUX2RQQVBSSjhvR2xaT3RKVnVCNVljUnlDdEkwRkl3MG1oa3JGR1ZjbjdkdXJzN2FfOXI2S05JdWpraHBKRlRoX2RURU9xZVZjcUt5M1VYY3R3SFpkeHBqdGdOLVhQS3lOY1VtSkdvS0NEcTlMYjhDRUNRdU5ZbFVpRlIweUhDMDl2UTRPdWplRTIwXzFBQU1fOWgtZkI1S0pxcGpZVTFoeTJYUDh2X3ltZlNGR002aUlPcVFsM0RtWVFvMC1DMDA3d09nZGs?oc=5",
-      "source": "cbs8.com",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-14T13:17:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "67be8b8f1388"
-    },
-    {
-      "title": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan",
-      "summary": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan &nbsp;&nbsp; The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRkNoblJJT2dwOFlHV0RGRktWUE05M2ttZmNBYlAwNFpEQ09ob0lhVHFRVDhZUGN0WVhuaUxOc0RJdmpidW1GQWpoLU5jdjZ6Y0QwazV4bjB5RmV0ZldsWmNOczRwVkZOdjNGdG81RFZ5Zkt3MkpPNlh2T0xkdW1RZG5rbkNuNUU?oc=5",
-      "source": "The New York Times",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-14T12:47:33.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "d543cf56ed45"
+      "score": 75,
+      "id": "0539dc984816"
     },
     {
       "title": "Azada wanted to be her country's 'best doctor', but then the Taliban took over",
@@ -614,7 +692,7 @@
       "publishedAt": "2026-08-14T22:19:20.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/3340e855b0353be2080ebf7b0d8f7c67?impolicy=wcms_crop_resize&cropH=511&cropW=908&xPos=257&yPos=211&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "84348ec364d6"
     },
     {
@@ -627,7 +705,7 @@
       "publishedAt": "2026-08-14T22:16:13.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/594df994fbd8234e7ae94ce9f1e7ee00?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=143&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "9b148e98b29a"
     },
     {
@@ -640,7 +718,7 @@
       "publishedAt": "2026-08-14T21:56:17.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d3c50711a5f04b2b099706fa032eb061?impolicy=wcms_crop_resize&cropH=2230&cropW=3964&xPos=311&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "e8360740073c"
     },
     {
@@ -653,21 +731,8 @@
       "publishedAt": "2026-08-14T21:43:25.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1e204de21e8b43f0ac9557888aadd400?impolicy=wcms_crop_resize&cropH=2579&cropW=4585&xPos=8&yPos=1171&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "b393d7cc456f"
-    },
-    {
-      "title": "Sydney Trains boss apologises after fallen wires cause network cases",
-      "summary": "Trains will operate on schedule on Saturday morning after overhead wiring issues caused widespread delays across Sydney's network last night.",
-      "url": "https://www.abc.net.au/news/2026-08-15/nsw-sydney-trains-on-schedule-wiring-network-chaos/107041552",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-14T21:38:36.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6cf8bd5a72546cc839edfd7d0623b7bf?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "9b553218c058"
     },
     {
       "title": "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
@@ -679,21 +744,8 @@
       "publishedAt": "2026-08-14T19:02:49.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "48eaa18463e5"
-    },
-    {
-      "title": "One dead, dozens injured and thousands evacuated in Croatian wildfires – as it happened",
-      "summary": "Firefighters discover body and say more than 40 people hurt in the Lokva Rogoznica and Omiš areas England has received just 4mm of rain so far in August, or 6% of the long-term average for the month , the Environment Agency said on Friday, as reported by PA. It follows the driest July on record for the country , when only 7mm of rain was measured, or 10% of ",
-      "url": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-14T15:23:29.000Z",
-      "image": "https://i.guim.co.uk/img/media/6d153fe5361ed9b23a587ee6ca162a617be7205b/759_0_4161_3330/master/4161.jpg?width=140&quality=85&auto=format&fit=max&s=0a86c794780529b8d6905361f0e2d668",
-      "topic": "气候",
-      "score": 75,
-      "id": "12d6e1c06e8d"
     },
     {
       "title": "Iberian orca known for ramming boats seen with suspected gunshot wounds",
@@ -705,21 +757,34 @@
       "publishedAt": "2026-08-14T15:07:10.000Z",
       "image": "https://i.guim.co.uk/img/media/b001a448cf993677aa864dffcd0d41224f661c57/561_0_3086_2469/master/3086.jpg?width=140&quality=85&auto=format&fit=max&s=2a8f238c41ac69dbb6bb6935052cd2fe",
       "topic": "科技",
-      "score": 75,
+      "score": 74,
       "id": "09777beff9bc"
     },
     {
       "title": "Boeing chooses the CEO of GOL as the new president for Latin America and the Caribbean",
-      "summary": "Boeing chooses the CEO of GOL as the new president for Latin America and the Caribbean &nbsp;&nbsp; democrata.es",
+      "summary": "Boeing chooses the CEO of GOL as the new president for Latin America and the Caribbean &nbsp;&nbsp; Demócrata",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVJrRmRZUzZjRVV2QTEwcUZfSExOZ014ZlFpd1ZObjV3a3hmY1pTOFJYTWhHbmo3WlFqMnliMHk3aEFNZXRSLTM3bkkzbmVteDV4UlZ3MjJHQ1BXU3RWcWJHZ3JFUTdYX3VsM1ptemF1SkljeFJkYnA4R054YlNuWjBzRzVodVpQN0lENGlhV21CamN6MTFBLWFzRmpqVzNrTmtDa29fck1GN2ZtT3o2eVpzZVNQbEU5b0tyaFZteEHSAcYBQVVfeXFMUHRQV1liLTFPT3ZhbHBEaUtzMHh2WXF6N3Itb2FGRlVPM3hlZ3kxVWkwOC1jVTIxVjBCTTJfNEQyMXY5ZEI1X1QzUlZMZ0NnU01Dc3lMc3QtQXl0SVZFQndiY3pMcWVfVFRXMEpSMTc1dnp6WVFuSmsyVWg4QUlER1h6MkFqTWhuUFlCZ1BuYjQ3dEdPMzc4VjRsTGhTYl9FQXpNMFI2Nk5Pc2JsM0VsSHVWSEtiNGU4dU55MVVTa0c5X0RYVzBR?oc=5",
-      "source": "democrata.es",
+      "source": "Demócrata",
       "feed": "Latin America News Network",
       "region": "美洲",
       "publishedAt": "2026-08-14T08:44:26.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
-      "id": "62cf443a1c8e"
+      "score": 74,
+      "id": "f122dbd3f53e"
+    },
+    {
+      "title": "Sydney Trains boss apologises after fallen wires cause network chaos",
+      "summary": "Trains will operate on schedule on Saturday morning after overhead wiring issues caused widespread delays across Sydney's network last night.",
+      "url": "https://www.abc.net.au/news/2026-08-15/nsw-sydney-trains-on-schedule-wiring-network-chaos/107041552",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-14T21:38:36.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/6cf8bd5a72546cc839edfd7d0623b7bf?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 73,
+      "id": "aa015ceb2ecb"
     },
     {
       "title": "Almond grower loses gun licence after threats to burn biosecurity officers",
@@ -731,73 +796,8 @@
       "publishedAt": "2026-08-14T21:19:07.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/6382c901931a10126436bb70892c0fc7?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "dbfffec5036b"
-    },
-    {
-      "title": "Should Australia copy New Zealand's 83-page building code?",
-      "summary": "Should Australia copy New Zealand's example and adopt a radically-slimmed down national building code?",
-      "url": "https://www.abc.net.au/news/2026-08-15/andrew-bragg-building-code-modern-methods-of-construction/107028282",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-14T21:13:39.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/f247ac858df009c49b920b1f3c0627bc?impolicy=wcms_crop_resize&cropH=2412&cropW=4288&xPos=0&yPos=229&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "ee386ff259e9"
-    },
-    {
-      "title": "How a predatory Catholic bishop was finally undone",
-      "summary": "Bishop Christopher Saunders remains one of the most senior Catholic clergymen, despite being convicted this week of multiple counts of sexual assault.This is how his downfall unfolded.",
-      "url": "https://www.abc.net.au/news/2026-08-15/bishop-christopher-saunders-a-familiar-tale-of-sex-abuse/107040368",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-14T21:12:09.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/9049954282e6479c001d7e55c56803b0?impolicy=wcms_crop_resize&cropH=847&cropW=1507&xPos=237&yPos=75&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "10e74a135ae6"
-    },
-    {
-      "title": "As big musicals struggle, Brisbane's indies are innovating to keep the spotlights on",
-      "summary": "While multi-million-dollar musical theatre productions are closing mid-tour, smaller companies are finding ways to thrive on local stages.",
-      "url": "https://www.abc.net.au/news/2026-08-15/independent-theatre-musicals-rising-costs/107006122",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-14T21:10:41.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/8083c493f0c6252c9b2c2d69544de2fc?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "2a4743f5c7b8"
-    },
-    {
-      "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
-      "summary": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour of the province on Friday, overturning a lower court’s decision that decreed removal would violate constitutional rights. ",
-      "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-14T21:03:43.000Z",
-      "image": "https://i.guim.co.uk/img/media/ec29699c3bb39571832cedf67de78d67314ebb95/296_0_2957_2366/master/2957.jpg?width=140&quality=85&auto=format&fit=max&s=9b59925e3af7aaac03f7dd38dd46ad9b",
-      "topic": "政治",
-      "score": 74,
-      "id": "c3d47b7c444d"
-    },
-    {
-      "title": "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport",
-      "summary": "Flights will be suspended until at least Saturday afternoon, leaving hundreds of travellers stranded.",
-      "url": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-14T21:03:07.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 74,
-      "id": "c12b183184ed"
     },
     {
       "title": "Attorney Ben Crump retained by family of 22-year-old woman shot and killed by JSO",
@@ -809,7 +809,7 @@
       "publishedAt": "2026-08-14T20:32:42.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "ec98f740c3d4"
     },
     {
@@ -822,21 +822,21 @@
       "publishedAt": "2026-08-14T16:56:56.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "7ad297047797"
     },
     {
-      "title": "European countries battle multiple wildfires as record heat grips the continent",
-      "summary": "European countries battle multiple wildfires as record heat grips the continent &nbsp;&nbsp; AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXVKWTN3bTNjNHZJeXIxbHF2c2NveGRiQnNUTmxNOGx3SkNKOGpfdzk0Rm90c2g5VmtWT3hMaUpBV2ZhRjlWVHVMa1p5Mmw5U2pXQm9MODBDYlpNZHdycjlTSmYzVzNsNmpBSG5RaDhtelhOMXRHUWhRdk84TFNQdmgxbTdRaVVOV1FhUFVGNWRBUmZkTUdCdA?oc=5",
-      "source": "AP News",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-14T13:47:00.000Z",
+      "title": "Lions and tigers begin a long-awaited rescue from a notorious Argentine zoo",
+      "summary": "Lions and tigers begin a long-awaited rescue from a notorious Argentine zoo &nbsp;&nbsp; News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNUctNUFqT2RIOGxOaU14dnZfZHowQXpLbEhyTVJlc2ZteVpYczJtMUZIeU5YVXJvRmJhNXlLNWZRaXQ4UVVIT0lQZmtucU1TVG9DSS1EVVo5WmF2ZWhSZ0g4VDRqRl9Bb2VfNWlIeVFhbkxoRGg2SGZrTWpPdW5CM09wazRCdU9rSkpBMVdLYkpUSEstVk5XQnN0ZGlVSnVDMUNhR1YtLWNvMjZQYnZSQ0loc0s5UDFhQnpaeXE3ZWlHU2poMkFZ?oc=5",
+      "source": "News4JAX",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-14T22:42:03.000Z",
       "image": "",
-      "topic": "气候",
-      "score": 73,
-      "id": "1b101350cec7"
+      "topic": "社会",
+      "score": 71,
+      "id": "54a9eae37f99"
     },
     {
       "title": "‘Devastating’: bulldozers plough through Big Bend national park as Trump’s border work pushes ahead",
@@ -848,7 +848,7 @@
       "publishedAt": "2026-08-14T19:27:08.000Z",
       "image": "https://i.guim.co.uk/img/media/8dc2340929bd6c90c7cfb1d3acb624bde3941b93/682_0_4071_3259/master/4071.jpg?width=140&quality=85&auto=format&fit=max&s=66102cfdd1d9bae208d4a2e9ce4db9b8",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "e4e48a20683c"
     },
     {
@@ -861,7 +861,7 @@
       "publishedAt": "2026-08-14T19:25:56.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "41c873449b1c"
     },
     {
@@ -874,7 +874,7 @@
       "publishedAt": "2026-08-14T16:08:07.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "fd62a8e8c549"
     },
     {
@@ -887,8 +887,21 @@
       "publishedAt": "2026-08-14T12:43:56.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "3c45802ad952"
+    },
+    {
+      "title": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan",
+      "summary": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan &nbsp;&nbsp; The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRkNoblJJT2dwOFlHV0RGRktWUE05M2ttZmNBYlAwNFpEQ09ob0lhVHFRVDhZUGN0WVhuaUxOc0RJdmpidW1GQWpoLU5jdjZ6Y0QwazV4bjB5RmV0ZldsWmNOczRwVkZOdjNGdG81RFZ5Zkt3MkpPNlh2T0xkdW1RZG5rbkNuNUU?oc=5",
+      "source": "The New York Times",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-14T09:39:02.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "d543cf56ed45"
     },
     {
       "title": "Five dead in Japan after record-breaking rainfall causes severe flooding",
@@ -900,7 +913,7 @@
       "publishedAt": "2026-08-14T06:01:00.000Z",
       "image": "https://e3.365dm.com/26/08/1920x1080/skynews-japan-floods-chiba_7321213.jpg?20260814073528",
       "topic": "气候",
-      "score": 72,
+      "score": 71,
       "id": "5df34754f5fb"
     },
     {
@@ -913,7 +926,7 @@
       "publishedAt": "2026-08-14T18:44:47.000Z",
       "image": "",
       "topic": "经济",
-      "score": 71,
+      "score": 70,
       "id": "cbebb2e35c9d"
     },
     {
@@ -926,21 +939,8 @@
       "publishedAt": "2026-08-14T18:38:25.000Z",
       "image": "https://i.guim.co.uk/img/media/e825c3c0f9b006b9d1bde2db18a1b29a10d39c9c/303_0_3146_2517/master/3146.jpg?width=140&quality=85&auto=format&fit=max&s=a353331fbe45e9b1f7b4b36c41868697",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "e1f6c7d14db1"
-    },
-    {
-      "title": "Spain gives ageing nuclear plant three-year extension as Middle East crisis rattles energy markets",
-      "summary": "Spain gives ageing nuclear plant three-year extension as Middle East crisis rattles energy markets &nbsp;&nbsp; Olive Press News Spain",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSVlOVDhJQXRYOXdYNjl6ZEtfMnBteEdvamV2UlZUckplSnVtQTFyYjZzYk81R3hIRzk4LWFZZjM1TU5rNUVuX1lQdE4zYUQ3Q1FvSmlLbDBmczl4WmM2NDRRdGllclF2SzZranZuNjV6YS1Ra253cXpMWnlodUthaENZNGVDamdoekpoWnRJRFRuNjVHUnhVWkdFRkNJZnc0YXlfbEp6TmhNdk14MWZacDVDUFFEVVh6LTFUSnhjSHBoN21zU1BoTWRR?oc=5",
-      "source": "Olive Press News Spain",
-      "feed": "Middle East News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-14T15:01:00.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 71,
-      "id": "7ae90d52828a"
     }
   ]
 }
