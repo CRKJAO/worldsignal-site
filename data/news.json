@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T21:38:21.256Z",
+  "updatedAt": "2026-08-15T22:41:48.795Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -16,7 +16,7 @@
       "publishedAt": "2026-08-15T17:49:42.000Z",
       "image": "",
       "topic": "政治",
-      "score": 92,
+      "score": 90,
       "id": "dbb9bec1a09e"
     },
     {
@@ -29,21 +29,34 @@
       "publishedAt": "2026-08-15T17:02:58.000Z",
       "image": "",
       "topic": "政治",
-      "score": 87,
+      "score": 90,
       "id": "c67677b906ae"
     },
     {
-      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "feed": "BBC World",
       "region": "亚洲",
-      "publishedAt": "2026-08-15T20:00:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
+      "publishedAt": "2026-08-15T21:49:12.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
       "topic": "气候",
-      "score": 86,
-      "id": "c667737277a3"
+      "score": 84,
+      "id": "76d672663842"
+    },
+    {
+      "title": "Australian state to launch gun buyback after Bondi Beach attack",
+      "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
+      "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-15T21:41:43.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/402629b0-98ed-11f1-97a4-c77753d94e40.jpg",
+      "topic": "科技",
+      "score": 84,
+      "id": "3531c30c5b15"
     },
     {
       "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
@@ -55,7 +68,7 @@
       "publishedAt": "2026-08-15T15:32:38.000Z",
       "image": "https://i.guim.co.uk/img/media/4e74294d7fc12a4f6c823be60d68e8ff43d71b97/984_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=40fcf0dd5ba505158e68d69f898bc919",
       "topic": "气候",
-      "score": 86,
+      "score": 84,
       "id": "54cbfdfcf766"
     },
     {
@@ -68,21 +81,8 @@
       "publishedAt": "2026-08-15T21:03:57.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0329/live/074a0750-98e9-11f1-a7ab-8b30adf0800a.jpg",
       "topic": "政治",
-      "score": 84,
+      "score": 82,
       "id": "ddbe1604f216"
-    },
-    {
-      "title": "Qatar denies it is detaining three Iranian bomber pilots",
-      "summary": "Iran says Qatar is holding three pilots who were shot down in March. Doha decries 'misleading statements'.",
-      "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-15T20:55:29.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 83,
-      "id": "b051592325dd"
     },
     {
       "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and Western Hemisphere - ABC News",
@@ -94,7 +94,7 @@
       "publishedAt": "2026-08-15T17:33:59.000Z",
       "image": "",
       "topic": "社会",
-      "score": 83,
+      "score": 82,
       "id": "b2ef0808dc6a"
     },
     {
@@ -107,7 +107,7 @@
       "publishedAt": "2026-08-15T19:34:40.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/79693faebc32acbb12a9cae77853c342?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "气候",
-      "score": 82,
+      "score": 81,
       "id": "4a007a689aad"
     },
     {
@@ -120,34 +120,73 @@
       "publishedAt": "2026-08-15T16:01:10.000Z",
       "image": "https://i.guim.co.uk/img/media/8db29763d7dd93fbeef64134375888b2dd0a1629/997_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=a80c851ea060a30cc8b67dd3937ea6c6",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "f77f5bd1ef5a"
     },
     {
+      "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
+      "summary": "South Carolina will again take centre stage as the first nominating contest, pushing Iowa from its top spot.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-15T22:22:46.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 80,
+      "id": "895ff8185213"
+    },
+    {
+      "title": "Why is the latest Ebola outbreak worsening?",
+      "summary": "Virus spreading in DRC faster than containment efforts.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-15T22:00:42.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 80,
+      "id": "5d7f82b49d0b"
+    },
+    {
       "title": "Trump's Iran focus strains U.S. forces as last aircraft carrier leaves East Asia",
-      "summary": "Trump's Iran focus strains U.S. forces as last aircraft carrier leaves East Asia &nbsp;&nbsp; haaretz.com",
+      "summary": "Trump's Iran focus strains U.S. forces as last aircraft carrier leaves East Asia &nbsp;&nbsp; Haaretz",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQUVV5TTBscmFqcVJIODJhUEdKaHRQTnhEMU45TENZNXF2VnR6eGRPQldOZlo0ZFIyQmliaDZ5d2lHWVpZbW9nRXFoNHlIYXRrYWNzbDRhZGNEUXlwTFBVa3YwUWxNOW5NbGFkbi1ZZ19JeTZaNk9yX2JGRm9CTndiMXNIc25kYUp0YWZJVzN4QW9ESGF1RVFJY1QzMlJWLTdFdDMyYjVENVliSk1CcW5kRDRQMWlrLWwyTlBTX3RYYUI5UFEyV0tSa0ptZUkzVWdncDdEeGF4SWE3NG12ZU02S1FoNWJFdWVSMl9Tak91emtsb2N2ZC1Cd2U1bW9mWUg4RlRzN0hnelRLaEY5QnF4bkZFZHNzc3J0NWpMSDZ6VzUxVGktMV9J?oc=5",
-      "source": "haaretz.com",
+      "source": "Haaretz",
       "feed": "Middle East News Network",
       "region": "亚洲",
       "publishedAt": "2026-08-15T19:19:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 81,
-      "id": "7d7811588b5a"
+      "score": 80,
+      "id": "2ce6884012cc"
     },
     {
-      "title": "Powerful earthquake kills dozens in eastern Indonesia",
-      "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to th",
-      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T15:34:38.000Z",
-      "image": "https://i.guim.co.uk/img/media/c1dfcbb24723c11ca26889b87c4ab19df23653f6/93_0_1333_1067/master/1333.jpg?width=140&quality=85&auto=format&fit=max&s=133eb0e7f0aac7111f6bc94d886b87ab",
-      "topic": "气候",
-      "score": 81,
-      "id": "ce6de301ed8b"
+      "title": "Key Demon faces nervous MRO wait with AFL finals near after high shot",
+      "summary": "Melbourne forward Jacob van Rooyen faces a nervous wait for the match review officer after collecting a \"flat\" Aliir Aliir during the Demons' commanding 20.12 (132) to 8.8 (56) win over Port Adelaide.",
+      "url": "https://www.abc.net.au/news/2026-08-16/jacob-van-rooyen-facers-afl-mro-wait-after-hit-on-aliir-aliir/107043148",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-15T21:37:31.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b2076588b964536b626dfca41d896cd9?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=114&width=862&height=485",
+      "topic": "政治",
+      "score": 79,
+      "id": "6923f66a57f7"
+    },
+    {
+      "title": "Qatar denies it is detaining three Iranian bomber pilots",
+      "summary": "Iran says Qatar is holding three pilots who were shot down in March. Doha decries 'misleading statements'.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-15T20:55:29.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 78,
+      "id": "b051592325dd"
     },
     {
       "title": "Maguire fumes as Broncos season plunges further with 15th loss",
@@ -159,7 +198,7 @@
       "publishedAt": "2026-08-15T20:39:29.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/71524954e82035a3a8f5a7620192b762?impolicy=wcms_crop_resize&cropH=757&cropW=1346&xPos=4&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "6b616f4df508"
     },
     {
@@ -172,7 +211,7 @@
       "publishedAt": "2026-08-15T20:21:14.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "b33fc71836d5"
     },
     {
@@ -185,7 +224,7 @@
       "publishedAt": "2026-08-15T20:10:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "3f87171d0438"
     },
     {
@@ -198,21 +237,8 @@
       "publishedAt": "2026-08-15T20:09:33.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "690ec640b3e2"
-    },
-    {
-      "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
-      "summary": "Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support.",
-      "url": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T16:39:52.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 79,
-      "id": "fea68d595025"
     },
     {
       "title": "One Nation senator says parents who support their trans children are engaging in ‘child abuse’",
@@ -224,7 +250,7 @@
       "publishedAt": "2026-08-15T20:00:06.000Z",
       "image": "https://i.guim.co.uk/img/media/9d8cd6c5fa3bd11536cf68a10311e886922c25ad/324_0_1591_1272/master/1591.jpg?width=140&quality=85&auto=format&fit=max&s=3b9443d44cd72ab3117b202b8b171bc0",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "ba367e32fb2a"
     },
     {
@@ -237,12 +263,12 @@
       "publishedAt": "2026-08-15T19:53:52.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/fd7b7d7973532b731164131b5e838dd2?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "80ed9c9cece9"
     },
     {
-      "title": "Twenty-two more bodies recovered after Zimbabwe boat accident",
-      "summary": "Death toll now stands at 68, with 18 children among the killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when i",
+      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+      "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during ",
       "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -250,8 +276,8 @@
       "publishedAt": "2026-08-15T19:39:07.000Z",
       "image": "https://i.guim.co.uk/img/media/b14768a4016a3eb7461634532d5a9f3c7c039c61/668_0_4853_3883/master/4853.jpg?width=140&quality=85&auto=format&fit=max&s=fb5e8e7beec54c6ef27f17ca3ee48446",
       "topic": "社会",
-      "score": 78,
-      "id": "c61392b7ae32"
+      "score": 77,
+      "id": "6c1ce427f553"
     },
     {
       "title": "Iran says Qatar is holding pilots, Israeli strikes kill 11 in Lebanon, and other Middle East news - ABC News",
@@ -263,21 +289,60 @@
       "publishedAt": "2026-08-15T16:50:45.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "36f032655b1e"
     },
     {
-      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-      "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-15T19:34:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
-      "topic": "社会",
+      "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
+      "summary": "Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T16:39:52.000Z",
+      "image": "",
+      "topic": "政治",
       "score": 77,
-      "id": "f4ee7e3d8951"
+      "id": "fea68d595025"
+    },
+    {
+      "title": "Socceroo seals mega-money move with Michael Jackson dance",
+      "summary": "Nestory Irankunda has sealed his money-spinning transfer to Portuguese giants Sporting, and celebrated the move by starring in a Michael Jackson-themed dance video.",
+      "url": "https://www.abc.net.au/news/2026-08-16/socceroo-nestory-irankunda-signs-for-sporting-fc-portugal/107043186",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "中东",
+      "publishedAt": "2026-08-15T22:35:21.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/211b0adef9b957b3aea26b6cf9b7d3e5?impolicy=wcms_crop_resize&cropH=2629&cropW=4673&xPos=0&yPos=12&width=862&height=485",
+      "topic": "社会",
+      "score": 76,
+      "id": "8041261dd2f6"
+    },
+    {
+      "title": "As demand increases for voluntary assisted dying, MP urges improvements",
+      "summary": "Voluntary assisted dying gave former Tasmanian midwife Gaye Crick agency, at a time when her terminal illness had stripped much of that away. The state's VAD laws are being reviewed three years after they came into effect.",
+      "url": "https://www.abc.net.au/news/2026-08-16/voluntary-assisted-dying-tasmania-review/106583592",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-15T22:32:53.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/64746f8f5140c9cb8c07fc157130d759?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=122&width=862&height=485",
+      "topic": "社会",
+      "score": 76,
+      "id": "16d4b59dfb64"
+    },
+    {
+      "title": "Pacific Airshow brings jet suits, stunts and space pioneers to Gold Coast",
+      "summary": "Some of the world's best aviators feature in this year's Pacific Airshow on the Gold Coast.",
+      "url": "https://www.abc.net.au/news/2026-08-16/pacific-airshow-gold-coast-aviation/107032850",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-15T22:28:39.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2de895ae52c77ea76b339d6b6c8e2e58?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "topic": "科技",
+      "score": 76,
+      "id": "d01eb1966683"
     },
     {
       "title": "Roz Hervey had hours left to live. She asked her family to press record",
@@ -289,7 +354,7 @@
       "publishedAt": "2026-08-15T19:04:17.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/8c48920bc16c7f2412870e174d927323?impolicy=wcms_crop_resize&cropH=2394&cropW=4256&xPos=0&yPos=103&width=862&height=485",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "2b8ccda4c327"
     },
     {
@@ -302,8 +367,73 @@
       "publishedAt": "2026-08-15T18:52:33.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/b22712be853866953b15103a4644dfe9?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "3237c82cc70f"
+    },
+    {
+      "title": "Son of former Mexican President López Obrador says US revoked his visa and appeals directly to Trump - ABC News",
+      "summary": "Son of former Mexican President López Obrador says US revoked his visa and appeals directly to Trump &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0R6Q0VSMkdIeHFmTk1ybGtLVjVzQXYtUDZpTm5kdFF3V0lFaGhJdHdobk1iNXVoSnJ1MTBIX0hRazFoLTVYZnJJTmVhX0UwUTA1dmVzY2Vka19JdmtxTnNqMVdHQ1l6czMwbzlqaGhObHFMblZUNFVpVVVycnAxbTFSd3FmaER2ZkJ6S0o5SjZWQjZYeUN5alVYa2NiTmRMY0RhSUY5U1NsQdIBrwFBVV95cUxNVE04QlRBTktPdE81bUpOdEQ3c0hDMnJyRGVINFZQaUtsUHJ2QkxiSm5rcHB4eGhXWUFHdDNzZHdDb0ZBbzJqV2dtSjBMdVlHN2ZjdS15cXQ0eWcyelN6MlJONTRIbTRUV3oxU2ZCbldXYkN3aG9UbkExWUl5LUt0UVdiNmY1X3ZLMmhYdUhSdlVoZ0VObHZTdG9sUWNjTEx2dko5dnV5U2E1aG9jdG40?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-15T18:51:12.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 76,
+      "id": "d7db638eef1f"
+    },
+    {
+      "title": "Powerful earthquake kills dozens in eastern Indonesia",
+      "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to th",
+      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T15:34:38.000Z",
+      "image": "https://i.guim.co.uk/img/media/c1dfcbb24723c11ca26889b87c4ab19df23653f6/93_0_1333_1067/master/1333.jpg?width=140&quality=85&auto=format&fit=max&s=133eb0e7f0aac7111f6bc94d886b87ab",
+      "topic": "气候",
+      "score": 76,
+      "id": "ce6de301ed8b"
+    },
+    {
+      "title": "Gardening is about more than food for young people learning English",
+      "summary": "A school for new migrants partners with local health organisations to get students' hands in the dirt.",
+      "url": "https://www.abc.net.au/news/2026-08-16/bels-garden-young-migrants-refugees-mental-health-headspace/107032894",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-15T22:01:26.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/fad20fa80b7ac0fc0af22cde53c13ea2?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "04064d0d842f"
+    },
+    {
+      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-15T21:56:10.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg",
+      "topic": "气候",
+      "score": 75,
+      "id": "2cf99cd4f590"
+    },
+    {
+      "title": "Morocco arrests 111 migrants headed for Spain's Ceuta",
+      "summary": "Authorities in Morocco have arrested 111 people attempting to cross into Spain's Ceuta, amid tightened security triggered by a deadly mass crossing in July.",
+      "url": "https://www.abc.net.au/news/2026-08-16/morocco-cracks-down-on-spain-ceuta-border-crossing-migrants/107043110",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "欧洲",
+      "publishedAt": "2026-08-15T21:39:18.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/e9fa95ab10b5bac6315ced15dbf084f3?impolicy=wcms_crop_resize&cropH=2106&cropW=3744&xPos=0&yPos=195&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "56b7717e99fb"
     },
     {
       "title": "Fuel security or electrification? We've crunched the numbers",
@@ -315,47 +445,8 @@
       "publishedAt": "2026-08-15T18:40:53.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c2dd8223214e6fe1eed214f9e0b08c9e?impolicy=wcms_crop_resize&cropH=808&cropW=1436&xPos=243&yPos=201&width=862&height=485",
       "topic": "政治",
-      "score": 77,
+      "score": 75,
       "id": "fadc7fa5c466"
-    },
-    {
-      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-      "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-15T21:35:19.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg",
-      "topic": "气候",
-      "score": 76,
-      "id": "2cf99cd4f590"
-    },
-    {
-      "title": "Hobbies light up life for older people transitioning to retirement",
-      "summary": "Annie Delaine finds her retirement passion through the paintbrush, saying art has given her connections and purpose she missed after ending her nursing career.",
-      "url": "https://www.abc.net.au/news/2026-08-16/hobbies-like-art-bring-joy-to-retirement/107015976",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-15T21:28:48.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/1f23b0f16d1cd6ecee8ff3b8e1ae26c7?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=131&width=862&height=485",
-      "topic": "社会",
-      "score": 76,
-      "id": "f1b552b37a2b"
-    },
-    {
-      "title": "Dream becomes reality as couple takes over outback pub",
-      "summary": "Yunta's newest residents turn the taps back on at a historic pub in outback SA.",
-      "url": "https://www.abc.net.au/news/2026-08-16/yuntas-newest-residents-take-over-the-local-pub-sa/107005296",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-15T18:30:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/49af2459fb2e5eeffb7b21f0265382be?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=261&width=862&height=485",
-      "topic": "社会",
-      "score": 76,
-      "id": "98cf24864397"
     },
     {
       "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
@@ -367,7 +458,7 @@
       "publishedAt": "2026-08-15T18:21:32.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "625fdf63fbad"
     },
     {
@@ -380,8 +471,21 @@
       "publishedAt": "2026-08-15T15:19:09.000Z",
       "image": "",
       "topic": "气候",
-      "score": 76,
+      "score": 75,
       "id": "e607273f0809"
+    },
+    {
+      "title": "Hobbies light up life for older people transitioning to retirement",
+      "summary": "Annie Delaine finds her retirement passion through the paintbrush, saying art has given her connections and purpose she missed after ending her nursing career.",
+      "url": "https://www.abc.net.au/news/2026-08-16/hobbies-like-art-bring-joy-to-retirement/107015976",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-15T21:28:48.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/1f23b0f16d1cd6ecee8ff3b8e1ae26c7?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=131&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "f1b552b37a2b"
     },
     {
       "title": "One of Australia's 'most violent' killers makes bid for freedom",
@@ -393,7 +497,7 @@
       "publishedAt": "2026-08-15T21:14:18.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/bd188fbf5b94a9ee35de3aba7e776aa2?impolicy=wcms_crop_resize&cropH=695&cropW=1236&xPos=416&yPos=39&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "24369bf196fa"
     },
     {
@@ -406,7 +510,7 @@
       "publishedAt": "2026-08-15T21:13:22.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/739bf9c7682d3920143bffd240710da1?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=57&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "eeb51d7b9102"
     },
     {
@@ -419,11 +523,11 @@
       "publishedAt": "2026-08-15T21:12:59.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/3c85a29121138a56e316bd5b202ade3e?impolicy=wcms_crop_resize&cropH=2017&cropW=3585&xPos=0&yPos=187&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "d5b2c6bf5977"
     },
     {
-      "title": "Commissioner leading defence force reform wants to 'hold people to account'",
+      "title": "'No box ticks': Meet the woman charged with steering change in Defence",
       "summary": "The woman tasked with changing the culture of the defence force knows there have been 50 inquiries and 750 recommendations already. She isn't naive to the task that lies ahead of her.",
       "url": "https://www.abc.net.au/news/2026-08-16/penny-mckay-defence-commissioner-exclusive/107024154",
       "source": "ABC Australia",
@@ -432,8 +536,8 @@
       "publishedAt": "2026-08-15T21:03:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7d9e01aa03ebf523956ade602d557be5?impolicy=wcms_crop_resize&cropH=2250&cropW=4000&xPos=0&yPos=19&width=862&height=485",
       "topic": "社会",
-      "score": 75,
-      "id": "f062daa220fe"
+      "score": 74,
+      "id": "450716c4d371"
     },
     {
       "title": "Victorian farmers welcome rain ahead of expected dry summer",
@@ -445,7 +549,7 @@
       "publishedAt": "2026-08-15T20:58:53.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c0971db2af4b6d4b29768c670650fb7e?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "38c6839c8293"
     },
     {
@@ -458,8 +562,21 @@
       "publishedAt": "2026-08-15T20:58:31.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "1caef42daab7"
+    },
+    {
+      "title": "All Blacks storm past the Bulls 50-19 in final tune-up for South Africa tests - ABC News",
+      "summary": "All Blacks storm past the Bulls 50-19 in final tune-up for South Africa tests &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUXdrUzhlbjdTeVVBSU5SdElsemVrNkU0NEFkRnN0TUJQSXotbnVNWXZQdXoxSkp6Q0RmdnhWOGY4Zl8yZWVNRHM5X2lWNVR0VlIzTWNlWXpYSERudHkxTU85NEFkNG5FcmJKLW5Bc3pIS2VfN0RfRXgtUGRjZXhKa1RGM3FqOThiZHNiRlI1VjLSAZYBQVVfeXFMT3dIZVRLX2ZFVURCcld6M1ZCT3IxazhWeFoxdlMxSl8tMTZsQXZrSDFYbDlKRFJXQk9nOExxc085ME55TkRpVGUxQkdQVGF6anlSY3Q0TTlENTlNOE8wSV9jOVV2YnR5VlZJaGJERV9NT0w2cmhhVVo3S1lJVzFFS0dqd2tzOVVMWGlHclBlbUhGMDlFS1V3?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-15T20:52:50.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 74,
+      "id": "eccb52508eb9"
     },
     {
       "title": "Fans line streets of Welsh village to farewell pop legend Bonnie Tyler",
@@ -471,21 +588,21 @@
       "publishedAt": "2026-08-15T20:49:25.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1efa76e4abe84df3a4da273f47f52473?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "b12e20dd75c8"
     },
     {
-      "title": "California tackles multiple wildfires as firefighter workforce faces strain",
-      "summary": "The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.",
-      "url": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-15T20:40:48.000Z",
+      "title": "Earthquake of magnitude 7.8 strikes Philippines, no tsunami threat to NZ",
+      "summary": "Earthquake of magnitude 7.8 strikes Philippines, no tsunami threat to NZ &nbsp;&nbsp; NZ Herald",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQV2IzMVdEdXc2WVhIUkxKRG85Qkw5V3A3ekZXUEdETkg2N3g0QjdhbFktVlZXcTdUS2tVRWYwci1zUGJnaVBxcWVNUHpwbEtudW5sYUQxRU5lUGVTWUZwYXRjb0piVlhJeVBieTNyQkNGdmE1c1o4V3AxRkxwb08tM0p1OURlSVlvNlhaTVlPcjFOX0xxaHJZSE1Eekp3N0ltcWVmTmFJRTFXQnAwUWY4QmprWHk5ZklDZUhuaFduLTU3ZTAtTDVUdHFsQkxWSzlpNUhoVnMxTEltT0k0czRjTlF0U2xVdWd2dmJBV2d0Ui1WV1BIZDNmOWxVcFAyRTF5TVRlSA?oc=5",
+      "source": "NZ Herald",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T20:40:26.000Z",
       "image": "",
       "topic": "气候",
-      "score": 75,
-      "id": "1a96acfceb51"
+      "score": 74,
+      "id": "b0e4a40f79a3"
     },
     {
       "title": "Storm Lala strengthens into a Category 1 hurricane as it nears Hawaii",
@@ -497,21 +614,8 @@
       "publishedAt": "2026-08-15T17:27:57.000Z",
       "image": "",
       "topic": "气候",
-      "score": 75,
+      "score": 74,
       "id": "cd3a2f5dcb65"
-    },
-    {
-      "title": "UK PM Burnham reacts to death of former Cambridge professor",
-      "summary": "Jason Arday was found dead on Friday, just days after resigning amid intense scrutiny over his academic work.",
-      "url": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-15T17:19:12.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "f2c1bc0bf87d"
     },
     {
       "title": "Naidoc awards honour ‘fearless, brilliant’ promoter of First Nations culture Rhoda Roberts",
@@ -523,7 +627,7 @@
       "publishedAt": "2026-08-15T14:01:01.000Z",
       "image": "https://i.guim.co.uk/img/media/d7e6c4fa73cac865d990bd48e8d7788c9aa50159/516_0_3211_2571/master/3211.jpg?width=140&quality=85&auto=format&fit=max&s=7680ae30a2dd8a03426f52d15f0e5809",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "751df83433a0"
     },
     {
@@ -536,11 +640,37 @@
       "publishedAt": "2026-08-15T13:55:28.000Z",
       "image": "https://i.guim.co.uk/img/media/7c89de51a1cb60ff5893f2358eef87af6a328c6a/103_0_4103_3283/master/4103.jpg?width=140&quality=85&auto=format&fit=max&s=d0764aaa2e0846825cd181668b8f0f09",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "99486ccfa732"
     },
     {
-      "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+      "title": "California tackles multiple wildfires as firefighter workforce faces strain",
+      "summary": "The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.",
+      "url": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-15T20:40:48.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 73,
+      "id": "1a96acfceb51"
+    },
+    {
+      "title": "More bodies found after ferry disaster in Zimbabwe as number of deaths hits 72",
+      "summary": "Twenty-six more bodies have been found after a ferry capsized in Zimbabwe - taking the total number of deaths to at least 72.",
+      "url": "https://news.sky.com/story/more-bodies-found-after-lake-kariba-ferry-disaster-in-zimbabwe-as-number-of-deaths-hits-72-13573572",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "全球",
+      "publishedAt": "2026-08-15T20:22:00.000Z",
+      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-zimbabwe-lake-kariba_7322867.jpg?20260815213638",
+      "topic": "社会",
+      "score": 73,
+      "id": "a1361b83fb12"
+    },
+    {
+      "title": "Moroccan police intercept migrants heading for Ceuta enclave",
       "summary": "Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
       "source": "Al Jazeera",
@@ -549,8 +679,8 @@
       "publishedAt": "2026-08-15T20:07:07.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
-      "id": "9080646bc4c2"
+      "score": 73,
+      "id": "05bed6fe0ae1"
     },
     {
       "title": "New York City man charged with hate crimes after alleged synagogue assault",
@@ -562,7 +692,7 @@
       "publishedAt": "2026-08-15T20:02:27.000Z",
       "image": "https://i.guim.co.uk/img/media/96b4a0cdd939fc7870e489e229d448a495916e64/9_0_4168_3335/master/4168.jpg?width=140&quality=85&auto=format&fit=max&s=aa0ae5511d256914300239bd38989dc3",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "8fee610d0526"
     },
     {
@@ -575,60 +705,21 @@
       "publishedAt": "2026-08-15T20:00:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/be189f20ac6cdb18ef722ba92bc90a89?impolicy=wcms_crop_resize&cropH=2295&cropW=4081&xPos=552&yPos=113&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "ca79abc877f3"
     },
     {
-      "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
-      "summary": "A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.",
-      "url": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
+      "title": "UK PM Burnham reacts to death of former Cambridge professor",
+      "summary": "Jason Arday was found dead on Friday, just days after resigning amid intense scrutiny over his academic work.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
       "region": "全球",
-      "publishedAt": "2026-08-15T19:46:20.000Z",
+      "publishedAt": "2026-08-15T17:19:12.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
-      "id": "72c85e02f530"
-    },
-    {
-      "title": "Three Iranian military pilots held captive in Qatar for six months without contact - report",
-      "summary": "Three Iranian military pilots held captive in Qatar for six months without contact - report &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUMExnZGE3emJIako4Q3phUmQ5d1Rsd1RmT0xkM1dQeVV6b3dDamhsZm9PYmwxMmY1dFFqaElQbDRBNjJwM1AtMm1LSjZuTG16YzNkTlJxQU9ydWdOY2NkTnEzOURta20zS1E?oc=5",
-      "source": "The Jerusalem Post",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-15T19:44:48.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "4417ed17b74d"
-    },
-    {
-      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-      "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
-      "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-15T19:41:57.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3eb/live/39b85200-98cb-11f1-9687-fb984065014d.jpg",
-      "topic": "社会",
-      "score": 74,
-      "id": "56ab01d2c81e"
-    },
-    {
-      "title": "Houthis fire ballistic missiles at Marib residential areas - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "Houthis fire ballistic missiles at Marib residential areas - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTE2eWpGZGc5SGxwUGxfdzQ5OEU1UXZWYWJkeGtCTGJ3TDFDLVdHVnlaR2NvT0cyWVVDT2EybUp0TTVndzJ2Rk9IZnUtWmZMYnR6NnExRnh1bEtLcnc4MENfbXhLLWZtSmhnU1E4MHV1YTVhREFaT0pxb2gzM0pSUFRJajNmUHhId1Z3WWtEVkY3NWFxbW1n?oc=5",
-      "source": "شفق نيوز",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-15T19:25:12.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "4a23df8cf012"
+      "score": 73,
+      "id": "f2c1bc0bf87d"
     },
     {
       "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
@@ -640,7 +731,7 @@
       "publishedAt": "2026-08-15T17:04:43.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "dc59e492c8a7"
     },
     {
@@ -653,60 +744,73 @@
       "publishedAt": "2026-08-15T16:33:05.000Z",
       "image": "",
       "topic": "气候",
-      "score": 74,
+      "score": 73,
       "id": "498f48f9a8d8"
     },
     {
-      "title": "Death toll from Zimbabwe ferry disaster rises to 72",
-      "summary": "Police say 26 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.",
-      "url": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
+      "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+      "summary": "A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
       "region": "全球",
-      "publishedAt": "2026-08-15T19:10:06.000Z",
+      "publishedAt": "2026-08-15T19:46:20.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
-      "id": "49518d185998"
+      "score": 72,
+      "id": "72c85e02f530"
     },
     {
-      "title": "Albanese might regret using permanent marker on GST pledge",
-      "summary": "The electoral map that made surrendering to Western Australia irresistible to the prime minister has changed, but taking something back is always hard.",
-      "url": "https://www.abc.net.au/news/2026-08-16/gst-western-australia-sharpie-productivity-commission-federation/107037184",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-15T19:00:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/c519488ab400b1d91ceacb3ee88c56ff?impolicy=wcms_crop_resize&cropH=2408&cropW=4282&xPos=137&yPos=705&width=862&height=485",
-      "topic": "政治",
-      "score": 73,
-      "id": "1a8fff449c89"
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-08-15T19:41:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3eb/live/39b85200-98cb-11f1-9687-fb984065014d.jpg",
+      "topic": "社会",
+      "score": 72,
+      "id": "56ab01d2c81e"
     },
     {
-      "title": "All Blacks storm past the Bulls 50-19 in final tune-up for South Africa tests - ABC News",
-      "summary": "All Blacks storm past the Bulls 50-19 in final tune-up for South Africa tests &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUXdrUzhlbjdTeVVBSU5SdElsemVrNkU0NEFkRnN0TUJQSXotbnVNWXZQdXoxSkp6Q0RmdnhWOGY4Zl8yZWVNRHM5X2lWNVR0VlIzTWNlWXpYSERudHkxTU85NEFkNG5FcmJKLW5Bc3pIS2VfN0RfRXgtUGRjZXhKa1RGM3FqOThiZHNiRlI1VjLSAZYBQVVfeXFMT3dIZVRLX2ZFVURCcld6M1ZCT3IxazhWeFoxdlMxSl8tMTZsQXZrSDFYbDlKRFJXQk9nOExxc085ME55TkRpVGUxQkdQVGF6anlSY3Q0TTlENTlNOE8wSV9jOVV2YnR5VlZJaGJERV9NT0w2cmhhVVo3S1lJVzFFS0dqd2tzOVVMWGlHclBlbUhGMDlFS1V3?oc=5",
-      "source": "Breaking News, Latest News and Videos",
+      "title": "Ghana Escapes South Africa’s US$18m Evacuation Bill",
+      "summary": "Ghana Escapes South Africa’s US$18m Evacuation Bill &nbsp;&nbsp; NewsGhana",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOem1wRWwtU19PdTNzc2g1ZGNvOUx2RnFMS21oUmVQbGtXbEo1Vm05RzgtR0FmTUdBeXp1VkUtLXAzSWNpOWd5cDE4ZmpKblJzZDh3VFVPdy1YQnloZmJWUDZ2SWpQT1B0cFV4R2hkUDJpQ2JieDNwWlhMZUs4VUpxSw?oc=5",
+      "source": "NewsGhana",
       "feed": "Africa News Network",
       "region": "非洲",
-      "publishedAt": "2026-08-15T18:53:01.000Z",
+      "publishedAt": "2026-08-15T19:27:17.000Z",
       "image": "",
-      "topic": "气候",
-      "score": 73,
-      "id": "eccb52508eb9"
+      "topic": "社会",
+      "score": 72,
+      "id": "1a97b018d4e3"
     },
     {
-      "title": "'Afghanistan has been forgotten' but she hasn't forgotten Afghanistan",
-      "summary": "Two days after Salma's engagement party in Kabul, the Taliban swept back to power in Afghanistan.",
-      "url": "https://www.abc.net.au/news/2026-08-16/five-years-under-taliban-rule-afghanistan/107011372",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-15T18:50:28.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/bb814dafe16c83eeef0c0c2c8f763c63?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485",
+      "title": "Houthis fire ballistic missiles at Marib residential areas - Shafaq News | Latest breaking news in Iraq and the world",
+      "summary": "Houthis fire ballistic missiles at Marib residential areas - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; shafaq.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTE2eWpGZGc5SGxwUGxfdzQ5OEU1UXZWYWJkeGtCTGJ3TDFDLVdHVnlaR2NvT0cyWVVDT2EybUp0TTVndzJ2Rk9IZnUtWmZMYnR6NnExRnh1bEtLcnc4MENfbXhLLWZtSmhnU1E4MHV1YTVhREFaT0pxb2gzM0pSUFRJajNmUHhId1Z3WWtEVkY3NWFxbW1n?oc=5",
+      "source": "shafaq.com",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-15T19:25:12.000Z",
+      "image": "",
       "topic": "社会",
-      "score": 73,
-      "id": "868b3642418c"
+      "score": 72,
+      "id": "2a675e7bdd1e"
+    },
+    {
+      "title": "Díaz thrives and Alaves beats 10-man Getafe 3-0 as La Liga kicks off Europe's domestic league season - ABC News",
+      "summary": "Díaz thrives and Alaves beats 10-man Getafe 3-0 as La Liga kicks off Europe's domestic league season &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWjRiT3RXMnk0ejZyVlBfbEhwZ0tTTmJ4VTFSeGR6SmNpVHVFSkd2cXFUOUFiaGJ5ZUl2Z28zbHhQdzFYek93c3Ziajk5dHpPbkJtRk5CMUhHTUU4N2ZUN3BLN1N1STc2RGQyQTZ3bFhoS21rX2lCYzJaSWRJR0VYWkJjc2xBRVhPSzBmZUZDQVjSAZYBQVVfeXFMUERBOEZBX21oSDYyVFZyeHd5eE0xcDZ3RHlWRWpGM2V4d1V3eGlLeHNGZnBldVZmU1RwXzN5eElVXzliSjdmOVNoWklSMmxGSXU2OUtOTjVDZWxqRFpkemI3OFhZM3dfdUZOWUtNZGtPajF3TjZTTktwV3hxQkY0V3Z3a01La2w4OEV6T09odHhRaEc2V0Zn?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-15T18:49:31.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "eb2134b38002"
     },
     {
       "title": "Europe’s tallest statue of the Virgin Mary inaugurated in small Polish village",
@@ -718,73 +822,34 @@
       "publishedAt": "2026-08-15T15:57:24.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "a0a6c785c06d"
     },
     {
-      "title": "Alarmed by the alarm: people react to ‘severe alert’ on phones over UK wildfires",
-      "summary": "Many complained online that piercingly loud tone was ‘overreach’ while others lamented lack of action on decarbonisation On Friday at 7pm, Thérèse Coffey was nine miles away from a nuclear power station when her phone made a loud, piercing and very worrying sound: it was a “severe” emergency alert . “Was expecting [a] much more specific alert, not a generic ",
-      "url": "https://www.theguardian.com/world/2026/aug/15/people-react-severe-alert-phones-message-uk-wildfires",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-15T15:54:15.000Z",
-      "image": "https://i.guim.co.uk/img/media/c8ddaa2f96fff21941e65f1095ab4fa6411ded9c/2277_1630_3110_2487/master/3110.jpg?width=140&quality=85&auto=format&fit=max&s=7950443263773dd5c08dae16e54bdd2d",
-      "topic": "气候",
-      "score": 73,
-      "id": "2b1e4bf591b3"
-    },
-    {
       "title": "Israel blames Hezbollah attack for injuring three soldiers - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "Israel blames Hezbollah attack for injuring three soldiers - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
+      "summary": "Israel blames Hezbollah attack for injuring three soldiers - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; shafaq.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUVRSDN0Mkd5bnBKbEFnLURWVjV2MEs0VEZCZzM4NXR1WGJ1b3ZraDJYWUxkenk3d2NsWHBYNUFfY3lGTTRNdElNczRIT09vbFVyMFg3Y3c0cXpiQXNBd0p0QjRKRXVtZXJaM2FMbzNkVDF1UFliaXJYOVZybmJHd2w5UmF6MkI1a1RsR0VUOVBES2xILTFB?oc=5",
-      "source": "شفق نيوز",
+      "source": "shafaq.com",
       "feed": "Middle East News Network",
       "region": "中东",
       "publishedAt": "2026-08-15T15:39:35.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
-      "id": "451bdd553e45"
-    },
-    {
-      "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
-      "summary": "A decade ago, student leaders were jailed for shouting 'Azadi', which means freedom.",
-      "url": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T15:25:51.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "6f9cdfee6374"
-    },
-    {
-      "title": "NSW launches gun buyback scheme in wake of Bondi terror attack",
-      "summary": "New South Wales will become the first state to begin a gun buyback scheme promised in the wake of the Bondi massacre, with shooters to be compensated up to $10,000 per firearm.",
-      "url": "https://www.abc.net.au/news/2026-08-15/nsw-gun-buyback-scheme-reduce-firearms/107041970",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-15T12:34:49.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/de1928a49f78d2c2cc4851f9833df56e?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485",
-      "topic": "科技",
-      "score": 73,
-      "id": "004a15774960"
-    },
-    {
-      "title": "Volunteering changes lives and fills community gaps across the country",
-      "summary": "From planting trees to dementia choirs and early morning cafes for the homeless, volunteering is turning lives around, offering opportunities and filling gaps in community services across Australia.",
-      "url": "https://www.abc.net.au/news/2026-08-16/your-say-volunteers-adelaide-sing-out-choir-early-bird-cafe/107038984",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-15T18:43:09.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/bf3d5c3aa2b890cbfed3a3cedaa1c001?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=173&width=862&height=485",
-      "topic": "社会",
       "score": 72,
-      "id": "51d29e474261"
+      "id": "1a8c619cf4cc"
+    },
+    {
+      "title": "LaLiga Home | Goal.com South Africa",
+      "summary": "LaLiga Home | Goal.com South Africa &nbsp;&nbsp; Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JNmtVZU5oUUY2LWw5M1dPMkZrQjI3aVhrS3NXWDM2NXdYOEZLQ3FqYmZ6UGhZU2trWFVIOUpLTUJ4NFF5SWUwbU8yTVBfSlIwNFBOYlJPTGFKcy0yTEIxTTZrT0VVQVhsM3RR?oc=5",
+      "source": "Goal.com",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-15T21:49:34.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "0afea1e2f95e"
     },
     {
       "title": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
@@ -796,7 +861,7 @@
       "publishedAt": "2026-08-15T18:21:16.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "1ae794abb4d4"
     },
     {
@@ -809,8 +874,34 @@
       "publishedAt": "2026-08-15T18:19:04.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "24650ad589ea"
+    },
+    {
+      "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
+      "summary": "A decade ago, student leaders were jailed for shouting 'Azadi', which means freedom.",
+      "url": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T15:25:51.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 71,
+      "id": "6f9cdfee6374"
+    },
+    {
+      "title": "All Blacks sweating on McKenzie’s ankle ahead of South Africa test opener",
+      "summary": "All Blacks sweating on McKenzie’s ankle ahead of South Africa test opener &nbsp;&nbsp; Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGdCTkdfYkgtSzZFTmJVZHZpUWJ5VVZ2bmY0SUpOeEpaT0JOMWZGb1plbXlYMnhqdmh2eXRkeXBqQmdmZTJGRG1Yd2ZuUGNuTnA0d1NxY1NGcFNvYzNRRjhmc0NLVlhNaUZWX0tMY25IM3J4cWVmY1VjVVFqVEdNS1NjUGxHbVlTcm9ReUtR?oc=5",
+      "source": "Yahoo Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-15T21:06:50.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "e738e84088e3"
     },
     {
       "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
@@ -822,7 +913,7 @@
       "publishedAt": "2026-08-15T18:11:12.000Z",
       "image": "",
       "topic": "经济",
-      "score": 72,
+      "score": 70,
       "id": "eb282fe4c015"
     },
     {
@@ -835,34 +926,8 @@
       "publishedAt": "2026-08-15T18:08:21.000Z",
       "image": "https://i.guim.co.uk/img/media/16e26ebc9e7e6768f1247ec08c0e829ad225db8c/222_0_2475_1980/master/2475.jpg?width=140&quality=85&auto=format&fit=max&s=c4b0308effadffb153d384ea76f1def0",
       "topic": "社会",
-      "score": 72,
+      "score": 70,
       "id": "77ab22d0b6fc"
-    },
-    {
-      "title": "South Korea proposes talks to officially end war with North",
-      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
-      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T14:40:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b1/live/1f13a3e0-9881-11f1-a7ab-8b30adf0800a.jpg",
-      "topic": "政治",
-      "score": 72,
-      "id": "a7703589b77b"
-    },
-    {
-      "title": "The next Yemen war might be different",
-      "summary": "Drones are no longer the advantage for only one side.",
-      "url": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-15T14:32:07.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "75eee89e3b9b"
     },
     {
       "title": "Iran War Pulls US Last Carrier USS George Washington From Asia, Giving China A Pacific Opening",
@@ -874,73 +939,8 @@
       "publishedAt": "2026-08-15T17:32:29.000Z",
       "image": "",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "4b210bea9ebd"
-    },
-    {
-      "title": "Earthquake of magnitude 7.8 strikes Philippines, no tsunami threat to NZ",
-      "summary": "Earthquake of magnitude 7.8 strikes Philippines, no tsunami threat to NZ &nbsp;&nbsp; nzherald.co.nz",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSnY5NmRuSlRsYXRDajQ1MEM4dVVZSDJpMVF3ZjdoQk5QeFF0UmhRSWZ4UDNDN09vMC1fRHhuRkl3QUxuajNwV0xkQUpBVDl1VkZaR2tSbVc4R21NVnRWSERBcU5OVnVrM2NZdERqZWgtQkJjME92Vm91c01tbWdZVXNtZDJJZ205aTItdmE3ZHpfUTRtdU9KUDBOM2huX0VaYjJKeFVGNWdTNktTQXBNdFdjbWJjM3p5NU85Z2NaVHFvMlJ1SzNIMFhHcDhUSzIwR2x6WmNPNHdwWVlId1VlWnIwYmVEa3c0NlVJWmQtZVpXRmVvTlctOFAzanRhdkpQNUhoSw?oc=5",
-      "source": "nzherald.co.nz",
-      "feed": "Pacific News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T17:10:44.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 71,
-      "id": "b8e65eb04202"
-    },
-    {
-      "title": "Caleb Yirenkyi Impresses on Coventry City Debut Against AS Monaco",
-      "summary": "Caleb Yirenkyi Impresses on Coventry City Debut Against AS Monaco &nbsp;&nbsp; Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDZWR1hCZllyMV9pZE9XWi1VbWJzcDFKeHJqM1ViUDFuNFIwT3ZBTUctVmJyNHJSRU4wc0pEYW9JTlQ4NnhlV2RnMjhpdXplVVBON1NsaGVoRU4tekx0bnBmNFhTZV9LMXpMSloyOGIwamh5Znd3QzZRSlpyczU5NkdkS3RrOU80NkdralBLc1ljckQyS1ZiSHZFZ1BTQQ?oc=5",
-      "source": "Africa Top Sports",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-15T20:18:24.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "a3001d41391a"
-    },
-    {
-      "title": "SADC prioritises peace, security and stability in Southern Africa",
-      "summary": "SADC prioritises peace, security and stability in Southern Africa &nbsp;&nbsp; SABC News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WWXoyU1RFZklCQjhrSFlweUhnMVNkbVRvR01uSmpKWGFlaWhQSS1RMDJSSmRHeU5pN3pXS3ZYVEtXR0Y1MXg3c2VYaENyUEtIRkx0NGdJYw?oc=5",
-      "source": "SABC News",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-15T20:07:01.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "9e6c25700be1"
-    },
-    {
-      "title": "Díaz thrives and Alaves beats 10-man Getafe 3-0 as La Liga kicks off Europe's domestic league season",
-      "summary": "Díaz thrives and Alaves beats 10-man Getafe 3-0 as La Liga kicks off Europe's domestic league season &nbsp;&nbsp; Yahoo Sports Canada",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BdmFDZXNjVV9PR0Zod0ZWM0ZfdTFCVTJRWHczYTNVMlpqNHNoeDBTT0dDaWZGV2Z3VFZEU0dpWGlKbmNXS2RkQ1JMa0hlUmh1R3FLN0hreldzUWE3ZF9OZG1jQ0Zmb3U5NmhXbjNXNUJDRWdmNGt1WVlLNncxdw?oc=5",
-      "source": "Yahoo Sports Canada",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-15T19:49:11.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "b773dda34cb1"
-    },
-    {
-      "title": "Pilchard herpes virus genetic material detected in sardines",
-      "summary": "Pilchard herpes virus genetic material detected in sardines &nbsp;&nbsp; SABC News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dBVUQxVEF6YS14Y3V5Q2xyaGtsamhKbzFxR19GYXBTZ3ZRd0NHM05FeDNVbzdjZnVXYzJyelV3WFVHTU5xVDhvTS1LeEMxM1ZaQk1meWJGcXVHdDRfZ3hQQW9lQ19yWVVxYmpTaHo0R2w2UWVLQ1Z6S3NXT3pNdjZFSU1lY2J0a2VkX011SXNJYVBodzc3ZEhn?oc=5",
-      "source": "SABC News",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-15T19:09:50.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "804355b269d2"
     }
   ]
 }
