@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T19:38:20.313Z",
+  "updatedAt": "2026-08-15T20:42:18.905Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -16,8 +16,21 @@
       "publishedAt": "2026-08-15T17:49:42.000Z",
       "image": "",
       "topic": "政治",
-      "score": 94,
+      "score": 93,
       "id": "dbb9bec1a09e"
+    },
+    {
+      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T20:00:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
+      "topic": "气候",
+      "score": 88,
+      "id": "c667737277a3"
     },
     {
       "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and Western Hemisphere - ABC News",
@@ -29,21 +42,21 @@
       "publishedAt": "2026-08-15T17:33:59.000Z",
       "image": "",
       "topic": "社会",
-      "score": 90,
+      "score": 84,
       "id": "b2ef0808dc6a"
     },
     {
-      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
-      "summary": "One person killed and hundreds evacuated in Croatia as blazes also hit Germany, Greece and Spain Almost 500 people have been arrested on suspicion of starting wildfires in France since the start of the summer, authorities have said, as firefighters in half a dozen European countries tackle ferocious blazes amid a record-breaking heatwave. A fire engulfed ⁠ho",
-      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-15T15:32:38.000Z",
-      "image": "https://i.guim.co.uk/img/media/4e74294d7fc12a4f6c823be60d68e8ff43d71b97/984_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=40fcf0dd5ba505158e68d69f898bc919",
+      "title": "Earthquake survivors 'still on alert' after dozens killed in Indonesia",
+      "summary": "Rescue teams are combing the rubble of buildings for survivors after the magnitude-7.7 earthquake struck eastern Indonesia.",
+      "url": "https://www.abc.net.au/news/2026-08-16/search-for-survivors-after-indonesia-earthquake/107042186",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T19:34:40.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/79693faebc32acbb12a9cae77853c342?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "气候",
-      "score": 88,
-      "id": "54cbfdfcf766"
+      "score": 83,
+      "id": "4a007a689aad"
     },
     {
       "title": "Massive egg recall in US south and south-west due to salmonella outbreak",
@@ -55,21 +68,21 @@
       "publishedAt": "2026-08-15T16:01:10.000Z",
       "image": "https://i.guim.co.uk/img/media/8db29763d7dd93fbeef64134375888b2dd0a1629/997_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=a80c851ea060a30cc8b67dd3937ea6c6",
       "topic": "政治",
-      "score": 85,
+      "score": 83,
       "id": "f77f5bd1ef5a"
     },
     {
-      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-      "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-15T19:34:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
-      "topic": "社会",
-      "score": 84,
-      "id": "f4ee7e3d8951"
+      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
+      "summary": "One person killed and hundreds evacuated in Croatia as blazes also hit Germany, Greece and Spain Almost 500 people have been arrested on suspicion of starting wildfires in France since the start of the summer, authorities have said, as firefighters in half a dozen European countries tackle ferocious blazes amid a record-breaking heatwave. A fire engulfed ⁠ho",
+      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-15T15:32:38.000Z",
+      "image": "https://i.guim.co.uk/img/media/4e74294d7fc12a4f6c823be60d68e8ff43d71b97/984_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=40fcf0dd5ba505158e68d69f898bc919",
+      "topic": "气候",
+      "score": 83,
+      "id": "54cbfdfcf766"
     },
     {
       "title": "Powerful earthquake kills dozens in eastern Indonesia",
@@ -81,7 +94,7 @@
       "publishedAt": "2026-08-15T15:34:38.000Z",
       "image": "https://i.guim.co.uk/img/media/c1dfcbb24723c11ca26889b87c4ab19df23653f6/93_0_1333_1067/master/1333.jpg?width=140&quality=85&auto=format&fit=max&s=133eb0e7f0aac7111f6bc94d886b87ab",
       "topic": "气候",
-      "score": 84,
+      "score": 82,
       "id": "ce6de301ed8b"
     },
     {
@@ -94,21 +107,73 @@
       "publishedAt": "2026-08-15T15:17:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 83,
+      "score": 81,
       "id": "6fce00a85003"
     },
     {
-      "title": "Vessel is attacked in Hormuz, Israeli strike kills 9 in Lebanon, and other news from the Middle East",
-      "summary": "Vessel is attacked in Hormuz, Israeli strike kills 9 in Lebanon, and other news from the Middle East &nbsp;&nbsp; The Tribune-Democrat",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVFlub19seUZUaGJ6RFlaYzRZVkdLa0tBemNCOFNFaV8wVS0tTzJOMExCTjNXRVcxSHdhZWo0Sl9mVnVzT2laMzJyU1k4M3EydzNpSGtoQWZteXlULVotSEdobWRxWFZHTGdDckZuYUtSY1hMQjNVUEs0WHFfcWFmeEdQYThOaXEyVnBGZnFwOUpNQlF2X3BKSFAxTUpFU2ZNQnFoNFBHZEFHMG9pblJkckVmUExCOU5DZUhrQWkwbTB5clltdWZPOUdQQnJrVnVPYkJGeFFvYUpaRkF5amJmSG9sNzRaTjUtMEhqdjRHQ00tc1VzOHVTeC12YXFnZklldTl3?oc=5",
-      "source": "The Tribune-Democrat",
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-08-15T20:21:14.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
+      "topic": "政治",
+      "score": 80,
+      "id": "b33fc71836d5"
+    },
+    {
+      "title": "Iran urges Qatar to release pilots shot down in Middle East war; Doha denies detention",
+      "summary": "Iran urges Qatar to release pilots shot down in Middle East war; Doha denies detention &nbsp;&nbsp; WION",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR3gxelJMREJacEpBTjVBTGVRbmFZWlhZQjc0Y1ROUzlVTjNibEd4M3JmRW1VZDEyWjlDa0hkR0M5TXN1aE1VUUFFZjRjaDZYeEMyQlY3ZDFFMGg3emgwTEVBT0QwZjhQRXhNcENKa3VxM3UtczRqcUtoLVJTbjk1bE5YU3J1VTQ0d01uU3FoMzVkbXlqWExNeE9mWjJRQ2NpQzZYUVNXdHVpNWgxZkZmTW9aZ00yNjNTMjFiMmR3bVo5NjFqOEEyZ9IBzgFBVV95cUxQaC16LS0yWnFacHpXU1FmbWhvbEhCRzRhQ1FhVlcwc2hOM2gxMTAzTkxDd3NPY1dIRk9JVHl5N0RlU2t5ZkhXS3NQMjNJNmduenlFdENRN2o2SktwWUp3OVpXLUROcC0ydWlpZW8zeTRFX1VPN3h6aDc2Y3A2WnNpWHhidkxFYlk1NWpQRDFnNjJRYmppN1FlMUJvbWxlX0VOMU1ROURjcUVucS1QekVVcGVhVHJtZG9HbHF3cVJzLWFUS2hJOWFJX08xZVpjUQ?oc=5",
+      "source": "WION",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-15T11:18:00.000Z",
+      "publishedAt": "2026-08-15T20:10:00.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 80,
+      "id": "3f87171d0438"
+    },
+    {
+      "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
+      "summary": "The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-15T20:09:33.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 80,
+      "id": "690ec640b3e2"
+    },
+    {
+      "title": "One Nation senator says parents who support their trans children are engaging in ‘child abuse’",
+      "summary": "‘There’s male, there’s female, and then there’s mental illness,’ Tyron Whitten says on YouTube show Get our breaking news email , free app or daily news podcast One Nation senator Tyron Whitten has claimed parents supporting their children who identify as transgender are engaging in “child abuse”, telling a fringe YouTube show: “there’s male, there’s female,",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/16/one-nation-tyron-whitten-comments-parents-trans-children-abuse-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-15T20:00:06.000Z",
+      "image": "https://i.guim.co.uk/img/media/9d8cd6c5fa3bd11536cf68a10311e886922c25ad/324_0_1591_1272/master/1591.jpg?width=140&quality=85&auto=format&fit=max&s=3b9443d44cd72ab3117b202b8b171bc0",
+      "topic": "社会",
+      "score": 80,
+      "id": "ba367e32fb2a"
+    },
+    {
+      "title": "Iran says Qatar is holding pilots, Israeli strikes kill 11 in Lebanon, and other Middle East news - ABC News",
+      "summary": "Iran says Qatar is holding pilots, Israeli strikes kill 11 in Lebanon, and other Middle East news &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2ViVHktMExkQXRtc0llT0FTMUFLZ041Y2FhSHNnemhXYjVVUk91OHVVVnNCelJ2WHJxVERtRy1CN3FsWjRSaWxlZ2NjVXV2QjEyVGc4MjdIR3RsR284aW40TkpOalU4Z1dYU214Vm53UTdzSTdHcDc5TDhEMmd4VEhsMTY2dHdyR3hvbHRIa21yREQtdWtVSWJzVkVKUdIBowFBVV95cUxOM1NjbDlyR29VVmE2aTE5ck5DdDFpaUF3NElFeG53SG5qYV9qOVRQWEIxUDNCemVDS1oyZTgxVU43d0VNZnlLSHJWblc1Z09hNTUyUEhDeFRTVVVRWnNjWHJqLVNHRE00TTBwQ2xfbEdHWmNSdDd5NHZNV2ZfUTRvV1FJNmpiSXVkc2VGVEVOMGpNMTQ1blZNVndvRnpMQ1k5aVFB?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-15T16:50:45.000Z",
       "image": "",
       "topic": "社会",
-      "score": 82,
-      "id": "73189bcb1e0b"
+      "score": 80,
+      "id": "36f032655b1e"
     },
     {
       "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
@@ -120,21 +185,60 @@
       "publishedAt": "2026-08-15T16:39:52.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "fea68d595025"
     },
     {
-      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
+      "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the ou",
+      "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-08-15T13:55:28.000Z",
+      "image": "https://i.guim.co.uk/img/media/7c89de51a1cb60ff5893f2358eef87af6a328c6a/103_0_4103_3283/master/4103.jpg?width=140&quality=85&auto=format&fit=max&s=d0764aaa2e0846825cd181668b8f0f09",
+      "topic": "政治",
+      "score": 80,
+      "id": "99486ccfa732"
+    },
+    {
+      "title": "Israel says it killed Hezbollah commander in strike that left children dead",
+      "summary": "Israeli strikes on Lebanon targeting a Hezbollah commander kill 11 people, including three children, making it the deadliest raid since June deals eased hostilities in the region.",
+      "url": "https://www.abc.net.au/news/2026-08-16/israel-says-it-killed-hezbollah-commander-in-lebanon-strike/107042916",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "中东",
+      "publishedAt": "2026-08-15T19:53:52.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/fd7b7d7973532b731164131b5e838dd2?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
+      "topic": "社会",
+      "score": 79,
+      "id": "80ed9c9cece9"
+    },
+    {
+      "title": "Twenty-two more bodies recovered after Zimbabwe boat accident",
+      "summary": "Death toll now stands at 68, with 18 children being among the killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded ",
+      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-15T19:39:07.000Z",
+      "image": "https://i.guim.co.uk/img/media/b14768a4016a3eb7461634532d5a9f3c7c039c61/668_0_4853_3883/master/4853.jpg?width=140&quality=85&auto=format&fit=max&s=fb5e8e7beec54c6ef27f17ca3ee48446",
+      "topic": "社会",
+      "score": 79,
+      "id": "c61392b7ae32"
+    },
+    {
+      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+      "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "feed": "BBC World",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T13:35:57.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
-      "topic": "气候",
-      "score": 81,
-      "id": "c667737277a3"
+      "region": "全球",
+      "publishedAt": "2026-08-15T19:34:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
+      "topic": "社会",
+      "score": 79,
+      "id": "f4ee7e3d8951"
     },
     {
       "title": "Roz Hervey had hours left to live. She asked her family to press record",
@@ -146,21 +250,8 @@
       "publishedAt": "2026-08-15T19:04:17.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/8c48920bc16c7f2412870e174d927323?impolicy=wcms_crop_resize&cropH=2394&cropW=4256&xPos=0&yPos=103&width=862&height=485",
       "topic": "社会",
-      "score": 80,
+      "score": 78,
       "id": "2b8ccda4c327"
-    },
-    {
-      "title": "Iran claims Qatar is holding pilots, Israeli strikes kill 11 in Lebanon, and other Middle East news",
-      "summary": "Iran claims Qatar is holding pilots, Israeli strikes kill 11 in Lebanon, and other Middle East news &nbsp;&nbsp; Newsday",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2RSeG1JcUhEc2VEVHU2T0QwQTdOMF80U3lVc3FfTGx5LUZObkhzaThHY2dvY0VDY01HSVJXWkptWE1ncjh5VzhBNnpVazg3VjJ2YXJkWnBXVDVvRU1PM21TWlVGajBRLVpNdUpUMGVfU3N4Wl9VcUNYVm5KTTVtUl9pT2RueGo5OENmTXF1UTZTNjFqWEE?oc=5",
-      "source": "Newsday",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-15T19:05:10.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 79,
-      "id": "7ea3648a0f27"
     },
     {
       "title": "Warming climate forcing marathon changes to keep runners cool",
@@ -172,11 +263,11 @@
       "publishedAt": "2026-08-15T18:52:33.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/b22712be853866953b15103a4644dfe9?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "3237c82cc70f"
     },
     {
-      "title": "Australia is spending billions on fuel security. What if some of that went to electric trucks?",
+      "title": "Fuel security or electrification? We've crunched the numbers",
       "summary": "The war in Iran has drawn attention to something invisible to most Australians — we use a lot of diesel to keep this country running.",
       "url": "https://www.abc.net.au/news/2026-08-16/how-much-might-it-cost-to-electrify-road-freight/106956614",
       "source": "ABC Australia",
@@ -185,8 +276,8 @@
       "publishedAt": "2026-08-15T18:40:53.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c2dd8223214e6fe1eed214f9e0b08c9e?impolicy=wcms_crop_resize&cropH=808&cropW=1436&xPos=243&yPos=201&width=862&height=485",
       "topic": "政治",
-      "score": 79,
-      "id": "71ed37b41cfc"
+      "score": 78,
+      "id": "fadc7fa5c466"
     },
     {
       "title": "Dream becomes reality as couple takes over outback pub",
@@ -198,7 +289,7 @@
       "publishedAt": "2026-08-15T18:30:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/49af2459fb2e5eeffb7b21f0265382be?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=261&width=862&height=485",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "98cf24864397"
     },
     {
@@ -211,21 +302,34 @@
       "publishedAt": "2026-08-15T18:21:32.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "625fdf63fbad"
     },
     {
-      "title": "Iran War Pulls US Last Carrier USS George Washington From Asia, Giving China A Pacific Opening",
-      "summary": "Iran War Pulls US Last Carrier USS George Washington From Asia, Giving China A Pacific Opening &nbsp;&nbsp; ABP Live English",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcnp5YTBmYW1CazR3WnVVYjhlY3hyLUpRd1JUeU1uU1dkQ3g2LTFQckt6a3RRQ04xOVQyMFlUQmZMRlZLQjRYbmRLSExTbFVUVFBwbFhNUnpDaEZGQlJCYnp4VDBKc09JcHJ5Zm5XTjBxMWJ5M1ltM3RPeENNS3E4SXptbHVfeTJ1aDFpcXRSdUdIUFpZTFc5aGZVa19XMjJzRUJ1dW53THdpXzU4WGFSSnRPVzBabk5GRExZRDRrbXBhZmY1ekczQXliU1R6WWV6bTNXbFRsV3BMRnBiSDRCeNIB5gFBVV95cUxQM0tRVW43Q21PUzY3YzBUUUdqbjJIWE03SFhWakQ5UXRnRGdsb3pFSGN2cm5acGlpczRsRHlVUTJCZ0c2VzlSWi1oQ0J1NU5ycTZjLUZsNVlxME8tNDVsa1lMNFFNUEUwb24yeklJM1lBdVoyWkxoeEVDUmZLY2dkb3lRWFRJazNvYnFfT3VTVG9RLVU0V3J0UjhEVzdka0xabUdfT0QxZmtXVFl0RUVlVUs3emluV2JYUW1wNVRKUXZqNVdYVTlyenZBcW1CX25rVXRfUXZGbXQ4bEJmYlhHOGhqMWU3Zw?oc=5",
-      "source": "ABP Live English",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T17:32:29.000Z",
+      "title": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
+      "summary": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate &nbsp;&nbsp; France 24",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYjZ2dWcxdUl5NnozMzExdjQtcmU3aS1iZjdzWWMxWHlKQ0tpYXVsajlaRGcwM1AteS12dk9jZDhRZU9ILWVWN0I0M3YyZ1czcDJLRGNrb19lWDc3b29YblRONEpzMXVWSzgzcVJ0UnpLUGxZOGN5eXNwdUFXWkdjbm1OcGZrcTBuanczMktLVjlVMjlZSEVyR012NkFseE1wX2pDS05fb1VPXzFLWl9vVzRHSmk5c1c0S05GeVRHZm9WU3c?oc=5",
+      "source": "France 24",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-15T20:37:34.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 78,
-      "id": "4b210bea9ebd"
+      "topic": "社会",
+      "score": 76,
+      "id": "f04c6104a576"
+    },
+    {
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-15T20:32:33.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
+      "topic": "社会",
+      "score": 76,
+      "id": "1caef42daab7"
     },
     {
       "title": "Tropical Storm Lala expected to strengthen as it nears Hawaii",
@@ -237,34 +341,8 @@
       "publishedAt": "2026-08-15T17:27:57.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "08b00a0890b1"
-    },
-    {
-      "title": "Naidoc awards honour ‘fearless, brilliant’ promoter of First Nations culture Rhoda Roberts",
-      "summary": "Proud Widjabul Wieybal woman of the Bundjalung nation recognised posthumously with the lifetime achievement award Get our breaking news email , free app or daily news podcast One of Australia’s greatest cultural ambassadors has been recognised posthumously for dedicating her life to sharing, preserving and promoting First Nations culture through language, da",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/16/naidoc-awards-2026-rhoda-roberts-first-nations-honour-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-15T14:01:01.000Z",
-      "image": "https://i.guim.co.uk/img/media/d7e6c4fa73cac865d990bd48e8d7788c9aa50159/516_0_3211_2571/master/3211.jpg?width=140&quality=85&auto=format&fit=max&s=7680ae30a2dd8a03426f52d15f0e5809",
-      "topic": "政治",
-      "score": 78,
-      "id": "751df83433a0"
-    },
-    {
-      "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
-      "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the ou",
-      "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-15T13:55:28.000Z",
-      "image": "https://i.guim.co.uk/img/media/7c89de51a1cb60ff5893f2358eef87af6a328c6a/103_0_4103_3283/master/4103.jpg?width=140&quality=85&auto=format&fit=max&s=d0764aaa2e0846825cd181668b8f0f09",
-      "topic": "政治",
-      "score": 78,
-      "id": "99486ccfa732"
     },
     {
       "title": "UK PM Burnham reacts to death of former Cambridge professor",
@@ -276,8 +354,99 @@
       "publishedAt": "2026-08-15T17:19:12.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "f2c1bc0bf87d"
+    },
+    {
+      "title": "Naidoc awards honour ‘fearless, brilliant’ promoter of First Nations culture Rhoda Roberts",
+      "summary": "Proud Widjabul Wieybal woman of the Bundjalung nation recognised posthumously with the lifetime achievement award Get our breaking news email , free app or daily news podcast One of Australia’s greatest cultural ambassadors has been recognised posthumously for dedicating her life to sharing, preserving and promoting First Nations culture through language, da",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/16/naidoc-awards-2026-rhoda-roberts-first-nations-honour-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-15T14:01:01.000Z",
+      "image": "https://i.guim.co.uk/img/media/d7e6c4fa73cac865d990bd48e8d7788c9aa50159/516_0_3211_2571/master/3211.jpg?width=140&quality=85&auto=format&fit=max&s=7680ae30a2dd8a03426f52d15f0e5809",
+      "topic": "政治",
+      "score": 76,
+      "id": "751df83433a0"
+    },
+    {
+      "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+      "summary": "Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-15T20:07:07.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "9080646bc4c2"
+    },
+    {
+      "title": "New York City man charged with hate crimes after alleged synagogue assault",
+      "summary": "Police say Larry Montes struck a woman and a security guard after he disrupted Shabbat services A New York City man is facing hate crime charges after police say he assaulted a woman and a security team member while disrupting Shabbat services at Central Synagogue in Manhattan – all in plain view of a live stream. The New York police department identified th",
+      "url": "https://www.theguardian.com/us-news/2026/aug/15/hate-crime-charges-new-york-synagogue-assault",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-15T20:02:27.000Z",
+      "image": "https://i.guim.co.uk/img/media/96b4a0cdd939fc7870e489e229d448a495916e64/9_0_4168_3335/master/4168.jpg?width=140&quality=85&auto=format&fit=max&s=aa0ae5511d256914300239bd38989dc3",
+      "topic": "社会",
+      "score": 75,
+      "id": "8fee610d0526"
+    },
+    {
+      "title": "Housing project to help domestic violence survivors secure rental",
+      "summary": "Some families flee domestic violence with just the clothes on their back. Now they have a place to call home.",
+      "url": "https://www.abc.net.au/news/2026-08-16/housing-project-helps-dv-survivors-secure-rental-property/107017226",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-15T20:00:00.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/be189f20ac6cdb18ef722ba92bc90a89?impolicy=wcms_crop_resize&cropH=2295&cropW=4081&xPos=552&yPos=113&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "ca79abc877f3"
+    },
+    {
+      "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+      "summary": "A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-15T19:46:20.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "72c85e02f530"
+    },
+    {
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-08-15T19:41:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3eb/live/39b85200-98cb-11f1-9687-fb984065014d.jpg",
+      "topic": "社会",
+      "score": 75,
+      "id": "56ab01d2c81e"
+    },
+    {
+      "title": "Houthis fire ballistic missiles at Marib residential areas - Shafaq News | Latest breaking news in Iraq and the world",
+      "summary": "Houthis fire ballistic missiles at Marib residential areas - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTE2eWpGZGc5SGxwUGxfdzQ5OEU1UXZWYWJkeGtCTGJ3TDFDLVdHVnlaR2NvT0cyWVVDT2EybUp0TTVndzJ2Rk9IZnUtWmZMYnR6NnExRnh1bEtLcnc4MENfbXhLLWZtSmhnU1E4MHV1YTVhREFaT0pxb2gzM0pSUFRJajNmUHhId1Z3WWtEVkY3NWFxbW1n?oc=5",
+      "source": "شفق نيوز",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-15T19:25:12.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "4a23df8cf012"
     },
     {
       "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
@@ -289,7 +458,7 @@
       "publishedAt": "2026-08-15T17:04:43.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 75,
       "id": "dc59e492c8a7"
     },
     {
@@ -302,125 +471,8 @@
       "publishedAt": "2026-08-15T16:33:05.000Z",
       "image": "",
       "topic": "气候",
-      "score": 77,
+      "score": 75,
       "id": "498f48f9a8d8"
-    },
-    {
-      "title": "Video: Wall Street ends lower as investors weigh data, Middle East tensions",
-      "summary": "Video: Wall Street ends lower as investors weigh data, Middle East tensions &nbsp;&nbsp; livetube.tv",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdnpscGp0a2ZDZ2JUM3lUOFVjX2JyRzYwWm1YZGh1dUZDTUo1WnNKb1h1Z0dTVEhuVkZLS3cyVVJIWEVmcWQwclpXVnJiNnZEdFcxenZzYmF0UXpBNEJ2cE1SSjAwLXpNcUhqOXlyUlNiTThyOWszTXI3WkVjLXdEQkczZU9CTDJmM08xQ0VLaTd5LXlPanplV0FFT1ktcDBjb3E2eg?oc=5",
-      "source": "livetube.tv",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-15T10:59:32.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 77,
-      "id": "f96ca13c0244"
-    },
-    {
-      "title": "Houthis fire ballistic missiles at Marib residential areas - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "Houthis fire ballistic missiles at Marib residential areas - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTE2eWpGZGc5SGxwUGxfdzQ5OEU1UXZWYWJkeGtCTGJ3TDFDLVdHVnlaR2NvT0cyWVVDT2EybUp0TTVndzJ2Rk9IZnUtWmZMYnR6NnExRnh1bEtLcnc4MENfbXhLLWZtSmhnU1E4MHV1YTVhREFaT0pxb2gzM0pSUFRJajNmUHhId1Z3WWtEVkY3NWFxbW1n?oc=5",
-      "source": "شفق نيوز",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-15T19:25:12.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "4a23df8cf012"
-    },
-    {
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
-      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-15T19:16:40.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
-      "topic": "社会",
-      "score": 76,
-      "id": "35695371a948"
-    },
-    {
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-08-15T16:02:49.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
-      "topic": "政治",
-      "score": 76,
-      "id": "b33fc71836d5"
-    },
-    {
-      "title": "Europe’s tallest statue of the Virgin Mary inaugurated in small Polish village",
-      "summary": "Europe’s tallest statue of the Virgin Mary inaugurated in small Polish village &nbsp;&nbsp; BreakingNews.ie",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRmp0aTh3MlUwaERLWW9XM0dmN0tIRGh2azd2cF9TS29HRTV5UnJyelg0bFh1QmRIdndldmxETmxaSzdQb1prSDZoLVd6ZkhPQjZzSmpZb1ZQMkhJaDV6Smt2MmUyakZhWng2MkVXUGxlZ0IwV29BWmN5RlBNSVlkMDNHTFhEZUtMcTEwcWI3QzFLOEs4aG9hc2thNWNoRU1jaktOQkFxSFNXUmlJemIwZ18tTUxZQ1BuXzdBU3pHVEhydw?oc=5",
-      "source": "BreakingNews.ie",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-15T15:57:24.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "a0a6c785c06d"
-    },
-    {
-      "title": "Alarmed by the alarm: people react to ‘severe alert’ on phones over UK wildfires",
-      "summary": "Many complained online that piercingly loud tone was ‘overreach’ while others lamented lack of action on decarbonisation On Friday at 7pm, Thérèse Coffey was nine miles away from a nuclear power station when her phone made a loud, piercing and very worrying sound: it was a “severe” emergency alert . “Was expecting [a] much more specific alert, not a generic ",
-      "url": "https://www.theguardian.com/world/2026/aug/15/people-react-severe-alert-phones-message-uk-wildfires",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-15T15:54:15.000Z",
-      "image": "https://i.guim.co.uk/img/media/c8ddaa2f96fff21941e65f1095ab4fa6411ded9c/2277_1630_3110_2487/master/3110.jpg?width=140&quality=85&auto=format&fit=max&s=7950443263773dd5c08dae16e54bdd2d",
-      "topic": "气候",
-      "score": 76,
-      "id": "2b1e4bf591b3"
-    },
-    {
-      "title": "Israel blames Hezbollah attack for injuring three soldiers - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "Israel blames Hezbollah attack for injuring three soldiers - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUVRSDN0Mkd5bnBKbEFnLURWVjV2MEs0VEZCZzM4NXR1WGJ1b3ZraDJYWUxkenk3d2NsWHBYNUFfY3lGTTRNdElNczRIT09vbFVyMFg3Y3c0cXpiQXNBd0p0QjRKRXVtZXJaM2FMbzNkVDF1UFliaXJYOVZybmJHd2w5UmF6MkI1a1RsR0VUOVBES2xILTFB?oc=5",
-      "source": "شفق نيوز",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-15T15:39:35.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "451bdd553e45"
-    },
-    {
-      "title": "Multiple people injured in shooting at Virginia State University",
-      "summary": "School said shooting involved ‘multiple suspects’ as campus was locked down and police responded to scene Multiple people were injured in a shooting at Virginia State University (VSU), police said on Saturday morning, with several suspects still at large. The campus, about 20 miles (32km) south of Richmond, was temporarily put on lockdown as police released ",
-      "url": "https://www.theguardian.com/us-news/2026/aug/15/multiple-people-injured-virginia-state-university-shooting",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-15T13:20:41.000Z",
-      "image": "https://i.guim.co.uk/img/media/eeddbcc77fbd6cef59fdc5e3cbe09d64b4514903/324_0_2094_1677/master/2094.jpg?width=140&quality=85&auto=format&fit=max&s=4c7dc3986d2bfac6cdcaef567a49fade",
-      "topic": "社会",
-      "score": 76,
-      "id": "32ad4277eb35"
-    },
-    {
-      "title": "Five wounded in shooting at Virginia State University, multiple suspects",
-      "summary": "Police found the gunshot victims near the US university's halls of residence.",
-      "url": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-15T12:57:08.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "a9fc4b004af2"
     },
     {
       "title": "NSW launches gun buyback scheme in wake of Bondi terror attack",
@@ -432,12 +484,12 @@
       "publishedAt": "2026-08-15T12:34:49.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/de1928a49f78d2c2cc4851f9833df56e?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485",
       "topic": "科技",
-      "score": 76,
+      "score": 75,
       "id": "004a15774960"
     },
     {
-      "title": "Death toll from Zimbabwe ferry disaster rises to 69",
-      "summary": "Police say 23 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.",
+      "title": "Death toll from Zimbabwe ferry disaster rises to 72",
+      "summary": "Police say 26 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.",
       "url": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
@@ -445,11 +497,11 @@
       "publishedAt": "2026-08-15T19:10:06.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
-      "id": "d67596c17d86"
+      "score": 74,
+      "id": "49518d185998"
     },
     {
-      "title": "Can Albanese erase his permanent marker GST pledge?",
+      "title": "Albanese might regret using permanent marker on GST pledge",
       "summary": "The electoral map that made surrendering to Western Australia irresistible to the prime minister has changed, but taking something back is always hard.",
       "url": "https://www.abc.net.au/news/2026-08-16/gst-western-australia-sharpie-productivity-commission-federation/107037184",
       "source": "ABC Australia",
@@ -458,8 +510,8 @@
       "publishedAt": "2026-08-15T19:00:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c519488ab400b1d91ceacb3ee88c56ff?impolicy=wcms_crop_resize&cropH=2408&cropW=4282&xPos=137&yPos=705&width=862&height=485",
       "topic": "政治",
-      "score": 75,
-      "id": "3e0ec5714762"
+      "score": 74,
+      "id": "1a8fff449c89"
     },
     {
       "title": "'Afghanistan has been forgotten' but she hasn't forgotten Afghanistan",
@@ -471,7 +523,7 @@
       "publishedAt": "2026-08-15T18:50:28.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/bb814dafe16c83eeef0c0c2c8f763c63?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "868b3642418c"
     },
     {
@@ -484,7 +536,7 @@
       "publishedAt": "2026-08-15T18:44:49.000Z",
       "image": "https://i.guim.co.uk/img/media/2121b0163cb27f7b515baef179471bedb844bead/540_0_5375_4303/master/5375.jpg?width=140&quality=85&auto=format&fit=max&s=68e9269c80fe275e065a38e3dfb21424",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "ddb474898cbe"
     },
     {
@@ -497,12 +549,64 @@
       "publishedAt": "2026-08-15T18:43:09.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/bf3d5c3aa2b890cbfed3a3cedaa1c001?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=173&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "51d29e474261"
     },
     {
-      "title": "The public unravelling of a playboy pub owner",
-      "summary": "Even as he was trying to stave off bankruptcy, failed hotel owner Jon Adgemis was still living the high life, forking out more than $60,000 a month in rent while he tooled around town in a Mercedes G63, worth $430,000.",
+      "title": "Europe’s tallest statue of the Virgin Mary inaugurated in small Polish village",
+      "summary": "Europe’s tallest statue of the Virgin Mary inaugurated in small Polish village &nbsp;&nbsp; BreakingNews.ie",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRmp0aTh3MlUwaERLWW9XM0dmN0tIRGh2azd2cF9TS29HRTV5UnJyelg0bFh1QmRIdndldmxETmxaSzdQb1prSDZoLVd6ZkhPQjZzSmpZb1ZQMkhJaDV6Smt2MmUyakZhWng2MkVXUGxlZ0IwV29BWmN5RlBNSVlkMDNHTFhEZUtMcTEwcWI3QzFLOEs4aG9hc2thNWNoRU1jaktOQkFxSFNXUmlJemIwZ18tTUxZQ1BuXzdBU3pHVEhydw?oc=5",
+      "source": "BreakingNews.ie",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-15T15:57:24.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "a0a6c785c06d"
+    },
+    {
+      "title": "Alarmed by the alarm: people react to ‘severe alert’ on phones over UK wildfires",
+      "summary": "Many complained online that piercingly loud tone was ‘overreach’ while others lamented lack of action on decarbonisation On Friday at 7pm, Thérèse Coffey was nine miles away from a nuclear power station when her phone made a loud, piercing and very worrying sound: it was a “severe” emergency alert . “Was expecting [a] much more specific alert, not a generic ",
+      "url": "https://www.theguardian.com/world/2026/aug/15/people-react-severe-alert-phones-message-uk-wildfires",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-15T15:54:15.000Z",
+      "image": "https://i.guim.co.uk/img/media/c8ddaa2f96fff21941e65f1095ab4fa6411ded9c/2277_1630_3110_2487/master/3110.jpg?width=140&quality=85&auto=format&fit=max&s=7950443263773dd5c08dae16e54bdd2d",
+      "topic": "气候",
+      "score": 74,
+      "id": "2b1e4bf591b3"
+    },
+    {
+      "title": "Israel blames Hezbollah attack for injuring three soldiers - Shafaq News | Latest breaking news in Iraq and the world",
+      "summary": "Israel blames Hezbollah attack for injuring three soldiers - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUVRSDN0Mkd5bnBKbEFnLURWVjV2MEs0VEZCZzM4NXR1WGJ1b3ZraDJYWUxkenk3d2NsWHBYNUFfY3lGTTRNdElNczRIT09vbFVyMFg3Y3c0cXpiQXNBd0p0QjRKRXVtZXJaM2FMbzNkVDF1UFliaXJYOVZybmJHd2w5UmF6MkI1a1RsR0VUOVBES2xILTFB?oc=5",
+      "source": "شفق نيوز",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-15T15:39:35.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "451bdd553e45"
+    },
+    {
+      "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
+      "summary": "A decade ago, student leaders were jailed for shouting 'Azadi', which means freedom.",
+      "url": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T15:25:51.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 74,
+      "id": "6f9cdfee6374"
+    },
+    {
+      "title": "How did someone who spent $380m on pubs end up with $1.8b in debts?",
+      "summary": "Even as he was trying to stave off bankruptcy, failed hotel owner Jon Adgemis was still living the high life, forking out more than $60,000 a month in rent.",
       "url": "https://www.abc.net.au/news/2026-08-16/how-jon-adgemis-became-australias-biggest-bankrupt/107039202",
       "source": "ABC Australia",
       "feed": "ABC Australia",
@@ -510,8 +614,8 @@
       "publishedAt": "2026-08-15T18:41:59.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/63a2e9f7fd84b71a52e36968a58e22ab?impolicy=wcms_crop_resize&cropH=412&cropW=733&xPos=0&yPos=0&width=862&height=485",
       "topic": "经济",
-      "score": 75,
-      "id": "d502132bbe24"
+      "score": 73,
+      "id": "483db9ad0a4b"
     },
     {
       "title": "Hello — it's me. I've been wondering when you'll test your music knowledge",
@@ -523,7 +627,7 @@
       "publishedAt": "2026-08-15T18:30:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/3fec553929081a16e50c08cdc9ade62a?impolicy=wcms_crop_resize&cropH=2301&cropW=4090&xPos=0&yPos=172&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "d9ed4449e849"
     },
     {
@@ -536,7 +640,7 @@
       "publishedAt": "2026-08-15T18:30:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/5fc34d86584262292afa75b46614c03f?impolicy=wcms_crop_resize&cropH=1304&cropW=2318&xPos=758&yPos=179&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "d15c0d7c8336"
     },
     {
@@ -549,34 +653,8 @@
       "publishedAt": "2026-08-15T18:21:16.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 73,
       "id": "1ae794abb4d4"
-    },
-    {
-      "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
-      "summary": "A decade ago, student leaders were jailed for shouting 'Azadi', which means freedom.",
-      "url": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T15:25:51.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "6f9cdfee6374"
-    },
-    {
-      "title": "Alaska candidate for US Senate seat rejects Kamala Harris’s unsolicited support",
-      "summary": "Former VP sent fundraising appeal for Democrat Mary Peltola’s campaign – with half of donations going to Harris’s organization Alaska US Senate candidate Mary Peltola has rejected the support of Kamala Harris , her fellow Democrat, after the 2024 presidential candidate sent out a seemingly unsolicited fundraising appeal on Peltola’s behalf. Harris, who lost ",
-      "url": "https://www.theguardian.com/us-news/2026/aug/15/alaska-mary-peltola-rejects-kamala-harris-unsolicited-support",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-15T15:07:54.000Z",
-      "image": "https://i.guim.co.uk/img/media/46541bd5527a1eae60f3570b67456fe7118c170c/85_0_3047_2438/master/3047.jpg?width=140&quality=85&auto=format&fit=max&s=6bc1980f4a4b1e8bfe3f9764389d3a9b",
-      "topic": "政治",
-      "score": 75,
-      "id": "dee892ba942d"
     },
     {
       "title": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
@@ -588,21 +666,21 @@
       "publishedAt": "2026-08-15T18:19:23.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "721aee149e1c"
     },
     {
       "title": "Trump’s Latin American Allies Strengthen Ties With Israel",
-      "summary": "Trump’s Latin American Allies Strengthen Ties With Israel &nbsp;&nbsp; ABP Live English",
+      "summary": "Trump’s Latin American Allies Strengthen Ties With Israel &nbsp;&nbsp; news.abplive.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMlVPaVJ3MFJCMDQ3SGVEX1lxbXoxRlRKT2x6RjlpQ0tzUVVqcUNET2ZqUEIxejRQMjBheVdvQmE4VkxKdlB6azg5S1FGUWpoU2VLXzJIdm42SHRManpHNHliQzVqOUxIMkUxUFZZNmpmVzhiS1drd2h3SVBFU09VbVh0eENTcDk2RVNoV1pTZnUxbFV4WXJrSWV1TjRQTHAzaTEw0gGoAUFVX3lxTE9UY3JEdnhSek5HWmw0aVNFR29PZEFnSnRZY25XYWFhSDBScmtTTG85WF80S3hiQ3gzRFRDekY5ZF9sV2hTUTR3U2dZdWNONE91d3BKTUNCUmxzUktNN1BtajFiZlRTMjkyajNtd001R1dBb2NnQ25XZ3lVV090cHJNMjE3SkNJYVlXeGs2c0tta1hRb3lfb25aY3B4eHlJMnd1c0JLSmw3VA?oc=5",
-      "source": "ABP Live English",
+      "source": "news.abplive.com",
       "feed": "Latin America News Network",
       "region": "中东",
       "publishedAt": "2026-08-15T18:19:04.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
-      "id": "24650ad589ea"
+      "score": 73,
+      "id": "806b71782b7a"
     },
     {
       "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
@@ -614,7 +692,7 @@
       "publishedAt": "2026-08-15T18:11:12.000Z",
       "image": "",
       "topic": "经济",
-      "score": 74,
+      "score": 73,
       "id": "eb282fe4c015"
     },
     {
@@ -627,21 +705,8 @@
       "publishedAt": "2026-08-15T18:08:21.000Z",
       "image": "https://i.guim.co.uk/img/media/16e26ebc9e7e6768f1247ec08c0e829ad225db8c/222_0_2475_1980/master/2475.jpg?width=140&quality=85&auto=format&fit=max&s=c4b0308effadffb153d384ea76f1def0",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "77ab22d0b6fc"
-    },
-    {
-      "title": "More than 100 arrested in Morocco after call for another migrant mass crossing to Ceuta",
-      "summary": "At least 111 people have been arrested for trying to get into Ceuta following another call on social media for a mass crossing of migrants.",
-      "url": "https://news.sky.com/story/more-than-100-arrested-in-morocco-after-social-media-call-for-another-migrant-mass-crossing-to-ceuta-13573534",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "全球",
-      "publishedAt": "2026-08-15T18:00:00.000Z",
-      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-ceuta-migrants-morocco_7322789.jpg?20260815191020",
-      "topic": "社会",
-      "score": 74,
-      "id": "21401b79aac6"
     },
     {
       "title": "From Gaza to Iran, Washington’s wars are becoming an electoral liability",
@@ -653,47 +718,8 @@
       "publishedAt": "2026-08-15T17:56:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "6292c329153b"
-    },
-    {
-      "title": "Inter Milan sign England’s Djed Spence from Tottenham Hotspur",
-      "summary": "The 26-year-old, who has signed a five-year deal, cost the Italian champions about $40m, according to media reports.",
-      "url": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-15T17:48:32.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "e1bb7f8188bc"
-    },
-    {
-      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
-      "summary": "The fire burning through the major park was described as the country's worst in recent years.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-15T17:47:42.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa32/live/1695a180-98ba-11f1-9a0b-ef36d15fc6b3.jpg",
-      "topic": "气候",
-      "score": 74,
-      "id": "337d24a6e648"
-    },
-    {
-      "title": "World News | Suryapath Tiranga: Tricolour Completes Historic Global Relay Across Continents",
-      "summary": "World News | Suryapath Tiranga: Tricolour Completes Historic Global Relay Across Continents &nbsp;&nbsp; LatestLY",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWkhCeXM3dEhLQnpOTmhaQlQ5cnlLQ3ZHandEeDRON3JXNmxycEZ2dTZKUk9MUTBVYWZOOEJ4bnBBdmx3enEtT3k1ckIwbFYzLXkyY25adE9FelJKZjMyS01YX2NPYW5YajBZdDRvX1g5akRZelhXX2RFQUI2Z0V0Y0puZmM0ck9DanNiR2cwcmwxY3RGY0lHRXdwUGxfVC1ZNFBaQ2FQcHFPRl9tM1pscmJRUEltSDQ1SkM0Y3M1SWlDN201b3N1NkFLeVdvZkI4NFp4ctIB2gFBVV95cUxPdjd6MHNVRlZIaEhtS0tCRTFob0dYLTZOdEFMUFRCeFBOR2ktQWVXaUdGMkpRSGtYX2dJVEhrY3pOSjBoTXFwckxZbkNFM2Jrc2F2UjZKcGV1UndZVlJZTWMweE52NVpZLWZMSXBDTjFnSERIWTNHeXB4cUZWMXdETThWS0xmYy1nQmNrYmxGQmxJSnJJYUdhaERxX0Z4MDNvYk02VW1Ia3lRZVRyamkxVno3MkItR19BbUdneEtHWTFqMlc2VW5uV2NrNzdnaHRMM0k0M3ctc3pXZw?oc=5",
-      "source": "LatestLY",
-      "feed": "Pacific News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-15T17:32:17.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "25c85af80eb3"
     },
     {
       "title": "South Korea proposes talks to officially end war with North",
@@ -705,7 +731,7 @@
       "publishedAt": "2026-08-15T14:40:15.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b1/live/1f13a3e0-9881-11f1-a7ab-8b30adf0800a.jpg",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "a7703589b77b"
     },
     {
@@ -718,7 +744,7 @@
       "publishedAt": "2026-08-15T14:32:07.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "75eee89e3b9b"
     },
     {
@@ -731,47 +757,99 @@
       "publishedAt": "2026-08-15T11:40:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "f2dc46e120eb"
     },
     {
-      "title": "Aftermath of deadly Indonesia earthquake",
-      "summary": "Dozens of people have been killed after a 7.7-magnitude earthquake off Indonesia’s Flores Island.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
+      "title": "China missile test deepens Pacific divide over growing militarization",
+      "summary": "China missile test deepens Pacific divide over growing militarization &nbsp;&nbsp; Japan Today",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWFvTzJyd2ZPQXlBellvMndyZjFINGhEcnp1eWdJSU9IX1RwMHdMRHk2ZS1yQXVsSm9ScGJPNkt2WUhOX3drWk1yUWdkLU5Nd2R5V2l1UFdhYUhGcjlPaU5PSi1Gc0FnR2ZwTzRidnQyb09rczF2QXlfT25JUVVDd1JVUFVCVThtNFpSU3Y0ZHBGRkZ3NWlzV2J1RXluMzNBanhHb1FBeVRRX1d5a1Y5b3JObEtvYmxPWExmWA?oc=5",
+      "source": "Japan Today",
+      "feed": "Pacific News Network",
       "region": "亚洲",
-      "publishedAt": "2026-08-15T11:19:56.000Z",
+      "publishedAt": "2026-08-15T20:39:30.000Z",
       "image": "",
-      "topic": "气候",
-      "score": 74,
-      "id": "254c380ffc3d"
+      "topic": "社会",
+      "score": 72,
+      "id": "b687c67fa9ad"
+    },
+    {
+      "title": "Caleb Yirenkyi Impresses on Coventry City Debut Against AS Monaco",
+      "summary": "Caleb Yirenkyi Impresses on Coventry City Debut Against AS Monaco &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDZWR1hCZllyMV9pZE9XWi1VbWJzcDFKeHJqM1ViUDFuNFIwT3ZBTUctVmJyNHJSRU4wc0pEYW9JTlQ4NnhlV2RnMjhpdXplVVBON1NsaGVoRU4tekx0bnBmNFhTZV9LMXpMSloyOGIwamh5Znd3QzZRSlpyczU5NkdkS3RrOU80NkdralBLc1ljckQyS1ZiSHZFZ1BTQQ?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-15T20:18:24.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "a3001d41391a"
+    },
+    {
+      "title": "Iran War Pulls US Last Carrier USS George Washington From Asia, Giving China A Pacific Opening",
+      "summary": "Iran War Pulls US Last Carrier USS George Washington From Asia, Giving China A Pacific Opening &nbsp;&nbsp; news.abplive.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcnp5YTBmYW1CazR3WnVVYjhlY3hyLUpRd1JUeU1uU1dkQ3g2LTFQckt6a3RRQ04xOVQyMFlUQmZMRlZLQjRYbmRLSExTbFVUVFBwbFhNUnpDaEZGQlJCYnp4VDBKc09JcHJ5Zm5XTjBxMWJ5M1ltM3RPeENNS3E4SXptbHVfeTJ1aDFpcXRSdUdIUFpZTFc5aGZVa19XMjJzRUJ1dW53THdpXzU4WGFSSnRPVzBabk5GRExZRDRrbXBhZmY1ekczQXliU1R6WWV6bTNXbFRsV3BMRnBiSDRCeNIB5gFBVV95cUxQM0tRVW43Q21PUzY3YzBUUUdqbjJIWE03SFhWakQ5UXRnRGdsb3pFSGN2cm5acGlpczRsRHlVUTJCZ0c2VzlSWi1oQ0J1NU5ycTZjLUZsNVlxME8tNDVsa1lMNFFNUEUwb24yeklJM1lBdVoyWkxoeEVDUmZLY2dkb3lRWFRJazNvYnFfT3VTVG9RLVU0V3J0UjhEVzdka0xabUdfT0QxZmtXVFl0RUVlVUs3emluV2JYUW1wNVRKUXZqNVdYVTlyenZBcW1CX25rVXRfUXZGbXQ4bEJmYlhHOGhqMWU3Zw?oc=5",
+      "source": "news.abplive.com",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T17:32:29.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 72,
+      "id": "090079007bc4"
     },
     {
       "title": "Earthquake of magnitude 7.8 strikes Philippines, no tsunami threat to NZ",
-      "summary": "Earthquake of magnitude 7.8 strikes Philippines, no tsunami threat to NZ &nbsp;&nbsp; NZ Herald",
+      "summary": "Earthquake of magnitude 7.8 strikes Philippines, no tsunami threat to NZ &nbsp;&nbsp; nzherald.co.nz",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSnY5NmRuSlRsYXRDajQ1MEM4dVVZSDJpMVF3ZjdoQk5QeFF0UmhRSWZ4UDNDN09vMC1fRHhuRkl3QUxuajNwV0xkQUpBVDl1VkZaR2tSbVc4R21NVnRWSERBcU5OVnVrM2NZdERqZWgtQkJjME92Vm91c01tbWdZVXNtZDJJZ205aTItdmE3ZHpfUTRtdU9KUDBOM2huX0VaYjJKeFVGNWdTNktTQXBNdFdjbWJjM3p5NU85Z2NaVHFvMlJ1SzNIMFhHcDhUSzIwR2x6WmNPNHdwWVlId1VlWnIwYmVEa3c0NlVJWmQtZVpXRmVvTlctOFAzanRhdkpQNUhoSw?oc=5",
-      "source": "NZ Herald",
+      "source": "nzherald.co.nz",
       "feed": "Pacific News Network",
       "region": "亚洲",
       "publishedAt": "2026-08-15T17:10:44.000Z",
       "image": "",
       "topic": "气候",
-      "score": 73,
-      "id": "b0e4a40f79a3"
+      "score": 72,
+      "id": "b8e65eb04202"
     },
     {
-      "title": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
-      "summary": "Al-Burhan pledged temporary immunity and legal protections for participants in a Sudanese national dialogue.",
-      "url": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
+      "title": "SADC prioritises peace, security and stability in Southern Africa",
+      "summary": "SADC prioritises peace, security and stability in Southern Africa &nbsp;&nbsp; SABC News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WWXoyU1RFZklCQjhrSFlweUhnMVNkbVRvR01uSmpKWGFlaWhQSS1RMDJSSmRHeU5pN3pXS3ZYVEtXR0Y1MXg3c2VYaENyUEtIRkx0NGdJYw?oc=5",
+      "source": "SABC News",
+      "feed": "Africa News Network",
       "region": "非洲",
-      "publishedAt": "2026-08-15T16:17:43.000Z",
+      "publishedAt": "2026-08-15T20:07:01.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
-      "id": "fa0b4573961f"
+      "score": 71,
+      "id": "9e6c25700be1"
+    },
+    {
+      "title": "Díaz thrives and Alaves beats 10-man Getafe 3-0 as La Liga kicks off Europe's domestic league season",
+      "summary": "Díaz thrives and Alaves beats 10-man Getafe 3-0 as La Liga kicks off Europe's domestic league season &nbsp;&nbsp; Yahoo Sports Canada",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BdmFDZXNjVV9PR0Zod0ZWM0ZfdTFCVTJRWHczYTNVMlpqNHNoeDBTT0dDaWZGV2Z3VFZEU0dpWGlKbmNXS2RkQ1JMa0hlUmh1R3FLN0hreldzUWE3ZF9OZG1jQ0Zmb3U5NmhXbjNXNUJDRWdmNGt1WVlLNncxdw?oc=5",
+      "source": "Yahoo Sports Canada",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-15T19:49:11.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "b773dda34cb1"
+    },
+    {
+      "title": "Where are they now? Former Warriors' fan favourite Joe Vagana on his first contract, Bradford memories, and trademark charging runs",
+      "summary": "Where are they now? Former Warriors' fan favourite Joe Vagana on his first contract, Bradford memories, and trademark charging runs &nbsp;&nbsp; thepost.co.nz",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWlpnSDRNbHU0b2t4MTF4elQ5N2hGdWdHaWNzYjk5ZW9JMFBtdFhZUUJwRnpJdE5VUkdvUkZaQWZoUU55bldKcWtiV2pFY3lWWlBCY1pRT19FV2NqVjdsWnZDZDljaG5CMXE4VnVTX0RzTTg5cUh0Y0N4WFEwRndKMW8zQUN1ZW5IOHVhMFMyREY3LXNxamktLTVkajI3Z1dYT1BMVUs3ZUZnYk5BSzlxMnpnSDU3V1docWpZMXdIbzdIdHBaVkxmTkRJSGxBSGJMTFdHX1JaTFBYdw?oc=5",
+      "source": "thepost.co.nz",
+      "feed": "Pacific News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-15T16:00:00.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 71,
+      "id": "86c9af819f85"
     },
     {
       "title": "Wildfires devastate Europe as thousands forced to flee homes",
@@ -783,21 +861,8 @@
       "publishedAt": "2026-08-15T13:30:37.000Z",
       "image": "",
       "topic": "气候",
-      "score": 72,
+      "score": 71,
       "id": "4d4c4e45ebf9"
-    },
-    {
-      "title": "Creative visionary, respected leaders win at National NAIDOC Week Awards",
-      "summary": "The winners of this year's National NAIDOC Week Awards have been revealed in Mparntwe (Alice Springs), with leaders, advocates, artists, educators, innovators and community champions recognised for their work.",
-      "url": "https://www.abc.net.au/news/2026-08-15/national-naidoc-week-awards-winners-revealed-alice-springs/107038854",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-15T12:44:01.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/917170a0898010eaaa4ad170dac213c1?impolicy=wcms_crop_resize&cropH=1045&cropW=1857&xPos=32&yPos=35&width=862&height=485",
-      "topic": "政治",
-      "score": 72,
-      "id": "dc27de708e2b"
     },
     {
       "title": "Pilchard herpes virus genetic material detected in sardines",
@@ -809,8 +874,21 @@
       "publishedAt": "2026-08-15T19:09:50.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "804355b269d2"
+    },
+    {
+      "title": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
+      "summary": "Al-Burhan pledged temporary immunity and legal protections for participants in a Sudanese national dialogue.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "非洲",
+      "publishedAt": "2026-08-15T16:17:43.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "fa0b4573961f"
     },
     {
       "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
@@ -822,7 +900,7 @@
       "publishedAt": "2026-08-15T15:50:06.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "c5782f832c73"
     },
     {
@@ -835,21 +913,21 @@
       "publishedAt": "2026-08-15T15:42:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "2d79b368795f"
     },
     {
-      "title": "How blind football is helping women overcome barriers in Mexico",
-      "summary": "Mexico is sending its first blind women's football team to compete in an international tournament. Players cannot wait.",
-      "url": "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-15T15:15:45.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "18133fb47041"
+      "title": "Creative visionary, respected leaders win at National NAIDOC Week Awards",
+      "summary": "The winners of this year's National NAIDOC Week Awards have been revealed in Mparntwe (Alice Springs), with leaders, advocates, artists, educators, innovators and community champions recognised for their work.",
+      "url": "https://www.abc.net.au/news/2026-08-15/national-naidoc-week-awards-winners-revealed-alice-springs/107038854",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-15T12:44:01.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/917170a0898010eaaa4ad170dac213c1?impolicy=wcms_crop_resize&cropH=1045&cropW=1857&xPos=32&yPos=35&width=862&height=485",
+      "topic": "政治",
+      "score": 70,
+      "id": "dc27de708e2b"
     },
     {
       "title": "Europe wildfires: Latest developments",
@@ -861,86 +939,8 @@
       "publishedAt": "2026-08-15T12:29:12.000Z",
       "image": "",
       "topic": "气候",
-      "score": 71,
+      "score": 70,
       "id": "e607273f0809"
-    },
-    {
-      "title": "Quick hits: Smith sets review record after horror drop, Warner jinxes Marnus",
-      "summary": "Steve Smith reviews a decision before he's given out, Marnus Labuschagne gets desperate and then jinxed, while Josh Hazlewood provides a bright spot in an otherwise pitch-black day for Australia. Here are the quick hits from day three of the first Test.",
-      "url": "https://www.abc.net.au/news/2026-08-15/quick-hits-australia-vs-bangladesh-day-three-first-test/107037432",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-15T08:37:27.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/f51b7b09054f2f5a9f51cebb23d0f274?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=24&width=862&height=485",
-      "topic": "政治",
-      "score": 71,
-      "id": "bbdff2742341"
-    },
-    {
-      "title": "In Europe, there are fears that Trump will negotiate with Moscow without allies - NYT",
-      "summary": "In Europe, there are fears that Trump will negotiate with Moscow without allies - NYT &nbsp;&nbsp; Inbox.lv",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVlpaYkdUQzd4NFJqMDlZY0ZuTXhqTFg3N0JmYjN1WVU5d19LOGpCQmNWUVk5emttNXZwNFhfX2ViTG9ydE1XV3FaYzBmdlgyaFpncVhNdlBET1Q4Q2EwZlF0RWdDTzl1SThLaThQdThCT2VmY1U4WGZ3c0U3eDRPYm1GME9Hb0EyLVZfdVZIUGdGczVjTF9lNjdPRVFlUWozQUh5Zk1yUlhhQ1U3TGhDZnBXbjZXcFZCU1ZrNEtwV1VSak5waDF2TGlUUTZHN2dXRWpjZg?oc=5",
-      "source": "Inbox.lv",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-15T18:20:51.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "ac242b553683"
-    },
-    {
-      "title": "Kate O’Connor in heptathlon gold medal contention at European Championships",
-      "summary": "Kate O’Connor in heptathlon gold medal contention at European Championships &nbsp;&nbsp; BreakingNews.ie",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEJ2N19Kb2JBdFFNUzNxdlZKQzlGSWFPcU1WdTg1VjlmdkY5MzFsbld2YlNLdnBuU2FSSGZ0Tm1GMlBsZWJzZF9ITGlEaWZzMXBwX2lVd2lkYzVwS1YtZFM4bllnVl9Dd3EtczY0dmRBelI3VW9fckE3MUdUa25LcDFJWldObGJGSFowSkNhbHQtSGZBajVCMEgzbU5TcWhVclAybVVnSzBQSk9MZEt5VkczUGZUQ0ZidXRuU2h3?oc=5",
-      "source": "BreakingNews.ie",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-15T14:37:47.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "eabb58aa145c"
-    },
-    {
-      "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
-      "summary": "Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.",
-      "url": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T11:30:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 70,
-      "id": "1f5394b0969d"
-    },
-    {
-      "title": "Japanese minister visits shrine to war dead, angering China, South Korea",
-      "summary": "Defence Minister Koizumi's visit to Yasukuni Shrine comes on the 81st anniversary of Japan's surrender in WWII.",
-      "url": "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T11:09:27.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 70,
-      "id": "7f2aa84d5283"
-    },
-    {
-      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
-      "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 38 people, collapsing buildings as well as causing panic in a region prone to deadly quakes.",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T08:29:20.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 70,
-      "id": "f6fa3238f4f6"
     }
   ]
 }
