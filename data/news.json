@@ -1,11 +1,24 @@
 {
-  "updatedAt": "2026-08-15T09:43:39.639Z",
+  "updatedAt": "2026-08-15T10:42:15.420Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 38",
+      "summary": "Shallow quake hit Indonesia’s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least 38 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has",
+      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T10:24:36.000Z",
+      "image": "https://i.guim.co.uk/img/media/80101e7c2032931fe50acd0e603b5a3ec3c75bc1/386_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8e186c85e7f3c4228eab36d269321262",
+      "topic": "政治",
+      "score": 100,
+      "id": "f72bbf4667aa"
+    },
     {
       "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
       "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
@@ -16,12 +29,12 @@
       "publishedAt": "2026-08-15T08:52:55.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
       "topic": "气候",
-      "score": 95,
+      "score": 94,
       "id": "8ba78065757c"
     },
     {
-      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20",
-      "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 20 people, collapsing buildings as well as causing panic in a region prone to deadly quakes.",
+      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
+      "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 38 people, collapsing buildings as well as causing panic in a region prone to deadly quakes.",
       "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
       "source": "NPR World",
       "feed": "NPR World",
@@ -29,8 +42,8 @@
       "publishedAt": "2026-08-15T08:29:20.000Z",
       "image": "",
       "topic": "气候",
-      "score": 95,
-      "id": "cb48357b315f"
+      "score": 94,
+      "id": "f6fa3238f4f6"
     },
     {
       "title": "Vessel is attacked in Hormuz, Israeli strike kills 7 in Lebanon, and other news from the Middle East",
@@ -42,7 +55,7 @@
       "publishedAt": "2026-08-15T08:23:30.000Z",
       "image": "",
       "topic": "社会",
-      "score": 91,
+      "score": 90,
       "id": "a8a9c9a56d15"
     },
     {
@@ -55,21 +68,8 @@
       "publishedAt": "2026-08-15T04:49:47.000Z",
       "image": "",
       "topic": "气候",
-      "score": 90,
-      "id": "af999cfbc2a5"
-    },
-    {
-      "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 20",
-      "summary": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 20 &nbsp;&nbsp; The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SVU05S3ZQMlFXc01UaHE0SUdFck1PRnRDVWFISUFQNFIxeTIzcHR0WmtEeHpJMjJseUhHWG90bXUyenBISVdqRWtTMm5ISGttVnNnRk9jd2ZYdHVnQlpNSFc3ZE1NX0JSR2xTWXNTTVhLakNk?oc=5",
-      "source": "The Guardian",
-      "feed": "Pacific News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T07:02:00.000Z",
-      "image": "",
-      "topic": "气候",
       "score": 89,
-      "id": "a947dc22d98b"
+      "id": "af999cfbc2a5"
     },
     {
       "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
@@ -81,8 +81,21 @@
       "publishedAt": "2026-08-15T07:18:13.000Z",
       "image": "",
       "topic": "社会",
-      "score": 86,
+      "score": 85,
       "id": "5fe7ae6649e6"
+    },
+    {
+      "title": "At scene of deadly Israeli strike on Lebanon home",
+      "summary": "An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-15T10:18:40.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 84,
+      "id": "a3376368a601"
     },
     {
       "title": "South Korea’s president wants talks with North to end Korean War",
@@ -94,7 +107,7 @@
       "publishedAt": "2026-08-15T06:53:28.000Z",
       "image": "",
       "topic": "政治",
-      "score": 85,
+      "score": 84,
       "id": "1454a5dd6ef3"
     },
     {
@@ -107,7 +120,7 @@
       "publishedAt": "2026-08-15T09:35:23.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b1/live/1f13a3e0-9881-11f1-a7ab-8b30adf0800a.jpg",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "a7703589b77b"
     },
     {
@@ -120,7 +133,7 @@
       "publishedAt": "2026-08-15T08:50:56.000Z",
       "image": "",
       "topic": "社会",
-      "score": 84,
+      "score": 82,
       "id": "258913b85c4e"
     },
     {
@@ -133,12 +146,12 @@
       "publishedAt": "2026-08-15T08:44:36.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
+      "score": 82,
       "id": "9857a206c9df"
     },
     {
       "title": "Quick hits: Smith sets review record after horror drop, Warner jinxes Marnus",
-      "summary": "Steve Smith reviews a decision before he's given out, Marnus Labuschagne gets desperate and then jinxed, while Josh Hazlewood provides a bright spot in an otherwise pitch-black day for Australia. Here are the quick hits from day three of the first Test between Australia and Bangladesh.",
+      "summary": "Steve Smith reviews a decision before he's given out, Marnus Labuschagne gets desperate and then jinxed, while Josh Hazlewood provides a bright spot in an otherwise pitch-black day for Australia. Here are the quick hits from day three of the first Test.",
       "url": "https://www.abc.net.au/news/2026-08-15/quick-hits-australia-vs-bangladesh-day-three-first-test/107037432",
       "source": "ABC Australia",
       "feed": "ABC Australia",
@@ -146,7 +159,7 @@
       "publishedAt": "2026-08-15T08:37:27.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/f51b7b09054f2f5a9f51cebb23d0f274?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=24&width=862&height=485",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "bbdff2742341"
     },
     {
@@ -159,7 +172,7 @@
       "publishedAt": "2026-08-15T08:01:29.000Z",
       "image": "https://i.guim.co.uk/img/media/1b0058b296e4a9f90f853ad04297d144b782201c/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=d25336c554b480075ce0783db18c9c76",
       "topic": "政治",
-      "score": 83,
+      "score": 81,
       "id": "7869b004e0e0"
     },
     {
@@ -172,7 +185,7 @@
       "publishedAt": "2026-08-15T04:21:07.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "98b73366b5eb"
     },
     {
@@ -185,7 +198,7 @@
       "publishedAt": "2026-08-15T07:08:00.000Z",
       "image": "https://e3.365dm.com/26/08/1920x1080/skynews-ivanka-trump-donald-trump-jr_7322133.jpg?20260815081436",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "c1d5bfa312ea"
     },
     {
@@ -198,21 +211,21 @@
       "publishedAt": "2026-08-15T07:01:50.000Z",
       "image": "https://i.guim.co.uk/img/media/2b5832accfcf1f7808036fb3760525e8953c3fef/196_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=42bc3964f9eb99b2c540027444c831d8",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "e36633d9f16c"
     },
     {
-      "title": "Post-Brexit rights for British citizens are being undermined in Sweden",
-      "summary": "Apparent high level of removal orders suggests Sweden is rejecting ‘reasonable grounds’ for failing to apply to stay Back in October 2020, the UK immigration minister stood up in parliament to reassure campaigners concerned about EU citizens who weren’t aware they had to ask the Home Office to stay in the country after Brexit. Using an example of a child in ",
-      "url": "https://www.theguardian.com/politics/2026/aug/15/post-brexit-rights-british-citizens-sweden-removal-orders-analysis",
+      "title": "‘Let’s see what he can do’: will Burnham bring voters back to Labour heartlands?",
+      "summary": "With questions over Farage’s finances and a new face in No 10, could Barnsley council be a bellwether for changing Labour fortunes? Labour marked its worst performance in more than 50 years when voters went to the polls in Barnsley in May, but 100 days on from those seismic local elections, the political landscape has shifted drastically. Could the South Yor",
+      "url": "https://www.theguardian.com/politics/2026/aug/14/andy-burnham-barnsley-voters-labour-reform-uk-red-wall",
       "source": "The Guardian",
       "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-15T09:00:53.000Z",
-      "image": "https://i.guim.co.uk/img/media/612984f221d83e223680a4d1ceb2ecc86e7faed6/866_491_3166_2533/master/3166.jpg?width=140&quality=85&auto=format&fit=max&s=c25ca7bdd169fd7cb692faf480f54d94",
+      "region": "全球",
+      "publishedAt": "2026-08-15T09:55:26.000Z",
+      "image": "https://i.guim.co.uk/img/media/a83de216f2b51967f5ef5a3f6c7def98f3082832/407_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=88ae946553af8b5c30a896b15f85e93c",
       "topic": "政治",
-      "score": 80,
-      "id": "80fa3742c72e"
+      "score": 79,
+      "id": "42905daa370d"
     },
     {
       "title": "First H5N1 bird flu death recorded in Phillip Island penguins",
@@ -224,7 +237,7 @@
       "publishedAt": "2026-08-15T06:20:41.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/76f338210f4fd3f0241268572454bd6d?impolicy=wcms_crop_resize&cropH=1463&cropW=2600&xPos=0&yPos=195&width=862&height=485",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "9a7ce63ad6e5"
     },
     {
@@ -237,7 +250,7 @@
       "publishedAt": "2026-08-15T03:24:28.000Z",
       "image": "",
       "topic": "经济",
-      "score": 80,
+      "score": 79,
       "id": "c2a7c370604d"
     },
     {
@@ -250,8 +263,21 @@
       "publishedAt": "2026-08-15T09:04:19.000Z",
       "image": "https://i.guim.co.uk/img/media/f2b11433fe6a4e276c2594f779870a25470a56f3/885_291_6035_4827/master/6035.jpg?width=140&quality=85&auto=format&fit=max&s=ee862e70da4d8a274daf52a3de25968e",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "81c534de48c5"
+    },
+    {
+      "title": "Post-Brexit rights for British citizens are being undermined in Sweden",
+      "summary": "Apparent high level of removal orders suggests Sweden is rejecting ‘reasonable grounds’ for failing to apply to stay Back in October 2020, the UK immigration minister stood up in parliament to reassure campaigners concerned about EU citizens who weren’t aware they had to ask the Home Office to stay in the country after Brexit. Using an example of a child in ",
+      "url": "https://www.theguardian.com/politics/2026/aug/15/post-brexit-rights-british-citizens-sweden-removal-orders-analysis",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-15T09:00:53.000Z",
+      "image": "https://i.guim.co.uk/img/media/612984f221d83e223680a4d1ceb2ecc86e7faed6/866_491_3166_2533/master/3166.jpg?width=140&quality=85&auto=format&fit=max&s=c25ca7bdd169fd7cb692faf480f54d94",
+      "topic": "政治",
+      "score": 78,
+      "id": "80fa3742c72e"
     },
     {
       "title": "‘My heart breaks into a million pieces’: emotional tributes to Kumanjayi Little Baby at Alice Springs funeral",
@@ -263,8 +289,21 @@
       "publishedAt": "2026-08-15T04:58:20.000Z",
       "image": "https://i.guim.co.uk/img/media/372ea1b2ce13adbf835ee67de609738e088051dc/114_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=0029f4a25a4b30afd1c8b32efda99d6f",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "a5d700b40aeb"
+    },
+    {
+      "title": "Iran war live: ADNOC vessel attacked in Strait of Hormuz",
+      "summary": "Iran war live: ADNOC vessel attacked in Strait of Hormuz &nbsp;&nbsp; Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+      "source": "Arabian Business",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-15T07:47:55.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 77,
+      "id": "248b67e41a1a"
     },
     {
       "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea ‘not nearly enough’ – as it happened",
@@ -276,7 +315,7 @@
       "publishedAt": "2026-08-15T01:31:53.000Z",
       "image": "https://i.guim.co.uk/img/media/dfdb2088fca801961af56d1dc574e5ef9cdb13c6/122_0_3727_2981/master/3727.jpg?width=140&quality=85&auto=format&fit=max&s=4021f65d032ea3bc9af9dc0c71a30097",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "a2db9f2c1d28"
     },
     {
@@ -289,8 +328,21 @@
       "publishedAt": "2026-08-14T22:36:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "26ff0223e42e"
+    },
+    {
+      "title": "[Breaking] Ruling Party's Honam Region Party Member Vote: Kim Minseok Wins Decisively with 57.54%... Jeong 32.65%, Song 9.81%",
+      "summary": "[Breaking] Ruling Party's Honam Region Party Member Vote: Kim Minseok Wins Decisively with 57.54%... Jeong 32.65%, Song 9.81% &nbsp;&nbsp; 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5UDdiN0t2RGU5blV5OG1fWDlKbUZacGhXTVZIYmx5dUFDdUNIT0xlY2NkM1N4MzdNQnlKTi14UDEwdEx1LXBCck53YTlTUXNfeE05VjEzeEd6UXBnT2VYRUhvRzR1XzcwcEZOTQ?oc=5",
+      "source": "아시아경제",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T10:30:40.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "0f65356f05e7"
     },
     {
       "title": "Trump dismisses concerns about conditions on US aircraft carrier",
@@ -302,7 +354,7 @@
       "publishedAt": "2026-08-15T01:05:00.000Z",
       "image": "https://e3.365dm.com/26/02/1920x1080/skynews-uss-abraham-lincoln_7168856.jpg?20260219082228",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "5d44278ed23d"
     },
     {
@@ -315,8 +367,21 @@
       "publishedAt": "2026-08-14T21:29:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "573dd9e92d96"
+    },
+    {
+      "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
+      "summary": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump ’s One Big Beautiful Bill Act (OBBBA) last year – the one that paired a $5tn-plus tax cut with $1tn-plus of cuts from food stamps and Medicaid – the House speaker, Mike Johnson , explained that “this is not g",
+      "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-15T10:00:54.000Z",
+      "image": "https://i.guim.co.uk/img/media/9279099305e657622fd3938d007a475b177b2576/481_0_6507_5208/master/6507.jpg?width=140&quality=85&auto=format&fit=max&s=46700d1bdd16d2cb5f3cef3000b0ac9b",
+      "topic": "政治",
+      "score": 75,
+      "id": "dcdbe6e63137"
     },
     {
       "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
@@ -328,7 +393,7 @@
       "publishedAt": "2026-08-15T09:29:31.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c90/live/e1739b60-987d-11f1-a43c-2dc5e6bd5d94.jpg",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "a19499f04407"
     },
     {
@@ -341,8 +406,47 @@
       "publishedAt": "2026-08-15T09:00:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "4ad6f9b8f8a9"
+    },
+    {
+      "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
+      "summary": "Displaced by Sudan’s war, Sahra now leads a refugee school where education offers children safety and hope.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "非洲",
+      "publishedAt": "2026-08-15T05:14:40.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "85c73dd21d8d"
+    },
+    {
+      "title": "US President Trump says he will declare Strait of Hormuz US territory",
+      "summary": "US President Donald Trump said he will “soon” declare the Strait of Hormuz a US territory.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-15T02:25:09.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 74,
+      "id": "ba716914334a"
+    },
+    {
+      "title": "Trump downplays concerns about sailors onboard USS Abraham Lincoln amid record deployment",
+      "summary": "President said nine months at sea ‘not nearly long enough’ even as families call for attention to mental health crisis Donald Trump has downplayed concerns about US sailors enduring a record-setting deployment of nearly nine months onboard the USS Abraham Lincoln on Friday, saying the deployment was “not nearly long enough” as concerns mount over mental heal",
+      "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-uss-abraham-lincoln-deployment",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-14T22:12:55.000Z",
+      "image": "https://i.guim.co.uk/img/media/bb189f5df21af2d08918529132fc52e6524508eb/335_0_1873_1500/master/1873.jpg?width=140&quality=85&auto=format&fit=max&s=95ddd8370a8aa4f5a84dba4df3221791",
+      "topic": "政治",
+      "score": 74,
+      "id": "972ae6f290f5"
     },
     {
       "title": "Sharks stumble as Dolphins stay in NRL's vital top four",
@@ -354,7 +458,7 @@
       "publishedAt": "2026-08-15T08:41:36.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/b8f99eeed262508bf7b9e3baeae8c2bb?impolicy=wcms_crop_resize&cropH=1956&cropW=3477&xPos=0&yPos=181&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "1b4bf2d0818d"
     },
     {
@@ -367,99 +471,8 @@
       "publishedAt": "2026-08-15T08:32:07.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "6afa1a764c1b"
-    },
-    {
-      "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
-      "summary": "Displaced by Sudan’s war, Sahra now leads a refugee school where education offers children safety and hope.",
-      "url": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "非洲",
-      "publishedAt": "2026-08-15T05:14:40.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "85c73dd21d8d"
-    },
-    {
-      "title": "BBC was warned of author’s claim to possess missing clothes of child murder victim",
-      "summary": "Corporation was told of claims by Christopher Berry-Dee that he had clothing, which was lost while in its possession Christopher Berry-Dee is the UK’s all-time bestselling true crime author. Is he also a violent abuser of women and children? The BBC was warned by two whistleblowers that a British true crime author was claiming to have obtained the missing cl",
-      "url": "https://www.theguardian.com/society/2026/aug/15/bbc-was-warned-of-authors-claim-to-possess-missing-clothes-of-child-victim",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-15T05:00:50.000Z",
-      "image": "https://i.guim.co.uk/img/media/5cc0a12c021603cfa130dd3ebeebdd8267a21ea9/143_0_2768_2214/master/2768.jpg?width=140&quality=85&auto=format&fit=max&s=091911ba174df6148129ab89b881fee3",
-      "topic": "政治",
-      "score": 75,
-      "id": "b98b4933b246"
-    },
-    {
-      "title": "Is the US ready for President Alexandria Ocasio-Cortez?",
-      "summary": "The New York congresswoman’s power is in the spotlight as people wonder if the stars are finally aligning for her to run for US president in 2028 “They assume that my ambition is positional. They assume that my ambition is a title or a seat. And my ambition is way bigger than that. My ambition is to change this country.” The words were delivered slowly, deli",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/15/will-aoc-run-for-president",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-15T05:00:50.000Z",
-      "image": "https://i.guim.co.uk/img/media/1df59ee85f53da4c7d6485ec5dad6ba21f5b8435/0_566_3600_2878/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=deddead61d273ad09220fc330b598831",
-      "topic": "政治",
-      "score": 75,
-      "id": "745fd34e55d0"
-    },
-    {
-      "title": "Concerns grow over increased global ties with Taliban in Afghanistan",
-      "summary": "Campaigners fear deeper diplomatic contacts are undermining demands for improvements in human rights The Taliban in Afghanistan have launched a diplomatic effort to end their isolation as major regional and international powers show a readiness to engage more closely with the repressive regime despite its systematic human rights abuses. Five years after the ",
-      "url": "https://www.theguardian.com/world/2026/aug/15/concern-grow-global-ties-taliban-afghanistan-human-rights",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-15T05:00:49.000Z",
-      "image": "https://i.guim.co.uk/img/media/a00bb7fceb915e0108c0489f2a825134df963bfa/233_0_2333_1867/master/2333.jpg?width=140&quality=85&auto=format&fit=max&s=a3a161bca8aa1578475140cd019dc592",
-      "topic": "政治",
-      "score": 75,
-      "id": "d2731fd26881"
-    },
-    {
-      "title": "US President Trump says he will declare Strait of Hormuz US territory",
-      "summary": "US President Donald Trump said he will “soon” declare the Strait of Hormuz a US territory.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-15T02:25:09.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "ba716914334a"
-    },
-    {
-      "title": "At least 20 killed as magnitude 7.7 quake hits Indonesia",
-      "summary": "The death toll is expected to climb further as emergency teams continue search and rescue efforts.",
-      "url": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T01:36:04.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "54daf987bb33"
-    },
-    {
-      "title": "Trump downplays concerns about sailors onboard USS Abraham Lincoln amid record deployment",
-      "summary": "President said nine months at sea ‘not nearly long enough’ even as families call for attention to mental health crisis Donald Trump has downplayed concerns about US sailors enduring a record-setting deployment of nearly nine months onboard the USS Abraham Lincoln on Friday, saying the deployment was “not nearly long enough” as concerns mount over mental heal",
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-uss-abraham-lincoln-deployment",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-14T22:12:55.000Z",
-      "image": "https://i.guim.co.uk/img/media/bb189f5df21af2d08918529132fc52e6524508eb/335_0_1873_1500/master/1873.jpg?width=140&quality=85&auto=format&fit=max&s=95ddd8370a8aa4f5a84dba4df3221791",
-      "topic": "政治",
-      "score": 75,
-      "id": "972ae6f290f5"
     },
     {
       "title": "The women India’s biggest river project forgot",
@@ -471,7 +484,7 @@
       "publishedAt": "2026-08-15T08:22:09.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "6f377eae6eff"
     },
     {
@@ -484,7 +497,7 @@
       "publishedAt": "2026-08-15T08:01:39.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/eb5cb79e0a16ecc09938906b4454a9b3?impolicy=wcms_crop_resize&cropH=2586&cropW=4597&xPos=11&yPos=58&width=862&height=485",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "461a41abef80"
     },
     {
@@ -497,21 +510,47 @@
       "publishedAt": "2026-08-15T07:56:28.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/33780d09ffb9dd36d0eadd1ec15af5a3?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=107&width=862&height=485",
       "topic": "气候",
-      "score": 74,
+      "score": 73,
       "id": "2e8c69b121e9"
     },
     {
-      "title": "Arteta assures Arsenal fans over contract before Man City clash",
-      "summary": "Mikel Arteta, who ended Arsenal's 22-year wait for a Premier League title, says contract negotiations will be resolved.",
-      "url": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-15T07:44:35.000Z",
+      "title": "At least 20 dead after 7.7 Indonesian quake, residents flee amid tsunami warning",
+      "summary": "At least 20 dead after 7.7 Indonesian quake, residents flee amid tsunami warning &nbsp;&nbsp; NZ Herald",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUExUdUl5Sy1WRTl3cElZS0p3b3NwWm52TTNudGlkdU9OZnd3VndlN1F4N1dyOFA5aTBmSlVDbzdkNTMyRzBSSlJCeHliTGxyNU8zYzQwRXRYeEltTEpZanJwSTYtaU9URGRNaGp4eUc2N3l4aHB2S2F3Wk9CQUkzMllzLURjd2U0RHAzWmt6MVF1c0hqbi11MTRncUhJcDN5TDlPZ3A4cldpZUNFWXNkSGxnU21TN1RWdXlZbVdRdE9HcS03bmRJUEpjRHdlQ05qZ2RLWU5iT3RMNzlvSlk4bzRqbw?oc=5",
+      "source": "NZ Herald",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T07:50:05.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "73eee697ab1d"
+      "topic": "政治",
+      "score": 73,
+      "id": "2220b7736781"
+    },
+    {
+      "title": "Is the US ready for President Alexandria Ocasio-Cortez?",
+      "summary": "The New York congresswoman’s power is in the spotlight as people wonder if the stars are finally aligning for her to run for US president in 2028 “They assume that my ambition is positional. They assume that my ambition is a title or a seat. And my ambition is way bigger than that. My ambition is to change this country.” The words were delivered slowly, deli",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/15/will-aoc-run-for-president",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-15T05:00:50.000Z",
+      "image": "https://i.guim.co.uk/img/media/1df59ee85f53da4c7d6485ec5dad6ba21f5b8435/0_566_3600_2878/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=deddead61d273ad09220fc330b598831",
+      "topic": "政治",
+      "score": 73,
+      "id": "745fd34e55d0"
+    },
+    {
+      "title": "Concerns grow over increased global ties with Taliban in Afghanistan",
+      "summary": "Campaigners fear deeper diplomatic contacts are undermining demands for improvements in human rights The Taliban in Afghanistan have launched a diplomatic effort to end their isolation as major regional and international powers show a readiness to engage more closely with the repressive regime despite its systematic human rights abuses. Five years after the ",
+      "url": "https://www.theguardian.com/world/2026/aug/15/concern-grow-global-ties-taliban-afghanistan-human-rights",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-15T05:00:49.000Z",
+      "image": "https://i.guim.co.uk/img/media/a00bb7fceb915e0108c0489f2a825134df963bfa/233_0_2333_1867/master/2333.jpg?width=140&quality=85&auto=format&fit=max&s=a3a161bca8aa1578475140cd019dc592",
+      "topic": "政治",
+      "score": 73,
+      "id": "d2731fd26881"
     },
     {
       "title": "Taiwan passes defence budget after record delay, retains drone funding",
@@ -523,7 +562,7 @@
       "publishedAt": "2026-08-15T04:44:14.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "e360bd7214d0"
     },
     {
@@ -536,24 +575,63 @@
       "publishedAt": "2026-08-15T04:24:52.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/62de5301def1100285e1c74cf212d2c0?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "8c2c755b115e"
     },
     {
-      "title": "USS George Washington heads to Middle East to replace USS Abraham Lincoln",
-      "summary": "USS George Washington heads to Middle East to replace USS Abraham Lincoln &nbsp;&nbsp; 13newsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOEFla1o0WVF3eUNhVjBSNFNjaDVTWmtVTFpxY2VzNWQxZGppd3Fibm43dG1tU3ZpeGJKMUlJaVhtUmYtZGJnNnZPMmpBOEctM0g2MEhBLWtxZjlucFhEbHdNX0JmUU9fdkRpN2doSy03dzRjTWRKTlJudjV6UXp2dU5Ea3dDcTVjbnFaS2RhbW93Q3lMNy1QMFMyaEFGdzczMFBSUmw5eWtPR1lfQ2dKWmJBa3VfQVNxOGstZGcwQ0cwUDI1NC1fYW5LR0ZNc0xoU043TmlxNzFoZEszWFlpQllWZmY3blNEMFhDdGREdmdsMWlCRl9YbkJ5TDJfNUV4Rk85cnRLWnE5MzA?oc=5",
-      "source": "13newsnow.com",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-14T22:15:00.000Z",
+      "title": "At least 20 killed as magnitude 7.7 quake hits Indonesia",
+      "summary": "The death toll is expected to climb further as emergency teams continue search and rescue efforts.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T01:36:04.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
-      "id": "d131c3354b6c"
+      "score": 73,
+      "id": "54daf987bb33"
     },
     {
-      "title": "FIFA’s Infantino gets Giuliani backing in World Cup selloff fallout",
+      "title": "Osimhen Breaks Silence on Arsenal Transfer Rumours",
+      "summary": "Osimhen Breaks Silence on Arsenal Transfer Rumours &nbsp;&nbsp; en.africatopsports.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmxpTDlkXy03TkNfbl9nUjJPYWRBVE1MZkVlS0NzS25GMElkV3ZQUDVlMXJ1V0IxYlAwX1ozU0xqWGVlSGpCbE5tbDd4b1ZweF9kQVZWUUVOcF9mdXM0c3VabjR3MHlhRjh1V2pndHhJaU1fMFhBQWRvYWhYaXJ3NzJzb0Jha0hLSGc?oc=5",
+      "source": "en.africatopsports.com",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-15T10:36:30.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "d720d5d97094"
+    },
+    {
+      "title": "Cashew Nut Farming In Bangladesh | In the valley of hope",
+      "summary": "Cashew Nut Farming In Bangladesh | In the valley of hope &nbsp;&nbsp; The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRZ1JxYThqWUdzNVNkVzhaZ3FWYjk5dHZURDdBZGl3Y1lER2VZdWVPX0JhcWI0Z3FxV2xxMTFJaFhXUm9pMEtwWUZudFV0RENGZUwwMjdrd2VBbFdVU3FSVno1cHZ3UE1oMGRZUlp0V2loc2E0elV2VEpB?oc=5",
+      "source": "The Daily Star",
+      "feed": "Pacific News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-15T10:18:55.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "88f0ca09ad5e"
+    },
+    {
+      "title": "Arteta assures Arsenal fans over contract before Man City clash",
+      "summary": "Mikel Arteta, who ended Arsenal's 22-year wait for a Premier League title, says contract negotiations will be resolved.",
+      "url": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-15T07:44:35.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "73eee697ab1d"
+    },
+    {
+      "title": "FIFA’s Infantino gets backing of White House chief Giuliani over World Cup",
       "summary": "Andrew Giuliani, son of ex-New York Mayor Rudy Giuliani, tells critics of FIFA's Gianni Infantino 'it's just politics'.",
       "url": "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss",
       "source": "Al Jazeera",
@@ -562,8 +640,8 @@
       "publishedAt": "2026-08-15T07:27:59.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
-      "id": "f2672b6600fc"
+      "score": 72,
+      "id": "4c19cc980b29"
     },
     {
       "title": "A Syrian intervention in Lebanon would be too costly for Damascus",
@@ -575,7 +653,7 @@
       "publishedAt": "2026-08-15T07:27:32.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "61638754f2f1"
     },
     {
@@ -588,7 +666,7 @@
       "publishedAt": "2026-08-15T07:20:02.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/944a3b983ee234ed76acb86be1ac61d3?impolicy=wcms_crop_resize&cropH=529&cropW=940&xPos=338&yPos=191&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "e6b8126d8794"
     },
     {
@@ -601,7 +679,7 @@
       "publishedAt": "2026-08-15T07:18:23.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "59f1ad07f4a2"
     },
     {
@@ -614,21 +692,8 @@
       "publishedAt": "2026-08-15T07:13:11.000Z",
       "image": "",
       "topic": "经济",
-      "score": 73,
+      "score": 72,
       "id": "3dbedaeeead0"
-    },
-    {
-      "title": "‘A tax on being thin’: only high earners make overall savings on food bills from weight-loss drugs",
-      "summary": "Users need discretionary income of nearly £100,000 a year to make savings on their grocery spend after paying £1,200 for GLP-1s, analysis finds The high cost of weight-loss medication is a “regressive tax on being thin” because the outlay outweighs any saving on food costs for all but the highest earners. Someone needs to have discretionary income of nearly ",
-      "url": "https://www.theguardian.com/science/2026/aug/15/high-earners-savings-weight-loss-drugs-income-glp-1",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-15T07:00:50.000Z",
-      "image": "https://i.guim.co.uk/img/media/0e9dbb52876f6cb9cfbc1cfedafddfe78f6dd6bc/512_0_7653_6124/master/7653.jpg?width=140&quality=85&auto=format&fit=max&s=dfd52ac1cc5d0241943934389ef6181f",
-      "topic": "社会",
-      "score": 73,
-      "id": "7070f5c42a0e"
     },
     {
       "title": "India marks 80th Independence Day with military display",
@@ -640,21 +705,8 @@
       "publishedAt": "2026-08-15T03:39:06.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "3830f887e20b"
-    },
-    {
-      "title": "13 medications, 30 prescriptions led up to US mother's killing of three children",
-      "summary": "A mother who says she was suffering postpartum psychosis when she killed her three children and attempted to take her own life is now on trial for their murder.",
-      "url": "https://www.abc.net.au/news/2026-08-15/lindsay-clancy-murder-postpartum-psychosis/107027004",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-15T03:26:10.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/0c5ab412dead482b460ce20671a58ad0?impolicy=wcms_crop_resize&cropH=2112&cropW=3755&xPos=0&yPos=316&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "686f01321904"
     },
     {
       "title": "Cyclist, 19, dies during Volta a Portugal after collision with vehicle",
@@ -666,8 +718,21 @@
       "publishedAt": "2026-08-15T00:24:28.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/6b43f4335af9675bafa6323252175a25?impolicy=wcms_crop_resize&cropH=1736&cropW=3087&xPos=1885&yPos=441&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "4fcb7aecc2d5"
+    },
+    {
+      "title": "USS George Washington heads to Middle East to replace USS Abraham Lincoln",
+      "summary": "USS George Washington heads to Middle East to replace USS Abraham Lincoln &nbsp;&nbsp; 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOEFla1o0WVF3eUNhVjBSNFNjaDVTWmtVTFpxY2VzNWQxZGppd3Fibm43dG1tU3ZpeGJKMUlJaVhtUmYtZGJnNnZPMmpBOEctM0g2MEhBLWtxZjlucFhEbHdNX0JmUU9fdkRpN2doSy03dzRjTWRKTlJudjV6UXp2dU5Ea3dDcTVjbnFaS2RhbW93Q3lMNy1QMFMyaEFGdzczMFBSUmw5eWtPR1lfQ2dKWmJBa3VfQVNxOGstZGcwQ0cwUDI1NC1fYW5LR0ZNc0xoU043TmlxNzFoZEszWFlpQllWZmY3blNEMFhDdGREdmdsMWlCRl9YbkJ5TDJfNUV4Rk85cnRLWnE5MzA?oc=5",
+      "source": "13newsnow.com",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-14T22:15:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "d131c3354b6c"
     },
     {
       "title": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East",
@@ -679,21 +744,47 @@
       "publishedAt": "2026-08-14T18:23:56.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "af5065f38c30"
     },
     {
-      "title": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
-      "summary": "Greenhouses and rented plots are lifelines for Gaza's farmers, helping them grow crops despite the extensive destruction",
-      "url": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
+      "title": "NRI shares journey from Rs 10 LPA to Rs 7.5 crore net worth and 3 Mumbai homes after moving to Middle East",
+      "summary": "NRI shares journey from Rs 10 LPA to Rs 7.5 crore net worth and 3 Mumbai homes after moving to Middle East &nbsp;&nbsp; The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeTRjdmNtMm45ZTZHeUZSSGJIR3lFdVV0S09qYmtPOUdPdWZrVFBxbUxaMTVhVTlGbnozZjZ4cElILTN0TlEzS0FXQXRXZ29EaEhJRW1NTHBKSkwtSmhpaFo1NjNNaEx0TGp0VDFlcTBIM2ctVHAzTmJ1Vk1xTk5CVmM5UHVUZzYta1VIdHlqTE5vaVRzMVYtWXFZb2Zna2ttSHhYdVlwUU8xbHZkaW9fdzAyTG1xLUI3OVlKemxXNC1qT0tlSGEyWDFSYk5oQWdVSi1CYllXQm5UWUJlTFJQSi0wUHB6RDNsTk01dnJEeExhd0hSUG9UYlVEQ2ZEdHVPS01RZmEzSXPSAY4CQVVfeXFMTXRKbGFIMWt0MC1SRmVjVTNQWlYzejBRazFEMFU2LXk2OFUzOUY2WkpYTUpVVnFVZS1UZklJM0pjT1pBOEd6b2NJc0NXeTAtbmluVHFSeXVzajlzeksyY2lURVd1T2FiVERybFh1c3hxdXd0UFItVmZwTnJHUnY4X0JoNFVSeld2UXpoMmpmMHd1NUh6dGJubU9pX0d0bjd3enJaTUpLRElwVE9IbDAyR05HWHQ5WHZ3XzduMDhDdEpVVmxXMlZkaGM0OFp1SURYZHR6X1VXajVscW5waW1nSlBwZ293N0xvNmNBZHNudHVQWUdYck5oelNQd3NuWGt3alg5aElDRGMwV0NtOVVn?oc=5",
+      "source": "The Economic Times",
+      "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-15T06:10:07.000Z",
+      "publishedAt": "2026-08-15T09:46:12.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
-      "id": "c7ca5af1ef9d"
+      "score": 71,
+      "id": "cd1a9d3ab2b8"
+    },
+    {
+      "title": "‘A tax on being thin’: only high earners make overall savings on food bills from weight-loss drugs",
+      "summary": "Users need discretionary income of nearly £100,000 a year to make savings on their grocery spend after paying £1,200 for GLP-1s, analysis finds The high cost of weight-loss medication is a “regressive tax on being thin” because the outlay outweighs any saving on food costs for all but the highest earners. Someone needs to have discretionary income of nearly ",
+      "url": "https://www.theguardian.com/science/2026/aug/15/high-earners-savings-weight-loss-drugs-income-glp-1",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-15T07:00:50.000Z",
+      "image": "https://i.guim.co.uk/img/media/0e9dbb52876f6cb9cfbc1cfedafddfe78f6dd6bc/512_0_7653_6124/master/7653.jpg?width=140&quality=85&auto=format&fit=max&s=dfd52ac1cc5d0241943934389ef6181f",
+      "topic": "社会",
+      "score": 71,
+      "id": "7070f5c42a0e"
+    },
+    {
+      "title": "13 medications, 30 prescriptions led up to US mother's killing of three children",
+      "summary": "A mother who says she was suffering postpartum psychosis when she killed her three children and attempted to take her own life is now on trial for their murder.",
+      "url": "https://www.abc.net.au/news/2026-08-15/lindsay-clancy-murder-postpartum-psychosis/107027004",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-15T03:26:10.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/0c5ab412dead482b460ce20671a58ad0?impolicy=wcms_crop_resize&cropH=2112&cropW=3755&xPos=0&yPos=316&width=862&height=485",
+      "topic": "社会",
+      "score": 71,
+      "id": "686f01321904"
     },
     {
       "title": "Would you pay AED2.75m to visit space? Virgin Galactic prepares new fleet amid Middle East demand",
@@ -705,7 +796,7 @@
       "publishedAt": "2026-08-15T09:09:23.000Z",
       "image": "",
       "topic": "经济",
-      "score": 71,
+      "score": 70,
       "id": "01c331f0c333"
     },
     {
@@ -718,21 +809,34 @@
       "publishedAt": "2026-08-15T09:06:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "65499357080b"
     },
     {
-      "title": "Westminster council threatens Charing Cross soup kitchen with closure",
-      "summary": "Conservative authority says site is not safe for vulnerable people charity serves or general public Westminster council is making it “impossible” for soup kitchens to operate by complaining about the “crowds of vulnerable people” who turn up to be fed, a charity has said. Steven Stuart, who founded Friends of Essex & London Homeless (FOELH) with his wife, Ch",
-      "url": "https://www.theguardian.com/society/2026/aug/15/westminster-council-threatens-charing-cross-soup-kitchen-with-closure",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-15T06:00:49.000Z",
-      "image": "https://i.guim.co.uk/img/media/203379320af3361e4d0b14959ef35aa834c79dc1/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=2e13366b4e426af68ba4f7949a3b2cb2",
+      "title": "Nonstop Flights To Make Your Travels Easier",
+      "summary": "Nonstop Flights To Make Your Travels Easier &nbsp;&nbsp; Wendy Perrin",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZllGLUR1T0NiRVgxTGVEOTFiX1pBbkFpRmJ2RjlZVlRtZE9kS3A1aTVnZVJBbkZwMk80clloNzNOaXVIR1p5YmRza2hrdFlySHZET2sxcWRqR3pldWZGWWpDdW12N2FscGJOcS1oTkRJdmczRkFSMVNjNHB4SElxQzBB?oc=5",
+      "source": "Wendy Perrin",
+      "feed": "Pacific News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-15T08:47:14.000Z",
+      "image": "",
       "topic": "社会",
-      "score": 71,
-      "id": "57f88e4f0841"
+      "score": 70,
+      "id": "ada59deb8899"
+    },
+    {
+      "title": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
+      "summary": "Greenhouses and rented plots are lifelines for Gaza's farmers, helping them grow crops despite the extensive destruction",
+      "url": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-15T06:10:07.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "c7ca5af1ef9d"
     },
     {
       "title": "Shoppers payments declined due to 'global' Mastercard outage",
@@ -744,21 +848,8 @@
       "publishedAt": "2026-08-15T05:44:48.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/5022373f720e3050d3a5b4c4a63cb05e?impolicy=wcms_crop_resize&cropH=2523&cropW=4485&xPos=0&yPos=417&width=862&height=485",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "07b5b479d60b"
-    },
-    {
-      "title": "Why the Alps are now Europe’s top destination for hikers and cyclists this summer",
-      "summary": "Why the Alps are now Europe’s top destination for hikers and cyclists this summer &nbsp;&nbsp; Breaking Travel News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVU9pX1BwUXE5VzBRNXB6QTdqT2xUVG5SRXlDRU5NOUg4eEx2MVV3bkxtN1RkTGRBMHJxbjBmS2FPUzBsRzc3akFsb2JYUGNqTnVJOUNaWm8zUG15bllNc1FMd3RTM0hSYXozdzg3UFZKZFhTUFRuQVIwQ1RPSXc3MnJ1aEZaYjRFeU5UMXUxd1JxV1J3T2phNFp5b0JWTngydXlnMEhQNnJMWlJaUDktQkMxV2F1Mk1VWk4wcEJKQVpTZw?oc=5",
-      "source": "Breaking Travel News",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-15T05:36:26.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "fb81ad6fcb5c"
     },
     {
       "title": "Israel kills six beyond Lebanon Yellow Line - Shafaq News | Latest breaking news in Iraq and the world",
@@ -770,21 +861,8 @@
       "publishedAt": "2026-08-15T05:28:30.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "3e5080e23412"
-    },
-    {
-      "title": "'Some people gain joy in keeping nation terrified': PM Modi on narrative during Covid, Middle East crisis",
-      "summary": "'Some people gain joy in keeping nation terrified': PM Modi on narrative during Covid, Middle East crisis &nbsp;&nbsp; The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNlNJSFdDX0kzOXktdEFLWk1ubkNRWFRyOF9vX1RWTFBBbVpWc1ZBdHd0Z0ZzM1VmQl8ydzhYZjBWVFdVMV90THNIM0tpZVlHZmdLTUFlUUpxZ0NpT0VNc3pNazU2dDNRVDZnUHROZnl3UXFCUG13T21CejZxNzNkamVVQVVvby1IbXhUNms5ZXZwaFBJNFdwODRrZlJxelE0bDVGSi1JZUJITG1XZVRJU2pHeDR3OVl4dGlyXzRqYWNFcy1TaDczODg1Vk5EOXR3UlNSYnE0ZUFCZXpZWVpGNnI3Um03QmlZTWI00gHwAUFVX3lxTE56RmQtNjRPUkJHel9hOVNOaE5jRHVWVEdySkV3T0RnMnpvQ1lzcklXXzg3eTh6WjBsVVRkNTB0TEoxWmJVRGUwcHJjNnV1M0ZjY3FmMEF5NXNGX2FvbklzMU5ldVlKQ0dldldUWXN5M2k4WFRkZ0xUSXYxUTNLVEdIczdWTURNaVRVTlJyU3RwZWR0OGRFZy1YWkV3VElHNUFmTnJGbE1oVUh4akZ0QU5Na283M3hXZmNjeF83TmZqMlQ4TkJSaEpLUWZmUkVGVllpV3lkeEczYTQzbUdPdkw0dDBOcjVlbjJjdURRU0JnNw?oc=5",
-      "source": "The Times of India",
-      "feed": "Middle East News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T05:28:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "0e7ebcbf32b8"
     },
     {
       "title": "Bar Sathorn Rises to No.17 on Asia’s 50 Best Bars 2026",
@@ -796,8 +874,21 @@
       "publishedAt": "2026-08-15T05:23:16.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "42ccf1193e66"
+    },
+    {
+      "title": "Why the Alps are now Europe’s top destination for hikers and cyclists this summer",
+      "summary": "Why the Alps are now Europe’s top destination for hikers and cyclists this summer &nbsp;&nbsp; Breaking Travel News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVU9pX1BwUXE5VzBRNXB6QTdqT2xUVG5SRXlDRU5NOUg4eEx2MVV3bkxtN1RkTGRBMHJxbjBmS2FPUzBsRzc3akFsb2JYUGNqTnVJOUNaWm8zUG15bllNc1FMd3RTM0hSYXozdzg3UFZKZFhTUFRuQVIwQ1RPSXc3MnJ1aEZaYjRFeU5UMXUxd1JxV1J3T2phNFp5b0JWTngydXlnMEhQNnJMWlJaUDktQkMxV2F1Mk1VWk4wcEJKQVpTZw?oc=5",
+      "source": "Breaking Travel News",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-15T05:11:53.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "fb81ad6fcb5c"
     },
     {
       "title": "Coalition split on Andrew Bragg speech as South Australian senator Andrew McLachlan urges colleagues to ‘follow his lead’",
@@ -809,7 +900,7 @@
       "publishedAt": "2026-08-15T02:00:43.000Z",
       "image": "https://i.guim.co.uk/img/media/dec73cfb0aef0afb5bb4acccf02c14ebdf21bb83/546_0_6513_5210/master/6513.jpg?width=140&quality=85&auto=format&fit=max&s=dd5672dd94fc819ee340cae9f251e02a",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "4842f129118c"
     },
     {
@@ -822,7 +913,7 @@
       "publishedAt": "2026-08-15T01:41:25.000Z",
       "image": "",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "547bafd15d81"
     },
     {
@@ -835,21 +926,8 @@
       "publishedAt": "2026-08-14T22:50:43.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
-      "id": "2f472ffd7d3a"
-    },
-    {
-      "title": "Beyond the Asian Games: The Unsung Stories Emerging From India’s Shooting Trials",
-      "summary": "Beyond the Asian Games: The Unsung Stories Emerging From India’s Shooting Trials &nbsp;&nbsp; Revsportz",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkpKTzVfZVJvNUNlNU56R0s1c3lxN2lWQ2kxRngyaG90OTlSX2hGX1VEc1JXUU1kWGlvX2xmQ2hjMzI2dFl2WElCTFoxS1IwODdZS1YtZmxiQjctczZTejhMWUR3TG8tTldJdTUtZWJ5eWFiSjFJVnFYdXFqMmJpeUh4Vi0xdVh0TzZEWDdIU19hNkFDNlV5LXJIcTBoaEozSExmZHg3bG82UdIBqgFBVV95cUxPYkpKTzVfZVJvNUNlNU56R0s1c3lxN2lWQ2kxRngyaG90OTlSX2hGX1VEc1JXUU1kWGlvX2xmQ2hjMzI2dFl2WElCTFoxS1IwODdZS1YtZmxiQjctczZTejhMWUR3TG8tTldJdTUtZWJ5eWFiSjFJVnFYdXFqMmJpeUh4Vi0xdVh0TzZEWDdIU19hNkFDNlV5LXJIcTBoaEozSExmZHg3bG82UQ?oc=5",
-      "source": "Revsportz",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T08:27:06.000Z",
-      "image": "",
-      "topic": "社会",
       "score": 70,
-      "id": "c35a8bcbce69"
+      "id": "2f472ffd7d3a"
     },
     {
       "title": "No Madlanga today? Citizens joke they don't know what to do as Commission takes a break",
@@ -861,86 +939,8 @@
       "publishedAt": "2026-08-15T08:09:54.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
-      "id": "32fe676b4528"
-    },
-    {
-      "title": "7 Martyrs in Israeli Airstrike on Southern Lebanon...",
-      "summary": "7 Martyrs in Israeli Airstrike on Southern Lebanon... &nbsp;&nbsp; jordannews.jo",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUpPQ09jRjBtaHNrYmZnNVhGdVN0YlBBcUJpcnNDWFN4RXZ4cU9VaXhUSjJWbGtjaVpwQzhYcHpJV3p0aHEwajlqOFlhajJRUW9FRzhHY1IzR1VjeHdnc2tjN1ZDUUc0WFpTV3dlSk1hNThyQ3hDT2pkY0xsajFvVDNRS0IyQm9WZ3pzaFdRMzV2OUREUVVCNUdReWF1S0JOWk9yMkxmOWE?oc=5",
-      "source": "jordannews.jo",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-15T08:02:17.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "9f9eaa94bf25"
-    },
-    {
-      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
-      "summary": "From glaciers shrinking to an exposed shipwreck, satellites capture the impact of extreme heat and drought.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-15T05:01:13.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b95/live/1efcbb90-97f4-11f1-870d-5d08c49babb2.png",
-      "topic": "气候",
-      "score": 70,
-      "id": "6dc231803e73"
-    },
-    {
-      "title": "Morocco boosts Ceuta security amid calls for mass migrant crossing",
-      "summary": "Morocco has added barbed wire and more police near Spain’s Ceuta enclave after online calls for another mass crossing.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-15T04:54:53.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "eb76e1fd3fe4"
-    },
-    {
-      "title": "USS Lincoln in crisis? USS George Washington heads to Middle East amid 'poor condition' reports",
-      "summary": "USS Lincoln in crisis? USS George Washington heads to Middle East amid 'poor condition' reports &nbsp;&nbsp; The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQX2xfZFVhNEtKbWhCRzdJM20xSnYyYUpPSGJQNTEtOURZT25DSDhDUzdrWnphbkstZUVJZlJ1M1gtTzFaaE92LXpSUGowOU1QUFhZVmgxUEhqUTVMdXVwNVJUd1pieXZEVE5vSXIwUTdPMjB1eXFESHowanFXZmg4RzlaQVJfb2gyRGVJWThkZ2ZTQmVhMmh2T1lvNmJMLWs0bWprWFRlOGJDSG1UYW1aSVFXMHhLUFAxUzIwNmluVzNobVUzZDkxNjJNbzdBRXB4Mi1NV2hhRDhsV08zUWUwMjQ0dmNuZHhQUTRhdmFyaFJ3WFAtZjVuQ2xYbnpFd1hzdTkzWG1QeE8xd9IBigJBVV95cUxQX2xfZFVhNEtKbWhCRzdJM20xSnYyYUpPSGJQNTEtOURZT25DSDhDUzdrWnphbkstZUVJZlJ1M1gtTzFaaE92LXpSUGowOU1QUFhZVmgxUEhqUTVMdXVwNVJUd1pieXZEVE5vSXIwUTdPMjB1eXFESHowanFXZmg4RzlaQVJfb2gyRGVJWThkZ2ZTQmVhMmh2T1lvNmJMLWs0bWprWFRlOGJDSG1UYW1aSVFXMHhLUFAxUzIwNmluVzNobVUzZDkxNjJNbzdBRXB4Mi1NV2hhRDhsV08zUWUwMjQ0dmNuZHhQUTRhdmFyaFJ3WFAtZjVuQ2xYbnpFd1hzdTkzWG1QeE8xdw?oc=5",
-      "source": "The Economic Times",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-14T15:54:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "3af7b501f64f"
-    },
-    {
-      "title": "The new crescent: Mecca pact gives rise to a Saudi-led Sunni bloc, posing new challenges for Israel",
-      "summary": "The new crescent: Mecca pact gives rise to a Saudi-led Sunni bloc, posing new challenges for Israel &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tYVR4cDRQdW1icVJNbnRhbE1yaXBGZ2ZlT1hRN3J1R0M3dW5LalRHLWJkQ3VDWEZVM0xTamtBUWZ4aVpHclpHLS1BNGFFcGU4TEpkc2pYeklHd1BB?oc=5",
-      "source": "The Jerusalem Post",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-15T06:55:51.000Z",
-      "image": "",
-      "topic": "社会",
       "score": 69,
-      "id": "79a0f3631716"
-    },
-    {
-      "title": "Wealdstone FC unveil Kenyan prospect Wilson Waweru",
-      "summary": "Wealdstone FC unveil Kenyan prospect Wilson Waweru &nbsp;&nbsp; Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZUdXdzZ3YU92X2QtbnRTUVNKN3BCZ1NxR1pyMUpmV1IxNXJvcjlNUXV2SlFYZ1l0Z0VLMjhPd2JTa3NMcmxEWGlSd3lTWmZvbXhNbVhpZ2tvZGhEMGF3aWVpUkFTZm83Wmk1bm50U0FLU282YnRPUC1UUUIwVHo4NDlLUEtJZktZMFE?oc=5",
-      "source": "Africa Top Sports",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-15T06:30:18.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 68,
-      "id": "1aae332c9df3"
+      "id": "32fe676b4528"
     }
   ]
 }
