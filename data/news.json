@@ -1,11 +1,24 @@
 {
-  "updatedAt": "2026-08-15T04:49:52.892Z",
+  "updatedAt": "2026-08-15T05:44:14.390Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+      "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T04:12:55.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae3/live/73539fc0-984d-11f1-92c4-9d3840de4561.jpg",
+      "topic": "气候",
+      "score": 94,
+      "id": "4bc725bb51f4"
+    },
     {
       "title": "7.7-magnitude earthquake strikes eastern Indonesia",
       "summary": "A powerful 7.7-magnitude earthquake struck eastern Indonesia, damaging buildings and sending residents to higher ground.",
@@ -16,7 +29,7 @@
       "publishedAt": "2026-08-15T02:03:22.000Z",
       "image": "",
       "topic": "气候",
-      "score": 93,
+      "score": 92,
       "id": "608ae7fe1b16"
     },
     {
@@ -29,8 +42,21 @@
       "publishedAt": "2026-08-15T01:54:00.000Z",
       "image": "https://e3.365dm.com/26/08/1920x1080/skynews-indonesia-earthquake_7322112.jpg?20260815031232",
       "topic": "气候",
-      "score": 93,
+      "score": 92,
       "id": "621034fad129"
+    },
+    {
+      "title": "On the ground in Indonesia following 7.7 magnitude earthquake",
+      "summary": "A powerful 7.7 magnitude earthquake struck off eastern Indonesia early Saturday, killing at least five people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T04:49:47.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 91,
+      "id": "af999cfbc2a5"
     },
     {
       "title": "Powerful earthquake strikes off coast of Indonesia",
@@ -42,21 +68,8 @@
       "publishedAt": "2026-08-14T23:07:19.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/4294529eeba7eb1e9262cea014784325?impolicy=wcms_crop_resize&cropH=334&cropW=594&xPos=663&yPos=438&width=862&height=485",
       "topic": "政治",
-      "score": 90,
-      "id": "47b6241fcce8"
-    },
-    {
-      "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea ‘not nearly enough’ – as it happened",
-      "summary": "This live blog is now closed. Trump downplays concerns about sailors deployed for record 250 days Sign up for the Breaking News US email The Trump administration, in its appeal to the supreme court today, said that “this case involves an extraordinary and unlawful injunction that will halt the ongoing construction of the integrated military complex including",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-15T01:31:53.000Z",
-      "image": "https://i.guim.co.uk/img/media/dfdb2088fca801961af56d1dc574e5ef9cdb13c6/122_0_3727_2981/master/3727.jpg?width=140&quality=85&auto=format&fit=max&s=4021f65d032ea3bc9af9dc0c71a30097",
-      "topic": "政治",
       "score": 89,
-      "id": "a2db9f2c1d28"
+      "id": "47b6241fcce8"
     },
     {
       "title": "What we know about the crisis aboard the USS Lincoln",
@@ -68,21 +81,47 @@
       "publishedAt": "2026-08-15T04:21:07.000Z",
       "image": "",
       "topic": "政治",
-      "score": 88,
+      "score": 87,
       "id": "98b73366b5eb"
     },
     {
-      "title": "Trump dismisses concerns about conditions on US aircraft carrier",
-      "summary": "Donald Trump has downplayed the impact on American sailors who have spent nearly nine months at sea on the USS Abraham Lincoln.",
-      "url": "https://news.sky.com/story/donald-trump-dismisses-concerns-about-conditions-on-us-aircraft-carrier-13573196",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "美洲",
-      "publishedAt": "2026-08-15T01:05:00.000Z",
-      "image": "https://e3.365dm.com/26/02/1920x1080/skynews-uss-abraham-lincoln_7168856.jpg?20260219082228",
+      "title": "‘My heart breaks into a million pieces’: emotional tributes to Kumanjayi Little Baby at Alice Springs funeral",
+      "summary": "Hundreds gathered with flashes of pink to farewell the five-year-old girl, who was allegedly murdered in April Warning: This story contains references to Indigenous Australians who have died Get our breaking news email , free app or daily news podcast A sombre funeral service for Kumanjayi Little Baby has been attended by hundreds of people from the Alice Sp",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/15/emotional-tributes-kumanjayi-little-baby-alice-springs-funeral-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-15T04:58:20.000Z",
+      "image": "https://i.guim.co.uk/img/media/372ea1b2ce13adbf835ee67de609738e088051dc/114_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=0029f4a25a4b30afd1c8b32efda99d6f",
+      "topic": "政治",
+      "score": 84,
+      "id": "a5d700b40aeb"
+    },
+    {
+      "title": "At least five killed as magnitude 7.7 quake hits Indonesia",
+      "summary": "The death toll is expected to climb further as emergency teams continue search and rescue efforts.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T01:36:04.000Z",
+      "image": "",
       "topic": "社会",
-      "score": 87,
-      "id": "5d44278ed23d"
+      "score": 84,
+      "id": "b950ccc5601b"
+    },
+    {
+      "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea ‘not nearly enough’ – as it happened",
+      "summary": "This live blog is now closed. Trump downplays concerns about sailors deployed for record 250 days Sign up for the Breaking News US email The Trump administration, in its appeal to the supreme court today, said that “this case involves an extraordinary and unlawful injunction that will halt the ongoing construction of the integrated military complex including",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-15T01:31:53.000Z",
+      "image": "https://i.guim.co.uk/img/media/dfdb2088fca801961af56d1dc574e5ef9cdb13c6/122_0_3727_2981/master/3727.jpg?width=140&quality=85&auto=format&fit=max&s=4021f65d032ea3bc9af9dc0c71a30097",
+      "topic": "政治",
+      "score": 84,
+      "id": "a2db9f2c1d28"
     },
     {
       "title": "Breaking down the logistics of USS Washington's replacement of USS Lincoln in Middle East",
@@ -94,7 +133,7 @@
       "publishedAt": "2026-08-14T22:36:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 85,
+      "score": 83,
       "id": "26ff0223e42e"
     },
     {
@@ -107,21 +146,21 @@
       "publishedAt": "2026-08-14T21:38:17.000Z",
       "image": "https://i.guim.co.uk/img/media/b5c83da9efbbf04d1758c3b4f20d9ba23182b70d/206_0_4535_3628/master/4535.jpg?width=140&quality=85&auto=format&fit=max&s=f1935c96b4f6952f19cc53d22246976e",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "420c69d10a45"
     },
     {
-      "title": "US: S&P 500 ends lower as investors weigh data, Middle East tensions",
-      "summary": "US: S&P 500 ends lower as investors weigh data, Middle East tensions &nbsp;&nbsp; The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaERpRGRlU1VqVUMzOUNLeUxyOUxWbGxqOXhjUWJwcmxFcGNJM0NQZHh5b1RSYmVZTy1fWHNlYlh4ZUtnNEk0RWdVZlFscTljVWtTV1RCTmVoMnVHc0p5X25vQmxiWl9WZ2ZPVmstanhJVTZDYU1SemlIZExRWnhNSFlQdkFhVHZTWUF6a3lKNWwzY1dMQnA0TWw2TTNWUWdKUWpQX3FpOTYzSGNXLUwzUkJQTQ?oc=5",
-      "source": "The Business Times",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-15T00:31:00.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 83,
-      "id": "5e657a4c4873"
+      "title": "Trump dismisses concerns about conditions on US aircraft carrier",
+      "summary": "Donald Trump has downplayed the impact on American sailors who have spent nearly nine months at sea on the USS Abraham Lincoln.",
+      "url": "https://news.sky.com/story/donald-trump-dismisses-concerns-about-conditions-on-us-aircraft-carrier-13573196",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "美洲",
+      "publishedAt": "2026-08-15T01:05:00.000Z",
+      "image": "https://e3.365dm.com/26/02/1920x1080/skynews-uss-abraham-lincoln_7168856.jpg?20260219082228",
+      "topic": "社会",
+      "score": 82,
+      "id": "5d44278ed23d"
     },
     {
       "title": "New aircraft carrier heads toward Middle East after reports of issues on long-deployed USS Lincoln",
@@ -133,21 +172,21 @@
       "publishedAt": "2026-08-14T21:29:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "573dd9e92d96"
     },
     {
-      "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
-      "summary": "Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship.",
-      "url": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
+      "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
+      "summary": "Displaced by Sudan’s war, Sahra now leads a refugee school where education offers children safety and hope.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-14T21:17:15.000Z",
+      "region": "非洲",
+      "publishedAt": "2026-08-15T05:14:40.000Z",
       "image": "",
       "topic": "社会",
-      "score": 83,
-      "id": "d9b5717b2bf5"
+      "score": 80,
+      "id": "85c73dd21d8d"
     },
     {
       "title": "[Breaking] President Lee: \"Let's begin talks on ending the war... also discuss ways to halt North Korea's nuclear advancement\"",
@@ -159,7 +198,7 @@
       "publishedAt": "2026-08-15T01:42:54.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "3caa5d4588d9"
     },
     {
@@ -172,7 +211,7 @@
       "publishedAt": "2026-08-14T23:28:52.000Z",
       "image": "",
       "topic": "社会",
-      "score": 81,
+      "score": 80,
       "id": "0bbfbaa9838c"
     },
     {
@@ -185,7 +224,7 @@
       "publishedAt": "2026-08-14T22:50:43.000Z",
       "image": "",
       "topic": "社会",
-      "score": 81,
+      "score": 80,
       "id": "2f472ffd7d3a"
     },
     {
@@ -198,21 +237,73 @@
       "publishedAt": "2026-08-14T22:12:55.000Z",
       "image": "https://i.guim.co.uk/img/media/bb189f5df21af2d08918529132fc52e6524508eb/335_0_1873_1500/master/1873.jpg?width=140&quality=85&auto=format&fit=max&s=95ddd8370a8aa4f5a84dba4df3221791",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "972ae6f290f5"
     },
     {
-      "title": "Retail fuel prices surge across euro area after Middle East conflict",
-      "summary": "Retail fuel prices surge across euro area after Middle East conflict &nbsp;&nbsp; Cyprus Mail",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWZOaXJpb2lFcGtxTVBHSUhIeDkxRVJVZlNNNUJmTVVSZjNDcW5zX2x3a0o1UTZGbDZuWjVZQ3RUTUhJWmJRWHRoeDYxalBXTVJoN3NqRmVXOUV3VUlHRXZodXEwRmF1Qk9udmpDamR5MXA2RmJqZWs5cXVtckxZYm10UjBha00zeDd6THNfZkZrQUVqZmlTeDJHY0YxYnIyaVczTjNR?oc=5",
-      "source": "Cyprus Mail",
+      "title": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East",
+      "summary": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East &nbsp;&nbsp; WLNS 6 News",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRGVjSUI5QnNLelNLZ1FURjFud1VHRmw1eGlXNzM1TllwYjE4NVRVMDNkY3NDeE1ONjZpdS14SDRIeFRKdWFzd09WcUpBaWsxdTc5TlJjUXRLczExeE1YXzhDbHRzSUx5RmZQREFUQjdYZ3oxaXNvMUNyYVAzdjFpMllwaDMtN0hGOW5Id2dYMmdQeXFJVWJSQks1Snowb25ZeGJXU1hjOFBTUWFzeE10Zi1iX28yRG1na2RQNUloUktFdXRrYWMxM2JYSVQ5UGo4N3hwY0xEazNyeWJJY19rcGVFUmZDSk5U0gHuAUFVX3lxTE9sbW1DMXhhZEQzYmh6OVBwMk54ZXJmb01ybnFDZFUzV3Zfa093eGRPWW5nMkJPcmhIbUNQSlJGNHpNQTZVZVNJWk15MF9HeDRQOUFPeUx1OUtTUXhGdnZ3dWZkaG1MbVhSR0lwanhvSERlRXFraE9HckhiczdCcjVvLXpVczQtMXgzdGlVdXVUa1FyUkx4c2FwUkNKeVBxTUNwVi1GdXNRTFA0ZXJuRmcyNWdYZ3pkNW14WXhvNjBxeWZpbU1vUEJ1UDYtMVE2NWFoQ3V5QnhUSEZBc2NEMkNqcVJ5TGhEdEQ4ZzVibEE?oc=5",
+      "source": "WLNS 6 News",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-15T04:30:00.000Z",
+      "publishedAt": "2026-08-14T19:35:14.000Z",
       "image": "",
       "topic": "社会",
       "score": 80,
-      "id": "473047d8458f"
+      "id": "f6cceb80cacb"
+    },
+    {
+      "title": "BBC was warned of author’s claim to possess missing clothes of child murder victim",
+      "summary": "Corporation was told of claims by Christopher Berry-Dee that he had clothing, which was lost while in its possession The BBC was warned by two whistleblowers that a British true crime author was claiming to have obtained the missing clothes of a child murder victim that the broadcaster had lost. The Guardian has established that the office of the former head",
+      "url": "https://www.theguardian.com/society/2026/aug/15/bbc-was-warned-of-authors-claim-to-possess-missing-clothes-of-child-victim",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-15T05:00:50.000Z",
+      "image": "https://i.guim.co.uk/img/media/5cc0a12c021603cfa130dd3ebeebdd8267a21ea9/143_0_2768_2214/master/2768.jpg?width=140&quality=85&auto=format&fit=max&s=091911ba174df6148129ab89b881fee3",
+      "topic": "政治",
+      "score": 79,
+      "id": "b98b4933b246"
+    },
+    {
+      "title": "Is the US ready for President Alexandria Ocasio-Cortez?",
+      "summary": "The New York congresswoman’s power is in the spotlight as people wonder if the stars are finally aligning for her to run for US president in 2028 “They assume that my ambition is positional. They assume that my ambition is a title or a seat. And my ambition is way bigger than that. My ambition is to change this country.” The words were delivered slowly, deli",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/15/will-aoc-run-for-president",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-15T05:00:50.000Z",
+      "image": "https://i.guim.co.uk/img/media/1df59ee85f53da4c7d6485ec5dad6ba21f5b8435/0_566_3600_2878/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=deddead61d273ad09220fc330b598831",
+      "topic": "政治",
+      "score": 79,
+      "id": "745fd34e55d0"
+    },
+    {
+      "title": "Concerns grow over increased global ties with Taliban in Afghanistan",
+      "summary": "Campaigners fear deeper diplomatic contacts are undermining demands for improvements in human rights The Taliban in Afghanistan have launched a diplomatic effort to end their isolation as major regional and international powers show a readiness to engage more closely with the repressive regime despite its systematic human rights abuses. Five years after the ",
+      "url": "https://www.theguardian.com/world/2026/aug/15/concern-grow-global-ties-taliban-afghanistan-human-rights",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-15T05:00:49.000Z",
+      "image": "https://i.guim.co.uk/img/media/a00bb7fceb915e0108c0489f2a825134df963bfa/233_0_2333_1867/master/2333.jpg?width=140&quality=85&auto=format&fit=max&s=a3a161bca8aa1578475140cd019dc592",
+      "topic": "政治",
+      "score": 79,
+      "id": "d2731fd26881"
+    },
+    {
+      "title": "Taiwan passes defence budget after record delay, retains drone funding",
+      "summary": "Taiwan parliament ends deadlock, ensuring vital drone programme funding amid rising cross-strait tensions with Beijing.",
+      "url": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T04:44:14.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "e360bd7214d0"
     },
     {
       "title": "Fraud charges added to fatal hit-and-run accused",
@@ -224,7 +315,7 @@
       "publishedAt": "2026-08-15T04:24:52.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/62de5301def1100285e1c74cf212d2c0?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "8c2c755b115e"
     },
     {
@@ -237,7 +328,7 @@
       "publishedAt": "2026-08-14T22:15:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "d131c3354b6c"
     },
     {
@@ -250,7 +341,7 @@
       "publishedAt": "2026-08-14T21:50:46.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "18078fac1d84"
     },
     {
@@ -263,21 +354,21 @@
       "publishedAt": "2026-08-15T03:39:06.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "3830f887e20b"
     },
     {
-      "title": "Live: Wallabies set to unleash hulking prop in historic Test against Japan",
+      "title": "Live: Wallabies make fast start but Aussie strikes back for Japan",
       "summary": "The Wallabies are seeking three Test wins in a row for the first time since 2024, as they host Japan for a historic Test in Townsville. Follow live.",
       "url": "https://www.abc.net.au/news/2026-08-15/live-wallabies-japan-second-test-townsville/107027060",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "亚洲",
       "publishedAt": "2026-08-15T03:34:31.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/84a2cf911b451f43732fd5d117a4ebb6?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=141&width=862&height=485",
+      "image": "https://live-production.wcms.abc-cdn.net.au/6067d06c34c2e80badab9ace6ad6663a?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=24&width=862&height=485",
       "topic": "社会",
-      "score": 79,
-      "id": "88c5b9dcdfce"
+      "score": 78,
+      "id": "7ca39ba85d90"
     },
     {
       "title": "13 medications, 30 prescriptions led up to US mother's killing of three children",
@@ -289,21 +380,8 @@
       "publishedAt": "2026-08-15T03:26:10.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/0c5ab412dead482b460ce20671a58ad0?impolicy=wcms_crop_resize&cropH=2112&cropW=3755&xPos=0&yPos=316&width=862&height=485",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "686f01321904"
-    },
-    {
-      "title": "Black rain and burning oil: environmental cost of war in the Middle East",
-      "summary": "Black rain and burning oil: environmental cost of war in the Middle East &nbsp;&nbsp; The Nation Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV2xMck9NNDMyLWpjcVhKUVRtdUU1UjI5ZXlFWUVlY1RabEhYYUpzanBNOVljeUY1MDYxVmRsU0tNdTFQREljdjRRWGRyTWgzMmp5WmhaNUNvTVRYNnlIU3kzal9sVmJCZzYwRjJEVFhad3FtYUZSQ3Z0S0NwYXZIcnh6SFc0NHY0MjhZVmxiNDJQdEc4Slc1SlVBVHIyZVJ1Qm5odNIBqgFBVV95cUxNNG9EX0s1NmFtVVlkeWNkMnRPUVlaZzBJc190NG5HYlBvbGhET19ZOG5sdWp4MEtSQ01IcVpNR0REaTltYll6eUVqOUhXbU8tOTkzVEh6M0JmT0VHS1FxdDAyb0RPUExMZkJRQU1oUkNjT0F5Wkx6dzlidU9BQkJVbllTZGlRSVpUX0Nzd1d6YkxyOVpfcTJUSzlEM29TNnRFT2pJdFBtT1JIQQ?oc=5",
-      "source": "The Nation Newspaper",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-15T03:24:27.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 79,
-      "id": "d8ced95c3f17"
     },
     {
       "title": "Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election",
@@ -315,7 +393,7 @@
       "publishedAt": "2026-08-15T00:32:56.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "245abb09e578"
     },
     {
@@ -328,7 +406,7 @@
       "publishedAt": "2026-08-15T00:24:28.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/6b43f4335af9675bafa6323252175a25?impolicy=wcms_crop_resize&cropH=1736&cropW=3087&xPos=1885&yPos=441&width=862&height=485",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "4fcb7aecc2d5"
     },
     {
@@ -341,21 +419,60 @@
       "publishedAt": "2026-08-15T00:00:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "c802a695b5a2"
     },
     {
-      "title": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East",
-      "summary": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East &nbsp;&nbsp; WSLS",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWFHNllHcFVBMWNXVHFGUkZfeTlyX0JMUEJCdkc0TGpIVTZiSmhQSWt6RXVySjlmRUlnWUJpUDBXWFJNSWNvR2dDMWh2eGdrR1FzWTZtZEZ3OFU2OTRPcHBTS3RpZFlyVW1FVTZ2UUNvVnRDUVdWTE1hM2FZR3QtTF9RZmtodktUM1VHYVk2VlNOaDRwSHN3a28zVktDOXBPTGNKbzdRSTN1VXB5WHhqRnBGWko3WFg4VTVPTWNpbUtPb3dPbk04OTIxMnJOSUFTbjNaQw?oc=5",
-      "source": "WSLS",
+      "title": "US: S&P 500 ends lower as investors weigh data, Middle East tensions",
+      "summary": "US: S&P 500 ends lower as investors weigh data, Middle East tensions &nbsp;&nbsp; The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaERpRGRlU1VqVUMzOUNLeUxyOUxWbGxqOXhjUWJwcmxFcGNJM0NQZHh5b1RSYmVZTy1fWHNlYlh4ZUtnNEk0RWdVZlFscTljVWtTV1RCTmVoMnVHc0p5X25vQmxiWl9WZ2ZPVmstanhJVTZDYU1SemlIZExRWnhNSFlQdkFhVHZTWUF6a3lKNWwzY1dMQnA0TWw2TTNWUWdKUWpQX3FpOTYzSGNXLUwzUkJQTQ?oc=5",
+      "source": "The Business Times",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-14T18:23:56.000Z",
+      "publishedAt": "2026-08-15T00:31:00.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 77,
+      "id": "5e657a4c4873"
+    },
+    {
+      "title": "Why the Alps are now Europe’s top destination for hikers and cyclists this summer",
+      "summary": "Why the Alps are now Europe’s top destination for hikers and cyclists this summer &nbsp;&nbsp; Breaking Travel News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVU9pX1BwUXE5VzBRNXB6QTdqT2xUVG5SRXlDRU5NOUg4eEx2MVV3bkxtN1RkTGRBMHJxbjBmS2FPUzBsRzc3akFsb2JYUGNqTnVJOUNaWm8zUG15bllNc1FMd3RTM0hSYXozdzg3UFZKZFhTUFRuQVIwQ1RPSXc3MnJ1aEZaYjRFeU5UMXUxd1JxV1J3T2phNFp5b0JWTngydXlnMEhQNnJMWlJaUDktQkMxV2F1Mk1VWk4wcEJKQVpTZw?oc=5",
+      "source": "Breaking Travel News",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-15T05:36:10.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
-      "id": "af5065f38c30"
+      "score": 76,
+      "id": "fb81ad6fcb5c"
+    },
+    {
+      "title": "Israel kills six beyond Lebanon Yellow Line - Shafaq News | Latest breaking news in Iraq and the world",
+      "summary": "Israel kills six beyond Lebanon Yellow Line - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTDBhWUZDR25TQjFLeWQ1dW9pZ2JlTmJidS1OX3Vmb3RmdHpEbHdUbW1BSEZQYmo5dzZOYVZiTHRzLXVSd0Z4QVhxMXY5Z0owS1FLaGFMSUxfQl9QV0VzNENQeFVmRldidXdUVUFfVTEwcXNZc3NDQkRsVG0zZ0pXY0wxOA?oc=5",
+      "source": "شفق نيوز",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-15T05:28:30.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "3e5080e23412"
+    },
+    {
+      "title": "Bar Sathorn Rises to No.17 on Asia’s 50 Best Bars 2026",
+      "summary": "Bar Sathorn Rises to No.17 on Asia’s 50 Best Bars 2026 &nbsp;&nbsp; Breaking Travel News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZVRibFpXcWoxeHNLR25iRUtGNXFJWGd6a3FDaUNyblYwck1ud2lIUWtwS3l5QWdNZWw5WTZSUlhuV1FGaGk3ZWx5dWNYeDVZQnlfVk5HVHJFNHhMc3FxQmh0THRES2VBbGlaUEthS2xoLWtnRUF3TnZVVlRIOHZuR0NQQ2NRREQ0MnUyRjhnNUIzMWRyVUh3WUJmVEZFV1YxRzhRUg?oc=5",
+      "source": "Breaking Travel News",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T05:23:16.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "42ccf1193e66"
     },
     {
       "title": "Coalition split on Andrew Bragg speech as South Australian senator Andrew McLachlan urges colleagues to ‘follow his lead’",
@@ -367,7 +484,7 @@
       "publishedAt": "2026-08-15T02:00:43.000Z",
       "image": "https://i.guim.co.uk/img/media/dec73cfb0aef0afb5bb4acccf02c14ebdf21bb83/546_0_6513_5210/master/6513.jpg?width=140&quality=85&auto=format&fit=max&s=dd5672dd94fc819ee340cae9f251e02a",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "4842f129118c"
     },
     {
@@ -380,34 +497,34 @@
       "publishedAt": "2026-08-15T01:41:25.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "547bafd15d81"
     },
     {
-      "title": "At least two killed as magnitude 7.7 quake hits Indonesia",
-      "summary": "Authorities urge coastal residents to move inland or to higher ground following the quake near Flores Island.",
-      "url": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T01:36:04.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "91ef5db2bc82"
+      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+      "summary": "BBC Verify examines the impact of drought and extreme heat on western European rivers, fields and mountains.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-08-15T05:01:13.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b95/live/1efcbb90-97f4-11f1-870d-5d08c49babb2.png",
+      "topic": "气候",
+      "score": 75,
+      "id": "6dc231803e73"
     },
     {
-      "title": "Mangione pleads guilty as polarising CEO killing reaches new phase",
-      "summary": "Luigi Mangione pleaded guilty to federal charges over the fatal shooting of UnitedHealthcare CEO Brian Thompson in 2024.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss",
+      "title": "Morocco boosts Ceuta security amid calls for mass migrant crossing",
+      "summary": "Morocco has added barbed wire and more police near Spain’s Ceuta enclave after online calls for another mass crossing.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-15T01:20:06.000Z",
+      "region": "欧洲",
+      "publishedAt": "2026-08-15T04:54:53.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
-      "id": "22981f4aca0b"
+      "score": 75,
+      "id": "eb76e1fd3fe4"
     },
     {
       "title": "Buenaventura residents criticise state neglect after Colombia’s earthquake",
@@ -419,7 +536,7 @@
       "publishedAt": "2026-08-15T01:12:02.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "08eccbb3be91"
     },
     {
@@ -432,34 +549,34 @@
       "publishedAt": "2026-08-15T01:07:41.000Z",
       "image": "https://i.guim.co.uk/img/media/88767de4bf103f7cd1db7a710fb56defa740aef5/0_0_1638_1311/master/1638.jpg?width=140&quality=85&auto=format&fit=max&s=4c0a30610fd2ffc9a26dd8acadff73bc",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "75b6d00760c2"
     },
     {
-      "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
-      "summary": "Academic was pronounced dead at his home in south London after police called to address after 3pm on Friday Jason Arday, the academic who resigned last week as a professor at the University of Cambridge , has been found dead at his home in south London. The Metropolitan police said officers were called to Arday’s address by the London ambulance service after",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-14T22:10:24.000Z",
-      "image": "https://i.guim.co.uk/img/media/f2b11433fe6a4e276c2594f779870a25470a56f3/885_291_6035_4827/master/6035.jpg?width=140&quality=85&auto=format&fit=max&s=ee862e70da4d8a274daf52a3de25968e",
-      "topic": "社会",
-      "score": 76,
-      "id": "81c534de48c5"
-    },
-    {
       "title": "USS Lincoln in crisis? USS George Washington heads to Middle East amid 'poor condition' reports",
-      "summary": "USS Lincoln in crisis? USS George Washington heads to Middle East amid 'poor condition' reports &nbsp;&nbsp; The Economic Times",
+      "summary": "USS Lincoln in crisis? USS George Washington heads to Middle East amid 'poor condition' reports &nbsp;&nbsp; economictimes.com",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQX2xfZFVhNEtKbWhCRzdJM20xSnYyYUpPSGJQNTEtOURZT25DSDhDUzdrWnphbkstZUVJZlJ1M1gtTzFaaE92LXpSUGowOU1QUFhZVmgxUEhqUTVMdXVwNVJUd1pieXZEVE5vSXIwUTdPMjB1eXFESHowanFXZmg4RzlaQVJfb2gyRGVJWThkZ2ZTQmVhMmh2T1lvNmJMLWs0bWprWFRlOGJDSG1UYW1aSVFXMHhLUFAxUzIwNmluVzNobVUzZDkxNjJNbzdBRXB4Mi1NV2hhRDhsV08zUWUwMjQ0dmNuZHhQUTRhdmFyaFJ3WFAtZjVuQ2xYbnpFd1hzdTkzWG1QeE8xd9IBigJBVV95cUxQX2xfZFVhNEtKbWhCRzdJM20xSnYyYUpPSGJQNTEtOURZT25DSDhDUzdrWnphbkstZUVJZlJ1M1gtTzFaaE92LXpSUGowOU1QUFhZVmgxUEhqUTVMdXVwNVJUd1pieXZEVE5vSXIwUTdPMjB1eXFESHowanFXZmg4RzlaQVJfb2gyRGVJWThkZ2ZTQmVhMmh2T1lvNmJMLWs0bWprWFRlOGJDSG1UYW1aSVFXMHhLUFAxUzIwNmluVzNobVUzZDkxNjJNbzdBRXB4Mi1NV2hhRDhsV08zUWUwMjQ0dmNuZHhQUTRhdmFyaFJ3WFAtZjVuQ2xYbnpFd1hzdTkzWG1QeE8xdw?oc=5",
-      "source": "The Economic Times",
+      "source": "economictimes.com",
       "feed": "Middle East News Network",
       "region": "中东",
       "publishedAt": "2026-08-14T15:54:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
-      "id": "3af7b501f64f"
+      "score": 75,
+      "id": "ef065eec1304"
+    },
+    {
+      "title": "Retail fuel prices surge across euro area after Middle East conflict",
+      "summary": "Retail fuel prices surge across euro area after Middle East conflict &nbsp;&nbsp; Cyprus Mail",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWZOaXJpb2lFcGtxTVBHSUhIeDkxRVJVZlNNNUJmTVVSZjNDcW5zX2x3a0o1UTZGbDZuWjVZQ3RUTUhJWmJRWHRoeDYxalBXTVJoN3NqRmVXOUV3VUlHRXZodXEwRmF1Qk9udmpDamR5MXA2RmJqZWs5cXVtckxZYm10UjBha00zeDd6THNfZkZrQUVqZmlTeDJHY0YxYnIyaVczTjNR?oc=5",
+      "source": "Cyprus Mail",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-15T04:30:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "473047d8458f"
     },
     {
       "title": "Iran says no decision yet on a return to talks with the US",
@@ -471,7 +588,7 @@
       "publishedAt": "2026-08-15T04:24:02.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "5bcd766952f1"
     },
     {
@@ -484,7 +601,7 @@
       "publishedAt": "2026-08-15T04:14:24.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/0ac02ca117b31e055868a4e1ebba6d24?impolicy=wcms_crop_resize&cropH=2095&cropW=3725&xPos=0&yPos=227&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "492e8155d906"
     },
     {
@@ -497,8 +614,47 @@
       "publishedAt": "2026-08-15T03:52:08.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "e5fea7698638"
+    },
+    {
+      "title": "Nagrik Devo Bhava: PM Modi Says Citizen-First Approach Helped India Weather COVID-19, Ukraine War & West",
+      "summary": "Nagrik Devo Bhava: PM Modi Says Citizen-First Approach Helped India Weather COVID-19, Ukraine War & West &nbsp;&nbsp; Free Press Journal",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY3N3TlB0cVNmb0tsZTJHZnFFQ3Axb2NZVmh0OFpUQXZrTFRNbWFtN2w3cy1URFhHQVdPdlRnQlRXeUVVcDhtZ2pDbnRpUU5aTlAzam9sekt4cnRvT2JJUHRZUjg3YXA3Sm5leUpEbEgxYm9PQzZ0WWRZWkFQSEpTYWFYSzllNlJhcmtVV2t2TElFeTlVZl9fVjdUT3BqYmJsWVJyd0hQaUMxcVprTXlDZVF1blpuLTNhZnc5OW9TMUVsbWdzMW8zT3Y1VzNMUUI5VUhBdWxlYXNTM2F4NzdEeUdwWHhqNXdZLUxXZ2VzbVNydEd1YjQtXzhCLXA0RWlacGJMRGJUZnQ2UjRFakd3bdIBlgJBVV95cUxNRGQxVEtldEFNQ3g5MlMxZ2hRdnNuNnVVYVlubnlXdzJ0QXBQTXQ5bXpkX25XR0FfUDBpWFk3RHZhS0ppWnNZNTZZUXctT3owWnNmaHFtdEhDVzFFNmRwOHhIUnkzVGlUSGZ4WVpZT1pTcnd2XzVOZzI5c1RUd2RVaTdiRXRHaklMS1p4XzhOUHcyTkZnTEJPd2ZIYjFPSnNhZnNVLUw5a044RUxwVVliSTVUc2dYQWFuT1hUUkVrNDdPQTVWMUsyb3ROU19xQzN4OFRxY0VIbXhwMU1TUzZuNjExQlRZWXpQb3owREdXd0dJc2hFU3VOWWd6ZTlqaFR6V0hwQUlrQVQxSE5tS0hZODNXYmxxQQ?oc=5",
+      "source": "Free Press Journal",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T03:45:30.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 74,
+      "id": "787a9df03c6e"
+    },
+    {
+      "title": "Mangione pleads guilty as polarising CEO killing reaches new phase",
+      "summary": "Luigi Mangione pleaded guilty to federal charges over the fatal shooting of UnitedHealthcare CEO Brian Thompson in 2024.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-15T01:20:06.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "22981f4aca0b"
+    },
+    {
+      "title": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
+      "summary": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentary The BBC is trying to subpoena Donald Trump’s children as it builds its defense against the president’s defamation lawsuit centered on a documentary on the January 6 insurrection. In a motion filed on Friday, the BBC sought authorization to s",
+      "url": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-14T21:05:47.000Z",
+      "image": "https://i.guim.co.uk/img/media/c519726d2d851d677c5334018aad733b64b7db60/1132_104_3152_2521/master/3152.jpg?width=140&quality=85&auto=format&fit=max&s=4b43cc592cbf0420e7e7cee8db94689f",
+      "topic": "政治",
+      "score": 74,
+      "id": "fbaf919be2ce"
     },
     {
       "title": "Face of risky drinking 'quietly changing' in Australia",
@@ -510,8 +666,21 @@
       "publishedAt": "2026-08-15T03:41:30.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/8387fceac158fe674817fd87ea324a1f?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 73,
       "id": "7cfa58a7365b"
+    },
+    {
+      "title": "Black rain and burning oil: environmental cost of war in the Middle East",
+      "summary": "Black rain and burning oil: environmental cost of war in the Middle East &nbsp;&nbsp; The Nation Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV2xMck9NNDMyLWpjcVhKUVRtdUU1UjI5ZXlFWUVlY1RabEhYYUpzanBNOVljeUY1MDYxVmRsU0tNdTFQREljdjRRWGRyTWgzMmp5WmhaNUNvTVRYNnlIU3kzal9sVmJCZzYwRjJEVFhad3FtYUZSQ3Z0S0NwYXZIcnh6SFc0NHY0MjhZVmxiNDJQdEc4Slc1SlVBVHIyZVJ1Qm5odNIBqgFBVV95cUxNNG9EX0s1NmFtVVlkeWNkMnRPUVlaZzBJc190NG5HYlBvbGhET19ZOG5sdWp4MEtSQ01IcVpNR0REaTltYll6eUVqOUhXbU8tOTkzVEh6M0JmT0VHS1FxdDAyb0RPUExMZkJRQU1oUkNjT0F5Wkx6dzlidU9BQkJVbllTZGlRSVpUX0Nzd1d6YkxyOVpfcTJUSzlEM29TNnRFT2pJdFBtT1JIQQ?oc=5",
+      "source": "The Nation Newspaper",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-15T03:24:27.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 73,
+      "id": "d8ced95c3f17"
     },
     {
       "title": "Thylacine head find at UK auction a 'holy grail' for collector",
@@ -523,7 +692,7 @@
       "publishedAt": "2026-08-15T03:15:51.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7db4d5905e079f63cb733dbfcf7d1496?impolicy=wcms_crop_resize&cropH=248&cropW=441&xPos=0&yPos=27&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "57a6ad8e3214"
     },
     {
@@ -536,21 +705,21 @@
       "publishedAt": "2026-08-15T03:04:20.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "8d6a067cfff9"
     },
     {
       "title": "‘Preparations Proved Useful’: PM Modi Says India Has Gas, Petrol And Urea Amid West Asia Crisis",
-      "summary": "‘Preparations Proved Useful’: PM Modi Says India Has Gas, Petrol And Urea Amid West Asia Crisis &nbsp;&nbsp; news18.com",
+      "summary": "‘Preparations Proved Useful’: PM Modi Says India Has Gas, Petrol And Urea Amid West Asia Crisis &nbsp;&nbsp; News18",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNVJTMW9hNE1fSDliTy04c0MtZUhXOVk5SkFmSXN5bzZCNmF2c1gyVmkyMlI4TUxPSURzbFl3bEFrM0JpU0l6U25LdWFBVkJNT2QzblY5NW1pUGhaY01PTmxTY1VVWVNnRngyVjl3TkVoRUhZWHRaSVYta3h5SlBWS1l2MzhjLVVQWFFwT3J5eGFtbjFmeW1STzZ5RnMwQUNta1pQZkktM0JDcHEtSDlHVXJDblBiNTZKYmZXeXQ2VWlwTU5VSXhySlM3dHRNT1lCd3l6TGYxQ0tsTDhSQmJCQlFEd0pDMnpZMnBLT3pkM1ROb1hUeVh3Q05zRXRXcmtVQTBWYkp1d3RHXzTSAZACQVVfeXFMUFZ1TnJ0Nk5PbHlfQi14dTVOblIxWUhNSlhRa1huVWM4VlRFZG02VXM1X0dNWU5DTkNRVHI1MXA4ODQxckdjRldUVW9wRi1JSHdkbUE4c2d5WjlXbE10VTk0WklXMjNIT0ZXYU9iWXoxeTR0bktkNjl3R0E4T3VjTzZ3V1hGeEdPei1GY1BENjlfUlI1SGp5V3dkcUNjaHppZi1FZ1E3aDhnU1pWVWx3X3p1dXJFYklCY0ZuelpHWWQwZmhhX05VSWs5RmVMajFSS0VXNVRYbjkzMmJoZnJQMFkzOGlHUXFwcHB3S2w5QVhfZHZDcUszWTl2anZsWTRxUEU4Rzk3OG9kY1B3aWZsZGU?oc=5",
-      "source": "news18.com",
+      "source": "News18",
       "feed": "Asia News Network",
       "region": "亚洲",
       "publishedAt": "2026-08-15T02:50:01.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
-      "id": "f55a8de6baea"
+      "score": 73,
+      "id": "d8e5fa5c4c0a"
     },
     {
       "title": "UN urges support for Afghan women’s aid five years into Taliban rule",
@@ -562,34 +731,21 @@
       "publishedAt": "2026-08-15T00:23:26.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "cad59949f1cc"
     },
     {
-      "title": "Former Cambridge professor accused of plagiarism found dead",
-      "summary": "Police are treating sociology professor Jason Arday's death as unexpected but not suspicious.",
-      "url": "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
+      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
       "region": "全球",
-      "publishedAt": "2026-08-14T20:46:40.000Z",
-      "image": "",
+      "publishedAt": "2026-08-15T00:01:53.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb9/live/bd08d920-982d-11f1-8cf9-eb47c9176e95.jpg",
       "topic": "社会",
-      "score": 74,
-      "id": "89c3cd504e5f"
-    },
-    {
-      "title": "Breaking: Professor Jason Arday, Who Resigned from Cambridge Over Alleged Plagiarism, Found Dead",
-      "summary": "Breaking: Professor Jason Arday, Who Resigned from Cambridge Over Alleged Plagiarism, Found Dead &nbsp;&nbsp; Legit News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXlraXBKWFZhLVMwNGdMcEU1ODE3ZVE3dHJWRVVNYVM1S1lrem1kMUQzSlcyNjJGXzVkdk5WTFhOREZfM0h4ZDdoZ1AwM2Q5YzFDd0R4UFd5LWY3ZVB1cTI4RGlGQlpYd2EzSDBhcVVob2dySUluVExYc2VNWmNVTnRpQS1NUnF6SFlFNTFZc0hPOWVhb3NYelpwTU50Tm5YWGk5WnUwVnZRVTQ?oc=5",
-      "source": "Legit News",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-14T20:17:17.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "346af854a431"
+      "score": 73,
+      "id": "a6e7e91150d5"
     },
     {
       "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
@@ -601,7 +757,7 @@
       "publishedAt": "2026-08-14T16:58:04.000Z",
       "image": "https://i.guim.co.uk/img/media/4e74294d7fc12a4f6c823be60d68e8ff43d71b97/984_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=40fcf0dd5ba505158e68d69f898bc919",
       "topic": "气候",
-      "score": 74,
+      "score": 73,
       "id": "54cbfdfcf766"
     },
     {
@@ -614,7 +770,7 @@
       "publishedAt": "2026-08-15T02:27:45.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/aa54a000a6010b9d94cf10c4fc1afe13?impolicy=wcms_crop_resize&cropH=576&cropW=1023&xPos=0&yPos=0&width=862&height=485",
       "topic": "经济",
-      "score": 73,
+      "score": 72,
       "id": "87dd7e65a2e3"
     },
     {
@@ -627,7 +783,7 @@
       "publishedAt": "2026-08-15T02:26:20.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/9463ab6bd5f91e58194e8b3b380f663c?impolicy=wcms_crop_resize&cropH=864&cropW=1536&xPos=0&yPos=247&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "c1e0e8ab65f2"
     },
     {
@@ -640,12 +796,12 @@
       "publishedAt": "2026-08-15T02:14:16.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/09335507975c385ebcee802b42488573?impolicy=wcms_crop_resize&cropH=2552&cropW=4538&xPos=462&yPos=378&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "4bb043e80949"
     },
     {
-      "title": "Live: Tigers–Saints starts big day of footy, ahead of Q-Clash, Hawks–Pies",
-      "summary": "Richmond vs St Kilda kicks off a huge Saturday of football, before the Q-Clash in Brisbane and tonight's Hawthorn-Collingwood blockbuster at the MCG. Follow live.",
+      "title": "Live: Saints stay alive with win ahead of Q-Clash, Hawks–Pies",
+      "summary": "St Kilda keeps its wildcard hopes alive before the Q-Clash in Brisbane and tonight's Hawthorn-Collingwood blockbuster at the MCG. Follow live.",
       "url": "https://www.abc.net.au/news/2026-08-15/afl-rd-23-live-rich-stk-nthm-geel-bris-gcs-haw-coll-ptad-melb/107036704",
       "source": "ABC Australia",
       "feed": "ABC Australia",
@@ -653,34 +809,8 @@
       "publishedAt": "2026-08-15T02:12:16.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/18eaae009c63959176886d26c644340d?impolicy=wcms_crop_resize&cropH=2330&cropW=4143&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 73,
-      "id": "2d1b681ded18"
-    },
-    {
-      "title": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
-      "summary": "As detainees granted 'alternative' to imprisonment, US welcomes release as crucial step for Venezuela's reconciliation.",
-      "url": "https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-15T02:08:02.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "2e5dbbeb7bb8"
-    },
-    {
-      "title": "Trump says Navy deployment in the Middle East is 'not nearly long enough'",
-      "summary": "Trump says Navy deployment in the Middle East is 'not nearly long enough' &nbsp;&nbsp; San Mateo Daily Journal",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcG53UjhWUjMzTlpRaEJGVmt1anRpVENVNWdYR0RtMXZyX3JnVnRPVmlab1hXMjN5VVVVMk1Kd1JUX1drWW9pMGdQUzVSSC1BUnNsRkYzV2ctdmRyaUpUejhBQnNjcEtmdUZudWV0YnhVTTkyaGdoVnNINXh3ejN0bF8wd3VVczFPY2xGc05nOW93TW5nRkQ4UWNFV2dWMlhnSndWVm82eXhrNUZYLUtuTXVqWGc5VTRteEFzbFZ2T0xkODRmczV3N3l0NzJ1dXBTQ2s0SzhKa2llOWJmMkFRejY2aG1VeWUzdHFVajJrTFFVaEEtUHk0?oc=5",
-      "source": "San Mateo Daily Journal",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-14T23:00:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "9be8d1192036"
+      "score": 72,
+      "id": "38148d32e3af"
     },
     {
       "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
@@ -692,7 +822,7 @@
       "publishedAt": "2026-08-14T22:58:58.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "8762fdd765b2"
     },
     {
@@ -705,21 +835,8 @@
       "publishedAt": "2026-08-14T22:50:23.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/5b8905a042fd26789450a6c8ebd2461d?impolicy=wcms_crop_resize&cropH=4417&cropW=7853&xPos=1597&yPos=1279&width=862&height=485",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "14b06c896e3d"
-    },
-    {
-      "title": "Son of Mexico’s former president AMLO alleges US revoked his visa",
-      "summary": "The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels.",
-      "url": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-14T19:44:43.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "da724c452828"
     },
     {
       "title": "Emergency alert warning of wildfire risk sent to phones in England and Wales",
@@ -731,8 +848,47 @@
       "publishedAt": "2026-08-14T19:19:48.000Z",
       "image": "https://i.guim.co.uk/img/media/1e1e8e07ed8e61f60e2907f7b8f5e01449b2c84f/546_0_5346_4276/master/5346.jpg?width=140&quality=85&auto=format&fit=max&s=79ddba5be1c7d4d61f4f5304d0af6188",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "c393055e2245"
+    },
+    {
+      "title": "Pallister holds off Ledecky to win Pan Pacs 400m free title",
+      "summary": "Pallister holds off Ledecky to win Pan Pacs 400m free title &nbsp;&nbsp; france24.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZjJMSkh6NzJfelBUcTRQdkxLVW9rVW02ZWpIekRidDRyVnNfTWRLYWdvR2w4Qk93N05mSGJock8zbFFXcWF4RnY2RHBNUmJvMnM2d0xKNDUzdm4xbHY2WjBQTmtoZjVuNnhHbHZJeU9JYVJwTnZDU2F0OEJUR1psYXpxOTZDcnpIOS1hSXFEa0p3dUk4X1BnUW1POUVzX09pTnNFd2ZHdk9DZw?oc=5",
+      "source": "france24.com",
+      "feed": "Pacific News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-15T05:09:10.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "6a7dc7bc2521"
+    },
+    {
+      "title": "CNA938 Rewind - Asia’s heatwave: temperatures soaring up to 42.5°C – is Singapore next? #SGToday",
+      "summary": "CNA938 Rewind - Asia’s heatwave: temperatures soaring up to 42.5°C – is Singapore next? #SGToday &nbsp;&nbsp; CNA",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWZDNFJheEVFMHBOMWlzZlo2bndHVEk2TjVlLVNDd2dqVHBIU2JnS21ESFMySWxJLUJmMHNzdzhULXhYcFVrbGR0SzNhT0NXRU5GWU90Z2o5U2RGWGJLUlBMRGlKOGVrTW5qdlB6VWhnd1d1QTNydGFQLVNrLVpSVHQzS1plM2I4VFNIUVVRSV9RVHNWME1QMlZNZnQ3OGExZmNYUUFwZW1KeFF2Wnd2bUpWS3ktd21IWmJkLTVKSUY5WU5oQXc4Mm9B?oc=5",
+      "source": "CNA",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T04:33:45.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 71,
+      "id": "039b86998fee"
+    },
+    {
+      "title": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
+      "summary": "As detainees granted 'alternative' to imprisonment, US welcomes release as crucial step for Venezuela's reconciliation.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-15T02:08:02.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "2e5dbbeb7bb8"
     },
     {
       "title": "What makes a great Aussie banger? The sausage kings aim to find out",
@@ -744,7 +900,7 @@
       "publishedAt": "2026-08-15T02:00:45.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/062227a447025a02432f353dd630785c?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "84b0e5b1f2ab"
     },
     {
@@ -757,21 +913,8 @@
       "publishedAt": "2026-08-15T01:27:23.000Z",
       "image": "https://i.guim.co.uk/img/media/a9c62938cf2e68e674062acaa10970b8e28f4db0/351_0_3538_2832/master/3538.jpg?width=140&quality=85&auto=format&fit=max&s=fd63317374606789daea93dea536972a",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "ca8d3d11df48"
-    },
-    {
-      "title": "'Unusual' coffee delivery leads to woman's arrest, attempted poisoning charges",
-      "summary": "The 43-year-old woman from South Launceston is accused of sending multiple poisoned coffees to her ex-partner over several months.",
-      "url": "https://www.abc.net.au/news/2026-08-15/tasmanian-woman-allegedly-sends-poisoned-coffees-ex-partner/107041748",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-15T01:17:23.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/21225da0e7502091c202f7127fe9d24f?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=756&width=862&height=485",
-      "topic": "社会",
-      "score": 72,
-      "id": "2b44bbe14bbb"
     },
     {
       "title": "Driver trapped in crashed car after alleged Melbourne carjacking",
@@ -783,164 +926,21 @@
       "publishedAt": "2026-08-14T22:29:27.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/9b5d46ca2b4e3fa1a009fb779f2e3c0d?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "9f888d448419"
     },
     {
-      "title": "Wildfires rage across Europe as heatwaves drive record temperatures",
-      "summary": "Wildfires fuelled by record heat are ravaging Europe, burning around 500,000 hectares and forcing thousands to flee.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-14T21:50:35.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 72,
-      "id": "e1a5aad3e013"
-    },
-    {
-      "title": "Burnham criticised for EV and North Sea approach amid climate crisis",
-      "summary": "Cut in electric vehicle sales targets could add millions of tonnes of CO 2 to emissions in UK, say green campaigners Andy Burnham has been criticised for moving to cut electric vehicle (EV) sales targets and accept North Sea drilling at a time of devastating wildfires caused by the climate emergency. The prime minister for the first time acknowledged on Frid",
-      "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
+      "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
+      "summary": "Academic was pronounced dead at his home in south London after police called to address after 3pm on Friday Jason Arday, the academic who resigned last week as a professor at the University of Cambridge , has been found dead at his home in south London. The Metropolitan police said officers were called to Arday’s address by the London ambulance service after",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "全球",
-      "publishedAt": "2026-08-14T18:51:11.000Z",
-      "image": "https://i.guim.co.uk/img/media/02b86401dda47441867ef599b6a0a5f84e392894/1176_0_6160_4930/master/6160.jpg?width=140&quality=85&auto=format&fit=max&s=bfb61b86eafb39d41dc2f57543077929",
-      "topic": "气候",
-      "score": 72,
-      "id": "252838a0fb3f"
-    },
-    {
-      "title": "Ozzy the orphaned long-nosed potoroo loves his peanuts",
-      "summary": "Meet Ozzy who has gone from a 96g orphan to a robust boy who'll live his life out in an eco-sanctuary teaching students about predators and the environment.",
-      "url": "https://www.abc.net.au/news/2026-08-15/long-nosed-potoroo-orphan-tatachilla-luthern-college-sa/107033186",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-15T01:05:45.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6eb07128f282ad1867190d08be36dc26?impolicy=wcms_crop_resize&cropH=1531&cropW=2722&xPos=0&yPos=344&width=862&height=485",
-      "topic": "气候",
-      "score": 71,
-      "id": "b4988e8c403f"
-    },
-    {
-      "title": "Takeover of rare remaining community-owned nursing home",
-      "summary": "Locals are concerned about losing control of community-owned Proserpine Nursing Home, which may be taken over by a national operator.",
-      "url": "https://www.abc.net.au/news/2026-08-15/respect-confirms-proserpine-nursing-home-transfer/107037210",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-15T00:46:59.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ef0e18e2729c67447c5f314aa183e6cc?impolicy=wcms_crop_resize&cropH=1365&cropW=2427&xPos=0&yPos=231&width=862&height=485",
+      "publishedAt": "2026-08-14T22:10:24.000Z",
+      "image": "https://i.guim.co.uk/img/media/f2b11433fe6a4e276c2594f779870a25470a56f3/885_291_6035_4827/master/6035.jpg?width=140&quality=85&auto=format&fit=max&s=ee862e70da4d8a274daf52a3de25968e",
       "topic": "社会",
       "score": 71,
-      "id": "d5ec6f0f95b3"
-    },
-    {
-      "title": "Burnham announces £65m for drought-hit farmers after Labour pressure",
-      "summary": "PM steps up climate response with measures including better water access and support for building farm reservoirs Farmers must not carry the risks of the climate crisis alone, Andy Burnham has said, as he announced £65m of funding to help them manage the devastating drought. The prime minister is stepping up his response to the immediate climate crisis after",
-      "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-climate-response-drought-hit-farmers-labour-pressure",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-14T21:30:38.000Z",
-      "image": "https://i.guim.co.uk/img/media/df7be427e6cfbc469ded79f62c0d9115bd1cb541/162_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=25c1fad17b78a47cef718227a2db1e62",
-      "topic": "气候",
-      "score": 71,
-      "id": "918133fd068b"
-    },
-    {
-      "title": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
-      "summary": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentary The BBC is trying to subpoena Donald Trump’s children as it builds its defense against the president’s defamation lawsuit centered on a documentary on the January 6 insurrection. In a motion filed on Friday, the BBC sought authorization to s",
-      "url": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-14T21:05:47.000Z",
-      "image": "https://i.guim.co.uk/img/media/c519726d2d851d677c5334018aad733b64b7db60/1132_104_3152_2521/master/3152.jpg?width=140&quality=85&auto=format&fit=max&s=4b43cc592cbf0420e7e7cee8db94689f",
-      "topic": "政治",
-      "score": 71,
-      "id": "fbaf919be2ce"
-    },
-    {
-      "title": "Singapore takes trade compliance seriously, will take firm action against businesses that break laws: MTI",
-      "summary": "Singapore takes trade compliance seriously, will take firm action against businesses that break laws: MTI &nbsp;&nbsp; CNA",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYkRHaElteF9LeHpqcFFKRldiVVpDVXVrQjA0Vk5YMmxnZ1M3dFAycUpUSWY0WEFXVnN0bXJtcDVTdDR4a0c2OXpGb0Z2LW15c1RzVndCN3dmekdCb0FJWnE4VXBIR1dEOV9TbkZXX2FrTFN4TkJFUHQ2elRMMDBHTUYzVFhzdnpTUTVCdGdoV3k?oc=5",
-      "source": "CNA",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T03:08:44.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 70,
-      "id": "a16e40c5a3d6"
-    },
-    {
-      "title": "Families angered by slow search for loved ones after Colombia quake",
-      "summary": "Families are demanding answers over loved ones buried under rubble in Cali, Colombia after Monday’s 7.4 magnitude quake.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-15T00:14:47.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "876598b7c5a8"
-    },
-    {
-      "title": "Tata, Reliance, Bharat Forge, Mahindra: How Indian defence firms are breaking into Europe",
-      "summary": "Tata, Reliance, Bharat Forge, Mahindra: How Indian defence firms are breaking into Europe &nbsp;&nbsp; financialexpress.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPanAwWmdkWUZIWE1iNEwtcWlsOXBURWw0S1l4Z3lxakhTWjExaUR1Qk5GbWRvbEZOMThxaFBpb1M1VkZhM2x4ZHA0NXV1dXZ6RDJ3RVNPNlhhZk0wVXdZXzMtVDBrUEVyRWlMRktSY3Nkblg4STNRNVpOQXNBcDRWM2Q4Um5QYzBlcGFOOG1tWFl4eWV6SFBfLUZrUGkwRFFNQXZQRllCTlhUT0k5WnhMYmdyQlJXN1R2eTQ4NjVQdDhaY3NFdkMtWWdnbUlJOGlHOGZvdkN1SDNXMDYy0gHjAUFVX3lxTE9xcGZKRlFoQWZfa1FZTVI4aDN5Zk5QUEVSRHJBeURiNVlZTjByQUczTFpJOTJHVGNRWl8zV1RmTWR6UEg3MXVxSkg4TUlzQ1M0cDl0X19vbGZRV3hLWVBzX0Y0ak9UNVV1cU16OWhNT1FwWnBmU1lsakFuM05NOHlOR0tOWHc4QzlNMzdYc3RUc05OTWs1RkF6aUZMS1ppYkwtRWRUS2pIdnZJZnkwZFhpTFFVYUpJVjF6Y18yTzJ3TUVfSlktWlZGUHNaSkRMZmFiXzRQYU9hNFE4RElxTk11RlJn?oc=5",
-      "source": "financialexpress.com",
-      "feed": "Europe News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-14T23:46:31.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "c123fae10ea0"
-    },
-    {
-      "title": "Nu Holdings (NU) Is Up 10.0% After Record Profit, AI Push And $1 Billion Buyback - What's Changed",
-      "summary": "Nu Holdings (NU) Is Up 10.0% After Record Profit, AI Push And $1 Billion Buyback - What's Changed &nbsp;&nbsp; simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR0RwMjBYc25sR2dZbWZaR0RlVERZZHJmajNtYTlIQVMxZTFFQUZHdjNzb2hTQ2NCNVBHaE1WbjNLVnhzb0NnVmc4QU1nb0FsQTNUNXl0TVRycEpxakUzM29xcHkwWnNxY3RaZnZOWE1uNTFKTWZjbUcxSU95eXNYYU15dUdhVkU2V2Q0UXJwNVZHQWpZX3RBcnU5Q2NiVnJWOWxGRC1IUDR0ME1BY3RTdnNRSnRiYkJPbVFXWk0yWm5NOEtlcFHSAcYBQVVfeXFMTUdEcDIwWHNubEdnWW1mWkdEZVREWWRyZmozbWE5SEFTMWUxRUFGR3Yzc29oU0NjQjVQR2hNVm4zS1Z4c29DZ1ZnOEFNZ29BbEEzVDV5dE1UcnBKcWpFMzNvcXB5MFpzcWN0WmZ2TlhNbjUxSk1mY21HMUlPeXlzWGFNeXVHYVZFNldkNFFycDVWR0FqWV90QXJ1OUNjYlZyVjlsRkQtSFA0dDBNQWN0U3ZzUUp0YmJCT21RV1pNMlpuTThLZXBR?oc=5",
-      "source": "simplywall.st",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-14T23:45:51.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 70,
-      "id": "9e7763cb83ce"
-    },
-    {
-      "title": "Potential disaster between two passenger jets averted in the US",
-      "summary": "A potential mid-air collision was averted in the US after a Phoenix air traffic controller recognised that two American Airlines planes were mistakenly flying under the same number, and acted quickly to keep them apart.",
-      "url": "https://news.sky.com/story/potential-disaster-averted-after-jets-share-identical-flight-number-13573194",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "美洲",
-      "publishedAt": "2026-08-14T23:43:00.000Z",
-      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-american-airlines-planes_7322108.jpg?20260815005134",
-      "topic": "社会",
-      "score": 70,
-      "id": "057c9af729cb"
-    },
-    {
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-      "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-14T17:36:27.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f214/live/46acc190-97f3-11f1-8170-33f7e8571fbe.jpg",
-      "topic": "社会",
-      "score": 70,
-      "id": "b99353f85ca3"
+      "id": "81c534de48c5"
     }
   ]
 }
