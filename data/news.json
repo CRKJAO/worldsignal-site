@@ -1,24 +1,11 @@
 {
-  "updatedAt": "2026-08-15T14:42:22.387Z",
+  "updatedAt": "2026-08-15T15:38:13.321Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
-    {
-      "title": "Powerful earthquake kills dozens in eastern Indonesia",
-      "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 40 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Authorities issued a tsunami warning, which has since been",
-      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T14:03:09.000Z",
-      "image": "https://i.guim.co.uk/img/media/80101e7c2032931fe50acd0e603b5a3ec3c75bc1/386_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8e186c85e7f3c4228eab36d269321262",
-      "topic": "政治",
-      "score": 92,
-      "id": "ce6de301ed8b"
-    },
     {
       "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
       "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the ou",
@@ -29,34 +16,34 @@
       "publishedAt": "2026-08-15T13:55:28.000Z",
       "image": "https://i.guim.co.uk/img/media/7c89de51a1cb60ff5893f2358eef87af6a328c6a/103_0_4103_3283/master/4103.jpg?width=140&quality=85&auto=format&fit=max&s=d0764aaa2e0846825cd181668b8f0f09",
       "topic": "政治",
-      "score": 92,
+      "score": 91,
       "id": "99486ccfa732"
     },
     {
+      "title": "Powerful earthquake kills dozens in eastern Indonesia",
+      "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to th",
+      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T15:16:17.000Z",
+      "image": "https://i.guim.co.uk/img/media/c1dfcbb24723c11ca26889b87c4ab19df23653f6/93_0_1333_1067/master/1333.jpg?width=140&quality=85&auto=format&fit=max&s=133eb0e7f0aac7111f6bc94d886b87ab",
+      "topic": "气候",
+      "score": 88,
+      "id": "ce6de301ed8b"
+    },
+    {
       "title": "Vessel is attacked in Hormuz, Israeli strike kills 9 in Lebanon, and other news from the Middle East",
-      "summary": "Vessel is attacked in Hormuz, Israeli strike kills 9 in Lebanon, and other news from the Middle East &nbsp;&nbsp; newsday.com",
+      "summary": "Vessel is attacked in Hormuz, Israeli strike kills 9 in Lebanon, and other news from the Middle East &nbsp;&nbsp; Newsday",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2RSeG1JcUhEc2VEVHU2T0QwQTdOMF80U3lVc3FfTGx5LUZObkhzaThHY2dvY0VDY01HSVJXWkptWE1ncjh5VzhBNnpVazg3VjJ2YXJkWnBXVDVvRU1PM21TWlVGajBRLVpNdUpUMGVfU3N4Wl9VcUNYVm5KTTVtUl9pT2RueGo5OENmTXF1UTZTNjFqWEE?oc=5",
-      "source": "newsday.com",
+      "source": "Newsday",
       "feed": "Middle East News Network",
       "region": "中东",
       "publishedAt": "2026-08-15T11:18:53.000Z",
       "image": "",
       "topic": "社会",
-      "score": 88,
-      "id": "02f3dfc14806"
-    },
-    {
-      "title": "Israeli strikes kill 11 in southern Lebanon as attacks intensify",
-      "summary": "Hezbollah has warned that Israel’s attacks would be met with an 'appropriate response'.",
-      "url": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-15T07:18:13.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 88,
-      "id": "08e937db5cd8"
+      "score": 87,
+      "id": "a5bc2b013e15"
     },
     {
       "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
@@ -68,7 +55,7 @@
       "publishedAt": "2026-08-15T13:38:53.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
       "topic": "政治",
-      "score": 87,
+      "score": 86,
       "id": "b33fc71836d5"
     },
     {
@@ -81,21 +68,34 @@
       "publishedAt": "2026-08-15T13:35:57.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
       "topic": "气候",
-      "score": 87,
+      "score": 86,
       "id": "c667737277a3"
     },
     {
-      "title": "South Korea proposes talks to officially end war with North",
-      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
-      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli strikes kill 11 in southern Lebanon as attacks intensify",
+      "summary": "Hezbollah has warned that Israel’s attacks would be met with an 'appropriate response'.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-15T07:18:13.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 86,
+      "id": "08e937db5cd8"
+    },
+    {
+      "title": "Five injured, one critically, in shooting at Virginia State University",
+      "summary": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "feed": "BBC World",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T14:40:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b1/live/1f13a3e0-9881-11f1-a7ab-8b30adf0800a.jpg",
-      "topic": "政治",
-      "score": 84,
-      "id": "a7703589b77b"
+      "region": "全球",
+      "publishedAt": "2026-08-15T15:09:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
+      "topic": "社会",
+      "score": 83,
+      "id": "e6807832b6eb"
     },
     {
       "title": "Naidoc awards honour ‘fearless, brilliant’ promoter of First Nations culture Rhoda Roberts",
@@ -107,7 +107,7 @@
       "publishedAt": "2026-08-15T14:01:01.000Z",
       "image": "https://i.guim.co.uk/img/media/d7e6c4fa73cac865d990bd48e8d7788c9aa50159/516_0_3211_2571/master/3211.jpg?width=140&quality=85&auto=format&fit=max&s=7680ae30a2dd8a03426f52d15f0e5809",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "751df83433a0"
     },
     {
@@ -120,8 +120,34 @@
       "publishedAt": "2026-08-15T10:59:32.000Z",
       "image": "",
       "topic": "社会",
-      "score": 83,
+      "score": 82,
       "id": "f96ca13c0244"
+    },
+    {
+      "title": "Multiple people injured in shooting at Virginia State University",
+      "summary": "School said shooting involved ‘multiple suspects’ as campus was locked down and police responded to scene Multiple people were injured in a shooting at Virginia State University, police said on Saturday morning, with several suspects still at large. The campus, about 20 miles (32km) south of Richmond, was on lockdown when police released initial details abou",
+      "url": "https://www.theguardian.com/us-news/2026/aug/15/multiple-people-injured-virginia-state-university-shooting",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-15T13:20:41.000Z",
+      "image": "https://i.guim.co.uk/img/media/d0d7aff008975e3f89ea9148c2795375dc835eaa/346_0_2088_1671/master/2088.jpg?width=140&quality=85&auto=format&fit=max&s=981508f63454d0eb8630c7e220742f76",
+      "topic": "社会",
+      "score": 81,
+      "id": "32ad4277eb35"
+    },
+    {
+      "title": "Five wounded in shooting at Virginia State University, multiple suspects",
+      "summary": "Police found the gunshot victims near the US university's halls of residence.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-15T12:57:08.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 81,
+      "id": "a9fc4b004af2"
     },
     {
       "title": "NSW launches gun buyback scheme in wake of Bondi terror attack",
@@ -133,8 +159,73 @@
       "publishedAt": "2026-08-15T12:34:49.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/de1928a49f78d2c2cc4851f9833df56e?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485",
       "topic": "科技",
-      "score": 82,
+      "score": 81,
       "id": "004a15774960"
+    },
+    {
+      "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
+      "summary": "A decade ago, student leaders were jailed for shouting 'Azadi', which means freedom.",
+      "url": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T15:25:51.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 80,
+      "id": "6f9cdfee6374"
+    },
+    {
+      "title": "Alaska candidate for US Senate seat rejects Kamala Harris’s unsolicited support",
+      "summary": "Former VP sent fundraising appeal for Democrat Mary Peltola’s campaign – with half of donations going to Harris’s organization Alaska US Senate candidate Mary Peltola has rejected the support of Kamala Harris , her fellow Democrat, after the 2024 presidential candidate sent out a seemingly unsolicited fundraising appeal on Peltola’s behalf. Harris, who lost ",
+      "url": "https://www.theguardian.com/us-news/2026/aug/15/alaska-mary-peltola-rejects-kamala-harris-unsolicited-support",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-15T15:07:54.000Z",
+      "image": "https://i.guim.co.uk/img/media/46541bd5527a1eae60f3570b67456fe7118c170c/85_0_3047_2438/master/3047.jpg?width=140&quality=85&auto=format&fit=max&s=6bc1980f4a4b1e8bfe3f9764389d3a9b",
+      "topic": "政治",
+      "score": 80,
+      "id": "dee892ba942d"
+    },
+    {
+      "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
+      "summary": "Live Updates: Latest from Israel, Iran, and the Middle East &nbsp;&nbsp; The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BcGhhXzczcHI1MURtZzRVU1dXSVYwUlprMjd1VVo5T2xzLTNzeVh2THB0dkxCTTd5c3ZVcGxFdzFnR3RJbWlOdngtdnJZTFhVb25Sbi02aEM2VHEtNTZhVDBXdnNFS3RfNUwxaU1lNVFTRFdRWU1yYXBCa1JOcGM?oc=5",
+      "source": "The Jerusalem Post",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-15T15:00:05.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "6f521ec72b20"
+    },
+    {
+      "title": "South Korea proposes talks to officially end war with North",
+      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
+      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T14:40:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b1/live/1f13a3e0-9881-11f1-a7ab-8b30adf0800a.jpg",
+      "topic": "政治",
+      "score": 79,
+      "id": "a7703589b77b"
+    },
+    {
+      "title": "The next Yemen war might be different",
+      "summary": "Drones are no longer the advantage for only one side.",
+      "url": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-15T14:32:07.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "75eee89e3b9b"
     },
     {
       "title": "Pentagon replaces USS Abraham Lincoln in Middle East following historic deployment",
@@ -146,7 +237,7 @@
       "publishedAt": "2026-08-15T11:40:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 81,
+      "score": 79,
       "id": "f2dc46e120eb"
     },
     {
@@ -159,21 +250,8 @@
       "publishedAt": "2026-08-15T11:19:56.000Z",
       "image": "",
       "topic": "气候",
-      "score": 81,
+      "score": 79,
       "id": "254c380ffc3d"
-    },
-    {
-      "title": "The next Yemen war might be different",
-      "summary": "Drones are no longer the advantage for only one side.",
-      "url": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-15T14:32:07.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 80,
-      "id": "75eee89e3b9b"
     },
     {
       "title": "Teenager pleas guilty to attacking California sea lion in viral video",
@@ -185,7 +263,7 @@
       "publishedAt": "2026-08-15T13:54:58.000Z",
       "image": "https://i.guim.co.uk/img/media/bb97b3571b1b15a4d0b6e41c4edc30dadd3ba9fb/0_0_6138_4912/master/6138.jpg?width=140&quality=85&auto=format&fit=max&s=1da409aec11d364958934b71098170b3",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "fbe89efaa937"
     },
     {
@@ -198,34 +276,8 @@
       "publishedAt": "2026-08-15T10:18:40.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
-      "id": "a3376368a601"
-    },
-    {
-      "title": "South Korea’s president wants talks with North to end Korean War",
-      "summary": "South Korean President Lee Jae Myung has proposed talks with North Korea to formally end the Korean War.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T06:53:28.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 79,
-      "id": "1454a5dd6ef3"
-    },
-    {
-      "title": "Multiple people injured in shooting at Virginia State University",
-      "summary": "School said shooting involved ‘multiple suspects’ as campus was locked down and police responded to scene Multiple people were injured in a shooting at Virginia State University, police said on Saturday morning, with several suspects still at large. The campus, about 20 miles (32km) south of Richmond, was on lockdown when police released initial details abou",
-      "url": "https://www.theguardian.com/us-news/2026/aug/15/multiple-people-injured-virginia-state-university-shooting",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-15T13:20:41.000Z",
-      "image": "https://i.guim.co.uk/img/media/d0d7aff008975e3f89ea9148c2795375dc835eaa/346_0_2088_1671/master/2088.jpg?width=140&quality=85&auto=format&fit=max&s=981508f63454d0eb8630c7e220742f76",
-      "topic": "社会",
       "score": 78,
-      "id": "32ad4277eb35"
+      "id": "a3376368a601"
     },
     {
       "title": "Afghans mark five years of Taliban rule",
@@ -237,21 +289,8 @@
       "publishedAt": "2026-08-15T13:12:51.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "4fdc1b6898b3"
-    },
-    {
-      "title": "Five wounded in shooting at Virginia State University, multiple suspects",
-      "summary": "Police found the gunshot victims near the university's residence halls.",
-      "url": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-15T12:57:08.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 78,
-      "id": "a9fc4b004af2"
     },
     {
       "title": "Creative visionary, respected leaders win at National NAIDOC Week Awards",
@@ -263,8 +302,21 @@
       "publishedAt": "2026-08-15T12:44:01.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/917170a0898010eaaa4ad170dac213c1?impolicy=wcms_crop_resize&cropH=1045&cropW=1857&xPos=32&yPos=35&width=862&height=485",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "dc27de708e2b"
+    },
+    {
+      "title": "How blind football is helping women overcome barriers in Mexico",
+      "summary": "Mexico is sending its first blind women's football team to compete in an international tournament. Players cannot wait.",
+      "url": "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-15T15:15:45.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "18133fb47041"
     },
     {
       "title": "Europe wildfires: Latest developments",
@@ -276,7 +328,7 @@
       "publishedAt": "2026-08-15T12:29:12.000Z",
       "image": "",
       "topic": "气候",
-      "score": 77,
+      "score": 76,
       "id": "e607273f0809"
     },
     {
@@ -289,7 +341,7 @@
       "publishedAt": "2026-08-15T08:50:56.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "258913b85c4e"
     },
     {
@@ -302,7 +354,7 @@
       "publishedAt": "2026-08-15T08:44:36.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "9857a206c9df"
     },
     {
@@ -315,21 +367,8 @@
       "publishedAt": "2026-08-15T08:37:27.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/f51b7b09054f2f5a9f51cebb23d0f274?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=24&width=862&height=485",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "bbdff2742341"
-    },
-    {
-      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
-      "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 38 people, collapsing buildings as well as causing panic in a region prone to deadly quakes.",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T08:29:20.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 77,
-      "id": "f6fa3238f4f6"
     },
     {
       "title": "Israeli strike in south of Lebanon kills 7",
@@ -341,8 +380,60 @@
       "publishedAt": "2026-08-15T05:51:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "e95e244cf0dd"
+    },
+    {
+      "title": "Heathrow airport roads reopen after flooding from burst water main",
+      "summary": "Heathrow says airport operating as normal after passengers told not to travel by road and use rail and tube instead Disruptions caused by flooding from a burst water main on a ring road at Heathrow airport restricted access to Terminals 2 and 3 on Saturday morning. The leak has been contained and the affected areas are operating as normal. Water in the centr",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/15/heathrow-passengers-face-disruption-after-flood-restricts-access",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-15T14:58:52.000Z",
+      "image": "https://i.guim.co.uk/img/media/f06f600992d24b2f5089b7bb32276006e839a537/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=26232c5a0c1cc785f205481878ba4d83",
+      "topic": "气候",
+      "score": 75,
+      "id": "1283db71cc17"
+    },
+    {
+      "title": "Thirty years after Tupac Shakur’s killing can a murder trial offer justice?",
+      "summary": "Duane ‘Keffe D’ Davis faces trial on Monday over rap star’s death that marked notorious chapter in hip-hop’s history In September 1996, rap star Tupac Shakur was gunned down in a drive-by shooting near the Las Vegas strip, succumbing days later to his injuries. His killing, which remained unsolved for decades, gave rise to fervent conspiracy theories and con",
+      "url": "https://www.theguardian.com/music/2026/aug/15/tupac-shakur-duane-davis-murder-trial",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-15T14:40:47.000Z",
+      "image": "https://i.guim.co.uk/img/media/b602afdcbea6bcd512d47d08f7e8f2e1dae5e556/196_0_2607_2086/master/2607.jpg?width=140&quality=85&auto=format&fit=max&s=02f85490908c6a08ec7f51f638bc973d",
+      "topic": "社会",
+      "score": 75,
+      "id": "791d74c704f7"
+    },
+    {
+      "title": "Kate O’Connor in heptathlon gold medal contention at European Championships",
+      "summary": "Kate O’Connor in heptathlon gold medal contention at European Championships &nbsp;&nbsp; BreakingNews.ie",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEJ2N19Kb2JBdFFNUzNxdlZKQzlGSWFPcU1WdTg1VjlmdkY5MzFsbld2YlNLdnBuU2FSSGZ0Tm1GMlBsZWJzZF9ITGlEaWZzMXBwX2lVd2lkYzVwS1YtZFM4bllnVl9Dd3EtczY0dmRBelI3VW9fckE3MUdUa25LcDFJWldObGJGSFowSkNhbHQtSGZBajVCMEgzbU5TcWhVclAybVVnSzBQSk9MZEt5VkczUGZUQ0ZidXRuU2h3?oc=5",
+      "source": "BreakingNews.ie",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-15T14:37:47.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "eabb58aa145c"
+    },
+    {
+      "title": "Safety check calls after Irish teenager electrocuted taking shower in Greece",
+      "summary": "Alex McKee died when picking up showerhead in ‘outdoor and rudimentary’ bathroom on Kimolos The death of an Irish teenager, electrocuted while taking a shower in a holiday home in Greece, has led to calls for tighter checks on appliances at tourist accommodation. Alex McKee, 17, is said to have died instantly when picking up the showerhead in a bathroom desc",
+      "url": "https://www.theguardian.com/world/2026/aug/15/irish-teenager-electrocuted-shower-greece",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-15T14:26:46.000Z",
+      "image": "https://i.guim.co.uk/img/media/4d1af1c7d6888db7ac35c6fcf0d90b70dd7a96f5/1159_0_4156_3328/master/4156.jpg?width=140&quality=85&auto=format&fit=max&s=42f651323c052d5dd01c60222e3f32f3",
+      "topic": "社会",
+      "score": 75,
+      "id": "e93f4336d201"
     },
     {
       "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
@@ -354,7 +445,7 @@
       "publishedAt": "2026-08-15T11:30:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "1f5394b0969d"
     },
     {
@@ -367,8 +458,21 @@
       "publishedAt": "2026-08-15T11:09:27.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "7f2aa84d5283"
+    },
+    {
+      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
+      "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 38 people, collapsing buildings as well as causing panic in a region prone to deadly quakes.",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T08:29:20.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 75,
+      "id": "f6fa3238f4f6"
     },
     {
       "title": "7 Martyrs in Israeli Airstrike on Southern Lebanon...",
@@ -380,7 +484,7 @@
       "publishedAt": "2026-08-15T08:02:25.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "9f9eaa94bf25"
     },
     {
@@ -393,7 +497,7 @@
       "publishedAt": "2026-08-15T13:41:09.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6316/live/fb096c00-988f-11f1-870d-5d08c49babb2.jpg",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "d0643e97f2c2"
     },
     {
@@ -406,21 +510,8 @@
       "publishedAt": "2026-08-15T13:41:08.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d93/live/aed19be0-98ae-11f1-9a0b-ef36d15fc6b3.jpg",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "f906c34c9e87"
-    },
-    {
-      "title": "New Israeli strike lifts Lebanon death toll to 11 - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "New Israeli strike lifts Lebanon death toll to 11 - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; shafaq.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObGJub3VuLThNaEhCNnUwblFTc2FIcEYxSGJqTjZVQkhKUl9sWHdqSWlIQ0E1TmVJQW9lZjNTdTYwbXdxM3BaNUIyYWNDQVdJN1pDelV6dm04cXNBZ0pSclZIV1NYb0RZUXU5WGRVd2NTRnFad0wwRmFwUFBpN3FkMFNkLWt4a1cydVNV?oc=5",
-      "source": "shafaq.com",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-15T10:27:58.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "1b18c58546f5"
     },
     {
       "title": "Israeli airstrikes in Lebanon kill 11 people including three children, health ministry says",
@@ -432,7 +523,7 @@
       "publishedAt": "2026-08-15T10:19:00.000Z",
       "image": "https://e3.365dm.com/26/08/1920x1080/skynews-israel-lebanon_7322221.jpg?20260815113537",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "67da7a3434b3"
     },
     {
@@ -445,7 +536,7 @@
       "publishedAt": "2026-08-15T07:08:00.000Z",
       "image": "https://e3.365dm.com/26/08/1920x1080/skynews-ivanka-trump-donald-trump-jr_7322133.jpg?20260815081436",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "c1d5bfa312ea"
     },
     {
@@ -458,7 +549,7 @@
       "publishedAt": "2026-08-15T07:01:50.000Z",
       "image": "https://i.guim.co.uk/img/media/2b5832accfcf1f7808036fb3760525e8953c3fef/196_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=42bc3964f9eb99b2c540027444c831d8",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "e36633d9f16c"
     },
     {
@@ -471,7 +562,7 @@
       "publishedAt": "2026-08-15T13:11:31.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "8409b832e355"
     },
     {
@@ -484,7 +575,7 @@
       "publishedAt": "2026-08-15T13:01:31.000Z",
       "image": "",
       "topic": "经济",
-      "score": 74,
+      "score": 73,
       "id": "71b4b50663c8"
     },
     {
@@ -497,47 +588,34 @@
       "publishedAt": "2026-08-15T13:00:57.000Z",
       "image": "https://i.guim.co.uk/img/media/2da7dc2388978d351bff06f935f5a7f1de780da4/48_0_2009_1608/master/2009.jpg?width=140&quality=85&auto=format&fit=max&s=464e9a35538588a719bef7c584f49221",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "ba4a0892f48a"
     },
     {
-      "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran",
-      "summary": "US pulls last aircraft carrier in Asia as Trump focuses on Iran &nbsp;&nbsp; Chelmsford Weekly News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObzQ0UmVVT0xqLUt5eVVuU2lyUzc1ZGhxUzAzaUlPanM4U2liakJYaWdtdDhwbjJ6LURjMkp0eUZSVURYd0dfYWF1WGh4dmJLZV9zTGVlTEtMRkhfdTFpR2FmZXNHNEY1RXpZZkFqcGNDMENkdzFNLTNIZG56MnBVZ3BGbmhDdi1BV091eDFacXl4Mkp3SWR5VFR6OW1JSVMwelVYdHRqM0M5VEdaRTFjOGljd0YtclU?oc=5",
-      "source": "Chelmsford Weekly News",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T12:52:11.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "d42075166cdb"
-    },
-    {
-      "title": "Five years on, how will Taliban deal with armed opposition?",
-      "summary": "The United Nations says armed groups opposed to the government remain active.",
-      "url": "https://www.aljazeera.com/news/2026/8/15/five-years-on-how-will-taliban-deal-with-armed-opposition?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-15T12:44:30.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "a1ddbf53a7fb"
-    },
-    {
       "title": "Iran calls for release of pilots captured in Qatar during West Asia war | World News",
-      "summary": "Iran calls for release of pilots captured in Qatar during West Asia war | World News &nbsp;&nbsp; Hindustan Times",
+      "summary": "Iran calls for release of pilots captured in Qatar during West Asia war | World News &nbsp;&nbsp; hindustantimes.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYXFGT2dGM2VmMHFnM3kzd21BNlB4UlZJQW1Dd2R6Z0xuV0QwUVRFcFlwQnF1MmtQcUs3Q0tSTlVORU9XNFpCQnJ6eFpqRVJSVHZKenJ2Zi1Ba3liZ1c3QXJLTzRBZmVvNFNaSXdETWhnMkpmQlB4eU5XdnZMcE1lMWRSSEcwVGFtbGRpWncwVk5fWXRYWkpYWTVRUlktck1UZW5LMU8yaTFDWkVBcmZYOEZMeFhrZ1VCYVBDQVppMEFROTdyYmpNX3JkZ0RKQTlidUY5NNIB1AFBVV95cUxNYXFGT2dGM2VmMHFnM3kzd21BNlB4UlZJQW1Dd2R6Z0xuV0QwUVRFcFlwQnF1MmtQcUs3Q0tSTlVORU9XNFpCQnJ6eFpqRVJSVHZKenJ2Zi1Ba3liZ1c3QXJLTzRBZmVvNFNaSXdETWhnMkpmQlB4eU5XdnZMcE1lMWRSSEcwVGFtbGRpWncwVk5fWXRYWkpYWTVRUlktck1UZW5LMU8yaTFDWkVBcmZYOEZMeFhrZ1VCYVBDQVppMEFROTdyYmpNX3JkZ0RKQTlidUY5NA?oc=5",
-      "source": "Hindustan Times",
+      "source": "hindustantimes.com",
       "feed": "Middle East News Network",
       "region": "中东",
       "publishedAt": "2026-08-15T12:41:35.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
-      "id": "80e63952cd4d"
+      "score": 73,
+      "id": "ed1149620aa6"
+    },
+    {
+      "title": "Zambia Suspends Vote Counting After Election Violence and Ballot Theft Reports",
+      "summary": "Zambia Suspends Vote Counting After Election Violence and Ballot Theft Reports &nbsp;&nbsp; The Voice of Africa",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGlpQzhIVnZiOGhkY21YREI2WmpaMXpjeElULTdTRUxjWmpTZGV4cG5fNnJHWkQ1aUxEVkY2TEVCRXZ6b0JLWkdVLTBVTjRSaXMxcEdEM3pnS2hBRWMwUFVteGdqTTh0c194Wndoa19xNm5lUmQyUWRrNHZETlE3WXU2WTdHOFo3Q3VJenZCdGhmN253cU1PRC1aOTVteHBlaG9lMmdOVy1WYUFDSW81UE5STElvYkhaUFlR?oc=5",
+      "source": "The Voice of Africa",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-15T12:38:09.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 73,
+      "id": "e3245de67795"
     },
     {
       "title": "First H5N1 bird flu death recorded in Phillip Island penguins",
@@ -549,47 +627,47 @@
       "publishedAt": "2026-08-15T06:20:41.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/76f338210f4fd3f0241268572454bd6d?impolicy=wcms_crop_resize&cropH=1463&cropW=2600&xPos=0&yPos=195&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "9a7ce63ad6e5"
     },
     {
-      "title": "Safety check calls after Irish teenager electrocuted taking shower in Greece",
-      "summary": "Alex McKee died when picking up showerhead in ‘outdoor and rudimentary’ bathroom on Kimolos The death of an Irish teenager, electrocuted while taking a shower in a holiday home in Greece, has led to calls for tighter checks on appliances at tourist accommodation. Alex McKee, 17, is said to have died instantly when picking up the showerhead in a bathroom desc",
-      "url": "https://www.theguardian.com/world/2026/aug/15/irish-teenager-electrocuted-shower-greece",
-      "source": "The Guardian",
-      "feed": "The Guardian",
+      "title": "Five years on, how will Taliban deal with armed opposition?",
+      "summary": "The United Nations says armed groups opposed to the government remain active.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/five-years-on-how-will-taliban-deal-with-armed-opposition?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
       "region": "全球",
-      "publishedAt": "2026-08-15T12:34:02.000Z",
-      "image": "https://i.guim.co.uk/img/media/4d1af1c7d6888db7ac35c6fcf0d90b70dd7a96f5/1159_0_4156_3328/master/4156.jpg?width=140&quality=85&auto=format&fit=max&s=42f651323c052d5dd01c60222e3f32f3",
-      "topic": "社会",
-      "score": 73,
-      "id": "e93f4336d201"
+      "publishedAt": "2026-08-15T12:44:30.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 72,
+      "id": "a1ddbf53a7fb"
     },
     {
-      "title": "Tributes paid to Jason Arday after former Cambridge professor’s death",
-      "summary": "Andy Burnham calls for reflection after ‘a tragedy on so many levels’ in comments echoed by London mayor Sadiq Khan Andy Burnham has called the death of Jason Arday, who was found dead at his home in south London on Friday, a “tragedy on so many levels”. Arday resigned as a professor at the University of Cambridge last week after allegations of plagiarism, w",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/15/jason-arday-tributes-paid-to-former-cambridge-professor",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-15T12:22:48.000Z",
-      "image": "https://i.guim.co.uk/img/media/f8a5d23b1944ec0671251ae4ffe25bbbdabeb1d7/717_319_6481_5185/master/6481.jpg?width=140&quality=85&auto=format&fit=max&s=a3a0eb7106a85ef9f85b909dc72b1e67",
+      "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
+      "summary": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere &nbsp;&nbsp; New Castle News",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOU0xVaEFmUFNuOVE0aFplVlpsN2RzVjRpUzdybzJ1MEM5M0N1Y3FON3ViNjhYZGVoU3FHTTdhM2dkVk1maVdmUV9TNkctRE45d1h1M3pjRG9EcW5VOWpZd3Z0Mk9yTnNoQnVncC1OWk5SN3FkZVM1YzFpbnFyS2c0NFgxaW5fSVIwTVVSNlEyS3VIa2xxRlh0Qkx0VWp3cFFyUUtoOEg5WTlpeGl3UGVHQlRQMk9CS1FldkpvVGc1ZWlWNUdxdnA2bVBjSERheFRpQ0dEU3JmVU5za1B3WURpLVNNNFBsTVdoRFRrX196UVNBRlJRbGpWNWhLaU5ld1ZpR0E?oc=5",
+      "source": "New Castle News",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T12:37:01.000Z",
+      "image": "",
       "topic": "社会",
-      "score": 73,
-      "id": "ebcb28d9a5fd"
+      "score": 72,
+      "id": "fa5408e10343"
     },
     {
-      "title": "Met apologises for exposing 143 email addresses of Mohamed Al Fayed victims",
-      "summary": "London police force tells Telegraph incident was result of ‘human error’ and it is conducting an investigation The Metropolitan police have apologised for accidentally exposing the email addresses of more than 140 victims of Mohamed Al Fayed. In a group update about its investigation into the former Harrods owner, the force copied the email addresses of 143 ",
-      "url": "https://www.theguardian.com/world/2026/aug/15/met-police-apologises-exposing-email-addresses-mohamed-al-fayed-victims",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-15T12:22:47.000Z",
-      "image": "https://i.guim.co.uk/img/media/527748c927dbdb9a4ab079cc69ae9fd58dff3f05/229_98_3364_2690/master/3364.jpg?width=140&quality=85&auto=format&fit=max&s=f82f91abb857e1f5563e303d3b962691",
+      "title": "Europe's tallest statue of the Virgin Mary is inaugurated in a small Polish village - ABC News",
+      "summary": "Europe's tallest statue of the Virgin Mary is inaugurated in a small Polish village &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmxYQWZaRkQ1cUI0TW1UckQ4U2Fid2xaZ1pFMm9TZXMyZ1R5R1QtUHpPMEpjSW5NOVVrc2pseG9qVEtSb1hGUFhsakRyempQVEV4R1Y1elc0bjcwQzVYNjdkdXhvdmJORDBqTDlLeXhmZzVQcFkwUmtENXlWdWhHM0VnWUZtUXAtZGlkTUV3V0NEdGkxS3EwZTAwdGd1Rzh4VzQ5U2xJX2NyVTFGVjIxSmREVdIBuAFBVV95cUxOWDMyN01pd3gzQ1Bwbld1aWtuY1lQVndKcl9rampkRVE2alN3MWhMYkdoeHZsZlJkVUlKNkluVFlpNUt3RFowVHB3alRqRk9ER3oxUUpJX0NOcE12T1BwNkh1RnBwcU9CeWJyaUM2eDVBOHd0b2thMnl4ZUhvUTRabk9hM2xydmg5VGJaeGVhLVdfVVJTVm9qTDU0RkVISVN0a01GRkpuWG50QnZtYzNkNDBKVzYycGxO?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-15T12:18:22.000Z",
+      "image": "",
       "topic": "社会",
-      "score": 73,
-      "id": "4f38d036998c"
+      "score": 72,
+      "id": "0bd92f645b7b"
     },
     {
       "title": "Afghan refugees face an uncertain future as Europe shifts to the right",
@@ -601,73 +679,21 @@
       "publishedAt": "2026-08-15T12:14:30.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "0a01f7c75bc5"
     },
     {
-      "title": "How to buy a ‘mega-dinghy’: the perilous new model of Channel crossing",
-      "summary": "Boats carrying hundreds of people are a clear and alarming trend. But where do such large vessels come from? Providing a large dinghy for use in the choppy seas of western Europe was not a problem, as long as the order was for more than 20 vessels, they said. The sales manager at the Chinese company even had an online brochure for an undercover Guardian repo",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/15/how-to-buy-a-mega-dinghy-the-perilous-new-model-of-channel-crossing",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-15T12:00:57.000Z",
-      "image": "https://i.guim.co.uk/img/media/3ae2e65bcc2e471243121bcf231752d33e887ed2/226_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=b95023c13a88f26122a62a7934baa515",
-      "topic": "社会",
-      "score": 73,
-      "id": "5ee383ddc7e2"
-    },
-    {
-      "title": "‘Cheap travel is not a defence’: the parents facing court for school absences in England",
-      "summary": "In one court in Kent, most cases relate to term-time holidays, but non-attendance is a complex issue and post-pandemic rates remain high As the long school summer break approached its mid-point recently, Margate beach was crowded with families enjoying the brief reprieve between the year’s fourth and fifth heatwaves. For most, thoughts of the classroom were ",
-      "url": "https://www.theguardian.com/education/2026/aug/15/inside-court-england-parents-face-fines-school-absence",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-15T12:00:57.000Z",
-      "image": "https://i.guim.co.uk/img/media/a5ea4cf555e55e0f48599699f7791d0d022122e7/221_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=6b2e00513dd60cc0af4a9d3eabc34edc",
-      "topic": "政治",
-      "score": 73,
-      "id": "fb496f35c788"
-    },
-    {
-      "title": "Kate O’Connor in heptathlon gold medal contention at European Championships",
-      "summary": "Kate O’Connor in heptathlon gold medal contention at European Championships &nbsp;&nbsp; BreakingNews.ie",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEJ2N19Kb2JBdFFNUzNxdlZKQzlGSWFPcU1WdTg1VjlmdkY5MzFsbld2YlNLdnBuU2FSSGZ0Tm1GMlBsZWJzZF9ITGlEaWZzMXBwX2lVd2lkYzVwS1YtZFM4bllnVl9Dd3EtczY0dmRBelI3VW9fckE3MUdUa25LcDFJWldObGJGSFowSkNhbHQtSGZBajVCMEgzbU5TcWhVclAybVVnSzBQSk9MZEt5VkczUGZUQ0ZidXRuU2h3?oc=5",
-      "source": "BreakingNews.ie",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-15T11:58:09.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "eabb58aa145c"
-    },
-    {
-      "title": "Europe’s tallest statue of the Virgin Mary inaugurated in small Polish village",
-      "summary": "Europe’s tallest statue of the Virgin Mary inaugurated in small Polish village &nbsp;&nbsp; BreakingNews.ie",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRmp0aTh3MlUwaERLWW9XM0dmN0tIRGh2azd2cF9TS29HRTV5UnJyelg0bFh1QmRIdndldmxETmxaSzdQb1prSDZoLVd6ZkhPQjZzSmpZb1ZQMkhJaDV6Smt2MmUyakZhWng2MkVXUGxlZ0IwV29BWmN5RlBNSVlkMDNHTFhEZUtMcTEwcWI3QzFLOEs4aG9hc2thNWNoRU1jaktOQkFxSFNXUmlJemIwZ18tTUxZQ1BuXzdBU3pHVEhydw?oc=5",
-      "source": "BreakingNews.ie",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-15T11:54:43.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "a0a6c785c06d"
-    },
-    {
       "title": "West Asia gold for Iraq U19 women in table tennis - Shafaq News | Latest breaking news in Iraq and the world",
-      "summary": "West Asia gold for Iraq U19 women in table tennis - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; shafaq.com",
+      "summary": "West Asia gold for Iraq U19 women in table tennis - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUlFXN1RsV1VFV1h0ZHExb05KMnF4SGotbVhIOGZhRFpGbWhOWndFa1hDY2dUUFdoZjNzRUZ0MUVoRHp1TFZROXc2a2xyeFhhZFJxUVZBYlF4VXd2cGtNNVhtdVlQdDF2VjV0Y2NYZ3U4aXljYkt2bmtmbjY3REFqUW52dw?oc=5",
-      "source": "shafaq.com",
+      "source": "شفق نيوز",
       "feed": "Asia News Network",
       "region": "亚洲",
       "publishedAt": "2026-08-15T11:52:12.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
-      "id": "94f5f901da16"
+      "score": 72,
+      "id": "8c54e5f75959"
     },
     {
       "title": "Post-Brexit rights for British citizens are being undermined in Sweden",
@@ -679,7 +705,7 @@
       "publishedAt": "2026-08-15T09:00:53.000Z",
       "image": "https://i.guim.co.uk/img/media/612984f221d83e223680a4d1ceb2ecc86e7faed6/866_491_3166_2533/master/3166.jpg?width=140&quality=85&auto=format&fit=max&s=c25ca7bdd169fd7cb692faf480f54d94",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "80fa3742c72e"
     },
     {
@@ -692,7 +718,7 @@
       "publishedAt": "2026-08-15T08:41:36.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/b8f99eeed262508bf7b9e3baeae8c2bb?impolicy=wcms_crop_resize&cropH=1956&cropW=3477&xPos=0&yPos=181&width=862&height=485",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "3f6d654a3ca0"
     },
     {
@@ -705,21 +731,21 @@
       "publishedAt": "2026-08-15T08:26:49.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "023ab788d002"
     },
     {
-      "title": "‘My heart breaks into a million pieces’: emotional tributes to Kumanjayi Little Baby at Alice Springs funeral",
-      "summary": "Hundreds gathered with flashes of pink to farewell the five-year-old girl, who was allegedly murdered in April Warning: This story contains references to Indigenous Australians who have died Get our breaking news email , free app or daily news podcast A sombre funeral service for Kumanjayi Little Baby has been attended by hundreds of people from the Alice Sp",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/15/emotional-tributes-kumanjayi-little-baby-alice-springs-funeral-ntwnfb",
+      "title": "How to buy a ‘mega-dinghy’: the perilous new model of Channel crossing",
+      "summary": "Boats carrying hundreds of people are a clear and alarming trend. But where do such large vessels come from? Providing a large dinghy for use in the choppy seas of western Europe was not a problem, as long as the order was for more than 20 vessels, they said. The sales manager at the Chinese company even had an online brochure for an undercover Guardian repo",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/15/how-to-buy-a-mega-dinghy-the-perilous-new-model-of-channel-crossing",
       "source": "The Guardian",
       "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-15T04:58:20.000Z",
-      "image": "https://i.guim.co.uk/img/media/372ea1b2ce13adbf835ee67de609738e088051dc/114_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=0029f4a25a4b30afd1c8b32efda99d6f",
-      "topic": "政治",
-      "score": 73,
-      "id": "a5d700b40aeb"
+      "region": "欧洲",
+      "publishedAt": "2026-08-15T12:00:57.000Z",
+      "image": "https://i.guim.co.uk/img/media/3ae2e65bcc2e471243121bcf231752d33e887ed2/226_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=b95023c13a88f26122a62a7934baa515",
+      "topic": "社会",
+      "score": 71,
+      "id": "5ee383ddc7e2"
     },
     {
       "title": "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
@@ -731,21 +757,8 @@
       "publishedAt": "2026-08-15T11:27:11.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "3720b10ee663"
-    },
-    {
-      "title": "Secondhand book sales are booming. Is it because of AI?",
-      "summary": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-15T11:25:32.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg",
-      "topic": "科技",
-      "score": 72,
-      "id": "dc9f25c0fd04"
     },
     {
       "title": "3 Palestinians injured in Israeli drone strike in central Gaza despite ceasefire",
@@ -757,7 +770,7 @@
       "publishedAt": "2026-08-15T11:06:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "38c82ddf8d30"
     },
     {
@@ -770,7 +783,7 @@
       "publishedAt": "2026-08-15T10:55:25.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "57ec2153dd2a"
     },
     {
@@ -783,21 +796,34 @@
       "publishedAt": "2026-08-15T07:47:55.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "248b67e41a1a"
     },
     {
+      "title": "‘My heart breaks into a million pieces’: emotional tributes to Kumanjayi Little Baby at Alice Springs funeral",
+      "summary": "Hundreds gathered with flashes of pink to farewell the five-year-old girl, who was allegedly murdered in April Warning: This story contains references to Indigenous Australians who have died Get our breaking news email , free app or daily news podcast A sombre funeral service for Kumanjayi Little Baby has been attended by hundreds of people from the Alice Sp",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/15/emotional-tributes-kumanjayi-little-baby-alice-springs-funeral-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-15T04:58:20.000Z",
+      "image": "https://i.guim.co.uk/img/media/372ea1b2ce13adbf835ee67de609738e088051dc/114_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=0029f4a25a4b30afd1c8b32efda99d6f",
+      "topic": "政治",
+      "score": 71,
+      "id": "a5d700b40aeb"
+    },
+    {
       "title": "[Breaking] Ruling Party's Honam Region Party Member Vote: Kim Minseok Wins Decisively with 57.54%... Jeong 32.65%, Song 9.81%",
-      "summary": "[Breaking] Ruling Party's Honam Region Party Member Vote: Kim Minseok Wins Decisively with 57.54%... Jeong 32.65%, Song 9.81% &nbsp;&nbsp; asiae.co.kr",
+      "summary": "[Breaking] Ruling Party's Honam Region Party Member Vote: Kim Minseok Wins Decisively with 57.54%... Jeong 32.65%, Song 9.81% &nbsp;&nbsp; 아시아경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5UDdiN0t2RGU5blV5OG1fWDlKbUZacGhXTVZIYmx5dUFDdUNIT0xlY2NkM1N4MzdNQnlKTi14UDEwdEx1LXBCck53YTlTUXNfeE05VjEzeEd6UXBnT2VYRUhvRzR1XzcwcEZOTQ?oc=5",
-      "source": "asiae.co.kr",
+      "source": "아시아경제",
       "feed": "Asia News Network",
       "region": "亚洲",
       "publishedAt": "2026-08-15T10:30:40.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
-      "id": "042d3853ce65"
+      "score": 70,
+      "id": "0f65356f05e7"
     },
     {
       "title": "Earthquake of magnitude 7.8 strikes Philippines, no tsunami threat to NZ",
@@ -809,7 +835,7 @@
       "publishedAt": "2026-08-15T10:08:30.000Z",
       "image": "",
       "topic": "气候",
-      "score": 71,
+      "score": 70,
       "id": "b0e4a40f79a3"
     },
     {
@@ -822,7 +848,7 @@
       "publishedAt": "2026-08-15T13:16:58.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "9de26bf53673"
     },
     {
@@ -835,7 +861,7 @@
       "publishedAt": "2026-08-15T12:56:50.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "c7c3feb47162"
     },
     {
@@ -848,7 +874,7 @@
       "publishedAt": "2026-08-15T12:56:37.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "fdcbc2439ce1"
     },
     {
@@ -861,7 +887,7 @@
       "publishedAt": "2026-08-15T12:26:25.000Z",
       "image": "",
       "topic": "经济",
-      "score": 69,
+      "score": 68,
       "id": "4c4b035ddbbe"
     },
     {
@@ -874,7 +900,7 @@
       "publishedAt": "2026-08-15T12:21:41.000Z",
       "image": "",
       "topic": "经济",
-      "score": 69,
+      "score": 68,
       "id": "d0b5934a86e1"
     },
     {
@@ -887,7 +913,7 @@
       "publishedAt": "2026-08-15T09:29:31.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c90/live/e1739b60-987d-11f1-a43c-2dc5e6bd5d94.jpg",
       "topic": "社会",
-      "score": 69,
+      "score": 68,
       "id": "a19499f04407"
     },
     {
@@ -900,7 +926,7 @@
       "publishedAt": "2026-08-15T09:00:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 69,
+      "score": 68,
       "id": "4ad6f9b8f8a9"
     },
     {
@@ -913,34 +939,8 @@
       "publishedAt": "2026-08-15T08:50:04.000Z",
       "image": "",
       "topic": "社会",
-      "score": 69,
+      "score": 68,
       "id": "520b3c54c8ec"
-    },
-    {
-      "title": "The dream is still alive – Dr Ellis after Banyana down Nigeria in FIFA Women’s World Cup play-off",
-      "summary": "The dream is still alive – Dr Ellis after Banyana down Nigeria in FIFA Women’s World Cup play-off &nbsp;&nbsp; Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMDBqX1Z3cHk1UnFlTkkzRGREVG9ycUg0dnlJelFDZ3pzdzRtbkg0NnNLeEdCclRaTGdpdEwzLTdPVFZxbXBvMmUwUVN0X2pVakZIYXMzOUdmWm9EM1REa3hUcTRSYkhmd3N1dlhQaXhpZFZ1eTlzd0JZZDcwaUVfTllQS1A1QjBoR2p4b2hQczdKWS1QU1NpQnpUcHdlcEY5aVpMdGw3Uk5zZXU2cm8wNjBleThVM3ZuRjNQWG85RTFtZzY0?oc=5",
-      "source": "Africa Top Sports",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-15T11:22:13.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 68,
-      "id": "6d6e9eb5eaa8"
-    },
-    {
-      "title": "Resources Minister King weighs in on WA GST furore",
-      "summary": "The federal minister called an interim report that recommended cutting WA's share of the GST as \"clearly incorrect\" and said the resource-rich state had the prime minister's backing.",
-      "url": "https://www.abc.net.au/news/2026-08-15/madeleine-king-gst-wa-albanese-deal/107042276",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-15T08:01:39.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/eb5cb79e0a16ecc09938906b4454a9b3?impolicy=wcms_crop_resize&cropH=2586&cropW=4597&xPos=11&yPos=58&width=862&height=485",
-      "topic": "政治",
-      "score": 68,
-      "id": "461a41abef80"
     }
   ]
 }
