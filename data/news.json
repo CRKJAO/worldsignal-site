@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T07:02:35.832Z",
+  "updatedAt": "2026-08-16T07:48:10.372Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -16,7 +16,7 @@
       "publishedAt": "2026-08-16T03:57:34.000Z",
       "image": "https://i.guim.co.uk/img/media/aca4dd6638a05970708b16f50e03c02d5f22cb72/178_0_1332_1066/master/1332.jpg?width=140&quality=85&auto=format&fit=max&s=f35217b01983cbbadd74da7475cdb090",
       "topic": "气候",
-      "score": 89,
+      "score": 88,
       "id": "c47985a7ceb2"
     },
     {
@@ -29,7 +29,7 @@
       "publishedAt": "2026-08-16T06:06:31.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "ac0c52cc68d3"
     },
     {
@@ -42,7 +42,7 @@
       "publishedAt": "2026-08-16T02:58:22.000Z",
       "image": "",
       "topic": "社会",
-      "score": 83,
+      "score": 82,
       "id": "b2ef0808dc6a"
     },
     {
@@ -55,7 +55,7 @@
       "publishedAt": "2026-08-16T05:00:16.000Z",
       "image": "https://i.guim.co.uk/img/media/40e2709d6ab1818cac0173dac8116cdbf673d354/398_0_2703_2162/master/2703.jpg?width=140&quality=85&auto=format&fit=max&s=d087a6648e17a8fb162cc9249ea8326a",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "69395a6b7774"
     },
     {
@@ -68,8 +68,34 @@
       "publishedAt": "2026-08-16T04:33:35.000Z",
       "image": "https://i.guim.co.uk/img/media/d239a21391dd2f751aa9a2ab5f2fb12c90d5cb30/919_124_4447_3558/master/4447.jpg?width=140&quality=85&auto=format&fit=max&s=c46d31365bcc6af28433bbc9f0a0e79d",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "91e43a9e5f6d"
+    },
+    {
+      "title": "What the stars are wearing at the 2026 Logies",
+      "summary": "The stars of the Australian television industry are arriving at the 2026 Logie Awards. Here's a look at some of the outfits.",
+      "url": "https://www.abc.net.au/news/2026-08-16/logies-red-carpet-television-awards-ceremony-2026/107043538",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-16T07:28:23.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a1dd6ea344bb379cabdcda15f689e693?impolicy=wcms_crop_resize&cropH=1874&cropW=3332&xPos=0&yPos=660&width=862&height=485",
+      "topic": "政治",
+      "score": 80,
+      "id": "e0debdf9a271"
+    },
+    {
+      "title": "Live: Stars hit red carpet ahead of 2026 Logie Awards",
+      "summary": "The 2026 Logies are underway, with the stars of Australian TV gathering for a night of celebration. Follow live",
+      "url": "https://www.abc.net.au/news/2026-08-16/logies-live-blog-2026-award-winners-gold-logie/107033608",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-16T07:27:50.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f0fb4c4246155f5d3bf1c84d1278df5d?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=261&width=862&height=485",
+      "topic": "政治",
+      "score": 80,
+      "id": "cc1e2c9029c6"
     },
     {
       "title": "Observers say Zambia’s election marred by reports of intimidation, violence",
@@ -81,8 +107,47 @@
       "publishedAt": "2026-08-16T03:39:32.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "f6b2ce240e76"
+    },
+    {
+      "title": "UFC 330: Makhachev secures record-setting win against Machado Garry",
+      "summary": "Islam Makhachev records 17th UFC victory in a row in his welterweight title defeat of Ian Machado Garry.",
+      "url": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-16T07:04:29.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "9bd181371de5"
+    },
+    {
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-16T07:04:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/972b/live/dabb8db0-993f-11f1-9d32-93c6539c1530.jpg",
+      "topic": "社会",
+      "score": 79,
+      "id": "32be14a19a49"
+    },
+    {
+      "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
+      "summary": "Live Updates: Latest from Israel, Iran, and the Middle East &nbsp;&nbsp; The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HeE1uYTNfSHF3OXNId2pQakpiYnFiNlBETUdSVlhMNFQ1UXBaRUI1VDZ4ZmpCczN5TTF6WFptNG1yT1lQZEVVQUtGWnlFRlRQRGE2endlZ0tEMFhkeHhya0VyVk9SVmhDampBWmNlWjkyZUFtU0ZEdkxTVzIyTnM?oc=5",
+      "source": "The Jerusalem Post",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-16T07:00:05.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "6f521ec72b20"
     },
     {
       "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
@@ -94,21 +159,8 @@
       "publishedAt": "2026-08-16T06:53:22.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "气候",
-      "score": 80,
+      "score": 79,
       "id": "0780af05c10a"
-    },
-    {
-      "title": "US Israel Iran War Latest News: US Moves Key Aircraft Carrier From Pacific To Middle East, Raising Questions Over China’s Growing Influence",
-      "summary": "US Israel Iran War Latest News: US Moves Key Aircraft Carrier From Pacific To Middle East, Raising Questions Over China’s Growing Influence &nbsp;&nbsp; The Sunday Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdEpvWUkzNXpCVGp4T010ZFE1NEJaTFVWc21JSkt4TkdpaUctNXFYLTZnTE1OYjIwcjVfaU9WQmJWNTFTNHVnRGo0WnB3ajNnSUV6NE9SN1EtMnVQQWFmeko0ZkhlUmQ0WVExSGpsVVhFbHAtU0VGVVV2NDRxVElMU2Z3d1JMOHpJLXNiZ3o3ZFo0SHJpMzRqR1plcVYyMHVzMFZTNDBKRW5XV3V5TTdOWEQ0bEg1RkhIc2dFbS1fdmVDOVQyeDVYWnFOWlRoZVpQekI3OFpxOXFIWjlmTTg0OFlNaFktZnBjVHlCeGNFTVUtTnJHTnJmZlBqN1FSNjNxX2hKQ1Fwa3VWSjhiM0E?oc=5",
-      "source": "The Sunday Guardian",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-16T03:15:22.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 80,
-      "id": "f9100c8732b4"
     },
     {
       "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
@@ -120,21 +172,8 @@
       "publishedAt": "2026-08-16T00:00:45.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
-      "id": "d98912e80141"
-    },
-    {
-      "title": "US Is Moving Its Key Aircraft Carrier From Pacific To Middle East Amid Iran War. How China Could Benefit",
-      "summary": "US Is Moving Its Key Aircraft Carrier From Pacific To Middle East Amid Iran War. How China Could Benefit &nbsp;&nbsp; news18.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNUZJLWluZGFhdjhRR3lUc2hRVzJaNDRRQnpEZWFEdWRMYkMwREVVOGhibEwtU3hiZU1YUjdMTXJPQk9yN0RGSDFUa0RpZEw2Smp3SlBpeGdrd1B0S05DM3NlSlQ5UWdTdFhEY3FQNk1OaE54a0Q1VHBmMWFnSlFFSUtoZzZmWnFoQ00zUDFuYW5iMDJvUHlNZjUzWTlWM29lY3RGX1A0YktUWTVBc3Vrc2RKSkFxaS0wS3NfS19QZ2Jtd0ZMTjRMd0J4YmJWc1lmaWVwclF6OEZNXzZZVzNNVlpXYmlLVEo0bDBWM9IB8gFBVV95cUxOWEhQdUE0YzJsTmZlWUtMQnpheDBPWElobmk0cWV0Nm5sY3JmeWRGa0hhM0htcDZYZ3hFYnJlQTN0VVk4SnBpOUdyQk5uaFZSeGg0bGV1YVZ6a3NsYVd4aTJQTlRhUDQ1Q1NfTFQ5NDd0aF9OTFM0SXJKTURKVHFoNDBpWmN5VEF5aC1SVjJlNEVlUmNkQmFfNGljMVFmeVdqLWVrbE5sTzRNbGhQeXBENERxT2JMaGhBdVVnX1VUMG10SDctQmpYNWpJeFA1UWh6Q3ludWRmX2d1YXl3OW50U3VJa2Z1VUtmbEJDWEJWekJiZw?oc=5",
-      "source": "news18.com",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-16T02:30:57.000Z",
-      "image": "",
-      "topic": "政治",
       "score": 79,
-      "id": "b5ab5fd29514"
+      "id": "d98912e80141"
     },
     {
       "title": "These graphs show why this Ebola outbreak is set to be the worst in history",
@@ -146,7 +185,7 @@
       "publishedAt": "2026-08-16T02:26:58.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1c059b656d7da583357a0f3a55646921?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "80bf6ef03d8c"
     },
     {
@@ -159,7 +198,7 @@
       "publishedAt": "2026-08-15T23:40:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "02405c3593e1"
     },
     {
@@ -172,8 +211,21 @@
       "publishedAt": "2026-08-16T05:14:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "7deef7246de6"
+    },
+    {
+      "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
+      "summary": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region during the escalating conflict.",
+      "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-16T04:54:33.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 77,
+      "id": "337e0a61f1f5"
     },
     {
       "title": "Tensions Remain High In The Middle East",
@@ -185,8 +237,21 @@
       "publishedAt": "2026-08-15T23:19:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "a9f06ef3b9fd"
+    },
+    {
+      "title": "10 of the best ‘hidden gem’ beaches in Europe revealed",
+      "summary": "10 of the best ‘hidden gem’ beaches in Europe revealed &nbsp;&nbsp; Breaking Travel News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb2Y2YS1nMWJ5UW5OcHVGRlNmOXFnOFV0ZU94QU04SGVSblF1d2txQWozY05uS2g4V3JkUG1ScXg0cmRsaHJ4aDI3cDRGbTQ0MEpfVmpYc2g5dUh1dlBkN1VaREx0MS05dG1kQzEyb09TLWJtSTlnU0hFdDlXam5kYUlNd3ptMFlvaHhhWDRtRzRudklWLXcxMmJzWGZYMkpLYUR3?oc=5",
+      "source": "Breaking Travel News",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-16T07:19:27.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "e88f36673cea"
     },
     {
       "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
@@ -198,7 +263,7 @@
       "publishedAt": "2026-08-16T04:35:26.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "7e4545970ca8"
     },
     {
@@ -211,8 +276,60 @@
       "publishedAt": "2026-08-16T04:00:15.000Z",
       "image": "https://i.guim.co.uk/img/media/c5811e7551d0d46e43490e866bcb5ffab45826d3/530_0_6017_4817/master/6017.jpg?width=140&quality=85&auto=format&fit=max&s=fc69cf9ef394c764e5e47fb8b878eeda",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "6330bca67489"
+    },
+    {
+      "title": "Death in Tasmanian prison after reports man 'unresponsive' in cell",
+      "summary": "Police are investigating the death of a man who was found unresponsive in his cell by prison staff on Sunday morning.",
+      "url": "https://www.abc.net.au/news/2026-08-16/tasmania-man-dies-custody-hobart-reception-prison-police/107043768",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-16T07:23:44.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/05ff9c48568bea6dcae1b06fe30e739b?impolicy=wcms_crop_resize&cropH=1447&cropW=2573&xPos=0&yPos=211&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "1c73260be853"
+    },
+    {
+      "title": "Shock defeat to Bangladesh reveals bigger picture hiding in plain sight",
+      "summary": "On paper, Australia's full-strength team should have wiped the floor with Bangladesh. But a lack of application to their Test match craft has left Australia vulnerable to teams that are driven to succeed in the longest format.",
+      "url": "https://www.abc.net.au/news/2026-08-16/australia-bangladesh-darwin-defeat-problems/107037438",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-16T07:04:27.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3048ba6cd75562dd25aa8de337881669?impolicy=wcms_crop_resize&cropH=980&cropW=1743&xPos=352&yPos=187&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "83d7d5791334"
+    },
+    {
+      "title": "‘Our children are less cognitively capable,’ says neuroscientist who wants to cut screen use in schools",
+      "summary": "Jared Cooney Horvath argues that educational technology undermines how children learn and develop Jared Cooney Horvath is on a mission. In the wake of global campaigns for smartphone bans in schools and social media restrictions for under-16s, the neuroscientist wants to raise the alarm about educational technology in classrooms. A former teacher, Horvath be",
+      "url": "https://www.theguardian.com/education/2026/aug/16/neuroscientist-screen-use-schools-educational-technology-jared-cooney-horvath",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-16T07:00:20.000Z",
+      "image": "https://i.guim.co.uk/img/media/4c67ae46db415c17cc74f0174775cd5b2e946d72/0_0_6139_4912/master/6139.jpg?width=140&quality=85&auto=format&fit=max&s=91c5e71e9e3536cfdce54af22a3283cb",
+      "topic": "科技",
+      "score": 75,
+      "id": "cf3a5b4479da"
+    },
+    {
+      "title": "Bangladesh make history with first-ever Test cricket win in Australia",
+      "summary": "Bangladesh dominated Australia throughout, and the margin of victory will send shockwaves through the cricketing world.",
+      "url": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-16T06:40:50.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "93b48442be63"
     },
     {
       "title": "Hurricane Lala dumps heavy rain on Hawaii",
@@ -224,7 +341,7 @@
       "publishedAt": "2026-08-16T03:59:15.000Z",
       "image": "",
       "topic": "气候",
-      "score": 76,
+      "score": 75,
       "id": "42dff0571b2b"
     },
     {
@@ -237,7 +354,7 @@
       "publishedAt": "2026-08-16T03:51:02.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d8b14cdf990da056d56e0e3355462c84?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "df19a887ffed"
     },
     {
@@ -250,7 +367,7 @@
       "publishedAt": "2026-08-16T03:48:46.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/e4079483e288309abba74024ba477029?impolicy=wcms_crop_resize&cropH=776&cropW=1380&xPos=0&yPos=51&width=862&height=485",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "3452b21aeefc"
     },
     {
@@ -263,7 +380,7 @@
       "publishedAt": "2026-08-16T03:47:43.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "ee62891c2a5b"
     },
     {
@@ -276,8 +393,21 @@
       "publishedAt": "2026-08-16T00:11:03.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb9/live/bd08d920-982d-11f1-8cf9-eb47c9176e95.jpg",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "19cd4411c944"
+    },
+    {
+      "title": "Earthquake of magnitude 7.8 strikes Philippines, no tsunami threat to NZ",
+      "summary": "Earthquake of magnitude 7.8 strikes Philippines, no tsunami threat to NZ &nbsp;&nbsp; NZ Herald",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPS05WRTVPc0hxYjdCNlRmSHBpQTFPTHNpYTcwOUR1dndma2tTMlp4X0ZRNkdFUzFqd2tMNUE3b3Uxek9FVV9TY1p1aHZraEdCWGg3Y3VETFg2cWJIZW5QRkQ1UkdzSlU3UXVDdnBEZzhFbjJLaHdJVk9qcDZ5MmhhUi1oRTZqT1RCdFVsbmIwa2wwMFQ2d19rSUwxNFlNRi10OVh5LXBLbHNqOGF1V1BuTTFKdEk3eUgzdWJwVUZqelJSLW5hRVRNdmh1YnlSNGdzVEdhYm1BM1dsZ3lGMW5UTmQyRlo2dnZETHhCNF8weDN6dnNqeVN5MmdsLXFoTGRnZF8yMFV3?oc=5",
+      "source": "NZ Herald",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-16T06:15:26.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 74,
+      "id": "b0e4a40f79a3"
     },
     {
       "title": "How a simple lighter has become the backbone of life in Gaza",
@@ -289,7 +419,7 @@
       "publishedAt": "2026-08-16T06:10:58.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "7a4b829fda98"
     },
     {
@@ -302,7 +432,7 @@
       "publishedAt": "2026-08-16T06:09:38.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/459990cfdc49548e226508e3c1319bc8?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=28&width=862&height=485",
       "topic": "经济",
-      "score": 75,
+      "score": 74,
       "id": "dfe19816ba1e"
     },
     {
@@ -315,7 +445,7 @@
       "publishedAt": "2026-08-16T06:00:18.000Z",
       "image": "https://i.guim.co.uk/img/media/93c963f6a83087dac6fd9405dfcaee1c9818da82/6_0_3592_2876/master/3592.jpg?width=140&quality=85&auto=format&fit=max&s=b6cf087307a68b483057158be0df286b",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "58d327a87e30"
     },
     {
@@ -328,7 +458,7 @@
       "publishedAt": "2026-08-16T06:00:17.000Z",
       "image": "https://i.guim.co.uk/img/media/e19d25c3f14c71a1833b7377ae24e10418ee1a2b/616_0_5001_4001/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=c010de13ae558dead069afbb0a15c27e",
       "topic": "经济",
-      "score": 75,
+      "score": 74,
       "id": "d5131ad5c5f4"
     },
     {
@@ -341,8 +471,21 @@
       "publishedAt": "2026-08-16T05:56:06.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7c6ade4fc98aa803acb2ce803da89b7b?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=50&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "d1fbb1cb68bf"
+    },
+    {
+      "title": "US Is Moving Its Key Aircraft Carrier From Pacific To Middle East Amid Iran War. How China Could Benefit",
+      "summary": "US Is Moving Its Key Aircraft Carrier From Pacific To Middle East Amid Iran War. How China Could Benefit &nbsp;&nbsp; News18",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNUZJLWluZGFhdjhRR3lUc2hRVzJaNDRRQnpEZWFEdWRMYkMwREVVOGhibEwtU3hiZU1YUjdMTXJPQk9yN0RGSDFUa0RpZEw2Smp3SlBpeGdrd1B0S05DM3NlSlQ5UWdTdFhEY3FQNk1OaE54a0Q1VHBmMWFnSlFFSUtoZzZmWnFoQ00zUDFuYW5iMDJvUHlNZjUzWTlWM29lY3RGX1A0YktUWTVBc3Vrc2RKSkFxaS0wS3NfS19QZ2Jtd0ZMTjRMd0J4YmJWc1lmaWVwclF6OEZNXzZZVzNNVlpXYmlLVEo0bDBWM9IB8gFBVV95cUxOWEhQdUE0YzJsTmZlWUtMQnpheDBPWElobmk0cWV0Nm5sY3JmeWRGa0hhM0htcDZYZ3hFYnJlQTN0VVk4SnBpOUdyQk5uaFZSeGg0bGV1YVZ6a3NsYVd4aTJQTlRhUDQ1Q1NfTFQ5NDd0aF9OTFM0SXJKTURKVHFoNDBpWmN5VEF5aC1SVjJlNEVlUmNkQmFfNGljMVFmeVdqLWVrbE5sTzRNbGhQeXBENERxT2JMaGhBdVVnX1VUMG10SDctQmpYNWpJeFA1UWh6Q3ludWRmX2d1YXl3OW50U3VJa2Z1VUtmbEJDWEJWekJiZw?oc=5",
+      "source": "News18",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-16T02:30:57.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 74,
+      "id": "710aa1c28349"
     },
     {
       "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
@@ -354,7 +497,7 @@
       "publishedAt": "2026-08-16T02:26:54.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "23fb28faef7b"
     },
     {
@@ -367,34 +510,21 @@
       "publishedAt": "2026-08-15T20:00:15.000Z",
       "image": "",
       "topic": "气候",
-      "score": 75,
+      "score": 74,
       "id": "48ddb67ff595"
     },
     {
-      "title": "Earthquake of magnitude 7.8 strikes Philippines, no tsunami threat to NZ",
-      "summary": "Earthquake of magnitude 7.8 strikes Philippines, no tsunami threat to NZ &nbsp;&nbsp; NZ Herald",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQckNINGdmZU5JcjlTM0FTQzBQSzNMTjI0V2hWaldjSFY5Q0NTTll5WmlZa09JQjdTU2N4V3dYT1dhLV9oRTJ4U3NhTTJkdGxXekQ3WXVVZF9lYlZRNHhTX3l6SDFlYTNqY21ETTRpeUpGQ21wWkRRZWNhXzBnZUJkMmFxTXJZMUpTeHlpd0xwS3lnNTNLb3VaM2JpTXlfZFdZQVB2d2JSdHJ3WldHUHpCUmF1Q2FHemVvaWtIRllaTWdqUWtQZDVDN1VyWTFYVFhwYk9fZzNxTzVyRG5vdHE3aE9QZ3V1QjJMM1FJR1N6eDgzQ0E?oc=5",
-      "source": "NZ Herald",
-      "feed": "Pacific News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-16T04:50:58.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 74,
-      "id": "b0e4a40f79a3"
-    },
-    {
-      "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-      "summary": "Romania's Defence Ministry didn't specify origin of the drone but has previously blamed Russia for similar incidents.",
-      "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-16T04:54:33.000Z",
+      "title": "Sundowns salvage draw against impressive Kaizer Chiefs",
+      "summary": "Sundowns salvage draw against impressive Kaizer Chiefs &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUkQza2ZQcGVvTml6RG4zc0FMamRjQVZaQTJhc0JDckJsam1nNXJTMXVNNGtBUWMyd0VUbkgtNkxZU0lBRHhXRmxlNUlqRTl2bm54TlRIYS1VQ21NdkJONjgyeUFXa1NfRUFjTWk4cGREX2Q0bVZfVG1ZMnRVbWxSc3hhYVlOZDU2QjlNMWNYQQ?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-16T07:40:36.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
-      "id": "527b12efdb91"
+      "score": 72,
+      "id": "65b6a62c9dc1"
     },
     {
       "title": "Japan’s defence minister heads to Australia to meet Marles in wake of melon-gate controversy",
@@ -406,7 +536,7 @@
       "publishedAt": "2026-08-16T04:44:30.000Z",
       "image": "https://i.guim.co.uk/img/media/4523dec71e91cd5ac6f89d2534b808eaf5868cd3/557_0_4964_3973/master/4964.jpg?width=140&quality=85&auto=format&fit=max&s=89a7a08622fa434a0adfda3f3920b491",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "0dc14897f9e7"
     },
     {
@@ -419,7 +549,7 @@
       "publishedAt": "2026-08-16T04:43:21.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "f06aceee97f6"
     },
     {
@@ -432,7 +562,7 @@
       "publishedAt": "2026-08-16T04:28:54.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/9881e298f996ce699507c07ec9e8ed15?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=98&width=862&height=485",
       "topic": "科技",
-      "score": 73,
+      "score": 72,
       "id": "a8b57d9d11a6"
     },
     {
@@ -445,7 +575,7 @@
       "publishedAt": "2026-08-16T04:21:36.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/17915a30ecf032f74b281975642a5174?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "c42635301ba5"
     },
     {
@@ -458,7 +588,7 @@
       "publishedAt": "2026-08-16T00:50:12.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "52baef385317"
     },
     {
@@ -471,7 +601,7 @@
       "publishedAt": "2026-08-15T22:00:42.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "5d7f82b49d0b"
     },
     {
@@ -484,7 +614,7 @@
       "publishedAt": "2026-08-15T21:41:43.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/402629b0-98ed-11f1-97a4-c77753d94e40.jpg",
       "topic": "科技",
-      "score": 73,
+      "score": 72,
       "id": "3531c30c5b15"
     },
     {
@@ -497,21 +627,8 @@
       "publishedAt": "2026-08-16T06:52:44.000Z",
       "image": "",
       "topic": "经济",
-      "score": 72,
+      "score": 71,
       "id": "e5aff1e69593"
-    },
-    {
-      "title": "Middle East Flight Cancellations and Delays Disrupt Key Airport Hubs",
-      "summary": "Middle East Flight Cancellations and Delays Disrupt Key Airport Hubs &nbsp;&nbsp; Nomad Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcEplcWNQUEZIYmEzUngyNGltbkVxS1VxQXRtTzJYcEg2SVNJRmJwSzhldEwzdG02NFZjNmN3NFNSWldCUmRGbmpBR3hXR1VPaENxX0RjRjFsMEo0Mnk5bllwa2Z0WFYwaGVteGJoVF9KRjJacWpHVE9mSGprWmxvcVJ2MUpXa3pNS3V1SEotNnA5cVdFTmRB?oc=5",
-      "source": "Nomad Lawyer",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-16T06:47:35.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "fabba6cc15a1"
     },
     {
       "title": "Yemeni government forces hit back after new Houthi offensive",
@@ -523,7 +640,7 @@
       "publishedAt": "2026-08-16T04:09:01.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "3f5b329f77ec"
     },
     {
@@ -536,21 +653,8 @@
       "publishedAt": "2026-08-16T00:36:44.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/cbc1e42defe69a06ed220d35cf23eb8c?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "5f66b46909db"
-    },
-    {
-      "title": "Cummins stands by 'spot on' preparation despite historic loss to Bangladesh",
-      "summary": "Bangladesh has comprehensively outplayed Australia, winning by nine wickets in the first Test in Darwin, with Pat Cummins standing by his team's preparations for the series.",
-      "url": "https://www.abc.net.au/news/2026-08-16/australia-bangladesh-live-updates-day-four-darwin/107043280",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-16T00:09:13.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/c03afc9de50d707c04d9e7c0ab625806?impolicy=wcms_crop_resize&cropH=1123&cropW=1997&xPos=1377&yPos=205&width=862&height=485",
-      "topic": "社会",
-      "score": 72,
-      "id": "f4f85b628edb"
     },
     {
       "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
@@ -562,7 +666,7 @@
       "publishedAt": "2026-08-15T18:00:44.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "dbb9bec1a09e"
     },
     {
@@ -575,7 +679,7 @@
       "publishedAt": "2026-08-16T06:22:45.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "ce280ce9e4eb"
     },
     {
@@ -588,34 +692,8 @@
       "publishedAt": "2026-08-16T06:15:14.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "586140f60b0b"
-    },
-    {
-      "title": "Live: Blues in a battle at Docklands as Giants keep hopes alive",
-      "summary": "The top 10 could be decided this afternoon as two key games — featuring GWS and Carlton — shape the wild card places on the ladder. Follow live.",
-      "url": "https://www.abc.net.au/news/2026-08-16/afl-rd-23-live-gws-wce-wb-carl-ess-syd/107037342",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-16T03:17:03.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/0e256560e7dc850a4562316eea962a8e?impolicy=wcms_crop_resize&cropH=1497&cropW=2662&xPos=0&yPos=118&width=862&height=485",
-      "topic": "社会",
-      "score": 71,
-      "id": "2f39451f2d7b"
-    },
-    {
-      "title": "Global Tourism Jobs Boom: Major Destinations Reach Record Employment Levels",
-      "summary": "Global Tourism Jobs Boom: Major Destinations Reach Record Employment Levels &nbsp;&nbsp; Nomad Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMG1hMTNtbTNaOFU3bmZLa1RWOEN0TXZnSzFkZWgtUTlzQWlRbUY1WGxSc3R2aXhRYmxHYjlJSTE5VVNYczlNQVh5eDFjTmRlQnU3eWRaNHprMm11am1BZVFaQkxOQUhtS2hsS2tad2hjaXU3blhrUUMwQTNlXzVLX0JxeWRlakhKbHc?oc=5",
-      "source": "Nomad Lawyer",
-      "feed": "Pacific News Network",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-16T02:38:56.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 71,
-      "id": "cd02cc70aa26"
     },
     {
       "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
@@ -627,21 +705,21 @@
       "publishedAt": "2026-08-15T23:27:10.000Z",
       "image": "",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "b479d0e99542"
     },
     {
-      "title": "Teen obliterates men's world record in 1,500m freestyle first",
-      "summary": "The world record for the men's 1,500m freestyle, an event once dominated by Grant Hackett and Kieren Perkins, has been smashed by German star Johannes Liebmann.",
-      "url": "https://www.abc.net.au/news/2026-08-16/johannes-liebmann-breaks-world-record-mens-1500m-freestyle/107043220",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-15T23:11:43.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/2cb8e18b5e081df46c7550bc1c6e2898?impolicy=wcms_crop_resize&cropH=2662&cropW=4733&xPos=0&yPos=188&width=862&height=485",
+      "title": "No Madlanga today? Citizens joke they don't know what to do as Commission takes a break",
+      "summary": "No Madlanga today? Citizens joke they don't know what to do as Commission takes a break &nbsp;&nbsp; IOL",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYW42dk9TbW9jNTdJcl9BX1VxckRCcjdySnp6Y2dLV1NwdlpMdlpQTktadmYxZWNUZEdGMHp3ajNMUzNQd25VYWtISFJ4ZG9SVlJfQlpIRnEyZ2tOcURoLU9VYTE5R0ZtNXE1Q0ZDV2U5TkNTTmZHTmxBM1hHMzJCdkZETTd1WUc2cDJ0VXROZXIzNXgxOWwyNV9jcUhpRWtBMDlON1lQSENmZFFqV19QLUp3QzNHd2w1MlE?oc=5",
+      "source": "IOL",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-16T05:33:10.000Z",
+      "image": "",
       "topic": "社会",
-      "score": 71,
-      "id": "a4a96d1fc8a4"
+      "score": 69,
+      "id": "32fe676b4528"
     },
     {
       "title": "CENTCOM changes Middle East map after posting it on X",
@@ -653,21 +731,8 @@
       "publishedAt": "2026-08-16T05:32:11.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "e6483f70e48f"
-    },
-    {
-      "title": "Australia, US share spotlight at Pan Pacs",
-      "summary": "Australia, US share spotlight at Pan Pacs &nbsp;&nbsp; Jamaica Gleaner",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ2x6VTB4WWt6UzJaVlY5X19VTllqUGxTNTZoc0s4SWlkbUw4dkloSzh5bHJIb0lWMlBScUYwVHZtanhHb1hwT3FfSEVIbEVQS2ZzbzI3RlZndldsVTJRU18yVW8yRll6RnZIdDladG4yc2k2S2dkWVhDUk5aQnFHU3gyTnFZYThXQ1ZkVmxzU3dFcEU?oc=5",
-      "source": "Jamaica Gleaner",
-      "feed": "Pacific News Network",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-16T05:06:47.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "014b7c969406"
     },
     {
       "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
@@ -679,7 +744,7 @@
       "publishedAt": "2026-08-15T23:04:47.000Z",
       "image": "",
       "topic": "经济",
-      "score": 70,
+      "score": 69,
       "id": "0ebdc11b5415"
     },
     {
@@ -692,7 +757,7 @@
       "publishedAt": "2026-08-15T22:22:46.000Z",
       "image": "",
       "topic": "政治",
-      "score": 70,
+      "score": 69,
       "id": "895ff8185213"
     },
     {
@@ -705,73 +770,8 @@
       "publishedAt": "2026-08-15T16:01:10.000Z",
       "image": "https://i.guim.co.uk/img/media/8db29763d7dd93fbeef64134375888b2dd0a1629/997_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=a80c851ea060a30cc8b67dd3937ea6c6",
       "topic": "政治",
-      "score": 70,
+      "score": 69,
       "id": "f77f5bd1ef5a"
-    },
-    {
-      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
-      "summary": "One person killed and hundreds evacuated in Croatia as blazes also hit Germany, Greece and Spain Almost 500 people have been arrested on suspicion of starting wildfires in France since the start of the summer, authorities have said, as firefighters in half a dozen European countries tackle ferocious blazes amid a record-breaking heatwave. A fire engulfed ⁠ho",
-      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-15T15:32:38.000Z",
-      "image": "https://i.guim.co.uk/img/media/4e74294d7fc12a4f6c823be60d68e8ff43d71b97/984_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=40fcf0dd5ba505158e68d69f898bc919",
-      "topic": "气候",
-      "score": 70,
-      "id": "54cbfdfcf766"
-    },
-    {
-      "title": "Bun cha leads 7 Vietnamese meat dishes in Asia's top 100 list",
-      "summary": "Bun cha leads 7 Vietnamese meat dishes in Asia's top 100 list &nbsp;&nbsp; VnExpress International",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV2psNURtbUk1aWlubmJXNGFJUEtFcDB5b1oxbHl2T0tVTERFUTloUnhXOHJ4LVBHNjNJRmotMmhyeG83bi1JMHktRUgteHpMVXZWTk00X0p0RFFhU2lKcEhyWms3ZzU2Zkp3OHRIWVFmVTdPMGhXc0kxaG5NZVptTHZ5MWYyVGFtRkd4d3d6UWJRNjJ5YkVvUmZLQkhyWkVKY3piSjBhd21ld0tLRDlvY25WSVAwemNPT1R3MUNVVkY?oc=5",
-      "source": "VnExpress International",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-16T05:00:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "b05cf52369a9"
-    },
-    {
-      "title": "No Madlanga today? Citizens joke they don't know what to do as Commission takes a break",
-      "summary": "No Madlanga today? Citizens joke they don't know what to do as Commission takes a break &nbsp;&nbsp; IOL",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYW42dk9TbW9jNTdJcl9BX1VxckRCcjdySnp6Y2dLV1NwdlpMdlpQTktadmYxZWNUZEdGMHp3ajNMUzNQd25VYWtISFJ4ZG9SVlJfQlpIRnEyZ2tOcURoLU9VYTE5R0ZtNXE1Q0ZDV2U5TkNTTmZHTmxBM1hHMzJCdkZETTd1WUc2cDJ0VXROZXIzNXgxOWwyNV9jcUhpRWtBMDlON1lQSENmZFFqV19QLUp3QzNHd2w1MlE?oc=5",
-      "source": "IOL",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-16T04:35:01.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "32fe676b4528"
-    },
-    {
-      "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
-      "summary": "Riders say the switch is helping them cut fuel and maintenance costs.",
-      "url": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "非洲",
-      "publishedAt": "2026-08-16T01:43:57.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "bf6e7aeeb21b"
-    },
-    {
-      "title": "Trump's Iran focus strains U.S. forces as last aircraft carrier leaves East Asia",
-      "summary": "Trump's Iran focus strains U.S. forces as last aircraft carrier leaves East Asia &nbsp;&nbsp; Haaretz",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQUVV5TTBscmFqcVJIODJhUEdKaHRQTnhEMU45TENZNXF2VnR6eGRPQldOZlo0ZFIyQmliaDZ5d2lHWVpZbW9nRXFoNHlIYXRrYWNzbDRhZGNEUXlwTFBVa3YwUWxNOW5NbGFkbi1ZZ19JeTZaNk9yX2JGRm9CTndiMXNIc25kYUp0YWZJVzN4QW9ESGF1RVFJY1QzMlJWLTdFdDMyYjVENVliSk1CcW5kRDRQMWlrLWwyTlBTX3RYYUI5UFEyV0tSa0ptZUkzVWdncDdEeGF4SWE3NG12ZU02S1FoNWJFdWVSMl9Tak91emtsb2N2ZC1Cd2U1bW9mWUg4RlRzN0hnelRLaEY5QnF4bkZFZHNzc3J0NWpMSDZ6VzUxVGktMV9J?oc=5",
-      "source": "Haaretz",
-      "feed": "Middle East News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-15T19:19:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "2ce6884012cc"
     },
     {
       "title": "Powerful earthquake kills dozens in eastern Indonesia",
@@ -787,6 +787,71 @@
       "id": "ce6de301ed8b"
     },
     {
+      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
+      "summary": "One person killed and hundreds evacuated in Croatia as blazes also hit Germany, Greece and Spain Almost 500 people have been arrested on suspicion of starting wildfires in France since the start of the summer, authorities have said, as firefighters in half a dozen European countries tackle ferocious blazes amid a record-breaking heatwave. A fire engulfed ⁠ho",
+      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-15T15:32:38.000Z",
+      "image": "https://i.guim.co.uk/img/media/4e74294d7fc12a4f6c823be60d68e8ff43d71b97/984_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=40fcf0dd5ba505158e68d69f898bc919",
+      "topic": "气候",
+      "score": 69,
+      "id": "54cbfdfcf766"
+    },
+    {
+      "title": "Bun cha leads 7 Vietnamese meat dishes in Asia's top 100 list",
+      "summary": "Bun cha leads 7 Vietnamese meat dishes in Asia's top 100 list &nbsp;&nbsp; VnExpress International",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV2psNURtbUk1aWlubmJXNGFJUEtFcDB5b1oxbHl2T0tVTERFUTloUnhXOHJ4LVBHNjNJRmotMmhyeG83bi1JMHktRUgteHpMVXZWTk00X0p0RFFhU2lKcEhyWms3ZzU2Zkp3OHRIWVFmVTdPMGhXc0kxaG5NZVptTHZ5MWYyVGFtRkd4d3d6UWJRNjJ5YkVvUmZLQkhyWkVKY3piSjBhd21ld0tLRDlvY25WSVAwemNPT1R3MUNVVkY?oc=5",
+      "source": "VnExpress International",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-16T05:00:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 68,
+      "id": "b05cf52369a9"
+    },
+    {
+      "title": "Why Iran’s threat keeps haunting the Middle East - and how to finally break the cycle - opinion",
+      "summary": "Why Iran’s threat keeps haunting the Middle East - and how to finally break the cycle - opinion &nbsp;&nbsp; The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hUWh5aWdyYVlvbndsREdPMExvUW5ycC1hV2tDMFJYa1k1Vk9CZk12cUZ0OHYwRERIb2lhVURjWk10UEZpcERfeDhFdDhSUVI5V3NvdDV1cw?oc=5",
+      "source": "The Jerusalem Post",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-16T04:47:34.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 68,
+      "id": "ce102ee2d4b1"
+    },
+    {
+      "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
+      "summary": "Riders say the switch is helping them cut fuel and maintenance costs.",
+      "url": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "非洲",
+      "publishedAt": "2026-08-16T01:43:57.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 68,
+      "id": "bf6e7aeeb21b"
+    },
+    {
+      "title": "Trump's Iran focus strains U.S. forces as last aircraft carrier leaves East Asia",
+      "summary": "Trump's Iran focus strains U.S. forces as last aircraft carrier leaves East Asia &nbsp;&nbsp; Haaretz",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQUVV5TTBscmFqcVJIODJhUEdKaHRQTnhEMU45TENZNXF2VnR6eGRPQldOZlo0ZFIyQmliaDZ5d2lHWVpZbW9nRXFoNHlIYXRrYWNzbDRhZGNEUXlwTFBVa3YwUWxNOW5NbGFkbi1ZZ19JeTZaNk9yX2JGRm9CTndiMXNIc25kYUp0YWZJVzN4QW9ESGF1RVFJY1QzMlJWLTdFdDMyYjVENVliSk1CcW5kRDRQMWlrLWwyTlBTX3RYYUI5UFEyV0tSa0ptZUkzVWdncDdEeGF4SWE3NG12ZU02S1FoNWJFdWVSMl9Tak91emtsb2N2ZC1Cd2U1bW9mWUg4RlRzN0hnelRLaEY5QnF4bkZFZHNzc3J0NWpMSDZ6VzUxVGktMV9J?oc=5",
+      "source": "Haaretz",
+      "feed": "Middle East News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-15T19:19:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 68,
+      "id": "2ce6884012cc"
+    },
+    {
       "title": "EVERTEC (EVTC) Is Up 5.8% After Raising 2026 Revenue Outlook And Expanding Buybacks - What's Changed",
       "summary": "EVERTEC (EVTC) Is Up 5.8% After Raising 2026 Revenue Outlook And Expanding Buybacks - What's Changed &nbsp;&nbsp; simplywall.st",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeG96aGg1b00wZEJnM0ZhaVlSUkFkbFFSSlBBd0U1Tk5DSjA3YW9fdGw1NEdwR0hBdy13d2RXR2k5UnJPMTkxMUx5M19jcERaS0xWaXUwM1R2c3duQkhaT1Q5elpVLWZIYmUwb0NMV2FVU0c1dTNZX0J5UU1xVmZGZGlDNlZPNGVJRzB0REpDU2lYY19Id1daSURmbEdBQXVZQUJkVG9DWkpZd3JTb3B0cWJXNC1uNnMwczNVbURVUkVTSWRUbVFuZ0VHbFdRNXlreHEwUzRXY2I3d9IB2gFBVV95cUxOeG96aGg1b00wZEJnM0ZhaVlSUkFkbFFSSlBBd0U1Tk5DSjA3YW9fdGw1NEdwR0hBdy13d2RXR2k5UnJPMTkxMUx5M19jcERaS0xWaXUwM1R2c3duQkhaT1Q5elpVLWZIYmUwb0NMV2FVU0c1dTNZX0J5UU1xVmZGZGlDNlZPNGVJRzB0REpDU2lYY19Id1daSURmbEdBQXVZQUJkVG9DWkpZd3JTb3B0cWJXNC1uNnMwczNVbURVUkVTSWRUbVFuZ0VHbFdRNXlreHEwUzRXY2I3dw?oc=5",
@@ -796,7 +861,7 @@
       "publishedAt": "2026-08-16T03:45:44.000Z",
       "image": "",
       "topic": "社会",
-      "score": 68,
+      "score": 67,
       "id": "1bf1e0f56bc7"
     },
     {
@@ -809,7 +874,7 @@
       "publishedAt": "2026-08-15T20:58:31.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
       "topic": "社会",
-      "score": 67,
+      "score": 66,
       "id": "1caef42daab7"
     },
     {
@@ -822,7 +887,7 @@
       "publishedAt": "2026-08-15T20:09:33.000Z",
       "image": "",
       "topic": "政治",
-      "score": 67,
+      "score": 66,
       "id": "690ec640b3e2"
     },
     {
@@ -835,7 +900,7 @@
       "publishedAt": "2026-08-16T01:52:30.000Z",
       "image": "",
       "topic": "社会",
-      "score": 66,
+      "score": 65,
       "id": "b6d6dd1d7a89"
     },
     {
@@ -848,21 +913,8 @@
       "publishedAt": "2026-08-15T23:19:34.000Z",
       "image": "",
       "topic": "政治",
-      "score": 66,
+      "score": 65,
       "id": "57ab408b20e8"
-    },
-    {
-      "title": "Andreas Almgren solos the men’s 10,000m to break 48-year-old European Championships record",
-      "summary": "Andreas Almgren solos the men’s 10,000m to break 48-year-old European Championships record &nbsp;&nbsp; nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZVl0eVpQN3hHcG01WXZmY3RyelA3S252TUdUZkR5SDR2dlhvS2lBNkpmLTJPRWY4SlF1aFc4N1k4ODVNbGoyaDVLUXI1ZEVQeGdJZ0VIeTBQd3JIQkxJTEhmR29PRnl3UDRUQjAyM0NndVlLTm5Sa0lmNk9CUXM3cmNOcy03R1RvdXhvUzBfbjZPajBmaXhCcVhhVWs2a1RyMk9TVDFmb01UX2s?oc=5",
-      "source": "nytimes.com",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-15T23:06:08.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 66,
-      "id": "07649be56711"
     },
     {
       "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
@@ -874,7 +926,7 @@
       "publishedAt": "2026-08-15T19:39:07.000Z",
       "image": "https://i.guim.co.uk/img/media/b14768a4016a3eb7461634532d5a9f3c7c039c61/668_0_4853_3883/master/4853.jpg?width=140&quality=85&auto=format&fit=max&s=fb5e8e7beec54c6ef27f17ca3ee48446",
       "topic": "社会",
-      "score": 66,
+      "score": 65,
       "id": "6c1ce427f553"
     },
     {
@@ -887,60 +939,8 @@
       "publishedAt": "2026-08-16T01:44:39.000Z",
       "image": "",
       "topic": "经济",
-      "score": 65,
+      "score": 64,
       "id": "42475c061dc3"
-    },
-    {
-      "title": "Quake-hit Colombia turns to Trump for tariff relief",
-      "summary": "Quake-hit Colombia turns to Trump for tariff relief &nbsp;&nbsp; Newswav",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdWpmYXEzS0JmMTdEb3dMY3pRMEdpZ0FPWnl6dDl5VGxON0xCX0R2elBGdFhBdDNyUWlGcTVCNTE2WTFJdGQ3cFlUbm5hTXdWTVBQeUVGakdWcmhmaWJTeDRYTEVhWnNaUko0UFRQbzNnU0w1ZlNCRkE4cG5jR1VWVHhZenlVeGVaM0ZyeFlpRHZxZmFkOHhV?oc=5",
-      "source": "Newswav",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-16T01:24:27.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 65,
-      "id": "1aec74cc7ffe"
-    },
-    {
-      "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-      "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful.",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "美洲",
-      "publishedAt": "2026-08-15T18:21:32.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 65,
-      "id": "625fdf63fbad"
-    },
-    {
-      "title": "Chinese auto are aggressively targeting markets to establish long-term ZEV global market share",
-      "summary": "Chinese auto are aggressively targeting markets to establish long-term ZEV global market share &nbsp;&nbsp; DSF.my",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hekxzdl8xY0ZycFRycDg1aVBSaHA0bWxfWU85cm1qcGlFOHZ2X0hmaUFrd2lFdEJwaW5ScnVkTm5haEpzUmYxQUFSSlRBT1JXWTF5S0huMUx5NTBydzZTdXdIUS1XVDFtV2JHMk5CcVdUQV9jSzBjQmVn?oc=5",
-      "source": "DSF.my",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-16T00:51:11.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 64,
-      "id": "2ccfaea847fa"
-    },
-    {
-      "title": "Nigeria’s most urgent health issue",
-      "summary": "Nigeria’s most urgent health issue &nbsp;&nbsp; punchng.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONy1Ba1E2eldpOGhmVHVpcm9QZ2tRX216WXRFanA2R2NQYko1LXBRMFhfRHNQcmU1YkstcW9Eb0c5dGNxLVZUMWZ2VUs5Q0gwWlB5d2dYNVVYMG1hVklHUHM0RTY1d2FrWURmSzFESk1WNnZXdHFHYjc1elVYR25TUUhCRmMydXc1MExXaWxYRWJGMF9OOU1mTXFPa1FycUVs?oc=5",
-      "source": "punchng.com",
-      "feed": "Latin America News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-16T00:23:34.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 64,
-      "id": "d1cb64874143"
     }
   ]
 }
