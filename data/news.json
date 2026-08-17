@@ -1,11 +1,24 @@
 {
-  "updatedAt": "2026-08-17T19:00:59.303Z",
+  "updatedAt": "2026-08-17T19:45:01.901Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+      "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-08-17T19:25:05.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0845/live/0d9a0730-9a52-11f1-aed2-8d6da8d75094.jpg",
+      "topic": "社会",
+      "score": 92,
+      "id": "5d2217c56413"
+    },
     {
       "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
       "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
@@ -16,7 +29,7 @@
       "publishedAt": "2026-08-17T16:02:58.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1476/live/b59ea940-9a3e-11f1-a291-b542ee92de7c.jpg",
       "topic": "政治",
-      "score": 93,
+      "score": 92,
       "id": "767567313005"
     },
     {
@@ -29,21 +42,21 @@
       "publishedAt": "2026-08-17T17:44:00.000Z",
       "image": "",
       "topic": "经济",
-      "score": 91,
+      "score": 90,
       "id": "9e6f3d9ff917"
     },
     {
-      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-08-17T16:26:34.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0845/live/0d9a0730-9a52-11f1-aed2-8d6da8d75094.jpg",
-      "topic": "社会",
-      "score": 89,
-      "id": "5d2217c56413"
+      "title": "Trump says Kim Jong-un has responded to his overtures when asked about scaling back US drills with South Korea – live",
+      "summary": "Trump also claims he’s ‘actually making it much safer’ for South Korea by scaling back joint military drills just days after North Korea test-fired ballistic missiles Sign up for the Breaking News US email Republican senator Thom Tillis deplored Trump’s decision to cut US military drills with South Korea , which comes despite military officials from both cou",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/17/politics-trump-south-korea-military-pentagon-republicans-democrats",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "亚洲",
+      "publishedAt": "2026-08-17T19:19:27.000Z",
+      "image": "https://i.guim.co.uk/img/media/52559c1e1c5daeeff5af9103bae7999e74139051/565_0_3826_3060/master/3826.jpg?width=140&quality=85&auto=format&fit=max&s=a8b1af145c9e90ae017fdb9b772a3628",
+      "topic": "政治",
+      "score": 88,
+      "id": "f3b351ac5a8e"
     },
     {
       "title": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
@@ -55,21 +68,8 @@
       "publishedAt": "2026-08-17T12:57:18.000Z",
       "image": "https://i.guim.co.uk/img/media/2ab9f13746943762391cd240ceb44d7b9716ead1/0_59_4490_3593/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=0e7308b5019b256dbcee8695b1396197",
       "topic": "政治",
-      "score": 89,
-      "id": "e9b18d21fd24"
-    },
-    {
-      "title": "Trump says Kim Jong-un has responded to his overtures when asked about scaling back US drills with South Korea – live",
-      "summary": "Trump also claims he’s ‘actually making it much safer’ for South Korea by scaling back joint military drills just days after North Korea test-fired ballistic missiles Sign up for the Breaking News US email Republican senator Thom Tillis deplored Trump’s decision to cut US military drills with South Korea , which comes despite military officials from both cou",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/17/politics-trump-south-korea-military-pentagon-republicans-democrats",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-08-17T18:45:15.000Z",
-      "image": "https://i.guim.co.uk/img/media/52559c1e1c5daeeff5af9103bae7999e74139051/565_0_3826_3060/master/3826.jpg?width=140&quality=85&auto=format&fit=max&s=a8b1af145c9e90ae017fdb9b772a3628",
-      "topic": "政治",
       "score": 88,
-      "id": "f3b351ac5a8e"
+      "id": "e9b18d21fd24"
     },
     {
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
@@ -81,7 +81,7 @@
       "publishedAt": "2026-08-17T18:39:39.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg",
       "topic": "政治",
-      "score": 88,
+      "score": 87,
       "id": "e6c82bafaa49"
     },
     {
@@ -94,21 +94,8 @@
       "publishedAt": "2026-08-17T18:01:31.000Z",
       "image": "",
       "topic": "经济",
-      "score": 87,
-      "id": "eb7cbbf9c30f"
-    },
-    {
-      "title": "Jon Ossoff calls Trump’s handling of Iran war ‘uniquely despicable’ in excoriating speech",
-      "summary": "Georgia Democratic senator has stoked speculation for 2028 presidency bid by delivering stinging attacks on Trump Democratic senator Jon Ossoff has attacked Donald Trump’s “uniquely despicable” handling of the US-Israel war on Iran, accusing the US president of “re-rigging” a corrupt system for himself in an excoriating speech. Ossoff, who is running for re-",
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/jon-ossoff-trump-iran-war-criticism",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-17T16:31:30.000Z",
-      "image": "https://i.guim.co.uk/img/media/40c6af48622c3a33126da932c4e6c8cb66d2e1f6/894_617_5772_4618/master/5772.jpg?width=140&quality=85&auto=format&fit=max&s=8d259118773bbc9cedc989e790802c20",
-      "topic": "政治",
       "score": 86,
-      "id": "45b332a2aa1e"
+      "id": "eb7cbbf9c30f"
     },
     {
       "title": "US opens mixed with Middle East in limelight",
@@ -120,8 +107,34 @@
       "publishedAt": "2026-08-17T13:30:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 86,
+      "score": 85,
       "id": "e18b21932f53"
+    },
+    {
+      "title": "Photos: Search for Indonesia earthquake victims continues",
+      "summary": "At least 68 killed in eastern Indonesia as aftershocks and landslides hamper aid.",
+      "url": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-17T19:22:54.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 84,
+      "id": "87a1666dd656"
+    },
+    {
+      "title": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
+      "summary": "US president’s abrupt order to scale back joint exercises with Seoul is meant to ‘flatter’ North Korea’s dictator, top Democrat says US politics live – latest updates Donald Trump’s move to gut Washington’s 73-year-old military alliance with Seoul has been called “inane” and “shortsighted” as lawmakers warned it risked strengthening Russia’s hand in Ukraine.",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-17T19:11:26.000Z",
+      "image": "https://i.guim.co.uk/img/media/949b48d131e9924cba15519d8cd17dcd79a04520/689_0_2311_1849/master/2311.jpg?width=140&quality=85&auto=format&fit=max&s=79c11b06e83fb020fabf714c47e53f3e",
+      "topic": "政治",
+      "score": 84,
+      "id": "792e2d4bd781"
     },
     {
       "title": "Russian bank fires economist who said Moscow losing 'war of attrition' with West",
@@ -133,7 +146,7 @@
       "publishedAt": "2026-08-17T18:49:12.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/9cba448d7e939aafd54af039a961b0e6?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=300&width=862&height=485",
       "topic": "政治",
-      "score": 85,
+      "score": 84,
       "id": "ed8d92b17778"
     },
     {
@@ -146,7 +159,7 @@
       "publishedAt": "2026-08-17T16:38:06.000Z",
       "image": "",
       "topic": "社会",
-      "score": 85,
+      "score": 84,
       "id": "e1d31c201014"
     },
     {
@@ -159,7 +172,7 @@
       "publishedAt": "2026-08-17T16:14:07.000Z",
       "image": "",
       "topic": "政治",
-      "score": 85,
+      "score": 84,
       "id": "a41a576d6c98"
     },
     {
@@ -172,25 +185,12 @@
       "publishedAt": "2026-08-17T15:56:48.000Z",
       "image": "https://i.guim.co.uk/img/media/8c3dc801bae95d53d4487d1870e2b5c2d8494926/202_0_2222_1777/master/2222.jpg?width=140&quality=85&auto=format&fit=max&s=dace3b9b2b1c07c9e8ce899e66f12c78",
       "topic": "政治",
-      "score": 85,
+      "score": 84,
       "id": "2217a0533637"
     },
     {
-      "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
-      "summary": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
-      "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-17T18:45:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8678/live/aa573860-9a50-11f1-96c4-e7f87215742d.jpg",
-      "topic": "政治",
-      "score": 84,
-      "id": "fa5bd788ceb9"
-    },
-    {
       "title": "Reform’s Tice accused of misinformation after urging people to enjoy heatwaves",
-      "summary": "Backlash from nurses, medical experts and green campaigners in response to deputy leader dismissing efforts to reach net zero Reform’s deputy leader has been accused of spreading misinformation after he dismissed efforts to tackle the climate crisis and urged British people to enjoy the warmth of the recent heatwaves. Richard Tice prompted a backlash from nu",
+      "summary": "Nurses, medical experts and green campaigners reject party deputy leader’s dismissal of efforts to reach net zero Reform’s deputy leader has been accused of spreading misinformation after he dismissed efforts to tackle the climate crisis and urged British people to enjoy the warmth of the recent heatwaves. Richard Tice prompted a backlash from nurses, medica",
       "url": "https://www.theguardian.com/politics/2026/aug/17/reform-uk-richard-tice-stop-tackling-climate-crisis-enjoy-heat",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -198,7 +198,7 @@
       "publishedAt": "2026-08-17T18:06:13.000Z",
       "image": "https://i.guim.co.uk/img/media/68560645ae625ac7728440008e1f0a0c8f12c6a7/123_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=bcacf41ce17f5ba7e4be05cb5f8b7426",
       "topic": "气候",
-      "score": 84,
+      "score": 83,
       "id": "f101186e712b"
     },
     {
@@ -211,34 +211,8 @@
       "publishedAt": "2026-08-17T15:54:37.000Z",
       "image": "",
       "topic": "社会",
-      "score": 84,
+      "score": 83,
       "id": "46a915b73f7f"
-    },
-    {
-      "title": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
-      "summary": "US president’s abrupt order to scale back joint exercises with Seoul is meant to ‘flatter’ North Korea’s dictator, top Democrat says US politics live – latest updates Donald Trump’s move to gut Washington’s 73-year-old military alliance with Seoul has been called “inane” and “shortsighted” as lawmakers warned it risked strengthening Russia’s hand in Ukraine.",
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-17T17:43:53.000Z",
-      "image": "https://i.guim.co.uk/img/media/949b48d131e9924cba15519d8cd17dcd79a04520/689_0_2311_1849/master/2311.jpg?width=140&quality=85&auto=format&fit=max&s=79c11b06e83fb020fabf714c47e53f3e",
-      "topic": "政治",
-      "score": 83,
-      "id": "792e2d4bd781"
-    },
-    {
-      "title": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
-      "summary": "Family members allege security officers ignored warnings about the man's hemophilia and subjected him to severe abuse.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-17T17:37:31.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 83,
-      "id": "13872c92bfe1"
     },
     {
       "title": "Europe wildfires: latest developments",
@@ -254,6 +228,19 @@
       "id": "82b3597d238d"
     },
     {
+      "title": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
+      "summary": "Family members allege security officers ignored warnings about the man's hemophilia and subjected him to severe abuse.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-17T17:37:31.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 82,
+      "id": "13872c92bfe1"
+    },
+    {
       "title": "Virgin Trains a step closer to running services to Europe in blow to Eurostar",
       "summary": "Operator granted UK track access for as many as 20 daily return trains to Paris, Brussels and Amsterdam from 2030 Business live – latest updates Virgin Trains has been granted track access by the rail regulator to enable it to run services between London and Paris, Brussels and Amsterdam from 2030, in a key step towards breaking Eurostar’s monopoly on the cr",
       "url": "https://www.theguardian.com/business/2026/aug/17/virgin-trains-services-to-europe-eurostar",
@@ -263,7 +250,7 @@
       "publishedAt": "2026-08-17T16:41:07.000Z",
       "image": "https://i.guim.co.uk/img/media/f62f63de65e57ec2e075c4b1ebbdbb7860d43b5e/507_0_1531_1226/master/1531.jpg?width=140&quality=85&auto=format&fit=max&s=4324ce74568b64e255bdd10d3650ed84",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "1b0c2e7b7f9c"
     },
     {
@@ -276,7 +263,7 @@
       "publishedAt": "2026-08-17T16:27:48.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "c4ced8b59b86"
     },
     {
@@ -289,7 +276,7 @@
       "publishedAt": "2026-08-17T14:07:31.000Z",
       "image": "https://i.guim.co.uk/img/media/a393063cc2d82e5b3b20c44e22654a645b95ab37/581_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e627dfdebce0f22e71d4b8bb71204ef6",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "8e7f7748d7e9"
     },
     {
@@ -302,8 +289,73 @@
       "publishedAt": "2026-08-17T13:56:00.000Z",
       "image": "",
       "topic": "经济",
-      "score": 82,
+      "score": 81,
       "id": "7b5572644cca"
+    },
+    {
+      "title": "Who will extinguish the flames of the Middle East? Israel strikes to avert danger, Iran deters to prevent a strike, and America mobilizes to prevent war",
+      "summary": "Who will extinguish the flames of the Middle East? Israel strikes to avert danger, Iran deters to prevent a strike, and America mobilizes to prevent war &nbsp;&nbsp; صوت الإمارات",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNRWR5YkdLdG5ZbDZPb0s3WVdCbzJWZTFyRlpXNnl2Z2NkMUFXaW5nYUowbGNQbEVUNkNtNzdXVUZCRDlBVTU2bnpZa0dqeDJMTHdIRDkyWVB3S01QUW8xSk5MRXZFRGxrTHRBdGwxaGo3d204UUl5bjJGT19XaHo2WXJ6QlJBTDdiV2Q2aEZyX3FsdXV0cU5IOUU0ZEdRS1RUUHpnV2xLRGxJbHo2a1Q1LVJqeWcwRV9CTmVNczNvb016cGkyWTQ4Z1ZJRU9TRG1NQ0gyai1POXB0VEVDX3lubnlLN0JtaU5jSXZjSVlCNUNta01RZFRScVhldHN5T19NMG1sd2RaYmdVaEh4ci1pZEs1NjVlM0ZvcXVrSVJYbUttN1FadWhTOGZPLXFKUQ?oc=5",
+      "source": "صوت الإمارات",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-17T10:19:45.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 81,
+      "id": "0ebce77e9d91"
+    },
+    {
+      "title": "Marketplace warning as woman left $10K out of pocket after car purchase",
+      "summary": "A consumer group says Facebook Marketplace should be included in new federal anti-scam laws, after a Tasmanian woman lost $10,000 inadvertently buying a stolen vehicle.",
+      "url": "https://www.abc.net.au/news/2026-08-18/facebook-marketplace-car-scam-stolen-car-leanne-roney-tas/106972894",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-17T19:40:51.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b254583fdae90486a474641778dd3efa?impolicy=wcms_crop_resize&cropH=2226&cropW=3957&xPos=2&yPos=134&width=862&height=485",
+      "topic": "政治",
+      "score": 80,
+      "id": "c876b6654cb8"
+    },
+    {
+      "title": "Trump tells 10-year-old rescued by teen lifeguard: ‘I don’t know if I’d do it’",
+      "summary": "President hosts Nathanial Rai and lifeguard Ryder Williams at White House after video of California rescue went viral Nathanial Rai had been swept off his feet along the California coast, was rescued by a 16-year-old lifeguard – and was now sitting in the Oval Office with Donald Trump. Of the rescuer, Ryder Williams , Trump said to Rai: “He’s a real hero. I ",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-oval-office-california-resuced-teen-viral",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-17T19:19:10.000Z",
+      "image": "https://i.guim.co.uk/img/media/3dd610ff702f078876826aeee2ccddc903235e7e/429_0_4545_3636/master/4545.jpg?width=140&quality=85&auto=format&fit=max&s=bdab8d52093650d6706d88cec1087c63",
+      "topic": "政治",
+      "score": 80,
+      "id": "c781b3464821"
+    },
+    {
+      "title": "Huge number of children would fall into poverty under Reform’s benefits plans, say campaigners",
+      "summary": "Party wants to cut £50bn from UK welfare bill but charity says proposals would cause ‘horrific levels of destitution’ Hundreds of thousands of children would be tipped into poverty and destitution under plans unveiled by Reform UK to slash £50bn a year from the UK benefits bill, campaigners have warned. The warnings came after Reform published plans to drast",
+      "url": "https://www.theguardian.com/politics/2026/aug/17/children-poverty-reform-uk-benefits",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-17T19:11:25.000Z",
+      "image": "https://i.guim.co.uk/img/media/b554f48b6cfb2985e9f897d0483a505cbf441577/515_0_4488_3591/master/4488.jpg?width=140&quality=85&auto=format&fit=max&s=ea9882a059ad9d58a537d432bffa1338",
+      "topic": "政治",
+      "score": 80,
+      "id": "160d82a60262"
+    },
+    {
+      "title": "Wall St mixed as Middle East tensions eclipse tech strength",
+      "summary": "Wall St mixed as Middle East tensions eclipse tech strength &nbsp;&nbsp; The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeFQzR1Atei1XOHJUaUZHbTB3SlkwNnlZbnRMWk9QWWxtTlN5YmZuMlJMeG1oWFNNbVpuUW50LTN6YlZTYU91LUFnSEx3VXI3NHVBRV9yLXpJODYtc2g3ZGhfZm5qbnJuYjNwLWJ1SFdJTVVlY18ybDNPaGxORDRUODF1NFQ0RHlldXljOWpOSm95aGxITjRQMXRDaENYTkpobUdYSDlsRDJaeFA4bUlFWFl2aWNvVTZ3b1ZLQUlTYklSTlllYTRIS1cyNzZpaS05NnktQ3lEUGl0b1p1azRqTnJnNTFQY2w5MnE3U25tRlc?oc=5",
+      "source": "The Lufkin Daily News",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-17T16:16:09.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 80,
+      "id": "538e32de1157"
     },
     {
       "title": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
@@ -315,8 +367,34 @@
       "publishedAt": "2026-08-17T16:01:47.000Z",
       "image": "https://i.guim.co.uk/img/media/13bb6e45da9f6fdeb8d43e497bfb6f7440eea661/0_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=b1c497610e5bea32211ac2dbf83665ed",
       "topic": "气候",
-      "score": 81,
+      "score": 80,
       "id": "8f227a588cba"
+    },
+    {
+      "title": "Trump orders cuts to South Korea joint drills despite warnings about Kim regime",
+      "summary": "President says he ‘gets along great’ with dictator but officials say Ukraine war is boosting North’s capabilities Donald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un’s regime is learning new battlefield tactics from the Ukrai",
+      "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "亚洲",
+      "publishedAt": "2026-08-17T09:10:24.000Z",
+      "image": "https://i.guim.co.uk/img/media/812d23651e2260e3817cb53514597677be97214b/367_1_2220_1777/master/2220.jpg?width=140&quality=85&auto=format&fit=max&s=c2506fbf47a36783e0164626dce0b567",
+      "topic": "政治",
+      "score": 80,
+      "id": "fdf3f7b0dffc"
+    },
+    {
+      "title": "Josh Burns on the personal cost of being Jewish in parliament",
+      "summary": "The federal MP considers himself a \"normal Australian\" but since the events of October 7 and the Bondi terror attack he's been forced to navigate what he says is a difficult time.",
+      "url": "https://www.abc.net.au/news/2026-08-18/josh-burns-didnt-set-out-to-be-the-jewish-guy-in-parliament/107037772",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-17T19:00:00.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4f7c4f613f035af753adaee161033975?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=24&width=862&height=485",
+      "topic": "政治",
+      "score": 79,
+      "id": "fa265803c08a"
     },
     {
       "title": "Why this future star has 'goosebumps' over triathlon's future",
@@ -328,8 +406,47 @@
       "publishedAt": "2026-08-17T18:56:30.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7ad2ca6178b3dfd77990568ff316727b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=206&width=862&height=485",
       "topic": "科技",
-      "score": 80,
+      "score": 79,
       "id": "eddf50ab8f7d"
+    },
+    {
+      "title": "Russian politician sentenced to 11 years for opposing war in Ukraine",
+      "summary": "Lev Shlosberg, a senior member of the Yabloko party, was sentenced to 11 years and one month in prison on Monday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-17T18:53:06.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "fc39d8550313"
+    },
+    {
+      "title": "Russia maintains election ban on opposition Yabloko, jails deputy head",
+      "summary": "Supreme Court ruling supports Kremlin's clampdown on the political party ahead of September's parliamentary vote.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-17T18:46:12.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "77c2fad850eb"
+    },
+    {
+      "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
+      "summary": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
+      "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-17T18:45:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8678/live/aa573860-9a50-11f1-96c4-e7f87215742d.jpg",
+      "topic": "政治",
+      "score": 79,
+      "id": "fa5bd788ceb9"
     },
     {
       "title": "What happens if property prices drop 20pc? Ask New Zealand or Canada",
@@ -341,7 +458,7 @@
       "publishedAt": "2026-08-17T18:41:44.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/84c1c396b2b0f7418154cb7f86d9d587?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=261&width=862&height=485",
       "topic": "经济",
-      "score": 80,
+      "score": 79,
       "id": "25f46e911df5"
     },
     {
@@ -354,7 +471,7 @@
       "publishedAt": "2026-08-17T18:38:41.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/b14dbc16349f9063969f36ad518108f8?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=233&width=862&height=485",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "e9bb5518beca"
     },
     {
@@ -367,7 +484,7 @@
       "publishedAt": "2026-08-17T18:38:18.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "2841d9da5a3c"
     },
     {
@@ -380,21 +497,8 @@
       "publishedAt": "2026-08-17T18:30:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/82a7fd6c733fed201751bace50c677c2?impolicy=wcms_crop_resize&cropH=1440&cropW=2560&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "f84d54f13724"
-    },
-    {
-      "title": "Wall St mixed as Middle East tensions eclipse tech strength",
-      "summary": "Wall St mixed as Middle East tensions eclipse tech strength &nbsp;&nbsp; The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeFQzR1Atei1XOHJUaUZHbTB3SlkwNnlZbnRMWk9QWWxtTlN5YmZuMlJMeG1oWFNNbVpuUW50LTN6YlZTYU91LUFnSEx3VXI3NHVBRV9yLXpJODYtc2g3ZGhfZm5qbnJuYjNwLWJ1SFdJTVVlY18ybDNPaGxORDRUODF1NFQ0RHlldXljOWpOSm95aGxITjRQMXRDaENYTkpobUdYSDlsRDJaeFA4bUlFWFl2aWNvVTZ3b1ZLQUlTYklSTlllYTRIS1cyNzZpaS05NnktQ3lEUGl0b1p1azRqTnJnNTFQY2w5MnE3U25tRlc?oc=5",
-      "source": "The Lufkin Daily News",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-17T16:00:28.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 80,
-      "id": "538e32de1157"
     },
     {
       "title": "Rights group urges FIFA to block Infantino re-election bid over term limits",
@@ -406,7 +510,7 @@
       "publishedAt": "2026-08-17T15:21:47.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "f3d6e58dd960"
     },
     {
@@ -419,21 +523,8 @@
       "publishedAt": "2026-08-17T15:00:03.000Z",
       "image": "https://i.guim.co.uk/img/media/70bf7c6fed4a9f8d09c1f8e5e16a47b7e5090b06/494_0_2460_1969/master/2460.jpg?width=140&quality=85&auto=format&fit=max&s=7b811952381d7dbc0924797ebc460ade",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "101e2c5a108a"
-    },
-    {
-      "title": "Trump orders cuts to South Korea joint drills despite warnings about Kim regime",
-      "summary": "President says he ‘gets along great’ with dictator but US officials say Ukraine war is boosting North’s capabilities Donald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un’s regime is learning new battlefield tactics from the Uk",
-      "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-08-17T09:10:24.000Z",
-      "image": "https://i.guim.co.uk/img/media/812d23651e2260e3817cb53514597677be97214b/367_1_2220_1777/master/2220.jpg?width=140&quality=85&auto=format&fit=max&s=c2506fbf47a36783e0164626dce0b567",
-      "topic": "政治",
-      "score": 80,
-      "id": "fdf3f7b0dffc"
     },
     {
       "title": "Ministers drop plan to relax affordable housing rules after negative response",
@@ -445,86 +536,8 @@
       "publishedAt": "2026-08-17T17:45:17.000Z",
       "image": "https://i.guim.co.uk/img/media/a6cbcfc2c250b2ce2265975a6a842710c9b31ba3/338_0_3347_2677/master/3347.jpg?width=140&quality=85&auto=format&fit=max&s=e1d9c02cb356d5dc79c3ae587baa4dee",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "b1acabdb617d"
-    },
-    {
-      "title": "Top Zambian opposition figures arrested days after presidential vote",
-      "summary": "The leading opposition candidate calls allegations of a planned insurrection \"total fabrications\".",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-17T14:23:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4885/live/b3a7d990-9a02-11f1-ad4f-c7824f9e4997.jpg",
-      "topic": "政治",
-      "score": 79,
-      "id": "b5c184e67862"
-    },
-    {
-      "title": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
-      "summary": "Brazil’s presidential race is officially underway.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-17T14:03:26.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 79,
-      "id": "92d260ae8afd"
-    },
-    {
-      "title": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
-      "summary": "On Monday, Israel's governing party will determine its candidate list for the next election.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-17T17:07:29.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 78,
-      "id": "299b0d8748d9"
-    },
-    {
-      "title": "Amanda Abbington awarded five-figure sum by BBC over bullying allegations on Strictly",
-      "summary": "BBC apologises to actor after review upholds ‘some’ of her allegations against dance partner Giovanni Pernice The actor Amanda Abbington has reached a five-figure settlement with the BBC over bullying allegations she made about her time on Strictly Come Dancing. The programme was the subject of a review in 2024 after she alleged her professional partner, Gio",
-      "url": "https://www.theguardian.com/culture/2026/aug/17/amanda-abbington-settlement-bbc-giovanni-pernice-bullying-allegations-strictly-come-dancing",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-17T17:05:33.000Z",
-      "image": "https://i.guim.co.uk/img/media/c6706e364fb2ad0d21eeae8e2ceb918bbaf18b11/286_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=df5289a64b2ee92d354432e8fe5d0e80",
-      "topic": "政治",
-      "score": 78,
-      "id": "80a56a0a4b54"
-    },
-    {
-      "title": "British PM Burnham duped by White House impostor",
-      "summary": "The FBI has warned of 'malicious actors' misusing AI to impersonate senior government officials.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-17T16:48:24.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 78,
-      "id": "db758861cfd2"
-    },
-    {
-      "title": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
-      "summary": "Israeli PM again insists troops will not withdraw from strip until Hamas first disarms, but calls meeting constructive Benjamin Netanyahu has told Donald Trump’s son-in-law and envoy Jared Kushner there can be no progress on the stalled Gaza ceasefire deal or an Israeli withdrawal from the coastal strip until Hamas first disarms. An Israeli official said the",
-      "url": "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-17T16:42:04.000Z",
-      "image": "https://i.guim.co.uk/img/media/296b9871ecdfdaa7612da76711151712abc1edb9/312_0_3379_2704/master/3379.jpg?width=140&quality=85&auto=format&fit=max&s=ba9a16112462a12e72bec08dbfe1de39",
-      "topic": "政治",
-      "score": 78,
-      "id": "ebc52b981729"
     },
     {
       "title": "Trump threatens Oman as Iran vows to escalate conflict over Hormuz",
@@ -540,6 +553,84 @@
       "id": "9eeaa25fa3c8"
     },
     {
+      "title": "Top Zambian opposition figures arrested days after presidential vote",
+      "summary": "The leading opposition candidate calls allegations of a planned insurrection \"total fabrications\".",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-17T14:23:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4885/live/b3a7d990-9a02-11f1-ad4f-c7824f9e4997.jpg",
+      "topic": "政治",
+      "score": 78,
+      "id": "b5c184e67862"
+    },
+    {
+      "title": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
+      "summary": "Brazil’s presidential race is officially underway.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-17T14:03:26.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 78,
+      "id": "92d260ae8afd"
+    },
+    {
+      "title": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
+      "summary": "On Monday, Israel's governing party will determine its candidate list for the next election.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-17T17:07:29.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 77,
+      "id": "299b0d8748d9"
+    },
+    {
+      "title": "British PM Burnham duped by White House impostor",
+      "summary": "The FBI has warned of 'malicious actors' misusing AI to impersonate senior government officials.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-17T16:48:24.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 77,
+      "id": "db758861cfd2"
+    },
+    {
+      "title": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
+      "summary": "Israeli PM again insists troops will not withdraw from strip until Hamas first disarms, but calls meeting constructive Benjamin Netanyahu has told Donald Trump’s son-in-law and envoy Jared Kushner there can be no progress on the stalled Gaza ceasefire deal or an Israeli withdrawal from the coastal strip until Hamas first disarms. An Israeli official said the",
+      "url": "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-08-17T16:42:04.000Z",
+      "image": "https://i.guim.co.uk/img/media/296b9871ecdfdaa7612da76711151712abc1edb9/312_0_3379_2704/master/3379.jpg?width=140&quality=85&auto=format&fit=max&s=ba9a16112462a12e72bec08dbfe1de39",
+      "topic": "政治",
+      "score": 77,
+      "id": "ebc52b981729"
+    },
+    {
+      "title": "Parents who home educate their children call for representation in census",
+      "summary": "Home educators say the census does not recognise thousands of children in alternative schooling, with about 49,000 Australian students educated at home.",
+      "url": "https://www.abc.net.au/news/2026-08-18/home-educators-call-for-census-representation-schooling/107047056",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-17T19:21:39.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/c93432f49275c0a67a74b9a877012690?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=98&width=862&height=485",
+      "topic": "社会",
+      "score": 76,
+      "id": "9b379015754c"
+    },
+    {
       "title": "Hockey World Cup: India seek big win against South Africa",
       "summary": "Hockey World Cup: India seek big win against South Africa &nbsp;&nbsp; The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTWZEX1ZDR1VSemtPZGtDSWVmb2lQcnJJcnhuTURadjk1a3lmU2FUZ3FYR1MtV1NIMG5pRmI2Y2psXzhPdUhXSU9mM0tfY3BHeEs2bEF1Tm5CV242c1AyTVhwLWg1X3N6MVgyUVVfdGwyX0c2MlZNQ3Frc2dRVTdTYjFEV3ptZVVHSlpOU3o0Mm53b1dqU3pQMVVNNUJuYU9naEI0RHJWcmRfMTVGbDM4bXVWQmpjRG01dEZ3UVlaZVp4T0hmTUhwYXdrNjJqODYzLUgyY25NWEQ4OXI40gHiAUFVX3lxTE8taWlhVnAtM19BNkxEd3Q0QXlnQ2M3ZU5hUDRlSU1CU2hhU1hHSVdWbEZid05fQ0JLTHllbGZPTHUxT2tHUjV1a241UDJ4WDMwSlROdXV4aG43TTJ4b3E4a0p4YjQ4ZVlwUjJaRU9Wc1pIOGhSdWdxb3BqOXdxSW5zNkxSeVdZZWgxdm82MnNSdHFvb2dZajF3V0pfVDA0eTVSS2hpODBnNURTLUNJUGM2QW5DSDU3UGZWNXppMk5FdEZRcnJpZkJUaFVlRHJpcnEwRGlQQWpiR0NGcjdsVDB3Rnc?oc=5",
@@ -549,7 +640,7 @@
       "publishedAt": "2026-08-17T16:22:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "a84e58feafd1"
     },
     {
@@ -562,7 +653,7 @@
       "publishedAt": "2026-08-17T16:17:34.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6484/live/398ad2e0-9a4b-11f1-aed2-8d6da8d75094.jpg",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "16b44eac0644"
     },
     {
@@ -575,86 +666,8 @@
       "publishedAt": "2026-08-17T12:44:35.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/36e53a50cded1a7c82db0af09e164736?impolicy=wcms_crop_resize&cropH=2717&cropW=4831&xPos=0&yPos=500&width=862&height=485",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "c58369746adc"
-    },
-    {
-      "title": "Options are slim for new Australia Test cricket batters",
-      "summary": "Twin failures by Australia batters, Marnus Labuschagne and Jake Weatherald have many pundits calling for them to be dropped for the second Test against Bangladesh. But who are the possible replacements?",
-      "url": "https://www.abc.net.au/news/2026-08-18/australia-cricket-batsmen-options-thin/107046784",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-17T18:55:37.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/5afb08d6e24dda00fb6eb1ebf4b57ed0?impolicy=wcms_crop_resize&cropH=1460&cropW=2595&xPos=0&yPos=150&width=862&height=485",
-      "topic": "社会",
-      "score": 76,
-      "id": "fd6035aa539c"
-    },
-    {
-      "title": "Albanese government reduces home care waitlist by changing counting method",
-      "summary": "A Four Corners investigation can reveal the number of people waiting for full aged care funding at home stands at almost 154,000 — not 100,000 as officially reported.",
-      "url": "https://www.abc.net.au/news/2026-08-18/government-cuts-aged-care-waitlist-by-changing-counting-method/107047062",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-17T18:44:24.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/daafc2c63590a4495e5fcb4c2873c3e9?impolicy=wcms_crop_resize&cropH=807&cropW=1435&xPos=293&yPos=152&width=862&height=485",
-      "topic": "政治",
-      "score": 76,
-      "id": "af180eafed1d"
-    },
-    {
-      "title": "Pauline Hanson is backing WA on the GST, but she hasn't always",
-      "summary": "Three years after calling out WA's \"huge benefit\" from the GST carve-up, the One Nation leader shifts her position.",
-      "url": "https://www.abc.net.au/news/2026-08-18/pauline-hanson-changes-position-on-wa-and-gst/107047490",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-17T18:39:56.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/7cef0d6b2f9c4f8703590283014c7ee0?impolicy=wcms_crop_resize&cropH=1998&cropW=3551&xPos=178&yPos=191&width=862&height=485",
-      "topic": "社会",
-      "score": 76,
-      "id": "cf416a14a4ef"
-    },
-    {
-      "title": "French PM booed on visit to wildfire-affected region as EU sends assistance to Belgium and Spain – as it happened",
-      "summary": "Belgium wildfire creeps closer to German border, as 104 firefighters and 36 vehicles from France help with Spain wildfire effort As flagged earlier, Belgium’s King Philippe is now visiting the emergency coordination centre looking after the firefighters tackling the major fire in the eastern part of the country ( 9:39 ). The European Commission has deployed ",
-      "url": "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-17T15:48:39.000Z",
-      "image": "https://i.guim.co.uk/img/media/902a884b82739148d0978fed325385172877cc0c/579_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8f3e229dd551181e39192f8ea8a7082c",
-      "topic": "气候",
-      "score": 76,
-      "id": "f0f1c55f777c"
-    },
-    {
-      "title": "Police execute controlled World War II–era Mine explosion",
-      "summary": "Video footage released by police on Sunday shows Slovak bomb disposal experts executing a mine detonation.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-17T15:08:17.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 76,
-      "id": "296568fab89c"
-    },
-    {
-      "title": "Trump scales down war games with South Korea: Why it matters",
-      "summary": "US president cites Seoul's reluctance to back his war on Iran, and his warm ties with North Korea's leader as reasons.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-17T12:20:47.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 76,
-      "id": "a08b1f1068a1"
     },
     {
       "title": "At least 6 dead after Ukraine launches aerial attack on Russia",
@@ -670,6 +683,84 @@
       "id": "f9d065d0e4af"
     },
     {
+      "title": "Death toll from capsized ferry in Zimbabwe rises to 92",
+      "summary": "Search efforts to recover the remaining victims are still underway.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-17T19:12:19.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "0b4faaf51e5c"
+    },
+    {
+      "title": "Trump administration pauses border construction in Big Bend national park",
+      "summary": "Controversial project has faced bipartisan opposition by critics who say it mars pristine environmental area in Texas The Trump administration says it is temporarily pausing construction of a controversial border construction project in Big Bend national park while the head of the agency tasked with building the wall visits Texas to do an “on-the-ground eval",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-big-bend-national-park-texas-construction",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-17T19:05:19.000Z",
+      "image": "https://i.guim.co.uk/img/media/6f82d946ae1704bf1996c4dae47c32dff843bc1b/214_0_6025_4823/master/6025.jpg?width=140&quality=85&auto=format&fit=max&s=ab39fb8749c86c780e3f5d4933f2a06d",
+      "topic": "气候",
+      "score": 75,
+      "id": "262a3b923b6a"
+    },
+    {
+      "title": "FIFA sacks senior executive who criticised Infantino, Sky News understands",
+      "summary": "Football's world governing body, FIFA, has sacked one of its most senior figures after he criticised Gianni Infantino's plan to sell part of the World Cup to investors, Sky News understands.",
+      "url": "https://news.sky.com/story/fifa-sacks-senior-executive-who-criticised-infantino-sky-news-understands-13574166",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "全球",
+      "publishedAt": "2026-08-17T19:02:00.000Z",
+      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-gianni-infantino-football_7315035.jpg?20260806071459",
+      "topic": "社会",
+      "score": 75,
+      "id": "cdc0863a60c6"
+    },
+    {
+      "title": "Options are slim for new Australia Test cricket batters",
+      "summary": "Twin failures by Australia batters, Marnus Labuschagne and Jake Weatherald have many pundits calling for them to be dropped for the second Test against Bangladesh. But who are the possible replacements?",
+      "url": "https://www.abc.net.au/news/2026-08-18/australia-cricket-batsmen-options-thin/107046784",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-17T18:55:37.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/5afb08d6e24dda00fb6eb1ebf4b57ed0?impolicy=wcms_crop_resize&cropH=1460&cropW=2595&xPos=0&yPos=150&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "fd6035aa539c"
+    },
+    {
+      "title": "Albanese government reduces home care waitlist by changing counting method",
+      "summary": "A Four Corners investigation can reveal the number of people waiting for full aged care funding at home stands at almost 154,000 — not 100,000 as officially reported.",
+      "url": "https://www.abc.net.au/news/2026-08-18/government-cuts-aged-care-waitlist-by-changing-counting-method/107047062",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-17T18:44:24.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/daafc2c63590a4495e5fcb4c2873c3e9?impolicy=wcms_crop_resize&cropH=807&cropW=1435&xPos=293&yPos=152&width=862&height=485",
+      "topic": "政治",
+      "score": 75,
+      "id": "af180eafed1d"
+    },
+    {
+      "title": "Pauline Hanson is backing WA on the GST, but she hasn't always",
+      "summary": "Three years after calling out WA's \"huge benefit\" from the GST carve-up, the One Nation leader shifts her position.",
+      "url": "https://www.abc.net.au/news/2026-08-18/pauline-hanson-changes-position-on-wa-and-gst/107047490",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-17T18:39:56.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7cef0d6b2f9c4f8703590283014c7ee0?impolicy=wcms_crop_resize&cropH=1998&cropW=3551&xPos=178&yPos=191&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "cf416a14a4ef"
+    },
+    {
       "title": "US Navy destroyer adrift in South China Sea for four days after losing power",
       "summary": "USS Benfold lost power after ‘engineering casualty’ leaving sailors without galley services, toilets and air conditioning A US guided-missile destroyer reportedly spent four days adrift and without power in the South China Sea in July, furthering concerns about strain being placed on deployed military members. The USS Benfold, an Arleigh Burke-class guided-m",
       "url": "https://www.theguardian.com/us-news/2026/aug/17/us-navy-destroyer-south-china-sea",
@@ -683,6 +774,45 @@
       "id": "534fe4262051"
     },
     {
+      "title": "French PM booed on visit to wildfire-affected region as EU sends assistance to Belgium and Spain – as it happened",
+      "summary": "Belgium wildfire creeps closer to German border, as 104 firefighters and 36 vehicles from France help with Spain wildfire effort As flagged earlier, Belgium’s King Philippe is now visiting the emergency coordination centre looking after the firefighters tackling the major fire in the eastern part of the country ( 9:39 ). The European Commission has deployed ",
+      "url": "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-17T15:48:39.000Z",
+      "image": "https://i.guim.co.uk/img/media/902a884b82739148d0978fed325385172877cc0c/579_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8f3e229dd551181e39192f8ea8a7082c",
+      "topic": "气候",
+      "score": 75,
+      "id": "f0f1c55f777c"
+    },
+    {
+      "title": "Police execute controlled World War II–era Mine explosion",
+      "summary": "Video footage released by police on Sunday shows Slovak bomb disposal experts executing a mine detonation.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-17T15:08:17.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "296568fab89c"
+    },
+    {
+      "title": "Middle East live: Trump threatens to bomb Oman if they get in way of Hormuz shipping deal",
+      "summary": "Middle East live: Trump threatens to bomb Oman if they get in way of Hormuz shipping deal &nbsp;&nbsp; France 24",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVTd4bXZvUXZDSWhjZkdlRUJDSTFQY1BhNFFGcXVRSmlZLTVTcUs4Qk93T003SkhJaHFfNWNUMTRvM204RUpSYnJ0cWxsQmdqMk82WFktZnFadGM2SE1FLXlyMDBtSk9nRzVCRFpNUlgzT0tuQ2tKX1hMU3RrU3YyMXlWazV6U0lrLUMtMXEweFE5T2xRZVM4eVJudjVLTWFMd0hSX2dwRUE0dW5OMnNlVG0xellhb2ZiUXlxYUluVUlJc2lOQ2RYYXRudnRIaC15?oc=5",
+      "source": "France 24",
+      "feed": "Middle East News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-17T12:09:55.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "eebfe80e5ce5"
+    },
+    {
       "title": "What to do if your credit card debt is starting to feel overwhelming",
       "summary": "As the cost of living continues to rise, what steps can you take if your credit card is starting to feel like a problem?",
       "url": "https://www.abc.net.au/news/2026-08-18/how-to-pay-off-a-credit-card-debt/107004086",
@@ -692,7 +822,7 @@
       "publishedAt": "2026-08-17T18:30:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/55cc82d95659aa38828967680414915f?impolicy=wcms_crop_resize&cropH=895&cropW=1591&xPos=9&yPos=1060&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "5ded5cdf309f"
     },
     {
@@ -705,7 +835,7 @@
       "publishedAt": "2026-08-17T18:30:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/048d937b14eba15821171dc3ee05084b?impolicy=wcms_crop_resize&cropH=1080&cropW=1918&xPos=1&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "a537349063d6"
     },
     {
@@ -718,7 +848,7 @@
       "publishedAt": "2026-08-17T18:25:19.000Z",
       "image": "https://i.guim.co.uk/img/media/271b9b80db12f16aae91aa5a2ed9188c8311bf86/0_0_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=0ab314aa2cdd69421d6ad72b87c6ee38",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "446e15c1f9a1"
     },
     {
@@ -731,7 +861,7 @@
       "publishedAt": "2026-08-17T18:17:10.000Z",
       "image": "https://i.guim.co.uk/img/media/6ee7c73119ceaaf5014b9b747cd7293634d62d1d/0_344_2038_1631/master/2038.jpg?width=140&quality=85&auto=format&fit=max&s=97358e6e51f9509af24bff187830336a",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "14f13d192c53"
     },
     {
@@ -744,11 +874,11 @@
       "publishedAt": "2026-08-17T18:03:23.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/30fa3180-9a45-11f1-a86b-519b4d19bbee.jpg",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "27225be2d6da"
     },
     {
-      "title": "CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations",
+      "title": "CAIR slams Abbott’s ‘anti-Muslim stunt’ on Texas airport washing stations",
       "summary": "Abbott accuses airports of religious discrimination over wudu stations, calls for federal investigation.",
       "url": "https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss",
       "source": "Al Jazeera",
@@ -757,8 +887,8 @@
       "publishedAt": "2026-08-17T18:02:15.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
-      "id": "c47c2881031c"
+      "score": 74,
+      "id": "527c53d6f583"
     },
     {
       "title": "French PM heckled over wildfire response as blazes continue across Europe",
@@ -770,7 +900,7 @@
       "publishedAt": "2026-08-17T18:00:55.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eda/live/2bab6b50-9a58-11f1-ba0a-a16da249d30e.jpg",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "feb79d06f456"
     },
     {
@@ -783,7 +913,7 @@
       "publishedAt": "2026-08-17T18:00:02.000Z",
       "image": "https://i.guim.co.uk/img/media/b4e12fac3da54c3c7049fd49c793d7dea6af65ef/102_73_1826_1461/master/1826.jpg?width=140&quality=85&auto=format&fit=max&s=5ebeaf2a20f92ce453dc788e4fac2cf8",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "37103f7bbb82"
     },
     {
@@ -796,7 +926,7 @@
       "publishedAt": "2026-08-17T15:00:01.000Z",
       "image": "https://i.guim.co.uk/img/media/c21af2511cd24ef0d2b61cdfc4dfbb5fb5487389/886_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=68e58953bb0169d600101837613f7946",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "ce84174ed81d"
     },
     {
@@ -809,138 +939,8 @@
       "publishedAt": "2026-08-17T15:00:00.000Z",
       "image": "https://i.guim.co.uk/img/media/1b344b57ed7f4a05db1d2711abf10acd84cb3cee/107_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=91bd9696a0c9ce1fc99d3dfa039be9c5",
       "topic": "经济",
-      "score": 75,
+      "score": 74,
       "id": "7589df4642d0"
-    },
-    {
-      "title": "south africa-46th-sadc-summit",
-      "summary": "south africa-46th-sadc-summit &nbsp;&nbsp; WION",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41S2ktc010NVhTdTZhWGRNck9kOVFLQlpmRnZvVnVHOUNFMlZfTWRmbnJCUDI1N2g4Ti02OTN0X1Etajl5VXJhVlVtQ2xQMjVmUWoxRXVkUUpqWlhCMjZUcEZKTFBnN0J4RGc?oc=5",
-      "source": "WION",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-17T14:32:17.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "fa4d9e4885cb"
-    },
-    {
-      "title": "Middle East live: Trump threatens to bomb Oman if they get in way of Hormuz shipping deal",
-      "summary": "Middle East live: Trump threatens to bomb Oman if they get in way of Hormuz shipping deal &nbsp;&nbsp; france24.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVTd4bXZvUXZDSWhjZkdlRUJDSTFQY1BhNFFGcXVRSmlZLTVTcUs4Qk93T003SkhJaHFfNWNUMTRvM204RUpSYnJ0cWxsQmdqMk82WFktZnFadGM2SE1FLXlyMDBtSk9nRzVCRFpNUlgzT0tuQ2tKX1hMU3RrU3YyMXlWazV6U0lrLUMtMXEweFE5T2xRZVM4eVJudjVLTWFMd0hSX2dwRUE0dW5OMnNlVG0xellhb2ZiUXlxYUluVUlJc2lOQ2RYYXRudnRIaC15?oc=5",
-      "source": "france24.com",
-      "feed": "Middle East News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-17T12:09:55.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "07cf3e968abe"
-    },
-    {
-      "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
-      "summary": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "非洲",
-      "publishedAt": "2026-08-17T04:41:31.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6968/live/176af9c0-99f5-11f1-8ffd-896dfa12c5fd.jpg",
-      "topic": "社会",
-      "score": 75,
-      "id": "f5e079798f8b"
-    },
-    {
-      "title": "Clashes between government and opposition fighters in Somalia’s Baidoa",
-      "summary": "Heavy clashes broke out in Baidoa, Somalia between federal troops and armed opposition groups.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "非洲",
-      "publishedAt": "2026-08-17T17:42:02.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "ea52fd3add9f"
-    },
-    {
-      "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-      "summary": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-17T17:31:36.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14ea8240-9a6a-11f1-b792-a710e56a11dc.jpg",
-      "topic": "社会",
-      "score": 74,
-      "id": "9814db0055fa"
-    },
-    {
-      "title": "Explosion reported at school in Afghan capital Kabul",
-      "summary": "The cause of the blast and the number of casualties have not been confirmed, with the Taliban government yet to comment.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-17T17:30:11.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "f2e678638d48"
-    },
-    {
-      "title": "Britain deploys military as wildfires spread across Europe",
-      "summary": "Britain deploys military as wildfires spread across Europe",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/britain-deploys-military-as-wildfires-spread-across-europe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-17T17:25:37.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "5882fa4c3477"
-    },
-    {
-      "title": "The EU strengthens aid to Colombia after the earthquake: sends tents, blankets, and water filters",
-      "summary": "The EU strengthens aid to Colombia after the earthquake: sends tents, blankets, and water filters &nbsp;&nbsp; democrata.es",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0dQTFpSS1Q3RWJKXzVFMnNZaHJzeDA4VC1pZGUxRDJiR081N2prSkdybXdUMnlEOUFMT1I1N01zOG5NcXBKbUZKTjZvdjZTcnhkV3JGSzB1ZXdPYlF4WURqYXg2OG13SGd3RFpIRGgzalZFQmVPUHkzMkMtQnB2UU8wclFMREN00gGOAUFVX3lxTFA1aG1YdVotc0p2Q0Z0OHlydjczV21RYWVhN2UwX2ZJRDVJbzZjSEp6WG5ZR0YwUGk5RzdDcDZ5Z04xbVY5ZERpUHhONHluR1hCc3drUWEyZTN6aXcyeW9VZXFBN2F1TGhVcElhdGF0T0ZhN1IzaTB3NDh6d3Z6cS1menQ3YzdYRk9SeERhNkE?oc=5",
-      "source": "democrata.es",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-17T17:25:14.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 74,
-      "id": "e53f1a53e3f4"
-    },
-    {
-      "title": "Towards an era of Asian oceanic sovereignty",
-      "summary": "Towards an era of Asian oceanic sovereignty &nbsp;&nbsp; khmertimeskh.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV29vVXgxNGg1T2lfSWxTVTQ1MzAyMFllZk1za3paeUQta0JiZzZ0RTROTDl4YXFVTGNXLTRjYzgxUVF1M1JYR3BlT09zcWllcVhSSFVzSzRKcG92R1dfZ0tLN0M2Wmh3bEFaYWVPSTZaVzJxNFVnRmRETWRaSTVBX1JPcDBtWlhVSVRv?oc=5",
-      "source": "khmertimeskh.com",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-17T17:22:06.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "8738da518d0c"
-    },
-    {
-      "title": "BREAKING | Cat Matlala: “I actually hate Brown Mogotsi”",
-      "summary": "BREAKING | Cat Matlala: “I actually hate Brown Mogotsi” &nbsp;&nbsp; Central News South Africa",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWVdhZVR3ZDJsNjBUSE9FWmhjbXVlMWFxRHl3ZXUtcWVoc21iOUNCMDJzVnBucEt1MDhFM0EzV1p2TTF3cnMzaVgwRkVUZ1p3UzY5SkVxZWhfQWZDNUZkWXdDcDF6YlVZOHA4Q1d4SVhvTUJCMHhFMTBLV2ZZT3ZvTmpjRQ?oc=5",
-      "source": "Central News South Africa",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-17T16:48:45.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "f0eb44ec0e35"
     }
   ]
 }
