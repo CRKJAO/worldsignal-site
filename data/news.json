@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T04:07:06.244Z",
+  "updatedAt": "2026-08-17T05:01:06.293Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -7,17 +7,30 @@
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
     {
-      "title": "Trump says US to ‘substantially reduce’ military drills with South Korea",
-      "summary": "US president says he's 'not happy' about the drills, citing his 'very good relationship' with North Korea's Kim Jong Un.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-17T00:11:18.000Z",
-      "image": "",
+      "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
+      "summary": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "非洲",
+      "publishedAt": "2026-08-17T04:41:31.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6968/live/176af9c0-99f5-11f1-8ffd-896dfa12c5fd.jpg",
+      "topic": "社会",
+      "score": 96,
+      "id": "f5e079798f8b"
+    },
+    {
+      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "summary": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-08-17T04:50:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c31f/live/48688550-99f6-11f1-b2ab-0dd01740f9f6.jpg",
       "topic": "政治",
-      "score": 91,
-      "id": "79ad22936218"
+      "score": 92,
+      "id": "b76a75879c69"
     },
     {
       "title": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
@@ -26,24 +39,11 @@
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "亚洲",
-      "publishedAt": "2026-08-17T01:49:36.000Z",
+      "publishedAt": "2026-08-17T04:07:57.000Z",
       "image": "https://i.guim.co.uk/img/media/812d23651e2260e3817cb53514597677be97214b/367_1_2220_1777/master/2220.jpg?width=140&quality=85&auto=format&fit=max&s=c2506fbf47a36783e0164626dce0b567",
       "topic": "政治",
-      "score": 90,
+      "score": 92,
       "id": "9e31d852bfae"
-    },
-    {
-      "title": "Jared Kushner meets Hamas on Mideast trip to push Gaza deal",
-      "summary": "Jared Kushner meets Hamas on Mideast trip to push Gaza deal &nbsp;&nbsp; The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQczhTVzN1a3ByMFZjWmNaQVE4amdHcmJDM1Etbkg1MDhFUElFaUgxTmtWT1N2cndwM0VQOUN2UW04RjBjY1V0MVEzaVF4TmxWa3VEemplQVo4bjJ2czEta1NkMGZxRTRjbnlVM2tMRlFxbU00azlKNFdoNE85ZzFIX0U4cXNqU1lxVWw0TjhocnJfbFVBczJPWkVISVBGQzhTaXVKTw?oc=5",
-      "source": "The Washington Post",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-17T03:49:44.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 88,
-      "id": "14f586fbe97a"
     },
     {
       "title": "Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history",
@@ -55,8 +55,47 @@
       "publishedAt": "2026-08-17T00:09:57.000Z",
       "image": "https://i.guim.co.uk/img/media/a393063cc2d82e5b3b20c44e22654a645b95ab37/581_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e627dfdebce0f22e71d4b8bb71204ef6",
       "topic": "社会",
-      "score": 88,
+      "score": 91,
       "id": "4d2b2ffb76ee"
+    },
+    {
+      "title": "Trump says US to ‘substantially reduce’ military drills with South Korea",
+      "summary": "US president says he's 'not happy' about the drills, citing his 'very good relationship' with North Korea's Kim Jong Un.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-17T00:11:18.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 90,
+      "id": "79ad22936218"
+    },
+    {
+      "title": "Heroes actress Hayden Panettiere dies aged 36",
+      "summary": "Panettiere starred in TV shows including Heroes and Nashville along with films Remember the Titans and Raising Helen.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-17T04:53:27.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14bb/live/a28c5570-99f1-11f1-828b-990ef72ac649.jpg",
+      "topic": "社会",
+      "score": 88,
+      "id": "d9b26bc7fa50"
+    },
+    {
+      "title": "US star Hayden Panettiere dies aged 36",
+      "summary": "Hayden Panettiere, star of popular television series including Heroes and Nashville, has died. She was 36.",
+      "url": "https://www.abc.net.au/news/2026-08-17/us-actress-hayden-panettiere-dies-at-36/107046246",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-17T03:49:03.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/0707b37da613e6e14fe78decda243927?impolicy=wcms_crop_resize&cropH=1738&cropW=3089&xPos=0&yPos=3&width=862&height=485",
+      "topic": "社会",
+      "score": 86,
+      "id": "b0324905f58e"
     },
     {
       "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
@@ -68,7 +107,7 @@
       "publishedAt": "2026-08-17T02:51:27.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg",
       "topic": "政治",
-      "score": 87,
+      "score": 86,
       "id": "06334bac0d45"
     },
     {
@@ -81,112 +120,8 @@
       "publishedAt": "2026-08-16T22:07:32.000Z",
       "image": "https://i.guim.co.uk/img/media/2ab9f13746943762391cd240ceb44d7b9716ead1/0_59_4490_3593/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=0e7308b5019b256dbcee8695b1396197",
       "topic": "政治",
-      "score": 85,
-      "id": "e9b18d21fd24"
-    },
-    {
-      "title": "Alan Jones allegedly kissed young man in wardrobe of James Packer’s personal suite at Crown Towers, court hears",
-      "summary": "Former 2GB and 2UE radio broadcaster is facing 22 indecent assault and sexual touching charges. Jones, 85, has pleaded not guilty Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Alan Jones allegedly kissed his former driver, a young man, inside a walk-in wardrobe in James Packer’s personal s",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/17/alan-jones-allegedly-kissed-driver-in-wardrobe-james-packer-personal-suite-crown-towers-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-17T03:24:21.000Z",
-      "image": "https://i.guim.co.uk/img/media/e670ad0dd13e2fda4628bf46eccb7962b3311760/0_0_3329_2663/master/3329.jpg?width=140&quality=85&auto=format&fit=max&s=2005f4ef6886de306d28d2897b015e7f",
-      "topic": "政治",
       "score": 84,
-      "id": "a3f8cd0edd32"
-    },
-    {
-      "title": "Zambia incumbent takes early election lead as opposition alleges armed raid",
-      "summary": "President Hakainde Hichilema appears on course for outright win as observers cite violence and a tilted campaign field.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/zambia-incumbent-takes-early-election-lead-as-opposition-alleges-armed-raid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-17T02:27:39.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 83,
-      "id": "9af74d7c1a3a"
-    },
-    {
-      "title": "Ferrari's first ever electric car sold for record $40m at auction",
-      "summary": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
-      "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-17T02:22:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2f6/live/27d57b00-99d2-11f1-8bfd-8bbe460b94a0.jpg",
-      "topic": "科技",
-      "score": 83,
-      "id": "da29ea984122"
-    },
-    {
-      "title": "Trump scales back joint military drills with South Korea, calling them 'hostile'",
-      "summary": "US President Donald Trump orders the Pentagon to scale back planned joint military exercises with South Korea, saying it declined to help denuclearise Iran and citing his good relationship with North Korean leader Kim Jong Un.",
-      "url": "https://www.abc.net.au/news/2026-08-17/trump-says-south-korean-military-drills-to-scale-back-/107045056",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "亚洲",
-      "publishedAt": "2026-08-16T23:39:59.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/095d43efdca8f4086e9000d8f7588d5a?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485",
-      "topic": "政治",
-      "score": 83,
-      "id": "faa665f54257"
-    },
-    {
-      "title": "Trump’s envoys in West Asia to push for Gaza peace plan",
-      "summary": "Trump’s envoys in West Asia to push for Gaza peace plan &nbsp;&nbsp; The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUm85WFhaSXlxM2t1VDZkRTExV2lXdFZPSkNpUW90TDhneTFNTmtCOXRzQ2hGYXl4RU45SmxCWTJxM0M3cGVhOTdVUXExeDkxekJLcGNWVWI3MXVwOEplM21Kck9uQlVldHBEeEFsUkt6T2JuM0pGUG5tRS1qQ3JwWmQyeGFhMXJTZEZ3UDBTQzJlZEhTVDRzZ2tCdXV4dmh6VHY1MVlZemNFN1NOdHA2SC1WUzZmdEJ5dDBjVFJxOGlrV3BFZVhYMHhvVTJiNjA?oc=5",
-      "source": "The Times of India",
-      "feed": "Middle East News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-17T02:19:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 82,
-      "id": "ba157308ec72"
-    },
-    {
-      "title": "iran middle-east-strategy",
-      "summary": "iran middle-east-strategy &nbsp;&nbsp; WION",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5La0pqSmJDcTNtc3lGWGJaSUJFb2Y5Q0dJMUJSUTFaOVZDOFZIajJVYzBkbjBUOEZ6OUFveXVBMUcwQmVLdk43ZjlaTVZlSll1ejMxc2twdGlKc3pTTlRDeEljNjg?oc=5",
-      "source": "WION",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-16T23:29:19.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 82,
-      "id": "359b88290517"
-    },
-    {
-      "title": "Sailors on aircraft carrier deployed in Middle East 'exhausted'",
-      "summary": "Sailors on aircraft carrier deployed in Middle East 'exhausted' &nbsp;&nbsp; weareiowa.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZFk2cDBlVEtIVF90S3VlejF3X3Y1UjRfeTQ2R183NEo4dmw5UVZtWWx3Ni1WQVdxMHdmT0J2NEVHamVXcTFCeUd2VGFLWGIzcW0yNmNiQTdyRmhQSS1YQUVUU3B5dUx3aUNWTHUxam9PWWhaOVBGZHdvWUszTXFCbzdjbmlEbVJDLWwxR0pRYTBncjN6QmJFSkZoT2dBdTNpeV9LOFNUQ1J4V2g3aEhydU5OTklIcDlOQnQ3b1FrLWtEeG9UQWc4Rk1DNlFhcnB5aWhnYkk1Z1NlUnJJbzNqZWtRcjk1X29jMk9PSWdRV1ZDZi01?oc=5",
-      "source": "weareiowa.com",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-16T23:01:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 82,
-      "id": "35e323ace231"
-    },
-    {
-      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-      "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-08-16T19:58:14.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b3a/live/65ee2c30-99a4-11f1-a10a-71ff76b28954.jpg",
-      "topic": "社会",
-      "score": 82,
-      "id": "6d88579d258b"
+      "id": "e9b18d21fd24"
     },
     {
       "title": "'A wake-up call': Ebola outbreak is now DR Congo's deadliest",
@@ -198,21 +133,164 @@
       "publishedAt": "2026-08-16T22:05:00.000Z",
       "image": "https://e3.365dm.com/26/08/1920x1080/skynews-ebola-congo_7323686.jpg?20260816231920",
       "topic": "社会",
-      "score": 81,
+      "score": 84,
       "id": "56d6add68bfe"
     },
     {
-      "title": "Colombia’s President Calls on Trump to Suspend Tariffs Amid Earthquake Crisis",
-      "summary": "Colombia’s President Calls on Trump to Suspend Tariffs Amid Earthquake Crisis &nbsp;&nbsp; SSBCrack",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmpIeG45aWNscVk5eHRobWVUbVBJRFUtaFk0WTlRckVOVWFJQTdyZkFndW1GTEFUWm5VTDlHSjFYOW5ORFlOdHY4dkRDQlpmUnhXR096bmRWdlVzTExqZEFEN1BOTlctYUdfa1JIaHhYZHVCUVZDZ25pLTgzM3V5Y2Nhc2lCTVdIZDRDUXE0YnNVS2hwTDB4Umw5NW12dUdRUFJHaDdR?oc=5",
-      "source": "SSBCrack",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-16T21:44:44.000Z",
+      "title": "Jared Kushner meets Hamas on Mideast trip to push Gaza deal",
+      "summary": "Jared Kushner meets Hamas on Mideast trip to push Gaza deal &nbsp;&nbsp; The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQczhTVzN1a3ByMFZjWmNaQVE4amdHcmJDM1Etbkg1MDhFUElFaUgxTmtWT1N2cndwM0VQOUN2UW04RjBjY1V0MVEzaVF4TmxWa3VEemplQVo4bjJ2czEta1NkMGZxRTRjbnlVM2tMRlFxbU00azlKNFdoNE85ZzFIX0U4cXNqU1lxVWw0TjhocnJfbFVBczJPWkVISVBGQzhTaXVKTw?oc=5",
+      "source": "The Washington Post",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-17T04:21:23.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 83,
+      "id": "14f586fbe97a"
+    },
+    {
+      "title": "Alan Jones allegedly kissed young man in wardrobe of James Packer’s personal suite at Crown Towers, court hears",
+      "summary": "Former 2GB and 2UE radio broadcaster is facing 22 indecent assault and sexual touching charges. Jones, 85, has pleaded not guilty Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Alan Jones allegedly kissed his former driver, a young man, inside a walk-in wardrobe in James Packer’s personal s",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/alan-jones-allegedly-kissed-driver-in-wardrobe-james-packer-personal-suite-crown-towers-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-17T03:24:21.000Z",
+      "image": "https://i.guim.co.uk/img/media/e670ad0dd13e2fda4628bf46eccb7962b3311760/0_0_3329_2663/master/3329.jpg?width=140&quality=85&auto=format&fit=max&s=2005f4ef6886de306d28d2897b015e7f",
+      "topic": "政治",
+      "score": 83,
+      "id": "a3f8cd0edd32"
+    },
+    {
+      "title": "US-Israel-Iran War Latest Live News: Israeli Military Attacks Strategic High Ground in Southern Lebanon Near Nabatieh Amid Rising Middle East Tensions",
+      "summary": "US-Israel-Iran War Latest Live News: Israeli Military Attacks Strategic High Ground in Southern Lebanon Near Nabatieh Amid Rising Middle East Tensions &nbsp;&nbsp; The Sunday Guardian",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNTEc3NDlhS0lEOGRoLWJOTmoydXhuSnN4eXZYZ3JTNjR3MEo5YnFyV1VTdmxmQ0tnWUNWOTZjRTFJa3BXNGRjc3g1YmZWXy0xLU1fNFFPZS1NZnRsUnoyNTB3OEJSd3c4ZDhRSlJnLVo2MDE5d0xMV1g1ZW1TejJTLWdERFVidHNncjVRaGNMSTNwanZpRExpOGNscmJ0TEZWVkNFSkh1N24tTnJNTjIyVDhqRjl6Nmpmd0FjNjJ6ZUhVUHdJRm9IdUhLRDZqWkJ5TTZTX3lDSFFOdzdxNGNUclQ3Wi1KcVlhSEpsNGd6VmRqd0FUQmk4VFcwNzlLV0pTQlJicW5QRnIwVUhnOUZCM0RMZ0NKcnJqRjI1T1VRNNIBpAJBVV95cUxNWmt3Yl9hTzhRQ3JmRDhuU21TQ0tSc2sxek5HbWN0QWNfYlZMQVI2Y2hRRm5majJ0YkJ6amVHNk1ua1V1THdTeEw5Mk9aNkRfVjZNVWllWklidHNaU19iaThrYnY2TE5HTmx0ZWt1YzI2dng4ZFFmVGJaZ1c2ZWFDWV9wWXZfRk1Ob05MOVo1RzdSSzVaM3F2TzRaLVZOSC1BZlpaOHZMN0tNZlUyTjExTFlmMy1PaXJqckpxazJkQjhwdXVuNnVRX1dCZVVNQmtZNjJUQS0zZWY1N3N3di1UWlJ0Qzhza2t6WkRBNU10YURuNVlFeVJNb1FBUE51RHlVSW5OYVlMVnI2OEpfc2pyTldNVG5TWURicEJpS0tVM0dFbTR0?oc=5",
+      "source": "The Sunday Guardian",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-16T18:22:11.000Z",
       "image": "",
       "topic": "政治",
+      "score": 83,
+      "id": "fdf397019835"
+    },
+    {
+      "title": "Zambia incumbent takes early election lead as opposition alleges armed raid",
+      "summary": "President Hakainde Hichilema appears on course for outright win as observers cite violence and a tilted campaign field.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/zambia-incumbent-takes-early-election-lead-as-opposition-alleges-armed-raid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-17T02:27:39.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 82,
+      "id": "9af74d7c1a3a"
+    },
+    {
+      "title": "4 countries that have won the Women’s Africa Cup of Nations",
+      "summary": "4 countries that have won the Women’s Africa Cup of Nations &nbsp;&nbsp; Head Topics",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRUowcVA3MHZLMzJlZUJMaU4wRTZqNms3clJrTXlDN214NTVsWnNWcDZPR21vYVVJWi1yZF9lT21HMTlCRVBGSWhmV0RMeTIzUGJWY1ZkYlVYNmJ5Q3ZDaGFhVXJ2QWJXa0xPclFmUGtLR1R3R2d6aUNpb2ZUdGZMT25kU0otMTR2SU5kQWpHbDA1ZzhkYy1FVjdMb1NjdTlW?oc=5",
+      "source": "Head Topics",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-17T00:03:44.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 82,
+      "id": "ac85dc4b3bc0"
+    },
+    {
+      "title": "Trump scales back joint military drills with South Korea, calling them 'hostile'",
+      "summary": "US President Donald Trump orders the Pentagon to scale back planned joint military exercises with South Korea, saying it declined to help denuclearise Iran and citing his good relationship with North Korean leader Kim Jong Un.",
+      "url": "https://www.abc.net.au/news/2026-08-17/trump-says-south-korean-military-drills-to-scale-back-/107045056",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "亚洲",
+      "publishedAt": "2026-08-16T23:39:59.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/095d43efdca8f4086e9000d8f7588d5a?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485",
+      "topic": "政治",
+      "score": 82,
+      "id": "faa665f54257"
+    },
+    {
+      "title": "Ferrari's first ever electric car sold for record $40m at auction",
+      "summary": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
+      "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-17T02:22:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2f6/live/27d57b00-99d2-11f1-8bfd-8bbe460b94a0.jpg",
+      "topic": "科技",
       "score": 81,
-      "id": "95f4c18dd754"
+      "id": "da29ea984122"
+    },
+    {
+      "title": "iran middle-east-strategy",
+      "summary": "iran middle-east-strategy &nbsp;&nbsp; WION",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5La0pqSmJDcTNtc3lGWGJaSUJFb2Y5Q0dJMUJSUTFaOVZDOFZIajJVYzBkbjBUOEZ6OUFveXVBMUcwQmVLdk43ZjlaTVZlSll1ejMxc2twdGlKc3pTTlRDeEljNjg?oc=5",
+      "source": "WION",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-16T23:29:19.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 81,
+      "id": "359b88290517"
+    },
+    {
+      "title": "Australian politics live: Labor pledges new ‘opt-out register’ for gambling ads; Hill says using super to buy a home gets ‘gold medal for stupidest policy’",
+      "summary": "Anika Wells confirms clampdown on inducements and inducement advertising. Follow today’s news live Get our breaking news email , free app or daily news podcast Hume says housing the ‘best indicator of economic security’ in retirement over super The deputy Liberal leader, Jane Hume says the Coalition will reconsider whether Australians should be able to acces",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-17T04:49:02.000Z",
+      "image": "https://i.guim.co.uk/img/media/b02b00d668a72e4dab90ccd748f39e9da4fddb78/664_0_5116_4093/master/5116.jpg?width=140&quality=85&auto=format&fit=max&s=575a1c45b27ad169328f696205a21b00",
+      "topic": "社会",
+      "score": 80,
+      "id": "604994436dcf"
+    },
+    {
+      "title": "Two young boys kicked by stranger in Canberra shopping centre",
+      "summary": "An 18-year-old man accused of kicking to young boys in an unprovoked attack at a Canberra shopping centre has been refused bail.",
+      "url": "https://www.abc.net.au/news/2026-08-17/man-charged-assault-young-boys-canberra-shopping-centre/107045076",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-17T04:46:38.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/637998b4518d46c703fb72e5ca839e79?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=554&width=862&height=485",
+      "topic": "社会",
+      "score": 80,
+      "id": "602fc5cc44d1"
+    },
+    {
+      "title": "Landslide in South Korea kills one as record rain lashes south",
+      "summary": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "亚洲",
+      "publishedAt": "2026-08-17T04:34:09.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b96/live/e2371780-99f3-11f1-8ffd-896dfa12c5fd.jpg",
+      "topic": "社会",
+      "score": 80,
+      "id": "807eb097ec8d"
+    },
+    {
+      "title": "Sailors on aircraft carrier deployed in Middle East 'exhausted'",
+      "summary": "Sailors on aircraft carrier deployed in Middle East 'exhausted' &nbsp;&nbsp; weareiowa.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZFk2cDBlVEtIVF90S3VlejF3X3Y1UjRfeTQ2R183NEo4dmw5UVZtWWx3Ni1WQVdxMHdmT0J2NEVHamVXcTFCeUd2VGFLWGIzcW0yNmNiQTdyRmhQSS1YQUVUU3B5dUx3aUNWTHUxam9PWWhaOVBGZHdvWUszTXFCbzdjbmlEbVJDLWwxR0pRYTBncjN6QmJFSkZoT2dBdTNpeV9LOFNUQ1J4V2g3aEhydU5OTklIcDlOQnQ3b1FrLWtEeG9UQWc4Rk1DNlFhcnB5aWhnYkk1Z1NlUnJJbzNqZWtRcjk1X29jMk9PSWdRV1ZDZi01?oc=5",
+      "source": "weareiowa.com",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-16T23:01:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 80,
+      "id": "35e323ace231"
     },
     {
       "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
@@ -224,34 +302,21 @@
       "publishedAt": "2026-08-16T19:23:28.000Z",
       "image": "",
       "topic": "社会",
-      "score": 81,
+      "score": 80,
       "id": "94ae9fd8f6f7"
     },
     {
-      "title": "Australia politics live: Hill says using super to buy a home gets ‘gold medal for stupidest policy’ after Hanson reignites debate",
-      "summary": "Pauline Hanson said on Sunday that Australians should be able to access superannuation early to cope with cost-of-living pressures. Follow today’s news live Get our breaking news email , free app or daily news podcast Hume says housing the ‘best indicator of economic security’ in retirement over super The deputy Liberal leader, Jane Hume says the Coalition w",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+      "title": "Loosening of planning rules in England to allow more new homes near stations",
+      "summary": "Angela Rayner to launch guidance for ‘default yes’ on developments near transport hubs, including on green belt sites Thousands more homes could be built within 10 minutes of transport hubs, including on green belt sites, under a loosening of planning policy announced by Angela Rayner on Monday. The housing secretary will set out changes to national planning",
+      "url": "https://www.theguardian.com/politics/2026/aug/17/loosening-planning-rules-england-more-homes-train-stations-rayner",
       "source": "The Guardian",
       "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-17T03:53:59.000Z",
-      "image": "https://i.guim.co.uk/img/media/0eb479b030df3a98b0590c4fa0356daf008d18ad/673_418_6270_5016/master/6270.jpg?width=140&quality=85&auto=format&fit=max&s=b56137893a0f9c1431c8c845f099dd05",
-      "topic": "社会",
-      "score": 80,
-      "id": "08aa8f3e0a02"
-    },
-    {
-      "title": "Breaking: US actress Hayden Panettiere dies aged 36",
-      "summary": "Hayden Panettiere, star of popular television series including Heroes and Nashville, has died. She was 36.",
-      "url": "https://www.abc.net.au/news/2026-08-17/us-actress-hayden-panettiere-dies-at-36/107046246",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-17T03:49:03.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/0707b37da613e6e14fe78decda243927?impolicy=wcms_crop_resize&cropH=1738&cropW=3089&xPos=0&yPos=3&width=862&height=485",
-      "topic": "社会",
-      "score": 80,
-      "id": "a4e094f4936a"
+      "region": "全球",
+      "publishedAt": "2026-08-17T04:00:45.000Z",
+      "image": "https://i.guim.co.uk/img/media/70811c183d4c8213996cada031863421d84bb7b7/421_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=e8be53c57370bf259ecbcd0533f75aeb",
+      "topic": "科技",
+      "score": 79,
+      "id": "98ff62b19c8f"
     },
     {
       "title": "Ralph Carr in ‘living hell’ after being convicted of rape, Victorian court hears",
@@ -263,7 +328,7 @@
       "publishedAt": "2026-08-17T03:36:15.000Z",
       "image": "https://i.guim.co.uk/img/media/233136b6b7cf5db8336c2bdd6a204d4946713e0d/0_0_6090_4875/master/6090.jpg?width=140&quality=85&auto=format&fit=max&s=5d5b71cda71a38cd494d331cdc0ee024",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "72420128192c"
     },
     {
@@ -276,7 +341,7 @@
       "publishedAt": "2026-08-16T17:56:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "d61d4c5747fc"
     },
     {
@@ -289,8 +354,21 @@
       "publishedAt": "2026-08-17T02:58:05.000Z",
       "image": "https://i.guim.co.uk/img/media/428083c3e499e85ef5be906b41a991f175fc77bf/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9681db3ef8f92d9b5d27c4b5a531e462",
       "topic": "科技",
-      "score": 79,
+      "score": 78,
       "id": "129917e3dd90"
+    },
+    {
+      "title": "Cameroon beats Malawi to win Women’s Africa Cup of Nations for the first time",
+      "summary": "Cameroon beats Malawi to win Women’s Africa Cup of Nations for the first time &nbsp;&nbsp; Inbox.eu",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN3pSM2pHNGQ5MkFETzZOeFVDOHJnS2hIekVxeTJfOGRuRmVfNDdpYVdZWmZuTzdsYUVDU0pCUGQyM3h1UWR5Y0lxaldyZUhLUmdpNXQxRm0wVnBaUy1pZDVFNXkxNWdsVDlrRnFOYWJlM2hNZ0s4dXYyUjVaMjRUZTlCOUtUUF9ob3VIRzNGdk9GZzQyRXNwUXNWVXpBVkptZm5FQ29iZTlRRlhVTGRCMGhvY1VjdGlJT3NN?oc=5",
+      "source": "Inbox.eu",
+      "feed": "Africa News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-16T21:02:44.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 78,
+      "id": "555c193909ea"
     },
     {
       "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
@@ -302,7 +380,7 @@
       "publishedAt": "2026-08-16T20:36:32.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "f8f966a6bc64"
     },
     {
@@ -315,7 +393,7 @@
       "publishedAt": "2026-08-16T17:18:24.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "b8d51c2104a8"
     },
     {
@@ -328,8 +406,21 @@
       "publishedAt": "2026-08-16T16:10:19.000Z",
       "image": "https://i.guim.co.uk/img/media/32117ccbd21fa32d8a2eba949e84cad036fc92aa/253_0_2820_2255/master/2820.jpg?width=140&quality=85&auto=format&fit=max&s=bcab99a0787c585fc4e360f38b6d2e7f",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "2808bd5ac790"
+    },
+    {
+      "title": "Trump’s envoys in West Asia to push for Gaza peace plan",
+      "summary": "Trump’s envoys in West Asia to push for Gaza peace plan &nbsp;&nbsp; The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUm85WFhaSXlxM2t1VDZkRTExV2lXdFZPSkNpUW90TDhneTFNTmtCOXRzQ2hGYXl4RU45SmxCWTJxM0M3cGVhOTdVUXExeDkxekJLcGNWVWI3MXVwOEplM21Kck9uQlVldHBEeEFsUkt6T2JuM0pGUG5tRS1qQ3JwWmQyeGFhMXJTZEZ3UDBTQzJlZEhTVDRzZ2tCdXV4dmh6VHY1MVlZemNFN1NOdHA2SC1WUzZmdEJ5dDBjVFJxOGlrV3BFZVhYMHhvVTJiNjDSAdQBQVVfeXFMT25EcTVXOWRMV2NFcGJJLWp2SnZVcDFveEctd1FiQzMyeUNub3NiUUY0MjVRWEllTjlkN1NJSFdhNE1xMDQ4N2JwRXlGb21HdlFVaU5aM01yYlctY3pfVENCMWphemY3MFc0M1k2QVIwR2g4eGR2cDBodVVwekNoc3ZIbjAwZHpzOTd3SUJObjBxMVNETFBEOWJzY1lwZHYwRzg0eXBuZTZYVTFvYm01LTUtVTB0SEt0eGoySW9KUWlQOU1YMnJFaG9kdjI1YjhYUzRkczI?oc=5",
+      "source": "The Times of India",
+      "feed": "Middle East News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-17T02:19:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 77,
+      "id": "ba157308ec72"
     },
     {
       "title": "Man killed in hit-and-run near Ballarat",
@@ -341,8 +432,21 @@
       "publishedAt": "2026-08-16T22:40:24.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/3646d3f68e504b7742ce4038abe4e910?impolicy=wcms_crop_resize&cropH=2811&cropW=4997&xPos=1&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "77875639f490"
+    },
+    {
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "summary": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan &nbsp;&nbsp; BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DWTFkSlJqX2pSYWxrcHdYdXhnTXoyZjVuX09xbno5WU1wOHpOM1hCX0lBZGlpY3UyYVdXRGRtTDRJVDJRTGVoRjZTS1J3R2VKcFpXSTdWb1JjdW1j?oc=5",
+      "source": "BBC",
+      "feed": "Latin America News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-16T19:58:14.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 77,
+      "id": "339164cfd262"
     },
     {
       "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
@@ -354,7 +458,7 @@
       "publishedAt": "2026-08-16T19:03:04.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f78/live/bd896330-997f-11f1-a7ab-8b30adf0800a.jpg",
       "topic": "科技",
-      "score": 78,
+      "score": 77,
       "id": "4aa4433916e5"
     },
     {
@@ -367,7 +471,7 @@
       "publishedAt": "2026-08-17T01:28:13.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "e56f7aae945a"
     },
     {
@@ -380,34 +484,112 @@
       "publishedAt": "2026-08-16T22:49:00.000Z",
       "image": "",
       "topic": "经济",
-      "score": 77,
+      "score": 76,
       "id": "a04ef67bc80f"
     },
     {
       "title": "U.S. Pulls Last Aircraft Carrier Out of Asia as USS George Washington Leaves Pacific to Replace Lincoln in Middle East — Move Temporarily Leaves Western Pacific Without American Carrier Presence, “The U.S. Is Not the Big Dog in the Western Pacific Anym",
-      "summary": "U.S. Pulls Last Aircraft Carrier Out of Asia as USS George Washington Leaves Pacific to Replace Lincoln in Middle East — Move Temporarily Leaves Western Pacific Without American Carrier Presence, “The U.S. Is Not the Big Dog in the Western Pacific Anym &nbsp;&nbsp; newsbreak.com",
+      "summary": "U.S. Pulls Last Aircraft Carrier Out of Asia as USS George Washington Leaves Pacific to Replace Lincoln in Middle East — Move Temporarily Leaves Western Pacific Without American Carrier Presence, “The U.S. Is Not the Big Dog in the Western Pacific Anym &nbsp;&nbsp; NewsBreak: Local News & Alerts",
       "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNZjJRZWxnTnI2dHV6NFBPdm9XRFk5QmM2SmtvRHFlcjd5cnltRjQ5ZFFLaGNCbnVmWDZJdzVyclNIdUdJUkIzOTE4WmFHTGNIUGNQWW1mOGtzb0VTQjZBRlQ0WUx3X0xQTGZzVVh0LWdfV2VNbGZSSGFUaXFnWlM3a3NBVVd6S0g0bEtzM0FLYUNtOEtrbjF6TkZ1SGxhT3pKdjJNOGkweDNjajJ5X08wX1BiNlYzcTh0ODRnSzhUaUZrUWdQbVQybTcyRHZDMHFRVjlZWktjdkd1cmJ2WEEtTE4wSDViT1NVZ2s3LWljSks0aTItM1g0UnlsaTg1Rm1lYkg4N3g5MldTUGpSVWQ3RmRBd2xKcV9YdU9sZlZRWW9CQ0lkemhnYmtNVDJPNFRNNV9MQmdBLXRtT3cxTDNOTGtjRVlMbF9fcEY3VDFkZDBDX0g1Uzg2ZmtPWmM4YVQzY0RtbGxaNGhiSy15MXJ5R2p0d3Q0bVVyQjQ3SzhRZW5zc015M041bXlaU1VwMDlHOS11Y3d5cFRUTzgtZ0wxNzF5SjlEaU55eWdURzl2R1cyZ0g0LURxdU04Y0E?oc=5",
-      "source": "newsbreak.com",
+      "source": "NewsBreak: Local News & Alerts",
       "feed": "Asia News Network",
       "region": "美洲",
       "publishedAt": "2026-08-16T22:36:20.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
-      "id": "cb02b7fa8b2d"
+      "score": 76,
+      "id": "2b29901e04ac"
     },
     {
-      "title": "4 countries that have won the Women’s Africa Cup of Nations",
-      "summary": "4 countries that have won the Women’s Africa Cup of Nations &nbsp;&nbsp; Head Topics",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRUowcVA3MHZLMzJlZUJMaU4wRTZqNms3clJrTXlDN214NTVsWnNWcDZPR21vYVVJWi1yZF9lT21HMTlCRVBGSWhmV0RMeTIzUGJWY1ZkYlVYNmJ5Q3ZDaGFhVXJ2QWJXa0xPclFmUGtLR1R3R2d6aUNpb2ZUdGZMT25kU0otMTR2SU5kQWpHbDA1ZzhkYy1FVjdMb1NjdTlW?oc=5",
-      "source": "Head Topics",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-16T22:29:10.000Z",
+      "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
+      "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that as long as he lived he would not allow the “shameless” right to return to power. Addressing a sea of supporters in São Ber",
+      "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "美洲",
+      "publishedAt": "2026-08-16T18:44:41.000Z",
+      "image": "https://i.guim.co.uk/img/media/3e2ace44178f44321232918e4c929d66067c6ce5/0_0_2585_2068/master/2585.jpg?width=140&quality=85&auto=format&fit=max&s=e8b9a4556c48e5e7b511fd2217fb0080",
+      "topic": "政治",
+      "score": 76,
+      "id": "010561397ee5"
+    },
+    {
+      "title": "Aussie rules footy players referred to police as detectives investigate sexual assault",
+      "summary": "The \"disappointed\" Sydney Swans CEO wouldn't say what the incident was or how many players were involved.",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-17T04:30:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b029/live/c82beaa0-99f3-11f1-870d-5d08c49babb2.jpg",
+      "topic": "社会",
+      "score": 75,
+      "id": "efd164b71e6f"
+    },
+    {
+      "title": "Coles and Woolworths test facial recognition technology",
+      "summary": "The technology captures the faces of customers and matches their features against databases to identify repeat violent offenders.",
+      "url": "https://www.abc.net.au/news/2026-08-17/coles-and-woolworths-to-test-facial-recognition-technology/107045036",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-17T04:28:20.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3e6e58a996b9459f8207d4d24d483154?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
+      "topic": "科技",
+      "score": 75,
+      "id": "7ebe5afc96b4"
+    },
+    {
+      "title": "Asking prices for newly listed homes in UK’s richest borough fall by £100k in one month",
+      "summary": "Fierce competition in some areas of London means landlord purchasers are making successful lowball offers The average price of a home coming up for sale in Britain’s richest borough has dropped by almost £100,000 in a month as fierce competition among sellers in many areas prompts some to slash their price expectations, data shows. The property website Right",
+      "url": "https://www.theguardian.com/business/2026/aug/17/newly-listed-asking-prices-kensington-chelsea-london-uk-lowball-offers",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-17T04:00:46.000Z",
+      "image": "https://i.guim.co.uk/img/media/313ba6801ef9f906211d58f565b5733eaaea06d6/162_0_3560_2848/master/3560.jpg?width=140&quality=85&auto=format&fit=max&s=f5c428ba3e6652c15728bb66fd0b4dae",
+      "topic": "社会",
+      "score": 75,
+      "id": "93860dbb69ed"
+    },
+    {
+      "title": "Thieves steal Renaissance artworks in museum heist during Italian holiday",
+      "summary": "As Messina celebrated Sicilian holiday Ferragosto, thieves struck the MuMe museum to steal the masterworks by Antonello.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-17T03:53:07.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
-      "id": "ac85dc4b3bc0"
+      "score": 75,
+      "id": "b8f3e5091f8d"
+    },
+    {
+      "title": "Anthony Albanese's teen social media ban has a shark problem",
+      "summary": "If the prime minister is right and there's no time to waste, how much more of it can we spend just waiting for the teen social media ban to work?",
+      "url": "https://www.abc.net.au/news/2026-08-17/teen-social-media-ban-efficacy-sharks-tech-companies/107044990",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-17T03:49:12.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/9e936846fe55c7c7bb449b45482ba6b3?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+      "topic": "政治",
+      "score": 75,
+      "id": "37deec4758f1"
+    },
+    {
+      "title": "Brisbane man charged with 34 historical offences against girls",
+      "summary": "Police allege the man sexually assaulted five girls, some of them at a north Brisbane bakery where he worked, from the early 1970s into the late 1980s.",
+      "url": "https://www.abc.net.au/news/2026-08-17/brisbane-man-charged-with-historic-sexual-assault-offences/107045290",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-17T00:31:42.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/5c1f11c7a3f0172cf704449dddf8312c?impolicy=wcms_crop_resize&cropH=909&cropW=1616&xPos=0&yPos=86&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "27e3d9e43c58"
     },
     {
       "title": "Five teenagers killed after car driven on wrong side of Irish motorway",
@@ -419,7 +601,7 @@
       "publishedAt": "2026-08-16T21:50:56.000Z",
       "image": "https://i.guim.co.uk/img/media/59fdf8929beea22a5fa6ba76536587aa0d2ed510/30_0_3289_2632/master/3289.jpg?width=140&quality=85&auto=format&fit=max&s=68813b2190b0181b8ed1ebd2d14798cf",
       "topic": "社会",
-      "score": 77,
+      "score": 75,
       "id": "e8b201707dd4"
     },
     {
@@ -432,47 +614,8 @@
       "publishedAt": "2026-08-16T18:55:23.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 75,
       "id": "40c88f51175c"
-    },
-    {
-      "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
-      "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that as long as he lived he would not allow the “shameless” right to return to power. Addressing a sea of supporters in São Ber",
-      "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-08-16T18:44:41.000Z",
-      "image": "https://i.guim.co.uk/img/media/3e2ace44178f44321232918e4c929d66067c6ce5/0_0_2585_2068/master/2585.jpg?width=140&quality=85&auto=format&fit=max&s=e8b9a4556c48e5e7b511fd2217fb0080",
-      "topic": "政治",
-      "score": 77,
-      "id": "010561397ee5"
-    },
-    {
-      "title": "Thieves steal Renaissance artworks in museum heist during Italian holiday",
-      "summary": "As Messina celebrated Sicilian holiday Ferragosto, thieves struck the MuMe museum to steal the masterworks by Antonello.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-17T03:53:07.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "b8f3e5091f8d"
-    },
-    {
-      "title": "How much longer should Australia wait for the social media ban to work?",
-      "summary": "If the prime minister is right and there's no time to waste, how much more of it can we spend just waiting for the teen social media ban to work?",
-      "url": "https://www.abc.net.au/news/2026-08-17/teen-social-media-ban-efficacy-sharks-tech-companies/107044990",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-17T03:49:12.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/9e936846fe55c7c7bb449b45482ba6b3?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-      "topic": "政治",
-      "score": 76,
-      "id": "9d05bd19dd76"
     },
     {
       "title": "Kangaroo Island community 'desperately cranky' as ferries delayed again",
@@ -484,47 +627,8 @@
       "publishedAt": "2026-08-17T03:46:39.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/f93991987a4ebc48bdb9d489502f11ca?impolicy=wcms_crop_resize&cropH=603&cropW=1072&xPos=0&yPos=150&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "8e539b85d375"
-    },
-    {
-      "title": "Brisbane man charged with 34 historical offences against girls",
-      "summary": "Police allege the man sexually assaulted five girls, some of them at a north Brisbane bakery where he worked, from the early 1970s into the late 1980s.",
-      "url": "https://www.abc.net.au/news/2026-08-17/brisbane-man-charged-with-historic-sexual-assault-offences/107045290",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-17T00:31:42.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/5c1f11c7a3f0172cf704449dddf8312c?impolicy=wcms_crop_resize&cropH=909&cropW=1616&xPos=0&yPos=86&width=862&height=485",
-      "topic": "社会",
-      "score": 76,
-      "id": "27e3d9e43c58"
-    },
-    {
-      "title": "US commander says mental health a 'priority' on USS Lincoln",
-      "summary": "Adm Cooper acknowledges service at sea for long periods is \"uniquely challenging\", after visiting the warship.",
-      "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-16T21:04:27.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe2/live/6ee53b10-99ab-11f1-870d-5d08c49babb2.jpg",
-      "topic": "政治",
-      "score": 76,
-      "id": "583fe2084851"
-    },
-    {
-      "title": "Europe’s tallest Virgin Mary statue unveiled in small Polish village",
-      "summary": "Hundreds watched the 56-metre monument’s consecration, including anti-communist leader Lech Wałęsa An enormous statue of the Virgin Mary that is believed to be Europe’s tallest was inaugurated on Saturday in a small Polish village, in the presence of the anti-communist leader Lech Wałęsa. Hundreds of people took part in the consecration of the monument, whic",
-      "url": "https://www.theguardian.com/world/2026/aug/16/tallest-statue-virgin-mary-poland-europe",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-16T15:00:04.000Z",
-      "image": "https://i.guim.co.uk/img/media/58b79814d93c2adbcada3237bae289222cd981ac/1319_179_3700_2959/master/3700.jpg?width=140&quality=85&auto=format&fit=max&s=aa965a808aa83b468c8bc94e6831b5fd",
-      "topic": "社会",
-      "score": 76,
-      "id": "a2a18760e54b"
     },
     {
       "title": "Palestinian-American travels to West Bank home encircled by Israeli settler",
@@ -536,7 +640,7 @@
       "publishedAt": "2026-08-17T03:41:30.000Z",
       "image": "",
       "topic": "经济",
-      "score": 75,
+      "score": 74,
       "id": "04ebda50bc74"
     },
     {
@@ -549,7 +653,7 @@
       "publishedAt": "2026-08-17T03:22:05.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/57697da8f1b89e9889790496668bbefd?impolicy=wcms_crop_resize&cropH=1287&cropW=2288&xPos=0&yPos=103&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "21db02442780"
     },
     {
@@ -562,7 +666,7 @@
       "publishedAt": "2026-08-17T00:20:51.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
       "topic": "气候",
-      "score": 75,
+      "score": 74,
       "id": "58e5b6ea22b0"
     },
     {
@@ -575,7 +679,7 @@
       "publishedAt": "2026-08-17T00:00:35.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "4f7e5c2f539a"
     },
     {
@@ -588,63 +692,37 @@
       "publishedAt": "2026-08-16T23:58:34.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "bdb8a027dfb1"
     },
     {
-      "title": "Tensions Flare Across Middle East As U.S. Weighs Military Strains And Diplomatic Hurdles",
-      "summary": "Tensions Flare Across Middle East As U.S. Weighs Military Strains And Diplomatic Hurdles &nbsp;&nbsp; AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3J1WnVwOVYxVkk2eXI5bzRHajZRcGxFazFzVnVMUms3amhUdDJsVXVUTzdubWJMMVdOY0pPYWZEVi00V1ZMTXM0SFctZGhKS04wRUd3cWUxY1FOTUttZ1VGQUFFTVQ2ZUI2VUY4bUNSeU9HalFYbXEzQ2VOakM3OGxnbw?oc=5",
-      "source": "AOL.com",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-16T23:48:24.000Z",
-      "image": "",
+      "title": "US commander says mental health a 'priority' on USS Lincoln",
+      "summary": "Adm Cooper acknowledges service at sea for long periods is \"uniquely challenging\", after visiting the warship.",
+      "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-16T21:04:27.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe2/live/6ee53b10-99ab-11f1-870d-5d08c49babb2.jpg",
       "topic": "政治",
-      "score": 75,
-      "id": "39896a7fa568"
+      "score": 74,
+      "id": "583fe2084851"
     },
     {
-      "title": "Lala weakens to tropical storm as it lashes Hawaii with heavy wind and rain",
-      "summary": "Hurricane Lala downgraded after skirting Big Island as one person dies and more than 200,000 homes and businesses without power Hurricane Lala weakened to a tropical storm on Sunday after skirting Hawaii without making landfall, but it wasn’t done punishing the Big Island with hurricane-force gusts. Total rainfall of nearly 3ft (1 meter) was expected on the ",
-      "url": "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall",
+      "title": "Europe’s tallest Virgin Mary statue unveiled in small Polish village",
+      "summary": "Hundreds watched the 56-metre monument’s consecration, including anti-communist leader Lech Wałęsa An enormous statue of the Virgin Mary that is believed to be Europe’s tallest was inaugurated on Saturday in a small Polish village, in the presence of the anti-communist leader Lech Wałęsa. Hundreds of people took part in the consecration of the monument, whic",
+      "url": "https://www.theguardian.com/world/2026/aug/16/tallest-statue-virgin-mary-poland-europe",
       "source": "The Guardian",
       "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-16T23:45:12.000Z",
-      "image": "https://i.guim.co.uk/img/media/6e73fbbd0924a1f3ce3ffbcc84b0f2ee60a2ce84/643_0_6432_5148/master/6432.jpg?width=140&quality=85&auto=format&fit=max&s=b0c9c1531cf8bc554606c475cd6d9945",
-      "topic": "气候",
-      "score": 75,
-      "id": "97bd519957d9"
-    },
-    {
-      "title": "Trump celebrates the Defense Agreement of Mecca as a first big step towards greater unity in the Middle East.",
-      "summary": "Trump celebrates the Defense Agreement of Mecca as a first big step towards greater unity in the Middle East. &nbsp;&nbsp; Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNUFwNVp2QTRpcHQ2eDBFM2tpbW9DTE14UE1mN2lhenZuMHU5S3R4V0xjVkF4RHB6djdEWk5feFlHQW9IWHVUTXJ3SEttNkRjWGVUSWoxUGtwZmF6bUFDX3BldW1uXzN2M01zWlFBZFVGbUNjWFNteFRHTEE1SllwUjRaX0p6YzgteGdKZmxYdGgtWUhQRFRoWVNjd1JNMFFsb3VuaVFQZWdSbnluUTk0SnNVdWRIV3d4dUU1ek00aGpkTnE0eUwxSHgtMGZVYk5VMVpHel8ySU9ySVBZM1VqZDhEaVJEZ9IB6wFBVV95cUxPdzI4WFNtMUZGVGk5akw1dlA4WUM4TmZBZ2t6Wno1NXB0V1F0ZmJkTm1sMzIySkhBalJrZjVINHJIZDcyUW1IcnZUVEpMRThtQ3RnTG9aRkNIdE40OS1LS0pfd1hDR1FRcjhwbm9PSUkxUVBidjR3UjFQeHA4eFA3UUMtNVRvWU5IWVNaX2I2UlJ1LV8xLUE5QWhhcS1PcmF5Zk9Ob3VPaUpRLUxqTDFFZW04cU9OcDJrLVg4Vm5iQzRwc09xd0tXbzhQQlowajJDN2xLZVZnbzgtNUt6cDVpTm9OZUtzeWYzam84?oc=5",
-      "source": "Demócrata",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-16T23:14:37.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "b410a4d577c8"
-    },
-    {
-      "title": "🔴 Cameroon beats Malawi to win Women’s Africa Cup of Nations for the first time",
-      "summary": "🔴 Cameroon beats Malawi to win Women’s Africa Cup of Nations for the first time &nbsp;&nbsp; France 24",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaldYUTlIanR1Y2Y2UVg0aWVGWjhkWndBSGk2cVZsRFFtOE5RVy1HMnlNemlkZ2tWeW5KaWNhb1kxRTRrOTR5VDRxMVpGU3N4MVhLNzRyUG5oS01BVlFraS1BYjg5OGxHTUUyU1pha2FsYkRsR0h4N1paRU5xSy13ZGRNSVJ4X0k1NHNNOUNUS3p0aXd5V1dSOFFibkJ4MmlwUXBCOE15OENqTEdnMy1VLXNYZWFOdW85WDgwRU5MYnZQYVFFazktRFBoV004ZVBsemU4?oc=5",
-      "source": "France 24",
-      "feed": "Africa News Network",
       "region": "欧洲",
-      "publishedAt": "2026-08-16T21:03:36.000Z",
-      "image": "",
+      "publishedAt": "2026-08-16T15:00:04.000Z",
+      "image": "https://i.guim.co.uk/img/media/58b79814d93c2adbcada3237bae289222cd981ac/1319_179_3700_2959/master/3700.jpg?width=140&quality=85&auto=format&fit=max&s=aa965a808aa83b468c8bc94e6831b5fd",
       "topic": "社会",
-      "score": 75,
-      "id": "4210841444ab"
+      "score": 74,
+      "id": "a2a18760e54b"
     },
     {
-      "title": "Live: Sydney Swans involved in 'alleged incident' as police probe sexual assault",
+      "title": "Sydney Swans CEO confirms police investigating alleged incident 'involving several players'",
       "summary": "The club says the AFL and authorities have been notified about the alleged incident, as police investigate a report of sexual assault.",
       "url": "https://www.abc.net.au/news/2026-08-17/sydney-swans-afl-footballers-involved-in-incident-in-melbourne/107046058",
       "source": "ABC Australia",
@@ -653,8 +731,8 @@
       "publishedAt": "2026-08-17T02:52:35.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/fd8aa5680e2378cb03551d2384a6ae07?impolicy=wcms_crop_resize&cropH=971&cropW=1727&xPos=0&yPos=54&width=862&height=485",
       "topic": "社会",
-      "score": 74,
-      "id": "8a9355552e06"
+      "score": 73,
+      "id": "48f97a20ad8b"
     },
     {
       "title": "Asia mostly higher with data, US-Iran in focus",
@@ -666,8 +744,47 @@
       "publishedAt": "2026-08-17T02:35:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "3d6d0d6a76de"
+    },
+    {
+      "title": "Lala weakens to tropical storm as it lashes Hawaii with heavy wind and rain",
+      "summary": "Hurricane Lala downgraded after skirting Big Island as one person dies and more than 200,000 homes and businesses without power Hurricane Lala weakened to a tropical storm on Sunday after skirting Hawaii without making landfall, but it wasn’t done punishing the Big Island with hurricane-force gusts. Total rainfall of nearly 3ft (1 meter) was expected on the ",
+      "url": "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-16T23:45:12.000Z",
+      "image": "https://i.guim.co.uk/img/media/6e73fbbd0924a1f3ce3ffbcc84b0f2ee60a2ce84/643_0_6432_5148/master/6432.jpg?width=140&quality=85&auto=format&fit=max&s=b0c9c1531cf8bc554606c475cd6d9945",
+      "topic": "气候",
+      "score": 73,
+      "id": "97bd519957d9"
+    },
+    {
+      "title": "Trump orders major cut to US-South Korea drills as North Korea ramps up missile tests",
+      "summary": "Trump orders major cut to US-South Korea drills as North Korea ramps up missile tests &nbsp;&nbsp; Fox News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3A3LTh3X1VlX0RrTDV6VnZiZ2xnQzVXT2ZWRTBBXzhZZ1ItSE1EN2pGeDRHX2F2R2daWHJkckk3XzluNEI4aHhoTEg2SVViNWUzWVFWZDlKcC0ydjlzdGp1c0JzMHJGZmVCYlRWZWZEVXk4eFJacXdQSWtzTFZlRGRWOEQweFR1b2otaEhLZVJ4SEFiRkNEMTVVMGt6OUJFempacDlnV0RTR2F6UzVpaXlR0gG3AUFVX3lxTE10bUxwLWpUR2h5a2V1VDBEVE1waFRpWlNQUlpmbDdqM2J3cFd6OE5GOUc1STFNVTBkOXVvWHFyM1c4RDk4amlSenVFWDczZTFmT1I3WU5DR25KZ0dEbFNaMkdxdnZVUjZaOUVpdEN6dG9OVGl1WWtnRVdMdXV3c3ZiOWVzd2otZ2ItQl8zcVZKb0xIWGpKNm54WTNnbVJuWFM3ajMtS3dfMmFkQ1FCVVpiNzBhYmxNRQ?oc=5",
+      "source": "Fox News",
+      "feed": "Latin America News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-16T23:32:30.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 73,
+      "id": "e26e30ff37a0"
+    },
+    {
+      "title": "South Africa: An envoy’s bogus claims",
+      "summary": "South Africa: An envoy’s bogus claims &nbsp;&nbsp; The Nation Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xWXVQMlYzQnJGbnRrcWQxaGlmVEtFeU5kODVZRDl4VmhUWmFyNV9lR2VOaklBak5OZGYtUm9NNV9EbDY2LVgzOS1GUnVUQ3RoRlZZaUkyZE1tRmdnY09QelpRVWg1VnNsTDJ5dlNKbzdRS3RX0gF6QVVfeXFMT0FuTFotRC1nTXhWN1ZoNlo3UTQwdzlxNHZzRGY4VFlXWU0teUpjODU4WGFLdnU4NW1kVno0OGJMQ2pfYTkzQUh4czdrd1loLVlXcjJzUU40cE5QeVlJMTBPbjRUWkRINnRNekpib0lwbEtORThyR2lFbXc?oc=5",
+      "source": "The Nation Newspaper",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-17T04:49:57.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "9f0c7a721380"
     },
     {
       "title": "ABC removes more episodes by sacked reporter Mahmood Fazal",
@@ -679,7 +796,7 @@
       "publishedAt": "2026-08-17T02:12:15.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/6509b1f579c3d227938229869fcbf5dc?impolicy=wcms_crop_resize&cropH=551&cropW=980&xPos=0&yPos=38&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "9cd3c0557fad"
     },
     {
@@ -692,7 +809,7 @@
       "publishedAt": "2026-08-17T02:11:26.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/dd6e54ca829ea1086d5d8c01efab826c?impolicy=wcms_crop_resize&cropH=675&cropW=1200&xPos=0&yPos=210&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "299abba8d6d7"
     },
     {
@@ -705,47 +822,8 @@
       "publishedAt": "2026-08-17T02:07:44.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/20ceec433ca099721c759df82c46cbc7?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=35&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 72,
       "id": "b4dd30c09b13"
-    },
-    {
-      "title": "Trump orders major cut to US-South Korea drills as North Korea ramps up missile tests",
-      "summary": "Trump orders major cut to US-South Korea drills as North Korea ramps up missile tests &nbsp;&nbsp; Fox News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3A3LTh3X1VlX0RrTDV6VnZiZ2xnQzVXT2ZWRTBBXzhZZ1ItSE1EN2pGeDRHX2F2R2daWHJkckk3XzluNEI4aHhoTEg2SVViNWUzWVFWZDlKcC0ydjlzdGp1c0JzMHJGZmVCYlRWZWZEVXk4eFJacXdQSWtzTFZlRGRWOEQweFR1b2otaEhLZVJ4SEFiRkNEMTVVMGt6OUJFempacDlnV0RTR2F6UzVpaXlR0gG3AUFVX3lxTE10bUxwLWpUR2h5a2V1VDBEVE1waFRpWlNQUlpmbDdqM2J3cFd6OE5GOUc1STFNVTBkOXVvWHFyM1c4RDk4amlSenVFWDczZTFmT1I3WU5DR25KZ0dEbFNaMkdxdnZVUjZaOUVpdEN6dG9OVGl1WWtnRVdMdXV3c3ZiOWVzd2otZ2ItQl8zcVZKb0xIWGpKNm54WTNnbVJuWFM3ajMtS3dfMmFkQ1FCVVpiNzBhYmxNRQ?oc=5",
-      "source": "Fox News",
-      "feed": "Latin America News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-16T23:32:30.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "e26e30ff37a0"
-    },
-    {
-      "title": "The other World Cup",
-      "summary": "The other World Cup &nbsp;&nbsp; Lowy Institute",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1veVR5ZlJaYWpZdzdhX3BwRVlxTUNsb0JOZUhHV19aMWkwc1FFSi1UTkotQk1mT1BWdlQ4SUJyTXktVWc4Y01tSllqTXd2bXEzYnV5MkpvS00zSmtYaDBvbllTYWMtV0NsdFYxdXRmOFRBWnc?oc=5",
-      "source": "Lowy Institute",
-      "feed": "Pacific News Network",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-16T17:04:28.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "56b2e38bf631"
-    },
-    {
-      "title": "Hundreds of pelicans found dead in outback NSW",
-      "summary": "Bird flu is ruled out as the cause of the deaths of hundreds of pelicans discovered by an ecologist at the Menindee Lakes.",
-      "url": "https://www.abc.net.au/news/2026-08-17/dead-pelicans-menindee-lakes-h5n1-bird-flu-negative-test/107027670",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-17T01:59:56.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6e13d155cf7cb29c734fbc2a64f6c298?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=150&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "469eec70088c"
     },
     {
       "title": "Cuba grid collapse: The situation is growing more dire, experts say - ABC News",
@@ -757,7 +835,7 @@
       "publishedAt": "2026-08-16T21:41:10.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "b49370f48f8f"
     },
     {
@@ -770,21 +848,8 @@
       "publishedAt": "2026-08-16T19:00:23.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
       "topic": "社会",
-      "score": 73,
-      "id": "d4f3d7e6f21a"
-    },
-    {
-      "title": "‘Cat’ Matlala set to appear before Madlanga Commission",
-      "summary": "‘Cat’ Matlala set to appear before Madlanga Commission &nbsp;&nbsp; EWN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHRWRWZOM2o3YzVTTUFGNU95akRsQzFxbE0zajJNTXJydUl2VnN0djNlWkI1R3pBUndxOUdmTVBMMWdCTUpUektyc0lsWXd2OV9ScXFHX3dHTzRUdTZlN1dCWFh0NnV0Wkh4RFBOVjJfakpySzVyZVlaYUE3SmhnREhvVDNDbVpEc1A1aGZn?oc=5",
-      "source": "EWN",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-17T03:54:50.000Z",
-      "image": "",
-      "topic": "社会",
       "score": 72,
-      "id": "8839acb4b943"
+      "id": "d4f3d7e6f21a"
     },
     {
       "title": "Can the AU make its current Sudan mission count?",
@@ -796,7 +861,7 @@
       "publishedAt": "2026-08-17T01:13:37.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "22f640b9eb49"
     },
     {
@@ -809,7 +874,7 @@
       "publishedAt": "2026-08-17T00:56:07.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "7ce6046a3e5c"
     },
     {
@@ -822,7 +887,7 @@
       "publishedAt": "2026-08-17T00:54:37.000Z",
       "image": "",
       "topic": "气候",
-      "score": 72,
+      "score": 71,
       "id": "704ee12f19d9"
     },
     {
@@ -835,8 +900,21 @@
       "publishedAt": "2026-08-16T21:23:03.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "37ea959b0ce9"
+    },
+    {
+      "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
+      "summary": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window &nbsp;&nbsp; Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZURuZlhIcjNJbnBOUmRuakJTYkl2LUg2d1JJVVhyQUowWUpiVVdyQVVGUDJvR3g4MlM1SUR2c1dSaUtfd1BWSmVhNXJwTllqTWh0SHZuYUhVamxvMkJxZnZMV24yYllacklXdzFfMy1ZWDRaSXBmaEpKeVZFMmhtOGpyVXNJanZLbk1aS0t4SndrY1MxTEV6ZzRZLUZla3pyUU80?oc=5",
+      "source": "Goal.com",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-17T03:29:34.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "0de28efbcdf8"
     },
     {
       "title": "How Europe’s Unpopular Stock Market Is Quietly Beating Wall Street",
@@ -848,21 +926,8 @@
       "publishedAt": "2026-08-17T03:25:00.000Z",
       "image": "",
       "topic": "经济",
-      "score": 71,
+      "score": 70,
       "id": "62746b61dfcd"
-    },
-    {
-      "title": "Malawi’s meteoric rise to the top of Africa’s football hierarchy",
-      "summary": "Malawi’s meteoric rise to the top of Africa’s football hierarchy &nbsp;&nbsp; nation.africa",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT1d2ZERQdUZ5RmRsbDRQVjZhNC11dG9wdVZ0ZEx2NzduWVIwS0RrekxwSlk2OVNuTUFZOVZKblU2dUJ5a0ZiMWVpN3dWbTlZNjNtUTVSZ0E0WVZGOEpyMU1IdXNlZDdkV2FjNW80NTFHVEVTYWkyWkRfTXo1VFIxMzdZQ29PQkJ2aXZiT3VxbUxFWVU1YkYySE9VOWFJVEJVbjgtVkN1UlBrZFpvbGZ2R3Rha2JsUmZS?oc=5",
-      "source": "nation.africa",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-17T03:00:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "92df0d0d9964"
     },
     {
       "title": "Earthquake of magnitude 7.8 strikes Philippines, no tsunami threat to NZ",
@@ -874,73 +939,8 @@
       "publishedAt": "2026-08-17T00:00:44.000Z",
       "image": "",
       "topic": "气候",
-      "score": 71,
+      "score": 70,
       "id": "b0e4a40f79a3"
-    },
-    {
-      "title": "UN’s Albanese: Israel outsourcing coercion to settlers in West Bank",
-      "summary": "UN Special Rapporteur Francesca Albanese says Israel bears responsibility and is outsourcing coercion to settlers.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/uns-albanese-israel-outsourcing-coercion-to-settlers-in-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-16T23:58:45.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 71,
-      "id": "a0e16f8b887f"
-    },
-    {
-      "title": "‘BIGGEST MISTAKE’!: Zelensky ‘Secretly Recruits’ African Militants To Wage WAR Against Putin’s Army",
-      "summary": "‘BIGGEST MISTAKE’!: Zelensky ‘Secretly Recruits’ African Militants To Wage WAR Against Putin’s Army &nbsp;&nbsp; The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPU1VfUGZTaEw2Vmh2RGN3TlBYVzVPR2ZhQk9HTy1FNncwdVFxczJ5VGNlU2NhWm5uY0ZidGFqb1VvSUp6ZXc0SlF4ZjI5N2VsbWEzcVNFenFXSzA0MlRZOE5lTzlxdXlXN2FESE5hWVl1bzNMNkZrWXc3YzY4M19RbktrR1ZXZWtQejR3bjVBUllGU0xjbi1uSFNucW1IbDRBWTBUNHJ0QlNQNmdIQ0RfRlhiSlVlNUgtc2dVbzhodUM0Z29ES09mWm9PY3g4VWpRcDNTVmlCRzdwTmkwcm9VSGw5Q25jV0JXZ051ZVMxZDZPUno0SzNsbWZBZGRSR3ZRMG5F0gGIAkFVX3lxTE8xeW1MTGRta3pyS3VQaVB0SlBCVkdqM2JOcGc5WE1FOUZzNUNMOVNweHhCZTgxbHZUUnNMMjVpaTZCLUVxUVMyOF9VNkdMa3N1YzRSdTZrOUNGZElqVGtSbTdTY3dVbTJtdHo1UDFiQjhRNkRoZnRrV1czUnZlYVJxRlFTbEFrTzdfZFlLTlI2SFBLRXkyZWJFeXBhbHJzcjk5Ui1rdFpYR2Nwc0xVV2d2UzM1Q0s2ZVpaWE93a0lSaEFOZTk2OXVINDNMQ2ktQjR0aHRsUXB3TVVuYW5aRC0zeURJNjdOb3k5Zkp6OEE2eGFaQW1FdU9TTWY0LVhGOFBBMlZIazhNaQ?oc=5",
-      "source": "The Times of India",
-      "feed": "Africa News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-16T23:49:35.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 71,
-      "id": "1ab98f33bd0e"
-    },
-    {
-      "title": "Elderly man charged after claiming to be Vietnam veteran",
-      "summary": "A 79-year-old man who allegedly claimed to be a Vietnam veteran and improperly wore service medals is charged by police.",
-      "url": "https://www.abc.net.au/news/2026-08-17/man-charged-over-vietnam-war-service-claims/107045074",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "亚洲",
-      "publishedAt": "2026-08-16T23:47:40.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/7433046055a1c547534dd15127780386?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "社会",
-      "score": 71,
-      "id": "fb5bf3a35a12"
-    },
-    {
-      "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
-      "summary": "Politicians voiced alarm over mental health struggles on carrier, with reports of sailors attempting to jump overboard.",
-      "url": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-16T20:46:01.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "723ba96b9ceb"
-    },
-    {
-      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-      "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer.",
-      "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-16T11:35:25.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b6/live/72212bd0-9961-11f1-a7ab-8b30adf0800a.jpg",
-      "topic": "社会",
-      "score": 71,
-      "id": "c0d986388526"
     }
   ]
 }
