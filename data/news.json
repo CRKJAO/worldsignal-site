@@ -1,24 +1,11 @@
 {
-  "updatedAt": "2026-08-18T19:43:17.484Z",
+  "updatedAt": "2026-08-18T20:42:51.088Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
-    {
-      "title": "US sanctions international criminal court president and prosecutor",
-      "summary": "Marco Rubio targets ICC’s Tomoko Akane and Abdoulaye Seye, who was investigating Israeli war crimes in Gaza The US has sanctioned the president of the international criminal court (ICC) and a prosecutor tasked with investigating crimes committed by Israel during its war on Gaza. The new sanctions designations were unveiled by Marco Rubio, the US secretary of",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/us-icc-sanctions",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-18T18:37:59.000Z",
-      "image": "https://i.guim.co.uk/img/media/0cbe1ff08a51d4068e0c1b84611c3057a08cc497/730_0_3880_3106/master/3880.jpg?width=140&quality=85&auto=format&fit=max&s=af13bf3a1fd541188abc6d80d2777c03",
-      "topic": "政治",
-      "score": 88,
-      "id": "3b56f684b3ca"
-    },
     {
       "title": "Video Trump threatens Middle East allies as Iran ceasefire deadline passes - ABC News",
       "summary": "Video Trump threatens Middle East allies as Iran ceasefire deadline passes &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
@@ -29,7 +16,7 @@
       "publishedAt": "2026-08-18T12:03:13.000Z",
       "image": "",
       "topic": "政治",
-      "score": 87,
+      "score": 86,
       "id": "a89746cc7dcf"
     },
     {
@@ -42,7 +29,7 @@
       "publishedAt": "2026-08-18T18:15:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 86,
+      "score": 85,
       "id": "e7c8d2400797"
     },
     {
@@ -52,11 +39,37 @@
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "全球",
-      "publishedAt": "2026-08-18T19:27:49.000Z",
+      "publishedAt": "2026-08-18T20:27:57.000Z",
       "image": "https://i.guim.co.uk/img/media/d46ed15aa5337038ae141cbce0bc7afba41673be/14_0_4121_3297/master/4121.jpg?width=140&quality=85&auto=format&fit=max&s=fd434a3ad5ff03f1ed5657fe52fbacda",
       "topic": "政治",
       "score": 84,
       "id": "26247bc4b0d7"
+    },
+    {
+      "title": "US sanctions International Criminal Court president and trial lawyer",
+      "summary": "The Trump administration has led a campaign to 'dismantle' the court, calling it a threat to national sovereignty.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-18T20:09:07.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 84,
+      "id": "25f24e47246d"
+    },
+    {
+      "title": "Breaking: ZZ Top drummer Frank Beard dies aged 77",
+      "summary": "Lead singer Billy Gibbons says the world has lost \"one of the most naturally innovative drummers and a great and true son of Texas\".",
+      "url": "https://www.abc.net.au/news/2026-08-19/zz-top-drummer-frank-beard-dies/107052768",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-18T20:08:09.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/54dcf6229ad1716a56246db448f63dd1?impolicy=wcms_crop_resize&cropH=1486&cropW=2641&xPos=0&yPos=138&width=862&height=485",
+      "topic": "社会",
+      "score": 84,
+      "id": "ec848e075f25"
     },
     {
       "title": "Police attack Indonesian student protesters, arresting at least 21",
@@ -68,7 +81,7 @@
       "publishedAt": "2026-08-18T18:17:35.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "f50c6aab1e0e"
     },
     {
@@ -81,8 +94,47 @@
       "publishedAt": "2026-08-18T17:51:46.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "5dd6f1fd6ee0"
+    },
+    {
+      "title": "Russian missile strike kills 10 civilians in Kharkiv",
+      "summary": "A Russian missile strike on Pechenihy, in Ukraine’s Kharkiv region, killed at least 10 civilians and wounded 17 others.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-18T20:26:01.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 80,
+      "id": "182a1c7a608a"
+    },
+    {
+      "title": "Man accused of attacking duo at New York synagogue charged with federal hate crimes",
+      "summary": "Larry Montes, already facing state charges, allegedly attacked 63-year-old woman and security guard on Friday The man accused of attacking a woman and security guard at a New York City synagogue during Shabbat services Friday has been charged with hate crimes in Manhattan federal court, prosecutors said. Larry Montes, who is already facing state-level hate c",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/nyc-synagogue-federal-hate-crime-charges",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-18T20:25:10.000Z",
+      "image": "https://i.guim.co.uk/img/media/cf5d7d57f4ad81e72c8963a63b1c0dbbb32bb26b/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=bc0792b6241282ca4d0a7cbbba4297b9",
+      "topic": "政治",
+      "score": 80,
+      "id": "4cc84e255c9a"
+    },
+    {
+      "title": "US announces new sanctions on top ICC figures",
+      "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
+      "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-18T20:21:49.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd44/live/c84cee60-9b2b-11f1-9a2c-6d6ac3827d20.jpg",
+      "topic": "政治",
+      "score": 80,
+      "id": "75054c89ac50"
     },
     {
       "title": "Earthquake rocks Spain's historic Granada, injuring three",
@@ -94,34 +146,8 @@
       "publishedAt": "2026-08-18T17:15:39.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03ad/live/f4bbe260-9b32-11f1-8c41-7f62681f5885.jpg",
       "topic": "气候",
-      "score": 82,
+      "score": 80,
       "id": "595a98352faa"
-    },
-    {
-      "title": "Ship attacked during Strait of Hormuz transit and other news from the Middle East",
-      "summary": "Ship attacked during Strait of Hormuz transit and other news from the Middle East &nbsp;&nbsp; Orange County Register",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSUxPcG54UEx4ZkZyRTQyeFgyLV9WaHpRS2t4NVZ3QWxhcGhHTVRmaHBWRjBKVm4zMEVIMjJ1MldqZTlKX2g2bkpzWEZqRkJYZlh4cG9oVUxxdVVDQmpZTzNwcG45WDVodW0xdWdvSGNZdXhMZXF0ankzd3Z4dDZYX0tYRUlERDRCb0ZVbzVLZw?oc=5",
-      "source": "Orange County Register",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-18T11:10:27.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 82,
-      "id": "206fa70a7e4c"
-    },
-    {
-      "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
-      "summary": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "美洲",
-      "publishedAt": "2026-08-18T17:00:29.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a5c/live/58189080-9ae1-11f1-b2f7-5d1639b20e22.jpg",
-      "topic": "政治",
-      "score": 81,
-      "id": "3b2067b53a20"
     },
     {
       "title": "UAE president, Trump discuss Middle East in call",
@@ -133,25 +159,64 @@
       "publishedAt": "2026-08-18T13:32:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "2049900c5440"
     },
     {
-      "title": "US announces new sanctions on top ICC figures",
-      "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
-      "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+      "title": "Ship attacked during Strait of Hormuz transit and other news from the Middle East",
+      "summary": "Ship attacked during Strait of Hormuz transit and other news from the Middle East &nbsp;&nbsp; Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSUxPcG54UEx4ZkZyRTQyeFgyLV9WaHpRS2t4NVZ3QWxhcGhHTVRmaHBWRjBKVm4zMEVIMjJ1MldqZTlKX2g2bkpzWEZqRkJYZlh4cG9oVUxxdVVDQmpZTzNwcG45WDVodW0xdWdvSGNZdXhMZXF0ankzd3Z4dDZYX0tYRUlERDRCb0ZVbzVLZw?oc=5",
+      "source": "Orange County Register",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-18T11:10:27.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 80,
+      "id": "206fa70a7e4c"
+    },
+    {
+      "title": "Queensland social housing waitlist drops to 44,000 with 'work to do'",
+      "summary": "The latest figures for July showed 44,294 people on the waitlist, a drop from the 48,539 recorded in October 2024 when the LNP came to office.",
+      "url": "https://www.abc.net.au/news/2026-08-19/queensland-social-housing-register-waitlist/107050360",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-18T19:52:55.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d6bd323d59f3cf145675de292a57475e?impolicy=wcms_crop_resize&cropH=3069&cropW=5457&xPos=0&yPos=129&width=862&height=485",
+      "topic": "社会",
+      "score": 79,
+      "id": "c12a605a2ab8"
+    },
+    {
+      "title": "Judge swapped in Trump's defamation case against BBC",
+      "summary": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "feed": "BBC World",
       "region": "全球",
-      "publishedAt": "2026-08-18T19:18:30.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd44/live/c84cee60-9b2b-11f1-9a2c-6d6ac3827d20.jpg",
+      "publishedAt": "2026-08-18T19:52:32.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9948/live/1ffb4fe0-919e-11f1-b6b0-d5690aa17db0.jpg",
       "topic": "政治",
-      "score": 80,
-      "id": "75054c89ac50"
+      "score": 79,
+      "id": "bfeaa4d7bb4c"
+    },
+    {
+      "title": "Lone doctor's plea for help in quake-struck Indonesia as 40,000 displaced",
+      "summary": "\"I am physically unable to handle this many patients alone,\" came the viral plea from the young doctor working alone in one of the earthquake's worst-affected areas.",
+      "url": "https://www.abc.net.au/news/2026-08-19/indonesia-earthquake-survivors-await-support/107051076",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "亚洲",
+      "publishedAt": "2026-08-18T19:48:07.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/da9d47b08bb7db3689efc0a4c8c8a419?impolicy=wcms_crop_resize&cropH=888&cropW=1579&xPos=198&yPos=112&width=862&height=485",
+      "topic": "气候",
+      "score": 79,
+      "id": "4304873daca6"
     },
     {
       "title": "AFL policy is to wait while police investigate. The Swans may not",
-      "summary": "Fresh statements from the AFL and Sydney Swans responding to alleged hotel incident signalling a tough approach and imminent sanctions have been welcomed by advocates, but the delay raises questions about the league's policies.",
+      "summary": "Fresh statements from the AFL and Sydney Swans responding to an alleged hotel incident signalling a tough approach and imminent sanctions have been welcomed by advocates, but the delay raises questions about the league's policies.",
       "url": "https://www.abc.net.au/news/2026-08-19/sydney-swans-questions-afl-policy-sexual-assault-allegations/107051552",
       "source": "ABC Australia",
       "feed": "ABC Australia",
@@ -159,7 +224,7 @@
       "publishedAt": "2026-08-18T19:13:41.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/61ba4da5c478a81b92b375b6e901ad07?impolicy=wcms_crop_resize&cropH=1179&cropW=2096&xPos=0&yPos=109&width=862&height=485",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "2c78447e5e59"
     },
     {
@@ -172,7 +237,7 @@
       "publishedAt": "2026-08-18T15:45:00.000Z",
       "image": "https://i.guim.co.uk/img/media/2413d7235ae4388230727622d90026578d511c23/487_0_3698_2960/master/3698.jpg?width=140&quality=85&auto=format&fit=max&s=f84fe979b6e19c8727ad1c66f9378f62",
       "topic": "气候",
-      "score": 80,
+      "score": 79,
       "id": "7cef0a1a585e"
     },
     {
@@ -185,7 +250,7 @@
       "publishedAt": "2026-08-18T15:19:40.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "0cf777b90ee7"
     },
     {
@@ -198,11 +263,11 @@
       "publishedAt": "2026-08-18T12:02:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "9b045e3be244"
     },
     {
-      "title": "Barcelona seal deal for World Cup winner Rodri from Manchester City",
+      "title": "Rodri signs for Barcelona as World Cup winner transfers from Man City",
       "summary": "Rodri won the player of the World Cup award while helping Spain beat Argentina, and now completes his Barcelona move.",
       "url": "https://www.aljazeera.com/sports/2026/8/18/barcelona-seal-deal-for-world-cup-winner-rodri-from-manchester-city?traffic_source=rss",
       "source": "Al Jazeera",
@@ -211,8 +276,8 @@
       "publishedAt": "2026-08-18T18:01:12.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
-      "id": "3ba0ddbe9bdc"
+      "score": 77,
+      "id": "927c4c38b866"
     },
     {
       "title": "Nigeria hospital collapses after rain washed away its foundations",
@@ -224,8 +289,60 @@
       "publishedAt": "2026-08-18T17:55:26.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "bffdd95d4429"
+    },
+    {
+      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+      "summary": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-18T20:39:36.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32bd/live/f9b07010-9b1e-11f1-afea-3b9b9f2d3a59.jpg",
+      "topic": "社会",
+      "score": 76,
+      "id": "922ed8fc0c6c"
+    },
+    {
+      "title": "Man in Chucky-style mask terrorises Philadelphia residents",
+      "summary": "\"It was just weird, like some twisted game.\"",
+      "url": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-18T20:27:44.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d5/live/8979c270-9b3b-11f1-adfc-97cecc6f1ad1.jpg",
+      "topic": "社会",
+      "score": 76,
+      "id": "18e74e5d3b19"
+    },
+    {
+      "title": "Trump and Carney speak ahead of US tariff deadline",
+      "summary": "The new US tariffs would cover about $20bn worth of imports and could lead to job losses and business closures.",
+      "url": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-18T20:19:27.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 76,
+      "id": "dbce0cb50c64"
+    },
+    {
+      "title": "Sinking AI stocks pull Wall Street further from its record",
+      "summary": "Sinking AI stocks pull Wall Street further from its record &nbsp;&nbsp; Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0Vzaml1Q3RvYWtrV0xRcXBDUjFzaXVFR1FtVU5uZ0Y0TnAyZ3EtbU5hcUtYUUtoRVJDQUJ1eGtZOU5UVDAtclhsRTZZMnlmUldUTXhVdlNBem1oZE1hODF3LS1XdG8yY3NKQ1JBNFBxWWdlaUw2MlRSR0o2dklIOGN1eUxCMWlSWnJB?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Asia News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-18T20:05:26.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 76,
+      "id": "8c85ad7c5343"
     },
     {
       "title": "The British state has recast protest as terrorism",
@@ -237,7 +354,7 @@
       "publishedAt": "2026-08-18T17:34:44.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "4cc11f98dd10"
     },
     {
@@ -250,73 +367,164 @@
       "publishedAt": "2026-08-18T17:32:31.000Z",
       "image": "https://i.guim.co.uk/img/media/3027a4cee9bbcdc392199fb553c1e911031d3600/66_0_3795_3034/master/3795.jpg?width=140&quality=85&auto=format&fit=max&s=7aee4a5c77bd957631b71eaac486a200",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "9182d75211fc"
     },
     {
-      "title": "Hichilema re-elected as Zambia president amid opposition concerns over vote",
-      "summary": "Hakainde Hichilema’s second term will test whether economic recovery can deliver real change for Zambians.",
-      "url": "https://www.aljazeera.com/news/2026/8/18/hichilema-re-elected-as-zambia-president-amid-opposition-concerns-over-vote?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
+      "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
+      "summary": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
       "region": "美洲",
-      "publishedAt": "2026-08-18T14:01:47.000Z",
-      "image": "",
+      "publishedAt": "2026-08-18T17:00:29.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a5c/live/58189080-9ae1-11f1-b2f7-5d1639b20e22.jpg",
       "topic": "政治",
-      "score": 77,
-      "id": "c03bea352a57"
-    },
-    {
-      "title": "New mum returns to international 'murderball' with blunt new perspective",
-      "summary": "Ella Sabljak returns to international competition less than a year after giving birth to her first child, with the Australian Steelers in the hunt for Wheelchair Rugby World Championship glory in Brazil.",
-      "url": "https://www.abc.net.au/news/2026-08-19/new-mum-ella-sabljak-australia-wheelchair-rugby-world-champs/107046698",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "美洲",
-      "publishedAt": "2026-08-18T19:29:15.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/74dd0c38bd9693ef43701ef1ad656646?impolicy=wcms_crop_resize&cropH=912&cropW=1622&xPos=303&yPos=97&width=862&height=485",
-      "topic": "社会",
       "score": 76,
-      "id": "563243ebe4cf"
+      "id": "3b2067b53a20"
     },
     {
-      "title": "Erin Patterson's bid to overturn her murder convictions begins",
-      "summary": "Lawyers for triple-murderer Erin Patterson will appeal to have her conviction overturned in the Supreme Court, while prosecutors will attempt to have the possibility of parole removed.",
-      "url": "https://www.abc.net.au/news/2026-08-19/erin-patterson-mushroom-murder-appeal-explainer/107049830",
+      "title": "Former AFL player Ricky Henderson sues Fox Sports, AFL over genitals exposure",
+      "summary": "Former professional footballer Ricky Henderson is suing the AFL and Fox Sports for more than $1.2 million in damages over an incident in which \"compromising footage\" of him was aired on live television in 2013.",
+      "url": "https://www.abc.net.au/news/2026-08-19/ricky-henderson-genitals-exposure-lawsuit-afl-fox-sports/107050690",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "大洋洲",
-      "publishedAt": "2026-08-18T19:28:29.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/686742dcd66405ef96ff2c2d8bf21d0f?impolicy=wcms_crop_resize&cropH=803&cropW=1428&xPos=368&yPos=284&width=862&height=485",
-      "topic": "政治",
-      "score": 76,
-      "id": "660111e3e914"
+      "publishedAt": "2026-08-18T20:16:47.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d1b4f0bc1fc2e7a56078a4f8662949db?impolicy=wcms_crop_resize&cropH=395&cropW=703&xPos=0&yPos=47&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "9aef0f35aa20"
     },
     {
-      "title": "Tupac Shakur murder trial: former security officer describes witnessing aftermath of shooting – latest updates",
-      "summary": "William Heidmeyer recounts hearing ‘three volleys’ of gunfire and seeing one man holding a pistol What we know about Tupac Shakur’s death and what to expect from murder trial District Court Judge Carli Kierney relayed a few questions directly from the jury to medical examiner Dr. Lisa Gavin. “Where there any wounds to the head that you or Dr. Jordan observed",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/tupac-shakur-gang-killing-murder-trial-live",
+      "title": "Trump administration to rescind rule protecting old-growth forests",
+      "summary": "Almost 45m acres of national forests could be potentially opened to road construction, drilling and logging The Trump administration said on Tuesday it plans to rescind the “roadless rule” that has protected old-growth forests in the US for 25 years, potentially opening up almost 45m acres of national forests to road construction, drilling and logging. Conse",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests",
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "全球",
-      "publishedAt": "2026-08-18T19:23:10.000Z",
-      "image": "https://i.guim.co.uk/img/media/0366975d00a452bdc889ca6f663da2315599bc9d/140_0_3713_2971/master/3713.jpg?width=140&quality=85&auto=format&fit=max&s=ed70266a297bb91b243d4516ac251707",
-      "topic": "政治",
-      "score": 76,
-      "id": "ad6ccdfee3b2"
+      "publishedAt": "2026-08-18T20:13:31.000Z",
+      "image": "https://i.guim.co.uk/img/media/c0af7f576d0d5d3bfebd91fa4c6429f3920d610b/355_0_2362_1889/master/2362.jpg?width=140&quality=85&auto=format&fit=max&s=2568519878a724caf5d5fa231c4bba70",
+      "topic": "社会",
+      "score": 75,
+      "id": "65376e14726c"
     },
     {
-      "title": "The ‘witch-hunt’ of Jason Arday",
-      "summary": "The ‘witch-hunt’ of Jason Arday",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/the-witch-hunt-of-jason-arday?traffic_source=rss",
+      "title": "Fifty years on, Judith has figured out why going to school was hard",
+      "summary": "Despite being a keen student in the 1960s and 70s, Judith felt unable to attend school regularly. Fifty years on, she is finally figuring out why going to school was so hard.",
+      "url": "https://www.abc.net.au/news/2026-08-19/school-refusal-or-school-cant-an-issue-for-decades/107049128",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-18T20:05:49.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a3c63281c1b7e1cdefb0de4c937d2ad2?impolicy=wcms_crop_resize&cropH=666&cropW=1184&xPos=181&yPos=233&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "1252135d7bbf"
+    },
+    {
+      "title": "$4.3m pilot to help victim-survivors navigate NSW justice system",
+      "summary": "The two-year pilot program will make it easier for victim-survivors to access support throughout the criminal justice process in New South Wales.",
+      "url": "https://www.abc.net.au/news/2026-08-19/nsw-justice-support-pilot-for-sexual-assault-victims/107051320",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-18T20:04:32.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/bd1ac080383f2e6178f774bd6a70fdb5?impolicy=wcms_crop_resize&cropH=3942&cropW=7008&xPos=0&yPos=494&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "0f5a031f9064"
+    },
+    {
+      "title": "Hospital faces 'day of reckoning' as CEO disappears and ED overwhelmed",
+      "summary": "Mildura hospital, one of the biggest employers in the region, is set to undergo an executive shake-up a month on from its CEO's mysterious departure.",
+      "url": "https://www.abc.net.au/news/2026-08-19/mildura-base-public-hospital-executive-restructure-ed-staffing/107046984",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-18T20:01:59.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/5170b74d646c1738a447c1a1cb6cf382?impolicy=wcms_crop_resize&cropH=551&cropW=980&xPos=564&yPos=145&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "f6b04410d6e7"
+    },
+    {
+      "title": "Pentagon threatens to cut federal funding to 30 universities over foreign academic partnerships",
+      "summary": "Harvard, Yale, Stanford and others face directive to review and cut alliances Pentagon deems national security risk Thirty US universities could lose federal funding unless they review and cut foreign academic partnerships the Pentagon considers a national security risk within the next two weeks, under a Pentagon directive aimed largely at ties to Chinese in",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/pentagon-funding-colleges-harvard",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-18T20:01:35.000Z",
+      "image": "https://i.guim.co.uk/img/media/7fa65ad313d07622e6bbc9cd9e97896196bba758/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=96a9185d5a61aafe9e3135c66f6a3159",
+      "topic": "社会",
+      "score": 75,
+      "id": "ff85cf10b5c0"
+    },
+    {
+      "title": "The answer to preventing falls may be as simple as exercise",
+      "summary": "At almost 80 years old, grandmother Sandra Franklin still wants to pick up her grandkids. She knows exercise is key to keeping her moving.",
+      "url": "https://www.abc.net.au/news/2026-08-19/exercise-programs-helping-to-prevent-falls-older-australians/107027424",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-18T20:01:21.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/5133d99f8198c89a2c50f02cd180898d?impolicy=wcms_crop_resize&cropH=1125&cropW=2000&xPos=0&yPos=104&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "cc604bc05a52"
+    },
+    {
+      "title": "US Justice Department denies whistleblower claims on anti-Semitism probes",
+      "summary": "Ivy League schools were pressured into settlements despite a lack of evidence, according to a former DOJ lawyer.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
       "region": "全球",
-      "publishedAt": "2026-08-18T19:22:45.000Z",
+      "publishedAt": "2026-08-18T19:56:48.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
-      "id": "6860aab0c198"
+      "score": 75,
+      "id": "507cc6611eb5"
+    },
+    {
+      "title": "Thai police reveal cause of death of teen allegedly murdered by Australian man",
+      "summary": "Thai police have told the ABC they have collected \"100 per cent of the evidence\" and will conclude their investigation this week.",
+      "url": "https://www.abc.net.au/news/2026-08-19/thai-police-release-autopsy-details/107047308",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-18T19:52:53.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/199298877311fdea2bbf3f23c41234e5?impolicy=wcms_crop_resize&cropH=466&cropW=828&xPos=0&yPos=200&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "ad974e9f01d5"
+    },
+    {
+      "title": "Turkish politician Melih Meric stabbed",
+      "summary": "Footage shows the moment Turkish New Party MP Melih Meric got into an argument with a man who stabbed him.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/turkish-politician-melih-meric-stabbed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-18T19:51:17.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "efc269290661"
+    },
+    {
+      "title": "US seeks to revive criminal case against Kilmar Abrego Garcia",
+      "summary": "Judge previously found US government brought charges against Abrego Garcia as retaliation for case that embarrassed it.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-18T19:46:39.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "612d7b18c440"
     },
     {
       "title": "Iran prepares to keep economy alive as US threatens further sanctions",
@@ -328,7 +536,7 @@
       "publishedAt": "2026-08-18T16:21:49.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "a92f856de367"
     },
     {
@@ -341,7 +549,7 @@
       "publishedAt": "2026-08-18T16:19:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "806292a2df4b"
     },
     {
@@ -354,34 +562,47 @@
       "publishedAt": "2026-08-18T16:03:24.000Z",
       "image": "https://i.guim.co.uk/img/media/074daf37376fc15d752556703fdd6dfb5ac323c1/307_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6a6d1601e55845757b5b77e649ed6669",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "b06fb0d29805"
     },
     {
-      "title": "Europe closes mostly lower on Middle East crisis",
-      "summary": "Europe closes mostly lower on Middle East crisis &nbsp;&nbsp; Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYkVxQ3BUd0FSOVhZWWhRbXpkUkFNLUNuR1lSbm8wR05jaDNuVGdyLU1wenVLRDFBR2x5UXhqZjAxRXcyOUQtNDJLaC16d3dWNzBIVWJpRWQ4ZXFMZC1abTVfNktQRTBTbElvcEFUVFYxcktZd1ctYXEyaWNSaDNrN0JxM1U0WjlDbHRMdlRIbDhxdkU5aUd4VzJ6ZzJBcnFEbE0wQlQ5WmVwNkdW?oc=5",
-      "source": "Breakingthenews.net",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-18T15:35:00.000Z",
-      "image": "",
+      "title": "New mum returns to international 'murderball' with blunt new perspective",
+      "summary": "Ella Sabljak returns to international competition less than a year after giving birth to her first child, with the Australian Steelers in the hunt for Wheelchair Rugby World Championship glory in Brazil.",
+      "url": "https://www.abc.net.au/news/2026-08-19/new-mum-ella-sabljak-australia-wheelchair-rugby-world-champs/107046698",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "美洲",
+      "publishedAt": "2026-08-18T19:29:15.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/74dd0c38bd9693ef43701ef1ad656646?impolicy=wcms_crop_resize&cropH=912&cropW=1622&xPos=303&yPos=97&width=862&height=485",
       "topic": "社会",
-      "score": 76,
-      "id": "3f541b16aba5"
+      "score": 74,
+      "id": "563243ebe4cf"
     },
     {
-      "title": "US man posed as doctor in fraudulent scheme to profit from Ozempic, prosecutors say",
-      "summary": "Rodney Greer accused of securing unauthorized prescriptions for GLP-1 drugs and selling them to customers An Illinois man allegedly impersonated doctors – and evidently referred to himself online as “$hotboy1” – is facing criminal charges that he secured unauthorized prescriptions for Ozempic and Mounjaro pharmaceutical drugs that facilitate weight loss and ",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/doctor-ozempic-fraud-indictment",
-      "source": "The Guardian",
-      "feed": "The Guardian",
+      "title": "Erin Patterson's bid to overturn her murder convictions begins",
+      "summary": "Lawyers for triple-murderer Erin Patterson will appeal to have her conviction overturned in the Supreme Court, while prosecutors will attempt to have the possibility of parole removed.",
+      "url": "https://www.abc.net.au/news/2026-08-19/erin-patterson-mushroom-murder-appeal-explainer/107049830",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-18T19:28:29.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/686742dcd66405ef96ff2c2d8bf21d0f?impolicy=wcms_crop_resize&cropH=803&cropW=1428&xPos=368&yPos=284&width=862&height=485",
+      "topic": "政治",
+      "score": 74,
+      "id": "660111e3e914"
+    },
+    {
+      "title": "The ‘witch-hunt’ of Jason Arday",
+      "summary": "The ‘witch-hunt’ of Jason Arday",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/the-witch-hunt-of-jason-arday?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
       "region": "全球",
-      "publishedAt": "2026-08-18T19:19:10.000Z",
-      "image": "https://i.guim.co.uk/img/media/64876f21c88dc2a424e7004e6e87354773faefeb/384_0_5982_4786/master/5982.jpg?width=140&quality=85&auto=format&fit=max&s=e4b527b7e6b9572108b796d6da51bc50",
+      "publishedAt": "2026-08-18T19:22:45.000Z",
+      "image": "",
       "topic": "社会",
-      "score": 75,
-      "id": "1d6231925480"
+      "score": 74,
+      "id": "6860aab0c198"
     },
     {
       "title": "Tasmania inquiry to weigh costs, benefits of new AI data centres",
@@ -393,11 +614,11 @@
       "publishedAt": "2026-08-18T19:18:42.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/3e03c1a0ab78b3d01febde3f6f282752?impolicy=wcms_crop_resize&cropH=2208&cropW=3925&xPos=0&yPos=81&width=862&height=485",
       "topic": "科技",
-      "score": 75,
+      "score": 74,
       "id": "21801fa14720"
     },
     {
-      "title": "Women who feared losing vital cancer treatment offered new hope",
+      "title": "Urgently convened PBS meeting gives crucial cancer drug green light",
       "summary": "Women with breast cancer who were left languishing in PBS drug uncertainty have been offered a lifeline.",
       "url": "https://www.abc.net.au/news/2026-08-19/breast-cancer-pbs-drug-lifeline/107049936",
       "source": "ABC Australia",
@@ -406,8 +627,8 @@
       "publishedAt": "2026-08-18T19:18:18.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/50f2ec787a76be6ef1a38e006315c299?impolicy=wcms_crop_resize&cropH=432&cropW=768&xPos=0&yPos=238&width=862&height=485",
       "topic": "社会",
-      "score": 75,
-      "id": "31083ab75839"
+      "score": 74,
+      "id": "19080bbfa61f"
     },
     {
       "title": "What we do and don't know about guns in Australia",
@@ -419,7 +640,7 @@
       "publishedAt": "2026-08-18T19:11:30.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/e5c83f5241862826cbafdb77b1722905?impolicy=wcms_crop_resize&cropH=759&cropW=1350&xPos=0&yPos=621&width=862&height=485",
       "topic": "经济",
-      "score": 75,
+      "score": 74,
       "id": "d103c4f224ee"
     },
     {
@@ -432,7 +653,7 @@
       "publishedAt": "2026-08-18T19:09:23.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "44ce0cbf4068"
     },
     {
@@ -445,7 +666,7 @@
       "publishedAt": "2026-08-18T19:04:01.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/3ff02f9ffb664175e8f4a03e79ba0583?impolicy=wcms_crop_resize&cropH=675&cropW=1200&xPos=0&yPos=269&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "a6c0758a36c8"
     },
     {
@@ -458,60 +679,8 @@
       "publishedAt": "2026-08-18T18:52:04.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/3ed6a651343722d98163f4fe1165d5ac?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=261&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "3bb26e40ee54"
-    },
-    {
-      "title": "Trump administration to rescind rule protecting old growth forests",
-      "summary": "Almost 45m acres of national forests could be potentially opened to road construction, drilling and logging The Trump administration said on Tuesday it plans to rescind the “roadless rule” that has protected old growth forests in the US for 25 years, potentially opening up almost 45m acres of national forests to road construction, drilling and logging. Conse",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-18T18:51:47.000Z",
-      "image": "https://i.guim.co.uk/img/media/c0af7f576d0d5d3bfebd91fa4c6429f3920d610b/355_0_2362_1889/master/2362.jpg?width=140&quality=85&auto=format&fit=max&s=2568519878a724caf5d5fa231c4bba70",
-      "topic": "社会",
-      "score": 75,
-      "id": "614e816c8172"
-    },
-    {
-      "title": "Swedish MP intervenes in ‘damaging’ Brexit row over elderly Britons ordered to leave",
-      "summary": "Migration minister asked how he intends to stop deportations of people ‘who had lived in Sweden for decades’ The deportation and removal of British citizens from Sweden over Brexit residency rights is damaging relations with the UK amid efforts to improve links with London, a Swedish MP has said. Häkan Svenneling, representative for Vârmland, where a 78-year",
-      "url": "https://www.theguardian.com/politics/2026/aug/18/swedish-mp-intervenes-brexit-row-elderly-britons-ordered-leave",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-18T18:44:06.000Z",
-      "image": "https://i.guim.co.uk/img/media/c3af4373bad2383888ee39dd1705321ce262d9e5/96_0_4354_3484/master/4354.jpg?width=140&quality=85&auto=format&fit=max&s=e6710becf05e59075dcc6bc4cac238ec",
-      "topic": "社会",
-      "score": 75,
-      "id": "75361faac029"
-    },
-    {
-      "title": "Landmark trial on Meta’s impact on children’s mental health begins in US",
-      "summary": "Case follows whistleblower’s 2021 claims about Meta’s profit-driven disregard for young people’s mental health and user safety.",
-      "url": "https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-18T18:33:11.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "32927cd3136a"
-    },
-    {
-      "title": "Israeli strike on Gaza City cafe kills six, including child",
-      "summary": "An Israeli strike hit a cafe in the port area west of Gaza City, killing six Palestinians, including a child.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-18T18:32:24.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "f1df3c16cbea"
     },
     {
       "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
@@ -523,11 +692,24 @@
       "publishedAt": "2026-08-18T16:00:30.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0b1/live/b309d2e0-9b15-11f1-ae25-295c0447cea3.jpg",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "61143b516295"
     },
     {
-      "title": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
+      "title": "Europe closes mostly lower on Middle East crisis",
+      "summary": "Europe closes mostly lower on Middle East crisis &nbsp;&nbsp; Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYkVxQ3BUd0FSOVhZWWhRbXpkUkFNLUNuR1lSbm8wR05jaDNuVGdyLU1wenVLRDFBR2x5UXhqZjAxRXcyOUQtNDJLaC16d3dWNzBIVWJpRWQ4ZXFMZC1abTVfNktQRTBTbElvcEFUVFYxcktZd1ctYXEyaWNSaDNrN0JxM1U0WjlDbHRMdlRIbDhxdkU5aUd4VzJ6ZzJBcnFEbE0wQlQ5WmVwNkdW?oc=5",
+      "source": "Breakingthenews.net",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-18T15:35:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "3f541b16aba5"
+    },
+    {
+      "title": "Asian Champions League: Iran clubs face Qatar-UAE sides at neutral venues",
       "summary": "Following the start of the US-Israel war on Iran, the first match of the Iranian league was played last week.",
       "url": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
       "source": "Al Jazeera",
@@ -536,34 +718,21 @@
       "publishedAt": "2026-08-18T15:14:17.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
-      "id": "7849c9a9ae47"
+      "score": 74,
+      "id": "7fac5842d081"
     },
     {
-      "title": "US cites India on voter IDs, but are elections under Modi clean?",
-      "summary": "Trump highlights India's voter ID rules to bolster his case for stricter US election laws.",
-      "url": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss",
+      "title": "Israeli strike on Gaza City cafe kills six, including child",
+      "summary": "An Israeli strike hit a cafe in the port area west of Gaza City, killing six Palestinians, including a child.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-18T15:04:24.000Z",
+      "region": "中东",
+      "publishedAt": "2026-08-18T18:32:24.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "716cef53b3e2"
-    },
-    {
-      "title": "PBS should fund drug to treat breast cancer, endometriosis and gender dysphoria, experts recommend",
-      "summary": "Triptorelin, already listed for prostate cancer, should have unrestricted use, the Pharmaceutical Benefits Advisory Committee says Get our breaking news email , free app or daily news podcast The federal government should fund treatment for thousands of women with breast cancer or endometriosis, and children with gender dysphoria, according to the Pharmaceut",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/18/pbs-breast-cancer-endometriosis-gender-dysphoria-puberty-blocker-drug-triptorelin-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-18T15:00:50.000Z",
-      "image": "https://i.guim.co.uk/img/media/592d9592e01942ce2d80387db8e6aac438d0b01e/0_1_5000_3998/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d3170bcc6ee3359d3dc2743398d6118e",
-      "topic": "政治",
-      "score": 75,
-      "id": "84b8ecb5cad4"
+      "topic": "社会",
+      "score": 73,
+      "id": "f1df3c16cbea"
     },
     {
       "title": "Quiz: We're going on a road trip and you're invited",
@@ -575,7 +744,7 @@
       "publishedAt": "2026-08-18T18:30:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/89acb42bd26097fee8b991ac78f5bac4?impolicy=wcms_crop_resize&cropH=2006&cropW=3566&xPos=0&yPos=0&width=862&height=485",
       "topic": "经济",
-      "score": 74,
+      "score": 73,
       "id": "da0b145c5645"
     },
     {
@@ -588,34 +757,21 @@
       "publishedAt": "2026-08-18T18:30:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/be247c99ed9962be32407a54b51fd60a?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=225&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "ec731b33fda4"
     },
     {
-      "title": "Pivotal Meta trial over social media addiction in children gets underway",
-      "summary": "US states suing the parent company of Facebook and Instagram begin making their case in a California court in a trial that could reshape some of the most popular apps on the planet.",
-      "url": "https://www.abc.net.au/news/2026-08-19/meta-trial-that-could-reshape-facebook-and-instagram-begins/107052672",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-18T17:56:39.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/36eafb730874e570328c0bc3ae35fbd5?impolicy=wcms_crop_resize&cropH=1832&cropW=3256&xPos=0&yPos=196&width=862&height=485",
+      "title": "Fresh travel warning as Aussie base hit in Middle East",
+      "summary": "Fresh travel warning as Aussie base hit in Middle East &nbsp;&nbsp; The Canberra Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONUtWa3A5LWFadHh2QnFlWjNJX1NYMmlBU18tN0xYcHJXZHZ5bm5fZ0lqdjRmWmR0U3ZNNFM4OXE3U0U4QkVfRGZKbmpEU1V4bG5yelJjcFRZZDZWVWJianVxOVpZRlo1OFJRY3BLeGhFM09Vel9VUVlWOVlleHdhWFpYY2l2RExwbXo2NktRZDJhTkdQVERPUm16VzRCbm1PRVZKcg?oc=5",
+      "source": "The Canberra Times",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-18T17:50:09.000Z",
+      "image": "",
       "topic": "政治",
-      "score": 74,
-      "id": "c1dd16d39b3c"
-    },
-    {
-      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-      "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
-      "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-18T17:54:46.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c217/live/f1ad3a40-9b1b-11f1-a8a4-83462463c9fa.jpg",
-      "topic": "社会",
-      "score": 74,
-      "id": "c9c0b1145382"
+      "score": 73,
+      "id": "b171c4b27fc4"
     },
     {
       "title": "Shakira makes surprise visit in earthquake-damaged Colombia and commits to rebuilding schools",
@@ -627,7 +783,7 @@
       "publishedAt": "2026-08-18T17:45:10.000Z",
       "image": "",
       "topic": "气候",
-      "score": 74,
+      "score": 73,
       "id": "deaf3004ce7c"
     },
     {
@@ -640,8 +796,21 @@
       "publishedAt": "2026-08-18T17:41:03.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "4808d0cd6f65"
+    },
+    {
+      "title": "US cites India on voter IDs, but are elections under Modi clean?",
+      "summary": "Trump highlights India's voter ID rules to bolster his case for stricter US election laws.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-18T15:04:24.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 73,
+      "id": "716cef53b3e2"
     },
     {
       "title": "Jailed former Pakistan PM Imran Khan moved to hospital over health concerns",
@@ -653,7 +822,7 @@
       "publishedAt": "2026-08-18T15:04:18.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/801e28ba6b5f0b5c367cdf3467677804?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=253&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "dda142c362f7"
     },
     {
@@ -666,73 +835,21 @@
       "publishedAt": "2026-08-18T14:49:56.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "69c1a195c78b"
     },
     {
-      "title": "Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming",
-      "summary": "Former France, Arsenal and Manchester City midfielder Patrick Vieira replaces Pape Thiaw as Senegal coach.",
-      "url": "https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-18T14:46:59.000Z",
+      "title": "STOXX 600 drops to two-week low on higher bond yields, Middle East uncertainty By Reuters",
+      "summary": "STOXX 600 drops to two-week low on higher bond yields, Middle East uncertainty By Reuters &nbsp;&nbsp; Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaWE2blItbnFMOWFETHdua3ZOSjN1S0dTR1VfLVlmM1dZdU1xNFJhUFJramdTOVNXa0pxdk9CeGVJSE5CMVBaa25YYUp1Qi1CbHh2N2k2dVVNWHd2ZG5LcHNHdzFoZlpGemMtRUJQcF9xTmVwbnhWWWRLWjUtNWFFdjRVLW5JMENibG9jTEFJd1hWX3BlblBhelJLSXNlUWFLN3ZQcnlBQmZKdTE0NjBhRmEzaEh2dEhtVmNGcVg4TUVQQXcxSjZGWlNfNWJNZ1U?oc=5",
+      "source": "Investing.com",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-18T17:28:16.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
-      "id": "b142abfb4dc9"
-    },
-    {
-      "title": "What to watch in the Alaska and Wyoming primary elections",
-      "summary": "Republican-led states face leadership shuffling.",
-      "url": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-18T14:29:11.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "a61d8f330a41"
-    },
-    {
-      "title": "Mechanical fault suspected in helicopter crash that killed British newlyweds in Greece",
-      "summary": "Marie Ebert, Alexander Cromie and their pilot died when their aircraft crashed on island of Sifnos Greek police believe a mechanical fault may have caused a helicopter to crash moments before it was due to land on the island of Sifnos, killing a British couple on honeymoon and the pilot. Authorities were focusing on Tuesday on the “strange noise” the aircraf",
-      "url": "https://www.theguardian.com/world/2026/aug/18/mechanical-fault-helicopter-crash-killed-british-newlyweds-sifnos-greece",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-18T14:24:50.000Z",
-      "image": "https://i.guim.co.uk/img/media/6ad9cad40c6c6b48101146e8d8b055abf7675d43/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ae4d7f5d08e5b6188d3cd22e054f9efc",
-      "topic": "社会",
-      "score": 74,
-      "id": "830e9c81ca59"
-    },
-    {
-      "title": "Sydney Swans will sanction players for ‘serious breach’ over sexual assault allegations",
-      "summary": "Club’s board meets on Tuesday night to decide penalties after league boss calls reports ‘deeply concerning’ The Sydney Swans AFL club will decide on sanctions for players for “serious breach” of standards over an incident that led to a report of sexual assault. Victorian police on Tuesday confirmed the sexual crimes squad was investigating a reported sexual ",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/18/afl-chief-breaks-silence-over-deeply-concerning-sydney-swans-sexual-assault-allegations-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-18T11:18:19.000Z",
-      "image": "https://i.guim.co.uk/img/media/8e4dec039d993f32cb2289c74b5a6b8de8d2d7d6/191_0_2768_2214/master/2768.jpg?width=140&quality=85&auto=format&fit=max&s=0115d701aa1d41b303866738d5da121c",
-      "topic": "政治",
-      "score": 74,
-      "id": "b0b0318605b8"
-    },
-    {
-      "title": "Controversial NDIS bill passes Senate with ‘substantial’ amendments as Labor and Coalition strike deal",
-      "summary": "David Pocock says legislation still includes ‘indiscriminate cut’ impacting thousands of participants but will pass lower house on Wednesday Get our breaking news email , free app or daily news podcast The government’s controversial NDIS bill will pass after “substantial” amendments were agreed to in a deal between Labor and the Coalition, with some of the c",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/18/controversial-ndis-bill-undergoes-substantial-amendments-as-labor-and-coalition-strike-deal",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-18T11:04:25.000Z",
-      "image": "https://i.guim.co.uk/img/media/e42b30533457d8cb26aaedfc890434d0b0454c93/335_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=70265b38673b92fb13fcd6d6a7b814a5",
-      "topic": "政治",
-      "score": 74,
-      "id": "775d1f1fc59b"
+      "score": 72,
+      "id": "5507454777f0"
     },
     {
       "title": "Apple cuts and unifies App Store commissions in Europe after negotiating with Brussels",
@@ -744,60 +861,34 @@
       "publishedAt": "2026-08-18T17:20:29.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "81790767d083"
     },
     {
-      "title": "Yemeni government escalates attacks against Houthis: What’s next?",
-      "summary": "Fighting intensifies across Yemen as Houthis clash with internationally recognised government forces across many fronts.",
-      "url": "https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-18T13:51:33.000Z",
+      "title": "Brussels endorses the return to Morocco of unaccompanied migrant minors who remain in Ceuta.",
+      "summary": "Brussels endorses the return to Morocco of unaccompanied migrant minors who remain in Ceuta. &nbsp;&nbsp; Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNnMxWXZhZE9tMXpQMGNWTzNqSWRkMVFxWVl3c0J5Q3g3N1ltaENyWmNkX0EyeWppYWgzemNUSWJORDZleEFfSHVIOWpZNU1LcTBVMlBIb3hwcVZFSVhmS096dW01ZEFmWElLajdMTkI4emptSUhyVVZ6VzdpbmtWeXFySUNERUdIOTlOZ1VTaTZnTEQzX25zZDBnT3dlNk9LcEs5aDZBbmxjOThSSTZDdmd2OWdrMWpXaktaZHlDazNVU3VjcEHSAcsBQVVfeXFMTUNzd2hSWUd6aGtONHlfSzZUUUN3RU9YODEzYmdRTWk0NllGUG5HUnYxU1RNcGdSV3NRME1iVzdwSjEtMUI0TzhLNWY5VFplMnd5ZERfbEQtajBYQWlzTUlQQ0RRczJPRXEtN3BFOUw1M0toNjlpMUdVd1VRQWNaQ2VBQjJfa25ZdUFiWlJqdms1ZWZrZ01XYktfcUFTZktjYzBpcjR1bnk0QVNPM1NsLXcyNy1vVF9PTmRPcC1DSXh4Um1yVTVnRUYxRzA?oc=5",
+      "source": "Demócrata",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-18T20:09:00.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "d60d3ac188e1"
-    },
-    {
-      "title": "UK risks running out of gas by 2030s, ministers told",
-      "summary": "Government assessment warns of supply shock that could leave homes and businesses without gas within a decade Ministers are waking up to Britain’s gas supply risks. It’s time for decisions Great Britain risks running out of gas in the 2030s despite its growing clean energy sources, unless ministers take “unprecedented” action to guard against a future supply",
-      "url": "https://www.theguardian.com/business/2026/aug/18/uk-risks-running-out-of-gas-2030s",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-18T13:34:12.000Z",
-      "image": "https://i.guim.co.uk/img/media/3c9a77cc1ffaad52ea0d0155067ef6a10e1a2fa8/33_0_1757_1406/master/1757.jpg?width=140&quality=85&auto=format&fit=max&s=31cd0e3b92980ee4f353ecc37a919212",
-      "topic": "政治",
-      "score": 73,
-      "id": "edb6e99f8071"
-    },
-    {
-      "title": "Ten killed after Russian missiles hit shops in Ukrainian village",
-      "summary": "A post office, cafe and five other stores were reportedly destroyed in Ukraine's north-east, as Russia continues to exploit a shortage of missile interceptors.",
-      "url": "https://www.abc.net.au/news/2026-08-18/russia-ukraine-strike-kharkiv/107052392",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-08-18T13:33:27.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/0863f339c7d7dd76387f88de432d2884?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 73,
-      "id": "299756543246"
+      "score": 71,
+      "id": "6ca18d40ac7b"
     },
     {
-      "title": "UAE President, US President discuss bilateral ties and Middle East developments",
-      "summary": "UAE President, US President discuss bilateral ties and Middle East developments &nbsp;&nbsp; Emirates 24|7",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTjFuWXRYSWVCVWdNbWZZMVB0SllGQ2VuTkduVXZkWm9tX3NjZGQ0RGxXcTQweDlJQ0drSWRyQVoxaDRVVWVZeXhQeklHcmEwZl9VQ0ZINWs3bWVMcmdJbGRuMFE1bjh4cFdhWnUzZGxZbE1qWUJva3k5MC1TMk9pRmE3bTJlNEZiMGZBSmg4Z2dibTNQLVdIVC1NT1pSdDdGU2N5QTdTUnZkdmtsX0pHa0dHcE9Yd9IB0AFBVV95cUxPa3pQZWIwZ3RYN2F4Y04xZ2tha3daNzFYZkhndjFzSWFSUk9pemRwa1dpYTlKdnJudUdCTUl0anJaYl9tMWc5dlJTUmtqRDc1TTBFU1BhbFI1ZGNzZXE1dHg4eVZaYWxvaVJhakdQNlVJdkJxQjJGd2tOSnVjcU9HUEtxMHRxcXVLR1hyVVdNNHRxX2JmeW9jZUNVajluS2RjTkxrYmxnMFE3Q0UxMTBJTmNEWnJnb2N1bTFLUFJhV2o0blNOVklNTkY4dHhwNkJr?oc=5",
-      "source": "Emirates 24|7",
+      "title": "Nobody In The Middle East Is Scared Of Trump Anymore",
+      "summary": "Nobody In The Middle East Is Scared Of Trump Anymore &nbsp;&nbsp; WIBC 93.1 FM",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1RPZnhxZmMxNFkzSndEY2stY0dUeFZrdDFnMEhKYkFLUjVUbXVqa0ZjVndDMHNRN0czV19sN3R5YVpUYjBrcm54ckhISllOZDRrN0VoMnZvY0VoZFU2MTFJamFHX2hqNVpSX1pMdTlCX2NudGlpZDFTQXNqTzlqYjk5MA?oc=5",
+      "source": "WIBC 93.1 FM",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-18T13:27:00.000Z",
+      "publishedAt": "2026-08-18T20:08:17.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "12e3c6b18400"
+      "topic": "社会",
+      "score": 71,
+      "id": "70671df7df51"
     },
     {
       "title": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
@@ -809,7 +900,7 @@
       "publishedAt": "2026-08-18T16:26:22.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e507/live/933b7b80-9b1a-11f1-b792-a710e56a11dc.jpg",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "374c20aec1e3"
     },
     {
@@ -822,7 +913,7 @@
       "publishedAt": "2026-08-18T16:09:49.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "be4d27478f3c"
     },
     {
@@ -835,112 +926,21 @@
       "publishedAt": "2026-08-18T16:01:03.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "656eb79337ac"
     },
     {
-      "title": "BREAKING NEWS: Patrick Vieira confirmed as new Senegal coach",
-      "summary": "BREAKING NEWS: Patrick Vieira confirmed as new Senegal coach &nbsp;&nbsp; AfricaSoccer.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWdRZWJSUGJ3cVh3eF9jR0k5MlhUSTNwWXZRdEg3SmpVV3FMN1VJdTR2eDl6dG1ka2JxRmp2MGpoU05UZ3Y2LVNwRUMzVVZlSVZ2YXRKZlcwN0tVT3Z5WDZHX0JaM1lpLVQ1eGhSUG5aOWhkYWF4Zl9IQ1UxUEV1dDZ6WEFwT3BNUmxVOUVn?oc=5",
-      "source": "AfricaSoccer.com",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-18T13:22:26.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "605bfd7942ad"
-    },
-    {
-      "title": "Philippine school shooter kills fellow student and himself in livestreamed attack",
-      "summary": "Country’s second fatal school shooting in two months took place in southern city of ⁠Zamboanga A student livestreamed himself shooting and killing another pupil in a classroom in the southern Philippines before taking his own ⁠life, ​the second school attack in the country in less than two months. The shooting took ⁠place at a school attached to Ateneo de Za",
-      "url": "https://www.theguardian.com/world/2026/aug/18/philippines-school-shooting-two-dead-zamboanga",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-08-18T13:21:43.000Z",
-      "image": "https://i.guim.co.uk/img/media/daf8e127a936bb9757958efc774f181fa5cf8197/15_0_5156_4125/master/5156.jpg?width=140&quality=85&auto=format&fit=max&s=a89b1d0976bd83f9c46a05c16640a17c",
-      "topic": "社会",
-      "score": 72,
-      "id": "8532f7bf9d7f"
-    },
-    {
-      "title": "Brazil's President Lula hails oil discovery near Amazon river",
-      "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "美洲",
-      "publishedAt": "2026-08-18T13:13:54.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5240/live/17e6ceb0-9ae0-11f1-b2f7-5d1639b20e22.jpg",
-      "topic": "政治",
-      "score": 72,
-      "id": "4cd1ba6267d0"
-    },
-    {
-      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-18T12:36:11.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a151/live/5dc767b0-9b34-11f1-aed2-8d6da8d75094.jpg",
-      "topic": "政治",
-      "score": 72,
-      "id": "c171f5a34fda"
-    },
-    {
-      "title": "Lives upended in Lebanon’s Bekaa Valley",
-      "summary": "Lives upended in Lebanon’s Bekaa Valley &nbsp;&nbsp; doctorswithoutborders.org",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHo5RXNqNWstQ0VVUlE5Njg4NC1TUnFSN3FyQVE5bzlnMkxDdktfQUxzUi05REdZQTJ2akdQTjl5MWNWQU4yaU9vTGZNMFJMR1JHZ0FQNnM5VloyTkI5SXFUbDdKY1hJZ2h2cWxTcFdMWDl6Q0o3WUFYOHlIQ1UwZEl5eGFsNDA?oc=5",
-      "source": "doctorswithoutborders.org",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-18T19:04:45.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "fe3c347407c3"
-    },
-    {
-      "title": "Beyond Bali and Phuket: Why Siem Reap is Southeast Asia’s next property hotspot",
-      "summary": "Beyond Bali and Phuket: Why Siem Reap is Southeast Asia’s next property hotspot &nbsp;&nbsp; Khmer Times",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY3B6NE5WQ04ySVpzTExmeXF6VUxZQnZfX2hPdHhuWmR5djd0VGVwOHMwQ1BodTRJUV9BSGlxdEN2ZnNjWktWT21obDlIcWI3YUVRZWlEQlhNbi1qWjVuZ2xBSTdhXzk1azZNYnBuWVhKTnp0aENzMnRYazRmcVRNU3c0NlZZbTBvNFJWNHBFZDktWC1OY2pTSkFoeWs3ZGQ1OGFhT0NvLVdFZ2dNam1FYlhGeWxUMUhl?oc=5",
-      "source": "Khmer Times",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-18T18:32:20.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "6b3451671c7b"
-    },
-    {
-      "title": "Burnham confirms West Midlands to take public control of local bus network – as it happened",
-      "summary": "The prime minister says the ‘absolutely massive’ move would protect thousands of jobs Moscow has threatened the UK with “consequences” after reports that British drones have been used to strike targets on Russia’s mainland for the first time. Ukraine used drones made by two UK companies as part of a so-called deep-strike campaign, the Sunday Times reported. ",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/18/disabled-people-england-bus-travel-andy-burnham-labour-reform-nigel-farage-conservatives-kemi-badenoch-uk-politics-live-news",
+      "title": "UK risks running out of gas by 2030s, ministers told",
+      "summary": "Government assessment warns of supply shock that could leave homes and businesses without gas within a decade Ministers are waking up to Britain’s gas supply risks. It’s time for decisions Great Britain risks running out of gas in the 2030s despite its growing clean energy sources, unless ministers take “unprecedented” action to guard against a future supply",
+      "url": "https://www.theguardian.com/business/2026/aug/18/uk-risks-running-out-of-gas-2030s",
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "欧洲",
-      "publishedAt": "2026-08-18T16:00:00.000Z",
-      "image": "https://i.guim.co.uk/img/media/02bf066a2e848d7ee86f78f4f7ef2e0c0359171d/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=83595c626e3b13770c94419fb5a4e35f",
+      "publishedAt": "2026-08-18T13:34:12.000Z",
+      "image": "https://i.guim.co.uk/img/media/3c9a77cc1ffaad52ea0d0155067ef6a10e1a2fa8/33_0_1757_1406/master/1757.jpg?width=140&quality=85&auto=format&fit=max&s=31cd0e3b92980ee4f353ecc37a919212",
       "topic": "政治",
       "score": 71,
-      "id": "2a4e0507f01d"
-    },
-    {
-      "title": "Spain builds tent cities for the thousands stuck in Ceuta",
-      "summary": "Spain is building four temporary reception sites with 1,500 places as an estimated 5,000 migrants remain in Ceuta.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-18T15:53:42.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "7837b07c7633"
+      "id": "edb6e99f8071"
     }
   ]
 }
