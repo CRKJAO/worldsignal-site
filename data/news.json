@@ -1,11 +1,24 @@
 {
-  "updatedAt": "2026-08-18T14:54:58.358Z",
+  "updatedAt": "2026-08-18T15:49:11.041Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
+      "summary": "Lee's comments Tuesday come as many South Koreans remain baffled and concerned about U.S. President Donald Trump's abrupt order to \"substantially reduce\" military exercises with South Korea.",
+      "url": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "亚洲",
+      "publishedAt": "2026-08-18T15:19:40.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 88,
+      "id": "0cf777b90ee7"
+    },
     {
       "title": "Video Trump threatens Middle East allies as Iran ceasefire deadline passes - ABC News",
       "summary": "Video Trump threatens Middle East allies as Iran ceasefire deadline passes &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
@@ -16,8 +29,21 @@
       "publishedAt": "2026-08-18T12:03:13.000Z",
       "image": "",
       "topic": "政治",
-      "score": 89,
+      "score": 88,
       "id": "a89746cc7dcf"
+    },
+    {
+      "title": "Ship attacked during Strait of Hormuz transit and other news from the Middle East",
+      "summary": "Ship attacked during Strait of Hormuz transit and other news from the Middle East &nbsp;&nbsp; ocregister.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSUxPcG54UEx4ZkZyRTQyeFgyLV9WaHpRS2t4NVZ3QWxhcGhHTVRmaHBWRjBKVm4zMEVIMjJ1MldqZTlKX2g2bkpzWEZqRkJYZlh4cG9oVUxxdVVDQmpZTzNwcG45WDVodW0xdWdvSGNZdXhMZXF0ankzd3Z4dDZYX0tYRUlERDRCb0ZVbzVLZw?oc=5",
+      "source": "ocregister.com",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-18T11:10:27.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 87,
+      "id": "555c39ba09ab"
     },
     {
       "title": "Trump Says US Has No Planned Talks With Iran And Other News From The Middle East",
@@ -29,7 +55,7 @@
       "publishedAt": "2026-08-18T14:03:01.000Z",
       "image": "",
       "topic": "社会",
-      "score": 87,
+      "score": 86,
       "id": "8dc2e9d4db11"
     },
     {
@@ -42,8 +68,34 @@
       "publishedAt": "2026-08-18T13:32:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 87,
+      "score": 86,
       "id": "2049900c5440"
+    },
+    {
+      "title": "Belgian firefighters push to encircle ‘largest wildfire in a century’ – Europe live",
+      "summary": "The blaze charring peatland, pine trees and hiking trails grew over the weekend to half the size of Manhattan Some first pictures from this morning’s earthquakes in Granada are emerging on social media… Andalusian president Juanma Moreno urged residents to maintain “maximum caution” as more seismic movements and aftershocks may happen. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-18T15:45:00.000Z",
+      "image": "https://i.guim.co.uk/img/media/2413d7235ae4388230727622d90026578d511c23/487_0_3698_2960/master/3698.jpg?width=140&quality=85&auto=format&fit=max&s=f84fe979b6e19c8727ad1c66f9378f62",
+      "topic": "气候",
+      "score": 85,
+      "id": "cd5314843e72"
+    },
+    {
+      "title": "ABC is ‘right to stand up to pressure tactics’ from Trump administration, say media advocacy organizations – US politics live",
+      "summary": "Brendan Carr has ‘shown he won’t hesitate to weaponize FCC against outlets administration dislikes’, says Foundation for Individual Rights and Expression A tale of two Dan Sullivans: Republicans with same name contest Alaska primary Sign up for the US Breaking News email President Donald Trump posted an image of a map of the strait of Hormuz on his social me",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-18T14:52:23.000Z",
+      "image": "https://i.guim.co.uk/img/media/d46ed15aa5337038ae141cbce0bc7afba41673be/14_0_4121_3297/master/4121.jpg?width=140&quality=85&auto=format&fit=max&s=fd434a3ad5ff03f1ed5657fe52fbacda",
+      "topic": "政治",
+      "score": 84,
+      "id": "26247bc4b0d7"
     },
     {
       "title": "President Trump threatens Middle East ally amid trade halt in the Strait of Hormuz",
@@ -55,60 +107,8 @@
       "publishedAt": "2026-08-18T12:02:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 85,
+      "score": 84,
       "id": "9b045e3be244"
-    },
-    {
-      "title": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman",
-      "summary": "Brent crude rises above $90 a barrel for the first time since 30 July after US president tells Tehran to surrender Business live – latest updates Oil prices have risen again after the two-month window to negotiate a peace deal in the US-Israel war on Iran expired on Monday with no end to the conflict in sight. Iran said on Monday that it would take a more ag",
-      "url": "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-18T11:50:40.000Z",
-      "image": "https://i.guim.co.uk/img/media/b36a95bab423c3578f5ab9efb41e3a77da35c384/566_0_3989_3193/master/3989.jpg?width=140&quality=85&auto=format&fit=max&s=dfab896b5a8cdca14c6e45d09d7ae53f",
-      "topic": "政治",
-      "score": 85,
-      "id": "2ae57f19ebfa"
-    },
-    {
-      "title": "Belgian firefighters push to encircle ‘largest wildfire in a century’ – Europe live",
-      "summary": "The blaze charring peatland, pine trees and hiking trails grew over the weekend to half the size of Manhattan Some first pictures from this morning’s earthquakes in Granada are emerging on social media… Andalusian president Juanma Moreno urged residents to maintain “maximum caution” as more seismic movements and aftershocks may happen. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-18T14:39:10.000Z",
-      "image": "https://i.guim.co.uk/img/media/2413d7235ae4388230727622d90026578d511c23/487_0_3698_2960/master/3698.jpg?width=140&quality=85&auto=format&fit=max&s=f84fe979b6e19c8727ad1c66f9378f62",
-      "topic": "气候",
-      "score": 84,
-      "id": "cd5314843e72"
-    },
-    {
-      "title": "ABC is ‘right to stand up to pressure tactics’ from Trump administration, say media advocacy organizations – US politics live",
-      "summary": "Brendan Carr has ‘shown he won’t hesitate to weaponize FCC against outlets administration dislikes’, says Foundation for Individual Rights and Expression A tale of two Dan Sullivans: Republicans with same name contest Alaska primary Sign up for the US Breaking News email President Donald Trump posted an image of a map of the strait of Hormuz on his social me",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-18T14:20:49.000Z",
-      "image": "https://i.guim.co.uk/img/media/d46ed15aa5337038ae141cbce0bc7afba41673be/14_0_4121_3297/master/4121.jpg?width=140&quality=85&auto=format&fit=max&s=fd434a3ad5ff03f1ed5657fe52fbacda",
-      "topic": "政治",
-      "score": 84,
-      "id": "26247bc4b0d7"
-    },
-    {
-      "title": "Ship attacked during Strait of Hormuz transit and other news from the Middle East",
-      "summary": "Ship attacked during Strait of Hormuz transit and other news from the Middle East &nbsp;&nbsp; Orange County Register",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSUxPcG54UEx4ZkZyRTQyeFgyLV9WaHpRS2t4NVZ3QWxhcGhHTVRmaHBWRjBKVm4zMEVIMjJ1MldqZTlKX2g2bkpzWEZqRkJYZlh4cG9oVUxxdVVDQmpZTzNwcG45WDVodW0xdWdvSGNZdXhMZXF0ankzd3Z4dDZYX0tYRUlERDRCb0ZVbzVLZw?oc=5",
-      "source": "Orange County Register",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-18T11:10:27.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 84,
-      "id": "206fa70a7e4c"
     },
     {
       "title": "Hichilema re-elected as Zambia president amid opposition concerns over vote",
@@ -120,8 +120,34 @@
       "publishedAt": "2026-08-18T14:01:47.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "c03bea352a57"
+    },
+    {
+      "title": "Europe closes mostly lower on Middle East crisis",
+      "summary": "Europe closes mostly lower on Middle East crisis &nbsp;&nbsp; Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2JrM0hFNjdYLUsxTk5PM3RVS1dRaUlrTHpXZlJsVDNJRGt0SWRIYk5QQ0poVVlSaTUzUmZzTGZ0LWxWbVhMNDRZTE10enlPcURkcVREOV9Ec2hFa2FVSXF5SEJrR25BY2xobGYxT2hTLTlacUZBR1ZBX0xNUWgyekVnY2c5dXF6Q19nN05jT2NOM05nVGZKSQ?oc=5",
+      "source": "Breakingthenews.net",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-18T15:35:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 81,
+      "id": "3f541b16aba5"
+    },
+    {
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "美洲",
+      "publishedAt": "2026-08-18T13:13:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5240/live/17e6ceb0-9ae0-11f1-b2f7-5d1639b20e22.jpg",
+      "topic": "政治",
+      "score": 81,
+      "id": "4cd1ba6267d0"
     },
     {
       "title": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
@@ -133,8 +159,34 @@
       "publishedAt": "2026-08-18T13:06:20.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 81,
       "id": "dc395a06ac69"
+    },
+    {
+      "title": "OpenAI launches ChatGPT for Teens with stronger safeguards",
+      "summary": "Teen version is intended for children aged 13 to 17 and includes content protections on self-harm and sexual chats OpenAI is launching a version of ChatGPT designed for teenagers – the first generation to grow up with artificial intelligence – who are already using it for schoolwork, questions about daily life and even companionship. The San Francisco-based ",
+      "url": "https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-18T15:28:57.000Z",
+      "image": "https://i.guim.co.uk/img/media/f60de82acdf518360559012a8befee837437552b/659_559_2572_2057/master/2572.jpg?width=140&quality=85&auto=format&fit=max&s=6500e37e03330a73d94fb1d76e0df7aa",
+      "topic": "科技",
+      "score": 80,
+      "id": "aff942444699"
+    },
+    {
+      "title": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
+      "summary": "Following the start of the US-Israel war on Iran, the first match of the Iranian league was played last week.",
+      "url": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-18T15:14:17.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 80,
+      "id": "7849c9a9ae47"
     },
     {
       "title": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
@@ -146,8 +198,60 @@
       "publishedAt": "2026-08-18T05:50:33.000Z",
       "image": "https://i.guim.co.uk/img/media/df6bcc6943e9a77ef440e7b8573532433abd7cf5/163_0_3758_3006/master/3758.jpg?width=140&quality=85&auto=format&fit=max&s=343969124f26b94658a7f21d047eec3f",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "7586bffca27e"
+    },
+    {
+      "title": "Women's Hockey World Cup: Dominant India crush South Africa 6-1 to go top of Group D",
+      "summary": "Women's Hockey World Cup: Dominant India crush South Africa 6-1 to go top of Group D &nbsp;&nbsp; The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWUxwel9Dd2dKV3hSY3ByVzBZUjdnWkR4WGV0THNGVVF6dC1RMEJZSzJnQzlWUDJnVU94bFZjUXJBa2pJcmpmajVPYXYwMjQ1UmNucVgwbXliNGZlT1ZOQ2xQMUJGdm9GZnNkNXctV2lVZ0hKTnE4d1VEQjRBNmdrWVRNYmZEbzkyZmNYRFByRUJlMlZOYnRnSU12b2tGMVVyNmpZa1Etd2RFQkkzNjUyUl8wamROMjFtWTB4WjZBcnhSRDhwU3pUaUJ0cVJmU055Q0NHZXZkX21pM1dTdUFlQm9WcnNUcm9sd1FRQnBick5SYnB1TDBqQXlWdHRjNjDSAYQCQVVfeXFMTTdBUnZhTWFRaFhCNDlDcW52VWlOSGVBSFctQUttZ1BwSzNpenZCUjdfOEhlV2JHMVNJMGdaM1lVSWFsSzVfUW5remZmd3RXRjl0V0x4NndoTVpiUm5YR1JpWEJvVlRUcWxLazJLUlUtN2NaOVZKUXZYUG5HWVd5dmh3R1lnMWZPaXhxRXo2bjNfWnVTOXFPZk5lNFdCNFdhM0ZCcW1jR1ZVeXhESWlwWkFFWjlKdUliRHgxNnhTcHNmYnk3VTR0SEJWOTdtdlNLMnBBUzlwV0E0SFFiZ2VKeVNpOEswQTR3YVBkeXZGYjN2QTZxRVhfS2NUYk1MazRNejVoa2E?oc=5",
+      "source": "The Times of India",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-18T15:17:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "a445c7b39107"
+    },
+    {
+      "title": "US cites India on voter IDs, but are elections under Modi clean?",
+      "summary": "Trump highlights India's voter ID rules to bolster his case for stricter US election laws.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-18T15:04:24.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "716cef53b3e2"
+    },
+    {
+      "title": "PBS should fund drug to treat breast cancer, endometriosis and gender dysphoria, experts recommend",
+      "summary": "Triptorelin, already listed for prostate cancer, should have unrestricted use, the Pharmaceutical Benefits Advisory Committee says Get our breaking news email , free app or daily news podcast The federal government should fund treatment for thousands of women with breast cancer or endometriosis, and children with gender dysphoria, according to the Pharmaceut",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/18/pbs-breast-cancer-endometriosis-gender-dysphoria-puberty-blocker-drug-triptorelin-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-18T15:00:50.000Z",
+      "image": "https://i.guim.co.uk/img/media/592d9592e01942ce2d80387db8e6aac438d0b01e/0_1_5000_3998/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d3170bcc6ee3359d3dc2743398d6118e",
+      "topic": "政治",
+      "score": 79,
+      "id": "84b8ecb5cad4"
+    },
+    {
+      "title": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
+      "summary": "Russia is suffering attacks inside its own territory as long-range drones strike its strategic assets.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-18T14:49:56.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "69c1a195c78b"
     },
     {
       "title": "What to watch in the Alaska and Wyoming primary elections",
@@ -159,7 +263,7 @@
       "publishedAt": "2026-08-18T14:29:11.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "a61d8f330a41"
     },
     {
@@ -172,7 +276,7 @@
       "publishedAt": "2026-08-18T14:24:50.000Z",
       "image": "https://i.guim.co.uk/img/media/6ad9cad40c6c6b48101146e8d8b055abf7675d43/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ae4d7f5d08e5b6188d3cd22e054f9efc",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "830e9c81ca59"
     },
     {
@@ -185,21 +289,8 @@
       "publishedAt": "2026-08-18T11:18:19.000Z",
       "image": "https://i.guim.co.uk/img/media/8e4dec039d993f32cb2289c74b5a6b8de8d2d7d6/191_0_2768_2214/master/2768.jpg?width=140&quality=85&auto=format&fit=max&s=0115d701aa1d41b303866738d5da121c",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "b0b0318605b8"
-    },
-    {
-      "title": "Controversial NDIS bill passes Senate with ‘substantial’ amendments as Labor and Coalition strike deal",
-      "summary": "David Pocock says legislation still includes ‘indiscriminate cut’ impacting thousands of participants but will pass lower house on Wednesday Get our breaking news email , free app or daily news podcast The government’s controversial NDIS bill will pass after “substantial” amendments were agreed to in a deal between Labor and the Coalition, with some of the c",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/18/controversial-ndis-bill-undergoes-substantial-amendments-as-labor-and-coalition-strike-deal",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-18T11:04:25.000Z",
-      "image": "https://i.guim.co.uk/img/media/e42b30533457d8cb26aaedfc890434d0b0454c93/335_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=70265b38673b92fb13fcd6d6a7b814a5",
-      "topic": "政治",
-      "score": 80,
-      "id": "775d1f1fc59b"
     },
     {
       "title": "Yemeni government escalates attacks against Houthis: What’s next?",
@@ -211,7 +302,7 @@
       "publishedAt": "2026-08-18T13:51:33.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "d60d3ac188e1"
     },
     {
@@ -224,7 +315,7 @@
       "publishedAt": "2026-08-18T13:38:23.000Z",
       "image": "https://i.guim.co.uk/img/media/3cac1762d3588212a2d2999c7e053023b569b9a1/458_0_4585_3668/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=4817e07bdc1488e39988d6fff02c18fc",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "5eccd59dcb55"
     },
     {
@@ -237,7 +328,7 @@
       "publishedAt": "2026-08-18T13:34:12.000Z",
       "image": "https://i.guim.co.uk/img/media/3c9a77cc1ffaad52ea0d0155067ef6a10e1a2fa8/33_0_1757_1406/master/1757.jpg?width=140&quality=85&auto=format&fit=max&s=31cd0e3b92980ee4f353ecc37a919212",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "edb6e99f8071"
     },
     {
@@ -250,21 +341,21 @@
       "publishedAt": "2026-08-18T13:33:27.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/0863f339c7d7dd76387f88de432d2884?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "299756543246"
     },
     {
-      "title": "UAE President, US President discuss bilateral ties and Middle East developments",
-      "summary": "UAE President, US President discuss bilateral ties and Middle East developments &nbsp;&nbsp; Emirates 24|7",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTjFuWXRYSWVCVWdNbWZZMVB0SllGQ2VuTkduVXZkWm9tX3NjZGQ0RGxXcTQweDlJQ0drSWRyQVoxaDRVVWVZeXhQeklHcmEwZl9VQ0ZINWs3bWVMcmdJbGRuMFE1bjh4cFdhWnUzZGxZbE1qWUJva3k5MC1TMk9pRmE3bTJlNEZiMGZBSmg4Z2dibTNQLVdIVC1NT1pSdDdGU2N5QTdTUnZkdmtsX0pHa0dHcE9Yd9IB0AFBVV95cUxPa3pQZWIwZ3RYN2F4Y04xZ2tha3daNzFYZkhndjFzSWFSUk9pemRwa1dpYTlKdnJudUdCTUl0anJaYl9tMWc5dlJTUmtqRDc1TTBFU1BhbFI1ZGNzZXE1dHg4eVZaYWxvaVJhakdQNlVJdkJxQjJGd2tOSnVjcU9HUEtxMHRxcXVLR1hyVVdNNHRxX2JmeW9jZUNVajluS2RjTkxrYmxnMFE3Q0UxMTBJTmNEWnJnb2N1bTFLUFJhV2o0blNOVklNTkY4dHhwNkJr?oc=5",
-      "source": "Emirates 24|7",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-18T13:27:00.000Z",
-      "image": "",
+      "title": "Controversial NDIS bill passes Senate with ‘substantial’ amendments as Labor and Coalition strike deal",
+      "summary": "David Pocock says legislation still includes ‘indiscriminate cut’ impacting thousands of participants but will pass lower house on Wednesday Get our breaking news email , free app or daily news podcast The government’s controversial NDIS bill will pass after “substantial” amendments were agreed to in a deal between Labor and the Coalition, with some of the c",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/18/controversial-ndis-bill-undergoes-substantial-amendments-as-labor-and-coalition-strike-deal",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-18T11:04:25.000Z",
+      "image": "https://i.guim.co.uk/img/media/e42b30533457d8cb26aaedfc890434d0b0454c93/335_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=70265b38673b92fb13fcd6d6a7b814a5",
       "topic": "政治",
-      "score": 79,
-      "id": "12e3c6b18400"
+      "score": 78,
+      "id": "775d1f1fc59b"
     },
     {
       "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
@@ -276,8 +367,34 @@
       "publishedAt": "2026-08-18T10:59:22.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a5c/live/58189080-9ae1-11f1-b2f7-5d1639b20e22.jpg",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "3b2067b53a20"
+    },
+    {
+      "title": "South Korea president stresses U.S. alliance as many baffled by Trump order",
+      "summary": "South Korea president stresses U.S. alliance as many baffled by Trump order &nbsp;&nbsp; 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1taDNuZ2g1VVEtalBPMUlUTTYzNjF4X05aZzFPQ04wREdUTTdCQzQtSEs0NWZmd3gydFBkMldaeTR2SDF1VU5TV0xzUlRrWTFhbTNLOGNhZWhtM08wWnc?oc=5",
+      "source": "朝日新聞",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-18T10:22:36.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 78,
+      "id": "da6a342ea9bf"
+    },
+    {
+      "title": "UAE President, US President discuss bilateral ties and Middle East developments",
+      "summary": "UAE President, US President discuss bilateral ties and Middle East developments &nbsp;&nbsp; Emirates 24|7",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTjFuWXRYSWVCVWdNbWZZMVB0SllGQ2VuTkduVXZkWm9tX3NjZGQ0RGxXcTQweDlJQ0drSWRyQVoxaDRVVWVZeXhQeklHcmEwZl9VQ0ZINWs3bWVMcmdJbGRuMFE1bjh4cFdhWnUzZGxZbE1qWUJva3k5MC1TMk9pRmE3bTJlNEZiMGZBSmg4Z2dibTNQLVdIVC1NT1pSdDdGU2N5QTdTUnZkdmtsX0pHa0dHcE9Yd9IB0AFBVV95cUxPa3pQZWIwZ3RYN2F4Y04xZ2tha3daNzFYZkhndjFzSWFSUk9pemRwa1dpYTlKdnJudUdCTUl0anJaYl9tMWc5dlJTUmtqRDc1TTBFU1BhbFI1ZGNzZXE1dHg4eVZaYWxvaVJhakdQNlVJdkJxQjJGd2tOSnVjcU9HUEtxMHRxcXVLR1hyVVdNNHRxX2JmeW9jZUNVajluS2RjTkxrYmxnMFE3Q0UxMTBJTmNEWnJnb2N1bTFLUFJhV2o0blNOVklNTkY4dHhwNkJr?oc=5",
+      "source": "Emirates 24|7",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-18T13:27:00.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 77,
+      "id": "12e3c6b18400"
     },
     {
       "title": "Philippine school shooter kills fellow student and himself in livestreamed attack",
@@ -289,7 +406,7 @@
       "publishedAt": "2026-08-18T13:21:43.000Z",
       "image": "https://i.guim.co.uk/img/media/daf8e127a936bb9757958efc774f181fa5cf8197/15_0_5156_4125/master/5156.jpg?width=140&quality=85&auto=format&fit=max&s=a89b1d0976bd83f9c46a05c16640a17c",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "8532f7bf9d7f"
     },
     {
@@ -302,21 +419,8 @@
       "publishedAt": "2026-08-18T13:11:21.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "56d45a139d44"
-    },
-    {
-      "title": "One person dead and more than 200 ill in UK salmonella outbreak",
-      "summary": "UKHSA rules out British produce as source of infections and says evidence points to consumption of imported eggs One person has died and more than 200 others have fallen ill during a UK-wide outbreak of salmonella that health officials have linked to the consumption of imported eggs. The 207 people affected range in age from under one year to 90 years old, a",
-      "url": "https://www.theguardian.com/society/2026/aug/18/uk-salmonella-outbreak-poultry-eggs",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-18T13:08:58.000Z",
-      "image": "https://i.guim.co.uk/img/media/0b9751ce8d45dba20f3f1a5ba1cf0c107951097c/142_0_4369_3494/master/4369.jpg?width=140&quality=85&auto=format&fit=max&s=7c558627212fc0a793476e5d830b5729",
-      "topic": "社会",
-      "score": 78,
-      "id": "11d60b4160a8"
     },
     {
       "title": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
@@ -328,8 +432,47 @@
       "publishedAt": "2026-08-18T12:47:41.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "c9adaec77303"
+    },
+    {
+      "title": "Brazil’s president says Amazon oil is ‘passport to the future’",
+      "summary": "Brazil's president says Amazon oil is ‘passport to the future’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-18T10:08:04.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 77,
+      "id": "2ba0bb860f94"
+    },
+    {
+      "title": "WA police appeal for help to find 10-year-old girl missing from Perth suburbs",
+      "summary": "Lyndel Ningella was last seen leaving home in Butler on Saturday evening prompting concerns about her safety Get our breaking news email , free app or daily news podcast Western Australia police have appealed for help in finding a 10-year-old girl who went missing from Perth’s outer northern suburbs on Saturday. Lyndel Ningella has not been seen since early ",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/18/wa-police-appeal-for-help-to-find-10-year-old-girl-missing-from-perth-suburbs",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-18T10:03:03.000Z",
+      "image": "https://i.guim.co.uk/img/media/1a7dd0f2d52b1e75e1e16c8ca847f06cf4ef7d91/0_186_1924_1539/master/1924.jpg?width=140&quality=85&auto=format&fit=max&s=c274e294fcd84747ab0fdc503825d982",
+      "topic": "社会",
+      "score": 77,
+      "id": "3f02a0b79155"
+    },
+    {
+      "title": "Burnham confirms West Midlands to take public control of local bus network – UK politics live",
+      "summary": "The prime minister says the ‘absolutely massive’ move would protect thousands of jobs Moscow has threatened the UK with “consequences” after reports that British drones have been used to strike targets on Russia’s mainland for the first time. Ukraine used drones made by two UK companies as part of a so-called deep-strike campaign, the Sunday Times reported. ",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/18/disabled-people-england-bus-travel-andy-burnham-labour-reform-nigel-farage-conservatives-kemi-badenoch-uk-politics-live-news",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-18T15:44:27.000Z",
+      "image": "https://i.guim.co.uk/img/media/02bf066a2e848d7ee86f78f4f7ef2e0c0359171d/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=83595c626e3b13770c94419fb5a4e35f",
+      "topic": "政治",
+      "score": 76,
+      "id": "3274ba56d72d"
     },
     {
       "title": "Bashar al-Assad’s cousin Wassim sentenced to death in Syria",
@@ -341,7 +484,7 @@
       "publishedAt": "2026-08-18T12:41:33.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "e3db51f1cc0d"
     },
     {
@@ -354,21 +497,8 @@
       "publishedAt": "2026-08-18T12:36:11.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e2c/live/689027f0-9afc-11f1-a27d-25dca26018ed.jpg",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "c171f5a34fda"
-    },
-    {
-      "title": "WA police appeal for help to find 10-year-old girl missing from Perth suburbs",
-      "summary": "Lyndel Ningella was last seen leaving home in Butler on Saturday evening prompting concerns about her safety Get our breaking news email , free app or daily news podcast Western Australia police have appealed for help in finding a 10-year-old girl who went missing from Perth’s outer northern suburbs on Saturday. Lyndel Ningella has not been seen since early ",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/18/wa-police-appeal-for-help-to-find-10-year-old-girl-missing-from-perth-suburbs",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-18T10:03:03.000Z",
-      "image": "https://i.guim.co.uk/img/media/1a7dd0f2d52b1e75e1e16c8ca847f06cf4ef7d91/0_186_1924_1539/master/1924.jpg?width=140&quality=85&auto=format&fit=max&s=c274e294fcd84747ab0fdc503825d982",
-      "topic": "社会",
-      "score": 78,
-      "id": "3f02a0b79155"
     },
     {
       "title": "Georgia man deported from Fiji to face $165m crypto Ponzi scheme charges",
@@ -380,7 +510,7 @@
       "publishedAt": "2026-08-18T12:05:56.000Z",
       "image": "https://i.guim.co.uk/img/media/4fb3471814f8ddf60e815e68672a8e1e71ac2e08/456_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=d2ebd534f00a21c9253c34283853610c",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "a25e6c89049b"
     },
     {
@@ -393,8 +523,60 @@
       "publishedAt": "2026-08-18T09:06:03.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/a416e97603887f7181e929f790f835d8?impolicy=wcms_crop_resize&cropH=1358&cropW=2414&xPos=0&yPos=137&width=862&height=485",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "6901620b8280"
+    },
+    {
+      "title": "Christopher Berry-Dee dropped by publisher after allegations of abuse made against him",
+      "summary": "Bonnier Books will no longer publish UK’s top-selling true crime author following Guardian investigation The main publisher of the bestselling true crime writer Christopher Berry-Dee has dropped the author following a Guardian investigation into allegations of violence and sexual abuse against him, which he denies. Waterstones has also removed his books from",
+      "url": "https://www.theguardian.com/books/2026/aug/18/christopher-berry-dee-dropped-publisher-allegations-abuse",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-18T15:14:30.000Z",
+      "image": "https://i.guim.co.uk/img/media/90d089608b9b572ac486812a67922b126e1e657f/331_88_3170_2536/master/3170.jpg?width=140&quality=85&auto=format&fit=max&s=1ed4ffa08631e68e1ed1780768d56f3c",
+      "topic": "社会",
+      "score": 75,
+      "id": "df087d6c47e1"
+    },
+    {
+      "title": "Jailed former Pakistan PM Imran Khan moved to hospital over health concerns",
+      "summary": "The cricketer-turned-politician has been in jail for three years, convicted in a string of cases he insists are politically motivated.",
+      "url": "https://www.abc.net.au/news/2026-08-19/imran-khan-hospital-cricket-prime-minister-pakistan/107052546",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "亚洲",
+      "publishedAt": "2026-08-18T15:04:18.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/801e28ba6b5f0b5c367cdf3467677804?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=253&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "dda142c362f7"
+    },
+    {
+      "title": "Heavy rain on dry ground may cause UK floods as taps run dry for thousands",
+      "summary": "Forecasters say ‘first meaningful rain for a long time’ will not reverse widespread drought conditions Floods and drought could hit the UK at the same time this week, with heavy rain forecast to fall on hard, parched soil. While some parts of the UK will have the “first meaningful rain for a long time” in the coming days, it will not reverse widespread droug",
+      "url": "https://www.theguardian.com/environment/2026/aug/18/heavy-rain-forecast-will-not-reverse-widespread-drought-conditions-uk",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-18T15:00:04.000Z",
+      "image": "https://i.guim.co.uk/img/media/8f98797d77a77e67a4425d4ad669e5057efa651a/0_30_3648_2919/master/3648.jpg?width=140&quality=85&auto=format&fit=max&s=20f0a17b6ba367208e7e2b6d0f21f0ec",
+      "topic": "气候",
+      "score": 75,
+      "id": "4f194493b0f8"
+    },
+    {
+      "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
+      "summary": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln &nbsp;&nbsp; WPRI.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdkh3cWhwWkhLblhNLVhTeHFUSjRSVzh2bUZ2R2ZDV2NjS1R4SUw1aFo3WVJ6MUxWWlZOZjBoQ0V1OEFNaVMyTEVIeEp4d3EwVUVlQ2JwNUtQWlN0dE1QT3RRUUpHcWpKMjBiMklIZ2dSM2tFcTlOUlJLN1d6VHkydXNXZ0hPYXFSSVRSSkpVcFRXMkhmQUIwTFQydVJ2V29LdnpDTEFZSVNianBwZU5JNkdTdTBaSjM2ZFJvMEY4QTJBU0E2amU2UjVQSnhQRUXSAdQBQVVfeXFMTld5T0hfNXZEYkcza2hRakxxcXhOM3d1WmpKdUhXQkpqYVMwYW5Wc0tUSGNMZC1CT2FVc1JQa0VRdnFjYTJ5a202N2I3eXFscWZPekQ5Q054ZEhabmVERUhTVWpqWC1PbmVEaXU3VU9YRkthNUJnaExUc2dpT3FIV01OT0J3S3RfV3kyakdDNFB2SDkyMVRfVW1kQXBieEZFM3o4VU1KeGIwSU9QRTA3WGpXdmNyaW42OTFiZ0RvSWFZWjN4aXRpdEd5cFlEZ3AwWlJQbmg?oc=5",
+      "source": "WPRI.com",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-18T14:52:28.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "c5671f9d2b8e"
     },
     {
       "title": "Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming",
@@ -406,8 +588,21 @@
       "publishedAt": "2026-08-18T14:46:59.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "b142abfb4dc9"
+    },
+    {
+      "title": "India Women Vs South Africa Women Hockey World Cup: Live Streaming, Time & Venue",
+      "summary": "India Women Vs South Africa Women Hockey World Cup: Live Streaming, Time & Venue &nbsp;&nbsp; News18",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ0czSlZDQXFfZ3pIQWs0T2tzWDV1cHR2UXNpZ0dsdlBHMjgxd2FLaXh3VG4tN0p4TkYxZ0xNNUoxYUptdElGSzFCS09tUE9JZE9SWGd4ZVJ4aXZoRW9pNjVNWi1yclRhSWV4MnFRWkJPYjRHQVU1aGV2N3JZNkx6bEdVZWkzR25IVld1ZmdlVDFwejF1WXo0UVo4cms3YTZkdk11dERjZVgyMWYwR3I0dTQzOEV1cld5dlhRWl9EZE5zeDk1d1FPUUNMZGzSAdIBQVVfeXFMUFFudmdEV0pIY0JPc0VTeEQ5b3dyaEEtU3plR3NrRUtZcS1fSWNOb2N2TEJNVmlXZHFnZVNGNjhnNEFGOVY1eGJ3TXhKWTZnR2lPWXJ4LXF2Q2xjbWt6a0pPWEtQblYwbWVWdmNtMTFEMk9MQVJwaUZUY2gyMlVweEZPbUpQTzh4MGsteUxjRWhYS1FFVUNyWGlZM0RoUDJLRkdUUlVlYzJ4YmpiaThkNmczUkg1SE4tQnJ3TmNxNDNiLXBSTmM5VTJ5enBFYjhWZ3Vn?oc=5",
+      "source": "News18",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-18T12:09:29.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "d2960ac3ef17"
     },
     {
       "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
@@ -419,7 +614,7 @@
       "publishedAt": "2026-08-18T12:04:11.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/625e/live/bc428900-9af8-11f1-a291-b542ee92de7c.jpg",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "f0ef0333a748"
     },
     {
@@ -432,7 +627,7 @@
       "publishedAt": "2026-08-18T11:43:23.000Z",
       "image": "https://i.guim.co.uk/img/media/e6d167e03153c659c4ab3af64a9568c8fd692ecb/463_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=22dafd9b967c2445a0d3dd65e5575c26",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "db91083d1397"
     },
     {
@@ -445,7 +640,7 @@
       "publishedAt": "2026-08-18T11:40:35.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "ef549c4fc43c"
     },
     {
@@ -458,7 +653,7 @@
       "publishedAt": "2026-08-18T11:39:34.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "f3bef165a329"
     },
     {
@@ -471,7 +666,7 @@
       "publishedAt": "2026-08-18T11:33:15.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "632fb2552639"
     },
     {
@@ -484,34 +679,8 @@
       "publishedAt": "2026-08-18T11:09:24.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
-      "id": "68397f8120bc"
-    },
-    {
-      "title": "Severe weather warning for northern Victoria – as it happened",
-      "summary": "All the days news as it unfolded Get our breaking news email , free app or daily news podcast Chalmers calls gambling amendments ‘very substantial changes’ Treasurer Jim Chalmers says the opt-out register on gambling advertising will be revenue neutral, because the gambling industry will have to cover the costs. These changes that we’re proposing are very su",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-18T07:55:43.000Z",
-      "image": "https://i.guim.co.uk/img/media/d5e43bc671746cebfb46719aa9c59a84f32f8510/430_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=b3226eebc4ccff54a46443f071ba0227",
-      "topic": "政治",
-      "score": 76,
-      "id": "ec55bebe0bf9"
-    },
-    {
-      "title": "Burnham confirms West Midlands to take public control of local bus network – UK politics live",
-      "summary": "The prime minister says the ‘absolutely massive’ move would protect thousands of jobs Moscow has threatened the UK with “consequences” after reports that British drones have been used to strike targets on Russia’s mainland for the first time. Ukraine used drones made by two UK companies as part of a so-called deep-strike campaign, the Sunday Times reported. ",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/18/disabled-people-england-bus-travel-andy-burnham-labour-reform-nigel-farage-conservatives-kemi-badenoch-uk-politics-live-news",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-18T14:23:06.000Z",
-      "image": "https://i.guim.co.uk/img/media/02bf066a2e848d7ee86f78f4f7ef2e0c0359171d/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=83595c626e3b13770c94419fb5a4e35f",
-      "topic": "政治",
       "score": 75,
-      "id": "3274ba56d72d"
+      "id": "68397f8120bc"
     },
     {
       "title": "Government to crack down on super switching schemes",
@@ -523,7 +692,7 @@
       "publishedAt": "2026-08-18T14:18:41.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/b3ca2c1c848bbf03d89a35abea481442?impolicy=wcms_crop_resize&cropH=2810&cropW=4995&xPos=0&yPos=61&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "83982e8b169a"
     },
     {
@@ -536,47 +705,8 @@
       "publishedAt": "2026-08-18T14:01:46.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/8616444395c9d74935683a8e5707cc99?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "4ccdd35b1970"
-    },
-    {
-      "title": "What to know about Gaza working groups and their mandate?",
-      "summary": "What to know about the new Gaza working groups conditioning reconstruction on immediate disarmament.",
-      "url": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-18T13:58:58.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "36b570ab9d61"
-    },
-    {
-      "title": "Heavy rain forecast will not reverse widespread drought conditions in UK",
-      "summary": "Forecasters say intense showers might cause flooding as rain falls on dry, hard ground Floods and drought could hit the UK at the same time this week, with heavy rain forecast to fall on hard, parched soil. While some parts of the UK will have the “first meaningful rain for a long time” in the coming days, it will not reverse widespread drought conditions th",
-      "url": "https://www.theguardian.com/environment/2026/aug/18/heavy-rain-forecast-will-not-reverse-widespread-drought-conditions-uk",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-18T13:44:49.000Z",
-      "image": "https://i.guim.co.uk/img/media/313671f2053210df8bb07f4434b6a00df1e5b708/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b1c69787d6ed17fed5cc9eb961bc2f4d",
-      "topic": "气候",
-      "score": 75,
-      "id": "606124bd8709"
-    },
-    {
-      "title": "Top Foreign Policy Analyst Warns China’s 20% Savings Rate Is Fueling “China Shock 2.0”",
-      "summary": "Top Foreign Policy Analyst Warns China’s 20% Savings Rate Is Fueling “China Shock 2.0” &nbsp;&nbsp; 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOU94MkJ0dXNwaXNqTEE1Z1d6LWxWSXJpS1RGRkQtNWlDUUFHUlBncTZ3VWczd0JqTDdraUx5eGoycldwaHJ3cUZIWGIyckVCRmpKWEZuN05qSG1BUWZGdG9URVN1YU5iZGlEQ0czN2F1NTNnMEVDcG55aXBfcTJBZ2FKREg5Wi0taEVuLW0walhBVGtzNFRiWUVZZG1XTFhZNVZvXzduTjVyWW5kcWVjTWhMc1V6VUpjOG1mbTN3MzNlS2o0?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Latin America News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-18T13:28:47.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "68e1c930a8e7"
     },
     {
       "title": "Putin’s ‘illusion of victory:’ Russia ramps up missile attacks on Ukraine",
@@ -588,7 +718,7 @@
       "publishedAt": "2026-08-18T10:45:37.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "9026f86a57c2"
     },
     {
@@ -601,34 +731,8 @@
       "publishedAt": "2026-08-18T10:38:21.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/73f677e738f3dd6d4f6e105f9ea6ef62?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=186&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "2a5764579076"
-    },
-    {
-      "title": "South Korea president stresses U.S. alliance as many baffled by Trump order",
-      "summary": "South Korea president stresses U.S. alliance as many baffled by Trump order &nbsp;&nbsp; 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1taDNuZ2g1VVEtalBPMUlUTTYzNjF4X05aZzFPQ04wREdUTTdCQzQtSEs0NWZmd3gydFBkMldaeTR2SDF1VU5TV0xzUlRrWTFhbTNLOGNhZWhtM08wWnc?oc=5",
-      "source": "朝日新聞",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-18T10:22:36.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "da6a342ea9bf"
-    },
-    {
-      "title": "Rift deepens as Asia football chief hits back at Qatar in Infantino saga",
-      "summary": "Rift deepens as Asia football chief hits back at Qatar in Infantino saga &nbsp;&nbsp; France 24",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT2trLTVDRkxoVUc5T1VHTzFVVm9hTExDQ0pwWHY5TnUyQmM5S2FyTjlLZi1BT3FFX2xES0dSTW54eVVJWGVRQllDWkpMUWZheVRiVkFGLWkxeUVscG1jQkZEcXhEaUZRNmJvRFFWa20tSkpaandLaWVBWFFpTVcyRmRvSVBoSEZMMWxjbFgwR2ltUWxwZDQ4dFJITWtxbHlpcC15cFZMYV9BX2JzaHJtTEloYlBYSTZXSjFz?oc=5",
-      "source": "France 24",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-18T08:01:13.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "f09e2799af7c"
     },
     {
       "title": "Navy Destroyer Loses Power for 4 Days in South China Sea",
@@ -640,7 +744,7 @@
       "publishedAt": "2026-08-18T13:32:31.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "55f08adc4cd5"
     },
     {
@@ -653,34 +757,21 @@
       "publishedAt": "2026-08-18T13:30:49.000Z",
       "image": "https://i.guim.co.uk/img/media/7fcab419aa002a7770dbf0ea08ff469de861cc1f/653_176_4780_3824/master/4780.jpg?width=140&quality=85&auto=format&fit=max&s=b463360c0d288a37e700ee2e1f96723c",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "9a53eb4690fa"
     },
     {
-      "title": "Scientists who turned to OnlyFans to fund marmot research receive crypto boost",
-      "summary": "Funding boost worth $100,000 has recently materialized in form of new marmot-themed cryptocurrency Scientists who turned to OnlyFans to help save long-running research into marmots have raised more than $100,000 after harnessing the support of another, very modern, funding avenue – cryptocurrency. The 60-year project of continuous study of marmots – stout, g",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/scientists-onlyfans-marmots-crypto",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-18T13:00:46.000Z",
-      "image": "https://i.guim.co.uk/img/media/ae04c6ef2bd5b5741e765f3ee0c3296797f8acc2/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=dc59ba1e74112312861bef8ca42ca9e2",
-      "topic": "经济",
-      "score": 74,
-      "id": "9ce99e17e4b7"
-    },
-    {
-      "title": "Swan Lake Dancers announce second Dublin performance",
-      "summary": "Swan Lake Dancers announce second Dublin performance &nbsp;&nbsp; BreakingNews.ie",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOelp0cXpKLS1KYTJxSS00RkRsNTJ0Z3BNWDZscHY3MGV2NnFGZG8tUTJURFp2TFB5U21OeTh1Tk9JS2dON2M0b0dxcUFUSm44dUdNbFkwcU9PaEw0VVVqOW5pd1AxZzdFam9CYmV5eW9hZ3dNQVlLMUxCUW9RSVN2X1MweGVYTUYtbUdsQVFQal9PMU5vMGtIMDR1QVNSWkJYQ3lhSzdROVlCNEk?oc=5",
-      "source": "BreakingNews.ie",
+      "title": "Top Foreign Policy Analyst Warns China’s 20% Savings Rate Is Fueling “China Shock 2.0”",
+      "summary": "Top Foreign Policy Analyst Warns China’s 20% Savings Rate Is Fueling “China Shock 2.0” &nbsp;&nbsp; 247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOU94MkJ0dXNwaXNqTEE1Z1d6LWxWSXJpS1RGRkQtNWlDUUFHUlBncTZ3VWczd0JqTDdraUx5eGoycldwaHJ3cUZIWGIyckVCRmpKWEZuN05qSG1BUWZGdG9URVN1YU5iZGlEQ0czN2F1NTNnMEVDcG55aXBfcTJBZ2FKREg5Wi0taEVuLW0walhBVGtzNFRiWUVZZG1XTFhZNVZvXzduTjVyWW5kcWVjTWhMc1V6VUpjOG1mbTN3MzNlS2o0?oc=5",
+      "source": "247wallst.com",
       "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-18T12:52:29.000Z",
+      "region": "亚洲",
+      "publishedAt": "2026-08-18T13:28:47.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "bff2226c2c12"
+      "topic": "政治",
+      "score": 73,
+      "id": "0aa786c7d885"
     },
     {
       "title": "Sydney Swans say players 'in serious breach' of club standards",
@@ -692,21 +783,8 @@
       "publishedAt": "2026-08-18T10:18:43.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/729b7971a86d9372c5ef8d522208ef40?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "c31e8cf4fb3a"
-    },
-    {
-      "title": "Brazil’s president says Amazon oil is ‘passport to the future’",
-      "summary": "Brazil's president says Amazon oil is ‘passport to the future’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-18T10:08:04.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "2ba0bb860f94"
     },
     {
       "title": "Family of missing 18-year-old hiker ‘absolutely devastated’ as search continues in rugged NSW terrain",
@@ -718,7 +796,7 @@
       "publishedAt": "2026-08-18T09:51:17.000Z",
       "image": "https://i.guim.co.uk/img/media/88767de4bf103f7cd1db7a710fb56defa740aef5/0_51_1638_1309/master/1638.jpg?width=140&quality=85&auto=format&fit=max&s=5030878904c3f726449f80805510b07a",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "7d073223cbb2"
     },
     {
@@ -731,7 +809,7 @@
       "publishedAt": "2026-08-18T09:32:34.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/657bc6dc1475a91b8c9e3b4086b95ac5?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "200134c79a97"
     },
     {
@@ -741,10 +819,10 @@
       "source": "Breaking Travel News",
       "feed": "Europe News Network",
       "region": "欧洲",
-      "publishedAt": "2026-08-18T09:18:42.000Z",
+      "publishedAt": "2026-08-18T09:22:44.000Z",
       "image": "",
       "topic": "科技",
-      "score": 74,
+      "score": 73,
       "id": "0c48b486cf72"
     },
     {
@@ -757,8 +835,21 @@
       "publishedAt": "2026-08-18T06:34:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "fbdef3c4634b"
+    },
+    {
+      "title": "Scientists who turned to OnlyFans to fund marmot research receive crypto boost",
+      "summary": "Funding boost worth $100,000 has recently materialized in form of new marmot-themed cryptocurrency Scientists who turned to OnlyFans to help save long-running research into marmots have raised more than $100,000 after harnessing the support of another, very modern, funding avenue – cryptocurrency. The 60-year project of continuous study of marmots – stout, g",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/scientists-onlyfans-marmots-crypto",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-18T13:00:46.000Z",
+      "image": "https://i.guim.co.uk/img/media/ae04c6ef2bd5b5741e765f3ee0c3296797f8acc2/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=dc59ba1e74112312861bef8ca42ca9e2",
+      "topic": "经济",
+      "score": 72,
+      "id": "9ce99e17e4b7"
     },
     {
       "title": "Myanmar: The Architecture of Statelessness",
@@ -770,7 +861,7 @@
       "publishedAt": "2026-08-18T12:25:40.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "e911d42e63b8"
     },
     {
@@ -783,47 +874,21 @@
       "publishedAt": "2026-08-18T12:13:35.000Z",
       "image": "https://i.guim.co.uk/img/media/a72eb2bdc7d255eb6c1771b3111245c218582018/26_0_4193_3354/master/4193.jpg?width=140&quality=85&auto=format&fit=max&s=7974b3372f1e3a3fd1073d4164bf641c",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "eb9a979c9337"
     },
     {
       "title": "Trident Digital Tech Holdings Executes Joint Venture to Launch IRMA Engine Asia Across Asia, the Middle East and Africa",
-      "summary": "Trident Digital Tech Holdings Executes Joint Venture to Launch IRMA Engine Asia Across Asia, the Middle East and Africa &nbsp;&nbsp; quiverquant.com",
+      "summary": "Trident Digital Tech Holdings Executes Joint Venture to Launch IRMA Engine Asia Across Asia, the Middle East and Africa &nbsp;&nbsp; Quiver Quantitative",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdkw0TjhwMTZiUTU2VFVqTVFZbnNNdTVoSTZaRkkweWxCZHBVN0ItRHZWVkVYZ2lqN2ZXY3NDT2dBU1Zibm55ZXRnS0UzXzYzSXE0S0RhMENaT1lfcUpKM3NXOEFhYzFPQWNzR0hPR0VGQjl0SG9zNlZlTElQQ3k5MWphdEVLNlJneHA2Zi0wb0lzbExwbUduamtndWZuM292WDd3bS1oMlI5ZEo1NmVsQV93QzdQUDVVTHRRMWR5N0ZlVXV0SUZReDh0QUlqRGRjZkhzRXRNNDBDcGZyR1dobTlsTTg1U0RPM0E?oc=5",
-      "source": "quiverquant.com",
+      "source": "Quiver Quantitative",
       "feed": "Middle East News Network",
       "region": "亚洲",
       "publishedAt": "2026-08-18T12:12:00.000Z",
       "image": "",
       "topic": "科技",
-      "score": 73,
-      "id": "6f559a937376"
-    },
-    {
-      "title": "India Women Vs South Africa Women Hockey World Cup: Live Streaming, Time & Venue",
-      "summary": "India Women Vs South Africa Women Hockey World Cup: Live Streaming, Time & Venue &nbsp;&nbsp; News18",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ0czSlZDQXFfZ3pIQWs0T2tzWDV1cHR2UXNpZ0dsdlBHMjgxd2FLaXh3VG4tN0p4TkYxZ0xNNUoxYUptdElGSzFCS09tUE9JZE9SWGd4ZVJ4aXZoRW9pNjVNWi1yclRhSWV4MnFRWkJPYjRHQVU1aGV2N3JZNkx6bEdVZWkzR25IVld1ZmdlVDFwejF1WXo0UVo4cms3YTZkdk11dERjZVgyMWYwR3I0dTQzOEV1cld5dlhRWl9EZE5zeDk1d1FPUUNMZGzSAdIBQVVfeXFMUFFudmdEV0pIY0JPc0VTeEQ5b3dyaEEtU3plR3NrRUtZcS1fSWNOb2N2TEJNVmlXZHFnZVNGNjhnNEFGOVY1eGJ3TXhKWTZnR2lPWXJ4LXF2Q2xjbWt6a0pPWEtQblYwbWVWdmNtMTFEMk9MQVJwaUZUY2gyMlVweEZPbUpQTzh4MGsteUxjRWhYS1FFVUNyWGlZM0RoUDJLRkdUUlVlYzJ4YmpiaThkNmczUkg1SE4tQnJ3TmNxNDNiLXBSTmM5VTJ5enBFYjhWZ3Vn?oc=5",
-      "source": "News18",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-18T12:09:29.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "d2960ac3ef17"
-    },
-    {
-      "title": "Infantino’s FIFA World Cup fallout: Lamour exits after criticism of plan",
-      "summary": "Kevin Lamour had publicly criticised Infantino's proposal last month, saying FIFA staff had been 'deceived' over plan.",
-      "url": "https://www.aljazeera.com/sports/2026/8/18/infantinos-fifa-world-cup-fallout-lamour-exits-after-criticism-of-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-18T09:40:40.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "42669f6e926b"
+      "score": 72,
+      "id": "3e54098d61c6"
     },
     {
       "title": "Queensland Rail reaches deal with train controllers",
@@ -835,21 +900,34 @@
       "publishedAt": "2026-08-18T09:05:33.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/9df676e5d29fb70de55687bd14ed5255?impolicy=wcms_crop_resize&cropH=911&cropW=1620&xPos=0&yPos=85&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "e216963ef4cd"
     },
     {
-      "title": "War between U.S. and Iran shifts key resources away from Asia",
-      "summary": "The U.S. focus on Iran has pivoted key resources away from another key geopolitical region -- Asia.",
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5935425/war-between-u-s-and-iran-shifts-key-resources-away-from-asia",
-      "source": "NPR World",
-      "feed": "NPR World",
+      "title": "Break Agnipath deadlock, Gorkha veterans press Balen govt as Indian Army chief visits Pokhara",
+      "summary": "Break Agnipath deadlock, Gorkha veterans press Balen govt as Indian Army chief visits Pokhara &nbsp;&nbsp; The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLW0xUUIzRE5XQmgxUUdFYzg3V2J2LUYxZnFsM1ZsT2F3TGZfd1k4eXF0cVB0NG5OQ0RPM2QyTk82M0w1b1VFQlBLcjRSTUFEX0pLZXFuSzl6TnhZWHJBWk1BSlpXS2dySWxaZUJiZzdZYWpBMDd4bDJhR2gwMTJvV2sxb2ttM3Z1TTEzMmwyX1lXQ0lmOFIwckJOX0gwa1dzU2V2WGFHZTZDd3VQcmU3T09xYlU3cHNFbDJVNHdDTktXN0o0Vzc1ZDZPNXd2a3JMa3lPUS1zc0IzWHRUVUxYd09SOGxiajlHT0Q4MjctY0tyb09fZXdtNGJjM0kwSWJM0gGGAkFVX3lxTE13akcyem1pbTZmNG9hZ2Jud3NGeVBZWk5LNmRkOW1CckFxNWhUYTY5WU9FeHJnV3pqd3BvYzZwQnZVcmxMLTlaeVJRTDI0cUExcGMtWHd5N0tlM3NiZGNHanVTUHBYcjhaZU9WZnpwa3h5SHdrNnB1dHZoTnBFOXAtOFBpRWIzZ3VDRzgtVHhzdno5UnNzZV9jU0NpUTdMcFdnb0l0RlBBbUMzeHljTmVOeWhaTDNvMFZlUGc0YWZMRjZRREw3U29MU1V4MkVKa1E2cUxHNmpCLU9WcC1zbWk4QUh5a0Jpc0NiZmVLSXRxLUxmZFRYX2F1OFZJUnJ0V0hLMlZtY2c?oc=5",
+      "source": "The Times of India",
+      "feed": "Asia News Network",
       "region": "亚洲",
-      "publishedAt": "2026-08-18T08:40:36.000Z",
+      "publishedAt": "2026-08-18T14:55:00.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "b58ab67afbd2"
+      "topic": "社会",
+      "score": 71,
+      "id": "de2418c16def"
+    },
+    {
+      "title": "Singapore out of ASEAN football championship despite beating Thailand in second leg",
+      "summary": "Singapore out of ASEAN football championship despite beating Thailand in second leg &nbsp;&nbsp; channelnewsasia.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2FCS3NkZTFFbmZJblgxZlllT3I0eEx2SUhKTFdCcHdLR0VFWFNEaWM4aThydVBITXBndjlYcDFaYjJTc3hyb0hiQ0EzU095OVVmYWx6WFgxaWI2MHd2UVdVYTlzY29FeFRfYXZiQlplRUt6dy1kbWtnUUpiQUlFRklON251ZEc5SGxLQXJUeURCejZjWUJQRmxTRmpkeUVXMnMwRTJMMA?oc=5",
+      "source": "channelnewsasia.com",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-18T14:55:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "0e93458e4e08"
     },
     {
       "title": "Sacked FIFA executive and Infantino critic sends message to colleagues on his way out",
@@ -861,86 +939,8 @@
       "publishedAt": "2026-08-18T12:05:00.000Z",
       "image": "https://e3.365dm.com/26/08/1920x1080/skynews-gianni-infantino-kevin-lamour_7324831.jpg?20260818131600",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "074838877312"
-    },
-    {
-      "title": "South Africa needs to humble itself a bit, says analyst of SADC chairmanship",
-      "summary": "South Africa needs to humble itself a bit, says analyst of SADC chairmanship &nbsp;&nbsp; ewn.co.za",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQckduVUNpOERRaHNpYk5sTU1WM2hacUpoSlFDb0ppMmhSR3VuV0pVQ3pLX05MaG8zaHltODV4cndJcEZSamF5Wi01ZU9nTVpKcUVLaUVpNlpxcWt2enhyRHhLOVptX3hMV0JOb0oycW1zWFkxNHVsY3NDX3h6YmJOa1ZkaFoxMHVkRV9yZy10ZFB2aU1MeW9vdkthX2p0WjBfSHB6Snd6enU3UERi?oc=5",
-      "source": "ewn.co.za",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-18T11:36:21.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "1d9cc4f53f84"
-    },
-    {
-      "title": "Dollar rebounds from 2-month lows as Middle East war risks truncate FX momentum",
-      "summary": "Dollar rebounds from 2-month lows as Middle East war risks truncate FX momentum &nbsp;&nbsp; Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXByb3JrN0dRZjVxaFd4eWo2SElxcWhBREhyV1Fvc3NVTXkzQjcyT0FCYW9jaXNHRlFJVjY2UmE0bDAyQVBNTVdXNDZTb3BIY2dxbjdSbGxSa1JxemlkR3BEQ0VJeVlvNVFUVlJ6aGFkX3pCZ2tYNE9ucWZBUnBRY0UzSlozWEdaQ3pnM19KRjBNeXNsSU5pTjdZQ1B0cUpfR1EwRkxNdGRhUGMySkFCVEkwR2U?oc=5",
-      "source": "Investing.com India",
-      "feed": "Middle East News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-18T11:15:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "ed82122f06b4"
-    },
-    {
-      "title": "Man on trial for allegedly raping teenage girl in Queensland town",
-      "summary": "Clay Benjamin Hall has pleaded not guilty to two counts of rape at the beginning of his trial in Warwick District Court.",
-      "url": "https://www.abc.net.au/news/2026-08-18/clay-benjamin-hall-pleads-not-guilty-to-rape-charges-warwick/107051062",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-18T07:50:58.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/644af58dae39cd0b0a45922434e523a2?impolicy=wcms_crop_resize&cropH=441&cropW=784&xPos=639&yPos=149&width=862&height=485",
-      "topic": "政治",
-      "score": 72,
-      "id": "6662e5481769"
-    },
-    {
-      "title": "DRC's Deadliest Ebola Outbreak Is a Warning for Africa",
-      "summary": "DRC's Deadliest Ebola Outbreak Is a Warning for Africa &nbsp;&nbsp; IOL",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONDEwa0ZfcHIyUWRjdkhzbXh6RWh4Nm1SN3FkM0dwclUtQmF5cTZpckJidjQ4eDA5YS1qbm9mSnBYZUhuNFY2MXFCRzk3ZzhGaTBWeHh4em4xbjZESGxfZmJudXdic2x4bWQyQTNoOXdEdXRYSGI1MDVLM0NGenRndkhETGpIa3EtcURFZGtkN196WmNpb1FOWDVn?oc=5",
-      "source": "IOL",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-18T04:39:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "394cc9f3c79b"
-    },
-    {
-      "title": "OPEC: Latin America to Become a Key Force in Global Oil Production Growth",
-      "summary": "OPEC: Latin America to Become a Key Force in Global Oil Production Growth &nbsp;&nbsp; news.cgtn.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BaWJzVVg0Smo5TktfTnpPU3BKX1A1bmZDUXhSYl9ocUk0QWN6TE1QdDQtUjQxTnpwSkJNNF81MDJLOEIyc2FxSlh6RlpRcDFBM1d0WmpJRmpzR21ZSTYtSGI3cjQ4SHcwTG4ya0xn?oc=5",
-      "source": "news.cgtn.com",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-18T14:13:23.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 71,
-      "id": "20b9893e0c4f"
-    },
-    {
-      "title": "Interactive Brokers expands funding options for Latin American investors",
-      "summary": "Interactive Brokers expands funding options for Latin American investors &nbsp;&nbsp; TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZXN3Y0E4R0VmcEFBMzhaRTNnMWFNaGY4LVdJUDRXUlA5bENoMW5YMWZFNFZmRXlDUV9FdzBZelN5N0VDQXIzMm10MEVNaHBWQ19TQTV5blBINmRDUVM0VDdlcjdYMmtTYkJuY3ZtYXhBTktqbU1pUjFpUUtkQTA4SmxTNXo2ZnA5RlNrOFpocW1rdnBtc2FUbmlpX2hoS1ZDU1VDR0JjWGhRNUlQc1JpOTI5eXRLaEQ0dEhzb3dKaw?oc=5",
-      "source": "TipRanks",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-18T14:09:51.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "581627d783e0"
     }
   ]
 }
