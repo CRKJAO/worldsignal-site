@@ -1,11 +1,24 @@
 {
-  "updatedAt": "2026-08-18T04:01:06.025Z",
+  "updatedAt": "2026-08-18T04:54:42.072Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "Hichilema wins second second term as president of copper-rich Zambia",
+      "summary": "Hichilema wins Zambia’s election with 60% after attacks on election officials briefly halted the vote count.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-18T04:07:13.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 88,
+      "id": "b4ddf32e928c"
+    },
     {
       "title": "White House launches personal attack on CNN reporter over question to Trump",
       "summary": "CNN says attack ‘beneath the office’ after Kristen Holmes asked president about Jon Ossoff’s comments on key aide The White House launched a personal attack against a CNN reporter on Monday with a social media post that mentioned her children and accused her of asking a “disgusting and inhumane question”. A White House post targeted Kristen Holmes, a senior ",
@@ -16,7 +29,7 @@
       "publishedAt": "2026-08-18T02:04:28.000Z",
       "image": "https://i.guim.co.uk/img/media/e70f5f6dd8499460e42dd83e8e59a22702525ac6/430_0_4281_3427/master/4281.jpg?width=140&quality=85&auto=format&fit=max&s=b4072b7ef3fe637d4f65567fc86b5820",
       "topic": "政治",
-      "score": 87,
+      "score": 86,
       "id": "fbd73e831f79"
     },
     {
@@ -29,7 +42,7 @@
       "publishedAt": "2026-08-18T01:57:12.000Z",
       "image": "https://i.guim.co.uk/img/media/52559c1e1c5daeeff5af9103bae7999e74139051/565_0_3826_3060/master/3826.jpg?width=140&quality=85&auto=format&fit=max&s=a8b1af145c9e90ae017fdb9b772a3628",
       "topic": "政治",
-      "score": 86,
+      "score": 85,
       "id": "55b3b914a84b"
     },
     {
@@ -42,7 +55,7 @@
       "publishedAt": "2026-08-18T01:10:05.000Z",
       "image": "https://i.guim.co.uk/img/media/003e9202effcf1a9debbeb583f57a1dd546a3250/643_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=368ba23fe7d969dc129c451494722802",
       "topic": "政治",
-      "score": 86,
+      "score": 85,
       "id": "8487b7c3d55b"
     },
     {
@@ -55,7 +68,7 @@
       "publishedAt": "2026-08-17T19:34:20.000Z",
       "image": "",
       "topic": "政治",
-      "score": 86,
+      "score": 85,
       "id": "00bfbc8f70bf"
     },
     {
@@ -65,24 +78,24 @@
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "大洋洲",
-      "publishedAt": "2026-08-18T03:51:55.000Z",
+      "publishedAt": "2026-08-18T04:34:36.000Z",
       "image": "https://i.guim.co.uk/img/media/f226b4ba668c854f573f44cb302afed92d30638d/2779_32_2141_1713/master/2141.jpg?width=140&quality=85&auto=format&fit=max&s=4bd2063334c1f51f55449431723f3423",
       "topic": "政治",
-      "score": 85,
+      "score": 84,
       "id": "f50647ebb42a"
     },
     {
-      "title": "South Korea city deluged by almost a metre of rain, triggering deadly landslide",
-      "summary": "Person dies after landslide hits apartment building in southern city of Geoje as torrential rains lead to power cuts and mass evacuations Torrential downpours that pounded southern parts of South Korea since Saturday have killed one person and injured four others, officials have confirmed. Heavy rains have been recorded in South Gyeongsang province, includin",
-      "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-08-18T00:37:42.000Z",
-      "image": "https://i.guim.co.uk/img/media/ecbc13d43cba96415cc638f0e68620043c3858c8/708_0_5976_4781/master/5976.jpg?width=140&quality=85&auto=format&fit=max&s=8d4764c82b876787cb5d50951c14584b",
+      "title": "'Enormous concern' Qld police breaking the law escaping workplace punishment",
+      "summary": "Queensland corruption watchdog says it is of \"enormous concern\" police officers who are found guilty of a crime but do not have a conviction recorded cannot be disciplined.",
+      "url": "https://www.abc.net.au/news/2026-08-18/qld-corruption-watchdog-concerns-police-officers/107050476",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-18T04:25:45.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d841d403e4a9575df5084ad9c7aca74c?impolicy=wcms_crop_resize&cropH=640&cropW=1139&xPos=0&yPos=60&width=862&height=485",
       "topic": "社会",
-      "score": 85,
-      "id": "662a847f16fd"
+      "score": 84,
+      "id": "6234347160c9"
     },
     {
       "title": "Trump threatens to ‘bomb the sh*t out of’ US ally",
@@ -94,21 +107,73 @@
       "publishedAt": "2026-08-18T01:37:23.000Z",
       "image": "",
       "topic": "社会",
-      "score": 81,
+      "score": 84,
       "id": "9927b1210542"
     },
     {
-      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-08-17T19:25:05.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0845/live/0d9a0730-9a52-11f1-aed2-8d6da8d75094.jpg",
+      "title": "South Korea city deluged by almost a metre of rain, triggering deadly landslide",
+      "summary": "Person dies after landslide hits apartment building in southern city of Geoje as torrential rains lead to power cuts and mass evacuations Torrential downpours that pounded southern parts of South Korea since Saturday have killed one person and injured four others, officials have confirmed. Heavy rains have been recorded in South Gyeongsang province, includin",
+      "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "亚洲",
+      "publishedAt": "2026-08-18T00:37:42.000Z",
+      "image": "https://i.guim.co.uk/img/media/ecbc13d43cba96415cc638f0e68620043c3858c8/708_0_5976_4781/master/5976.jpg?width=140&quality=85&auto=format&fit=max&s=8d4764c82b876787cb5d50951c14584b",
       "topic": "社会",
+      "score": 84,
+      "id": "662a847f16fd"
+    },
+    {
+      "title": "Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – as it happened",
+      "summary": "US president makes threat in comments to Fox News, as his son-in-law meets the Israeli leader in Jerusalem in effort to push Gaza peace plan Trump threatens to bomb Oman if it ‘gets in the way’ of ending Iran war Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal The UN rights chief voiced alarm Monday at the rising civilian toll of escala",
+      "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-08-17T16:48:26.000Z",
+      "image": "https://i.guim.co.uk/img/media/130351c0b118bb75e17e9ed4b3a296be5375ede0/125_0_1250_1000/master/1250.jpg?width=140&quality=85&auto=format&fit=max&s=23111105116469e72c1a1da0a4ae01bc",
+      "topic": "政治",
+      "score": 82,
+      "id": "11d921ba5f7e"
+    },
+    {
+      "title": "Trump says talking to North Korea’s Kim makes the south safer",
+      "summary": "US President Donald Trump has revealed North Korea’s leader Kim Jong Un has responded ‘very positively’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-18T01:58:11.000Z",
+      "image": "",
+      "topic": "政治",
       "score": 81,
-      "id": "5d2217c56413"
+      "id": "881fe2efa750"
+    },
+    {
+      "title": "Third person charged over crash in allegedly stolen vehicle that killed boy",
+      "summary": "A 22-year-old man has been charged over the death of a 12-year-old boy who was a passenger in an allegedly stolen vehicle that crashed in Far North Queensland.",
+      "url": "https://www.abc.net.au/news/2026-08-18/third-person-charged-stratford-cairns-fatal-crash/107050368",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-18T04:12:16.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3cf6ee2ea0c099137b2843b1f8c73d47?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=463&width=862&height=485",
+      "topic": "社会",
+      "score": 80,
+      "id": "a93275a0a2f5"
+    },
+    {
+      "title": "David Warner learns fate over Easter long weekend drink driving charge",
+      "summary": "David Warner was driving his family home after a barbecue in April when he stopped short of a random test site, and was seen moving from the drivers seat.",
+      "url": "https://www.abc.net.au/news/2026-08-18/nsw-david-warner-court-drink-driving-conviction-fine-waverley/107048862",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-18T04:01:17.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b2601bc2073f51a38626e76a792f1fd6?impolicy=wcms_crop_resize&cropH=818&cropW=1455&xPos=0&yPos=43&width=862&height=485",
+      "topic": "政治",
+      "score": 79,
+      "id": "a6710514d9e3"
     },
     {
       "title": "Why Tallis Duncan could be the answer for Australia's World Cup shortage",
@@ -120,7 +185,7 @@
       "publishedAt": "2026-08-18T03:48:20.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/8c54b650c029e2442495183b21c193ba?impolicy=wcms_crop_resize&cropH=1946&cropW=3460&xPos=0&yPos=180&width=862&height=485",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "2f1803800d2a"
     },
     {
@@ -133,7 +198,7 @@
       "publishedAt": "2026-08-18T03:43:59.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/9fcf64c7fe7bdc7e65270f0bd9decc39?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "033e586e7e46"
     },
     {
@@ -146,7 +211,7 @@
       "publishedAt": "2026-08-18T03:36:15.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/8bfa24a85223130a948ee166f569c59f?impolicy=wcms_crop_resize&cropH=2247&cropW=3994&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "890a4f649add"
     },
     {
@@ -159,11 +224,11 @@
       "publishedAt": "2026-08-18T00:00:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "b822bf4d1167"
     },
     {
-      "title": "Two killed as student opens fire at Philippines high school, official says",
+      "title": "Two killed as student opens fire at Philippines high school, officials say",
       "summary": "Mayor Khymer Adan Olaso says the casualties in Zamboanga were both students and included the gunman.",
       "url": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss",
       "source": "Al Jazeera",
@@ -172,8 +237,8 @@
       "publishedAt": "2026-08-18T02:51:22.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
-      "id": "9a50ea5311a4"
+      "score": 78,
+      "id": "1132f4ad2eef"
     },
     {
       "title": "De Minaur advances to final 16 at Cincinnati in US Open warm-up event",
@@ -185,7 +250,7 @@
       "publishedAt": "2026-08-18T02:14:06.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/e781ae0a0a10c6a2914bf2385368a6a9?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "d95c128d8533"
     },
     {
@@ -198,21 +263,8 @@
       "publishedAt": "2026-08-18T02:13:06.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/76b2179d8f6c89fd9b5e06073f07c5d7?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "0abb9c5f9453"
-    },
-    {
-      "title": "Trump says talking to North Korea’s Kim makes the south safer",
-      "summary": "US President Donald Trump has revealed North Korea’s leader Kim Jong Un has responded ‘very positively’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-18T01:58:11.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 78,
-      "id": "881fe2efa750"
     },
     {
       "title": "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
@@ -224,7 +276,7 @@
       "publishedAt": "2026-08-18T01:54:01.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "c746cf0892c8"
     },
     {
@@ -237,21 +289,34 @@
       "publishedAt": "2026-08-17T22:30:50.000Z",
       "image": "https://i.guim.co.uk/img/media/68560645ae625ac7728440008e1f0a0c8f12c6a7/123_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=bcacf41ce17f5ba7e4be05cb5f8b7426",
       "topic": "气候",
-      "score": 78,
+      "score": 77,
       "id": "f101186e712b"
     },
     {
-      "title": "Zambia’s President Hakainde Hichilema wins second term",
-      "summary": "Official results show incumbent receiving about 60 percent of votes, compared with ⁠38 percent for his main challenger.",
-      "url": "https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-18T01:17:50.000Z",
+      "title": "Trump threatens Oman as it works with Iran on a Strait of Hormuz deal, and other Middle East news",
+      "summary": "Trump threatens Oman as it works with Iran on a Strait of Hormuz deal, and other Middle East news &nbsp;&nbsp; Newsday",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHBJYmxaNEpHaEV1RHFBUFFTWTktYVR2bnFGbHRLR3lEcnRJNkJzT2JqLXhmdEc5Nm1SdkVBdGg4dk5HV1NTXzhSbVEyeXZrUkVxT2RxQ0VpVmx3blhsOEVkekplTW1sNGQwal9yN2Q0VzJzSDRCZHZZb3A4NWluWVJDcmw0eWNuUWptUi1mWXJERERXQ1hV?oc=5",
+      "source": "Newsday",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-17T19:52:07.000Z",
       "image": "",
+      "topic": "社会",
+      "score": 77,
+      "id": "e1d31c201014"
+    },
+    {
+      "title": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
+      "summary": "US president’s abrupt order to scale back joint exercises with Seoul is meant to ‘flatter’ North Korea’s dictator, top Democrat says Donald Trump’s move to gut Washington’s 73-year-old military alliance with Seoul has been called “inane” and “shortsighted” as lawmakers warned it risked strengthening Russia’s hand in Ukraine. The US president abruptly ordered",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-17T19:11:26.000Z",
+      "image": "https://i.guim.co.uk/img/media/949b48d131e9924cba15519d8cd17dcd79a04520/689_0_2311_1849/master/2311.jpg?width=140&quality=85&auto=format&fit=max&s=79c11b06e83fb020fabf714c47e53f3e",
       "topic": "政治",
       "score": 77,
-      "id": "a3ec1011c3eb"
+      "id": "792e2d4bd781"
     },
     {
       "title": "Russia warns UK over supplying drones to Ukraine",
@@ -263,34 +328,8 @@
       "publishedAt": "2026-08-18T01:16:41.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "906e0f077bc5"
-    },
-    {
-      "title": "Bondi library removes book How to Sell a Genocide from shelves after complaint",
-      "summary": "Author Adam Johnson criticises Waverley council saying ‘reality is often upsetting’ while Palestinian group says libraries should hold ‘challenging’ books Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A Sydney library has removed a book critical of Israel called How to Sell a Genocide, fol",
-      "url": "https://www.theguardian.com/culture/2026/aug/18/sydney-waverley-library-removes-book-how-to-sell-a-genocide-from-shelves-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-18T00:55:38.000Z",
-      "image": "https://i.guim.co.uk/img/media/b056db7ab05362c43d8f671aa547451d98764a52/160_0_5355_4284/master/5355.jpg?width=140&quality=85&auto=format&fit=max&s=4535e94d87f12a56063c037f55aa342a",
-      "topic": "社会",
-      "score": 77,
-      "id": "89d9de1abad7"
-    },
-    {
-      "title": "Four Sydney Swans players linked to Melbourne investigation",
-      "summary": "The ABC understands Chad Warner, Isaac Heeney, James Jordon and Riley Bice are the players linked to the investigation, although there is no confirmation that they were directly involved or that all four have spoken to police.",
-      "url": "https://www.abc.net.au/news/2026-08-18/sydney-swans-melbourne-police-investigation-coach-disappointed/107048672",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-17T21:56:36.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/cd0ac9fa7b50c2b6dc32e099d8d95790?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485",
-      "topic": "政治",
-      "score": 77,
-      "id": "91d002343efc"
     },
     {
       "title": "Melbourne’s Armenian-Lebanese eatery Zareh named Gourmet Traveller’s restaurant of the year",
@@ -302,8 +341,86 @@
       "publishedAt": "2026-08-17T21:40:46.000Z",
       "image": "https://i.guim.co.uk/img/media/a4b0116a836885d89ea68ffd414ea83dcda63fbf/780_168_3539_2832/master/3539.jpg?width=140&quality=85&auto=format&fit=max&s=4a7f1237e97d907e722f876018f3406d",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "0cfd7860cdc7"
+    },
+    {
+      "title": "Focus should not be on 'football consequences' for Swans, ex-AFLW star says",
+      "summary": "AFLW star turned broadcaster Kate McCarthy calls out members of the media focusing on how a police investigation linked to Sydney Swans players could affect the team's finals chances.",
+      "url": "https://www.abc.net.au/news/2026-08-18/sydney-swans-media-coverage-kate-mccarthy-kane-cornes/107049792",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-18T04:23:32.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/61ba4da5c478a81b92b375b6e901ad07?impolicy=wcms_crop_resize&cropH=1179&cropW=2096&xPos=0&yPos=109&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "0b3e17c8b193"
+    },
+    {
+      "title": "Alcohol delivery restrictions revealed as SA commits to DV royal commission five-year plan",
+      "summary": "The SA government will introduce new laws to restrict the online purchase of alcohol, including a two-hour gap between order and arrival, as it announces a five-year plan to implement recommendations from its recent domestic violence royal commission.",
+      "url": "https://www.abc.net.au/news/2026-08-18/peter-malinauskas-domestic-violence-royal-commission-plan/107050350",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-18T04:23:32.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2a7e34332b8834a16fc4993231692c36?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "topic": "政治",
+      "score": 75,
+      "id": "982265a2af72"
+    },
+    {
+      "title": "MP fails in bid to extend antisemitism inquiry and have PM front it",
+      "summary": "A bid to extend the timeline of the royal commission on antisemitism and have the prime minister front the inquiry has failed to gain traction.",
+      "url": "https://www.abc.net.au/news/2026-08-18/nsw-royal-commission-julian-leeser-extension-bid/107050398",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-18T04:18:34.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4a7c01093b71e7a746a72e51f889e8cf?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+      "topic": "政治",
+      "score": 75,
+      "id": "907e23c57e4d"
+    },
+    {
+      "title": "Wet winter sees River Murray roar with unexpected flows and life",
+      "summary": "Wet winter conditions across southern Australia have brought increased flows into South Australia's River Murray.",
+      "url": "https://www.abc.net.au/news/2026-08-18/rainfall-unexpected-water-south-australia-river-murray-flows/107045254",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-18T04:16:28.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/0ed190ccfedd199264563244728e7735?impolicy=wcms_crop_resize&cropH=1406&cropW=2500&xPos=0&yPos=253&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "451400ecec18"
+    },
+    {
+      "title": "Top economists urge Burnham to sign UK up to UN initiative on global inequality",
+      "summary": "Open letter signed by 40 academics including Nobel winner Joseph Stiglitz and Kate Pickett, co-author of The Spirit Level Forty prominent progressive academics are urging Andy Burnham’s government to join a new global push to tackle inequality. The experts include Nobel winner Joseph Stiglitz , University College London professor Mariana Mazzucato, vice-chan",
+      "url": "https://www.theguardian.com/inequality/2026/aug/18/economists-andy-burnham-uk-un-initiative-global-international-panel-inequality",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-18T04:00:15.000Z",
+      "image": "https://i.guim.co.uk/img/media/e7345fd45ab79c12b1f5759b20821fc70effe535/999_82_4897_3918/master/4897.jpg?width=140&quality=85&auto=format&fit=max&s=155085024f58617fe06ccde41fe600a5",
+      "topic": "政治",
+      "score": 75,
+      "id": "9366714d1255"
+    },
+    {
+      "title": "Bondi library removes book How to Sell a Genocide from shelves after complaint",
+      "summary": "Author Adam Johnson criticises Waverley council saying ‘reality is often upsetting’ while Palestinian group says libraries should hold ‘challenging’ books Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A Sydney library has removed a book critical of Israel called How to Sell a Genocide, fol",
+      "url": "https://www.theguardian.com/culture/2026/aug/18/sydney-waverley-library-removes-book-how-to-sell-a-genocide-from-shelves-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-08-18T00:55:38.000Z",
+      "image": "https://i.guim.co.uk/img/media/b056db7ab05362c43d8f671aa547451d98764a52/160_0_5355_4284/master/5355.jpg?width=140&quality=85&auto=format&fit=max&s=4535e94d87f12a56063c037f55aa342a",
+      "topic": "社会",
+      "score": 75,
+      "id": "89d9de1abad7"
     },
     {
       "title": "Better late than never as high school receives library book 72 years late",
@@ -315,7 +432,7 @@
       "publishedAt": "2026-08-18T03:40:20.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d0ca54f86273ee60e0029c73b57a7976?impolicy=wcms_crop_resize&cropH=1125&cropW=2000&xPos=0&yPos=160&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 74,
       "id": "942099689478"
     },
     {
@@ -328,7 +445,7 @@
       "publishedAt": "2026-08-18T03:34:21.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1e519997a233a04ddd5b0e35d5a2bcae?impolicy=wcms_crop_resize&cropH=2306&cropW=4100&xPos=0&yPos=216&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "ca0cb8d965cd"
     },
     {
@@ -341,7 +458,7 @@
       "publishedAt": "2026-08-18T03:19:41.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c6c1718285c375f744b1db916828d681?impolicy=wcms_crop_resize&cropH=405&cropW=720&xPos=0&yPos=278&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "c87735c69874"
     },
     {
@@ -354,7 +471,7 @@
       "publishedAt": "2026-08-18T03:17:58.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "03120b05972e"
     },
     {
@@ -367,21 +484,8 @@
       "publishedAt": "2026-08-18T03:17:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "d5e5f27960ad"
-    },
-    {
-      "title": "U.S. stocks edge further from their record after oil prices rise",
-      "summary": "U.S. stocks edge further from their record after oil prices rise &nbsp;&nbsp; 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VQ2RqV1Z2Y1czdW9QaUp3RnhfbWRZd0IzelNfVWxnUEFfX09tTWViUHVVNjZTRE9kRVRBUkgyc0V0RDNfTllXc1ktbUlvZThRU2RabDdn?oc=5",
-      "source": "朝日新聞",
-      "feed": "Asia News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-18T02:55:00.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 75,
-      "id": "1c1cd3647cfb"
     },
     {
       "title": "Election denier Tina Peters to be hired as elections consultant in conservative California county",
@@ -393,47 +497,21 @@
       "publishedAt": "2026-08-18T00:05:00.000Z",
       "image": "https://i.guim.co.uk/img/media/2cb384efb5469c5878495a5bba5abb07d69cb586/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=111f64b40ebf69dd397f91cc5adcdc68",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "3c96e383c429"
     },
     {
       "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
-      "summary": "Live Updates: Latest from Israel, Iran, and the Middle East &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SWm5HVXV6bWZSVjJLOExCeThubk5qWG1jbGZkd1o2RWxwMlAzTC1ub3VzaktHSFpCWGNkY3llTkg3WjB1TE5GcFp5bXhRdnZjcjI0WDNHTmRsV3JYME5ybzh4WUJnYjFzYTVsSWtmUTBDU0kyUllkMlNfX0VnY00?oc=5",
-      "source": "The Jerusalem Post",
+      "summary": "Live Updates: Latest from Israel, Iran, and the Middle East &nbsp;&nbsp; jpost.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VQjdtaHZialNIVEJJRHAzS2xueU4tZG84WTZsZThMaWhHVHkyTWxhZHJHS2ZKYTByV1NHTHlrZTlNbVV1c1MwRUlwMG1uYmh6MHZybXB3bkMxclRRbWxfQmJWbFBwRTZONkRMX2N2UkdlMkU0eFdfZWg0LThjTHc?oc=5",
+      "source": "jpost.com",
       "feed": "Middle East News Network",
       "region": "中东",
       "publishedAt": "2026-08-18T00:00:05.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
-      "id": "6f521ec72b20"
-    },
-    {
-      "title": "Former Alan Jones colleague tells court of currying favour through texts",
-      "summary": "Complainant C has alleged he was indecently assaulted by Alan Jones on eight separate occasions while working with the veteran broadcaster in 2008.",
-      "url": "https://www.abc.net.au/news/2026-08-18/cross-examination-of-complainant-c-in-alan-jones-trial-sydney/107049392",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-18T02:35:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/e96032cb2d35312c2e68af60ad6a1ca2?impolicy=wcms_crop_resize&cropH=2703&cropW=4806&xPos=0&yPos=165&width=862&height=485",
-      "topic": "政治",
       "score": 74,
-      "id": "4f8901ed14f9"
-    },
-    {
-      "title": "Breaking | At least 2 hit in Philippine school shooting",
-      "summary": "Breaking | At least 2 hit in Philippine school shooting &nbsp;&nbsp; South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0N6Q094S011c0NGQTRQLW5nV3pKZmJMSzloNWNNVGJoMFBBREFxRjdiZ2xiZzl6T2YzcThSM05LS29IeEZnN0k0QzcwODhmbXVjUFhOWTF0UV9CNXRWby1ZZW9KZUd3SVN1SEwwbk5xdWZ6OTU1aUxwT2FLek5MLWpqOWs0MzhnQldPTi1sSDlUd0x0emxoUkxjcjRQRmJMMWfSAaIBQVVfeXFMUERILVRsRkJCSzdIaU9mX1IxRVAzZTlxYXhISGItRUR4SVZxRXQwQ1VXUjMycjJOTE5xTDZaZHJWNGtyLU53angyZXpGWXZWM05UVFpVdlJVT1g4bE9QelVIR3NEVUpwTW9Ha2tmOUhaVHVHV0pnQmM5aUFIZ2VHcVVZWHpIVHBTdmp2Zi1oOHJYSnZ4WS1ER0lfalVBU1otNmd3?oc=5",
-      "source": "South China Morning Post",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-18T02:25:29.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "92e90488e4ce"
+      "id": "e2e1bbb3d251"
     },
     {
       "title": "Origin Energy hack traced to Accenture's Manila office",
@@ -445,47 +523,34 @@
       "publishedAt": "2026-08-18T02:10:39.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d312d17212987caf599a79f5144be8cb?impolicy=wcms_crop_resize&cropH=2038&cropW=3623&xPos=318&yPos=274&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "d495197f78a1"
     },
     {
-      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-      "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified.",
-      "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-18T02:06:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b73/live/79965b50-9a89-11f1-b792-a710e56a11dc.jpg",
-      "topic": "社会",
-      "score": 74,
-      "id": "6c425c3e55f8"
-    },
-    {
-      "title": "The taboo experience of motherhood regret",
-      "summary": "Many parents have moments where they miss their life pre-kids. But what's it like when that feeling isn't fleeting? And how does it feel to carry something, that if said out loud, comes at a significant social cost?",
-      "url": "https://www.abc.net.au/news/2026-08-18/the-taboo-experience-of-motherhood-regret/107004982",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-18T02:04:24.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6f1bad876a3b349c55644708525abd50?impolicy=wcms_crop_resize&cropH=1701&cropW=3024&xPos=0&yPos=1320&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "e71e1742828f"
-    },
-    {
       "title": "Asia mixed on Iran deal expiration, oil jump",
-      "summary": "Asia mixed on Iran deal expiration, oil jump &nbsp;&nbsp; Breakingthenews.net",
+      "summary": "Asia mixed on Iran deal expiration, oil jump &nbsp;&nbsp; breakingthenews.net",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeEJ2UGdKelpnazVsOXVZMDZfZTVUaTRJV3BuR0xiYXE2ZXVSVm1yTXVXekRxN0M0dTZtbjZfUWQtOFU3dFVfSnpjZEg1ZDNlTTlsemVqLVlidHYyNHU1Yk9IYW5RNUJ1MTA1MXR6LWJtbjB6bmJpdC1vaTl6S0I0SGNGUWlJMjdGR2RGM1drbVpqQQ?oc=5",
-      "source": "Breakingthenews.net",
+      "source": "breakingthenews.net",
       "feed": "Asia News Network",
       "region": "亚洲",
       "publishedAt": "2026-08-18T01:58:00.000Z",
       "image": "",
       "topic": "经济",
-      "score": 74,
-      "id": "f9c99d8f944c"
+      "score": 73,
+      "id": "5052ce9b44e6"
+    },
+    {
+      "title": "BBC breaks down Trump's latest shift on North and South Korea",
+      "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
+      "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "亚洲",
+      "publishedAt": "2026-08-17T23:42:38.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb7/live/b807c3f0-9a94-11f1-a291-b542ee92de7c.jpg",
+      "topic": "政治",
+      "score": 73,
+      "id": "745b13a8d4fa"
     },
     {
       "title": "Trump tells 10-year-old rescued by teen lifeguard: ‘I don’t know if I’d do it’",
@@ -497,21 +562,8 @@
       "publishedAt": "2026-08-17T23:09:17.000Z",
       "image": "https://i.guim.co.uk/img/media/45a6a8d4549d48e74acef54ed056a25cb422f1a1/1550_1090_3537_2829/master/3537.jpg?width=140&quality=85&auto=format&fit=max&s=0a10f757102f0a79264fe13172face5c",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "c781b3464821"
-    },
-    {
-      "title": "Sydney Swans coach ‘extremely disappointed’ as club faces call on standing down players linked to alleged sexual assault",
-      "summary": "Police investigation into alleged sexual assault at hotel continues No arrests or charges laid; club is ‘working through everything’ Victoria police confirmed an investigation into an alleged sexual assault sparked by an incident allegedly involving Sydney Swans players is continuing, but no arrests or formal interviews have taken place and no charges have b",
-      "url": "https://www.theguardian.com/sport/2026/aug/18/sydney-swans-coach-extremely-disappointed-as-club-faces-call-on-standing-down-players-over-alleged-sexual-assault-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-17T22:56:20.000Z",
-      "image": "https://i.guim.co.uk/img/media/7d3c3202098c3690f2ba3ffa50778a2eb071c278/220_0_4601_3682/master/4601.jpg?width=140&quality=85&auto=format&fit=max&s=8fcea40690e0c88a3aa2c9d8424beaa8",
-      "topic": "社会",
-      "score": 74,
-      "id": "8023f0cc9691"
     },
     {
       "title": "The Latest: Trump orders Pentagon to scale back joint exercises with South Korea",
@@ -523,7 +575,7 @@
       "publishedAt": "2026-08-17T19:56:32.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "39213d9fba1d"
     },
     {
@@ -536,47 +588,47 @@
       "publishedAt": "2026-08-17T19:22:54.000Z",
       "image": "",
       "topic": "气候",
-      "score": 74,
+      "score": 73,
       "id": "d9902667e756"
     },
     {
-      "title": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
-      "summary": "US president’s abrupt order to scale back joint exercises with Seoul is meant to ‘flatter’ North Korea’s dictator, top Democrat says Donald Trump’s move to gut Washington’s 73-year-old military alliance with Seoul has been called “inane” and “shortsighted” as lawmakers warned it risked strengthening Russia’s hand in Ukraine. The US president abruptly ordered",
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-17T19:11:26.000Z",
-      "image": "https://i.guim.co.uk/img/media/949b48d131e9924cba15519d8cd17dcd79a04520/689_0_2311_1849/master/2311.jpg?width=140&quality=85&auto=format&fit=max&s=79c11b06e83fb020fabf714c47e53f3e",
-      "topic": "政治",
-      "score": 74,
-      "id": "792e2d4bd781"
+      "title": "Otti okays N31m cash support for 31 South Africa returnees",
+      "summary": "Otti okays N31m cash support for 31 South Africa returnees &nbsp;&nbsp; The Nation Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkJQb0hxbU0yOGJFR29CWFg4WGZ1RGlETXlyYy1EWFByMkVFTUliVlJveExTb1A0MVBRLTNCRjhrNE5oS1BHakdCYXVtMmoycnRXQ3BzeWxPa1JiRGFhUGRkZEhzTExlY2ZxUElaWVEtSUlMcnlnZF9zSElPT1hWczVfQkM0TlY0RDRLZnM3N0tvSmfSAZgBQVVfeXFMTXQxeGppOGFiNjBBX1RXckJzaUxyc1RJajVqdGZielhEUjJFRndaYk54Z2tOdW83OWh5WnFldkJ5VHg4YWgxZ1I1b01rRkZaR29Bd0J0Z2U2aUM3V2p5Nll6VjIybmlKU19uWW81bEZlWFFUNm5JWm9pcWpBX2pnSWppTUgzeEJzanpOZVpYeXRqTVB3VV9hVmw?oc=5",
+      "source": "The Nation Newspaper",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-18T04:41:15.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "4b4570ac3e20"
     },
     {
-      "title": "Death of 29-year-old woman at Perth towing yard sparks investigation",
-      "summary": "A 29-year-old woman dies in what police describe as a \"workplace incident\" in Osborne Park in Perth's north.",
-      "url": "https://www.abc.net.au/news/2026-08-18/woman-dies-in-workplace-incident-in-osborne-park-perth/107049250",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-18T01:38:04.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/8e60eef70578aa14df194b314a4d4670?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
+      "title": "U.S. Navy destroyer lost power for 4 days in South China Sea",
+      "summary": "U.S. Navy destroyer lost power for 4 days in South China Sea &nbsp;&nbsp; The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHBtekJyZU9aX0R1ZXF2ei1GY2x2YW5UZWFWQm1lNkthOGhtUUh2LVBudHJNTXBFbHJuRnA5empjTUpYLTlTVDE4bmF3RDFWVzc4b1ZQeTR1ZEw4MklhazhzaDdlSE10ZThvRlFiUEtmNVlEQ3hqREZwN1Ytam5RdXlWeVNpM0dmWGlNM1lsQWRPQ2E1ZXhya1ZUY3Z5NzRtTUdBbjRzaFNNeHd5WWZhQ1dR?oc=5",
+      "source": "The Washington Post",
+      "feed": "Latin America News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-18T04:39:06.000Z",
+      "image": "",
       "topic": "社会",
-      "score": 73,
-      "id": "d72d070babf1"
+      "score": 72,
+      "id": "aab4072be1be"
     },
     {
-      "title": "Fraser named Carlton coach after leading Blues' AFL revival",
-      "summary": "Carlton chief executive Graham Wright insists Josh Fraser's presentation alone would have been enough to guarantee his appointment as senior coach.",
-      "url": "https://www.abc.net.au/news/2026-08-18/josh-fraser-named-carlton-blues-afl-coach/107049324",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-18T01:28:28.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ab66666e8848be8b1d24882fbcc85350?impolicy=wcms_crop_resize&cropH=2239&cropW=3981&xPos=0&yPos=0&width=862&height=485",
+      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+      "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified.",
+      "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-18T02:06:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b73/live/79965b50-9a89-11f1-b792-a710e56a11dc.jpg",
       "topic": "社会",
-      "score": 73,
-      "id": "1cf7165fba07"
+      "score": 72,
+      "id": "6c425c3e55f8"
     },
     {
       "title": "Vigil held in central London for late Cambridge professor Jason Arday",
@@ -588,7 +640,7 @@
       "publishedAt": "2026-08-18T01:26:31.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "c86478ac5f29"
     },
     {
@@ -601,7 +653,7 @@
       "publishedAt": "2026-08-18T01:17:35.000Z",
       "image": "",
       "topic": "科技",
-      "score": 73,
+      "score": 72,
       "id": "d24c01994834"
     },
     {
@@ -614,7 +666,7 @@
       "publishedAt": "2026-08-17T22:26:12.000Z",
       "image": "",
       "topic": "气候",
-      "score": 73,
+      "score": 72,
       "id": "1e2d6db4f3c5"
     },
     {
@@ -627,7 +679,7 @@
       "publishedAt": "2026-08-17T18:45:59.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8678/live/aa573860-9a50-11f1-96c4-e7f87215742d.jpg",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "fa5bd788ceb9"
     },
     {
@@ -640,7 +692,7 @@
       "publishedAt": "2026-08-17T18:39:39.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "e6c82bafaa49"
     },
     {
@@ -653,7 +705,7 @@
       "publishedAt": "2026-08-17T16:02:58.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1476/live/b59ea940-9a3e-11f1-a291-b542ee92de7c.jpg",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "d37b5d9856f6"
     },
     {
@@ -666,47 +718,34 @@
       "publishedAt": "2026-08-17T15:56:48.000Z",
       "image": "https://i.guim.co.uk/img/media/8c3dc801bae95d53d4487d1870e2b5c2d8494926/202_0_2222_1777/master/2222.jpg?width=140&quality=85&auto=format&fit=max&s=dace3b9b2b1c07c9e8ce899e66f12c78",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "2217a0533637"
     },
     {
-      "title": "Hockeyroos downed by reigning champions in World Cup pool match",
-      "summary": "The Hockeyroos have been beaten by the Netherlands in their second match of the FIH Hockey World Cup, going down 4-2 despite a battling performance against the reigning champions.",
-      "url": "https://www.abc.net.au/news/2026-08-18/hockeyroos-netherlands-fih-hockey-world-cup-pool-match/107048694",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-17T21:59:02.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/1b815c308ff29379260b3010736002d6?impolicy=wcms_crop_resize&cropH=2409&cropW=4282&xPos=0&yPos=280&width=862&height=485",
+      "title": "Donor fatigue guts demining in Asia, as active conflicts draw away funding",
+      "summary": "Donor fatigue guts demining in Asia, as active conflicts draw away funding &nbsp;&nbsp; Midland Daily News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeG9JZWdqMHZUenZjaXpjYVhrbGNJcEVNVXIwVHdZM1BZLTZqalNGRGNsZzNTM3ZVZEd0cmhzUkxldUxqSGFnbTFFUjRDWHVodGp0dnlJc3I0enpFcThCRHhINDYwSWVlcXVlUDNnbmVzMktoZTBWc3daN1ZPR2REeWVMWDhETzVfclJkZlVfNlRrYzlmMFpaSXRTMlU3SktrRS11dEluSQ?oc=5",
+      "source": "Midland Daily News",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-18T04:18:25.000Z",
+      "image": "",
       "topic": "社会",
-      "score": 72,
-      "id": "d89bca1a2fd1"
+      "score": 71,
+      "id": "d8993b92c66c"
     },
     {
-      "title": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
-      "summary": "UN peacekeeping force recorded an average of 137 projectiles fired daily in the region over the last two weeks.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-17T20:54:03.000Z",
+      "title": "2 dead in school shooting in southern Philippines",
+      "summary": "2 dead in school shooting in southern Philippines &nbsp;&nbsp; CNA",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbU82dE1BbEg0Vlp6X2JTR2N3b2l5XzZpNnQxM3JoYmdJWl9LM3c0c1hJdE9LamVmQmNmdkFJX1NCV1dDMnVVOW9PRlVabENmLXlRLVFqb0M3RjJKdExveFpWcEgyUVI3V1c2RHFCS0ZiZUdTZmFYM3lkTGRTTjgzVGNTQTNvRjlqZm9xV05KeVR5QUxKd1E?oc=5",
+      "source": "CNA",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-18T04:12:52.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "65b440a720f2"
-    },
-    {
-      "title": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
-      "summary": "Family members allege security officers ignored warnings about the man's hemophilia and subjected him to severe abuse.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-17T17:37:31.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "13872c92bfe1"
+      "topic": "社会",
+      "score": 71,
+      "id": "79b61ef7ed87"
     },
     {
       "title": "Iran working to finalize Hormuz agreement with Oman, and other news from the Middle East",
@@ -718,34 +757,60 @@
       "publishedAt": "2026-08-17T11:24:05.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "778bd63038cd"
     },
     {
-      "title": "Winston Peters urges Pacific leaders to put economic growth at centre of the Forum",
-      "summary": "Winston Peters urges Pacific leaders to put economic growth at centre of the Forum &nbsp;&nbsp; Pacific Media Network",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemllN3ZMa3VXNjEwY1l5aW9EZUlGOTJtVzl2X3RxemtnTjJmcHZjcWRDeEhJV0M1UW9HaXFfaW84RldsMzZydlB4Uk5HN2R5dVJ4LWhNZ1hMYnlIc1pEUUh0c0tscFlQcEQxSXRDRHNWak9DRHJLeGhqaUM1THFGWHBCanV0ZGNQamkzRU42LU1KSEtvdEVDVC1udkFBNmN5c1Z6TWQ2bERPYjFMeHhWb1VFN01Ydw?oc=5",
-      "source": "Pacific Media Network",
-      "feed": "Pacific News Network",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-18T03:20:37.000Z",
+      "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
+      "summary": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window &nbsp;&nbsp; Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXFYYUZrT0dQRlJmbzRST3NId1F6SE5wYnZSVUdoOFBXc3NBRXhXY2llSU9DX2pXR3RQNEVUcFhjSEs3R29uLUZyVUlfZUJIMDl3eTFJRTFMM0hITVNJZzRIUmlEYW1PekhjZHZGVzdESXZjR0dHdGhUUzVlalRLSU51bnRrNHRJWTF1NnpqSUdEYmJBVGJtQ3J3TEJabE0?oc=5",
+      "source": "Goal.com",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-18T03:18:36.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
-      "id": "6bc9f18b0644"
+      "score": 70,
+      "id": "0de28efbcdf8"
+    },
+    {
+      "title": "Nikkei slides as Middle East stalemate fuels oil, inflation concerns",
+      "summary": "Nikkei slides as Middle East stalemate fuels oil, inflation concerns &nbsp;&nbsp; The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLWt0QzNJRHBZSTROOTZKWjBjUF85b0NvV3pxQ1haYkVFWlh2bWs3a2o3ZlJXZmRYWWR5d0RmdWlHNzFYRncxOENyNlV2U1NyYjQydzhlTnlaZXNfbk1XTy11S25ONDB3UTU5N0ZyVHhlYjV4aEhuSE5pd1hjUUNHQk5RLVFtenhNWExaeVZFZ2dmRGdHd0JUZ0ZFU0V3dmMteFZXbFczZDdMOHVYb2lGS0tyekR5RnpPVGRuUnNmeFE5RFE5NlIxZmJwU0Z1ZTlkM0dYaEFQR3dhZw?oc=5",
+      "source": "The Business Times",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-18T03:12:00.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 70,
+      "id": "c776be45ea32"
     },
     {
       "title": "Strait of Hormuz traffic increases from weekend numbers",
-      "summary": "Strait of Hormuz traffic increases from weekend numbers &nbsp;&nbsp; The Jerusalem Post",
+      "summary": "Strait of Hormuz traffic increases from weekend numbers &nbsp;&nbsp; jpost.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sR1BRNEdYa3hZdndXWXJvYUE5TFlMMVNsODNrYUhNYlBocGgtZjQ3REJMMjloTlBQMzVTeERrdi05TGFZdmEzUF9uMzh4aF96UEpOTnk4RWJvRTZhTEFPLXNveWVpNi1nZ1E?oc=5",
-      "source": "The Jerusalem Post",
+      "source": "jpost.com",
       "feed": "Middle East News Network",
       "region": "中东",
       "publishedAt": "2026-08-18T03:08:46.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
-      "id": "6a3ed9811442"
+      "score": 70,
+      "id": "0bcd2d6c3475"
+    },
+    {
+      "title": "Daily horoscope for zodiac signs: Astrological predictions for today, 18 August 2026",
+      "summary": "Daily horoscope for zodiac signs: Astrological predictions for today, 18 August 2026 &nbsp;&nbsp; Lifestyle Asia Hong Kong",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUUVvNkVIYy00dGpVLVZac1NfSURSTjVNMTI4ZXg1SWZKcm5xX1FSZmVablNjcFVYdzYyYlZhRG1wQXhfd01kUDJOYk5JUlYza3d1RXlpNzFTMDBzRVhmUkY0TmhNZ2xnUnR3dVpOX1V6el9YUWNYdTFaQndpZ1dEbVVSMEhxaUlaeURJX2xJOTBPbzllVmZ4NmtBbTZ3ZU93MGJlTGZ5bGcySXhrUGkweFVYVFVONU5BTThSQy1KR1BJdU41RjNnQ3ZINGt6SEtJb1VnQWpaS0fSAdgBQVVfeXFMT1FFbzZFSGMtNHRqVS1WWnNTX0lEUk41TTEyOGV4NUlmSnJucV9RUmZlWm5TY3BVWHc2MmJWYURtcEF4X3dNZFAyTmJOSVJWM2t3dUV5aTcxUzAwc0VYZlJGNE5oTWdsZ1J0d3VaTl9VenpfWFFjWHUxWkJ3aWdXRG1VUjBIcWlJWnlESV9sSTkwT285ZVZmeDZrQW02d2VPdzBiZUxmeWxnMkl4a1BpMHhVWFRVTjVOQU04UkMtSkdQSXVONUYzZ0N2SDRrekhLSW9VZ0FqWktH?oc=5",
+      "source": "Lifestyle Asia Hong Kong",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-18T03:01:12.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "fbbee07f656e"
     },
     {
       "title": "Analysis • Trump is waiting out Iran. Tehran is using the time to reshape the Middle East",
@@ -757,34 +822,21 @@
       "publishedAt": "2026-08-18T03:01:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "bfcd565156c0"
     },
     {
-      "title": "Daily horoscope for zodiac signs: Astrological predictions for today, 18 August 2026",
-      "summary": "Daily horoscope for zodiac signs: Astrological predictions for today, 18 August 2026 &nbsp;&nbsp; Lifestyle Asia Hong Kong",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa1NybVItcjJ0UmRhU3dOcTRHSXlJVXQzQWgtWUp1cGZ2VGFXVkYtTXg1cmI5bXo4dmdDTDluaWlsWE51Vno0SEltS3E4aHRMYU1nRzhaalVRQWx6bW9MQlZGNzBicDBjNUlwMzFkWHRtdy1ILXR6aDBHUGFESFU3TXR3X3lfMDRXclJwMHZtek1PWElLakRpNGhhYnR2Y1dZU1dWdmNjekFSbDJ0WjZWUmdWTEFjaGF5Mlo4WXhzUmZYVnpQSkNwTkcxaXFoZTVJYTRj0gHYAUFVX3lxTE9RRW82RUhjLTR0alUtVlpzU19JRFJONU0xMjhleDVJZkpybnFfUVJmZVpuU2NwVVh3NjJiVmFEbXBBeF93TWRQMk5iTklSVjNrd3VFeWk3MVMwMHNFWGZSRjROaE1nbGdSdHd1Wk5fVXp6X1hRY1h1MVpCd2lnV0RtVVIwSHFpSVp5RElfbEk5ME9vOWVWZng2a0FtNndlT3cwYmVMZnlsZzJJeGtQaTB4VVhUVU41TkFNOFJDLUpHUEl1TjVGM2dDdkg0a3pIS0lvVWdBalpLRw?oc=5",
-      "source": "Lifestyle Asia Hong Kong",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-18T03:00:54.000Z",
+      "title": "European map of gasoline and diesel in Europe: this is how its price has risen country by country",
+      "summary": "European map of gasoline and diesel in Europe: this is how its price has risen country by country &nbsp;&nbsp; democrata.es",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORUtaY1FqVW15SFhZZFlQak9aWm0xU3V0bVVBajVveDIwVzBKdFRXOWJNTG83ajRFbU9zeEd4alJsMGR4RDNxdUFGazBlVzlxVE5CbzhYZkVOR3VwUnk5NHhLbzlscmtxSS01N05CNWlhRXItUl9pY1FZMTV2T3g0RFhxMDNjZ0Q2MHVZMlBtU2Z3ZGtRWXN1bHJKV1lTOVZEU2lJWFpWSVZwSmNOYXR5YlQ0c1MwSG5KUjFzbWYtbERvNUxXdWY3UUFySV9MRUhqZ3fSAdIBQVVfeXFMTkVLWmNRalVteUhYWWRZUGpPWlptMVN1dG1VQWo1b3gyMFcwSnRUVzliTUxvN2o0RW1Pc3hHeGpSbDBkeEQzcXVBRmswZVc5cVROQm84WGZFTkd1cFJ5OTR4S285bHJrcUktNTdOQjVpYUVyLVJfaWNRWTE1dk94NERYcTAzY2dENjB1WTJQbVNmd2RrUVlzdWxySldZUzlWRFNpSVhaVklWcEpjTmF0eWJUNHNTMEhuSlIxc21mLWxEbzVMV3VmN1FBcklfTEVIamd3?oc=5",
+      "source": "democrata.es",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-18T03:00:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
-      "id": "fbbee07f656e"
-    },
-    {
-      "title": "German drone maker Helsing enlists Rakuten to broker Japan military deal",
-      "summary": "German drone maker Helsing enlists Rakuten to broker Japan military deal &nbsp;&nbsp; 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rS1NBS2dpc3ptclZVSjMxUnRkbEozaUQzU3hXUmZIbElkUFJ4SkNXSDdpX3piajNNZFZ3Tl96U0ViSnRZa21oeVlrdkliXy1CZFlWV1RR?oc=5",
-      "source": "朝日新聞",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-18T02:50:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 71,
-      "id": "ce5b6749c34a"
+      "score": 70,
+      "id": "7dd435120e76"
     },
     {
       "title": "Oman’s Sultan Meets UAE President As Gulf Tensions Intensify Over Strait Of Hormuz",
@@ -796,21 +848,21 @@
       "publishedAt": "2026-08-17T23:55:59.000Z",
       "image": "",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "d77c8ab09deb"
     },
     {
-      "title": "BBC breaks down Trump's latest shift on North and South Korea",
-      "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
-      "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "亚洲",
-      "publishedAt": "2026-08-17T23:42:38.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb7/live/b807c3f0-9a94-11f1-a291-b542ee92de7c.jpg",
+      "title": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
+      "summary": "UN peacekeeping force recorded an average of 137 projectiles fired daily in the region over the last two weeks.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-17T20:54:03.000Z",
+      "image": "",
       "topic": "政治",
-      "score": 71,
-      "id": "745b13a8d4fa"
+      "score": 70,
+      "id": "65b440a720f2"
     },
     {
       "title": "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
@@ -822,7 +874,7 @@
       "publishedAt": "2026-08-17T20:46:34.000Z",
       "image": "",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "5e7c7cd4af6f"
     },
     {
@@ -835,7 +887,7 @@
       "publishedAt": "2026-08-17T20:41:31.000Z",
       "image": "",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "0204a47f161d"
     },
     {
@@ -848,21 +900,8 @@
       "publishedAt": "2026-08-17T16:41:07.000Z",
       "image": "https://i.guim.co.uk/img/media/f62f63de65e57ec2e075c4b1ebbdbb7860d43b5e/507_0_1531_1226/master/1531.jpg?width=140&quality=85&auto=format&fit=max&s=4324ce74568b64e255bdd10d3650ed84",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "1b0c2e7b7f9c"
-    },
-    {
-      "title": "Trump threatens Oman as it works with Iran on Strait of Hormuz deal and other Middle East news",
-      "summary": "Trump threatens Oman as it works with Iran on Strait of Hormuz deal and other Middle East news &nbsp;&nbsp; Oskaloosa Herald",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOWDFobDZxeWl0VUl4bE5YV0M4WG00TmR4YWU4cFBTU0t0U1Y0TGV3NjF5MDZvcTZqWVdfU0NFMTdYMi1USmozeXl1TFBodE9hdWJYWGwtWTV1ZU5QbzhUYXBYUjNqSlZHeWtTVmI4TUVkZmJyRW1fX21ueFNVaUVmZkhpU1Z4MzZkWDluRU9nMUxiemw0T2E4RTNtYkg1VUdYV1NLdzZZQkpZUENLdk9NSTdiVHhWdkI4a2Q2OEVYYmhBMVRDNXMwMExXdGZfeUZsNmNxLTVkdWFhcTF2ejNpcUM1VW4zR1VXQlVyVUxhVkFDMmhkR2M5OVRxN0Zkd1UxeU1vUnJHY2hsOXk1RlE?oc=5",
-      "source": "Oskaloosa Herald",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-17T14:19:07.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "9b81fa0a45d2"
     },
     {
       "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
@@ -874,21 +913,21 @@
       "publishedAt": "2026-08-17T14:07:31.000Z",
       "image": "https://i.guim.co.uk/img/media/a393063cc2d82e5b3b20c44e22654a645b95ab37/581_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e627dfdebce0f22e71d4b8bb71204ef6",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "8e7f7748d7e9"
     },
     {
-      "title": "U.S. Navy destroyer lost power for 4 days in South China Sea",
-      "summary": "U.S. Navy destroyer lost power for 4 days in South China Sea &nbsp;&nbsp; The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHBtekJyZU9aX0R1ZXF2ei1GY2x2YW5UZWFWQm1lNkthOGhtUUh2LVBudHJNTXBFbHJuRnA5empjTUpYLTlTVDE4bmF3RDFWVzc4b1ZQeTR1ZEw4MklhazhzaDdlSE10ZThvRlFiUEtmNVlEQ3hqREZwN1Ytam5RdXlWeVNpM0dmWGlNM1lsQWRPQ2E1ZXhya1ZUY3Z5NzRtTUdBbjRzaFNNeHd5WWZhQ1dR?oc=5",
-      "source": "The Washington Post",
-      "feed": "Latin America News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-18T02:48:58.000Z",
+      "title": "No Madlanga today? Citizens joke they don't know what to do as Commission takes a break",
+      "summary": "No Madlanga today? Citizens joke they don't know what to do as Commission takes a break &nbsp;&nbsp; IOL",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYW42dk9TbW9jNTdJcl9BX1VxckRCcjdySnp6Y2dLV1NwdlpMdlpQTktadmYxZWNUZEdGMHp3ajNMUzNQd25VYWtISFJ4ZG9SVlJfQlpIRnEyZ2tOcURoLU9VYTE5R0ZtNXE1Q0ZDV2U5TkNTTmZHTmxBM1hHMzJCdkZETTd1WUc2cDJ0VXROZXIzNXgxOWwyNV9jcUhpRWtBMDlON1lQSENmZFFqV19QLUp3QzNHd2w1MlE?oc=5",
+      "source": "IOL",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-18T02:21:28.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
-      "id": "aab4072be1be"
+      "score": 69,
+      "id": "32fe676b4528"
     },
     {
       "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
@@ -900,47 +939,8 @@
       "publishedAt": "2026-08-17T23:28:54.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14ea8240-9a6a-11f1-b792-a710e56a11dc.jpg",
       "topic": "社会",
-      "score": 70,
-      "id": "9814db0055fa"
-    },
-    {
-      "title": "South African national teams face tough openers at FIH Hockey World Cup",
-      "summary": "South African national teams face tough openers at FIH Hockey World Cup &nbsp;&nbsp; EWN",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTBvUXhZYVJ2ejhrMHNBMEpDNm1qUk9CcHotblppc3Jrb0k2UVdBYjRQYXZiWjVaZ19keVVRbmEzZmdxTHktMUpUdWZmaDA2V2VCNkY4Rmx5dzBJVTRHc01Udm5Uc3JpdzB3NGc1T1I1YUpueGhrOGF4WEpNblI2TXUtXzk0NmtoU1ZEUzFQd1FKMlJjaG9oLWFB?oc=5",
-      "source": "EWN",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-17T23:03:45.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "249a85c68da3"
-    },
-    {
-      "title": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
-      "summary": "Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide drought Successive intense heatwaves and an increasingly severe, continent-wide drought have left many of Europe’s farmers in an “unprecedented” crisis, with vegetable and grain growers in particular warning of “catastrophic” harvests. French vegetabl",
-      "url": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-17T16:01:47.000Z",
-      "image": "https://i.guim.co.uk/img/media/13bb6e45da9f6fdeb8d43e497bfb6f7440eea661/0_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=b1c497610e5bea32211ac2dbf83665ed",
-      "topic": "气候",
-      "score": 70,
-      "id": "8f227a588cba"
-    },
-    {
-      "title": "Briclinks Africa's Cash Reserves Fall Below N4m in Q2 2026",
-      "summary": "Briclinks Africa's Cash Reserves Fall Below N4m in Q2 2026 &nbsp;&nbsp; Punch Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QamJnRWtLbDB0SkFESXYzdF9SMUZMNmVXSG82b1VtcUZTZnFNN1pDWDJCUlJRQWFjSU9ZNGw0V1FfN2hCdjdid2I4OHVpYUR6M3FkMkVDVVJ3WUl2VkpEaGd2b2RVWldDVHZETm5fMmx3U3ZySmdqYmlxVQ?oc=5",
-      "source": "Punch Newspapers",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-18T01:48:35.000Z",
-      "image": "",
-      "topic": "社会",
       "score": 69,
-      "id": "e0acf4fe5b6a"
+      "id": "9814db0055fa"
     }
   ]
 }
