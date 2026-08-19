@@ -1,11 +1,24 @@
 {
-  "updatedAt": "2026-08-19T07:08:38.884Z",
+  "updatedAt": "2026-08-19T07:56:18.084Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-08-19T07:14:50.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
+      "topic": "政治",
+      "score": 88,
+      "id": "e86d214f50c1"
+    },
     {
       "title": "From hammering Iran to strangling them: Donald Trump has a new approach in Middle East war",
       "summary": "From hammering Iran to strangling them: Donald Trump has a new approach in Middle East war &nbsp;&nbsp; The Economic Times",
@@ -16,12 +29,12 @@
       "publishedAt": "2026-08-19T03:49:30.000Z",
       "image": "",
       "topic": "政治",
-      "score": 88,
+      "score": 87,
       "id": "324aa6eb202f"
     },
     {
       "title": "In cutting joint drills, Trump has given South Korea’s president what he wants. So why does Seoul look so uneasy?",
-      "summary": "President Lee Jae Myung has long pushed for stronger homegrown defences, yet Donald Trump’s move has sparked alarm in some quarters At their first summit , in August last year, South Korean president Lee Jae Myung told Donald Trump: “If you, Mr President, become the peacemaker, then I will assist you as the pacemaker.” The remark at the Oval Office captured ",
+      "summary": "Lee Jae Myung has long pushed for stronger homegrown defences, yet Donald Trump’s move has sparked alarm in some quarters At their first summit , in August last year, the South Korean president, Lee Jae Myung, told Donald Trump: “If you, Mr President, become the peacemaker, then I will assist you as the pacemaker.” The remark at the Oval Office captured the ",
       "url": "https://www.theguardian.com/world/2026/aug/19/trump-south-korea-alliance-military-seoul-security",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -29,34 +42,21 @@
       "publishedAt": "2026-08-19T05:40:29.000Z",
       "image": "https://i.guim.co.uk/img/media/11c5c21ebeb11ba30f797b017e0edf88bda4182f/415_0_4198_3360/master/4198.jpg?width=140&quality=85&auto=format&fit=max&s=dd69141a015d828ffc288aa415c0bb9a",
       "topic": "政治",
-      "score": 87,
+      "score": 86,
       "id": "30a8d73d6476"
     },
     {
-      "title": "Catholic schools chief denies wiping critical evidence after performing factory reset on phone, Icac hears",
-      "summary": "Dallas McInerney tells inquiry he wiped data from his devices over the weekend after receiving a security warning from his bank Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The chief executive of Catholic Schools NSW has denied he performed a factory reset on a work phone and iPad to wipe",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/19/catholic-schools-nsw-chief-wiped-phone-icac-evidence-ntwnfb",
+      "title": "Australia news live: defence join search for missing 18-year-old bushwalker; Marcia Langton tells antisemitism royal commission racism needs to be tackled in ‘coordinated way’",
+      "summary": "Follow today’s news live Follow our breaking news email , free app or daily news podcast ‘Collapsing confidence’ in housing market, Wilson says Tim Wilson has jumped on that reporting around rent increases and says there has been a collapse in confidence since the budget which is hurting renters. We’ve had, since the budget, collapsing confidence, a lack of ",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "大洋洲",
-      "publishedAt": "2026-08-19T05:36:23.000Z",
-      "image": "https://i.guim.co.uk/img/media/281a21f6ae5158af797bf75121878c67939055fa/168_0_5326_4261/master/5326.jpg?width=140&quality=85&auto=format&fit=max&s=0e86fdde25fbedd30514163d61d949bc",
-      "topic": "政治",
-      "score": 87,
-      "id": "2b9c08af3b7c"
-    },
-    {
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-19T04:44:41.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
-      "topic": "政治",
-      "score": 86,
-      "id": "e86d214f50c1"
+      "publishedAt": "2026-08-19T07:44:15.000Z",
+      "image": "https://i.guim.co.uk/img/media/88767de4bf103f7cd1db7a710fb56defa740aef5/0_51_1638_1309/master/1638.jpg?width=140&quality=85&auto=format&fit=max&s=5030878904c3f726449f80805510b07a",
+      "topic": "经济",
+      "score": 85,
+      "id": "b95d43b19603"
     },
     {
       "title": "Record-breaking warmth in Europe's oceans is due to climate change",
@@ -68,8 +68,21 @@
       "publishedAt": "2026-08-19T04:26:28.000Z",
       "image": "",
       "topic": "政治",
-      "score": 86,
+      "score": 85,
       "id": "d3617b8a1fdd"
+    },
+    {
+      "title": "Labor thinks it can win elections defending super. For Hanson, it’s just another way to deprive Taylor of political oxygen",
+      "summary": "Despite leading in the polls, Hanson is allowed to offer thought bubbles instead of actual policy Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast All sides of politics are feeling the heat from Pauline Hanson. On Tuesday, the One Nation leader pulled the rug out from under the Coalition by a",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/19/labor-thinks-it-can-win-elections-defending-super-for-hanson-its-just-another-way-to-deprive-taylor-of-political-oxygen",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-19T07:21:44.000Z",
+      "image": "https://i.guim.co.uk/img/media/8825e2b3393b3da5701cd5bcd9ace2e246b04d9b/420_0_5708_4569/master/5708.jpg?width=140&quality=85&auto=format&fit=max&s=b56d9cc548e5139ba00b5cdb0ac19c6a",
+      "topic": "政治",
+      "score": 84,
+      "id": "6fadaad3e159"
     },
     {
       "title": "South Korea, US scale back annual military drills after Trump’s order",
@@ -81,47 +94,21 @@
       "publishedAt": "2026-08-19T04:59:32.000Z",
       "image": "",
       "topic": "政治",
-      "score": 85,
-      "id": "eccbfedd49f4"
-    },
-    {
-      "title": "Australia news live: defence force personnel join search for missing 18-year-old bushwalker Lily Hooper",
-      "summary": "Follow today’s news live Follow our breaking news email , free app or daily news podcast ‘Collapsing confidence’ in housing market, Wilson says Tim Wilson has jumped on that reporting around rent increases and says there has been a collapse in confidence since the budget which is hurting renters. We’ve had, since the budget, collapsing confidence, a lack of ",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-19T06:51:40.000Z",
-      "image": "https://i.guim.co.uk/img/media/88767de4bf103f7cd1db7a710fb56defa740aef5/0_51_1638_1309/master/1638.jpg?width=140&quality=85&auto=format&fit=max&s=5030878904c3f726449f80805510b07a",
-      "topic": "经济",
       "score": 84,
-      "id": "41e4a10fe187"
+      "id": "eccbfedd49f4"
     },
     {
       "title": "It’s Time to Pull U.S. Troops from the Middle East",
       "summary": "It’s Time to Pull U.S. Troops from the Middle East &nbsp;&nbsp; RealClearDefense",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3dpdW56TXY1b2NuTDF0UjB4WUtMT2hSenhBQ1NWOVdOTk82UjU4UnhCS3gtN0t0WnJSbmlITUdYTEZObjB1bVZiYUtIaUxIMEd2aEhQMHNLb0RMV0JOVDAza3NpVjJ3ZjAtSHFrVjUtTzY1SzNlM293WUljSmxXV1A1X3ZXS1ZJVEtzS1AyOFdDTVVheC11VmE3RUMwbklPcHZGREFBR0JDb2Q4RFRqTjd3aw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlIwRFhRYjh0QjZET09iemEzbld5LUtpN1ZpcHBLTXlpV3RlQ1NZdy0zLXZ3REFoc2xMWUIzN2tLeGduRWUwaHRzX0w3YlVKMVJOVmRjZWFEaXBSRkVWd1UxOERLZmlzelpQT0kxVGk2STVXbjJfcXU5MkYtWm1sMmlkaE1jdVd1cXlFZVkzRkhQZjZBVkIwQmFLSVZtdXFtQ2NvZ1otdw?oc=5",
       "source": "RealClearDefense",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-19T06:45:46.000Z",
+      "publishedAt": "2026-08-19T07:19:17.000Z",
       "image": "",
       "topic": "社会",
-      "score": 84,
+      "score": 83,
       "id": "2bbbfb3668d0"
-    },
-    {
-      "title": "UAE halts all trade, financial dealings with Iran over alleged missile attack",
-      "summary": "UAE halts all trade, financial dealings with Iran over alleged missile attack &nbsp;&nbsp; CNA",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUnlnMVJjS2FLM2NfSUltYjRjYlZzWkgzWVNrbkVRTkpTRFpjdkp2NlJZV3ZtUGNyNENpQlU1S2ktTHBDMEhXblBFVlJVZk1TMDdzWXgzMWRpOFFOYWZMcTQtTVJIdjFyRmJvVTYyenU4dzgwWmhuMkNkNUYtbExhSEJR?oc=5",
-      "source": "CNA",
-      "feed": "Asia News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-19T06:31:22.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 84,
-      "id": "143a0bec9aac"
     },
     {
       "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
@@ -133,7 +120,7 @@
       "publishedAt": "2026-08-19T03:34:40.000Z",
       "image": "",
       "topic": "经济",
-      "score": 84,
+      "score": 83,
       "id": "d719a04ca352"
     },
     {
@@ -146,7 +133,7 @@
       "publishedAt": "2026-08-19T03:25:33.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "b40dc60ed680"
     },
     {
@@ -159,8 +146,21 @@
       "publishedAt": "2026-08-19T05:59:44.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "676658aade3a"
+    },
+    {
+      "title": "Trump pauses 50 percent tariffs on Canada in last-minute deal",
+      "summary": "Washington and Ottawa announce agreement to delay new tariffs on Canadian exports shortly before midnight deadline.",
+      "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-19T02:35:15.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 82,
+      "id": "2f6a833d4461"
     },
     {
       "title": "U.S. sanctions ICC president, senior trial lawyer in latest attack on court",
@@ -172,7 +172,7 @@
       "publishedAt": "2026-08-19T02:00:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "ffbe14a6a6f6"
     },
     {
@@ -185,7 +185,7 @@
       "publishedAt": "2026-08-19T05:00:06.000Z",
       "image": "https://i.guim.co.uk/img/media/f6aa775f912c60f9a2982dcb7cec428717b8769c/509_177_6506_5206/master/6506.jpg?width=140&quality=85&auto=format&fit=max&s=62e5ea0d4b384e372168ab00a45a7be5",
       "topic": "气候",
-      "score": 82,
+      "score": 81,
       "id": "d1dd39e76261"
     },
     {
@@ -198,7 +198,7 @@
       "publishedAt": "2026-08-19T02:06:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 82,
+      "score": 81,
       "id": "f7c6b4a4a72f"
     },
     {
@@ -211,8 +211,47 @@
       "publishedAt": "2026-08-18T22:21:59.000Z",
       "image": "https://i.guim.co.uk/img/media/fc39a51604167a9a72d7d2a0db42086333854387/1024_0_2384_1906/master/2384.jpg?width=140&quality=85&auto=format&fit=max&s=96a971fcf7f3951fa12128072af65edc",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "8a73be73e1df"
+    },
+    {
+      "title": "Breaking: Australian dies in Vietnam, DFAT confirms",
+      "summary": "The Department of Foreign Affairs and Trade confirms it is providing consular assistance to the family of an Australian who has died in Vietnam.",
+      "url": "https://www.abc.net.au/news/2026-08-19/australian-dies-in-vietnam-dfat-confirms/107055436",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "亚洲",
+      "publishedAt": "2026-08-19T07:35:11.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a187c709d7b20a0c6a2433a8bc7eb023?impolicy=wcms_crop_resize&cropH=499&cropW=888&xPos=0&yPos=99&width=862&height=485",
+      "topic": "经济",
+      "score": 80,
+      "id": "85384ecd5a6a"
+    },
+    {
+      "title": "UK inflation rises to 2.9% as Iran war drives up energy bills",
+      "summary": "Accelerating prices in July add to pressure on households, with chancellor saying ‘there is more to do to restore hope’ Business live – latest updates UK inflation rose to 2.9% in July as the impact of the Iran war on energy prices triggered a renewed cost of living squeeze for British households. The Office for National Statistics said inflation rose from a",
+      "url": "https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-08-19T07:25:26.000Z",
+      "image": "https://i.guim.co.uk/img/media/4ca22deedb3ea37ee229f3cd0b29ab2ac1cd8a2e/321_0_3143_2514/master/3143.jpg?width=140&quality=85&auto=format&fit=max&s=351096ccbc746fd3d71c7c18af5ea1fd",
+      "topic": "经济",
+      "score": 80,
+      "id": "49530c911054"
+    },
+    {
+      "title": "MICE Show Asia 2026 Expands Exhibition Space by 83.2%",
+      "summary": "MICE Show Asia 2026 Expands Exhibition Space by 83.2% &nbsp;&nbsp; Breaking Travel News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGlZTGpDVnJNU3ViMUZFSGIxU0wtREloRzlCcTN1bGJkUnd3cWY0d2JydWZOampKZ0NKXzFSakpEN3oxYnZJNE5ZcnkzdkpYYVZONUxMdlV0eThEaTljd1BDeDM3UW1QUWpCcXpuTjBQZlhFdXNpOUl0amxUR3RFTzhjSEEtMVg0dmFwZEdjVF9NWnVKNGNKLThkWWRrazlRVUdB?oc=5",
+      "source": "Breaking Travel News",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-19T07:23:45.000Z",
+      "image": "",
+      "topic": "科技",
+      "score": 80,
+      "id": "c39181e1c2b4"
     },
     {
       "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
@@ -224,7 +263,7 @@
       "publishedAt": "2026-08-19T04:25:26.000Z",
       "image": "",
       "topic": "社会",
-      "score": 81,
+      "score": 80,
       "id": "af4451310db0"
     },
     {
@@ -237,7 +276,7 @@
       "publishedAt": "2026-08-19T03:55:30.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/ac8afbc43322ea4b327a576840a359cf?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "efbe7aa677ce"
     },
     {
@@ -250,21 +289,21 @@
       "publishedAt": "2026-08-19T03:47:12.000Z",
       "image": "https://i.guim.co.uk/img/media/9f32ee616031ffc12c0e89c1c8ab06d19a7287ec/454_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4d726abe037885118d5fae6e756cf882",
       "topic": "经济",
-      "score": 81,
+      "score": 80,
       "id": "f747643aa087"
     },
     {
-      "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
-      "summary": "Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.",
-      "url": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "非洲",
-      "publishedAt": "2026-08-19T00:53:34.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 81,
-      "id": "5d10598d78ef"
+      "title": "Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice",
+      "summary": "Allowing jurors to stay in same hotel as police and prosecution denied Patterson a fair trial, lawyers tell Victorian court of appeal Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Lawyers for Erin Patterson have argued that allowing jurors to stay in the same hotel as police and the prosec",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/19/erin-patterson-mushroom-murders-appeal-jurors-catastrophic-failure-of-justice-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-19T06:52:34.000Z",
+      "image": "https://i.guim.co.uk/img/media/9a4e67d3924e4b34a60fb41a4b72df4689374a49/0_0_1592_1273/master/1592.jpg?width=140&quality=85&auto=format&fit=max&s=d21d97d5f5eef5779e24a40008011df5",
+      "topic": "政治",
+      "score": 79,
+      "id": "de4ae6ca2b28"
     },
     {
       "title": "Erin Patterson challenges convictions over mushroom lunch – as it happened",
@@ -276,7 +315,7 @@
       "publishedAt": "2026-08-19T06:36:24.000Z",
       "image": "https://i.guim.co.uk/img/media/834844df6e8c6268c3d928f8aa12c5c1c6dfb8c2/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=f87026d8f018e4e341d5fd95476cd245",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "88f0e6d7a660"
     },
     {
@@ -289,7 +328,7 @@
       "publishedAt": "2026-08-19T06:31:51.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "7306a18e69da"
     },
     {
@@ -302,8 +341,21 @@
       "publishedAt": "2026-08-19T06:27:30.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "8914b195a4bf"
+    },
+    {
+      "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
+      "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "美洲",
+      "publishedAt": "2026-08-19T03:56:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg",
+      "topic": "政治",
+      "score": 79,
+      "id": "6353e66c785c"
     },
     {
       "title": "SpaceX Starship the talk of remote Australian island as Elon Musk’s engineers sent to retrieve it",
@@ -315,34 +367,8 @@
       "publishedAt": "2026-08-19T06:24:23.000Z",
       "image": "https://i.guim.co.uk/img/media/3958e13ee66c94fb79d25a66c321dd90294d1a16/205_0_1590_1272/master/1590.jpg?width=140&quality=85&auto=format&fit=max&s=982a5e946e91bdb80d6fb3eb20dd101b",
       "topic": "科技",
-      "score": 79,
+      "score": 78,
       "id": "810b4bd733bc"
-    },
-    {
-      "title": "'Factory reset is a factory reset': ICAC told phone and iPad wiped",
-      "summary": "It comes as Dallas McInerney was asked to produce text messages between him and NSW Liberal Party figures central to the corruption probe.",
-      "url": "https://www.abc.net.au/news/2026-08-19/icac-rosny-hearings-dallas-mcinerney-wipes-phone/107054290",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-19T06:17:32.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/0a0b5afb64b585b01902d7d525150887?impolicy=wcms_crop_resize&cropH=702&cropW=1248&xPos=10&yPos=35&width=862&height=485",
-      "topic": "社会",
-      "score": 79,
-      "id": "133d862420c5"
-    },
-    {
-      "title": "UK inflation rises to 2.9% as Iran war fuels living costs squeeze",
-      "summary": "Higher energy costs push up CPI but jobs slowdown could deter Bank of England from raising interest rates Business live – latest updates UK inflation rose to 2.9% in July as the impact of the Iran war on energy prices triggered a renewed cost of living squeeze for British households. Underscoring the challenge for Andy Burnham’s government to give “breathing",
-      "url": "https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-19T06:01:13.000Z",
-      "image": "https://i.guim.co.uk/img/media/4ca22deedb3ea37ee229f3cd0b29ab2ac1cd8a2e/321_0_3143_2514/master/3143.jpg?width=140&quality=85&auto=format&fit=max&s=351096ccbc746fd3d71c7c18af5ea1fd",
-      "topic": "经济",
-      "score": 79,
-      "id": "2ec4999224f2"
     },
     {
       "title": "South Korea shortens war games with US, citing Washington request",
@@ -352,9 +378,9 @@
       "feed": "BBC World",
       "region": "亚洲",
       "publishedAt": "2026-08-19T05:53:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ad/live/375f2780-9b83-11f1-bdab-bd265066e1df.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b878/live/63dff0a0-9b9c-11f1-b109-879e35c24276.jpg",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "b2f96853e022"
     },
     {
@@ -367,21 +393,8 @@
       "publishedAt": "2026-08-19T05:34:06.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "6502bf1470d5"
-    },
-    {
-      "title": "Climate Change Drives Record-Breaking European Sea Temperatures",
-      "summary": "Climate Change Drives Record-Breaking European Sea Temperatures &nbsp;&nbsp; streamlinefeed.co.ke",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTFpEUGJpUldGZnRXTXRmaHg5OHR1RVdWM3BfOGR6eWdTY3lBRElJVVNITGxuNkRSX3hfWWpFTm9wM1dGLTluUmFvOXZsakNNOVFNeW1OS0hidkNxSjgxajBvN3JlZHktclZ6NTVOYzI3QzZRYnk5ZGtrdHkwUHF4MVpwVE9lNlpyOU9xY0x5WGxNbnVNX2F0eExKSGhOUQ?oc=5",
-      "source": "streamlinefeed.co.ke",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-19T05:33:49.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 79,
-      "id": "7f316b2762d6"
     },
     {
       "title": "Coalition vows to scrap VNI West transmission project in Victoria",
@@ -393,7 +406,7 @@
       "publishedAt": "2026-08-19T05:25:01.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/52bfcc079933a9ab6905e42e2f482bfc?impolicy=wcms_crop_resize&cropH=309&cropW=550&xPos=80&yPos=47&width=862&height=485",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "b18961deec75"
     },
     {
@@ -406,7 +419,7 @@
       "publishedAt": "2026-08-19T05:09:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "c7389d220340"
     },
     {
@@ -419,7 +432,7 @@
       "publishedAt": "2026-08-19T05:04:00.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f5b/live/9a846da0-9a4f-11f1-96c4-e7f87215742d.jpg",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "db5961b443a6"
     },
     {
@@ -432,7 +445,7 @@
       "publishedAt": "2026-08-19T04:55:00.000Z",
       "image": "https://e3.365dm.com/26/05/1920x1080/skynews-cheat-sheet-anna-and-kamali_7242111.png?20260508061705",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "84ac22c01a89"
     },
     {
@@ -445,7 +458,7 @@
       "publishedAt": "2026-08-19T02:18:25.000Z",
       "image": "https://i.guim.co.uk/img/media/9d5c19d1d2fb8cc1a332e36bb6c7886808938047/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b03dbd5cd5b80ec7ebfcd7c0c24f84a9",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "c806971772a4"
     },
     {
@@ -458,8 +471,21 @@
       "publishedAt": "2026-08-19T01:55:42.000Z",
       "image": "https://i.guim.co.uk/img/media/6e1bb8ab117dd77282720888c9f8c8df06d74067/845_15_4982_3985/master/4982.jpg?width=140&quality=85&auto=format&fit=max&s=80fc7c5a2dc15cd29a2a814ef184815c",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "5546ebc3339d"
+    },
+    {
+      "title": "Democrat Mary Peltola and Republican Dan Sullivan lead in Alaska primary for US Senate – US politics live",
+      "summary": "Incumbent Sullivan is running for third term while Peltola is fighting to flip seat and aid Democrats retake control of Congress The Guardian’s Chris Stein has more on the Alaska primary: Dan J Sullivan is a retired schoolteacher and US Forest Service employee living in the town of Petersburg in south-eastern Alaska, who is running as a Republican for the US",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/19/mary-peltola-dan-sullivan-alaska-primary-election-us-senate-florida-california-wyoming--donald-trump-us-politics-latest",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-19T07:39:14.000Z",
+      "image": "https://i.guim.co.uk/img/media/45b7fd2d28e47c87029bf05b371a20e14c31d3a9/222_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=dd47c04306b48555acc1823163b03c82",
+      "topic": "社会",
+      "score": 76,
+      "id": "49f1b647ec2d"
     },
     {
       "title": "John Irvin, British film-maker who directed Tinker Tailor Soldier Spy, dies aged 86",
@@ -471,7 +497,7 @@
       "publishedAt": "2026-08-19T04:31:11.000Z",
       "image": "https://i.guim.co.uk/img/media/0317ef4e32da6b25535eb2fa3c162d44f5df3cef/227_0_4401_3521/master/4401.jpg?width=140&quality=85&auto=format&fit=max&s=3d9d6cb01f161319d2b0917cd56b1bca",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "8fbdc80585bd"
     },
     {
@@ -484,8 +510,112 @@
       "publishedAt": "2026-08-19T01:41:20.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "91e5b27e950e"
+    },
+    {
+      "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
+      "summary": "Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.",
+      "url": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "非洲",
+      "publishedAt": "2026-08-19T00:53:34.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "5d10598d78ef"
+    },
+    {
+      "title": "European shares muted as mining gains offset Middle East jitters",
+      "summary": "European shares muted as mining gains offset Middle East jitters &nbsp;&nbsp; The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbC1OTGRtVWd0cExidERaZVQ1OXRZWEVhTnJiZFVRMjBiRHplMk9TZnVtZlBUMVMyaHNDTjVUbEJHZzVTWk5fOFhNcGp0TmxiUTY3WWZORE40aWM0TkF2VmZwdUhoTFhEZ25ueTFsNkhXX1Ixak1UbTA3anA4RkFiV3FVYUJkSXFEa2hnNVlKU0pJbENxOE1YTTB1MTRtNG9ORDlxNFY1NWJvT2RQQ2ZQeFMxUHo1WjQ2SHdaTUNlR2NKV1RyOU00NWxneTRnNTdEbUlGR3JPRklzQmcxN09FSXk1OG9vdzNnSVNEakRmNVJwc2ZVdmp3?oc=5",
+      "source": "The Lufkin Daily News",
+      "feed": "Middle East News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-19T07:28:28.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "56926e8e6ef6"
+    },
+    {
+      "title": "Governor-general 'shocked and troubled' by Sydney Swans allegation",
+      "summary": "Governor General Sam Mostyn says she is \"shocked and troubled\" by a sexual assault allegation linked to Sydney Swans players, declaring it an important reminder of the need for \"constant vigilance for respectful treatment of women everywhere\".",
+      "url": "https://www.abc.net.au/news/2026-08-19/governor-general-sam-mostyn-reacts-to-sydney-swans-allegations/107053984",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-19T07:23:05.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/afde59d13617e85d621e5d0445a209b8?impolicy=wcms_crop_resize&cropH=3445&cropW=6124&xPos=0&yPos=319&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "8a98560d2ae1"
+    },
+    {
+      "title": "Two men jailed over raping 14yo girl in back of van",
+      "summary": "Two men who sexually penetrated a child in a van with a mattress in the back and seats removed will serve at least a year in jail.",
+      "url": "https://www.abc.net.au/news/2026-08-19/two-men-jailed-for-rape-of-14yo-girl/107049244",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-19T07:20:24.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/15875fb2a13ee2ebced3bcc5659ce0a0?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "8cbcdb392659"
+    },
+    {
+      "title": "Australia's northern bases may be a 'juicy target' but the US is showing interest",
+      "summary": "Australia's northern borders are often highlighted as points of weakness but could the United States bolster our defences by making use of bare northern bases?",
+      "url": "https://www.abc.net.au/news/2026-08-19/could-united-states-use-bare-northern-based-for-defence-assets/107017430",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "美洲",
+      "publishedAt": "2026-08-19T07:14:54.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f9aa81b881973f2ef9e0c37193616df3?impolicy=wcms_crop_resize&cropH=2094&cropW=3722&xPos=1202&yPos=734&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "de9f35fc3ae8"
+    },
+    {
+      "title": "Sri Lanka Latest Breaking News and Headlines - Print Edition Accor debuts Pullman brand in Sri Lanka with two hotels - Daily Mirror",
+      "summary": "Sri Lanka Latest Breaking News and Headlines - Print Edition Accor debuts Pullman brand in Sri Lanka with two hotels &nbsp;&nbsp; Daily Mirror - Sri Lanka",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQXzdiNkRUcU44SHhPRFFYdl9CRmZJTzVYcXZvaFN1ZWt5bmt1c3BfX2hvYy1oMF9GODdfOTdmOWEtejQ3RmJqNVRQUVd6YWFFZ0diZUVFcVN3aHFjY0ZMNm9md0tiem1sMGhmUHgtaTVJSXl5LXlxaEdQWV82c3A3NWxHVkF1SXMyRmlaR1kySm5iQVM5cEpMcXNGakZVX252Q3NlME1KU2VoTUJHemF6N0VnSQ?oc=5",
+      "source": "Sri Lanka",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-19T07:11:01.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "2c3cc26284f4"
+    },
+    {
+      "title": "Man sentenced for murder of caring neighbour in Melbourne's outer-east",
+      "summary": "A man has been sentenced after admitting to murdering his neighbour in a drug-induced stabbing frenzy when his son ran over to her house to seek refuge.",
+      "url": "https://www.abc.net.au/news/2026-08-19/bayswater-murder-sentencing-milorad-zaric-vicki-apostolopoulos/107055300",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-19T07:06:59.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/34885fd77310171d04e007746a293b15?impolicy=wcms_crop_resize&cropH=286&cropW=508&xPos=0&yPos=93&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "3e858b344095"
+    },
+    {
+      "title": "Tassie growers spitting chips over Simplot spud contract",
+      "summary": "It's crunch time for Tasmanian potato growers in a contract dispute with US French fry giant, Simplot.",
+      "url": "https://www.abc.net.au/news/2026-08-19/tasmanian-potato-farmers-contract-dispute-with-simplot-continues/107053382",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-19T07:02:45.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a892214ca9524de1b5adc1598f6d782e?impolicy=wcms_crop_resize&cropH=1998&cropW=3552&xPos=0&yPos=409&width=862&height=485",
+      "topic": "科技",
+      "score": 75,
+      "id": "6c67f3e70ea2"
     },
     {
       "title": "Europe opens mixed amid CPI reports",
@@ -497,7 +627,7 @@
       "publishedAt": "2026-08-19T07:02:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "1d13f0044b11"
     },
     {
@@ -510,21 +640,8 @@
       "publishedAt": "2026-08-19T06:57:51.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "51f79b598d16"
-    },
-    {
-      "title": "Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice",
-      "summary": "Allowing jurors to stay in same hotel as police and prosecution denied Patterson a fair trial, lawyers tell Victorian court of appeal Lawyers for Erin Patterson have argued that allowing jurors to stay in the same hotel as police and the prosecution while they deliberated over their verdicts in the triple-murder trial represented a “catastrophic” failure of ",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/19/erin-patterson-mushroom-murders-appeal-jurors-catastrophic-failure-of-justice-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-19T06:52:34.000Z",
-      "image": "https://i.guim.co.uk/img/media/9a4e67d3924e4b34a60fb41a4b72df4689374a49/0_0_1592_1273/master/1592.jpg?width=140&quality=85&auto=format&fit=max&s=d21d97d5f5eef5779e24a40008011df5",
-      "topic": "政治",
-      "score": 76,
-      "id": "de4ae6ca2b28"
     },
     {
       "title": "Man faces court accused of defrauding over $200,000 intended for Indigenous community",
@@ -536,21 +653,8 @@
       "publishedAt": "2026-08-19T06:47:10.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/0605480f05740d33368026aa937f4ad8?impolicy=wcms_crop_resize&cropH=1226&cropW=2180&xPos=581&yPos=602&width=862&height=485",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "6b2a18ff6acb"
-    },
-    {
-      "title": "Trump pauses new tariffs on Canada for three days, saying countries close to a deal",
-      "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "美洲",
-      "publishedAt": "2026-08-19T03:56:35.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg",
-      "topic": "政治",
-      "score": 76,
-      "id": "439817118e23"
     },
     {
       "title": "UK's new PM messaged with person claiming to be Trump's chief of staff",
@@ -562,7 +666,7 @@
       "publishedAt": "2026-08-19T03:49:28.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/f8fa8e73fbfda6e3feb4ed950e64a02d?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=11&width=862&height=485",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "d8b0af2f865d"
     },
     {
@@ -575,11 +679,11 @@
       "publishedAt": "2026-08-18T23:59:43.000Z",
       "image": "",
       "topic": "气候",
-      "score": 76,
+      "score": 75,
       "id": "d3c1bf2cc057"
     },
     {
-      "title": "Bullying, discrimination in Tasmanian schools 'real, persistent', report finds",
+      "title": "Inquiry finds Catholic school discriminated against staff over sexual orientation",
       "summary": "An inquiry into bullying and discrimination within Tasmanian schools has made 33 recommendations, including a blanket call for \"all schools\" to implement anti-discrimination and anti-bullying policies.",
       "url": "https://www.abc.net.au/news/2026-08-19/tasmanian-school-discrimination-bullying-report-released/107053932",
       "source": "ABC Australia",
@@ -588,8 +692,8 @@
       "publishedAt": "2026-08-19T06:41:49.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/716d7995c096fdb37c1412156dfcfc6f?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 75,
-      "id": "085e0aa40901"
+      "score": 74,
+      "id": "038dcc1ded90"
     },
     {
       "title": "Number of trees to be removed from North Adelaide Golf Course 'not certain', court hears",
@@ -601,21 +705,34 @@
       "publishedAt": "2026-08-19T06:29:05.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d70eb6f61a47b063f9779b240c6b0ef7?impolicy=wcms_crop_resize&cropH=2807&cropW=4991&xPos=0&yPos=221&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "ebe2bfc8adb9"
     },
     {
       "title": "Price of Middle East conflict: Indian refiners forced to buy oil at premium; Russian discounts vanish",
-      "summary": "Price of Middle East conflict: Indian refiners forced to buy oil at premium; Russian discounts vanish &nbsp;&nbsp; timesofindia.indiatimes.com",
+      "summary": "Price of Middle East conflict: Indian refiners forced to buy oil at premium; Russian discounts vanish &nbsp;&nbsp; The Times of India",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPb0pqMXpva0FsMHhxcEo3WU9uNzRyajBCS3NPa1o1UWczeTFaRkNtY2todEhDeGhXeTlnZTExUURtT1lFV05mNFI3ZDZIcmNrZjlEQk9nQ2N2alhKOG0xNFpXWWtPQ09nb0tPQ2lpSTJxZlNGb1NWY1hubUhhYUN1MHZLR3JWc3VmWUJld0dZaVFxZ2JjNW9JbWUwWUswT3duOHE5MzRmaTA4NXVLVFhmTnZPMWZxSGd1blNvc205X3VTVk42bWpZUEo5U05vbEx0WGxQWjJmYktURVdIQmdsdVd2YkxJbDVxRkFYSVZJam1STmtvUDdoOGxMWFlUOTFGNmZONGpfc1l3UFR1R2NsRFBwSdIBmAJBVV95cUxQSFNzaGtLTmdCZDkzSW9fR2ttMGk2MGRQdVVaNDZ3V1NTbWVtNV9GWHRidVF5OGFNMkpZay1qX2NJX3hlXzBlY3NXUlRramw5aThjbDRaOHlUX0Y4MGNsaEJKOWZ6YlBRLW56MldPYnM4TmZRVHNtM3A2WXFPM25iMjh3TGJXWnFYSVMtelFuZFBGQzhtc08wS3NiU1o4WmFEdmxFRDU5T2FTX3M1Q184YlppdWRPRHE3ZVBQcnVFaEpMX0g2R252Y1VLRFE3WDRIakNyV3Y1b3NuSlg1bVE2TVA2c3lpMFBmR2xyVnRha0hFc0RNLVVrWjBHVzZ5b3h6bVhmcEJFQWlXQTZuS1IwUm1IbGFZZU9f?oc=5",
-      "source": "timesofindia.indiatimes.com",
+      "source": "The Times of India",
       "feed": "Middle East News Network",
       "region": "亚洲",
       "publishedAt": "2026-08-19T06:20:00.000Z",
       "image": "",
       "topic": "经济",
-      "score": 75,
-      "id": "fe92703396ea"
+      "score": 74,
+      "id": "5091dcdc5628"
+    },
+    {
+      "title": "'Factory reset is a factory reset': ICAC told phone and iPad wiped",
+      "summary": "It comes as Dallas McInerney was asked to produce text messages between him and NSW Liberal Party figures central to the corruption probe.",
+      "url": "https://www.abc.net.au/news/2026-08-19/icac-rosny-hearings-dallas-mcinerney-wipes-phone/107054290",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-19T06:17:32.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/0a0b5afb64b585b01902d7d525150887?impolicy=wcms_crop_resize&cropH=702&cropW=1248&xPos=10&yPos=35&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "133d862420c5"
     },
     {
       "title": "Scaling back US-South Korea drills may fail to woo Kim away from China",
@@ -627,7 +744,7 @@
       "publishedAt": "2026-08-19T06:16:53.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "fa4b2ae9eb51"
     },
     {
@@ -640,21 +757,8 @@
       "publishedAt": "2026-08-19T06:14:55.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/0a86c61d7dc1d366f35d47152fdd0192?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "7dd8a2862b88"
-    },
-    {
-      "title": "Sports News",
-      "summary": "Sports News &nbsp;&nbsp; LatestLY",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNN2pYcWNRN2I4bTZUSXh3WC1pWFhpZ3NPb3ZJMXpjYTZrZlNZNlZUbmI0a3JVSGlrb0s5NWNTMGNWTnNnYzdSZGh6SlNNSER5TzEzdlppNTl3WWZDRWxkTU93VlVOWHJfYzQyUlB0MlcwR0k2eTNSYVBXZHp2aTZCalo2dG81U3lPclBQeVdFbU5vQWpSQjg1amlmMTZkNjVXbmRtMEpwOFVKQUJsSmZEZFpPV1RzTDVMdzhxaTlGVS1KanVmQnBGY2g2QnlRb2d2STN4Yi13MC1XSVB5elJkclJsMW5NejduRUo4a0ZB0gHzAUFVX3lxTE0td2hEZ3piOVBWQ3RwV3FUV293LUk2VzN3OGJlb3I2b2JsLURNTUZmSk5LN2hDbEwtU1F1Q2JYaXMyZ1dES2FNd1BqMk03SGJPS2ZLWmRTMldvUjZ3MnpSM3hiYXFhaTMxVUlGR3J1RFcyNVBxdTA3NUd0UzE5cHVPUEJVdk9qV0d2RDZVcjl6elV0YTlVYVg2NHR4bGQtU09Yd1dMNGZzR1IxbjFod2hOQjVLTHhLbF9iel9hRmlaWGpkTXNTVzc1dV9uUEhjWDZPNHp4cU1aMGtVZjFlWmhIOWVQWFdoU1hPZkRyXzM5cHZuYw?oc=5",
-      "source": "LatestLY",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-19T06:14:28.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "2841d9da5a3c"
     },
     {
       "title": "Europe set to open mixed with inflation data in focus",
@@ -666,21 +770,8 @@
       "publishedAt": "2026-08-19T06:01:00.000Z",
       "image": "",
       "topic": "经济",
-      "score": 75,
+      "score": 74,
       "id": "dd056b84da16"
-    },
-    {
-      "title": "Men jailed for forcing man to urinate on partner in terrifying home invasion",
-      "summary": "The court hears a man was forced at gunpoint to urinate on his partner and walk her like a dog while their children were upstairs.",
-      "url": "https://www.abc.net.au/news/2026-08-19/josh-snow-day-county-court-maryborough-home-invasion/107054330",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-19T06:00:12.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6ef9c682cb07c53819c3d8514dde31ad?impolicy=wcms_crop_resize&cropH=4608&cropW=8192&xPos=0&yPos=357&width=862&height=485",
-      "topic": "政治",
-      "score": 75,
-      "id": "e8652bd860db"
     },
     {
       "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
@@ -692,7 +783,7 @@
       "publishedAt": "2026-08-19T03:12:06.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cfa/live/3fef0100-9b46-11f1-bd52-f9704e8e5c82.jpg",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "5dd70c8e8b2c"
     },
     {
@@ -705,34 +796,8 @@
       "publishedAt": "2026-08-19T03:00:48.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/3208565551791f4e55c8b8e19cdc4d4b?impolicy=wcms_crop_resize&cropH=1858&cropW=3303&xPos=0&yPos=80&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "baf885de8c75"
-    },
-    {
-      "title": "Trump pauses 50-percent tariff on Canada in last-minute deal",
-      "summary": "Washington and Ottawa announce agreement to delay new tariffs on Canadian exports shortly before midnight deadline.",
-      "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-19T02:35:15.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 75,
-      "id": "121523d98937"
-    },
-    {
-      "title": "Germany star says neurological issue behind two collapses in a week",
-      "summary": "Jamal Musiala opens up on the neurological issue that led to him collapsing on the field in a pair of Bayern Munich's friendlies this week.",
-      "url": "https://www.abc.net.au/news/2026-08-19/football-jamal-musiala-neurological-issue-behind-collapses/107053936",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-08-19T02:32:10.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/c4df5e57122c43c3e5ff444c852f6a22?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=362&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "a3fd2f061c51"
     },
     {
       "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
@@ -744,34 +809,21 @@
       "publishedAt": "2026-08-19T00:00:05.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "6f521ec72b20"
     },
     {
       "title": "Europe’s seas reach record heat as climate change threatens marine life",
-      "summary": "Europe’s seas reach record heat as climate change threatens marine life &nbsp;&nbsp; Inbox.eu",
+      "summary": "Europe’s seas reach record heat as climate change threatens marine life &nbsp;&nbsp; news.inbox.eu",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMXhhMndVM2MyM1phV3piZnpxS19jb3M2V2stY2h2M253TVpNaEFhYVZaSDFUdlZmQzFRMjRWbTBtWXJrRTdJZkNuNjd6Z3k3M1dubUtQczByREtOMHJfd2NTNEZZc2dUd2dERDRGVFU1YmNEWktJUmNoTEtTSUdoQUV3TkN6bnNOTDdzWW1qWmpybXBLRXBhY0t1ZjhndUFkcWZCRC1DRWk2Zjk2ODlfSjFTbw?oc=5",
-      "source": "Inbox.eu",
+      "source": "news.inbox.eu",
       "feed": "Europe News Network",
       "region": "欧洲",
       "publishedAt": "2026-08-18T23:34:08.000Z",
       "image": "",
       "topic": "气候",
-      "score": 75,
-      "id": "692a94533cf9"
-    },
-    {
-      "title": "US senator Jon Ossoff condemns Trump as ‘draft-dodging, crook president’",
-      "summary": "Potential presidential hopeful running for re-election in Georgia intensifies White House feud after remarks about ‘Natalie’ drew ire of president and allies The Democratic senator Jon Ossoff called Donald Trump a “draft-dodging, crook president” while defending the senator Mark Kelly as a hero during a Tuesday campaign appearance in Georgia, escalating his ",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/jon-ossoff-trump",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-18T23:32:53.000Z",
-      "image": "https://i.guim.co.uk/img/media/f6a6bda3d2c5b0c809ea78d0484a5b5d737e3f8a/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=746233e041b1dd2cb0b5b9a6210c4467",
-      "topic": "政治",
-      "score": 75,
-      "id": "763f6ba3271d"
+      "score": 74,
+      "id": "fc681fccc639"
     },
     {
       "title": "Do not cut benefits for disabled young people, dozens of UK charities urge ministers",
@@ -783,7 +835,7 @@
       "publishedAt": "2026-08-18T23:01:03.000Z",
       "image": "https://i.guim.co.uk/img/media/11c99ecd26ed20002446b5cec30bab256a989fd2/722_0_7217_5773/master/7217.jpg?width=140&quality=85&auto=format&fit=max&s=1c792b02a59a6cb707cbbb0898dfd73b",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "5566432eb9fd"
     },
     {
@@ -796,7 +848,7 @@
       "publishedAt": "2026-08-18T21:07:11.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "00a02f555abf"
     },
     {
@@ -809,21 +861,8 @@
       "publishedAt": "2026-08-19T05:28:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "b030ce1d75e8"
-    },
-    {
-      "title": "'Difficult to comprehend' that medics didn't notify authorities before fatal crash",
-      "summary": "The death of a woman in a two-vehicle crash in Adelaide's north in 2022 came after \"missed opportunities\" to remove vision-impaired driver Tristan Mourant — who \"knew he had medical advice not to drive\" — from the road, a coroner finds.",
-      "url": "https://www.abc.net.au/news/2026-08-19/vision-impaired-driver-tristan-mourant-crash-inquest-findings/107053992",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-19T05:26:39.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/26908134c23abb5446c10623dbd50923?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "235019e88102"
     },
     {
       "title": "Lebanon no longer a safe haven for former Syrian regime officials",
@@ -835,7 +874,7 @@
       "publishedAt": "2026-08-19T05:23:03.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "3a7dd53ddcb9"
     },
     {
@@ -848,7 +887,7 @@
       "publishedAt": "2026-08-19T05:12:54.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "9792dcaf4539"
     },
     {
@@ -861,7 +900,7 @@
       "publishedAt": "2026-08-19T05:12:01.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "4f94b05852bf"
     },
     {
@@ -874,8 +913,21 @@
       "publishedAt": "2026-08-19T04:56:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "ed43440a4fae"
+    },
+    {
+      "title": "US and Canada reach last-minute tariffs deal after 'intense' talks",
+      "summary": "Donald Trump has announced he has paused the imposition of 50% tariffs on more goods from Canada.",
+      "url": "https://news.sky.com/story/trump-pauses-tariffs-on-canada-after-last-minute-deal-13574545",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "美洲",
+      "publishedAt": "2026-08-19T02:27:00.000Z",
+      "image": "https://e3.365dm.com/26/07/1920x1080/skynews-trump-carney_7302900.jpg?20260721003217",
+      "topic": "经济",
+      "score": 73,
+      "id": "a2fea41f617d"
     },
     {
       "title": "BREAKING NEWS FROM Middle East: Ships Shift To Omani Route As Iran Loses Grip Over Hormuz | News18",
@@ -887,60 +939,8 @@
       "publishedAt": "2026-08-19T02:20:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "53751cb57060"
-    },
-    {
-      "title": "‘All trade, commercial exchanges halted’: How UAE responded to Iran’s latest ballistic missile attack",
-      "summary": "‘All trade, commercial exchanges halted’: How UAE responded to Iran’s latest ballistic missile attack &nbsp;&nbsp; timesofindia.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTkNHdG5tOS1BRUFkVmV5Qk1OTnI5empNZ042NTVUamxXT0dpRGlCeEo3cF9McVZaUnpnV0JWTlI5ckNab0dhdHMzY0JSNWE1X0J3cnMxSmJQWjAxc2swWVEtcVRIZlI3SlFfX0Q0M2pUV29hM1lieENVRnVJZ0VzYzEzeDV1RUhLOTdMX1VKWTZLbksxTHAwOEs5T01BN0tFRXZxLWY4RXlIYS00NzcwcUpReUtPTTdjNnAtTlVBdEZGSWU1dmJNcFlvSXlvblU2aVRpeGVKV3l5TElkOUdpdFRaSm1SVlFYVDhoYUtoSnRyWFNZbU00TFBFNTk3ODJyelJ2OFpLY9IBjAJBVV95cUxQcUlfLV9pTkNSS3lCWXRVMTNrSHZPNlNTYU5McGcwa1ZZZnhteEgwV3dod1pESE9tR2JwbzNMQzMyWjJWNEZQc1NIUWFWYkttX2lqUlhMT1hmRzRMUnFCeUZELWJEUEJEQWFUazVjNDdhWEM3Y0xwVWF6LXQxYVhlQW9Kc3F3Ny1sLWFreUp3Qmdadl96MXRZR2NOdmFIckxzSEpNbkt3em12YzFjRy1hb2ZQOUJOTGRRZ1NWTlVtLVBGWEdYVzdiYTZYMC1sYXNfbW41MVJySEtIM1M2LVhuQUhzNmcycFp5OHJDQkQ1VmxHc2JTQ3RrbGRzU3M0OGp6dm9lUEIySUxDbWd2?oc=5",
-      "source": "timesofindia.indiatimes.com",
-      "feed": "Middle East News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-19T02:05:00.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 74,
-      "id": "455746e0a3de"
-    },
-    {
-      "title": "US weighs scaling back Middle East military presence after months of Iranian attacks - report",
-      "summary": "US weighs scaling back Middle East military presence after months of Iranian attacks - report &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BUE5mYV9TdjJMN01XVFZqVm0tbGJ3clVFTzlKWVZKVHV4enNRSDlaNkxPZ3BPMVo0emM1UVJyRWhnRzMzd05aTkFhWGxvdTBudjd4QzcwXzlKMUl6N19F?oc=5",
-      "source": "The Jerusalem Post",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-19T01:40:55.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "2f1747bb5fcd"
-    },
-    {
-      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-      "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
-      "url": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-19T05:00:39.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d295/live/233416b0-9af4-11f1-930b-57cfba7235f9.jpg",
-      "topic": "社会",
-      "score": 73,
-      "id": "bafa150b468e"
-    },
-    {
-      "title": "Search for missing hiker to enter second week as ADF called in",
-      "summary": "Close to 100 members of the Australian Defence Force are now part of the search for Lily Hooper, who has been missing for seven days in Nattai National Park.",
-      "url": "https://www.abc.net.au/news/2026-08-19/lily-hooper-missing-bushwalker-nattai-national-park-search/107053472",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-19T04:56:25.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d08f19b6262b8a7b48912b03555f941a?impolicy=wcms_crop_resize&cropH=177&cropW=314&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "e5db8b8738ee"
     }
   ]
 }
