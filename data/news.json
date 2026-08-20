@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T14:03:19.910Z",
+  "updatedAt": "2026-08-20T14:57:53.457Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -7,17 +7,17 @@
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
     {
-      "title": "Oil hits over 3-week high on Middle East supply concerns amid war impasse",
-      "summary": "Oil hits over 3-week high on Middle East supply concerns amid war impasse &nbsp;&nbsp; The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOa2R4V2RqMzk1UXlqU00xSGZ1cWJnNXRaaG13Y1NsRFdGTXlLSDRQeEoyVWRWdVJ4OHozZllDV3g3Vlh1cDhsbmdxSzJ6VU1qRFZzN0hwQUFiZnZVQU91NzY4Q2hzNU9EQ0kzMEt0TlFhUHAzQzhTNHQ5TFJwcTh5SUh2dnJMcnExNVUzcURTdFE0VG4zSFZ4SEFXMnduSGYwSE9TYlVpMF8wUWtTeUFFUWh3NndVdjRib0E2MmNRU2p3cFNobEZoZG1nMjF1d0NKU05rTEpteUpYZEFsV3JYbUdTbnZJeWtIZk15UFBsRUpaRTRKakx0WlM0cGJNTm5KWFQ4?oc=5",
-      "source": "The Lufkin Daily News",
-      "feed": "Middle East News Network",
+      "title": "USS Washington arrives in Middle East after aircraft carrier outcry",
+      "summary": "Vessel expected to replace USS Lincoln after reports of dire conditions on board raised questions over US war planning.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
       "region": "中东",
-      "publishedAt": "2026-08-20T13:10:08.000Z",
+      "publishedAt": "2026-08-20T14:36:35.000Z",
       "image": "",
       "topic": "政治",
-      "score": 91,
-      "id": "4e0a517887d6"
+      "score": 96,
+      "id": "b668b217e02d"
     },
     {
       "title": "North Korea fires missiles into sea as South Korea, US hold military drills",
@@ -29,8 +29,21 @@
       "publishedAt": "2026-08-20T11:48:59.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/fc083f967bbaf219441bbb7f7d0d6e8f?impolicy=wcms_crop_resize&cropH=2744&cropW=4878&xPos=0&yPos=508&width=862&height=485",
       "topic": "政治",
-      "score": 90,
+      "score": 93,
       "id": "46bbf33163db"
+    },
+    {
+      "title": "Oil hits over 3-week high on Middle East supply concerns amid war impasse",
+      "summary": "Oil hits over 3-week high on Middle East supply concerns amid war impasse &nbsp;&nbsp; The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOa2R4V2RqMzk1UXlqU00xSGZ1cWJnNXRaaG13Y1NsRFdGTXlLSDRQeEoyVWRWdVJ4OHozZllDV3g3Vlh1cDhsbmdxSzJ6VU1qRFZzN0hwQUFiZnZVQU91NzY4Q2hzNU9EQ0kzMEt0TlFhUHAzQzhTNHQ5TFJwcTh5SUh2dnJMcnExNVUzcURTdFE0VG4zSFZ4SEFXMnduSGYwSE9TYlVpMF8wUWtTeUFFUWh3NndVdjRib0E2MmNRU2p3cFNobEZoZG1nMjF1d0NKU05rTEpteUpYZEFsV3JYbUdTbnZJeWtIZk15UFBsRUpaRTRKakx0WlM0cGJNTm5KWFQ4?oc=5",
+      "source": "The Lufkin Daily News",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-20T13:10:08.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 90,
+      "id": "4e0a517887d6"
     },
     {
       "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
@@ -42,7 +55,7 @@
       "publishedAt": "2026-08-20T13:56:25.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
       "topic": "政治",
-      "score": 89,
+      "score": 88,
       "id": "c981929daddd"
     },
     {
@@ -55,7 +68,7 @@
       "publishedAt": "2026-08-20T08:00:00.000Z",
       "image": "",
       "topic": "经济",
-      "score": 89,
+      "score": 88,
       "id": "e5b07e4adf9b"
     },
     {
@@ -68,7 +81,7 @@
       "publishedAt": "2026-08-20T10:41:25.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a600/live/64fb2200-9c07-11f1-b0bd-839fb1d8b591.jpg",
       "topic": "社会",
-      "score": 88,
+      "score": 87,
       "id": "0920c919f4e3"
     },
     {
@@ -81,8 +94,34 @@
       "publishedAt": "2026-08-20T10:25:29.000Z",
       "image": "https://i.guim.co.uk/img/media/f1aa4a62b7bca7ec7ccef5c7cec998317506896c/139_0_4632_3706/master/4632.jpg?width=140&quality=85&auto=format&fit=max&s=cb843d83df020307c5d80dcd9644006b",
       "topic": "政治",
-      "score": 88,
+      "score": 87,
       "id": "10db4fcb55d0"
+    },
+    {
+      "title": "Iran dismisses US economic threats and other developments in the Middle East",
+      "summary": "Iran dismisses US economic threats and other developments in the Middle East &nbsp;&nbsp; The Record",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTDZKVWY5SDNXTThhSVZFZ3o4MnBJRVJ4aS05VVZZcXI0cDdIbFI5d3h2aDY0X3VSRGNCVFZYaktNYmJYT2ZxU3dtejdXNmlGVm11LVB1N1M2OU4xbnNxc3N2TGxUQ2dfVlRncjk0WkpiaDlzTFpnZ0RiYnB6TlBwZ2tuSzVyZnRKdjI1N3luYjM5TFppTTdxTnBJRmVQd0cxU01MM2hvZkxhWTg3d0xpaGEtNTFZN0F1QTNjRFZlWmxjUkNpcjByZVhvdGVCeE1tOTZSbjVoWXNfZVl3alBCSnNaMFZHZ3ROQ1JUVmtB?oc=5",
+      "source": "The Record",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-20T10:15:31.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 87,
+      "id": "4a67b9fdee7c"
+    },
+    {
+      "title": "US says new aircraft carrier deployed to Middle East",
+      "summary": "US says new aircraft carrier deployed to Middle East &nbsp;&nbsp; Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNjJZNW1lQzFwLXJiWm1sOGtLRDFOQW04b1VxdWhPcjEwekFTeWZwYk1DVFVndjctWnljVEhwdFJ5Z3Q3UFBrOUNVeDBHLXA5dkpjWE5WS3llSTlzUC1IWmtwMjBLQW1qcXNtMERxRk96dFBsV1R5ckxOV2Q0WER3N1ZPSXNsdE04N1dMVU04ZDQxV2FSRmJrNHJRcEZOdw?oc=5",
+      "source": "Breakingthenews.net",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-20T12:13:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 85,
+      "id": "11ed9767e6dc"
     },
     {
       "title": "More than a dozen killed as Kyiv comes under intense Russian bombardment",
@@ -94,21 +133,60 @@
       "publishedAt": "2026-08-20T11:33:44.000Z",
       "image": "https://i.guim.co.uk/img/media/a64f5f689d31942cbd665d307efd0617e1b761d3/407_225_1593_1275/master/1593.jpg?width=140&quality=85&auto=format&fit=max&s=a1335ba0c69b5d3795ecbd00d2582027",
       "topic": "政治",
-      "score": 86,
+      "score": 85,
       "id": "481d7b2d714d"
     },
     {
-      "title": "Iran dismisses US economic threats and other developments in the Middle East",
-      "summary": "Iran dismisses US economic threats and other developments in the Middle East &nbsp;&nbsp; The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaUZRYkY3bjVwT1NhRklwQ0gyNVhvR0tCVTc2SGphN3F1QlNvc1hTdjlNUGlCeWgtVkVkU3BFWUtwOFo2T1dFY2NXeURhMnRFdUZkYjJsUmtNNjZDWnZFazJSZGlZd0VtQkJucWotbHB0LVFJVktOZDJaTjROMzFTZVVYVm5KRmZ2Zko0UmM1a1N5Qm0ya1ZWUDhZdWJ6b0dfZ1V4Wm1uWXZrbjlnTTFjWG9TeHpBZk9KWllVdUt3T0Fyc0tsckJvRlVBUVl2ZU12UVJNYV9icWs2ZU5WcGpwNEdiY1NtMGhKRHZCNDByM21EM0laa0NF0gH3AUFVX3lxTFBpRlFiRjduNXBPU2FGSXBDSDI1WG9HS0JVNzZIamE3cXVCU29zWFN2OU1QaUJ5aC1WRWRTcEVZS3A4WjZPV0VjY1d5RGEydEV1RmRiMmxSa002NkNadkVrMlJkaVl3RW1CQm5xai1scHQtUUlWS05kMlpONE4zMVNlVVhWbkpGZnZmSjRSYzVrU3lCbTJrVlZQOFl1YnpvR19nVXhabW5ZdmtuOWdNMWNYb1N4ekFmT0paWVV1S3dPQXJzS2xyQm9GVUFRWXZlTXZRUk1hX2JxazZlTlZwanA0R2JjU20waEpEdkI0MHIzbUQzSVprQ0U?oc=5",
-      "source": "The Economic Times",
+      "title": "White House faces scrutiny over top Trump aide Natalie Harp – live",
+      "summary": "Harp, a former One America News Network show host, has emerged as a key gatekeeper to the president Sign up for the US Breaking News email A White House meeting on cryptocurrency and is amplifying a spike in bitcoin values Thursday. President Donald Trump – who disclosed US$1.4 billion in cryptocurrency earnings from his family’s investments in 2025 – is pus",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "美洲",
+      "publishedAt": "2026-08-20T14:40:42.000Z",
+      "image": "https://i.guim.co.uk/img/media/ec78ebcda8b0738035dcb14328438c1fab93d3f8/223_0_4073_3260/master/4073.jpg?width=140&quality=85&auto=format&fit=max&s=67a1f3504f608565ad8de624f5239749",
+      "topic": "政治",
+      "score": 84,
+      "id": "9c490e199476"
+    },
+    {
+      "title": "At least 13 workers killed in landslide at Colombian gold mine",
+      "summary": "Four members of an indigenous family are among the dead, witnesses said.",
+      "url": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "美洲",
+      "publishedAt": "2026-08-20T14:34:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8167/live/e00ffeb0-9c99-11f1-a38b-8bb91d2ef80e.png",
+      "topic": "社会",
+      "score": 84,
+      "id": "174c099eb216"
+    },
+    {
+      "title": "New US carrier strike group arrives in Middle East",
+      "summary": "New US carrier strike group arrives in Middle East &nbsp;&nbsp; LBCI Lebanon",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUV9NUzlGaFkxV0dKWG5VYU9nM3FCMU1kZzU4b3VXb0xBWmNkX0NJU1dZVjNORHFUMzhYSG1Cc2Q5cjREeGhBN2lmdmpsRVRab2lyajFXMHR2emxzSUZYdDA2ZVhtdldKS3NEWFc1eE4zTDdPQTVPTVlMRUR0QnJDX3ZkM0o2Qmdpc21NTk5pcUZ6clMyUWN5bEZKQjYyU3VHNnc?oc=5",
+      "source": "LBCI Lebanon",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-20T11:43:00.000Z",
+      "publishedAt": "2026-08-20T14:31:10.000Z",
       "image": "",
       "topic": "社会",
-      "score": 85,
-      "id": "9cf5c82bf21b"
+      "score": 83,
+      "id": "f9324a8e2ba2"
+    },
+    {
+      "title": "EU’s von der Leyen warns of ‘escalating campaign of threats’ as Romania destroys naval drone – Europe live",
+      "summary": "Device was near country’s Neptun Deep gas platform in the Black Sea Romania’s military has destroyed a marine drone spotted just “a few hundred meters” from the Neptun Deep platform, a major offshore gas project in the Black Sea. The drone, spotted just “a few hundreds of meters” from the gas extraction works at the Neptun Deep platform located some 80 miles",
+      "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-20T14:04:14.000Z",
+      "image": "https://i.guim.co.uk/img/media/7214ea56392894e1c394cec5f2e922223c61f631/342_0_924_739/master/924.jpg?width=140&quality=85&auto=format&fit=max&s=9eae1ea9bd76b0154fbe73a92b0411c4",
+      "topic": "政治",
+      "score": 83,
+      "id": "5a40d7fe958d"
     },
     {
       "title": "Ex-defence chief’s call for wartime election raises pressure on Zelenskyy",
@@ -120,7 +198,7 @@
       "publishedAt": "2026-08-20T13:32:55.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "6a58a45e7f08"
     },
     {
@@ -133,34 +211,8 @@
       "publishedAt": "2026-08-20T13:14:14.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "5167ddc1b954"
-    },
-    {
-      "title": "White House faces scrutiny over top Trump aide Natalie Harp – live",
-      "summary": "Harp, a former One America News Network show host, has emerged as a key gatekeeper to the president Sign up for the US Breaking News email James Braid, the longest-serving legislative affairs director of Trump’s presidency, is leaving the White House ahead of the midterms. Braid navigated the cabinet confirmations of controversial appointees like that of Pet",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-08-20T13:13:01.000Z",
-      "image": "https://i.guim.co.uk/img/media/ec78ebcda8b0738035dcb14328438c1fab93d3f8/223_0_4073_3260/master/4073.jpg?width=140&quality=85&auto=format&fit=max&s=67a1f3504f608565ad8de624f5239749",
-      "topic": "政治",
-      "score": 84,
-      "id": "9c490e199476"
-    },
-    {
-      "title": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
-      "summary": "Funerals take place weeks after the bodies of 112 Palestinians were buried in another mass funeral.",
-      "url": "https://www.aljazeera.com/news/2026/8/20/gaza-holds-mass-funeral-for-50-palestinians-killed-in-israeli-genocidal-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-20T13:05:05.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 84,
-      "id": "521e92cd2136"
     },
     {
       "title": "Evergrande founder sentenced to life in prison by Chinese court",
@@ -172,7 +224,7 @@
       "publishedAt": "2026-08-20T07:38:23.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/f035d2f7575e290e296163bba2560e32?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "98b0fecffa27"
     },
     {
@@ -185,7 +237,7 @@
       "publishedAt": "2026-08-20T07:32:52.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/73997edbd60b57f4c724f2e900ce2121?impolicy=wcms_crop_resize&cropH=185&cropW=329&xPos=0&yPos=122&width=862&height=485",
       "topic": "社会",
-      "score": 84,
+      "score": 83,
       "id": "8a4338c2ccd4"
     },
     {
@@ -198,8 +250,60 @@
       "publishedAt": "2026-08-20T07:25:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "5b0cae448d59"
+    },
+    {
+      "title": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
+      "summary": "Funerals take place weeks after the bodies of 112 Palestinians were buried in another mass funeral.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/gaza-holds-mass-funeral-for-50-palestinians-killed-in-israeli-genocidal-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-20T13:05:05.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 82,
+      "id": "521e92cd2136"
+    },
+    {
+      "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
+      "summary": "Iran's foreign minister has dismissed Trump’s latest threats, calling them a “diversion\" from America’s own crisis.\"",
+      "url": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-20T14:40:51.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 80,
+      "id": "4b76197d4e26"
+    },
+    {
+      "title": "USS George Washington arrives in Middle East to relieve USS Abraham Lincoln",
+      "summary": "USS George Washington arrives in Middle East to relieve USS Abraham Lincoln &nbsp;&nbsp; Roya News",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yN2JJaDY2Q3UtdVAxdmhLU2dwbkF2ZkNBN2hUZEtrS0lWQUxLUVliYlVRblVQTmRZOWtpMko3a2tNeTc5aEVyVA?oc=5",
+      "source": "Roya News",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-20T14:40:40.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 80,
+      "id": "1ce193475151"
+    },
+    {
+      "title": "Racism and sexism have become normalised in Britain, says equalities minister",
+      "summary": "Exclusive: Bridget Phillipson says politicians have helped fuel hatred and that police are not taking violence against women and girls seriously enough UK politics live – latest updates Racism and sexism have become normalised in Britain, the equalities minister has said, as she warned that young men were being sucked into violent misogyny by the “cesspit” o",
+      "url": "https://www.theguardian.com/politics/2026/aug/20/racism-and-sexism-have-become-normalised-in-britain-says-equalities-minister-bridget-phillipson",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-20T14:36:41.000Z",
+      "image": "https://i.guim.co.uk/img/media/c192ea63d9e3bd35f85737ed7c7c87299e87b304/2688_243_2768_2214/master/2768.jpg?width=140&quality=85&auto=format&fit=max&s=c7aa912aa8d5b6e8d04804ed688a378d",
+      "topic": "政治",
+      "score": 80,
+      "id": "d7f94527b0ca"
     },
     {
       "title": "Former Liberian vice-president charged in drug-trafficking probe",
@@ -211,7 +315,7 @@
       "publishedAt": "2026-08-20T11:08:19.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1198/live/e20af280-9c24-11f1-8f4f-835961d63624.jpg",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "d9ab068ca74d"
     },
     {
@@ -224,47 +328,21 @@
       "publishedAt": "2026-08-20T11:00:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "747258a6c3e7"
     },
     {
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-08-20T04:17:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
-      "topic": "社会",
-      "score": 81,
-      "id": "776d85f4819e"
-    },
-    {
-      "title": "Racism and sexism have become normalised in Britain, says equalities minister",
-      "summary": "Exclusive: Bridget Phillipson says politicians have helped fuel hatred and that police of not taking violence against women and girls seriously enough Racism and sexism have become normalised in Britain, the equalities minister has said, as she warned that young men were being sucked into violent misogyny by the “cesspit” of social media. Bridget Phillipson ",
-      "url": "https://www.theguardian.com/politics/2026/aug/20/racism-and-sexism-have-become-normalised-in-britain-says-equalities-minister-bridget-phillipson",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-20T14:00:16.000Z",
-      "image": "https://i.guim.co.uk/img/media/c192ea63d9e3bd35f85737ed7c7c87299e87b304/2688_243_2768_2214/master/2768.jpg?width=140&quality=85&auto=format&fit=max&s=c7aa912aa8d5b6e8d04804ed688a378d",
+      "title": "Trump’s war on Stars and Stripes: Why has military newspaper chief quit?",
+      "summary": "Longtime Stars and Stripes publisher Max D Lederer Jr announced his resignation over clashes with the Pentagon.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-20T14:10:01.000Z",
+      "image": "",
       "topic": "政治",
-      "score": 80,
-      "id": "d7f94527b0ca"
-    },
-    {
-      "title": "EU’s von der Leyen warns of ‘escalating campaign of threats’ as Romania destroys naval drone – Europe live",
-      "summary": "Device was near country’s Neptun Deep gas platform in the Black Sea Romania’s military has destroyed a marine drone spotted just “a few hundred meters” from the Neptun Deep platform, a major offshore gas project in the Black Sea. The drone, spotted just “a few hundreds of meters” from the gas extraction works at the Neptun Deep platform located some 80 miles",
-      "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-20T13:27:05.000Z",
-      "image": "https://i.guim.co.uk/img/media/7214ea56392894e1c394cec5f2e922223c61f631/342_0_924_739/master/924.jpg?width=140&quality=85&auto=format&fit=max&s=9eae1ea9bd76b0154fbe73a92b0411c4",
-      "topic": "政治",
-      "score": 80,
-      "id": "5a40d7fe958d"
+      "score": 79,
+      "id": "fc33436293d7"
     },
     {
       "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert - ABC News",
@@ -276,7 +354,7 @@
       "publishedAt": "2026-08-20T09:44:39.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "579d3ed7b8f8"
     },
     {
@@ -289,7 +367,7 @@
       "publishedAt": "2026-08-20T07:43:54.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "bf8eff0fc0f4"
     },
     {
@@ -302,8 +380,34 @@
       "publishedAt": "2026-08-20T04:18:16.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "0772e1b408d4"
+    },
+    {
+      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-08-20T04:17:53.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
+      "topic": "社会",
+      "score": 79,
+      "id": "776d85f4819e"
+    },
+    {
+      "title": "Von der Leyen warns of a hybrid war to fracture the EU after the fall of a drone in Romania",
+      "summary": "Von der Leyen warns of a hybrid war to fracture the EU after the fall of a drone in Romania &nbsp;&nbsp; Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdUp5WUFyaWIwdUdIU0EwN0ZULUJRcDBPNER5V0dBcFM5eF8xM185RjFyaE1SbEpLLTVBcEYxU25BMGUtSGFHYUgyLTBkWEFxSXZCd2Nsb1dyY0JtLWUzZEMwNEJLZGRlUHJmWWlZZW5qRXhrYmdPRFhWM0MwNkQzd29iUEplZ0FMRGZEZHRsOFRJbG5QMHhXa2lwTllkclJGeUcwY29Fd1I2dmJIY3pJTHlwOUl2bTRIUHZIZFdFV3YyZmsyNXVMOERsM0ZrUFnSAdQBQVVfeXFMUDB4WWtRNUZWckd1dFE0MFFLaVVsWXV4eEV2VEhseFktVUVtTWpPbko4Z1NRbmNuenNxZENoc0U0UXo2Q0VhckZHSWxYZ053YmJWeEZHNWNsb01jVnJLZVJJT3ZtMVZ6dHRuTkMzd3RXbTJkeENrQ3QtRmJCdU1QdW0xX0tBZk4zbU4xcDRVWXdQbnEzWHVTbmsyRThyQm53TVBuWnJ1RjgzelJXb0dnc3B6dkZmUDUzQVlsUW5la2pHd3VrLXIyeDNCdWo5dlJ1UnJpREY?oc=5",
+      "source": "Demócrata",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-20T13:20:35.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 78,
+      "id": "71a3787d0ac5"
     },
     {
       "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
@@ -315,7 +419,7 @@
       "publishedAt": "2026-08-20T13:04:15.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cda/live/49f9c620-9c87-11f1-95d8-5b0dba89a322.jpg",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "ad5f9d38bf51"
     },
     {
@@ -328,7 +432,7 @@
       "publishedAt": "2026-08-20T13:00:53.000Z",
       "image": "https://i.guim.co.uk/img/media/f0088710a843d3ca57b06744c0540133201e6c0a/1132_652_3868_3094/master/3868.jpg?width=140&quality=85&auto=format&fit=max&s=574d0a00bb43008ec83555c986e4b2e8",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "0bec43bfbcb4"
     },
     {
@@ -341,21 +445,8 @@
       "publishedAt": "2026-08-20T12:55:30.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "7583bb82c47f"
-    },
-    {
-      "title": "Assad officer extradited to Syria on war crimes charges for first time",
-      "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-08-20T12:38:35.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30c/live/97ccfe50-9c8a-11f1-aed2-8d6da8d75094.jpg",
-      "topic": "政治",
-      "score": 79,
-      "id": "08daca694804"
     },
     {
       "title": "North Korea fires a suspected missile toward the sea, Japan says",
@@ -367,7 +458,7 @@
       "publishedAt": "2026-08-20T09:24:45.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "6194334b54ab"
     },
     {
@@ -380,8 +471,21 @@
       "publishedAt": "2026-08-20T09:23:42.000Z",
       "image": "https://i.guim.co.uk/img/media/83d9f187d7745bdb7093eec058e83d69e4c7e708/356_0_3160_2528/master/3160.jpg?width=140&quality=85&auto=format&fit=max&s=d915e6235f0e7b404e372ce408b1ea45",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "f4c405fb562b"
+    },
+    {
+      "title": "Assad officer extradited to Syria on war crimes charges for first time",
+      "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-08-20T12:38:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30c/live/97ccfe50-9c8a-11f1-aed2-8d6da8d75094.jpg",
+      "topic": "政治",
+      "score": 77,
+      "id": "08daca694804"
     },
     {
       "title": "‘You have got to go’: former NSW minister tells Icac ‘something strange at play’ when she was sacked by Perrottet",
@@ -393,34 +497,8 @@
       "publishedAt": "2026-08-20T12:21:52.000Z",
       "image": "https://i.guim.co.uk/img/media/bd59c5f897561b7665279aba2279b959a6addace/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=f022b1af756a2c271006ac0bb18b9af0",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "76199531c3c1"
-    },
-    {
-      "title": "Bangladesh’s government under pressure as youth demand jobs",
-      "summary": "Six months into Prime Minister Tariq Rahman’s term, Bangladesh faces an energy crisis and rising prices.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-20T11:49:36.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 78,
-      "id": "429af2b38fd8"
-    },
-    {
-      "title": "Como mayor bans bikes in city centre after being hit ‘by one of these beasts’",
-      "summary": "Alessandro Rapinese denies he is waging personal vendetta against cyclists amid a public backlash The mayor of Como has set the wheels of controversy in motion for banning bikes in the walled historical centre of the lakeside city after being hit by one. Alessandro Rapinese’s ban, which comes into force in September, targets about 30 streets and means cyclis",
-      "url": "https://www.theguardian.com/world/2026/aug/20/lake-como-italy-mayor-bans-bikes-city-centre-after-being-hit",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-20T11:45:21.000Z",
-      "image": "https://i.guim.co.uk/img/media/34b84e0b8f6ed7a9779f5d12ca3f108e701b87f4/0_1898_3952_3159/master/3952.jpg?width=140&quality=85&auto=format&fit=max&s=4395e2c08df95ee9ed208fde18556d66",
-      "topic": "社会",
-      "score": 78,
-      "id": "94f31c35c46c"
     },
     {
       "title": "Europe sees record-breaking sea temperatures",
@@ -432,8 +510,47 @@
       "publishedAt": "2026-08-20T11:41:27.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "c256a30df799"
+    },
+    {
+      "title": "Burnham says fly-tippers will be forced to pay for the clean-up when they dump waste illegally – UK politics live",
+      "summary": "The prime minister plans to bring in the National Crime Agency to tackle the gangs behind dumps Value being generated by student loans is “not what it should be”, Reform UK’s deputy leader said. Asked by reporters about the funding of the scheme by stopping foreign students accessing loans, Richard Tice said: Regarding the funding of this, cash is cash. Whet",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-20T14:34:56.000Z",
+      "image": "https://i.guim.co.uk/img/media/4d10d26edc19776d319f958f2ba742ba7760a848/604_0_4410_3528/master/4410.jpg?width=140&quality=85&auto=format&fit=max&s=c6d8cf83d1f321d2889b998f87871353",
+      "topic": "政治",
+      "score": 76,
+      "id": "637aba316e88"
+    },
+    {
+      "title": "Bangladesh’s government under pressure as youth demand jobs",
+      "summary": "Six months into Prime Minister Tariq Rahman’s term, Bangladesh faces an energy crisis and rising prices.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-20T11:49:36.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 76,
+      "id": "429af2b38fd8"
+    },
+    {
+      "title": "Como mayor bans bikes in city centre after being hit ‘by one of these beasts’",
+      "summary": "Alessandro Rapinese denies he is waging personal vendetta against cyclists amid a public backlash The mayor of Como has set the wheels of controversy in motion for banning bikes in the walled historical centre of the lakeside city after being hit by one. Alessandro Rapinese’s ban, which comes into force in September, targets about 30 streets and means cyclis",
+      "url": "https://www.theguardian.com/world/2026/aug/20/lake-como-italy-mayor-bans-bikes-city-centre-after-being-hit",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-20T11:45:21.000Z",
+      "image": "https://i.guim.co.uk/img/media/5ab5678f69b7e587ece2a8f65b0251ec771dc705/285_0_3504_2804/master/3504.jpg?width=140&quality=85&auto=format&fit=max&s=b5e93a96b66f3bdaa430c1cdc17f453f",
+      "topic": "社会",
+      "score": 76,
+      "id": "94f31c35c46c"
     },
     {
       "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
@@ -445,34 +562,86 @@
       "publishedAt": "2026-08-20T11:30:18.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "8cfe4152ed42"
     },
     {
-      "title": "Burnham says fly-tippers will be forced to pay for the clean-up when they dump waste illegally – UK politics live",
-      "summary": "The prime minister plans to bring in the National Crime Agency to tackle the gangs behind dumps Value being generated by student loans is “not what it should be”, Reform UK’s deputy leader said. Asked by reporters about the funding of the scheme by stopping foreign students accessing loans, Richard Tice said: Regarding the funding of this, cash is cash. Whet",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
+      "title": "Lewes rail line to reopen in September as work under way to remove train",
+      "summary": "Derailed carriages lifted using two cranes as workers operate under ‘very challenging circumstances’ Business live – latest updates The East Sussex railway line on which a train derailed will reopen in September as crews continue to remove the carriages that left the track. Rail bosses said they were prioritising reopening the route before the end of the sch",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/20/lewes-rail-line-reopen-september-work-under-way-remove-train",
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "全球",
-      "publishedAt": "2026-08-20T13:56:00.000Z",
-      "image": "https://i.guim.co.uk/img/media/4d10d26edc19776d319f958f2ba742ba7760a848/604_0_4410_3528/master/4410.jpg?width=140&quality=85&auto=format&fit=max&s=c6d8cf83d1f321d2889b998f87871353",
-      "topic": "政治",
-      "score": 76,
-      "id": "637aba316e88"
+      "publishedAt": "2026-08-20T14:13:34.000Z",
+      "image": "https://i.guim.co.uk/img/media/91ed6a5e9c9c5731c0026e06076d2753cd6c4ca4/0_0_1411_1129/master/1411.jpg?width=140&quality=85&auto=format&fit=max&s=9f3b003de30c7406ef4d0a80773078ab",
+      "topic": "经济",
+      "score": 75,
+      "id": "62448375559b"
     },
     {
-      "title": "Funeral for 50 Palestinians recovered from Gaza rubble",
-      "summary": "A funeral has been held in Gaza for 50 Palestinians whose bodies were recently recovered from the rubble.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-20T13:39:38.000Z",
+      "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
+      "summary": "Trade body says local chains would have to balance concerns with potential benefits of AI-enabled technology Cinemas across the UK are considering banning customers from wearing Meta’s smart glasses amid fears they could be used to pirate films. The UK Cinema Association (UKCA) trade body said that a number of local chains could end up introducing policies t",
+      "url": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-20T14:06:32.000Z",
+      "image": "https://i.guim.co.uk/img/media/092980621b33770617e1cd5770cc6ae9ff39734f/121_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=ac4b177d2008a52db2a8309469378a01",
+      "topic": "经济",
+      "score": 75,
+      "id": "873cb7a2ae2e"
+    },
+    {
+      "title": "NFF Given 24 Hours to Resign as Nigerian Football Crisis Deepens",
+      "summary": "NFF Given 24 Hours to Resign as Nigerian Football Crisis Deepens &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWjJpVzJsZTdUM2tKNndCSVdGcU11cTJiUzUwSFIzWVoza1NyNWg2Q1ZpQ3VwT0NjaGF6dkRmUnRQeThGSFZmcHQ3bGhDSTQzekZYeF90ZlFpd3ZVTDBVLS0yVm91Tk9DX0tLTWJTb05iSHpRRlRfaUpSd0Q4RUFlV0lXLWplSy05S0F0TzNUUVhnNDZKMVJzVjVLaUc?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-20T14:03:04.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
-      "id": "96ac94619b9c"
+      "score": 75,
+      "id": "8f97859c9bf4"
+    },
+    {
+      "title": "Trump plan to allow drilling near US world heritage site sparks alarm",
+      "summary": "Administration’s plan to scrap drilling-free buffer zone around New Mexico site prompts scrutiny from Unesco The Trump administration’s push to expand oil and gas extraction across the US is set to bring drilling near cherished natural and cultural sites, raising alarm among conservationists and prompting questions from the UN’s heritage body. Unesco said it",
+      "url": "https://www.theguardian.com/us-news/2026/aug/20/trump-oil-drilling-world-heritage-site-new-mexico",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "美洲",
+      "publishedAt": "2026-08-20T14:00:57.000Z",
+      "image": "https://i.guim.co.uk/img/media/cbebb6d23025b15804dfb0b7a3292e549a58cacf/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=35377430cb91a321cb44c042ee1afd71",
+      "topic": "经济",
+      "score": 75,
+      "id": "64ccaf0a3fac"
+    },
+    {
+      "title": "‘It kept adding up’: how add-on utility fees can lead to eviction for tenants",
+      "summary": "Tenants can be evicted for not paying utilities even if they have paid rent – tenants and their allies are fighting back This story was supported and co-published by the journalism non-profit the Economic Hardship Reporting Project In 2024, Constance Soule got a surprise from her landlord: a “notice of termination” that gave her 10 days to move out of her ap",
+      "url": "https://www.theguardian.com/us-news/2026/aug/20/utility-fees-tenants-eviction",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-20T14:00:54.000Z",
+      "image": "https://i.guim.co.uk/img/media/28d8768f2a9ef2074390709a3f9b6af4b044fea2/107_0_3099_2480/master/3099.jpg?width=140&quality=85&auto=format&fit=max&s=9072ace6d5ea1bebf2d5e76e79a4ad17",
+      "topic": "社会",
+      "score": 75,
+      "id": "ebc8dc713a09"
+    },
+    {
+      "title": "The EU criticizes Putin's visit to the Kurils and warns that it \"undermines efforts towards a peaceful resolution.\"",
+      "summary": "The EU criticizes Putin's visit to the Kurils and warns that it \"undermines efforts towards a peaceful resolution.\" &nbsp;&nbsp; Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMG9pQ2xVNkcyNEw2VW5vdEVGc2VwX3JEdGhsX2IxVkh3NHlydmQ4ZDBxOExPWVFLOXB6UGFIWC1MTlRUYUxfakdPU1ZpTTJmeGw2dU1CRWFFWkJFUUVmT2o1ZGdaX2VvYnNfU3FCekdzNzZtOFZzOERsS1FETUo4RFp4MVNSUkZTcmNMa1JSTlk3aHZZWXBhMGFxSGp3X0lTQ0llYU8xaWw5Vk1tMUYybFpQTFQ2UU85emdIazY4RGwyRlhwdjQ3YU16MDkwbzdaS05WU0ZVdzIzSmhQZ0Rmd01YaktKbFNScTJN0gHwAUFVX3lxTE14NzZQRHR6UlBXa29lNWhQTll1UFhJakVHdFd3MjVQYWtxMUdDdnBGQzlPcE50MHR0Zjlmc2xGNTVRY2g3M1BWc3dGNDVSNjcxaG1jdGlBcmdYcEJGcGRWN2JaV0FMN29peS1RYXZVTk1SRHRMa0FTU3NwN09qRV9kMG9GcUE0TmpxWk1MT1VYMWw1LVRKNm1WT1NFVUgxWXYzTlR0OTExSGdRVVRYckRTSnQ0cEIxa1BZdkI5MnByX3I4ZXk5cDJPeWd4akpWQUp4cDUyMlRxSEVaeWJScDZKLUpxRko3cVhmQjdNNG10bw?oc=5",
+      "source": "Demócrata",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-20T13:40:31.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "f9b5d7fc6172"
     },
     {
       "title": "mine collapse-africa",
@@ -484,21 +653,8 @@
       "publishedAt": "2026-08-20T10:15:57.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "c00bd7d0ec11"
-    },
-    {
-      "title": "API Summit: Breaking ground on accelerating African hotel builds",
-      "summary": "API Summit: Breaking ground on accelerating African hotel builds &nbsp;&nbsp; Bizcommunity",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3BBdHR5UzZWQlJIMXJfRGEtLV8wSmxBSkZuNk81bWo0VnJMWUxzcWRzbmhrdmg0OW1SWmk5b3JkaS1KUU5sYU4ydzJQZi1IZFgyQW9OVVphbjFHRk9zeG9QN1gwdHJmb0ZzYklra3hYZ2ZiaXowWGNvYVJBaXRrUVBJcVFoT2c1MGg2NV9keHk4QlhKdXVEM1NHN2V5a2lJdDczNTMtUnh3ZGg4?oc=5",
-      "source": "Bizcommunity",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-20T09:54:37.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "7aeff505d443"
     },
     {
       "title": "Evergrande founder Hui Ka Yan sentenced to life in prison",
@@ -510,8 +666,34 @@
       "publishedAt": "2026-08-20T07:40:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "a3c4e1935e20"
+    },
+    {
+      "title": "Central African Republic Gold Mine Landslide Kills At Least 100, Rescue Operations Underway",
+      "summary": "Central African Republic Gold Mine Landslide Kills At Least 100, Rescue Operations Underway &nbsp;&nbsp; WION",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWnNaUkhyOVJwT05JbEZOZm1GQkdzS181MWpMQW03RlJmNFFzTVdCS0I2TnVhdm1xT01XRzYtZDdlYUNscWF1SlZBQk1RMmtHYkQxV05qbmVIMnJSeHNnMVVCQVluMFRUTUZsVENHTWNUdkx1V0tJcUhHUzdlSmVjbmQ4Qy14Z0QxMm5VTzRUUjFMOHFkQ1BYVnU4ckl6MFhOZmJHMzEtT0JteHNJVEJyRUpldUZFNkRJUi1QMnNXdHRPS0RIVE5aNkpMM2JZOE9O0gHWAUFVX3lxTFBUVVpPV0h6TEpXUUhuWUp4aWlTS25xWWJkMGdCZWc0aDFBWnhrcFhNVmE3UGpwcFdCQ3lRdnV2UTZVM3A3SGxRUHM4aUZKUU84UnYtR05LVVFyeFM0eTBfQW4yVnBrcWZ3cWZHVTliMjVzTFNScmtzZU0zVklEUXpFMzBVN0NtOUhiVUwxenBUOEIwUUF1ajF3VC1xMFVLNDNkSk45VHFuYkVVeEtFN1doa2JtYXBnbFdXVjRvS3RkUHkxUkNvVldvQ1pWdFhsX1dUTTE3TWc?oc=5",
+      "source": "WION",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-20T07:31:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "68c0ce7bd90c"
+    },
+    {
+      "title": "Funeral for 50 Palestinians recovered from Gaza rubble",
+      "summary": "A funeral has been held in Gaza for 50 Palestinians whose bodies were recently recovered from the rubble.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-20T13:39:38.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "96ac94619b9c"
     },
     {
       "title": "Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat",
@@ -523,7 +705,7 @@
       "publishedAt": "2026-08-20T13:18:35.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "3893baab8e74"
     },
     {
@@ -536,7 +718,7 @@
       "publishedAt": "2026-08-20T13:18:31.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "be8b486ea778"
     },
     {
@@ -549,7 +731,7 @@
       "publishedAt": "2026-08-20T13:13:24.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "5ace9d8ca4d0"
     },
     {
@@ -562,7 +744,7 @@
       "publishedAt": "2026-08-20T13:10:50.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "33ae2c8e16a7"
     },
     {
@@ -575,34 +757,8 @@
       "publishedAt": "2026-08-20T13:01:05.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "39f082242784"
-    },
-    {
-      "title": "Migrant women face sexual assault in Ceuta",
-      "summary": "Migrant women face sexual assault in Ceuta",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/migrant-women-face-sexual-assault-in-ceuta?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-20T12:57:33.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "e7c059a47862"
-    },
-    {
-      "title": "Harry and Meghan’s security funding on UK return is private matter, Burnham says",
-      "summary": "Prime minister wishes couple well in their move back from the US to a non-royal residence outside London • Harry and Meghan: key moments and controversies since US move Security funding for the Duke and Duchess of Sussex when they return to live in the UK this month is a “private matter”, Andy Burnham has said. News of Harry and Meghan’s planned return to Br",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/20/harry-and-meghan-security-funding-on-uk-return-is-private-matter-burnham-says",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-20T12:55:20.000Z",
-      "image": "https://i.guim.co.uk/img/media/ac61bd01a3accbcd9ec84265406373ed866fc74e/488_0_4158_3326/master/4158.jpg?width=140&quality=85&auto=format&fit=max&s=c7ce185ab8b851fa7dd64ec334ae9edf",
-      "topic": "政治",
-      "score": 75,
-      "id": "8b9d3c4ba766"
     },
     {
       "title": "Flying across the world? You’re now more likely to stop in Asia than you would have been before war broke out in the Middle East. Here's what to know.",
@@ -614,7 +770,7 @@
       "publishedAt": "2026-08-20T12:55:05.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "d0a7e1f06e0e"
     },
     {
@@ -627,34 +783,21 @@
       "publishedAt": "2026-08-20T12:55:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "ce560e3461bd"
     },
     {
-      "title": "Ex-Zambian minister killed in security raid on opposition",
-      "summary": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
-      "url": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-20T10:07:48.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feda/live/20a4f320-9c6f-11f1-a291-b542ee92de7c.jpg",
-      "topic": "政治",
-      "score": 75,
-      "id": "689d75dbf29b"
-    },
-    {
-      "title": "From ‘elation’ to ‘terrible news’ in 10 minutes: how the confusion over missing bushwalker Lily Hooper unfolded",
-      "summary": "The 18-year-old’s body was found in Nattai national park on Thursday – but initial police messages indicated she was alive Teen hiker Lily Hooper found dead as NSW police apologise for miscommunication ‘born of elation’ Get our breaking news email , free app or daily news podcast Police have blamed dense bushland and radio confusion for wrongly reporting to ",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/20/from-elation-to-terrible-news-in-10-minutes-how-the-confusion-over-missing-bushwalker-lily-hooper-unfolded",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-20T09:51:31.000Z",
-      "image": "https://i.guim.co.uk/img/media/88767de4bf103f7cd1db7a710fb56defa740aef5/0_54_1638_1309/master/1638.jpg?width=140&quality=85&auto=format&fit=max&s=c85fa1cc5a9c2f8a98a0dc1e49234fae",
+      "title": "API Summit: Breaking ground on accelerating African hotel builds",
+      "summary": "API Summit: Breaking ground on accelerating African hotel builds &nbsp;&nbsp; Bizcommunity",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3BBdHR5UzZWQlJIMXJfRGEtLV8wSmxBSkZuNk81bWo0VnJMWUxzcWRzbmhrdmg0OW1SWmk5b3JkaS1KUU5sYU4ydzJQZi1IZFgyQW9OVVphbjFHRk9zeG9QN1gwdHJmb0ZzYklra3hYZ2ZiaXowWGNvYVJBaXRrUVBJcVFoT2c1MGg2NV9keHk4QlhKdXVEM1NHN2V5a2lJdDczNTMtUnh3ZGg4?oc=5",
+      "source": "Bizcommunity",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-20T09:54:37.000Z",
+      "image": "",
       "topic": "社会",
-      "score": 75,
-      "id": "2e85a382e0b4"
+      "score": 74,
+      "id": "7aeff505d443"
     },
     {
       "title": "Alarms blare in South Korea during annual air raid defence drill",
@@ -666,60 +809,8 @@
       "publishedAt": "2026-08-20T12:46:35.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "eae65436e9ff"
-    },
-    {
-      "title": "Boohoo fined €2.3m by French watchdog over deceptive discounts",
-      "summary": "Fashion site also broke rules on labelling by using terms ‘leather’ or ‘suede’ for synthetic products The British online fashion seller Boohoo has been fined €2.3m (£2m) by France’s consumer watchdog ⁠for deceptive ⁠practices ​such as offering fake discounts. The Manchester-based firm, whose parent company renamed itself Debenhams Group last year, was found ",
-      "url": "https://www.theguardian.com/business/2026/aug/20/boohoo-fined-by-french-watchdog-deceptive-discounts",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-20T12:40:04.000Z",
-      "image": "https://i.guim.co.uk/img/media/0f41f5fe26c2e47ed6e1a9b4dc0c589823cd5d04/1123_0_3409_2727/master/3409.jpg?width=140&quality=85&auto=format&fit=max&s=a874da2bc7625690cb738cecc545b13f",
-      "topic": "社会",
-      "score": 74,
-      "id": "033245e1f4d2"
-    },
-    {
-      "title": "Israel’s Ben-Gvir posts video of gallows site for hanging Palestinians",
-      "summary": "Far-right minister says those convicted in military courts of terror offences will be executed after passing of death penalty law that does not apply to Jewish extremists Israel’s far-right national security minister, Itamar Ben-Gvir, has posted a gloating video of the construction of a gallows complex where Palestinians convicted of terror offences – but no",
-      "url": "https://www.theguardian.com/world/2026/aug/20/israel-ben-gvir-video-gallows-site-hanging-palestinians",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-20T12:34:11.000Z",
-      "image": "https://i.guim.co.uk/img/media/3417d5f446a8f6c4730ccf40c42443a5bc30ee6d/0_329_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=2bd6c13bdd04f6b99e262187c281730b",
-      "topic": "政治",
-      "score": 74,
-      "id": "ab075a778d22"
-    },
-    {
-      "title": "US says new aircraft carrier deployed to Middle East",
-      "summary": "US says new aircraft carrier deployed to Middle East &nbsp;&nbsp; Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNjJZNW1lQzFwLXJiWm1sOGtLRDFOQW04b1VxdWhPcjEwekFTeWZwYk1DVFVndjctWnljVEhwdFJ5Z3Q3UFBrOUNVeDBHLXA5dkpjWE5WS3llSTlzUC1IWmtwMjBLQW1qcXNtMERxRk96dFBsV1R5ckxOV2Q0WER3N1ZPSXNsdE04N1dMVU04ZDQxV2FSRmJrNHJRcEZOdw?oc=5",
-      "source": "Breakingthenews.net",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-20T12:13:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "11ed9767e6dc"
-    },
-    {
-      "title": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
-      "summary": "Hui Ka Yan also forfeits all his personal property and the company he set up is given hefty fines Business live – latest updates The founder of Evergrande, one of China’s largest property developers, has been sentenced to life in prison and had all of his personal property confiscated. Hui Ka Yan, 67 and once named by Forbes as China’s richest man, with a ne",
-      "url": "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-08-20T12:03:39.000Z",
-      "image": "https://i.guim.co.uk/img/media/709754c9a4198b956f1c2acc98bb9478b6dedbde/542_0_5415_4332/master/5415.jpg?width=140&quality=85&auto=format&fit=max&s=1d0123d2d7a8dea72b3930afff1f1813",
-      "topic": "经济",
-      "score": 74,
-      "id": "8a6c48115ec7"
     },
     {
       "title": "Could alcohol interlocks help curb South Africa’s drunk-driving crisis?",
@@ -731,47 +822,8 @@
       "publishedAt": "2026-08-20T11:58:13.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "5b2930c37885"
-    },
-    {
-      "title": "Trump vows tougher economic measures on Iran and supporting countries",
-      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-08-20T09:13:18.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/725b/live/5ef21940-9c2a-11f1-aa8e-d328e95deb46.jpg",
-      "topic": "政治",
-      "score": 74,
-      "id": "a540782f794a"
-    },
-    {
-      "title": "State-backed Israeli settler violence forces West Bank displacement: HRW",
-      "summary": "HRW calls for sanctions and suspension of military aid as dozens of Palestinian communities are at risk of erasure.",
-      "url": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-20T09:08:58.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "d2aeec670a94"
-    },
-    {
-      "title": "Europe rallies behind ICC as Trump sanctions its president and a senior prosecutor",
-      "summary": "Europe rallies behind ICC as Trump sanctions its president and a senior prosecutor &nbsp;&nbsp; Muslim Network TV",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclkwVkY2WlQ5aVJaZFRPWmZBMGItcERFWFJGSFhGM2cyUVZ6a3FYNkN3SVpIZnk2eEFwamhGUzFFbHNnOFN1ZEo0dzJDLTdyOHpFMFhRc204SzlibENWRU53VExGT3N0WUVlSVlLdXdVTmdPQ29IOHpPVTRqY091MGFiaVR5Y3U2MmNJSXZyakdpNXhOdlctel9qckd1Mi1GSlhDdnQ5SHkwdWdjT0JvSm9n?oc=5",
-      "source": "Muslim Network TV",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-20T09:00:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "3836a554d2f5"
     },
     {
       "title": "More than 1,000 birds found dead in three mass mortality events amid ‘significant’ H5 escalation in Australia",
@@ -783,60 +835,21 @@
       "publishedAt": "2026-08-20T08:51:39.000Z",
       "image": "https://i.guim.co.uk/img/media/8bf4d2d3b84de383295a655c798514bc850cc6f3/260_0_1192_954/master/1192.jpg?width=140&quality=85&auto=format&fit=max&s=54e1ec830959650315860f1a13d9b247",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "982c8b07a690"
     },
     {
-      "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
-      "summary": "Israel's military on Wednesday announced its first criminal investigations into troop conduct in Gaza, focusing on the killings of 5-year-old Hind Rajab and her family and of 15 Palestinian paramedics.",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "中东",
-      "publishedAt": "2026-08-20T05:50:53.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "fe0ff71c376b"
-    },
-    {
-      "title": "PSG forced to move opening league match as heatwave in France damages pitch",
-      "summary": "Paris Saint-Germain moves its opening league game to Rennes after heatwave causes damage to pitch at Parc des Princes.",
-      "url": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-20T11:21:50.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 73,
-      "id": "58a4fd85325d"
-    },
-    {
-      "title": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
-      "summary": "Heatwaves are squeezing growth and productivity while the Iran war drives up Europe's energy costs.",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-20T08:24:04.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "96821696ae9f"
-    },
-    {
-      "title": "Video shows Russian missile strike on Ukrainian capital",
-      "summary": "Ukrainian officials say at least 12 people were killed and dozens injured after Russian ballistic missiles struck Kyiv.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-20T08:18:15.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "683c0559383d"
+      "title": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
+      "summary": "Hui Ka Yan also forfeits all his personal property and the company he set up is given hefty fines Business live – latest updates The founder of Evergrande, one of China’s largest property developers, has been sentenced to life in prison and had all of his personal property confiscated. Hui Ka Yan, 67 and once named by Forbes as China’s richest man, with a ne",
+      "url": "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "亚洲",
+      "publishedAt": "2026-08-20T12:03:39.000Z",
+      "image": "https://i.guim.co.uk/img/media/709754c9a4198b956f1c2acc98bb9478b6dedbde/542_0_5415_4332/master/5415.jpg?width=140&quality=85&auto=format&fit=max&s=1d0123d2d7a8dea72b3930afff1f1813",
+      "topic": "经济",
+      "score": 72,
+      "id": "8a6c48115ec7"
     },
     {
       "title": "Driver waits for compensation after new EV suddenly stops on freeway",
@@ -848,47 +861,21 @@
       "publishedAt": "2026-08-20T08:13:44.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/8c151b16f750b5f547623024d4c8b155?impolicy=wcms_crop_resize&cropH=2737&cropW=4866&xPos=134&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "18dd980bbf6c"
     },
     {
-      "title": "Four workers dead after being hit by train in Japan",
-      "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "亚洲",
-      "publishedAt": "2026-08-20T10:32:31.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f75e/live/a3c7f8d0-9c59-11f1-ad5e-036c63448601.jpg",
-      "topic": "社会",
-      "score": 72,
-      "id": "8d4a19e8b73b"
-    },
-    {
-      "title": "FUFA Super 8: KCCA FC edge NEC for first silverware in seven years",
-      "summary": "FUFA Super 8: KCCA FC edge NEC for first silverware in seven years &nbsp;&nbsp; Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVVZUR3VpTzl6VDV1aEh0bzdMb2RHMHhjQ28xd3FINlNBd0p4TWhhUHBSajhZZmNtU0hSM0YzLVBqYnhnYUVjdGtLbnJhZ2t6dmEyaG9oMHNsRlRoNFlxTDhQOHJrcEVyUkIwQ0JVWjhqTTFDYm9XR25sc3pNRVZWTGhVRjFKeWhKc0pEVDUwSXVRSnBHVHJlQUs3OU5ldw?oc=5",
-      "source": "Africa Top Sports",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-20T10:12:15.000Z",
+      "title": "PSG forced to move opening league match as heatwave in France damages pitch",
+      "summary": "Paris Saint-Germain moves its opening league game to Rennes after heatwave causes damage to pitch at Parc des Princes.",
+      "url": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-20T11:21:50.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "be43d44915d9"
-    },
-    {
-      "title": "Central African Republic Gold Mine Landslide Kills At Least 100, Rescue Operations Underway",
-      "summary": "Central African Republic Gold Mine Landslide Kills At Least 100, Rescue Operations Underway &nbsp;&nbsp; WION",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWnNaUkhyOVJwT05JbEZOZm1GQkdzS181MWpMQW03RlJmNFFzTVdCS0I2TnVhdm1xT01XRzYtZDdlYUNscWF1SlZBQk1RMmtHYkQxV05qbmVIMnJSeHNnMVVCQVluMFRUTUZsVENHTWNUdkx1V0tJcUhHUzdlSmVjbmQ4Qy14Z0QxMm5VTzRUUjFMOHFkQ1BYVnU4ckl6MFhOZmJHMzEtT0JteHNJVEJyRUpldUZFNkRJUi1QMnNXdHRPS0RIVE5aNkpMM2JZOE9O0gHWAUFVX3lxTFBUVVpPV0h6TEpXUUhuWUp4aWlTS25xWWJkMGdCZWc0aDFBWnhrcFhNVmE3UGpwcFdCQ3lRdnV2UTZVM3A3SGxRUHM4aUZKUU84UnYtR05LVVFyeFM0eTBfQW4yVnBrcWZ3cWZHVTliMjVzTFNScmtzZU0zVklEUXpFMzBVN0NtOUhiVUwxenBUOEIwUUF1ajF3VC1xMFVLNDNkSk45VHFuYkVVeEtFN1doa2JtYXBnbFdXVjRvS3RkUHkxUkNvVldvQ1pWdFhsX1dUTTE3TWc?oc=5",
-      "source": "WION",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-20T07:31:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "68c0ce7bd90c"
+      "topic": "气候",
+      "score": 71,
+      "id": "58a4fd85325d"
     },
     {
       "title": "Lambie sparks veterans debate as Labor strikes deals",
@@ -900,7 +887,7 @@
       "publishedAt": "2026-08-20T07:05:55.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/ba72775ed3ce99a70ac3d090efc61ddd?impolicy=wcms_crop_resize&cropH=2131&cropW=3790&xPos=0&yPos=2&width=862&height=485",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "f04631fadaed"
     },
     {
@@ -913,8 +900,21 @@
       "publishedAt": "2026-08-20T07:03:01.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/928edd7b7cf04fff22d3bcdcb7a0b72e?impolicy=wcms_crop_resize&cropH=3053&cropW=5427&xPos=0&yPos=299&width=862&height=485",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "876680afd806"
+    },
+    {
+      "title": "Miss South Africa 2026: Top 19 finalists announced",
+      "summary": "Miss South Africa 2026: Top 19 finalists announced &nbsp;&nbsp; IOL",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHItY25zUkhfQ3pld1EydWgtMVY5VjFYSmVMMDBNemx5M3QtTlF5MkxRaXBEd0h2TGRMSzVIR3lqcUdIazNYTTFMcGl5ZnNkRHJwbXpINWJwMjZyaU1aWlN1dl90SXFFYThmdjNkeEhUMlNQOEpZZlBqQ1FoQWloRVFvY2RMZzk4Nl9uVFZLaENtV28?oc=5",
+      "source": "IOL",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-20T13:25:47.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "4b5bac46be29"
     },
     {
       "title": "Entitlement: South Africa's Quiet Saboteur",
@@ -926,7 +926,7 @@
       "publishedAt": "2026-08-20T13:20:51.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "69a1047b966b"
     },
     {
@@ -939,7 +939,7 @@
       "publishedAt": "2026-08-20T12:57:53.000Z",
       "image": "",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "1b3b781c4de0"
     }
   ]
