@@ -1,11 +1,76 @@
 {
-  "updatedAt": "2026-08-20T16:54:16.678Z",
+  "updatedAt": "2026-08-20T17:48:28.687Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "North Korea fires missiles into sea as South Korea, US hold military drills",
+      "summary": "The ballistic missile launch comes a day after US President Donald Trump said he would visit North Korean leader Kim Jong Un this year.",
+      "url": "https://www.abc.net.au/news/2026-08-20/north-korea-fires-missiles-as-us-holds-military-drills/107061138",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "亚洲",
+      "publishedAt": "2026-08-20T11:48:59.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/fc083f967bbaf219441bbb7f7d0d6e8f?impolicy=wcms_crop_resize&cropH=2744&cropW=4878&xPos=0&yPos=508&width=862&height=485",
+      "topic": "政治",
+      "score": 93,
+      "id": "46bbf33163db"
+    },
+    {
+      "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
+      "summary": "South Korea convened an emergency security meeting following the launches, as Trump seeks to sway Pyongyang.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-20T17:00:12.000Z",
+      "image": "",
+      "topic": "科技",
+      "score": 92,
+      "id": "987e5add727b"
+    },
+    {
+      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+      "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-08-20T17:14:55.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
+      "topic": "政治",
+      "score": 89,
+      "id": "8ce7ef75bcb9"
+    },
+    {
+      "title": "USS George Washington arrives in Middle East",
+      "summary": "USS George Washington arrives in Middle East &nbsp;&nbsp; WQAD",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdFhsZF9fVHlBYkhROVFYb0JNXzVpcFRFNzAzZElWMmhWUWt0VnI4VlBlNk5fYnVlR25vc1NvcFNERGtZOUJrVG5sLVpJb3JYVV9mN0JHUnFickN6OF91RkotbnZpY0pkdDJjYzJwT0RzR2pxY2wyR04yWVEzMWJUNkFJTUpBd1pVWkVVTUxfNE9GdWhBYkctTFBHcWZvbEhYMkJidzBYNnhpLUtYdjhkZFFGX0dNT242cl81VE43ajBPSUdiMVNzbWc1cE1aampvc2I1VTNDOA?oc=5",
+      "source": "WQAD",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-20T17:39:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 88,
+      "id": "a4f84b8a4a01"
+    },
+    {
+      "title": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
+      "summary": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-un North Korea has launched about 10 short-range ballistic missiles towards the sea, South Korea’s military said, a day after Pyongyang shrugged off Donald Trump’s order to scale back US military drills with South Korea in an app",
+      "url": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "亚洲",
+      "publishedAt": "2026-08-20T10:25:29.000Z",
+      "image": "https://i.guim.co.uk/img/media/f1aa4a62b7bca7ec7ccef5c7cec998317506896c/139_0_4632_3706/master/4632.jpg?width=140&quality=85&auto=format&fit=max&s=cb843d83df020307c5d80dcd9644006b",
+      "topic": "政治",
+      "score": 88,
+      "id": "10db4fcb55d0"
+    },
     {
       "title": "Iran dismisses U.S. economic threats and other developments in the Middle East",
       "summary": "Iran dismisses U.S. economic threats and other developments in the Middle East &nbsp;&nbsp; CTV News",
@@ -16,21 +81,8 @@
       "publishedAt": "2026-08-20T16:41:03.000Z",
       "image": "",
       "topic": "社会",
-      "score": 88,
+      "score": 87,
       "id": "4249e1321d82"
-    },
-    {
-      "title": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
-      "summary": "The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishers The Ukrainian Book Institute has called on the international publishing community to support Ukrainian publishers after Russian attacks in July and early August destroyed about 10m books and a significant share of the",
-      "url": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-20T15:37:57.000Z",
-      "image": "https://i.guim.co.uk/img/media/678c419b8c0575ee0ae876dd6228c2df25df5639/0_0_5031_4024/master/5031.jpg?width=140&quality=85&auto=format&fit=max&s=0ae7ab2a7b7ca778d1db694e0a689fc0",
-      "topic": "政治",
-      "score": 88,
-      "id": "1c894dce539e"
     },
     {
       "title": "Oil hits over 3-week high on Middle East supply concerns amid war impasse",
@@ -42,7 +94,7 @@
       "publishedAt": "2026-08-20T13:10:08.000Z",
       "image": "",
       "topic": "政治",
-      "score": 88,
+      "score": 87,
       "id": "4e0a517887d6"
     },
     {
@@ -55,21 +107,73 @@
       "publishedAt": "2026-08-20T16:19:32.000Z",
       "image": "",
       "topic": "社会",
-      "score": 87,
+      "score": 86,
       "id": "81ee3f782fe3"
     },
     {
       "title": "US aircraft carrier arrives in Middle East, relieving long-deployed USS Lincoln",
-      "summary": "US aircraft carrier arrives in Middle East, relieving long-deployed USS Lincoln &nbsp;&nbsp; WKMG",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLXVIWUhGUmQxMnNTbDBzSV9ZQzFsd2s0NGUyRFlQOS14cTIxeGtXQUlYSjZRUXlPZFZ5WjR0VFVDTktwLVltWHZTcjdrS0xyOWdJTjFNdXh3SEJwY1EtVmF6ME5mak9wbVhCdnNQSFJLWGZmd3dMRUFSa3JxRlEtTTltbkpaYVZKQW5pSF9tN256RVJMYXd0Z1E5YnZ5cFk3djd6U2w3RnFQQ3FJX0Qwbl8xRTMyTEVKN182Y1Z5dllrdHJudGtsZDBCWUVKUQ?oc=5",
-      "source": "WKMG",
+      "summary": "US aircraft carrier arrives in Middle East, relieving long-deployed USS Lincoln &nbsp;&nbsp; The Standard-Speaker",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoZ283clZUNmd5LXRpSnJBTmVydVQ4ZEptNnJ3UENPWUlRWTBQLUQwakFDdXdEd3YxQW1PeFAwbTk1aV9IRFJ3NElVMTNLY1hrM0hrVVpqd3hnNlhUTjNMVWJvOUhVcENyWGhfTGZZVlJwNjB2M3RLMFd3d0FHUQ?oc=5",
+      "source": "The Standard-Speaker",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-20T15:48:32.000Z",
+      "publishedAt": "2026-08-20T16:08:33.000Z",
       "image": "",
       "topic": "社会",
-      "score": 87,
-      "id": "a264d4b74976"
+      "score": 86,
+      "id": "87c7e362a547"
+    },
+    {
+      "title": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln",
+      "summary": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln &nbsp;&nbsp; Inbox.lv",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYXRyQ2F2Vkk5T1g3UFJyTVFpTlRvcXpEZEtMVFJuelR1YkVaTmRNVEJHdWszeHp0WC1DMUFCNW9RS3J1NzdlUGM2ZjlEWXgwVWZHcVQtZHNvOXF3dTJQbjBEZlZxOW5CNUNSZ0M2R2ZxaENOZzZaeUs0VVV2YTJjWUNZUW45TUdKd3hSVjRDS2liVVRWS1Jjc3otWWlYdk1Za0l1RE1wdDhubWFpbnFheUFjc013V1NuSkJOTml0YURnMy05VjZ0WDVET0dxSlJZZ0Jn?oc=5",
+      "source": "Inbox.lv",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-20T16:01:42.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 86,
+      "id": "8aa105b6f5a1"
+    },
+    {
+      "title": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
+      "summary": "The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishers The Ukrainian Book Institute has called on the international publishing community to support Ukrainian publishers after Russian attacks in July and early August destroyed about 10m books and a significant share of the",
+      "url": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-20T15:37:57.000Z",
+      "image": "https://i.guim.co.uk/img/media/678c419b8c0575ee0ae876dd6228c2df25df5639/0_0_5031_4024/master/5031.jpg?width=140&quality=85&auto=format&fit=max&s=0ae7ab2a7b7ca778d1db694e0a689fc0",
+      "topic": "政治",
+      "score": 86,
+      "id": "1c894dce539e"
+    },
+    {
+      "title": "White House faces scrutiny over top Trump aide Natalie Harp – live",
+      "summary": "Harp, a former One America News Network show host, has emerged as a key gatekeeper to the president Sign up for the US Breaking News email An FBI team seized electronic devices from former US representative Eric Swalwell at the San Francisco airport on Saturday, then raided his home in Washington, DC, the next day, CNN reported Thursday. The raid is part of ",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "美洲",
+      "publishedAt": "2026-08-20T17:34:16.000Z",
+      "image": "https://i.guim.co.uk/img/media/ec78ebcda8b0738035dcb14328438c1fab93d3f8/223_0_4073_3260/master/4073.jpg?width=140&quality=85&auto=format&fit=max&s=67a1f3504f608565ad8de624f5239749",
+      "topic": "政治",
+      "score": 85,
+      "id": "9c490e199476"
+    },
+    {
+      "title": "World News",
+      "summary": "World News &nbsp;&nbsp; LatestLY",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb0dpMlpkQjZHVXVqNTI0TUlWbmJ4QV84dU1Qb3hyRmctYmVhLXlEbUFjRGVRMFhIQk1uNU01aVczQnBock1kZTcwa0VsMExZQU1NeGpwbEYtNGFoQWFtRk9lZ0ZGN3B1UmJ6bTVCbm1vNEFNamFjS2R0RHQ4ZFNLNFZBU05qQ09WUUQ3NHZpY0FmTExPNE5rRlhYcHVsdVNoTG9LRjVWVE1VVlprNE80WjFpdjRySlVWNE0xNmxMLUlmdjRwblliejhUaURMSDQwRTNiRGx6TW1RMU1BMklfX2RHaVZoS3pZUnpDM1VjZkdtOFdvRXBfMVZnNNIBgAJBVV95cUxQZzd6NllPVTMtVW41M0N0NGlKeWFUNF9wSnZQYnJHaXdWTThnTGVaU2dhcUYzRUhMemh3NW9kYThmMThUd3lGWnNLb0U5TjJWbkdKdHBqd053SjJHZmJTMERVMnJkSWNHZzA5aTdZY0Z5ODEyWmJZRGhWNXJjOVB2SjZjWkhNaHlaQW05S1Q1NmxmTHVnYThORDd2ZWttV2ZvbWwtZVg0RjU2aUVVcjRVTjNQX2dnaFRsbDBHS3JnNms2WXpXcGJpcWY1MHhCZ1VZQVZ5S24ySm02ZXgzUXhLQ1dOZFhNMk9JeDkxMENRLXZhcjZsN3BjcG5LTEhiTWhX?oc=5",
+      "source": "LatestLY",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-20T15:42:16.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 85,
+      "id": "4d9628568ed3"
     },
     {
       "title": "Landslide kills 13 at illegal gold mine in Colombia’s southwest",
@@ -81,21 +185,8 @@
       "publishedAt": "2026-08-20T15:08:16.000Z",
       "image": "",
       "topic": "社会",
-      "score": 86,
+      "score": 85,
       "id": "bb110ed8a99b"
-    },
-    {
-      "title": "North Korea fires missiles into sea as South Korea, US hold military drills",
-      "summary": "The ballistic missile launch comes a day after US President Donald Trump said he would visit North Korean leader Kim Jong Un this year.",
-      "url": "https://www.abc.net.au/news/2026-08-20/north-korea-fires-missiles-as-us-holds-military-drills/107061138",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "亚洲",
-      "publishedAt": "2026-08-20T11:48:59.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/fc083f967bbaf219441bbb7f7d0d6e8f?impolicy=wcms_crop_resize&cropH=2744&cropW=4878&xPos=0&yPos=508&width=862&height=485",
-      "topic": "政治",
-      "score": 86,
-      "id": "46bbf33163db"
     },
     {
       "title": "Middle East Oil Crisis Sends Supertanker Prices to Record Highs",
@@ -107,7 +198,7 @@
       "publishedAt": "2026-08-20T08:00:00.000Z",
       "image": "",
       "topic": "经济",
-      "score": 86,
+      "score": 85,
       "id": "e5b07e4adf9b"
     },
     {
@@ -120,73 +211,21 @@
       "publishedAt": "2026-08-20T14:52:57.000Z",
       "image": "",
       "topic": "社会",
-      "score": 85,
+      "score": 84,
       "id": "fede29012dc3"
     },
     {
-      "title": "USS George Washington arrives in Middle East to relieve USS Abraham Lincoln",
-      "summary": "USS George Washington arrives in Middle East to relieve USS Abraham Lincoln &nbsp;&nbsp; Roya News",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yN2JJaDY2Q3UtdVAxdmhLU2dwbkF2ZkNBN2hUZEtrS0lWQUxLUVliYlVRblVQTmRZOWtpMko3a2tNeTc5aEVyVA?oc=5",
-      "source": "Roya News",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-20T14:43:04.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 85,
-      "id": "1ce193475151"
-    },
-    {
-      "title": "CENTCOM: Aircraft carrier USS George Washington arrives in Middle East",
-      "summary": "CENTCOM: Aircraft carrier USS George Washington arrives in Middle East &nbsp;&nbsp; Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nUmxSUG12VlJGZ1M5WC1ITkIzNHFlaFRoYTlManBYOEFDVWNrb2tTUVRFWWo4TFRJcVRpSjBWeUpfNjFmTkQ2dmlYQ2hXdEgwQ0NuMQ?oc=5",
-      "source": "Ynetnews",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-20T14:40:36.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 85,
-      "id": "289720ebdc51"
-    },
-    {
-      "title": "New US carrier strike group arrives in Middle East",
-      "summary": "New US carrier strike group arrives in Middle East &nbsp;&nbsp; LBCI Lebanon",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUV9NUzlGaFkxV0dKWG5VYU9nM3FCMU1kZzU4b3VXb0xBWmNkX0NJU1dZVjNORHFUMzhYSG1Cc2Q5cjREeGhBN2lmdmpsRVRab2lyajFXMHR2emxzSUZYdDA2ZVhtdldKS3NEWFc1eE4zTDdPQTVPTVlMRUR0QnJDX3ZkM0o2Qmdpc21NTk5pcUZ6clMyUWN5bEZKQjYyU3VHNnc?oc=5",
-      "source": "LBCI Lebanon",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-20T14:31:10.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 85,
-      "id": "f9324a8e2ba2"
-    },
-    {
-      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "summary": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
+      "summary": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-20T13:56:25.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
-      "topic": "政治",
-      "score": 85,
-      "id": "c981929daddd"
-    },
-    {
-      "title": "White House faces scrutiny over top Trump aide Natalie Harp – live",
-      "summary": "Harp, a former One America News Network show host, has emerged as a key gatekeeper to the president Sign up for the US Breaking News email An FBI team seized electronic devices from former US representative Eric Swalwell at the San Francisco airport on Saturday, then raided his home in Washington, DC, the next day, CNN reported Thursday. The raid is part of ",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-08-20T16:27:42.000Z",
-      "image": "https://i.guim.co.uk/img/media/ec78ebcda8b0738035dcb14328438c1fab93d3f8/223_0_4073_3260/master/4073.jpg?width=140&quality=85&auto=format&fit=max&s=67a1f3504f608565ad8de624f5239749",
-      "topic": "政治",
-      "score": 84,
-      "id": "9c490e199476"
+      "region": "全球",
+      "publishedAt": "2026-08-20T16:53:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc9/live/f3b6f660-9caf-11f1-84cf-fd4cfd9d6c84.jpg",
+      "topic": "社会",
+      "score": 83,
+      "id": "d015a52f476a"
     },
     {
       "title": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
@@ -198,7 +237,7 @@
       "publishedAt": "2026-08-20T15:41:56.000Z",
       "image": "",
       "topic": "科技",
-      "score": 83,
+      "score": 82,
       "id": "17c10eebd360"
     },
     {
@@ -211,21 +250,8 @@
       "publishedAt": "2026-08-20T15:36:59.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "3790ac41b681"
-    },
-    {
-      "title": "More than a dozen killed as Kyiv comes under intense Russian bombardment",
-      "summary": "Missile and drone attack one of heaviest since war began, with children’s hospital and residential areas hit A heavy Russian missile and drone bombardment has killed at least 15 people in and around Kyiv in one of the most intense aerial attacks on Ukraine’s capital since the start of the war. Vitali Klitschko, the city’s mayor, said homes, a school and a ch",
-      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-20T11:33:44.000Z",
-      "image": "https://i.guim.co.uk/img/media/a64f5f689d31942cbd665d307efd0617e1b761d3/407_225_1593_1275/master/1593.jpg?width=140&quality=85&auto=format&fit=max&s=a1335ba0c69b5d3795ecbd00d2582027",
-      "topic": "政治",
-      "score": 83,
-      "id": "481d7b2d714d"
     },
     {
       "title": "EU’s von der Leyen warns of ‘escalating campaign of threats’ as Romania destroys naval drone – as it happened",
@@ -237,7 +263,7 @@
       "publishedAt": "2026-08-20T15:21:52.000Z",
       "image": "https://i.guim.co.uk/img/media/7214ea56392894e1c394cec5f2e922223c61f631/342_0_924_739/master/924.jpg?width=140&quality=85&auto=format&fit=max&s=9eae1ea9bd76b0154fbe73a92b0411c4",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "b56f63f34563"
     },
     {
@@ -250,7 +276,7 @@
       "publishedAt": "2026-08-20T15:07:57.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8167/live/e00ffeb0-9c99-11f1-a38b-8bb91d2ef80e.png",
       "topic": "社会",
-      "score": 82,
+      "score": 81,
       "id": "1a8b89ccaef0"
     },
     {
@@ -263,8 +289,21 @@
       "publishedAt": "2026-08-20T15:00:54.000Z",
       "image": "https://i.guim.co.uk/img/media/fa6b0d51dfc2fc1b643964c65b9f814ed369ec84/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=52083152b38e882ee6be02ae93e96cd4",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "7ea369d88eb9"
+    },
+    {
+      "title": "Man arrested over Nord Stream bombing was consultant on film about it starring Sean Penn",
+      "summary": "Volodymyr Zhuravlev had been consulted on Snake Island, a dramatised reconstruction of incident Earlier this month locals in Zagreb noticed something odd outside an art deco building. Sandbags and barricades appeared in front of the Esplanade hotel, along with a film crew and extras sporting Ukrainian military uniforms. Soon afterwards the actors Sean Penn a",
+      "url": "https://www.theguardian.com/business/2026/aug/20/man-arrested-nord-stream-volodymyr-zhuravlev-consultant-film-sean-penn-snake-island",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-20T17:41:59.000Z",
+      "image": "https://i.guim.co.uk/img/media/1035de68e3cd1a391daf1a0db3c49a6e22cd5a86/10_629_3954_3163/master/3954.jpg?width=140&quality=85&auto=format&fit=max&s=087e45ceeddfe3c00867465290c33221",
+      "topic": "政治",
+      "score": 80,
+      "id": "a8aac53c63ac"
     },
     {
       "title": "USS Washington arrives in Arabian Sea after aircraft carrier outcry",
@@ -276,34 +315,8 @@
       "publishedAt": "2026-08-20T14:36:35.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 80,
       "id": "36e3ebe7074e"
-    },
-    {
-      "title": "Ex-defence chief’s call for wartime election raises pressure on Zelenskyy",
-      "summary": "Fedorov, a popular figure, is challenging Zelenskyy but holding a vote under Russia's bombs is near impossible.",
-      "url": "https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-20T13:32:55.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 81,
-      "id": "6a58a45e7f08"
-    },
-    {
-      "title": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
-      "summary": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-un North Korea has launched about 10 short-range ballistic missiles towards the sea, South Korea’s military said, a day after Pyongyang shrugged off Donald Trump’s order to scale back US military drills with South Korea in an app",
-      "url": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-08-20T10:25:29.000Z",
-      "image": "https://i.guim.co.uk/img/media/f1aa4a62b7bca7ec7ccef5c7cec998317506896c/139_0_4632_3706/master/4632.jpg?width=140&quality=85&auto=format&fit=max&s=cb843d83df020307c5d80dcd9644006b",
-      "topic": "政治",
-      "score": 81,
-      "id": "10db4fcb55d0"
     },
     {
       "title": "At least 100 dead after gold mine collapses in Central African Republic",
@@ -315,21 +328,8 @@
       "publishedAt": "2026-08-20T07:32:52.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/73997edbd60b57f4c724f2e900ce2121?impolicy=wcms_crop_resize&cropH=185&cropW=329&xPos=0&yPos=122&width=862&height=485",
       "topic": "社会",
-      "score": 81,
+      "score": 80,
       "id": "8a4338c2ccd4"
-    },
-    {
-      "title": "Oil gains on Middle East supply concerns amid impasse in US-Iran war",
-      "summary": "Oil gains on Middle East supply concerns amid impasse in US-Iran war &nbsp;&nbsp; The Star",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYjFZeGFzOVJoa3pBS0llMkpIekhIeWtsTHJUbnFuV0xyYWlNWFNkSDh2UUthSXpucmVHMWw2TmpyRVZ6UTIwMHBMNkxiaDJOdGYtWnhwT0g3YzhWSWEtRTdTQmxwZFIxS2x1aDNYTk11WnJxNEVQVlNNcXRKT3JzaDk3ZUFiMUNiX2dsR2EybnA3eFd0Q2dhWGVQdnBGd3cxVVNNNWtER3pqbkJiQmo5bkpmVjNxZEwxRVU0dWVoUXpkMXpSalRzdA?oc=5",
-      "source": "The Star",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-20T07:25:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 81,
-      "id": "5b0cae448d59"
     },
     {
       "title": "Sports News | East Bengal Women Rewrite Indian Club Football History with Record 12-0 Win",
@@ -341,7 +341,7 @@
       "publishedAt": "2026-08-20T16:26:19.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "0f180919ccc3"
     },
     {
@@ -354,8 +354,21 @@
       "publishedAt": "2026-08-20T16:19:30.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "f440e113bac7"
+    },
+    {
+      "title": "Ex-defence chief’s call for wartime election raises pressure on Zelenskyy",
+      "summary": "Fedorov, a popular figure, is challenging Zelenskyy but holding a vote under Russia's bombs is near impossible.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-20T13:32:55.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "6a58a45e7f08"
     },
     {
       "title": "War on Iran: Trump announces a new campaign to isolate Iran economically",
@@ -367,21 +380,21 @@
       "publishedAt": "2026-08-20T13:14:14.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "5167ddc1b954"
     },
     {
-      "title": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
-      "summary": "Funerals take place weeks after the bodies of 112 Palestinians were buried in another mass funeral.",
-      "url": "https://www.aljazeera.com/news/2026/8/20/gaza-holds-mass-funeral-for-50-palestinians-killed-in-israeli-genocidal-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
+      "title": "Oil gains on Middle East supply concerns amid impasse in US-Iran war",
+      "summary": "Oil gains on Middle East supply concerns amid impasse in US-Iran war &nbsp;&nbsp; The Star",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYjFZeGFzOVJoa3pBS0llMkpIekhIeWtsTHJUbnFuV0xyYWlNWFNkSDh2UUthSXpucmVHMWw2TmpyRVZ6UTIwMHBMNkxiaDJOdGYtWnhwT0g3YzhWSWEtRTdTQmxwZFIxS2x1aDNYTk11WnJxNEVQVlNNcXRKT3JzaDk3ZUFiMUNiX2dsR2EybnA3eFd0Q2dhWGVQdnBGd3cxVVNNNWtER3pqbkJiQmo5bkpmVjNxZEwxRVU0dWVoUXpkMXpSalRzdA?oc=5",
+      "source": "The Star",
+      "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-20T13:05:05.000Z",
+      "publishedAt": "2026-08-20T07:25:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
-      "id": "521e92cd2136"
+      "score": 79,
+      "id": "5b0cae448d59"
     },
     {
       "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -393,7 +406,7 @@
       "publishedAt": "2026-08-20T15:42:39.000Z",
       "image": "https://i.guim.co.uk/img/media/e1640f0d7c0f429d968c7c729f4d6ea957a531f0/218_0_4284_3426/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=d4c757fefe1f876dc9aebf32f9cbbe82",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "640d6c6ea748"
     },
     {
@@ -406,8 +419,86 @@
       "publishedAt": "2026-08-20T14:45:55.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "0eaea2e267fa"
+    },
+    {
+      "title": "BBC’s Trevor Nelson recovering after brain tumour surgery",
+      "summary": "Radio 2 DJ, who stepped back from work commitments in June, says operation went ‘incredibly well’ Trevor Nelson, the BBC Radio 2 DJ, has revealed he had surgery after being diagnosed with a brain tumour and is now on the mend. The broadcaster, 62, said in June that he was taking a break from work commitments to deal with health issues. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/20/bbc-trevor-nelson-surgery-brain-tumour",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-20T17:41:21.000Z",
+      "image": "https://i.guim.co.uk/img/media/f56dc487893c35b3fdbbb03e47e4500e632e6f9d/252_0_2493_1994/master/2493.jpg?width=140&quality=85&auto=format&fit=max&s=36fb4d7d2b4eaa0ff03ff3393fec44dd",
+      "topic": "社会",
+      "score": 76,
+      "id": "d5e1d5fd8992"
+    },
+    {
+      "title": "Mark Zuckerberg buys 440-acre Strancally castle estate in Ireland",
+      "summary": "Meta chief executive paid roughly €20m for gothic-style mansion built in 1830 and its surroundings It stretches the definition of pied-à-terre but Mark Zuckerberg now has a pad in Ireland : Strancally castle. The Meta chief executive and his wife, Priscilla Chan, have bought the gothic-style mansion and its 178-hectare (440-acre) estate in county Waterford t",
+      "url": "https://www.theguardian.com/world/2026/aug/20/mark-zuckerberg-buys-440-acre-strancally-castle-estate-in-ireland",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-20T17:39:44.000Z",
+      "image": "https://i.guim.co.uk/img/media/26ee45c61aa55d1ceecdf1b75f0cac2a15cf2a15/439_498_3128_2502/master/3128.jpg?width=140&quality=85&auto=format&fit=max&s=ab67c14982a3a4314a27e68416055534",
+      "topic": "社会",
+      "score": 76,
+      "id": "10bf6565c312"
+    },
+    {
+      "title": "Harry and Meghan’s security funding on UK return is private matter, Burnham says",
+      "summary": "Prime minister wishes couple well in their move back from the US to a non-royal residence outside London Harry and Meghan: key moments and controversies since US move Security arrangements for the Duke and Duchess of Sussex while living in the UK are a “private matter”, Andy Burnham has said, after news that Harry and Meghan intend to relocate to Britain fro",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/20/harry-and-meghan-security-funding-on-uk-return-is-private-matter-burnham-says",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-20T17:38:25.000Z",
+      "image": "https://i.guim.co.uk/img/media/c7661a56e74b1d321e5d55004fec75884b894182/637_316_2261_1809/master/2261.jpg?width=140&quality=85&auto=format&fit=max&s=bdec2b5347f51c94b5d123893c0872ea",
+      "topic": "政治",
+      "score": 76,
+      "id": "8b9d3c4ba766"
+    },
+    {
+      "title": "‘Biased’ Channel 4 programme on ADHD misrepresented my views, says expert",
+      "summary": "Prof Katya Rubia withdraws support for The Great ADHD Myth? as other leading figures voice criticisms A key contributor to a controversial Channel 4 documentary on attention deficit hyperactivity disorder has withdrawn her support for the programme, saying it was biased and could lead to an increased suicide risk by encouraging parents to take their children",
+      "url": "https://www.theguardian.com/society/2026/aug/20/the-great-adhd-myth-channel-4-programme-contributor-expert-criticism",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-20T17:36:29.000Z",
+      "image": "https://i.guim.co.uk/img/media/c47359d78f777fadcbf2096e35670c91255cafe2/397_126_3382_2706/master/3382.jpg?width=140&quality=85&auto=format&fit=max&s=94881395527b201500d5ed661a9334f0",
+      "topic": "社会",
+      "score": 76,
+      "id": "94962816b9c3"
+    },
+    {
+      "title": "Reform’s new economic adviser has called for end of pensioners’ triple lock",
+      "summary": "Exclusive: Mitchell Palmer has also argued for privatising the NHS and immigration as way of cutting poverty Reform UK’s new economic adviser has previously called the pensions triple lock unsustainable, advocated privatising the NHS and welcomed migration as a poverty alleviation tool, the Guardian can reveal. Robert Jenrick, Reform’s economic spokesperson,",
+      "url": "https://www.theguardian.com/politics/2026/aug/20/reform-economic-adviser-mitchell-palmer-end-pensioners-triple-lock",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-20T17:36:17.000Z",
+      "image": "https://i.guim.co.uk/img/media/78d2d77cb1d9662ef2585bbf0ff372bcd6fc9d21/0_113_735_588/master/735.jpg?width=140&quality=85&auto=format&fit=max&s=5f192aa7e201aab103c7839ecbe88f54",
+      "topic": "社会",
+      "score": 76,
+      "id": "9bfb41d29f6e"
+    },
+    {
+      "title": "U.S. ramps up Cuba sanctions, detentions of Americans returning from island",
+      "summary": "U.S. ramps up Cuba sanctions, detentions of Americans returning from island &nbsp;&nbsp; The Tribune-Democrat",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPelBuZFhUUTF6TFNTanJfd0lPcTdyR2lfUUZDLUpseU43eldzaE1LZk9TSUxOWk5UcjdwdkI0Sk5wQkwxRVJJZHAxRWZaVExEX0NiNmdvQ01ic3BRa3FUdXU1ZXpIY2ZMbW1FTlJXbEdPOTY2X3FIV2ZrdEFzYlZ1R25hbkFwV2tvbzBFMHgzQ0JqWUxIa01icGt0NEdJNjhuSXREZEVaR0piX1ZBRk1ER1BkYnRVbVRiSjg0RzJ0QmJtRHI4QVVlMUR2c1F4eG4wWFByaHhSeXBQbmlTa0FQX2hSY2tlR3d6ODg5ZkRzWVBqZmk3dFh3?oc=5",
+      "source": "The Tribune-Democrat",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-20T17:20:00.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 76,
+      "id": "c4c12c230ea9"
     },
     {
       "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
@@ -419,21 +510,8 @@
       "publishedAt": "2026-08-20T14:40:51.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "4b76197d4e26"
-    },
-    {
-      "title": "Former Liberian vice-president charged in drug-trafficking probe",
-      "summary": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
-      "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-20T11:08:19.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1198/live/e20af280-9c24-11f1-8f4f-835961d63624.jpg",
-      "topic": "政治",
-      "score": 78,
-      "id": "d9ab068ca74d"
     },
     {
       "title": "Trump’s war on Stars and Stripes: Why has military newspaper chief quit?",
@@ -445,8 +523,21 @@
       "publishedAt": "2026-08-20T14:10:01.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "fc33436293d7"
+    },
+    {
+      "title": "Former Liberian vice-president charged in drug-trafficking probe",
+      "summary": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
+      "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-20T11:08:19.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1198/live/e20af280-9c24-11f1-8f4f-835961d63624.jpg",
+      "topic": "政治",
+      "score": 76,
+      "id": "d9ab068ca74d"
     },
     {
       "title": "Harry Kane Awarded Second European Golden Shoe",
@@ -458,7 +549,7 @@
       "publishedAt": "2026-08-20T07:43:54.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "bf8eff0fc0f4"
     },
     {
@@ -471,7 +562,7 @@
       "publishedAt": "2026-08-20T07:38:23.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/f035d2f7575e290e296163bba2560e32?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "98b0fecffa27"
     },
     {
@@ -484,7 +575,7 @@
       "publishedAt": "2026-08-20T04:18:16.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "57d208e70a8e"
     },
     {
@@ -497,7 +588,7 @@
       "publishedAt": "2026-08-20T04:17:53.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "776d85f4819e"
     },
     {
@@ -507,11 +598,102 @@
       "source": "chinadailyasia.com",
       "feed": "Middle East News Network",
       "region": "亚洲",
-      "publishedAt": "2026-08-20T16:43:39.000Z",
+      "publishedAt": "2026-08-20T17:23:04.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "33de1e699e64"
+    },
+    {
+      "title": "Humanoid robots take centre stage in China-US tech race",
+      "summary": "Humanoid robots are at the forefront of China’s race for technological supremacy at Beijing’s World Robot Conference.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-20T17:17:47.000Z",
+      "image": "",
+      "topic": "科技",
+      "score": 75,
+      "id": "6fa50c10a9de"
+    },
+    {
+      "title": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
+      "summary": "A Swiss tourist has been sentenced to one year in prison in Bali for social media posts insulting Nyepi",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-20T17:05:31.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "a3777fc5242c"
+    },
+    {
+      "title": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
+      "summary": "Families in Gaza face devastating water shortages, leaving children with heavy responsibilities beyond their years.",
+      "url": "https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-20T17:02:43.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "54095ba6912b"
+    },
+    {
+      "title": "The EU endorses the reelection of Hichilema in Zambia despite the \"serious irregularities\" in the count.",
+      "summary": "The EU endorses the reelection of Hichilema in Zambia despite the \"serious irregularities\" in the count. &nbsp;&nbsp; Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNm0xak1hZnd6dVRPeWdBVXFpRktCaC1lY1htWFFOb1ZQNVByVzdmOWplN1lGU0haSl9ibWRraGtidEpiYkFCVm5GaTJ3V043UmlFZm9DNS1POXRabTJUWldJWlZtaDJ1bVFDVmoyal96TXg5cDJaOEJLMWFJeklhRXhoVkhrRzVwN3hhRTVleHVXdnpaUEY5YnlyX09MQUF3N25JSkVyX05VSVJIM0U1NmEwbThXTjlxeTZVNks2S3FNQ3lJekhJSE9fN08zQjgwcjNQRks0N20teUN20gHiAUFVX3lxTE1kTVUwbE4tVmhKMW95ZG1BYS1pSlZaRkVBU3VnODJjZTFyYUZuZ3RWcUEzT1BWZ1FHLUJIMmF6ZWF1U3ktMl82MDJidXc4a1B4ZERUTHlrMFNERXhTY3dzdTJmMHd2ckl2T1ZHN3lmN1VNb1FUNWgybWJfS2pZZFo3Rl9naDRteEh3RkNua0dKRERFZ1g3YnhrNzgyOV85LWpzTkZYTXFOS09TM1dTbkQxcGdCNTRtUm1QRS1UU2xqTmNPZDlZNGJhRWlTRHh6V0dDaEttMXpWRUZQWFMwVVpqN3c?oc=5",
+      "source": "Demócrata",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-20T17:00:36.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "aa2edb55ae0b"
+    },
+    {
+      "title": "At least 800 people evacuated from major wildfire in western Spain",
+      "summary": "A major wildfire is threatening communities in western Spain with more than 800 people evacuated.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-800-people-evacuated-from-major-wildfire-in-western-spain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-20T16:58:19.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 75,
+      "id": "173f6fd6fc8b"
+    },
+    {
+      "title": "Charity campaigner’s death from microlight crash injuries was accidental, coroner rules",
+      "summary": "Claire Lomas had been filming a series for Apple TV in Amman, Jordan when she lost control of the aircraft The death of a disability campaigner after a microlight crash while filming a TV programme for Apple was an accident, a coroner has concluded. An inquest heard on Thursday that Claire Lomas, 44, died of severe traumatic injuries on 22 August 2024, five ",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/20/charity-campaigners-death-from-microlight-crash-injuries-was-accidental-coroner-rules",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-20T16:49:04.000Z",
+      "image": "https://i.guim.co.uk/img/media/e1d1402a431a8795ea12a10d7ebda3a9362486a9/0_203_2339_1869/master/2339.jpg?width=140&quality=85&auto=format&fit=max&s=365851bb6a48b0a0c7f75ac88caf3409",
+      "topic": "社会",
+      "score": 75,
+      "id": "19e8b481ac5f"
+    },
+    {
+      "title": "New US carrier arrives in Mideast to relieve long-deployed ship",
+      "summary": "New US carrier arrives in Mideast to relieve long-deployed ship &nbsp;&nbsp; Roya News",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE16aDlKbUlTLU4ydkVjalRONW1xUFdJSlBqWWVBZGEzRkl0bnI1NVg5bm5naThVVkdDUzliWGdGQWZ5WTc3MjhSRA?oc=5",
+      "source": "Roya News",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-20T16:42:09.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "4c2541bfa10c"
     },
     {
       "title": "Von der Leyen warns of a hybrid war to fracture the EU after the fall of a drone in Romania",
@@ -523,21 +705,8 @@
       "publishedAt": "2026-08-20T13:20:35.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "71a3787d0ac5"
-    },
-    {
-      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-      "summary": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
-      "url": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-20T13:04:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cda/live/49f9c620-9c87-11f1-95d8-5b0dba89a322.jpg",
-      "topic": "社会",
-      "score": 76,
-      "id": "ad5f9d38bf51"
     },
     {
       "title": "Central African Republic Gold Mine Landslide Kills At Least 100, Rescue Operations Underway",
@@ -549,7 +718,7 @@
       "publishedAt": "2026-08-20T07:31:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "68c0ce7bd90c"
     },
     {
@@ -562,21 +731,21 @@
       "publishedAt": "2026-08-20T16:22:46.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "5917502f5855"
     },
     {
-      "title": "Why are Prince Harry and Meghan moving back to the UK? – The Latest",
-      "summary": "The Duke and Duchess of Sussex are planning to return to live in Britain, six years after leaving for the US: a decision that was subject to intense media scrutiny. The couple and their two children are expected to relocate later in August to a non-royal residence. Nosheen Iqbal speaks to senior national editor Aaron Sharp – watch on YouTube Continue reading",
-      "url": "https://www.theguardian.com/news/audio/2026/aug/20/why-are-prince-harry-and-meghan-moving-back-to-the-uk-the-latest",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-20T16:10:53.000Z",
-      "image": "https://i.guim.co.uk/img/media/d1e977128d1fd4ec951fa106d604379cf2eff139/253_57_2368_1894/master/2368.jpg?width=140&quality=85&auto=format&fit=max&s=72f8154d8b2e322eca8ef8448bdfe39c",
+      "title": "At least 50 people dead after boat carrying farm workers capsizes in Nigeria",
+      "summary": "At least 50 people, mostly children, have died after a boat carrying farm labourers capsized in Nigeria.",
+      "url": "https://news.sky.com/story/at-least-50-people-dead-after-boat-carrying-farm-workers-capsizes-in-nigeria-13575129",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "非洲",
+      "publishedAt": "2026-08-20T16:12:00.000Z",
+      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-nigeria-victims-mosque_7326706.jpg?20260820170519",
       "topic": "社会",
-      "score": 75,
-      "id": "34a3bc660ff7"
+      "score": 74,
+      "id": "29cbcaddc612"
     },
     {
       "title": "Togo charges two French journalists over incorrect documents, rights group says",
@@ -588,21 +757,8 @@
       "publishedAt": "2026-08-20T16:00:27.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6a6/live/2b090e70-9c95-11f1-a38b-8bb91d2ef80e.jpg",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "4147fc7135e4"
-    },
-    {
-      "title": "Specsavers pays £12m dividend to parent company after jump in earnings",
-      "summary": "Pre-tax profits rose at high street opticians to £429.7m in the year to February while sales rose 7% to £4.3bn Specsavers has paid £12m to its parent company controlled by founders Doug and Dame Mary Perkins after the high street opticians’ profits increased by more than a quarter. The group operates nearly 3,000 optometry, audiology and ophthalmology busine",
-      "url": "https://www.theguardian.com/business/2026/aug/20/specsavers-pays-dividend-to-parent-company-as-profits-soar",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-20T15:55:13.000Z",
-      "image": "https://i.guim.co.uk/img/media/a2fe314d5c00f23e77082773a9b7f6e90b2a6df1/263_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=7e04f045452eeb38a0223f4e0122ac33",
-      "topic": "社会",
-      "score": 75,
-      "id": "a3a33cdf64b1"
     },
     {
       "title": "One geography, two states: Saudi Arabia’s security approach to Sudan",
@@ -614,21 +770,8 @@
       "publishedAt": "2026-08-20T15:51:46.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "84ebbca78c92"
-    },
-    {
-      "title": "US man sentenced to 77 years for child sexual abuse tied to online extremist group",
-      "summary": "Kyle Spitze of Tennessee faced federal charges for targeting girls online as part of ‘764 network’ investigated by FBI A 27-year-old Tennessee man described by the US justice department as a “nihilistic violent extremist” was sentenced to 77 years in prison on Wednesday for his targeting of girls online as part of the 764 network , an online group the FBI ca",
-      "url": "https://www.theguardian.com/us-news/2026/aug/20/man-sentenced-child-sexual-abuse-online-extremist-network",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-20T15:47:22.000Z",
-      "image": "https://i.guim.co.uk/img/media/c46a9f1f5c4593f59c0f00440a2a7cbdc86df619/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=8ed46b2d1a52511a24bf4b6b59cb5c1e",
-      "topic": "社会",
-      "score": 75,
-      "id": "6a966e6e4003"
     },
     {
       "title": "Europe closes mostly lower after data",
@@ -640,21 +783,21 @@
       "publishedAt": "2026-08-20T15:35:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "1a20fc6b93b6"
     },
     {
-      "title": "FIFA’s Infantino under threat of no-confidence vote by regional bodies",
-      "summary": "UEFA, AFC and CONCACAF understood to be considering no-confidence vote against FIFA's President Gianni Infantino.",
-      "url": "https://www.aljazeera.com/sports/2026/8/20/fifas-infantino-under-threat-of-no-confidence-vote-by-regional-bodies?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
+      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+      "summary": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
+      "url": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
       "region": "全球",
-      "publishedAt": "2026-08-20T12:55:30.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "7583bb82c47f"
+      "publishedAt": "2026-08-20T13:04:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cda/live/49f9c620-9c87-11f1-95d8-5b0dba89a322.jpg",
+      "topic": "社会",
+      "score": 74,
+      "id": "ad5f9d38bf51"
     },
     {
       "title": "East Bengal script history, break 40-year-old record to register Indian football’s biggest-ever win in As",
@@ -666,21 +809,8 @@
       "publishedAt": "2026-08-20T12:55:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "ce560e3461bd"
-    },
-    {
-      "title": "‘You have got to go’: former NSW minister tells Icac ‘something strange at play’ when she was sacked by Perrottet",
-      "summary": "Eleni Petinos tells inquiry her sacking as a minister in Dominic Perrottet’s government was potentially motivated by her reluctance to get rid of the building commissioner Get our breaking news email , free app or daily news podcast The former New South Wales fair trading minister Eleni Petinos has given evidence at a corruption inquiry that she may have bee",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/20/icac-nsw-liberal-party-petinos-perrottet-building-commissioner-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-20T12:21:52.000Z",
-      "image": "https://i.guim.co.uk/img/media/bd59c5f897561b7665279aba2279b959a6addace/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=f022b1af756a2c271006ac0bb18b9af0",
-      "topic": "政治",
-      "score": 75,
-      "id": "76199531c3c1"
     },
     {
       "title": "North Korea fires a suspected missile toward the sea, Japan says",
@@ -692,7 +822,7 @@
       "publishedAt": "2026-08-20T09:24:45.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "6194334b54ab"
     },
     {
@@ -705,21 +835,8 @@
       "publishedAt": "2026-08-20T09:23:42.000Z",
       "image": "https://i.guim.co.uk/img/media/83d9f187d7745bdb7093eec058e83d69e4c7e708/356_0_3160_2528/master/3160.jpg?width=140&quality=85&auto=format&fit=max&s=d915e6235f0e7b404e372ce408b1ea45",
       "topic": "政治",
-      "score": 75,
-      "id": "f4c405fb562b"
-    },
-    {
-      "title": "‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending",
-      "summary": "The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP planned Why is the Trump administration causing turmoil in the bond markets? You could pin the US’s staggering $40tn in government debt to Donald Trump’s Keystone Cops-style governance. Tariffs he sold as a new source of revenue were struck down by the supreme c",
-      "url": "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-20T15:21:38.000Z",
-      "image": "https://i.guim.co.uk/img/media/a616a971f8174c956a240adf080e40f025b22a3b/685_0_6847_5477/master/6847.jpg?width=140&quality=85&auto=format&fit=max&s=92c58623c4336e90aef10cdd1329c9e5",
-      "topic": "经济",
       "score": 74,
-      "id": "67ecb7aee853"
+      "id": "f4c405fb562b"
     },
     {
       "title": "Europe aligns with the ICC after the US sanctions and demands that it acts without pressure",
@@ -731,73 +848,8 @@
       "publishedAt": "2026-08-20T15:20:53.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "687912bd5ebb"
-    },
-    {
-      "title": "Stars and Stripes publisher could be fired before planned retirement, sources say",
-      "summary": "Max Lederer, longtime head of the US military news outlet, says his ‘philosophy of leadership’ differs from Pentagon’s The long-serving publisher of Stars and Stripes could face an early dismissal just days after the taxpayer-funded military news outlet’s reporting revealed deteriorating conditions on the USS Abraham Lincoln aircraft carrier, according to a ",
-      "url": "https://www.theguardian.com/us-news/2026/aug/20/stars-and-stripes-publisher-firing-uss-abraham-lincoln",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-20T15:18:58.000Z",
-      "image": "https://i.guim.co.uk/img/media/17197d95ed687df8be54e0d9c7cb3a0f2de145bd/715_379_2814_2253/master/2814.jpg?width=140&quality=85&auto=format&fit=max&s=3f9e17bf36b1a34066f7eb22064a732a",
-      "topic": "政治",
-      "score": 74,
-      "id": "f8935bc74717"
-    },
-    {
-      "title": "UK politics: Burnham says fly-tippers will be forced to pay for the clean-up when they dump waste illegally – as it happened",
-      "summary": "The prime minister plans to bring in the National Crime Agency to tackle the gangs behind dumps Value being generated by student loans is “not what it should be”, Reform UK’s deputy leader said. Asked by reporters about the funding of the scheme by stopping foreign students accessing loans, Richard Tice said: Regarding the funding of this, cash is cash. Whet",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-20T15:04:44.000Z",
-      "image": "https://i.guim.co.uk/img/media/4d10d26edc19776d319f958f2ba742ba7760a848/604_0_4410_3528/master/4410.jpg?width=140&quality=85&auto=format&fit=max&s=c6d8cf83d1f321d2889b998f87871353",
-      "topic": "政治",
-      "score": 74,
-      "id": "e4c3728b6bb5"
-    },
-    {
-      "title": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
-      "summary": "From Bruno Fernandes's future to a Champions League return, all to know about Manchester United before the new season.",
-      "url": "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-20T15:00:43.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "d7a08584dda0"
-    },
-    {
-      "title": "Wildlife photos from around the world dazzle in competition",
-      "summary": "Australian scientists are among the winners of a photo competition featuring stunning images of peeking damsel flies, tree selfies and cuddling manatees.",
-      "url": "https://www.abc.net.au/news/science/2026-08-21/ecology-image-competition-showcases-scientists-exploring/107050514",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-20T15:00:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/154ec48cea555e82c488fdd93c0eb8b8?impolicy=wcms_crop_resize&cropH=2250&cropW=4000&xPos=0&yPos=209&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "c6f77aec974c"
-    },
-    {
-      "title": "How China and Russia could hobble Trump’s plans to isolate Iran",
-      "summary": "Iran's deep trade ties with Beijing and Moscow could prove difficult for the US to disrupt, say analysts.",
-      "url": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-20T14:55:47.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 74,
-      "id": "05fb46c9252f"
     },
     {
       "title": "Europe sees record-breaking sea temperatures",
@@ -809,7 +861,7 @@
       "publishedAt": "2026-08-20T11:41:27.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "c256a30df799"
     },
     {
@@ -822,8 +874,21 @@
       "publishedAt": "2026-08-20T11:30:18.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "8cfe4152ed42"
+    },
+    {
+      "title": "How China and Russia could hobble Trump’s plans to isolate Iran",
+      "summary": "Iran's deep trade ties with Beijing and Moscow could prove difficult for the US to disrupt, say analysts.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-20T14:55:47.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 72,
+      "id": "05fb46c9252f"
     },
     {
       "title": "NFF Given 24 Hours to Resign as Nigerian Football Crisis Deepens",
@@ -835,112 +900,47 @@
       "publishedAt": "2026-08-20T14:03:04.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "8f97859c9bf4"
+    },
+    {
+      "title": "Europe heatwaves scorch 80 million with 40 C heat: AFP analysis",
+      "summary": "Europe heatwaves scorch 80 million with 40 C heat: AFP analysis &nbsp;&nbsp; Yahoo News Singapore",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQnIxV0hyRkZzVnpZRnpMMVdCYkF3TU5UMjFYTDVNM25MZE1uaGJVNzk0X2VrY1lpQ0h2ZmU3YkZKQklxVV9COTc3aWp5dGw5eUtOeVM5bEZtT2YwM1RzYkhxR051MEl2NWk0ZnJvMUhweElyYjRQN2tFaGdJelNJdw?oc=5",
+      "source": "Yahoo News Singapore",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-20T17:12:26.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 71,
+      "id": "f1649bad209e"
+    },
+    {
+      "title": "Argentina Lawmaker Proposes Higher Online Betting Taxes to Fund Local Sports Clubs",
+      "summary": "Argentina Lawmaker Proposes Higher Online Betting Taxes to Fund Local Sports Clubs &nbsp;&nbsp; iGamingToday.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcmYxbGNPWjdPQTFBcWJwRXFNN19YZXkzQzdhZ1VDN3FwMEVzejVNQWxGT1BMSlBHYURfVFhnN0pfSGUza2pHRzloNldOVVF5UjJIVXg1MHMyWGZrcUtmNEZ5alVwMFFHVnZRTkR3d0dwVDFZRXlONUhVUWRLTktjNjh5bW1tODJWNW1sdTBEOGYzRWhRN0xlT1RpYkxjVWE4SDk2aVhGdWVLdWhuSHUwM213?oc=5",
+      "source": "iGamingToday.com",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-20T17:04:51.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "277aa9c9baf1"
     },
     {
       "title": "George Washington Enters West Asia, Relieving Lincoln After Eight Months At Sea",
       "summary": "George Washington Enters West Asia, Relieving Lincoln After Eight Months At Sea &nbsp;&nbsp; News18",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVFRvSDhYNzFHSXA5c3QyMktubjhNQmFTajQxLVZTVVhHQ0wyZnM3bmtraW1lS1F5amdrRk9hT1RCdUlfZEJBWWI4MnRsbElQaHRIcHRFcWR0aHVnU2pidlNkanFoVGk0bDZIbklweC05UmxLdm1GSkNMRmhaVGhZSVozR1Y1dzhrLWVLYXdwdzdCaTEyU1NfeU1ZN1d6QWdoQzZCV1NqSnRsdkVnRVl3aVBxcGR3eGp1aGxxZUc0bkI0VWNqbFdFaHFn0gHKAUFVX3lxTE5UVG9IOFg3MUdJcDlzdDIyS25uOE1CYVNqNDEtVlNVWEdDTDJmczdua2tpbWVLUXlqZ2tGT2FPVEJ1SV9kQkFZYjgydGxsSVBodEhwdEVxZHRodWdTamJ2U2RqcWhUaTRsNkhuSXB4LTlSbEt2bUZKQ0xGaFpUaFlJWjNHVjV3OGstZUthd3B3N0JpMTJTU195TVk3V3pBZ2hDNkJXU2pKdGx2RWdFWXdpUHFwZHd4anVobHFlRzRuQjRVY2psV0VocWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY2tFS1A4Mm5VUHAxTEhMN09kQ2ROWnZmbWZGWUlpblhWbjExeEIyVjY0Tl9fVmpyMzFqWUYwNEE3Umg4VG9Wek5DdFlmdlYyN3NGOENVZTc4UERyai1qZEJEUmFkVG5QS3V1VC1VTG1MS29XUnY4N2dBTG1WbFRaZ3lVOFowUG9GcFZDM05aV1Nadkk4aTZFOFNoUG1scGZZa0dJS1p4LXZiM2dJMHN2UjZ2U2ZJcjM1a1I5WHVYTmV3aVNv0gHKAUFVX3lxTE5UVG9IOFg3MUdJcDlzdDIyS25uOE1CYVNqNDEtVlNVWEdDTDJmczdua2tpbWVLUXlqZ2tGT2FPVEJ1SV9kQkFZYjgydGxsSVBodEhwdEVxZHRodWdTamJ2U2RqcWhUaTRsNkhuSXB4LTlSbEt2bUZKQ0xGaFpUaFlJWjNHVjV3OGstZUthd3B3N0JpMTJTU195TVk3V3pBZ2hDNkJXU2pKdGx2RWdFWXdpUHFwZHd4anVobHFlRzRuQjRVY2psV0VocWc?oc=5",
       "source": "News18",
       "feed": "Asia News Network",
       "region": "亚洲",
       "publishedAt": "2026-08-20T16:52:11.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
-      "id": "0658a87f6151"
-    },
-    {
-      "title": "Trump plan to allow drilling near US world heritage site sparks alarm",
-      "summary": "Administration’s plan to scrap drilling-free buffer zone around New Mexico site prompts scrutiny from Unesco The Trump administration’s push to expand oil and gas extraction across the US is set to bring drilling near cherished natural and cultural sites, raising alarm among conservationists and prompting questions from the UN’s heritage body. Unesco said it",
-      "url": "https://www.theguardian.com/us-news/2026/aug/20/trump-oil-drilling-world-heritage-site-new-mexico",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-08-20T14:00:57.000Z",
-      "image": "https://i.guim.co.uk/img/media/cbebb6d23025b15804dfb0b7a3292e549a58cacf/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=35377430cb91a321cb44c042ee1afd71",
-      "topic": "经济",
-      "score": 72,
-      "id": "64ccaf0a3fac"
-    },
-    {
-      "title": "The EU criticizes Putin's visit to the Kurils and warns that it \"undermines efforts towards a peaceful resolution.\"",
-      "summary": "The EU criticizes Putin's visit to the Kurils and warns that it \"undermines efforts towards a peaceful resolution.\" &nbsp;&nbsp; Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMG9pQ2xVNkcyNEw2VW5vdEVGc2VwX3JEdGhsX2IxVkh3NHlydmQ4ZDBxOExPWVFLOXB6UGFIWC1MTlRUYUxfakdPU1ZpTTJmeGw2dU1CRWFFWkJFUUVmT2o1ZGdaX2VvYnNfU3FCekdzNzZtOFZzOERsS1FETUo4RFp4MVNSUkZTcmNMa1JSTlk3aHZZWXBhMGFxSGp3X0lTQ0llYU8xaWw5Vk1tMUYybFpQTFQ2UU85emdIazY4RGwyRlhwdjQ3YU16MDkwbzdaS05WU0ZVdzIzSmhQZ0Rmd01YaktKbFNScTJN0gHwAUFVX3lxTE14NzZQRHR6UlBXa29lNWhQTll1UFhJakVHdFd3MjVQYWtxMUdDdnBGQzlPcE50MHR0Zjlmc2xGNTVRY2g3M1BWc3dGNDVSNjcxaG1jdGlBcmdYcEJGcGRWN2JaV0FMN29peS1RYXZVTk1SRHRMa0FTU3NwN09qRV9kMG9GcUE0TmpxWk1MT1VYMWw1LVRKNm1WT1NFVUgxWXYzTlR0OTExSGdRVVRYckRTSnQ0cEIxa1BZdkI5MnByX3I4ZXk5cDJPeWd4akpWQUp4cDUyMlRxSEVaeWJScDZKLUpxRko3cVhmQjdNNG10bw?oc=5",
-      "source": "Demócrata",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-20T13:40:31.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "f9b5d7fc6172"
-    },
-    {
-      "title": "Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat",
-      "summary": "Pakistan says the comments contradict Washington’s position, but experts see them as a diplomatic misstep.",
-      "url": "https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-20T13:18:35.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "3893baab8e74"
-    },
-    {
-      "title": "Several Democratic Socialists of America-backed congressional nominees are traveling to Uruguay this week to join a left-wing international conference aimed at opposing President Donald Trump’s foreign policy in the Western Hemisphere.",
-      "summary": "Several Democratic Socialists of America-backed congressional nominees are traveling to Uruguay this week to join a left-wing international conference aimed at opposing President Donald Trump’s foreign policy in the Western Hemisphere. &nbsp;&nbsp; facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTWN4WEp6Q2p0cE9fMU5uaktWTXpqYWVQekJXX1UtbnFRNTJYWnZ4cXdqdWhkUWRnR09JTlphUlFESmo0djRXbmZBV1RkQmRSZnFRZWtTT3lueHk3cWJOYU04MjdFUDhtZU9tWC1JQ0hTV1NyOHQ4dlczRFk0SGE5R19iT3BGQVFxd1pEbkJKSWRabURTamREZTRvbzRXV0RiMGpXX2dkT1BHUHUzUHZFMU52LXUxUGFzOWQtTnVvQlAzRzlZMWlEbkRBekxFcDI2RjFSckxUeFBub1kzVFR6Smx3?oc=5",
-      "source": "facebook.com",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-20T13:01:05.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "39f082242784"
-    },
-    {
-      "title": "mine collapse-africa",
-      "summary": "mine collapse-africa &nbsp;&nbsp; WION",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MLUpIUmcwdWxJRjJ4T3B6VFhqdFdJUWUwNjVQeGF4ZEdrcUM4YmNaRWFVSXZyaURUeFZuWXlCakpNU1E0eThZUGhTbGpfbVZ3ekZYQk5fSHZJY2dkRXc?oc=5",
-      "source": "WION",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-20T10:15:57.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "c00bd7d0ec11"
-    },
-    {
-      "title": "API Summit: Breaking ground on accelerating African hotel builds - API Events",
-      "summary": "API Summit: Breaking ground on accelerating African hotel builds - API Events &nbsp;&nbsp; Bizcommunity",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3BBdHR5UzZWQlJIMXJfRGEtLV8wSmxBSkZuNk81bWo0VnJMWUxzcWRzbmhrdmg0OW1SWmk5b3JkaS1KUU5sYU4ydzJQZi1IZFgyQW9OVVphbjFHRk9zeG9QN1gwdHJmb0ZzYklra3hYZ2ZiaXowWGNvYVJBaXRrUVBJcVFoT2c1MGg2NV9keHk4QlhKdXVEM1NHN2V5a2lJdDczNTMtUnh3ZGg4?oc=5",
-      "source": "Bizcommunity",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-20T09:54:37.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "2a1a43bcc6e1"
-    },
-    {
-      "title": "TikTok’s Europe, Africa and LatAm Business Turns Its First Profit",
-      "summary": "TikTok’s Europe, Africa and LatAm Business Turns Its First Profit &nbsp;&nbsp; Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY191X1pKckp2N0U0cm9QVFRoTHJ0T05CTDhRNkZobW5ldV83Wm9DQUZ3Z3NDMWF1dlNhWEIwY3hDaEJ5dmM3Njg5Z1psYk5lVFVTT3oyY0dpZHkwZi02UmpnbFk3ek5HSWc1TkQ4UERZTllnS2dKS2NfdVN4dnZyNHEyUVU1UGlpMEY4SGZ0SlBnQ1dxYWRyM3N0OFlYMmV2SWZpbXlJbFloU2FzODBpRTVyZkZKR1k4emxveGtndURsV29pSklNVW5R?oc=5",
-      "source": "Forbes",
-      "feed": "Latin America News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-20T16:04:48.000Z",
-      "image": "",
-      "topic": "经济",
       "score": 71,
-      "id": "91ae68084bd5"
+      "id": "0658a87f6151"
     }
   ]
 }
