@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T22:44:33.615Z",
+  "updatedAt": "2026-08-21T23:41:58.150Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -16,7 +16,7 @@
       "publishedAt": "2026-08-21T22:13:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 92,
+      "score": 91,
       "id": "37978b6d587e"
     },
     {
@@ -29,7 +29,7 @@
       "publishedAt": "2026-08-21T21:23:35.000Z",
       "image": "",
       "topic": "社会",
-      "score": 91,
+      "score": 90,
       "id": "e39a50826fc3"
     },
     {
@@ -39,10 +39,10 @@
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "全球",
-      "publishedAt": "2026-08-21T21:52:16.000Z",
+      "publishedAt": "2026-08-21T23:22:06.000Z",
       "image": "https://i.guim.co.uk/img/media/fe49b4087569b0294cec5abd61ad195b814e4efe/375_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=124702d940d99c1bc4094452d016f244",
       "topic": "政治",
-      "score": 88,
+      "score": 89,
       "id": "67a5007f8838"
     },
     {
@@ -55,21 +55,47 @@
       "publishedAt": "2026-08-21T22:04:03.000Z",
       "image": "",
       "topic": "社会",
-      "score": 87,
+      "score": 86,
       "id": "7b979674c29c"
     },
     {
-      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-08-21T15:58:57.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
-      "topic": "社会",
+      "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
+      "summary": "Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-21T23:19:37.000Z",
+      "image": "",
+      "topic": "政治",
       "score": 84,
-      "id": "95e61e528b8d"
+      "id": "296b7d62e575"
+    },
+    {
+      "title": "Japan executes man convicted of killing five in pachinko fire",
+      "summary": "A man who killed five people by setting fire to a pachinko parlour in Osaka in 2009 has been hanged in Japan's first execution by Sanae Takaichi's government.",
+      "url": "https://www.abc.net.au/news/2026-08-22/japan-executes-man-convicted-fire-pachinko-osaka/107066666",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "亚洲",
+      "publishedAt": "2026-08-21T23:16:20.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/962c841531806233bb8225b41d33e6a4?impolicy=wcms_crop_resize&cropH=727&cropW=1292&xPos=5&yPos=169&width=862&height=485",
+      "topic": "政治",
+      "score": 84,
+      "id": "a8194a62bd12"
+    },
+    {
+      "title": "US Vice President JD Vance holds midterm election rally in Ohio hometown",
+      "summary": "The vice president's speech hinged heavily on economic themes, as voter confidence slips for Republican policies.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-21T22:52:40.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 84,
+      "id": "99ace78c062b"
     },
     {
       "title": "USS Abraham Lincoln aircraft carrier leaving Middle East after record-setting uninterrupted time at sea",
@@ -81,7 +107,7 @@
       "publishedAt": "2026-08-21T15:08:55.000Z",
       "image": "",
       "topic": "社会",
-      "score": 83,
+      "score": 82,
       "id": "2ac4816983db"
     },
     {
@@ -94,7 +120,7 @@
       "publishedAt": "2026-08-21T20:48:54.000Z",
       "image": "https://i.guim.co.uk/img/media/b0f676de5ee266f8b3f23ad41d8de14a44e1895c/467_0_4681_3744/master/4681.jpg?width=140&quality=85&auto=format&fit=max&s=c3929b6e77c1688292477de8cff1b2f8",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "6ab5866ddc32"
     },
     {
@@ -107,7 +133,7 @@
       "publishedAt": "2026-08-21T20:35:07.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "23aac29466db"
     },
     {
@@ -120,8 +146,34 @@
       "publishedAt": "2026-08-21T20:27:14.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "b0e6a295451e"
+    },
+    {
+      "title": "Girl, 6, dies three days after Shoreham sea incident that killed parents and sister",
+      "summary": "Saja El-Khawas had been in critical condition after being pulled from sea in West Sussex A six-year-old girl has died in hospital three days after being pulled from the sea off Shoreham in West Sussex, in an incident that also killed her mother, father and sister. Saja El-Khawas died on Friday after the deaths of her sister Sara El-Khawas, 14, and her parent",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/21/girl-six-dies-three-days-after-being-pulled-from-sea-off-sussex-coast",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-21T22:50:36.000Z",
+      "image": "https://i.guim.co.uk/img/media/bb3ce51e64a8105ed15299f9251115b4ba955d33/520_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2b908f514967dffa61f49837cdb84fd6",
+      "topic": "社会",
+      "score": 79,
+      "id": "95ff241e3ac0"
+    },
+    {
+      "title": "Two injured in stabbing attack at Canada Sikh temple",
+      "summary": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "美洲",
+      "publishedAt": "2026-08-21T22:45:01.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b22/live/a7b4a760-9d8d-11f1-adf5-2dc21c9cc109.jpg",
+      "topic": "社会",
+      "score": 79,
+      "id": "b826c3d0b8b2"
     },
     {
       "title": "Tasmania warned of 'stress, burnout' as justice staff wellbeing service axed",
@@ -133,21 +185,8 @@
       "publishedAt": "2026-08-21T22:17:59.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/ef833b7e66b8505cc78251f80145ea97?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=374&width=862&height=485",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "7c34ac610f37"
-    },
-    {
-      "title": "'Shameful': Australia, UK, Canada slam Israel over probe into aid killings",
-      "summary": "Australian Zomi Frankcom, three Britons, a dual US-Canadian national, a Pole and a Palestinian died in a drone strike in Gaza in 2024.",
-      "url": "https://www.abc.net.au/news/2026-08-22/australia-uk-canada-israel-aid-worker-probe/107066540",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "中东",
-      "publishedAt": "2026-08-21T19:09:50.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/73f48bd07b103d52efcce31790142099?impolicy=wcms_crop_resize&cropH=769&cropW=1367&xPos=0&yPos=196&width=862&height=485",
-      "topic": "社会",
-      "score": 80,
-      "id": "cf6b04370489"
     },
     {
       "title": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
@@ -159,7 +198,7 @@
       "publishedAt": "2026-08-21T19:08:30.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "bb53f3fa3e53"
     },
     {
@@ -172,8 +211,21 @@
       "publishedAt": "2026-08-21T19:00:42.000Z",
       "image": "https://i.guim.co.uk/img/media/6b5a42253a30cc8ec4bb1d1565aa0b39617ecb08/344_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=b385c812d13bcfcc6349d4e1197864d6",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "612c4ed403ae"
+    },
+    {
+      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-08-21T15:58:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
+      "topic": "社会",
+      "score": 79,
+      "id": "95e61e528b8d"
     },
     {
       "title": "The world of model railways and the folk who build them",
@@ -185,7 +237,7 @@
       "publishedAt": "2026-08-21T21:22:30.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/24ab5faaf2b0b28aa644b22f01dcff42?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=2&width=862&height=485",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "c51f7ab9f905"
     },
     {
@@ -198,24 +250,11 @@
       "publishedAt": "2026-08-21T21:15:12.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d136524f0aa04553a7993953d5826eea?impolicy=wcms_crop_resize&cropH=1585&cropW=2818&xPos=1182&yPos=44&width=862&height=485",
       "topic": "政治",
-      "score": 79,
+      "score": 77,
       "id": "4b8d64c85d84"
     },
     {
-      "title": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
-      "summary": "Joint statement issued after IDF said it will not pursue criminal investigations into April 2024 strike that killed seven humanitarian workers Britain, Australia and Canada have called the decision of the Israeli military authorities not to open a criminal investigation into the April 2024 airstrikes that hit a convoy of aid vehicles in Gaza “shameful”. The ",
-      "url": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-21T15:03:34.000Z",
-      "image": "https://i.guim.co.uk/img/media/6f8218c8c2d7497add0d356c16dac75464f978de/0_0_4426_3543/master/4426.jpg?width=140&quality=85&auto=format&fit=max&s=8b88e3ca4473e3b0e89c0785cbe9954c",
-      "topic": "政治",
-      "score": 79,
-      "id": "02283118187a"
-    },
-    {
-      "title": "Victorian premier vows to open 10 free dental clinics",
+      "title": "Victorians to access free dental clinics under latest election promise",
       "summary": "Ben Carroll vows to create seven free walk-in dental clinics in metropolitan Melbourne and three in regional Victoria if he wins the November election.",
       "url": "https://www.abc.net.au/news/2026-08-22/victorian-government-promises-free-public-dental-clinics/107065478",
       "source": "ABC Australia",
@@ -224,8 +263,8 @@
       "publishedAt": "2026-08-21T21:12:43.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/b59918af376f545825932c15f1b4252f?impolicy=wcms_crop_resize&cropH=1126&cropW=1999&xPos=0&yPos=159&width=862&height=485",
       "topic": "政治",
-      "score": 78,
-      "id": "07ddba757850"
+      "score": 77,
+      "id": "d4e7a202dd6a"
     },
     {
       "title": "Global Sumud Flotilla joins Albania’s anti-resort protest",
@@ -237,8 +276,21 @@
       "publishedAt": "2026-08-21T21:11:13.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "8dd0ab299ab6"
+    },
+    {
+      "title": "US debt tops $40 trillion, Americans left with the bill",
+      "summary": "The US national debt has officially surpassed $40 trillion for the first time in history, and it’s growing fast.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-21T23:19:48.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "f3ac65de4f1b"
     },
     {
       "title": "Winter nears its end as temperatures begin to warm across Sunshine State",
@@ -250,7 +302,7 @@
       "publishedAt": "2026-08-21T20:30:43.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/38f784eef5499f43fe6a6c0fe851f8d1?impolicy=wcms_crop_resize&cropH=2053&cropW=3650&xPos=0&yPos=679&width=862&height=485",
       "topic": "政治",
-      "score": 78,
+      "score": 76,
       "id": "b401d24fa1a1"
     },
     {
@@ -263,7 +315,7 @@
       "publishedAt": "2026-08-21T20:07:40.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "9e36b77aaad6"
     },
     {
@@ -276,21 +328,47 @@
       "publishedAt": "2026-08-21T19:57:13.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/202643d5ef998d55b8f6e7029a36df50?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "88aee3149399"
     },
     {
-      "title": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
-      "summary": "The president did not mention with whom he made the deal or where the imported ground beef is coming from.",
-      "url": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-21T19:42:51.000Z",
-      "image": "",
+      "title": "Live: Australia wins the toss, bowls first as it looks for response against Bangladesh",
+      "summary": "Mackay's Harrup Park becomes the 12th Australian venue to host a Test match, with Australia desperate for an improved performance in the second and final Test against Bangladesh. Follow live.",
+      "url": "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-live-updates-second-test-day-one/107063906",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-21T23:08:34.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/892d52d16ba35755b525bf1c22ccf0bc?impolicy=wcms_crop_resize&cropH=2811&cropW=4998&xPos=0&yPos=412&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "a8e888c0079f"
+    },
+    {
+      "title": "Lions coach 'feels sorry' for Swans as likely finals clash looms",
+      "summary": "Brisbane Lions coach Chris Fagan describes the Sydney Swans scandal as a \"head-scratcher\", with the two teams likely to meet in the AFL qualifying final.",
+      "url": "https://www.abc.net.au/news/2026-08-22/afl-brisbane-lions-coach-chris-fagan-feels-sorry-sydney-swans/107066662",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-21T23:00:51.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/aaef64f1169eb5fdced8ad2ce7ca69d4?impolicy=wcms_crop_resize&cropH=2481&cropW=4411&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "56d893f71931"
+    },
+    {
+      "title": "From Nhulunbuy to New York, the rare politician torn between two worlds",
+      "summary": "From Arnhem Land to Northern Territory parliament, independent MLA Yiŋiya Guyula resigned from politics this week after taking his people's fight to the world.",
+      "url": "https://www.abc.net.au/news/2026-08-22/analysis-yingiya-guyula-entered-nt-parliament-an-outlier/107063254",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-21T22:49:03.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3456c2d59ea8048d0e7fa19a512b7939?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=318&width=862&height=485",
       "topic": "政治",
-      "score": 77,
-      "id": "f9c23cd2ab7e"
+      "score": 75,
+      "id": "c9ad0609f757"
     },
     {
       "title": "'Sliding doors': The choices that could have saved a young man's life",
@@ -302,21 +380,8 @@
       "publishedAt": "2026-08-21T22:34:42.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/a57ba0c78371a851046735b5645b9cbd?impolicy=wcms_crop_resize&cropH=360&cropW=640&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "6c301180a2db"
-    },
-    {
-      "title": "History made as Tasmanian red wins top gong at prestigious wine show",
-      "summary": "The winner of the prestigious Sydney Royal Wine Show is a red with an unusual origin.",
-      "url": "https://www.abc.net.au/news/rural/2026-08-22/sydney-royal-wine-show-marks-200-years/106965776",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-21T22:25:20.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d94f9ef820abb63f9f401cf2c8549cd6?impolicy=wcms_crop_resize&cropH=1079&cropW=1919&xPos=0&yPos=87&width=862&height=485",
-      "topic": "社会",
-      "score": 76,
-      "id": "64354fa54a82"
     },
     {
       "title": "US Supreme Court allows Trump’s ballroom project to continue for now",
@@ -328,8 +393,21 @@
       "publishedAt": "2026-08-21T19:52:34.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "48ec1991c694"
+    },
+    {
+      "title": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
+      "summary": "The president did not mention with whom he made the deal or where the imported ground beef is coming from.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-21T19:42:51.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "f9c23cd2ab7e"
     },
     {
       "title": "Why these people believe in 'freak' Tadej Pogačar's victories",
@@ -341,7 +419,7 @@
       "publishedAt": "2026-08-21T19:32:45.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d108f5c5de7dcf244a7fe6b7ac1998d8?impolicy=wcms_crop_resize&cropH=1751&cropW=3113&xPos=1280&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "5cb75b55d7b5"
     },
     {
@@ -354,7 +432,7 @@
       "publishedAt": "2026-08-21T19:29:20.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "fef122884b16"
     },
     {
@@ -367,21 +445,8 @@
       "publishedAt": "2026-08-21T19:21:08.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "4b1832f2986f"
-    },
-    {
-      "title": "Australia on track for wettest El Niño on record",
-      "summary": "El Niño is synonymous with drought in Australia, but another rainband is lining up to soak the nation this week.",
-      "url": "https://www.abc.net.au/news/2026-08-22/australia-weather-on-track-for-wettest-el-nino-on-record/107064594",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-21T19:19:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/1b096ad52d49010d470eabb45ac9300d?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=0&width=862&height=485",
-      "topic": "气候",
-      "score": 76,
-      "id": "63a39dc7ac52"
     },
     {
       "title": "Palestinian victims of Israeli settler attacks face battle for justice",
@@ -393,34 +458,21 @@
       "publishedAt": "2026-08-21T19:14:42.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "271b590b9740"
     },
     {
-      "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
-      "summary": "A Ghouta tunnel used during Assad’s siege is now a museum, 13 years after government forces’ deadly sarin gas attack.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-21T18:55:22.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 76,
-      "id": "313ff5ada461"
-    },
-    {
-      "title": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
-      "summary": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mocking Canada for apparently capitulating in a trade deal and taunting the prime minister, Mark Carney, for trying to “out-tough” Donald Trump. The recording, wh",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-08-21T15:22:48.000Z",
-      "image": "https://i.guim.co.uk/img/media/e60c561c88a26ce167735ef91210ae4cc78dd494/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e42ad8f4fd17e212b111b799f3ea2506",
-      "topic": "政治",
-      "score": 76,
-      "id": "0dfcf90236e5"
+      "title": "History made as Tasmanian red wins top gong at prestigious wine show",
+      "summary": "The winner of the prestigious Sydney Royal Wine Show is a red with an unusual origin.",
+      "url": "https://www.abc.net.au/news/rural/2026-08-22/sydney-royal-wine-show-marks-200-years/106965776",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-21T22:25:20.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d94f9ef820abb63f9f401cf2c8549cd6?impolicy=wcms_crop_resize&cropH=1079&cropW=1919&xPos=0&yPos=87&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "64354fa54a82"
     },
     {
       "title": "Inquiry into criminalising abuse that can 'make your life hell' hears from just one survivor",
@@ -432,7 +484,7 @@
       "publishedAt": "2026-08-21T22:07:09.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/aa8de8fe964a675e02ab3c8a07550a7c?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=313&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "e659e3a2b46c"
     },
     {
@@ -445,7 +497,7 @@
       "publishedAt": "2026-08-21T22:05:24.000Z",
       "image": "https://i.guim.co.uk/img/media/b2d9653bdd6c451e907821d5aa66ec50260b3dff/191_288_6470_5176/master/6470.jpg?width=140&quality=85&auto=format&fit=max&s=8dbb8a6b09cdaed7f153282b88567832",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "200aad15bfed"
     },
     {
@@ -458,7 +510,7 @@
       "publishedAt": "2026-08-21T22:03:22.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1298d39f69d438a246d038dba7594800?impolicy=wcms_crop_resize&cropH=2437&cropW=4332&xPos=0&yPos=215&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "17e35c22628d"
     },
     {
@@ -471,7 +523,7 @@
       "publishedAt": "2026-08-21T22:00:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d626d2653797ca3a0efabee7c621b102?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=182&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "8e5d462b8691"
     },
     {
@@ -484,7 +536,7 @@
       "publishedAt": "2026-08-21T21:59:29.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "91a5574bb255"
     },
     {
@@ -497,8 +549,21 @@
       "publishedAt": "2026-08-21T21:58:56.000Z",
       "image": "https://i.guim.co.uk/img/media/bf50dbf64194f27354affa309cfe027262f5fb13/173_0_1437_1150/master/1437.jpg?width=140&quality=85&auto=format&fit=max&s=1fc2b81fc503e256bf4965a385d3739e",
       "topic": "科技",
-      "score": 75,
+      "score": 74,
       "id": "eb53a12f7db8"
+    },
+    {
+      "title": "Dick and Angel announce South Africa debut for Escape to the Chateau",
+      "summary": "Dick and Angel announce South Africa debut for Escape to the Chateau &nbsp;&nbsp; Essex Live",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQnpwZFZ3c0tZQllobm5ZLWExSTlCR0JocUxGNV9EbllicGhBeVpvdHp0V1lodmFlX3AxWDBFQXN5Z3VFaUw5NmJsd2tjM3dSb3UyRTZRdjlnZHpWNFZfSkUxc0R2eGhHNjN0UXRtLU9jTExMSk94SVdTMmN5VXlXTDA4TXJRT0V5T0E0?oc=5",
+      "source": "Essex Live",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-21T21:57:33.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 74,
+      "id": "da156623ea15"
     },
     {
       "title": "Our backyards are a free supermarket of bush tucker superfoods",
@@ -510,47 +575,21 @@
       "publishedAt": "2026-08-21T21:55:14.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/f9b0ade3aa78b6eea1a271d0c2cb1742?impolicy=wcms_crop_resize&cropH=1578&cropW=2806&xPos=0&yPos=270&width=862&height=485",
       "topic": "经济",
-      "score": 75,
+      "score": 74,
       "id": "fc182d852a7c"
     },
     {
-      "title": "Wildcard woes: Why the Crows are walking a tightrope",
-      "summary": "If Adelaide beats GWS on Saturday night, it could still face the precarious possibility of being both the first minor premier in the AFL to exit in straight sets and the first ever side to lose a wildcard final.",
-      "url": "https://www.abc.net.au/news/2026-08-22/adelaide-crows-walk-wildcard-tightrope-on-eve-of-afl-finals/107058378",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-21T21:48:08.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/b434b9d4d2af3c848782200c078f7c3c?impolicy=wcms_crop_resize&cropH=1983&cropW=3526&xPos=239&yPos=125&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "dfccc8c2759e"
-    },
-    {
-      "title": "Mexico Governor Ruben Rocha returns to office despite US criminal charges",
-      "summary": "The governor, who leads the state of Sinaloa, has been accused by the Trump administration of partnering with a cartel.",
-      "url": "https://www.aljazeera.com/news/2026/8/21/mexico-governor-ruben-rocha-returns-to-office-despite-us-criminal-charges?traffic_source=rss",
+      "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
+      "summary": "A Ghouta tunnel used during Assad’s siege is now a museum, 13 years after government forces’ deadly sarin gas attack.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-21T21:38:32.000Z",
+      "region": "中东",
+      "publishedAt": "2026-08-21T18:55:22.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "8055b747330b"
-    },
-    {
-      "title": "NSW baby makes history after breakthrough epilepsy treatment",
-      "summary": "A baby from the NSW Central Coast has made medical history, becoming the first person in the world to receive a precision medicine treatment for a rare and devastating form of epilepsy.",
-      "url": "https://www.abc.net.au/news/2026-08-22/baby-gets-world-first-epilepsy-treatment-at-sydney-hospital/107050908",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-21T21:37:52.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/fbb3103354ddf8747be4a5aa1e58e4d1?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=61&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "cf442dae58e7"
+      "topic": "政治",
+      "score": 74,
+      "id": "313ff5ada461"
     },
     {
       "title": "Breaking Ranks: New issue of RAMALC’s magazine",
@@ -562,34 +601,8 @@
       "publishedAt": "2026-08-21T18:29:13.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "1a73990c16de"
-    },
-    {
-      "title": "Two injured in stabbing attack at Canada Sikh temple",
-      "summary": "One suspect is in custody, but police have not disclosed a possible motive.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "美洲",
-      "publishedAt": "2026-08-21T18:27:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b22/live/a7b4a760-9d8d-11f1-adf5-2dc21c9cc109.jpg",
-      "topic": "社会",
-      "score": 75,
-      "id": "b826c3d0b8b2"
-    },
-    {
-      "title": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
-      "summary": "Relatives of former Pakistani Prime Minister Imran Khan say he’s being tortured in prison.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-21T18:25:40.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "34d254180c55"
     },
     {
       "title": "Russian drone attack on busy shopping centre kills 15 in Ukraine",
@@ -601,37 +614,37 @@
       "publishedAt": "2026-08-21T18:17:40.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "391393b0e6ff"
     },
     {
-      "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
-      "summary": "A recording of the interview Duane Davis conducted with detectives was played to the jury.",
-      "url": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-21T18:09:38.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37e6/live/437eb910-9d57-11f1-a291-b542ee92de7c.jpg",
-      "topic": "社会",
-      "score": 75,
-      "id": "ed58f5cb3c5b"
-    },
-    {
-      "title": "Britain’s railway prepares for more extreme weather as intense El Niño develops",
-      "summary": "Experts say more must be done to adapt to changing climate, after two trains derailed within 24 hours during a recent heatwave Railway companies are racing to prepare for another brutal summer next year, as a developing El Niño could see 2027 break more heat-related records. Britain’s railway system has already been under stress from extreme heat this summer",
-      "url": "https://www.theguardian.com/environment/2026/aug/21/britains-railway-prepares-for-more-extreme-weather-as-intense-el-nino-develops",
+      "title": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
+      "summary": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mocking Canada for apparently capitulating in a trade deal and taunting the prime minister, Mark Carney, for trying to “out-tough” Donald Trump. The recording, wh",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
       "source": "The Guardian",
       "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-21T18:07:51.000Z",
-      "image": "https://i.guim.co.uk/img/media/6ec7c70476f838932ca82f465ab018db554f5c3f/461_0_6010_4807/master/6010.jpg?width=140&quality=85&auto=format&fit=max&s=08b8db0380468c0b45c6c7508286003d",
-      "topic": "气候",
-      "score": 75,
-      "id": "91bfe1ad34e0"
+      "region": "美洲",
+      "publishedAt": "2026-08-21T15:22:48.000Z",
+      "image": "https://i.guim.co.uk/img/media/e60c561c88a26ce167735ef91210ae4cc78dd494/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e42ad8f4fd17e212b111b799f3ea2506",
+      "topic": "政治",
+      "score": 74,
+      "id": "0dfcf90236e5"
     },
     {
-      "title": "Cults, setups and rumours: how the NSW Icac inquiry became a chance for revenge",
+      "title": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
+      "summary": "Joint statement issued after IDF said it will not pursue criminal investigations into April 2024 strike that killed seven humanitarian workers Britain, Australia and Canada have called the decision of the Israeli military authorities not to open a criminal investigation into the April 2024 airstrikes that hit a convoy of aid vehicles in Gaza “shameful”. The ",
+      "url": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-08-21T15:03:34.000Z",
+      "image": "https://i.guim.co.uk/img/media/6f8218c8c2d7497add0d356c16dac75464f978de/0_0_4426_3543/master/4426.jpg?width=140&quality=85&auto=format&fit=max&s=8b88e3ca4473e3b0e89c0785cbe9954c",
+      "topic": "政治",
+      "score": 74,
+      "id": "02283118187a"
+    },
+    {
+      "title": "Cults, setups and rumours: years after their downfalls, former NSW Liberal MPs are exacting their revenge",
       "summary": "David Elliott and Eleni Petinos believe they were brought down by their own party. The Icac hearing has given them a chance to set the record straight Get our breaking news email , free app or daily news podcast Revenge, they say, is a dish best served cold. It’s been almost four years since the former New South Wales MP, David Elliott, announced that he wou",
       "url": "https://www.theguardian.com/australia-news/2026/aug/22/cults-setups-and-devastating-rumours-years-after-their-downfalls-these-former-nsw-mps-are-exacting-their-revenge-ntwnfb",
       "source": "The Guardian",
@@ -640,21 +653,8 @@
       "publishedAt": "2026-08-21T15:00:37.000Z",
       "image": "https://i.guim.co.uk/img/media/761ce6013708b44ae2840aa6e92cb20a56f6fff0/986_456_5780_4627/master/5780.jpg?width=140&quality=85&auto=format&fit=max&s=8ea0a509f0bf007963673820d9740fec",
       "topic": "社会",
-      "score": 75,
-      "id": "3f7864d45161"
-    },
-    {
-      "title": "One dead after teenager carries out sword attack at Swedish school",
-      "summary": "One person has died after an 18-year-old man armed with a sword carried out an attack at a school in Sweden, police have said.",
-      "url": "https://news.sky.com/story/sword-wielding-attacker-injures-several-people-at-swedish-school-13575399",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "全球",
-      "publishedAt": "2026-08-21T11:59:00.000Z",
-      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-sweden-sword_7327520.jpg?20260821172337",
-      "topic": "社会",
-      "score": 75,
-      "id": "cea91f93e7f6"
+      "score": 74,
+      "id": "73db1531eff6"
     },
     {
       "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
@@ -666,12 +666,25 @@
       "publishedAt": "2026-08-21T11:42:10.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "ddbccebf3088"
     },
     {
-      "title": "Trump threatens $5bn lawsuit over liberal National Guard policy report",
-      "summary": "A report released by thinktank Cap argues the deployment of the National Guard failed to have a measurable impact on crime, despite costing billions The Center for American Progress (Cap) received a letter from Donald Trump’s lawyer threatening a $5bn lawsuit unless the liberal research organization retracts a report criticizing the effectiveness of the pres",
+      "title": "Mexico Governor Ruben Rocha returns to office despite US criminal charges",
+      "summary": "The governor, who leads the state of Sinaloa, has been accused by the Trump administration of partnering with a cartel.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/mexico-governor-ruben-rocha-returns-to-office-despite-us-criminal-charges?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-21T21:38:32.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 73,
+      "id": "8055b747330b"
+    },
+    {
+      "title": "Trump threatens $5bn lawsuit over liberal national guard policy report",
+      "summary": "A report released by thinktank Cap argues the deployment of the national guard failed to have a measurable impact on crime, despite costing billions The Center for American Progress (Cap) received a letter from Donald Trump’s lawyer threatening a $5bn lawsuit unless the liberal research organization retracts a report criticizing the effectiveness of the pres",
       "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-lawsuit-threat-national-guard-deployment-report",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -679,8 +692,8 @@
       "publishedAt": "2026-08-21T21:17:20.000Z",
       "image": "https://i.guim.co.uk/img/media/875f2650f8fa3ca837d49fa8c4de8f1745fd7d97/0_0_5324_4260/master/5324.jpg?width=140&quality=85&auto=format&fit=max&s=a2ec894e649a20ca8272128effe51320",
       "topic": "社会",
-      "score": 74,
-      "id": "aec30d06bad6"
+      "score": 73,
+      "id": "bc04b1ba73a1"
     },
     {
       "title": "CFMEU inquiry lays bare alleged link between bikie gangs and construction sites",
@@ -692,34 +705,34 @@
       "publishedAt": "2026-08-21T21:01:05.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/2f54881d1ee850b3fbc86e4db3873160?impolicy=wcms_crop_resize&cropH=2705&cropW=4808&xPos=0&yPos=245&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "dc42bd3139e6"
     },
     {
-      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
-      "summary": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
-      "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "非洲",
-      "publishedAt": "2026-08-21T13:44:43.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e4/live/66300b20-9d5d-11f1-a291-b542ee92de7c.jpg",
-      "topic": "政治",
-      "score": 74,
-      "id": "725b190a437d"
+      "title": "Britain’s railway prepares for more extreme weather as intense El Niño develops",
+      "summary": "Experts say more must be done to adapt to changing climate, after two trains derailed within 24 hours during a recent heatwave Railway companies are racing to prepare for another brutal summer next year, as a developing El Niño could see 2027 break more heat-related records. Britain’s railway system has already been under stress from extreme heat this summer",
+      "url": "https://www.theguardian.com/environment/2026/aug/21/britains-railway-prepares-for-more-extreme-weather-as-intense-el-nino-develops",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-21T18:07:51.000Z",
+      "image": "https://i.guim.co.uk/img/media/6ec7c70476f838932ca82f465ab018db554f5c3f/461_0_6010_4807/master/6010.jpg?width=140&quality=85&auto=format&fit=max&s=08b8db0380468c0b45c6c7508286003d",
+      "topic": "气候",
+      "score": 73,
+      "id": "91bfe1ad34e0"
     },
     {
-      "title": "Amazon bets bigger on Latin America with $2 billion Prime Video investment",
-      "summary": "Amazon bets bigger on Latin America with $2 billion Prime Video investment &nbsp;&nbsp; Storyboard18",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNHd1dzhzTU1GSnhreGVkWlA3NVJpNDRGcU96WU9FSC1BQ0tVaGU2OHd3NkVXM0dVcmNFZkQzMVBTVXg2ZDM4aEpPTEI1OGFzSldxV2c5Y2paVEFBUkpCRE9BQ3dUV2ZLOGJRQU9qZGhpdWV6a1EySk5CbEZ0cmE2YWMwcks1UGtfUll2ZXplU0NGdHFPOTd3R3BkTUk3c1lqMEFkak5wNnR4d0ZlSVN3XzBhNTByT1BVWEFBNFgya2tmTzhPVlFHS25rRGtsM1N2amkyM1ZnclHSAdgBQVVfeXFMTzR3dXc4c01NRkp4a3hlZFpQNzVSaTQ0RnFPellPRUgtQUNLVWhlNjh3dzZFVzNHVXJjRWZEMzFQU1V4NmQzOGhKT0xCNThhc0pXcVdnOWNqWlRBQVJKQkRPQUN3VFdmSzhiUUFPamRoaXVlemtRMkpOQmxGdHJhNmFjMHJLNVBrX1JZdmV6ZVNDRnRxTzk3d0dwZE1JN3NZajBBZGpOcDZ0eHdGZUlTd18wYTUwck9QVVhBQTRYMmtrZk84T1ZRR0tua0RrbDNTdmppMjNWZ3JR?oc=5",
-      "source": "Storyboard18",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-21T11:14:16.000Z",
+      "title": "NPIC robotics team represents Cambodia at Asia-Pacific ABU Robocon 2026",
+      "summary": "NPIC robotics team represents Cambodia at Asia-Pacific ABU Robocon 2026 &nbsp;&nbsp; Khmer Times",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmNnODNOMWVhdEZsM1o1dDgzWW5Yb1U3dHB5YWtIbEFxdDdkSHBmTk9nU1hrRkpaM1BTaVdRTU9xNVNObTJKdTZLc2hKb1lCbEFEaDhIWGZZelBLSXYyUHFkOU5vOWo4Wl9ENVI5MkFJa0pYWkJhVG1uU1dxWWI2V0NwVDh2OXZ2TDVOSVZ5U2VDejMzM3FDYTF0ckpIa0hjekd5V2tZQThVVE9RODJoUg?oc=5",
+      "source": "Khmer Times",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-21T23:28:28.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "dd1331849002"
+      "topic": "科技",
+      "score": 72,
+      "id": "6387856435e9"
     },
     {
       "title": "Apple paid Ireland $17 billion last year as EU back-tax case came due",
@@ -731,7 +744,7 @@
       "publishedAt": "2026-08-21T20:29:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "b310248c5006"
     },
     {
@@ -744,7 +757,7 @@
       "publishedAt": "2026-08-21T20:16:59.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "b7399c96e85b"
     },
     {
@@ -757,21 +770,34 @@
       "publishedAt": "2026-08-21T20:12:33.000Z",
       "image": "https://i.guim.co.uk/img/media/42dcbe50e263403769a169ca812482719ab67cdb/217_0_3084_2467/master/3084.jpg?width=140&quality=85&auto=format&fit=max&s=95ea5a22c0ee7ff90a1008a5ef51b412",
       "topic": "经济",
-      "score": 73,
+      "score": 72,
       "id": "30afe94ff7da"
     },
     {
-      "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
-      "summary": "UK, Australia and Canada call Israel’s decision not to investigate deadly 2024 strike on a Gaza aid convoy 'shameful'.",
-      "url": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-21T20:03:35.000Z",
+      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+      "summary": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
+      "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "非洲",
+      "publishedAt": "2026-08-21T13:44:43.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e4/live/66300b20-9d5d-11f1-a291-b542ee92de7c.jpg",
+      "topic": "政治",
+      "score": 72,
+      "id": "725b190a437d"
+    },
+    {
+      "title": "Amazon bets bigger on Latin America with $2 billion Prime Video investment",
+      "summary": "Amazon bets bigger on Latin America with $2 billion Prime Video investment &nbsp;&nbsp; Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNHd1dzhzTU1GSnhreGVkWlA3NVJpNDRGcU96WU9FSC1BQ0tVaGU2OHd3NkVXM0dVcmNFZkQzMVBTVXg2ZDM4aEpPTEI1OGFzSldxV2c5Y2paVEFBUkpCRE9BQ3dUV2ZLOGJRQU9qZGhpdWV6a1EySk5CbEZ0cmE2YWMwcks1UGtfUll2ZXplU0NGdHFPOTd3R3BkTUk3c1lqMEFkak5wNnR4d0ZlSVN3XzBhNTByT1BVWEFBNFgya2tmTzhPVlFHS25rRGtsM1N2amkyM1ZnclHSAdgBQVVfeXFMTzR3dXc4c01NRkp4a3hlZFpQNzVSaTQ0RnFPellPRUgtQUNLVWhlNjh3dzZFVzNHVXJjRWZEMzFQU1V4NmQzOGhKT0xCNThhc0pXcVdnOWNqWlRBQVJKQkRPQUN3VFdmSzhiUUFPamRoaXVlemtRMkpOQmxGdHJhNmFjMHJLNVBrX1JZdmV6ZVNDRnRxTzk3d0dwZE1JN3NZajBBZGpOcDZ0eHdGZUlTd18wYTUwck9QVVhBQTRYMmtrZk84T1ZRR0tua0RrbDNTdmppMjNWZ3JR?oc=5",
+      "source": "Storyboard18",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-21T11:14:16.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
-      "id": "090076033451"
+      "score": 72,
+      "id": "dd1331849002"
     },
     {
       "title": "Prime Video Sets Plan To Invest $2 Billion In Latin America",
@@ -783,21 +809,21 @@
       "publishedAt": "2026-08-21T11:04:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "280923d40509"
     },
     {
-      "title": "Powerus to deliver anti-drone systems to Middle East",
-      "summary": "Powerus to deliver anti-drone systems to Middle East &nbsp;&nbsp; Report.az",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTE5aVlhYQzlES3R2OGFfRTFBaHpTMDZVeWRIMmJzWE9IMFZaeXpVblRkM1JkLXdfYWpyOUFONXFscVZFY3hRbHF2U09scW5Ea1F3VUZnVy1PVUIya2EyYlZyY0hoME00YUtHVVp5Um03NEV0Qk9kbHU0WkotN2hGaG1JWmUzS3pjcXB0WDdjTTVneTDSAZgBQVVfeXFMTUhnSlA2VGExaXJQc3NLMGlNMWpiMkRWc3RkVWlUdFNwUHpUWkluTzZaZnkzMklqOGZKT2VITVl1Z0FNX1ZfQjlsaFlxUmppOUlIcjF0VEFNMTJ0NUJaYTBacHVrbHJPZFpscmJQM09vTVdQZVRzZTE1ei1EdnZDUl9wcmRsWjFEX2MtdWJVMURFYkVSdFBYUWU?oc=5",
-      "source": "Report.az",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-21T10:29:52.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "5780e812c7ab"
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "亚洲",
+      "publishedAt": "2026-08-21T10:46:09.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f281/live/3dc58f60-9d09-11f1-a291-b542ee92de7c.jpg",
+      "topic": "政治",
+      "score": 72,
+      "id": "55c8491bf944"
     },
     {
       "title": "How Africa’s Airport Boom Is Gaining Altitude",
@@ -809,21 +835,8 @@
       "publishedAt": "2026-08-21T22:34:46.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "cd3b81f98aaa"
-    },
-    {
-      "title": "Balance of power in South Asia!",
-      "summary": "Balance of power in South Asia! &nbsp;&nbsp; Pakistan Observer",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZNEZad3FzVTVyRlVSX00wTTZfWFRoTVVDb3RDbkJKWVAtRUNsMzl5NXRxc3pGMEdkaUU1RHQyeFVTVmQ3RXc1WWlwV0FVbU8ySXFDSEplRkVxeWo5SEZEMUFMWDFYQQ?oc=5",
-      "source": "Pakistan Observer",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-21T22:32:36.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "9ed18cff23ad"
     },
     {
       "title": "Incredible POV footage shows US Air Force refueling operation over Middle East",
@@ -835,21 +848,21 @@
       "publishedAt": "2026-08-21T22:30:51.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "953dc06707d8"
     },
     {
-      "title": "Dominican Republic Bill Could Allow Gambling Operators to Reduce Tax Debts",
-      "summary": "Dominican Republic Bill Could Allow Gambling Operators to Reduce Tax Debts &nbsp;&nbsp; iGamingToday.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWF2VkJLOWhLWkNYbVVxQXlHZmxfVHlZM2dEdHh4MGVFVzNxNWUtWVR2NkdqSkpMRlJ6eS1qLUV5dVhKT2p5bWxjZ1E1OEFtSlpITkZDXzhlckh5S3BsdElFdWF6WXVna1A5RXhwdkpUajlOSDdyeDdFdmY1SmhVTHdhd1BHWTlDWkk3WEVCbFVYY1FLVWZBb2ZDQkxpZ3RJUnpQSGhpZw?oc=5",
-      "source": "iGamingToday.com",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-21T22:23:29.000Z",
+      "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
+      "summary": "UK, Australia and Canada call Israel’s decision not to investigate deadly 2024 strike on a Gaza aid convoy 'shameful'.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-21T20:03:35.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
-      "id": "6eccd96c258d"
+      "score": 71,
+      "id": "090076033451"
     },
     {
       "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
@@ -861,7 +874,7 @@
       "publishedAt": "2026-08-21T19:49:56.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "fe42bd94ca54"
     },
     {
@@ -874,8 +887,21 @@
       "publishedAt": "2026-08-21T19:45:37.000Z",
       "image": "",
       "topic": "气候",
-      "score": 72,
+      "score": 71,
       "id": "c54aa6fd3985"
+    },
+    {
+      "title": "Colombia earthquake leaves nursing home residents left in the lurch",
+      "summary": "Colombia earthquake leaves nursing home residents left in the lurch &nbsp;&nbsp; Latin America Reports",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFM5UzFYcnpzcm10Q3NBUm1NVVhaTGRuRmEtUGUwMmhKMVNXS2pnY0tLdUdqNVlTT1dremJHSnRSR24xczhyOEJ0Y25ESU92eWRMYS01WmwtRFlMOG1BaE9rN0VMLU13RlBOajZXQmNnWjhHQWFMUnJPT1ZzWlFpaXRWMmstM05kMF9WQXNGV3JJaGpWcnNhV0dVSnlDWFJJb0NIVnFGYlh0UQ?oc=5",
+      "source": "Latin America Reports",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-21T19:36:05.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 71,
+      "id": "bfe719c323bd"
     },
     {
       "title": "How Israel is expanding settlements in drive to reshape West Bank",
@@ -887,7 +913,7 @@
       "publishedAt": "2026-08-21T19:31:47.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c529/live/3bc5a6a0-9d8b-11f1-adf5-2dc21c9cc109.jpg",
       "topic": "经济",
-      "score": 72,
+      "score": 71,
       "id": "834f32ea5dc5"
     },
     {
@@ -900,7 +926,7 @@
       "publishedAt": "2026-08-21T19:20:17.000Z",
       "image": "",
       "topic": "经济",
-      "score": 72,
+      "score": 71,
       "id": "7653baab2209"
     },
     {
@@ -913,34 +939,8 @@
       "publishedAt": "2026-08-21T19:11:09.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
-      "id": "6267bdf05e39"
-    },
-    {
-      "title": "IDF criminal probes on Gaza deaths won’t include Zomi attack",
-      "summary": "IDF criminal probes on Gaza deaths won’t include Zomi attack &nbsp;&nbsp; The Nightly",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdUZVWmdGamp2dEYxaHpzQVdpcllmbU1pVjRXVlV2SmJ5QktvdDdONl83dllXV0t1MlBZX0NCZUFuQnZBVFQ4dEN2QzRpeE1uZVQ1a1NWVmNBNG5CNGVkU3R1cGhjLXZfX2ZMY0dEdkFqRVRPSFlZbW1aN2RaLVhvUXRBWENFN251VE9jaXU0S3Y2MTRpWHBIYjFSZjhLcU1LRjd6X3JNQjVXZEYxdFdzOXdydVB3Y3FDLWdCMFpQOERwSFZUdXVTdTBhODJBMDh4Sjh6MjlUenZSRXkyVHB3VUJhTnJ6VWc?oc=5",
-      "source": "The Nightly",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-21T18:54:31.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "8185fde3484d"
-    },
-    {
-      "title": "Drone strike on Ukraine shopping centre kills 14, over 100 injured",
-      "summary": "A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing 14 people and injuring over 100",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-21T18:40:11.000Z",
-      "image": "",
-      "topic": "社会",
       "score": 71,
-      "id": "e36403d6fcd7"
+      "id": "6267bdf05e39"
     }
   ]
 }
