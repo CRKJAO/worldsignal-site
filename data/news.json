@@ -1,11 +1,37 @@
 {
-  "updatedAt": "2026-08-21T18:59:50.911Z",
+  "updatedAt": "2026-08-21T19:40:46.539Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "One killed in sword attack at Swedish school",
+      "summary": "One person remains in a critical condition, while another suffered minor injuries in the attack.",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-21T19:22:05.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg",
+      "topic": "社会",
+      "score": 92,
+      "id": "e8cfab5d02ec"
+    },
+    {
+      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "中东",
+      "publishedAt": "2026-08-21T15:58:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
+      "topic": "社会",
+      "score": 88,
+      "id": "95e61e528b8d"
+    },
     {
       "title": "USS Abraham Lincoln aircraft carrier leaving Middle East after record-setting uninterrupted time at sea",
       "summary": "USS Abraham Lincoln aircraft carrier leaving Middle East after record-setting uninterrupted time at sea &nbsp;&nbsp; LiveNOW from FOX",
@@ -16,7 +42,7 @@
       "publishedAt": "2026-08-21T15:08:55.000Z",
       "image": "",
       "topic": "社会",
-      "score": 88,
+      "score": 87,
       "id": "2ac4816983db"
     },
     {
@@ -29,34 +55,34 @@
       "publishedAt": "2026-08-21T16:42:21.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/0bb9e24d8b38b0552d3be01882997987?impolicy=wcms_crop_resize&cropH=881&cropW=1567&xPos=17&yPos=196&width=862&height=485",
       "topic": "社会",
-      "score": 86,
+      "score": 85,
       "id": "a5c0133ef19f"
     },
     {
-      "title": "Two teenagers seriously injured after sword attack at Swedish school",
-      "summary": "Police say one man has been arrested, while several other local schools were locked down.",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
+      "title": "Trump administration begins transfer of $725m to UN, amid billions owed",
+      "summary": "UN secretary general has said UN faces ‘imminent financial collapse’ due to unpaid contributions from member states The Trump administration has started the process to transfer $725m to the United Nations , a congressional notification seen by Reuters ⁠showed – a move aid experts said ⁠was a welcome step towards paying ​billions in dues owed. There was no im",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-administration-united-nations-payment",
+      "source": "The Guardian",
+      "feed": "The Guardian",
       "region": "全球",
-      "publishedAt": "2026-08-21T16:32:37.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg",
-      "topic": "社会",
-      "score": 85,
-      "id": "6fa1f1c6e73f"
+      "publishedAt": "2026-08-21T19:14:07.000Z",
+      "image": "https://i.guim.co.uk/img/media/0e87cc2684301875dde269ecd3701c1fe814d0b6/270_0_5303_4245/master/5303.jpg?width=140&quality=85&auto=format&fit=max&s=fafb55bc7599c8295845ef29142de7ee",
+      "topic": "政治",
+      "score": 84,
+      "id": "5d81c51faea1"
     },
     {
-      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
+      "title": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
+      "summary": "Netanyahu and Erdogan trade insults as Ankara seeks warrant for Israel's attacks on Global Sumud Flotilla activists.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
       "region": "中东",
-      "publishedAt": "2026-08-21T15:58:57.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
-      "topic": "社会",
-      "score": 85,
-      "id": "95e61e528b8d"
+      "publishedAt": "2026-08-21T19:08:30.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 84,
+      "id": "bb53f3fa3e53"
     },
     {
       "title": "Doris Miller’s family ‘shocked’ by Navy’s reported consideration of honoring Trump instead of black war hero – live",
@@ -65,11 +91,37 @@
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "全球",
-      "publishedAt": "2026-08-21T18:34:12.000Z",
+      "publishedAt": "2026-08-21T19:08:29.000Z",
       "image": "https://i.guim.co.uk/img/media/5b8d9132af55955e74691e6bdfc6562717e575c7/0_0_4865_3888/master/4865.jpg?width=140&quality=85&auto=format&fit=max&s=ac7e624a5ef36f02d7f76fb36ac30365",
       "topic": "政治",
       "score": 84,
       "id": "0322f46fc812"
+    },
+    {
+      "title": "Victorian Labor promises free dental care if re-elected in Australia-first move",
+      "summary": "Premier Ben Carroll says $230m would be earmarked for 10 public dental clinics to operate on a walk-in basis Get our breaking news email , free app or daily news podcast Victorians would be able to walk into a dental clinic and receive free checkups and treatment under an Australian-first proposal the Labor government will take to the November state election",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/22/victoria-labor-free-dental-care-ben-carroll-election-promise",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-21T19:00:42.000Z",
+      "image": "https://i.guim.co.uk/img/media/6b5a42253a30cc8ec4bb1d1565aa0b39617ecb08/344_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=b385c812d13bcfcc6349d4e1197864d6",
+      "topic": "政治",
+      "score": 84,
+      "id": "612c4ed403ae"
+    },
+    {
+      "title": "'Shameful': Australia, UK, Canada slam Israel over probe into aid killings",
+      "summary": "Australian Zomi Frankcom, three Britons, a dual US-Canadian national, a Pole and a Palestinian died in a drone strike in Gaza in 2024.",
+      "url": "https://www.abc.net.au/news/2026-08-22/australia-uk-canada-israel-aid-worker-probe/107066540",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "中东",
+      "publishedAt": "2026-08-21T19:09:50.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/73f48bd07b103d52efcce31790142099?impolicy=wcms_crop_resize&cropH=769&cropW=1367&xPos=0&yPos=196&width=862&height=485",
+      "topic": "社会",
+      "score": 83,
+      "id": "cf6b04370489"
     },
     {
       "title": "Russian drone attack on busy shopping centre kills 14 in Ukraine",
@@ -81,8 +133,21 @@
       "publishedAt": "2026-08-21T18:17:40.000Z",
       "image": "",
       "topic": "社会",
-      "score": 84,
+      "score": 83,
       "id": "9296bfb00d39"
+    },
+    {
+      "title": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
+      "summary": "Joint statement issued after IDF said it will not pursue criminal investigations into April 2024 strike that killed seven humanitarian workers Britain, Australia and Canada have called the decision of the Israeli military authorities not to open a criminal investigation into the April 2024 airstrikes that hit a convoy of aid vehicles in Gaza “shameful”. The ",
+      "url": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-08-21T15:03:34.000Z",
+      "image": "https://i.guim.co.uk/img/media/6f8218c8c2d7497add0d356c16dac75464f978de/0_0_4426_3543/master/4426.jpg?width=140&quality=85&auto=format&fit=max&s=8b88e3ca4473e3b0e89c0785cbe9954c",
+      "topic": "政治",
+      "score": 83,
+      "id": "02283118187a"
     },
     {
       "title": "New U.S. Aircraft Carrier Arrives in Middle East",
@@ -94,8 +159,86 @@
       "publishedAt": "2026-08-21T14:54:16.000Z",
       "image": "",
       "topic": "社会",
-      "score": 83,
+      "score": 82,
       "id": "de2578fef2b2"
+    },
+    {
+      "title": "USS Abraham Lincoln leaves Middle East for San Diego",
+      "summary": "USS Abraham Lincoln leaves Middle East for San Diego &nbsp;&nbsp; cbs8.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa0xVdmhyLTNFUHJZVmF6Mnh6Mm9JUEQxVEplTWZTdjVaNm1qOVBXZnZ5VlVVdkhTU040akY3Y1FSZXJveGdyYkF0ZVFEa1pSeFNLdnhMajlmSDhHVExrSlBfcDRObGZZVmRSOW1jdnZYWWVwVkUzWEozWF9KcExOR01FV1V1UVU3US1NTy1DMmptTU5mUHRfR1BQQjMzNTJmVTUtQUQ2WFhySkZkNXNQeG9DZmVFUFIxSDZZbzZvTVQxamdVa2k4azQ3Zw?oc=5",
+      "source": "cbs8.com",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-21T14:34:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 82,
+      "id": "f06ea7ee4d4d"
+    },
+    {
+      "title": "Why these people believe in 'freak' Tadej Pogačar's victories",
+      "summary": "As Tadej Pogačar continues to mop up cycling's biggest accolades and most controversial record, one former doper believes he has found the answer to his success: he is just a \"freak\".",
+      "url": "https://www.abc.net.au/news/2026-08-22/tadej-pogacar-tour-de-france-wins-suspicion/106881158",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-21T19:32:45.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d108f5c5de7dcf244a7fe6b7ac1998d8?impolicy=wcms_crop_resize&cropH=1751&cropW=3113&xPos=1280&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 80,
+      "id": "5cb75b55d7b5"
+    },
+    {
+      "title": "Libya rivals test a new path towards unity, 15 years after Gadaffi downfall",
+      "summary": "Fifteen years since Tripoli fell, Libyan parties are finally working towards unity.",
+      "url": "https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-21T19:21:08.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 80,
+      "id": "4b1832f2986f"
+    },
+    {
+      "title": "Why Australia is being soaked when a record El Niño is forming",
+      "summary": "El Niño is synonymous with drought in Australia, but another rainband is lining up to soak the nation this week.",
+      "url": "https://www.abc.net.au/news/2026-08-22/australia-weather-on-track-for-wettest-el-nino-on-record/107064594",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-21T19:19:00.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/1b096ad52d49010d470eabb45ac9300d?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=0&width=862&height=485",
+      "topic": "气候",
+      "score": 80,
+      "id": "b0266076519b"
+    },
+    {
+      "title": "Palestinian victims of Israeli settler attacks face battle for justice",
+      "summary": "Palestinians with missing relatives are marking International Day of Remembrance and Tribute to Victims of Terrorism.",
+      "url": "https://www.aljazeera.com/features/2026/8/21/palestinian-victims-of-israeli-settlers-face-painful-battle-for-justice?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-21T19:14:42.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 80,
+      "id": "271b590b9740"
+    },
+    {
+      "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
+      "summary": "A Ghouta tunnel used during Assad’s siege is now a museum, 13 years after government forces’ deadly sarin gas attack.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-21T18:55:22.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "313ff5ada461"
     },
     {
       "title": "ABC 50/50 quiz: Testing your knowledge of 70s films and not wanting to miss a thing",
@@ -107,7 +250,7 @@
       "publishedAt": "2026-08-21T18:30:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/f20a0b6855912d9eced6f0b04c02507f?impolicy=wcms_crop_resize&cropH=635&cropW=1129&xPos=33&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "28f9840ae7b0"
     },
     {
@@ -120,7 +263,7 @@
       "publishedAt": "2026-08-21T18:29:13.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "1a73990c16de"
     },
     {
@@ -133,7 +276,7 @@
       "publishedAt": "2026-08-21T18:27:15.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b22/live/a7b4a760-9d8d-11f1-adf5-2dc21c9cc109.jpg",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "b826c3d0b8b2"
     },
     {
@@ -146,73 +289,8 @@
       "publishedAt": "2026-08-21T18:21:43.000Z",
       "image": "https://i.guim.co.uk/img/media/b0f676de5ee266f8b3f23ad41d8de14a44e1895c/467_0_4681_3744/master/4681.jpg?width=140&quality=85&auto=format&fit=max&s=c3929b6e77c1688292477de8cff1b2f8",
       "topic": "政治",
-      "score": 80,
-      "id": "6ab5866ddc32"
-    },
-    {
-      "title": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
-      "summary": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mocking Canada for apparently capitulating in a trade deal and taunting the prime minister, Mark Carney, for trying to “out-tough” Donald Trump. The recording, wh",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-08-21T15:22:48.000Z",
-      "image": "https://i.guim.co.uk/img/media/e60c561c88a26ce167735ef91210ae4cc78dd494/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e42ad8f4fd17e212b111b799f3ea2506",
-      "topic": "政治",
-      "score": 80,
-      "id": "0dfcf90236e5"
-    },
-    {
-      "title": "Russian expert warns of impending social crisis as Ukraine death toll rises",
-      "summary": "Putin's forces continue to bring horror to Ukrainian civilians as Kyiv destroys key sections of Russian infrastructure.",
-      "url": "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-21T15:13:31.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 80,
-      "id": "222bb52f7e06"
-    },
-    {
-      "title": "Cults, setups, and devastating rumours: years after their downfalls, these former NSW MPs are exacting their revenge",
-      "summary": "David Elliott and Eleni Petinos believe they were brought down by their own party. The Icac hearing has given them a chance to set the record straight Get our breaking news email , free app or daily news podcast Revenge, they say, is a dish best served cold. It’s been almost four years since the former New South Wales MP, David Elliott, announced that he wou",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/22/cults-setups-and-devastating-rumours-years-after-their-downfalls-these-former-nsw-mps-are-exacting-their-revenge-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-21T15:00:37.000Z",
-      "image": "https://i.guim.co.uk/img/media/761ce6013708b44ae2840aa6e92cb20a56f6fff0/986_456_5780_4627/master/5780.jpg?width=140&quality=85&auto=format&fit=max&s=8ea0a509f0bf007963673820d9740fec",
-      "topic": "社会",
-      "score": 80,
-      "id": "33253ef00ecd"
-    },
-    {
-      "title": "Top Iran official says US focus on economic warfare shows it has failed militarily",
-      "summary": "The Iranian regime has dismissed President Trump's threats to crush the country economically, saying that years of U.S. sanctions have failed.",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "中东",
-      "publishedAt": "2026-08-21T11:42:10.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 80,
-      "id": "2abf70196b6a"
-    },
-    {
-      "title": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
-      "summary": "Relatives of former Pakistani Prime Minister Imran Khan say he’s being tortured in prison.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-21T18:25:40.000Z",
-      "image": "",
-      "topic": "政治",
       "score": 79,
-      "id": "34d254180c55"
+      "id": "6ab5866ddc32"
     },
     {
       "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
@@ -228,6 +306,71 @@
       "id": "ed58f5cb3c5b"
     },
     {
+      "title": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
+      "summary": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mocking Canada for apparently capitulating in a trade deal and taunting the prime minister, Mark Carney, for trying to “out-tough” Donald Trump. The recording, wh",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "美洲",
+      "publishedAt": "2026-08-21T15:22:48.000Z",
+      "image": "https://i.guim.co.uk/img/media/e60c561c88a26ce167735ef91210ae4cc78dd494/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e42ad8f4fd17e212b111b799f3ea2506",
+      "topic": "政治",
+      "score": 79,
+      "id": "0dfcf90236e5"
+    },
+    {
+      "title": "Russian expert warns of impending social crisis as Ukraine death toll rises",
+      "summary": "Putin's forces continue to bring horror to Ukrainian civilians as Kyiv destroys key sections of Russian infrastructure.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-21T15:13:31.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "222bb52f7e06"
+    },
+    {
+      "title": "Cults, setups, and devastating rumours: years after their downfalls, these former NSW MPs are exacting their revenge",
+      "summary": "David Elliott and Eleni Petinos believe they were brought down by their own party. The Icac hearing has given them a chance to set the record straight Get our breaking news email , free app or daily news podcast Revenge, they say, is a dish best served cold. It’s been almost four years since the former New South Wales MP, David Elliott, announced that he wou",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/22/cults-setups-and-devastating-rumours-years-after-their-downfalls-these-former-nsw-mps-are-exacting-their-revenge-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-21T15:00:37.000Z",
+      "image": "https://i.guim.co.uk/img/media/761ce6013708b44ae2840aa6e92cb20a56f6fff0/986_456_5780_4627/master/5780.jpg?width=140&quality=85&auto=format&fit=max&s=8ea0a509f0bf007963673820d9740fec",
+      "topic": "社会",
+      "score": 79,
+      "id": "33253ef00ecd"
+    },
+    {
+      "title": "Top Iran official says US focus on economic warfare shows it has failed militarily",
+      "summary": "The Iranian regime has dismissed President Trump's threats to crush the country economically, saying that years of U.S. sanctions have failed.",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "中东",
+      "publishedAt": "2026-08-21T11:42:10.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "2abf70196b6a"
+    },
+    {
+      "title": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
+      "summary": "Relatives of former Pakistani Prime Minister Imran Khan say he’s being tortured in prison.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-21T18:25:40.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 78,
+      "id": "34d254180c55"
+    },
+    {
       "title": "Britain’s railway prepares for more extreme weather as intense El Niño develops",
       "summary": "Experts say more must be done to adapt to changing climate, after two trains derailed within 24 hours during a recent heatwave Railway companies are racing to prepare for another brutal summer next year, as a developing El Niño could see 2027 break more heat-related records. Britain’s railway system has already been under stress from extreme heat this summer",
       "url": "https://www.theguardian.com/environment/2026/aug/21/britains-railway-prepares-for-more-extreme-weather-as-intense-el-nino-develops",
@@ -237,7 +380,7 @@
       "publishedAt": "2026-08-21T18:07:51.000Z",
       "image": "https://i.guim.co.uk/img/media/6ec7c70476f838932ca82f465ab018db554f5c3f/461_0_6010_4807/master/6010.jpg?width=140&quality=85&auto=format&fit=max&s=08b8db0380468c0b45c6c7508286003d",
       "topic": "气候",
-      "score": 79,
+      "score": 78,
       "id": "91bfe1ad34e0"
     },
     {
@@ -250,21 +393,8 @@
       "publishedAt": "2026-08-21T17:58:22.000Z",
       "image": "https://i.guim.co.uk/img/media/147889ba03d96a26b3fb4fb3db32e3a7044f69a4/0_732_3497_2798/master/3497.jpg?width=140&quality=85&auto=format&fit=max&s=94e6c642899e858718041c9768baa303",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "bec55f64b4b7"
-    },
-    {
-      "title": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
-      "summary": "Joint statement issued after IDF said it will not pursue criminal investigations into April 2024 strike that killed seven humanitarian workers Britain, Australia and Canada have called the decision of the Israeli military authorities not to open a criminal investigation into the April 2024 airstrikes that hit a convoy of aid vehicles in Gaza “shameful”. The ",
-      "url": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-21T15:03:34.000Z",
-      "image": "https://i.guim.co.uk/img/media/6f8218c8c2d7497add0d356c16dac75464f978de/0_0_4426_3543/master/4426.jpg?width=140&quality=85&auto=format&fit=max&s=8b88e3ca4473e3b0e89c0785cbe9954c",
-      "topic": "政治",
-      "score": 79,
-      "id": "02283118187a"
     },
     {
       "title": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
@@ -276,60 +406,8 @@
       "publishedAt": "2026-08-21T17:17:55.000Z",
       "image": "",
       "topic": "经济",
-      "score": 78,
+      "score": 77,
       "id": "ddfc318fe217"
-    },
-    {
-      "title": "At least three injured in sword attack at school in Sweden",
-      "summary": "One person has been taken into custody after the attack at a high school in Fagersta, local authorities said.",
-      "url": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-21T13:48:09.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 78,
-      "id": "734db329eea6"
-    },
-    {
-      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
-      "summary": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
-      "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "非洲",
-      "publishedAt": "2026-08-21T13:44:43.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e4/live/66300b20-9d5d-11f1-a291-b542ee92de7c.jpg",
-      "topic": "政治",
-      "score": 78,
-      "id": "725b190a437d"
-    },
-    {
-      "title": "Amazon bets bigger on Latin America with $2 billion Prime Video investment",
-      "summary": "Amazon bets bigger on Latin America with $2 billion Prime Video investment &nbsp;&nbsp; Storyboard18",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNHd1dzhzTU1GSnhreGVkWlA3NVJpNDRGcU96WU9FSC1BQ0tVaGU2OHd3NkVXM0dVcmNFZkQzMVBTVXg2ZDM4aEpPTEI1OGFzSldxV2c5Y2paVEFBUkpCRE9BQ3dUV2ZLOGJRQU9qZGhpdWV6a1EySk5CbEZ0cmE2YWMwcks1UGtfUll2ZXplU0NGdHFPOTd3R3BkTUk3c1lqMEFkak5wNnR4d0ZlSVN3XzBhNTByT1BVWEFBNFgya2tmTzhPVlFHS25rRGtsM1N2amkyM1ZnclHSAdgBQVVfeXFMTzR3dXc4c01NRkp4a3hlZFpQNzVSaTQ0RnFPellPRUgtQUNLVWhlNjh3dzZFVzNHVXJjRWZEMzFQU1V4NmQzOGhKT0xCNThhc0pXcVdnOWNqWlRBQVJKQkRPQUN3VFdmSzhiUUFPamRoaXVlemtRMkpOQmxGdHJhNmFjMHJLNVBrX1JZdmV6ZVNDRnRxTzk3d0dwZE1JN3NZajBBZGpOcDZ0eHdGZUlTd18wYTUwck9QVVhBQTRYMmtrZk84T1ZRR0tua0RrbDNTdmppMjNWZ3JR?oc=5",
-      "source": "Storyboard18",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-21T11:14:16.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 78,
-      "id": "dd1331849002"
-    },
-    {
-      "title": "Prime Video Sets Plan To Invest $2 Billion In Latin America",
-      "summary": "Prime Video Sets Plan To Invest $2 Billion In Latin America &nbsp;&nbsp; Deadline",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXAyY3RMM1Y0LU55YjhjUEduX3NoRjZST0IyUU9LaUJoOEIza0xRZ3czTGlabkdnR1FzRnY0bnNNcmlxVUxHd09RMlBJdEZUenNWVVBzWHhvaTQ4MlhOOWVfLTNCMGVCUW9zSW1ILW15R2VBTmdCVS1XZ3RTN1lJcXRn?oc=5",
-      "source": "Deadline",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-21T11:04:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 78,
-      "id": "280923d40509"
     },
     {
       "title": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
@@ -345,6 +423,84 @@
       "id": "3c26b4feb454"
     },
     {
+      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+      "summary": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
+      "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "非洲",
+      "publishedAt": "2026-08-21T13:44:43.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e4/live/66300b20-9d5d-11f1-a291-b542ee92de7c.jpg",
+      "topic": "政治",
+      "score": 77,
+      "id": "725b190a437d"
+    },
+    {
+      "title": "Amazon bets bigger on Latin America with $2 billion Prime Video investment",
+      "summary": "Amazon bets bigger on Latin America with $2 billion Prime Video investment &nbsp;&nbsp; Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNHd1dzhzTU1GSnhreGVkWlA3NVJpNDRGcU96WU9FSC1BQ0tVaGU2OHd3NkVXM0dVcmNFZkQzMVBTVXg2ZDM4aEpPTEI1OGFzSldxV2c5Y2paVEFBUkpCRE9BQ3dUV2ZLOGJRQU9qZGhpdWV6a1EySk5CbEZ0cmE2YWMwcks1UGtfUll2ZXplU0NGdHFPOTd3R3BkTUk3c1lqMEFkak5wNnR4d0ZlSVN3XzBhNTByT1BVWEFBNFgya2tmTzhPVlFHS25rRGtsM1N2amkyM1ZnclHSAdgBQVVfeXFMTzR3dXc4c01NRkp4a3hlZFpQNzVSaTQ0RnFPellPRUgtQUNLVWhlNjh3dzZFVzNHVXJjRWZEMzFQU1V4NmQzOGhKT0xCNThhc0pXcVdnOWNqWlRBQVJKQkRPQUN3VFdmSzhiUUFPamRoaXVlemtRMkpOQmxGdHJhNmFjMHJLNVBrX1JZdmV6ZVNDRnRxTzk3d0dwZE1JN3NZajBBZGpOcDZ0eHdGZUlTd18wYTUwck9QVVhBQTRYMmtrZk84T1ZRR0tua0RrbDNTdmppMjNWZ3JR?oc=5",
+      "source": "Storyboard18",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-21T11:14:16.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 77,
+      "id": "dd1331849002"
+    },
+    {
+      "title": "Prime Video Sets Plan To Invest $2 Billion In Latin America",
+      "summary": "Prime Video Sets Plan To Invest $2 Billion In Latin America &nbsp;&nbsp; Deadline",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXAyY3RMM1Y0LU55YjhjUEduX3NoRjZST0IyUU9LaUJoOEIza0xRZ3czTGlabkdnR1FzRnY0bnNNcmlxVUxHd09RMlBJdEZUenNWVVBzWHhvaTQ4MlhOOWVfLTNCMGVCUW9zSW1ILW15R2VBTmdCVS1XZ3RTN1lJcXRn?oc=5",
+      "source": "Deadline",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-21T11:04:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 77,
+      "id": "280923d40509"
+    },
+    {
+      "title": "Over 750 US soldiers wounded in Iran war, Pentagon reveals",
+      "summary": "Over 750 US soldiers wounded in Iran war, Pentagon reveals &nbsp;&nbsp; The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0OUdlcTNGMTk3c091MUp0TFE2Q0RkT0tpekVVYWI3dk54clpxTVZhMDNGZ2pOWHFWbjNjQmplSm9xWXZaRGJXdDR5dWtNSnpOTVhIQzR3N3FpSkdZTEhfemI3Qk9VVGlMX0E?oc=5",
+      "source": "The Jerusalem Post",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-21T19:31:46.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 76,
+      "id": "c88997c3afec"
+    },
+    {
+      "title": "Why Wallaroos are connected by 'family' bond as they play 100th Test",
+      "summary": "As the Wallaroos prepare for their 100th Test, past and present players reflect on the journey and challenges to reaching this milestone.",
+      "url": "https://www.abc.net.au/news/2026-08-22/wallaroos-100th-test-new-zealand-black-ferns/107055868",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-21T19:27:18.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/5d32ad48ddff9eed657ad5be2a4f6eaa?impolicy=wcms_crop_resize&cropH=2789&cropW=4958&xPos=0&yPos=517&width=862&height=485",
+      "topic": "社会",
+      "score": 76,
+      "id": "8219f760eee0"
+    },
+    {
+      "title": "US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms",
+      "summary": "Experts say even a last-minute breakthrough will not result in the US lifting all its tariffs on Canadian goods.",
+      "url": "https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-21T19:20:17.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 76,
+      "id": "7653baab2209"
+    },
+    {
       "title": "What to know about the Freedom 250 Grand Prix, Trump’s capital car race",
       "summary": "The president says the 147-lap race will be an event 'like no other' as drivers zip through Washington, DC.",
       "url": "https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss",
@@ -354,7 +510,7 @@
       "publishedAt": "2026-08-21T16:27:32.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "f82f4bae8294"
     },
     {
@@ -367,8 +523,73 @@
       "publishedAt": "2026-08-21T15:54:48.000Z",
       "image": "https://i.guim.co.uk/img/media/2d3882f8a388b5dfde275937d947d3d2d0f82174/1290_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=86a91a2b8977365b51c9a5f574d4aa52",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "6e505c3c8f92"
+    },
+    {
+      "title": "Deselected candidate claims Lib Dems’ religious discrimination cost him £790,000",
+      "summary": "David Campanale seeks damages after what he says was organised campaign against his faith in Sutton and Cheam How much is a career in politics worth? The Liberal Democrats, despite admitting claims of religious discrimination, say about £22,800. A former Lib Dem candidate claims £790,000. It is a question before the Central London county court after David Ca",
+      "url": "https://www.theguardian.com/politics/2026/aug/21/deselected-candidate-claims-lib-dems-religious-discrimination-cost-him-790000",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-21T19:16:26.000Z",
+      "image": "https://i.guim.co.uk/img/media/f0c688ce93c8014f0af7e8b82e5543b454891968/441_309_2619_2095/master/2619.jpg?width=140&quality=85&auto=format&fit=max&s=4e68ff6cdcf37d3e20d665a3cdd319af",
+      "topic": "政治",
+      "score": 75,
+      "id": "70567f03c86c"
+    },
+    {
+      "title": "Trump administration asking for public comment on vaccine recommendations",
+      "summary": "Asking people to weigh in on adoption of different categories in move that will sow confusion and create access challenges, say experts The Trump administration is asking for public feedback on changes to the ways it recommends vaccines – likely opening the door to greater access challenges and confusion, experts say. In a notice published by the health and ",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-administration-public-comment-vaccines",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-21T19:11:43.000Z",
+      "image": "https://i.guim.co.uk/img/media/8e4499b00d19392b06c73a7b2c9ca49d7e8f9e68/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4a823b5d44b74a5b72ab38565c15b627",
+      "topic": "社会",
+      "score": 75,
+      "id": "4c0d8e34e9ee"
+    },
+    {
+      "title": "World fuel prices remain high due to continued tensions in the Middle East. #PricePatrol | via ANC 24/7 Link to full story in the comments section.",
+      "summary": "World fuel prices remain high due to continued tensions in the Middle East. #PricePatrol | via ANC 24/7 Link to full story in the comments section. &nbsp;&nbsp; facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ0lsSGFzVnNDYmNpQk1Ydjd3Q1VGNFZSVW1BNDJHUW54STIyZlZrMF9GN3NJaUxncXFVaTluN1VLZExBUmloSzQwRnJLbjZnQ1lXWk14akVVTkhOZG5WVzZZM1J5NkdyNHZBZE1PalE2QWVhWDNoT2JESnJGdDJtaWlNTy1ieVpCMGtVbTN6eU5yc3JBaEFaMVVidnljVm9pMDk1YjBQRFdrZXFmUzlQTEE0dFc1SzJpaDZmUEh6V1FMaUVnaVhkVUlEeHBnXzNscjFCZWdzMA?oc=5",
+      "source": "facebook.com",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-21T19:00:07.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "9b10eeb8853f"
+    },
+    {
+      "title": "How much does it cost to fight Pauline Hanson? Labor has options",
+      "summary": "Pauline Hanson has a knack for jettisoning positions no longer deemed politically useful without blowback but Labor is getting more deliberate about how it fights a fickle One Nation.",
+      "url": "https://www.abc.net.au/news/2026-08-22/labor-advertisements-one-nation-coalition-superannuation/107058402",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-21T19:00:00.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a0237e9d9b7798cc1228c51d075b821b?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "c89546a67236"
+    },
+    {
+      "title": "Israel's impunity has been virtually unaffected by collective concern",
+      "summary": "Even the United States is now criticising Israel's ongoing settler violence in the West Bank as Benjamin Netanyahu, once the 'Trump whisperer', becomes the Trump ignorer.",
+      "url": "https://www.abc.net.au/news/2026-08-22/israel-gaza-west-bank-zomi-frankcom-mike-huckabee-netanyahu/107058398",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "中东",
+      "publishedAt": "2026-08-21T19:00:00.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/fd200e54effc2690504aab011dee1e9b?impolicy=wcms_crop_resize&cropH=2131&cropW=3788&xPos=0&yPos=197&width=862&height=485",
+      "topic": "经济",
+      "score": 75,
+      "id": "b47b3c5ce0f6"
     },
     {
       "title": "Batteries send power prices up in midnight charging mystery",
@@ -380,7 +601,7 @@
       "publishedAt": "2026-08-21T18:55:44.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/4349ebcfda076dc6b7b00e7b399e24c0?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=552&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "4937d33d4a04"
     },
     {
@@ -393,7 +614,7 @@
       "publishedAt": "2026-08-21T18:55:44.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7b9cd33cff262e837fcf0161964c07b8?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=36&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "49dd3359c53c"
     },
     {
@@ -406,8 +627,21 @@
       "publishedAt": "2026-08-21T18:55:44.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/775bf35dba194cc5f1f5474ffc6e93c5?impolicy=wcms_crop_resize&cropH=2067&cropW=3674&xPos=383&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "350b33992723"
+    },
+    {
+      "title": "IDF criminal probes on Gaza deaths won’t include Zomi attack",
+      "summary": "IDF criminal probes on Gaza deaths won’t include Zomi attack &nbsp;&nbsp; The Nightly",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdUZVWmdGamp2dEYxaHpzQVdpcllmbU1pVjRXVlV2SmJ5QktvdDdONl83dllXV0t1MlBZX0NCZUFuQnZBVFQ4dEN2QzRpeE1uZVQ1a1NWVmNBNG5CNGVkU3R1cGhjLXZfX2ZMY0dEdkFqRVRPSFlZbW1aN2RaLVhvUXRBWENFN251VE9jaXU0S3Y2MTRpWHBIYjFSZjhLcU1LRjd6X3JNQjVXZEYxdFdzOXdydVB3Y3FDLWdCMFpQOERwSFZUdXVTdTBhODJBMDh4Sjh6MjlUenZSRXkyVHB3VUJhTnJ6VWc?oc=5",
+      "source": "The Nightly",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-21T18:54:31.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "8185fde3484d"
     },
     {
       "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
@@ -419,7 +653,7 @@
       "publishedAt": "2026-08-21T18:51:43.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "fe42bd94ca54"
     },
     {
@@ -432,7 +666,7 @@
       "publishedAt": "2026-08-21T18:43:30.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/66b7e0edc57df6b854a523bac82d90a5?impolicy=wcms_crop_resize&cropH=1329&cropW=2363&xPos=0&yPos=44&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "e1f2c2073fbe"
     },
     {
@@ -445,7 +679,7 @@
       "publishedAt": "2026-08-21T18:43:30.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/89cf020fa9f470ad61eb725fc73241bf?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=192&width=862&height=485",
       "topic": "经济",
-      "score": 76,
+      "score": 75,
       "id": "1762add2536c"
     },
     {
@@ -458,7 +692,7 @@
       "publishedAt": "2026-08-21T18:43:30.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/47e2042e0cb4b88a988f216e6ae2ba15?impolicy=wcms_crop_resize&cropH=2250&cropW=4000&xPos=0&yPos=209&width=862&height=485",
       "topic": "经济",
-      "score": 76,
+      "score": 75,
       "id": "beeaf2674150"
     },
     {
@@ -471,12 +705,12 @@
       "publishedAt": "2026-08-21T18:40:21.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "9e7f7538947d"
     },
     {
-      "title": "Drone strike on Ukraine shopping centre kills six, injures 103",
-      "summary": "A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing six people and injuring 103",
+      "title": "Drone strike on Ukraine shopping centre kills 14, over 100 injured",
+      "summary": "A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing 14 people and injuring over 100",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
@@ -484,73 +718,8 @@
       "publishedAt": "2026-08-21T18:40:11.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
-      "id": "5848b429cdbe"
-    },
-    {
-      "title": "Argentina’s Paredes gets 10-game ban for World Cup final scuffle with Spain",
-      "summary": "Leandro Paredes banned for 10 games as FIFA suspends three Argentina players for World Cup final scuffle with Spain.",
-      "url": "https://www.aljazeera.com/sports/2026/8/21/argentinas-parades-gets-10-game-ban-for-world-cup-final-scuffle-with-spain?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-21T15:31:33.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "4f4f93c84fb0"
-    },
-    {
-      "title": "Argentina players banned for World Cup brawl and AFA fined over Falklands banner",
-      "summary": "Three Argentina players have been banned for a number of games for their role in a brawl at the World Cup final - with the country's football association fined £235,000 over a Falklands Islands banner.",
-      "url": "https://news.sky.com/story/argentina-players-banned-for-world-cup-brawl-and-afa-fined-over-falklands-banner-13575502",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "美洲",
-      "publishedAt": "2026-08-21T15:25:00.000Z",
-      "image": "https://e3.365dm.com/26/07/1920x1080/skynews-argentina-falklands_7298610.jpg?20260729190706",
-      "topic": "社会",
-      "score": 76,
-      "id": "a2bdd3515fb4"
-    },
-    {
-      "title": "Firebombs thrown at supercars outside Birmingham wedding venue",
-      "summary": "Police investigating after two cars set alight in attack caught on CCTV Firebombs were thrown at supercars outside a wedding venue in Birmingham, setting two alight and prompting guests to sprint out of the building. West Midlands police said they were investigating the incident, which happened in the Sparkbrook area of Birmingham at around 8.30pm on Wednesd",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/21/firebombs-supercars-birmingham-wedding-venue",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-21T15:13:18.000Z",
-      "image": "https://i.guim.co.uk/img/media/f4da914717311522041665dd2a3ed9c0b602c6d7/893_0_3600_2880/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=8f3693b99dedbb8430f790697436ab38",
-      "topic": "社会",
-      "score": 76,
-      "id": "706651044b60"
-    },
-    {
-      "title": "Sword attack at Swedish school leaves two teenagers with severe injuries",
-      "summary": "Two teenage boys have been severely injured after a man armed with a sword carried out an attack at a school in Sweden.",
-      "url": "https://news.sky.com/story/sword-wielding-attacker-injures-several-people-at-swedish-school-13575399",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "全球",
-      "publishedAt": "2026-08-21T11:59:00.000Z",
-      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-sweden-sword_7327520.jpg?20260821172337",
-      "topic": "社会",
-      "score": 76,
-      "id": "d8dbcdfe6ac9"
-    },
-    {
-      "title": "Weather tracker: Extreme rain deluges Japan and South Korea",
-      "summary": "Downpours break records and cause transport chaos, evacuations and deaths, as people get trapped inside vehicles South Korea and Japan were hit by extreme rain late last week and into this week. On 13 August in the city of Chiba near Tokyo there was a record-breaking 115mm of rainfall in just one hour, while the nearby city of Sakura broke its own record wit",
-      "url": "https://www.theguardian.com/environment/2026/aug/21/weather-tracker-extreme-rainfall-japan-south-korea",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-08-21T08:19:21.000Z",
-      "image": "https://i.guim.co.uk/img/media/6dfe790fb39072c7522feeb56f5206b059d34300/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0856adec5bb5a76ad1735f07a9706b4f",
-      "topic": "社会",
-      "score": 76,
-      "id": "5fb42e3e09f0"
+      "score": 75,
+      "id": "e36403d6fcd7"
     },
     {
       "title": "Australia has a soft spot for the amazing flannel flower",
@@ -605,6 +774,58 @@
       "id": "428723337bc5"
     },
     {
+      "title": "Argentina’s Paredes gets 10-game ban for World Cup final scuffle with Spain",
+      "summary": "Leandro Paredes banned for 10 games as FIFA suspends three Argentina players for World Cup final scuffle with Spain.",
+      "url": "https://www.aljazeera.com/sports/2026/8/21/argentinas-parades-gets-10-game-ban-for-world-cup-final-scuffle-with-spain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-21T15:31:33.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "4f4f93c84fb0"
+    },
+    {
+      "title": "Argentina players banned for World Cup brawl and AFA fined over Falklands banner",
+      "summary": "Three Argentina players have been banned for a number of games for their role in a brawl at the World Cup final - with the country's football association fined £235,000 over a Falklands Islands banner.",
+      "url": "https://news.sky.com/story/argentina-players-banned-for-world-cup-brawl-and-afa-fined-over-falklands-banner-13575502",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "美洲",
+      "publishedAt": "2026-08-21T15:25:00.000Z",
+      "image": "https://e3.365dm.com/26/07/1920x1080/skynews-argentina-falklands_7298610.jpg?20260729190706",
+      "topic": "社会",
+      "score": 75,
+      "id": "a2bdd3515fb4"
+    },
+    {
+      "title": "Firebombs thrown at supercars outside Birmingham wedding venue",
+      "summary": "Police investigating after two cars set alight in attack caught on CCTV Firebombs were thrown at supercars outside a wedding venue in Birmingham, setting two alight and prompting guests to sprint out of the building. West Midlands police said they were investigating the incident, which happened in the Sparkbrook area of Birmingham at around 8.30pm on Wednesd",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/21/firebombs-supercars-birmingham-wedding-venue",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-21T15:13:18.000Z",
+      "image": "https://i.guim.co.uk/img/media/f4da914717311522041665dd2a3ed9c0b602c6d7/893_0_3600_2880/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=8f3693b99dedbb8430f790697436ab38",
+      "topic": "社会",
+      "score": 75,
+      "id": "706651044b60"
+    },
+    {
+      "title": "Weather tracker: Extreme rain deluges Japan and South Korea",
+      "summary": "Downpours break records and cause transport chaos, evacuations and deaths, as people get trapped inside vehicles South Korea and Japan were hit by extreme rain late last week and into this week. On 13 August in the city of Chiba near Tokyo there was a record-breaking 115mm of rainfall in just one hour, while the nearby city of Sakura broke its own record wit",
+      "url": "https://www.theguardian.com/environment/2026/aug/21/weather-tracker-extreme-rainfall-japan-south-korea",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "亚洲",
+      "publishedAt": "2026-08-21T08:19:21.000Z",
+      "image": "https://i.guim.co.uk/img/media/6dfe790fb39072c7522feeb56f5206b059d34300/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0856adec5bb5a76ad1735f07a9706b4f",
+      "topic": "社会",
+      "score": 75,
+      "id": "5fb42e3e09f0"
+    },
+    {
       "title": "DHS confirms just 185 non-citizens on Nevada voter rolls after claiming there were thousands more",
       "summary": "The department told Nevada officials that the 15,903 figure registered was ‘preliminary’ and more than 14,000 names still needed review About a month after alleging Nevada had as many as 16,000 non-citizens on its voter rolls, Department of Homeland Security (DHS) officials admitted they had confirmed that only 185 were actually non-citizens, according to re",
       "url": "https://www.theguardian.com/us-news/2026/aug/21/dhs-confirm-nevada-voter-numbers",
@@ -614,7 +835,7 @@
       "publishedAt": "2026-08-21T18:22:30.000Z",
       "image": "https://i.guim.co.uk/img/media/161ee186de6371ba079c8a5d25e0eb75bfa548ed/369_175_2449_1958/master/2449.jpg?width=140&quality=85&auto=format&fit=max&s=d4cf53ca2505749ef19c0d621be25657",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "7e1e478ff326"
     },
     {
@@ -627,60 +848,8 @@
       "publishedAt": "2026-08-21T17:52:08.000Z",
       "image": "",
       "topic": "气候",
-      "score": 75,
+      "score": 74,
       "id": "0a1738a62147"
-    },
-    {
-      "title": "NSW ‘seeking urgent advice’ on controversial court ruling that found anti-Israel vandalism was not antisemitic",
-      "summary": "Attorney general considering appeal after justice Desmond Fagan knocks back terror order request for Mohommed Farhat who wrote ‘Fuk Israel’ on cars Get our breaking news email , free app or daily news podcast The New South Wales government could appeal a supreme court judge’s controversial decision to refuse its request for a terror order over a Sydney man c",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/22/appeal-nsw-supreme-court-ruling-desmond-fagan-israel-antisemitism-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-21T15:00:39.000Z",
-      "image": "https://i.guim.co.uk/img/media/b700dbfc23550bc95e1959cc15c1929dc3665b79/97_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=0e7569aa8308db0e7f79e1455486a0a1",
-      "topic": "政治",
-      "score": 75,
-      "id": "384fc1b64a91"
-    },
-    {
-      "title": "Tornadoes touch down in New York and Delaware",
-      "summary": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
-      "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-21T14:35:50.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/905b/live/e3cfe470-9d6b-11f1-a2d1-59489fee904d.jpg",
-      "topic": "政治",
-      "score": 75,
-      "id": "b8c980d28440"
-    },
-    {
-      "title": "Police on alert as funeral held for teenagers killed in Ireland wrong-way crash",
-      "summary": "Funerals have been held for two teenagers killed when the car they were in drove the wrong way down a motorway and crashed into another vehicle.",
-      "url": "https://news.sky.com/story/police-on-alert-as-funeral-held-for-teenagers-killed-in-ireland-wrong-way-crash-13575458",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "全球",
-      "publishedAt": "2026-08-21T14:24:00.000Z",
-      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-ireland-m9-joe-carthy_7327343.jpg?20260821153603",
-      "topic": "社会",
-      "score": 75,
-      "id": "7f9275ac0617"
-    },
-    {
-      "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
-      "summary": "President Trump has declared economic warfare on Iran in an effort to pressure the country back into negotiations. And, the Supreme Court is set to decide on the future of Trump's ballroom.",
-      "url": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "中东",
-      "publishedAt": "2026-08-21T11:25:10.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "4deb422dbfe5"
     },
     {
       "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
@@ -692,73 +861,8 @@
       "publishedAt": "2026-08-21T17:29:17.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "302b83ea32f9"
-    },
-    {
-      "title": "Rise in migrant deaths as 19 bodies found along Arizona border last month",
-      "summary": "Pima county figures show highest number of monthly migrant deaths in two years as critics condemn US policy According to newly released data from the medical examiner’s office in Pima county, Arizona, the remains of 19 migrants, including children, were recovered along the Arizona-Mexico border last month. The figure accounts for the highest number of monthl",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/migrant-deaths-arizona",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-08-21T17:14:29.000Z",
-      "image": "https://i.guim.co.uk/img/media/cfde96a03ad6c43f6595f0dacfb7d25dc7c91c52/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0dd11aefdea79d70946d8621225e1b68",
-      "topic": "社会",
-      "score": 74,
-      "id": "2fe390162763"
-    },
-    {
-      "title": "War on Iran: The US could focus on economically isolating Iran",
-      "summary": "The US Treasury Secretary, has indicated a change in US strategy towards Iran, focusing on economic isolation.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-21T13:59:28.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "9852df23c2fe"
-    },
-    {
-      "title": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets",
-      "summary": "The US and Israel's war on Iran has upended global financial and energy markets.",
-      "url": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-21T13:47:26.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "93b63554816d"
-    },
-    {
-      "title": "Video The impact of war on children across the Middle East - ABC News",
-      "summary": "Video The impact of war on children across the Middle East &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZWWU2STdGN3JhYjlDRTBRUzZlQVdnWUFWZVVHYlFhcnd0d0dpSV9XWUVmajhVdG9GNklUckFFYnlTTEVYN0hUQ3dLRk8?oc=5",
-      "source": "Breaking News, Latest News and Videos",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-21T13:35:51.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "18a1455ce06b"
-    },
-    {
-      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "亚洲",
-      "publishedAt": "2026-08-21T10:46:09.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f281/live/3dc58f60-9d09-11f1-a291-b542ee92de7c.jpg",
-      "topic": "政治",
-      "score": 74,
-      "id": "55c8491bf944"
     },
     {
       "title": "Migrants clash with French police as they attempt to cross the Channel",
@@ -787,6 +891,19 @@
       "id": "19f73952ec71"
     },
     {
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "亚洲",
+      "publishedAt": "2026-08-21T10:46:09.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f281/live/3dc58f60-9d09-11f1-a291-b542ee92de7c.jpg",
+      "topic": "政治",
+      "score": 73,
+      "id": "55c8491bf944"
+    },
+    {
       "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
       "summary": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
       "url": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
@@ -796,7 +913,7 @@
       "publishedAt": "2026-08-21T16:26:53.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3237/live/ba89ed70-9d72-11f1-a291-b542ee92de7c.jpg",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "7ade8e2af2b7"
     },
     {
@@ -809,7 +926,7 @@
       "publishedAt": "2026-08-21T16:24:39.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "e807bdebdd10"
     },
     {
@@ -822,125 +939,8 @@
       "publishedAt": "2026-08-21T16:20:55.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d199/live/3b807760-9d77-11f1-b109-879e35c24276.jpg",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "99ce50141ea2"
-    },
-    {
-      "title": "IDF criminal probes on Gaza deaths won’t include Zomi attack",
-      "summary": "IDF criminal probes on Gaza deaths won’t include Zomi attack &nbsp;&nbsp; The Nightly",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdUZVWmdGamp2dEYxaHpzQVdpcllmbU1pVjRXVlV2SmJ5QktvdDdONl83dllXV0t1MlBZX0NCZUFuQnZBVFQ4dEN2QzRpeE1uZVQ1a1NWVmNBNG5CNGVkU3R1cGhjLXZfX2ZMY0dEdkFqRVRPSFlZbW1aN2RaLVhvUXRBWENFN251VE9jaXU0S3Y2MTRpWHBIYjFSZjhLcU1LRjd6X3JNQjVXZEYxdFdzOXdydVB3Y3FDLWdCMFpQOERwSFZUdXVTdTBhODJBMDh4Sjh6MjlUenZSRXkyVHB3VUJhTnJ6VWc?oc=5",
-      "source": "The Nightly",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-21T16:15:29.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "8185fde3484d"
-    },
-    {
-      "title": "Centre launches pan-African Fellowship for students",
-      "summary": "Centre launches pan-African Fellowship for students &nbsp;&nbsp; Daily Champion Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOODRZV1hadGlTeW11ek03V0oteDd2V0FzaXEyNW1QZUZWbUItc2stQjc2Mkc0TTExUE8wWkZnNHJBdmxkNTNoelJNdVFKMURZWFc3cVBzTWtKMUkyb2VvdFhvNkt3X1VDdTI3VDdjRmMxVl9HSUlTSklmMk13MkNZTTRza3lCaGVkUnVOLVdB?oc=5",
-      "source": "Daily Champion Newspaper",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-21T16:08:26.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 73,
-      "id": "e6ee74884a92"
-    },
-    {
-      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-21T13:07:00.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c3/live/c7b37380-9d5a-11f1-b109-879e35c24276.jpg",
-      "topic": "政治",
-      "score": 73,
-      "id": "706904dca4ac"
-    },
-    {
-      "title": "Powerus to deliver anti-drone systems to Middle East",
-      "summary": "Powerus to deliver anti-drone systems to Middle East &nbsp;&nbsp; Report.az",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTE5aVlhYQzlES3R2OGFfRTFBaHpTMDZVeWRIMmJzWE9IMFZaeXpVblRkM1JkLXdfYWpyOUFONXFscVZFY3hRbHF2U09scW5Ea1F3VUZnVy1PVUIya2EyYlZyY0hoME00YUtHVVp5Um03NEV0Qk9kbHU0WkotN2hGaG1JWmUzS3pjcXB0WDdjTTVneTDSAZgBQVVfeXFMTUhnSlA2VGExaXJQc3NLMGlNMWpiMkRWc3RkVWlUdFNwUHpUWkluTzZaZnkzMklqOGZKT2VITVl1Z0FNX1ZfQjlsaFlxUmppOUlIcjF0VEFNMTJ0NUJaYTBacHVrbHJPZFpscmJQM09vTVdQZVRzZTE1ei1EdnZDUl9wcmRsWjFEX2MtdWJVMURFYkVSdFBYUWU?oc=5",
-      "source": "Report.az",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-21T10:29:52.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "5780e812c7ab"
-    },
-    {
-      "title": "Israeli settlers set fire to heavy machinery at West Bank quarry",
-      "summary": "Israeli settlers entered a stone quarry in Wadi Al-Rakheem near Hebron overnight and set fire to heavy machinery",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-21T16:00:02.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 72,
-      "id": "96d46b7ea4a8"
-    },
-    {
-      "title": "Man wielding sword injures several at high school in Sweden",
-      "summary": "Several other schools and public buildings in Fagersta were placed in lockdown.",
-      "url": "https://www.abc.net.au/news/2026-08-22/person-wielding-sword-injures-several-at-school-in-sewden/107066082",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-21T15:38:35.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/53625b1bfaa6e95a9324997b0a09d687?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=259&width=862&height=485",
-      "topic": "社会",
-      "score": 72,
-      "id": "62319a358fde"
-    },
-    {
-      "title": "Federal government to fund majority of ACT gun buyback scheme",
-      "summary": "The ACT government committed to being part of a national gun buyback scheme in the wake of the Bondi Beach terrorist attack, but until now it has remained in negotiation with the federal government over how it would be funded.",
-      "url": "https://www.abc.net.au/news/2026-08-21/act-gun-buyback-scheme-federal-government-to-fund-majority/107064302",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-21T12:34:15.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/dcfe51e78a114d4035f9e028376f864d?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=0&width=862&height=485",
-      "topic": "政治",
-      "score": 72,
-      "id": "5dfa3e028151"
-    },
-    {
-      "title": "More than 2,500 dead in DR Congo Ebola outbreak, UN says",
-      "summary": "More than 2,500 people have died from the Ebola outbreak in the Democratic Republic of Congo (DRC), according to a UN coordinator who says it's spreading to an area larger than France.",
-      "url": "https://news.sky.com/story/more-than-2500-dead-in-dr-congo-un-says-as-ebola-spreading-to-area-bigger-than-france-13575338",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "欧洲",
-      "publishedAt": "2026-08-21T12:10:00.000Z",
-      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-ebola-drc-congo-bunia_7327213.jpg?20260821124723",
-      "topic": "社会",
-      "score": 72,
-      "id": "b509b0f86923"
-    },
-    {
-      "title": "Business News",
-      "summary": "Business News &nbsp;&nbsp; LatestLY",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQZzhMb0NQMUswOUY1M1VHRjFkaDlULXBJbURTcGRHYmlpSzNJUng5OWNMd1ZGa0ZQLUNJQlRLQmtVZXJZS3JhdVc0QUVSSVktcGVrYVZza3gtYUJoUGNGLUd5QjJJUzZjZGI3Nkh6NEZPWURROEFaRFJEeG5jSk9hN0Y1c0JSQU5VclpKd0MzSDJLNWh1Q2RsMWo1bktwMmdLYWRtUGhhYWRzYTYtVDZpbHNDTGNJOV9Hd3l0aFV4MFYxRXdrQkFxYndHXzdTV3ljR0VnSVVGemxKaHZvT3Vsbi12T2lZVVZnWVJmZFZOMVFNbTZtMFQxWkRLWE5nZ2U1Yms5T2JUYTlPTWplaXZfUTBfekFYbVdTdHltSNIBogJBVV95cUxOZGctOEJTa0tvRDR6T1owbkdWdnd0RldxX1B2bndTRDdDM0R1a0Z2aFQ0dTVYc0lQYk9kSWh4eFUtREVjaXNhTXItai1GRThFQkNLdHowNUdlUVd2WlM1c2xuNzRmUm1KNDV0blRVNFhZRVF3M3B0OFhxVUllM2VlTDFlUzdZOUhHWmF0RlB1aDBUdHJlbmc5Q0tiM0p6b2JhMTZuUG1RMjBGLXo2ank4VjV1bU5FSEozSjZTWmk0UmhXbVN3M2pUOWZjRm5RTjR3X3gyUHg4OUNfSW5UeEd3RGk3ekhDcllJYWU1aFlPMDBlVkxRN2J4Q3djX29DbXpoWWpjOS1sdzhqTGhuZzV0V05wbFowTEtKY05haXRwdE9Bdw?oc=5",
-      "source": "LatestLY",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-21T09:34:22.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 72,
-      "id": "6b32fde4815e"
     }
   ]
 }
