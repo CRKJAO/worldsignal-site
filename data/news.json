@@ -1,11 +1,50 @@
 {
-  "updatedAt": "2026-08-21T10:50:47.857Z",
+  "updatedAt": "2026-08-21T11:45:10.742Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "Video USS Abraham Lincoln heading home from Middle East - ABC News",
+      "summary": "Video USS Abraham Lincoln heading home from Middle East &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wOHRZTlI5dlNFdEZnaXZFSmI4S1ExNDV5dU8zeWdwNlVlU2QyeXF5bE1hNkRKbnVmWFVPWGxCeF9PLThzcG0xWUVuRGQ?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-21T11:43:11.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 92,
+      "id": "dc6b8c95059b"
+    },
+    {
+      "title": "Weary USS Abraham Lincoln Leaves Middle East",
+      "summary": "Weary USS Abraham Lincoln Leaves Middle East &nbsp;&nbsp; RealClearDefense",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3M5STE5SzlOTkhUODdnSFpLVXc2bXlGeHloOXRXQzEzR21TQmE5M0luZzQtb3JVd3BzUVpNM05HeF91NTQzSy1vRi1WRFlpcG9TdlVhTWhOS2V0UmhNU3ZaNXNodVBqa3ZGUlltbXV2UUU3RV9icVB1a3FFYnBpVzJDNTZJdUt5bWxraDBmaFpfdmJWb2djQVA1TGVIRUZIaHZj?oc=5",
+      "source": "RealClearDefense",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-21T11:22:49.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 88,
+      "id": "c148929b632e"
+    },
+    {
+      "title": "Prime Video Sets Plan To Invest $2 Billion In Latin America",
+      "summary": "Prime Video Sets Plan To Invest $2 Billion In Latin America &nbsp;&nbsp; Deadline",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXAyY3RMM1Y0LU55YjhjUEduX3NoRjZST0IyUU9LaUJoOEIza0xRZ3czTGlabkdnR1FzRnY0bnNNcmlxVUxHd09RMlBJdEZUenNWVVBzWHhvaTQ4MlhOOWVfLTNCMGVCUW9zSW1ILW15R2VBTmdCVS1XZ3RTN1lJcXRn?oc=5",
+      "source": "Deadline",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-21T11:04:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 87,
+      "id": "280923d40509"
+    },
     {
       "title": "Weather tracker: Extreme rain deluges Japan and South Korea",
       "summary": "Downpours break records and cause transport chaos, evacuations and deaths, as people get trapped inside vehicles South Korea and Japan were hit by extreme rain late last week and into this week. On 13 August in the city of Chiba near Tokyo there was a record-breaking 115mm of rainfall in just one hour, while the nearby city of Sakura broke its own record wit",
@@ -16,8 +55,34 @@
       "publishedAt": "2026-08-21T08:19:21.000Z",
       "image": "https://i.guim.co.uk/img/media/6dfe790fb39072c7522feeb56f5206b059d34300/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0856adec5bb5a76ad1735f07a9706b4f",
       "topic": "社会",
-      "score": 86,
+      "score": 85,
       "id": "5fb42e3e09f0"
+    },
+    {
+      "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
+      "summary": "President Trump has declared economic warfare on Iran in an effort to pressure the country back into negotiations. And, the Supreme Court is set to decide on the future of Trump's ballroom.",
+      "url": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "中东",
+      "publishedAt": "2026-08-21T11:25:10.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 84,
+      "id": "4deb422dbfe5"
+    },
+    {
+      "title": "Democrats rally behind progressive Aisha Wahab after win in California special election – US politics live",
+      "summary": "First Muslim woman and Afghan American elected to California legislature held lead throughout race over main opponent Melissa Hernandez Sign up for the US Breaking News email Hello and welcome to our live coverage of US politics. Following a bitter intra-party battle, progressive Aisha Wahab has been elected to Congress in a special election to fill the seat",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "美洲",
+      "publishedAt": "2026-08-21T11:18:11.000Z",
+      "image": "https://i.guim.co.uk/img/media/8cb13f6c1fe8847928709d5912e73d1a6b33e6df/934_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=b400f05517947b21de772599786a2118",
+      "topic": "政治",
+      "score": 84,
+      "id": "b7984dca402b"
     },
     {
       "title": "USS Abraham Lincoln concludes extended Middle East deployment",
@@ -29,7 +94,7 @@
       "publishedAt": "2026-08-21T08:42:46.000Z",
       "image": "",
       "topic": "社会",
-      "score": 85,
+      "score": 84,
       "id": "94719517cb39"
     },
     {
@@ -42,7 +107,7 @@
       "publishedAt": "2026-08-21T10:46:09.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f281/live/3dc58f60-9d09-11f1-a291-b542ee92de7c.jpg",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "55c8491bf944"
     },
     {
@@ -55,8 +120,21 @@
       "publishedAt": "2026-08-21T10:43:59.000Z",
       "image": "https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2e1fcbc3a457f9977863b7f443921f2c",
       "topic": "社会",
-      "score": 84,
+      "score": 83,
       "id": "7b8f42d4de2a"
+    },
+    {
+      "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
+      "summary": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
+      "url": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-21T09:53:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c1/live/024497b0-9d45-11f1-a137-179a8d1c790b.jpg",
+      "topic": "政治",
+      "score": 82,
+      "id": "d787e20afcdc"
     },
     {
       "title": "Solar buoyed Europe’s grid amid record-breaking heat and drought this summer",
@@ -68,8 +146,60 @@
       "publishedAt": "2026-08-21T08:46:34.000Z",
       "image": "",
       "topic": "气候",
-      "score": 82,
+      "score": 81,
       "id": "42d37047bb3a"
+    },
+    {
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-08-21T11:31:51.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fa7/live/8ad2c030-9d53-11f1-aac2-870643eea2ac.png",
+      "topic": "政治",
+      "score": 80,
+      "id": "706904dca4ac"
+    },
+    {
+      "title": "Closure of al-Makha port leaves workers and traders fearing for the future",
+      "summary": "Houthi attacks on al-Makha port forced it to suspend operations, leaving workers without jobs and traders concerned.",
+      "url": "https://www.aljazeera.com/economy/2026/8/21/houthi-attacks-on-mokha-port-forced-it-to-suspend-operations-leaving-workers-jobless?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-21T11:15:54.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 80,
+      "id": "828210385c76"
+    },
+    {
+      "title": "Who does the law serve in the occupied West Bank?",
+      "summary": "Israeli settlers attack six times a day in the occupied West Bank. AJLabs looks at how Palestinian land is taken.",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-21T11:12:32.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 80,
+      "id": "94161e6fa9bf"
+    },
+    {
+      "title": "First Thing: US aircraft carrier arrives to relieve USS Lincoln amid reports of poor living conditions",
+      "summary": "The USS George Washington has arrived in the Middle East. Plus, an investigation into the add-on utility fees that can lead to evictions Good morning. The USS George Washington aircraft carrier has arrived in the Middle East , to relieve the USS Abraham Lincoln from its record deployment amid concerns about poor living conditions and morale. What are conditi",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/first-thing-us-aircraft-carrier-arrives-middle-east-relieve-uss-lincoln",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-08-21T11:08:23.000Z",
+      "image": "https://i.guim.co.uk/img/media/00be26763cb40180741a529acb6bd72b78b3a519/852_0_3822_3059/master/3822.jpg?width=140&quality=85&auto=format&fit=max&s=a32e516000fd3f37db7bde5c16eae342",
+      "topic": "社会",
+      "score": 80,
+      "id": "87aec48a9427"
     },
     {
       "title": "Middle East live: Hormuz shipping traffic falls as Iran-US talks stall",
@@ -81,7 +211,7 @@
       "publishedAt": "2026-08-21T05:13:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 81,
+      "score": 80,
       "id": "d1e013522a7d"
     },
     {
@@ -94,7 +224,7 @@
       "publishedAt": "2026-08-21T04:12:08.000Z",
       "image": "https://i.guim.co.uk/img/media/3dde6f6a93ca7f76db98a6721b1b2602018c34c8/691_219_4113_3290/master/4113.jpg?width=140&quality=85&auto=format&fit=max&s=41d6b2da00cfd39023c1a7980ec90693",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "86b38c9dd8f3"
     },
     {
@@ -107,8 +237,34 @@
       "publishedAt": "2026-08-21T04:00:24.000Z",
       "image": "https://i.guim.co.uk/img/media/3d86e0a74d5b086fa0a264cb2c5d7c8a58d86989/202_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=73a4db73cc777f850d1a463a26abcaf6",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "0a1eccd1f8ff"
+    },
+    {
+      "title": "Charter plane crash near Alaskan military site kills 8",
+      "summary": "Rescuers who landed near the crash site 'confirmed there were no survivors'.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-21T10:59:50.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "f8028a3c8d0d"
+    },
+    {
+      "title": "Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
+      "summary": "Deputy Foreign Minister Sergey Ryabkov suggests Moscow is eager for the US to revive its support for Russian agenda.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-21T10:59:37.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "c1595e0ef90a"
     },
     {
       "title": "Kremlin: Nord Stream attack 'sabotage' against Europe",
@@ -120,21 +276,8 @@
       "publishedAt": "2026-08-21T10:36:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "ff597e17dcda"
-    },
-    {
-      "title": "Ban on goods from occupied West Bank would help protect two-state solution, says Emily Thornberry – UK politics live",
-      "summary": "Head of foreign affairs select committee urges government to adopt ban amid rising settler violence, after foreign secretary rebukes Israel over construction tender It is a national scandal that survivors of terrorist attacks are still being “mistreated and neglected”, campaigners have said as the UK marked the first dedicated memorial day for victims. Brend",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/21/andy-burnham-growth-labour-john-healey-uk-politics-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-21T10:24:31.000Z",
-      "image": "https://i.guim.co.uk/img/media/73ee99a793b2feabb8a78a0b9e02406c7d2d6450/519_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f3c8dfaf9dad173bc66ca05b71a91ef8",
-      "topic": "政治",
-      "score": 80,
-      "id": "1ae86901f4dc"
     },
     {
       "title": "Five people in ACT die from suspected overdoses in a fortnight",
@@ -146,7 +289,7 @@
       "publishedAt": "2026-08-21T06:48:40.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/a3d3d8ce512b8af17c55f344ead27fc9?impolicy=wcms_crop_resize&cropH=3942&cropW=7008&xPos=0&yPos=365&width=862&height=485",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "9dc97b60ab24"
     },
     {
@@ -159,21 +302,8 @@
       "publishedAt": "2026-08-21T10:03:17.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d2a/live/6dea4cb0-9d42-11f1-801c-1fffda40756a.jpg",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "6b4ee98d9de5"
-    },
-    {
-      "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
-      "summary": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
-      "url": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-21T09:53:47.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c1/live/024497b0-9d45-11f1-a137-179a8d1c790b.jpg",
-      "topic": "政治",
-      "score": 79,
-      "id": "d787e20afcdc"
     },
     {
       "title": "Business News",
@@ -185,7 +315,7 @@
       "publishedAt": "2026-08-21T09:34:22.000Z",
       "image": "",
       "topic": "经济",
-      "score": 78,
+      "score": 77,
       "id": "6b32fde4815e"
     },
     {
@@ -198,7 +328,7 @@
       "publishedAt": "2026-08-21T09:00:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "697bff696c4a"
     },
     {
@@ -211,7 +341,7 @@
       "publishedAt": "2026-08-21T08:58:10.000Z",
       "image": "https://i.guim.co.uk/img/media/c0fd22059f3e8aaae715dbf1d523b0735b5fe1e4/483_0_3252_2603/master/3252.jpg?width=140&quality=85&auto=format&fit=max&s=939b83d6d21f4349b08e9b73d2adddfc",
       "topic": "经济",
-      "score": 78,
+      "score": 77,
       "id": "ae59a0cc29a6"
     },
     {
@@ -224,34 +354,34 @@
       "publishedAt": "2026-08-21T08:41:13.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "96d25c11c1c7"
     },
     {
-      "title": "Brethren church denies paying far-right activists to stage election stunts targeting Albanese and others",
-      "summary": "Church director tells parliamentary inquiry reporting by Nine newspapers a ‘complete lie’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Plymouth Brethren Christian Church has denied it secretly paid far-right influencers to stage stunts targeting Anthony Albanese and other politicians ",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/21/brethren-church-denies-paying-far-right-activists-to-stage-election-stunts-targeting-albanese-and-others-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-21T05:02:52.000Z",
-      "image": "https://i.guim.co.uk/img/media/2dd37b766b85298d9ecffcdaeb0e4da116a670f6/438_0_6320_5056/master/6320.jpg?width=140&quality=85&auto=format&fit=max&s=ce21ebaed4da53e13a2b12e90b5dee7b",
-      "topic": "政治",
-      "score": 78,
-      "id": "a026742bd4cb"
-    },
-    {
       "title": "Iran dismisses US economic threats, and other developments in the Middle East",
-      "summary": "Iran dismisses US economic threats, and other developments in the Middle East &nbsp;&nbsp; WPLG Local 10",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbW1zSGxnMDk1QVVkREkwMW4tMVdtU1dQdVpkVEp3MHVweTZTWVJ3bkdEbVRiM1JkVmI5dlM4Mjk1VGpZMmlkRjJmSnVlQjRwNnJ4V1R6WXVEMGEzVGR0eF9IbHkyS0xDRk0xNy1TYzcwMGkxeWdHUW9zTVg2S2lBRnhUUHZMTGF5YmRMMWEtYnNiRDZnVzQ1M0diX0RIQk9jbHpWb3hLNUNWdmJCcUNxekMyaUEyNmZNdkg2eEFLd24?oc=5",
-      "source": "WPLG Local 10",
+      "summary": "Iran dismisses US economic threats, and other developments in the Middle East &nbsp;&nbsp; WPXI",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQThOZUdmVHlvNDJwV1ZKRXJfanFVb1lGSGZpYkNCdFN1Y21LRExjcm5TYy1PeHJYcm5jUzB0dGJqaFEydkpxTUgyVTJtUTBTQkRJYklYYllHSEQxT0pmdzVBS003d29aWFBaSlI3WFBGZmVDNlJhemxpVGV0NW9yY1ZSd3BfTi0xdUhOclU1aW0tNVUyQU1QWWdMN3p3UDFOQ2wxdFVJeTJiNU11b05FOE8yaE5wTXdvSks2QzRybC1SaVh1X3dySDUtQnNlbS1EaUVPMms1QdIB1wFBVV95cUxOQThOZUdmVHlvNDJwV1ZKRXJfanFVb1lGSGZpYkNCdFN1Y21LRExjcm5TYy1PeHJYcm5jUzB0dGJqaFEydkpxTUgyVTJtUTBTQkRJYklYYllHSEQxT0pmdzVBS003d29aWFBaSlI3WFBGZmVDNlJhemxpVGV0NW9yY1ZSd3BfTi0xdUhOclU1aW0tNVUyQU1QWWdMN3p3UDFOQ2wxdFVJeTJiNU11b05FOE8yaE5wTXdvSks2QzRybC1SaVh1X3dySDUtQnNlbS1EaUVPMms1QQ?oc=5",
+      "source": "WPXI",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-21T02:28:45.000Z",
+      "publishedAt": "2026-08-21T02:42:58.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
-      "id": "7f2aa6cb08e2"
+      "score": 77,
+      "id": "92984ca7139b"
+    },
+    {
+      "title": "Ban on goods from occupied West Bank would help protect two-state solution, says Emily Thornberry – UK politics live",
+      "summary": "Head of foreign affairs select committee urges government to adopt ban amid rising settler violence, after foreign secretary rebukes Israel over construction tender Members of the public could see actors dressed as armed police and simulated emergencies at the Houses of Parliament when filming takes place this weekend. Production company Bad Wolf, behind sho",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/21/andy-burnham-growth-labour-john-healey-uk-politics-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-08-21T11:24:45.000Z",
+      "image": "https://i.guim.co.uk/img/media/73ee99a793b2feabb8a78a0b9e02406c7d2d6450/519_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f3c8dfaf9dad173bc66ca05b71a91ef8",
+      "topic": "政治",
+      "score": 76,
+      "id": "1ae86901f4dc"
     },
     {
       "title": "Bangladesh expect ‘harder’ Australia challenge in second Test, says coach",
@@ -263,7 +393,7 @@
       "publishedAt": "2026-08-21T08:34:06.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "c229e61ff2aa"
     },
     {
@@ -276,7 +406,7 @@
       "publishedAt": "2026-08-21T08:12:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "66928eade3cb"
     },
     {
@@ -289,7 +419,7 @@
       "publishedAt": "2026-08-21T08:00:34.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/4f056da4899923f834727e7eb0dcf577?impolicy=wcms_crop_resize&cropH=2950&cropW=5245&xPos=14&yPos=607&width=862&height=485",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "361038c286f8"
     },
     {
@@ -302,47 +432,73 @@
       "publishedAt": "2026-08-21T07:56:21.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "85436c9310c8"
     },
     {
-      "title": "Powerus Wins $22.3 Million Middle East Oil Infrastructure Security Deal",
-      "summary": "Powerus Wins $22.3 Million Middle East Oil Infrastructure Security Deal &nbsp;&nbsp; Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY05WSmdEcjBJcy1IZEdFRldqclQyX0JINUEzalA5Zm5DREs3dHdxU0d1R3Exc0RQOG45R0tPT3dxQVFQaW5aT29wbGhPNUhtcm1TWm1haXpxS2FaM3Zoc09zZzhLXy1aSDIxSGlwTFV3RkxXS0ZQdXRabXlMbEdHSVRzdDM2N3AzeU5xVmYtQzRTVUVVRE40RDhqc3VNYk1VdXJlTGZsUnE0LU5QcE9ONnVR0gGyAUFVX3lxTE5jTlZKZ0RyMElzLUhkR0VGV2pyVDJfQkg1QTNqUDlmbkNESzd0d3FTR3VHcTFzRFA4bjlHS09Pd3FBUVBpblpPb3BsaE81SG1ybVNabWFpenFLYVozdmhzT3NnOEtfLVpIMjFIaXBMVXdGTFdLRlB1dFpteUxsR0dJVHN0MzY3cDN5TnFWZi1DNFNVRVVETjREOGpzdU1iTVV1cmVMZmxScTQtTlBwT042dVE?oc=5",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-21T01:55:36.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 77,
-      "id": "6991e727aae1"
+      "title": "Brethren church denies paying far-right activists to stage election stunts targeting Albanese and others",
+      "summary": "Church director tells parliamentary inquiry reporting by Nine newspapers a ‘complete lie’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Plymouth Brethren Christian Church has denied it secretly paid far-right influencers to stage stunts targeting Anthony Albanese and other politicians ",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/21/brethren-church-denies-paying-far-right-activists-to-stage-election-stunts-targeting-albanese-and-others-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-21T05:02:52.000Z",
+      "image": "https://i.guim.co.uk/img/media/2dd37b766b85298d9ecffcdaeb0e4da116a670f6/438_0_6320_5056/master/6320.jpg?width=140&quality=85&auto=format&fit=max&s=ce21ebaed4da53e13a2b12e90b5dee7b",
+      "topic": "政治",
+      "score": 76,
+      "id": "a026742bd4cb"
     },
     {
-      "title": "USS George Washington Carrier Strike Group Arrives in Middle East",
-      "summary": "USS George Washington Carrier Strike Group Arrives in Middle East &nbsp;&nbsp; VOI.ID",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uTHM2NWdZT3V1elA3WGpMNWpDZTdaVkR4QnM2NnI5dXd3S0ZfQld4M2VXaFBORlczakltRWFPMEVBd9IBQkFVX3lxTE1uTHM2NWdZT3V1elA3WGpMNWpDZTdaVkR4QnM2NnI5dXd3S0ZfQld4M2VXaFBORlczakltRWFPMEVBdw?oc=5",
-      "source": "VOI.ID",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-21T01:41:53.000Z",
-      "image": "",
+      "title": "Daily Mail accused of stalking woman mistaken as White Stripes drummer Meg White",
+      "summary": "The tabloid boasted in a now-deleted article that they found White and promised to reveal her ‘secret new life’ The Daily Mail newspaper secretly tailed and photographed a woman in Detroit and then published an article and photographs falsely accusing her of being former The White Stripes drummer Meg White, even after she told the newspaper it had mistaken h",
+      "url": "https://www.theguardian.com/music/2026/aug/21/meg-white-daily-mail-white-stripes",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-21T11:00:33.000Z",
+      "image": "https://i.guim.co.uk/img/media/4723df1aef17144a6a6daaef2a992bb393928af9/0_315_3575_2858/master/3575.jpg?width=140&quality=85&auto=format&fit=max&s=26b0be66e325589b590dd357a166a247",
       "topic": "社会",
-      "score": 77,
-      "id": "4cca2ea95e87"
+      "score": 75,
+      "id": "21fe708f2d3a"
     },
     {
-      "title": "Prime Video To Invest $2 Billion In Latin America Originals, Live Sports",
-      "summary": "Prime Video To Invest $2 Billion In Latin America Originals, Live Sports &nbsp;&nbsp; Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTC1OaGcteDJqLVFqdGhBaXAydUYzdEtZZDlYSk9VTlpqT1JyaTFXX0kyc05aYjVPeVVfQ0gxZnBGX0tOOEtQVFN2TnM5RWtpSmZ5dktkSVhDYklhNVhVNFBiMXdNLVRWS3hTUE5uN2lqNGNOcGFCcjRJY0xXTWpCSk9rUnRnRkxBczdBRDRtRGxTNzU2aWl2X2QwWUUxQm8tQW53bGpkUWVPVndPYmdpSGtzOFVSV1BOQ2JPNXUxMXBzR3dsclQ5bA?oc=5",
-      "source": "Forbes",
-      "feed": "Latin America News Network",
+      "title": "He has a work permit, a coffee shop – and an ICE ankle monitor: ‘Is this America?’",
+      "summary": "Business owner Assim Alkhawaja was arrested by ICE as he dropped off Lyft passengers at a military base. Now he’s stuck in a terrifying fight to stay in the US Deep within the bowels of San Diego’s federal courthouse, Assim Alkhawaja sat on the floor outside a nondescript office, waiting to be called for his ICE-mandated immigration appointment. He stared st",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/san-diego-california-ice-arrest",
+      "source": "The Guardian",
+      "feed": "The Guardian",
       "region": "美洲",
-      "publishedAt": "2026-08-21T01:40:11.000Z",
+      "publishedAt": "2026-08-21T11:00:33.000Z",
+      "image": "https://i.guim.co.uk/img/media/6b5c8e7cc99db38ad654f24e4ea38e9e573b7adf/469_142_3615_2893/master/3615.jpg?width=140&quality=85&auto=format&fit=max&s=be9277036f3f5df344002f0d332d41f5",
+      "topic": "政治",
+      "score": 75,
+      "id": "59129f55c217"
+    },
+    {
+      "title": "Serie A: Key talking points heading into the new 2026-27 season",
+      "summary": "Holders Inter Milan face challenge from reinvigorated AC and Juventus, while Napoli and Roma look to bounce back.",
+      "url": "https://www.aljazeera.com/sports/2026/8/21/serie-a-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-21T10:56:43.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
-      "id": "ff61c02b3b59"
+      "score": 75,
+      "id": "b201279ee4f1"
+    },
+    {
+      "title": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
+      "summary": "The overloaded boat was taking people, including many children, to farms to harvest rice.",
+      "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "非洲",
+      "publishedAt": "2026-08-21T10:48:01.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ba3/live/d3d9aed0-9d4c-11f1-aed2-8d6da8d75094.png",
+      "topic": "社会",
+      "score": 75,
+      "id": "4e2273433371"
     },
     {
       "title": "Australian hiker's body recovered - as officials apologise for wrongly reporting she was alive",
@@ -354,7 +510,7 @@
       "publishedAt": "2026-08-21T07:51:00.000Z",
       "image": "https://e3.365dm.com/26/08/1920x1080/skynews-lily-hooper-missing_7327022.jpg?20260821090307",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "52ce3bd3b9dc"
     },
     {
@@ -367,21 +523,8 @@
       "publishedAt": "2026-08-21T07:34:43.000Z",
       "image": "https://i.guim.co.uk/img/media/88767de4bf103f7cd1db7a710fb56defa740aef5/0_53_1638_1309/master/1638.jpg?width=140&quality=85&auto=format&fit=max&s=958d7da316a6f448d7730e814c814430",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "d050067aa4c3"
-    },
-    {
-      "title": "africa helicopter-crash",
-      "summary": "africa helicopter-crash &nbsp;&nbsp; WION",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oTXpvN0NQT3dHUEQ0SUVVcHliMHY4N3ZkUHZ2SjhqWXAxaGV2OUhZd0hNY1Fha09fQWZJZGhfV2pIbjlUcTZaUi1DMVdrZS14OE13S2tRTUswczZ0clNaZVVn?oc=5",
-      "source": "WION",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-21T07:20:23.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 76,
-      "id": "e782b552da95"
     },
     {
       "title": "Dr TikTok: Mental health moves from consulting rooms to social media",
@@ -393,7 +536,7 @@
       "publishedAt": "2026-08-21T07:12:54.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "3fa37d2347df"
     },
     {
@@ -406,21 +549,34 @@
       "publishedAt": "2026-08-21T07:04:15.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1718585f98d2aabd63c4c8b0819eb6b3?impolicy=wcms_crop_resize&cropH=2404&cropW=4274&xPos=409&yPos=188&width=862&height=485",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "67d822a9af55"
     },
     {
-      "title": "USS Abraham Lincoln leaves Middle East for San Diego",
-      "summary": "USS Abraham Lincoln leaves Middle East for San Diego &nbsp;&nbsp; cbs8.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYWhLRnNHdkpJOXdMWjVFUThPaFF1U2FFOFJNLW4tcFlDQzh3Yk5laER5MWo2aUpaUE9zOTh6Z0FSaG41M1lZaEQ4NE1YTW05QWFWZ2hOUjRib1U3cmpPT3Uxa2lOelo1UkJCTkxjTDRDNU8zM0ZnZzVEMjZmOFg4Y3daMFRyazFsNUs5NGo0ZXJuOUNuT0VOdlhiZU9oaGV3MFh1QnVoZGlSNG1iUklOU0M4cURMbWRUS3laYkJydWJZcUJIRmduR3EyWQ?oc=5",
-      "source": "cbs8.com",
+      "title": "USS George Washington Carrier Strike Group Arrives in Middle East",
+      "summary": "USS George Washington Carrier Strike Group Arrives in Middle East &nbsp;&nbsp; VOI.ID",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uTHM2NWdZT3V1elA3WGpMNWpDZTdaVkR4QnM2NnI5dXd3S0ZfQld4M2VXaFBORlczakltRWFPMEVBd9IBQkFVX3lxTE1uTHM2NWdZT3V1elA3WGpMNWpDZTdaVkR4QnM2NnI5dXd3S0ZfQld4M2VXaFBORlczakltRWFPMEVBdw?oc=5",
+      "source": "VOI.ID",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-21T01:29:00.000Z",
+      "publishedAt": "2026-08-21T01:41:53.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
-      "id": "f06ea7ee4d4d"
+      "score": 75,
+      "id": "4cca2ea95e87"
+    },
+    {
+      "title": "Prime Video To Invest $2 Billion In Latin America Originals, Live Sports",
+      "summary": "Prime Video To Invest $2 Billion In Latin America Originals, Live Sports &nbsp;&nbsp; Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTC1OaGcteDJqLVFqdGhBaXAydUYzdEtZZDlYSk9VTlpqT1JyaTFXX0kyc05aYjVPeVVfQ0gxZnBGX0tOOEtQVFN2TnM5RWtpSmZ5dktkSVhDYklhNVhVNFBiMXdNLVRWS3hTUE5uN2lqNGNOcGFCcjRJY0xXTWpCSk9rUnRnRkxBczdBRDRtRGxTNzU2aWl2X2QwWUUxQm8tQW53bGpkUWVPVndPYmdpSGtzOFVSV1BOQ2JPNXUxMXBzR3dsclQ5bA?oc=5",
+      "source": "Forbes",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-21T01:40:11.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "ff61c02b3b59"
     },
     {
       "title": "Amazon to invest $2 billion in Latin American Prime Video through 2030",
@@ -432,7 +588,7 @@
       "publishedAt": "2026-08-21T01:15:40.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "c8a06b913717"
     },
     {
@@ -445,7 +601,7 @@
       "publishedAt": "2026-08-21T10:25:07.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/a1312110af16c75a234b7ff87794d6fd?impolicy=wcms_crop_resize&cropH=2776&cropW=4935&xPos=0&yPos=1&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "6d719779dc47"
     },
     {
@@ -458,7 +614,7 @@
       "publishedAt": "2026-08-21T10:13:50.000Z",
       "image": "https://i.guim.co.uk/img/media/e102476750d2357adb4c1b05d061b9a5a3bb9f37/1118_702_5936_4751/master/5936.jpg?width=140&quality=85&auto=format&fit=max&s=b94bc7d8a7ed007215470f5babee940f",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "3536c78940e6"
     },
     {
@@ -471,7 +627,7 @@
       "publishedAt": "2026-08-21T10:10:52.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "43a1dddf21e2"
     },
     {
@@ -484,7 +640,7 @@
       "publishedAt": "2026-08-21T10:01:49.000Z",
       "image": "",
       "topic": "气候",
-      "score": 75,
+      "score": 74,
       "id": "ed57604bbb79"
     },
     {
@@ -497,7 +653,7 @@
       "publishedAt": "2026-08-21T10:01:17.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "c3cdb746c923"
     },
     {
@@ -510,7 +666,7 @@
       "publishedAt": "2026-08-21T10:00:31.000Z",
       "image": "https://i.guim.co.uk/img/media/746c6d353340601bbc6e3eb444c11f12160d131f/984_725_2427_1942/master/2427.jpg?width=140&quality=85&auto=format&fit=max&s=2f02b56b595f0184d529e6e66afa2210",
       "topic": "经济",
-      "score": 75,
+      "score": 74,
       "id": "3f35f140e6e2"
     },
     {
@@ -523,34 +679,21 @@
       "publishedAt": "2026-08-21T10:00:31.000Z",
       "image": "https://i.guim.co.uk/img/media/5e4995a896e3c857e647f342a61e99386d8893db/53_0_3076_2461/master/3076.jpg?width=140&quality=85&auto=format&fit=max&s=6d37c772276db202b14ba171164fc525",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "ae8c919648bb"
     },
     {
-      "title": "Torrential rain floods New York City’s streets and subway",
-      "summary": "Torrential rainfall had led to flash flooding in parts of New York City.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-21T09:40:04.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 75,
-      "id": "856428b02d11"
-    },
-    {
-      "title": "Gambia FA shares message from FIFA President Gianni Infantino",
-      "summary": "Gambia FA shares message from FIFA President Gianni Infantino &nbsp;&nbsp; Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczRTdk1uQTI0YjhSM0k2bUNLeHAwQ1EyWGhJd3k5djhNUWpwSy1wNnNoWGttSXJBd19EaGROSjRBZ0dQUDRQZXhVOGc3a2oyQzZralNoS1NJUm1nZ3pfNEVNZmEydFhjWlZ5RlJjRGhhRVJCNjZNcUpBdEtISGhXSWxnTDFYcWhRWnNMNTU0S0VjSlVnc3VkMw?oc=5",
-      "source": "Africa Top Sports",
+      "title": "africa helicopter-crash",
+      "summary": "africa helicopter-crash &nbsp;&nbsp; WION",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oTXpvN0NQT3dHUEQ0SUVVcHliMHY4N3ZkUHZ2SjhqWXAxaGV2OUhZd0hNY1Fha09fQWZJZGhfV2pIbjlUcTZaUi1DMVdrZS14OE13S2tRTUswczZ0clNaZVVn?oc=5",
+      "source": "WION",
       "feed": "Africa News Network",
       "region": "非洲",
-      "publishedAt": "2026-08-21T09:22:08.000Z",
+      "publishedAt": "2026-08-21T07:20:23.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "a36434e38bbf"
+      "topic": "社会",
+      "score": 74,
+      "id": "e782b552da95"
     },
     {
       "title": "British YouTuber to face retrial on rape charges in Australia",
@@ -562,7 +705,7 @@
       "publishedAt": "2026-08-21T06:54:00.000Z",
       "image": "https://e3.365dm.com/26/07/1920x1080/skynews-yung-filly-barrientos_7310860.jpg?20260731062934",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "95753b320763"
     },
     {
@@ -575,7 +718,7 @@
       "publishedAt": "2026-08-21T06:41:55.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/777e10a746f8a786fd25daf47f1e7929?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=13&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "cc08f5069938"
     },
     {
@@ -588,7 +731,7 @@
       "publishedAt": "2026-08-21T04:01:00.000Z",
       "image": "",
       "topic": "科技",
-      "score": 75,
+      "score": 74,
       "id": "7aa4516058a6"
     },
     {
@@ -601,7 +744,7 @@
       "publishedAt": "2026-08-21T03:50:15.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "23d90072d14c"
     },
     {
@@ -614,21 +757,47 @@
       "publishedAt": "2026-08-21T00:50:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "2546369a1668"
     },
     {
-      "title": "Iran war live: Tehran says planned US sanctions threaten global economy",
-      "summary": "Iran says Washington's warning of an 'economic D-Day' threatens the entire global economy.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
+      "title": "Torrential rain floods New York City’s streets and subway",
+      "summary": "Torrential rainfall had led to flash flooding in parts of New York City.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "region": "全球",
+      "publishedAt": "2026-08-21T09:40:04.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 73,
+      "id": "856428b02d11"
+    },
+    {
+      "title": "Gambia FA shares message from FIFA President Gianni Infantino",
+      "summary": "Gambia FA shares message from FIFA President Gianni Infantino &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczRTdk1uQTI0YjhSM0k2bUNLeHAwQ1EyWGhJd3k5djhNUWpwSy1wNnNoWGttSXJBd19EaGROSjRBZ0dQUDRQZXhVOGc3a2oyQzZralNoS1NJUm1nZ3pfNEVNZmEydFhjWlZ5RlJjRGhhRVJCNjZNcUpBdEtISGhXSWxnTDFYcWhRWnNMNTU0S0VjSlVnc3VkMw?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-21T09:22:08.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
-      "id": "3d9bf3bb4b35"
+      "score": 73,
+      "id": "a36434e38bbf"
+    },
+    {
+      "title": "Ex-car salesman becomes Belgian prince as royal paternity confirmed",
+      "summary": "A former car salesman has become a prince after his father, Belgium's Prince Laurent, officially recognised him as his son.",
+      "url": "https://news.sky.com/story/ex-car-salesman-becomes-belgian-prince-as-father-officially-recognises-paternity-13575309",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "全球",
+      "publishedAt": "2026-08-21T09:20:00.000Z",
+      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-belgium-prince-vandenkerckhove_7327086.png?20260821103508",
+      "topic": "社会",
+      "score": 73,
+      "id": "58735abaf01c"
     },
     {
       "title": "Swiatek into Cincinnati semis after Rybakina injury",
@@ -640,7 +809,7 @@
       "publishedAt": "2026-08-21T09:11:55.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "27c384ca1f7d"
     },
     {
@@ -653,7 +822,7 @@
       "publishedAt": "2026-08-21T09:00:30.000Z",
       "image": "https://i.guim.co.uk/img/media/3a7f97269607e1f9ac63df741af8be80bd7de988/116_148_6455_5167/master/6455.jpg?width=140&quality=85&auto=format&fit=max&s=6faee98d2695757d449cad40703c1db4",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "1bb10c86ff1f"
     },
     {
@@ -666,7 +835,7 @@
       "publishedAt": "2026-08-21T09:00:06.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/44488691b020431c4cc26b6598bbe386?impolicy=wcms_crop_resize&cropH=1350&cropW=2400&xPos=0&yPos=723&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "f88c599a265d"
     },
     {
@@ -679,7 +848,7 @@
       "publishedAt": "2026-08-21T08:59:26.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/9c5908e432141a75aeb636de1420c0e7?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=353&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "d6c4ebe71db6"
     },
     {
@@ -692,7 +861,7 @@
       "publishedAt": "2026-08-21T06:06:54.000Z",
       "image": "https://i.guim.co.uk/img/media/928591371de9250f1719085a7ebd5356fe8fa591/494_0_4940_3952/master/4940.jpg?width=140&quality=85&auto=format&fit=max&s=f8880d2ad2b06f83fd91d93ca5a6056b",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "89561a909810"
     },
     {
@@ -705,7 +874,7 @@
       "publishedAt": "2026-08-21T06:00:26.000Z",
       "image": "https://i.guim.co.uk/img/media/54e13f301954108c3b5370909d458d3d8875f235/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=5c4fd45f3a02e92209f360b938acb7f6",
       "topic": "经济",
-      "score": 74,
+      "score": 73,
       "id": "815481a9466b"
     },
     {
@@ -718,7 +887,7 @@
       "publishedAt": "2026-08-21T03:08:09.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "296b7d62e575"
     },
     {
@@ -731,216 +900,47 @@
       "publishedAt": "2026-08-21T02:49:27.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/472a/live/5bf07db0-9d09-11f1-a7a3-177d6356d0c7.jpg",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "2860c17061a0"
-    },
-    {
-      "title": "Michael Cohen, ex-fixer for Trump who once testified against him, hosts president on his radio show – as it happened",
-      "summary": "Despite previously comparing him to a ‘mobster’, Trump’s former personal lawyer showers him with praise. This blog is now closed. Trump administration faces questions over top aide Natalie Harp’s security clearance Sign up for the US Breaking News email An FBI team seized electronic devices from former US representative Eric Swalwell at the San Francisco air",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-21T01:51:26.000Z",
-      "image": "https://i.guim.co.uk/img/media/fd30a4f1786c865013425a67a1ceb91772d4ed73/261_0_4662_3730/master/4662.jpg?width=140&quality=85&auto=format&fit=max&s=60d8cd773bdcfe52657f830073fb6689",
-      "topic": "政治",
-      "score": 74,
-      "id": "f30580f76755"
     },
     {
       "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
       "summary": "Live Updates: Latest from Israel, Iran, and the Middle East &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2VlZXTlNmNDhnWXNsSkVfaDVMQ0IxVks0Um9ZbjR2MVdXT1FWTlZGa3NpZFlocktLb1NCdUpPeWZTSmNPRTFXQmxqYVF0Uk5YZUFvN21XSzVCZ1Awc3VBRjFLeVlNYTJIY3piQVEwTUxjT2E4bnNUVW9TZWtEdkU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00eEs1LWMyN3dRR3pDQV9lTHpzdkVLdVJWZ25zNV9PaHhvaW8wbVV4cWtPeU9fUENPOERZRTBDaVRld0JrXzBaMktmR1NvOWxvWlVVX1c0bHdrdXdrZnpmeHp0UjFBQVVJSjZnc1VJdmxCQUpMem1CN0N6eWJERFk?oc=5",
       "source": "The Jerusalem Post",
       "feed": "Middle East News Network",
       "region": "中东",
       "publishedAt": "2026-08-21T00:00:05.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "6f521ec72b20"
     },
     {
-      "title": "Five missing after fire 'completely destroys' restaurant with apartments",
-      "summary": "Five people are missing after a fire broke out in the Swiss town of Thusis, local police have said.",
-      "url": "https://news.sky.com/story/five-missing-after-fire-completely-destroys-restaurant-with-apartments-in-switzerland-13575293",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "全球",
-      "publishedAt": "2026-08-21T08:49:00.000Z",
-      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-fire-thusis_7327081.jpg?20260821102559",
-      "topic": "社会",
-      "score": 73,
-      "id": "3a1be1000f94"
-    },
-    {
-      "title": "Russia imports gas as Ukrainian strikes result in shortages",
-      "summary": "Russia has begun importing fuel as Ukrainian strikes on Russian refineries and depots cause shortages.",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5939990/russia-imports-gas-as-ukrainian-strikes-result-in-shortages",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-21T08:45:01.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "d85c53443943"
-    },
-    {
-      "title": "Australia charges man for passing Ukrainian military intel to Russia",
-      "summary": "Police allege Australian-Russian citizen joined Ukrainian military seeking to send information to Russian intelligence.",
-      "url": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-21T08:42:20.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "973ece55b87f"
-    },
-    {
-      "title": "Man accused of defrauding Indigenous community not of 'dishonest mind'",
-      "summary": "Lawyers representing a man accused of defrauding money meant for an Indigenous community say he made \"best effort\" to account for where the money went.",
-      "url": "https://www.abc.net.au/news/2026-08-21/larry-woosup-alleged-fraud-indigenous-community-trial-closing/107065464",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-21T08:39:51.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ade8a1e54a1169e8afbbd0171018e610?impolicy=wcms_crop_resize&cropH=675&cropW=1200&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "41121beb58eb"
-    },
-    {
-      "title": "Why the US economy is ringing alarm bells",
-      "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-21T08:38:18.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d5b/live/f6865980-9cf0-11f1-a0c7-a733f826760a.jpg",
-      "topic": "经济",
-      "score": 73,
-      "id": "d054af63d1a3"
-    },
-    {
-      "title": "BREAKING: European PMIs stronger than expected 🔼 EURUSD approaches 1.17 level",
-      "summary": "BREAKING: European PMIs stronger than expected 🔼 EURUSD approaches 1.17 level &nbsp;&nbsp; XTB.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzZjZXI5OTNRaUJGOWg5Q1pBZXhHYVpBS3d0b0ZLY3NybHFRZGFOM0pBeVU2Wi1EUk5lbFVfWU5iM2V3eWdPdlV3NGF4Vk10dFRpclV5bHR0dmtrRUNQQXYzRUtJRDRSdmYyRUt6eXZpUzBuZ2hoU290TFFBWmdWVm0zTlNaZFBhRUZjZ1JZamhoenpMNFE5Mk9ObHVGRDZRS3I5SFFGUEpCTnhRODNMLUk2WUZlZ0lKdFVXZDN1VEVXWGpPVzJJaHFxSy0?oc=5",
-      "source": "XTB.com",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-21T08:27:18.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "8e9ab348e3d3"
-    },
-    {
-      "title": "Irish pay second highest excise tax on alcohol in EU, claims report",
-      "summary": "Irish pay second highest excise tax on alcohol in EU, claims report &nbsp;&nbsp; BreakingNews.ie",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkFEZFQ5QjU4X1pEUjJKQi1HUUE4eGRndnNTWTkyWThsNzNyakl3Q0lUTGZHcmhWMUJzbmhOelduTFZHbXNkelpaX0hYOXo3dU1MRVdRc0tyVHo3M2hlZDBwWDJMZkFEaXhzb25oYnI2TUQ4QzZDTVhXT1ZEWEhyMUlzaWkydlVoZGFJVldUdF9BU0Rkb2FDLVFYV2haZVVoSC04X0Y5bUFVWmZQ?oc=5",
-      "source": "BreakingNews.ie",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-21T08:24:55.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "ebc7a90b876f"
-    },
-    {
-      "title": "Jury discharged in rape trial of competitive bull rider",
-      "summary": "After more than eight hours of deliberations, the jury unanimously found Clay Benjamin Hall not guilty of one count of rape but was unable to reach a verdict on a second count.",
-      "url": "https://www.abc.net.au/news/2026-08-21/clay-benjamin-hall-bull-rider-rape-trial-jury-discharged/107064710",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-21T08:07:13.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d06c32d5335cf698a1bc6b8b9d45f333?impolicy=wcms_crop_resize&cropH=289&cropW=514&xPos=27&yPos=11&width=862&height=485",
-      "topic": "社会",
-      "score": 73,
-      "id": "106cc4024c27"
-    },
-    {
-      "title": "Footage shows clash with French police on beach as dinghy tries to leave for UK",
-      "summary": "Film emerges as France says it has stopped 185 small boat ‘events’ in three months since new £660m deal with UK Footage has captured the moment French police officers clashed with people on a beach in northern France as the authorities tried to intercept a dinghy attempting to reach the UK. Men wearing lifejackets appear to throw objects at the police to try",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/21/footage-french-police-clashing-people-beach-small-boats",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-21T08:05:26.000Z",
-      "image": "https://i.guim.co.uk/img/media/afecf88020efa5f0de21e72877b9aee6630929bd/475_0_4745_3796/master/4745.jpg?width=140&quality=85&auto=format&fit=max&s=c638d4642949c854f4bf51186ad24c8c",
-      "topic": "社会",
-      "score": 73,
-      "id": "06f90bfcc4fd"
-    },
-    {
-      "title": "MTN condemns recent xenophobic attacks on Ghanaians in South Africa",
-      "summary": "MTN condemns recent xenophobic attacks on Ghanaians in South Africa &nbsp;&nbsp; MyJoyOnline",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1IwVktSUE1BSU1DMFRmUjdtM25WTi02SVY0TkF4YjMtNFJnRU5hZWRaWTRXZU1ZZTgyU1B6bFUtZFV5S0hCcWVKVTNlb3NyQVdlcGIzZzZBbUdrcTRiOGw2SkpKcU9yaGItekRDTDJsQkJnT0dOdmY2b2Jpc2N1MjNsQkU0WlBJVERfRjlISS11a29DTFl0VmJxNW8?oc=5",
-      "source": "MyJoyOnline",
+      "title": "City of Cape Town says application by housing activists to appeal eviction in Woodstock is a setback for public safety",
+      "summary": "City of Cape Town says application by housing activists to appeal eviction in Woodstock is a setback for public safety &nbsp;&nbsp; EWN",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOEJDNm9UX2JEM1VlNHQyZl9GbG5lbnhRbGNiUHdmR2FldVhkVTV6YUhyVkprUGQ5d0QtUWE1NnRfNXA2OHRRaDhIaEFhVENoTGxzOVo1OVYzVl9pNVRRaTRSSUtPSlNGYjUtRWoyT1RwejA3TGhlT1VIekZkYU92RGhjOUVlX2NmSDlwQmJ3UTBDdHlpbkljT1l6M0xDekhQVTdNaV95dnJPeVEtU1NOc1VKTWlubTFzbjV3cTlnM20wdVVTWUlJTXpyaWFBVXl3RUFneWliY3hQMEtIN3lVWUNhRzdnQQ?oc=5",
+      "source": "EWN",
       "feed": "Africa News Network",
       "region": "非洲",
-      "publishedAt": "2026-08-21T07:48:01.000Z",
+      "publishedAt": "2026-08-21T11:42:54.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
-      "id": "ff25c07c50eb"
+      "score": 72,
+      "id": "f89a48808a68"
     },
     {
-      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-08-21T05:00:57.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5acd/live/49a65740-9d3d-11f1-aed2-8d6da8d75094.jpg",
-      "topic": "政治",
-      "score": 73,
-      "id": "df2cbe4d2f69"
-    },
-    {
-      "title": "Russia’s missile tests around disputed islands anger Japan",
-      "summary": "Pacific fleet launched missile drills near what Moscow calls the Kuril Islands but Japan regards as its Northern Territories Japan has criticised missile tests carried out by Russia’s navy around the disputed islands visited by Vladimir Putin last week amid continuing tensions between the two countries. Russia’s Pacific fleet said on Thursday that it had fir",
-      "url": "https://www.theguardian.com/world/2026/aug/21/russia-launch-missiles-kuril-islands-japan",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-08-21T04:54:01.000Z",
-      "image": "https://i.guim.co.uk/img/media/bba5ad816991650cc42b46206bd989c8c07236a1/317_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e743664ed80b1e24a1e71555cd0a1ece",
-      "topic": "科技",
-      "score": 73,
-      "id": "ad668b272c0b"
-    },
-    {
-      "title": "Fair Work warning as court action looms over berry pickers' pay",
-      "summary": "The Fair Work Ombudsman takes court action against a labour-hire company for allegedly underpaying berry pickers on the Coffs Coast.",
-      "url": "https://www.abc.net.au/news/2026-08-21/labour-hire-firm-in-court-for-allegedly-underpaying-pickers/107058266",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-21T04:45:38.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/5f7c2cbf18480d2d8c49c084534838f1?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=184&width=862&height=485",
-      "topic": "政治",
-      "score": 73,
-      "id": "72b97fa386d8"
-    },
-    {
-      "title": "Gold Coast council takes housing affordability ruling to High Court, warning of statewide impacts",
-      "summary": "Gold Coast City Council is taking its fight over whether luxury apartments can improve \"housing choice and affordability\" to the High Court.",
-      "url": "https://www.abc.net.au/news/2026-08-21/high-court/107062618",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-21T04:43:48.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/32771e8efd3bce0a73dbccb8a8c1d72a?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485",
-      "topic": "政治",
-      "score": 73,
-      "id": "01705fc7ad72"
+      "title": "Are South African children spending too much time in class?",
+      "summary": "Are South African children spending too much time in class? &nbsp;&nbsp; EWN",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQTdxclNNOEUxdHp3RkdhSng2NXQ1MmFLV0p2LXhJMEdPTGlRRk54NVkyZWJfVWswa2dXdmlsb1YtZGROb3BqOTBEbVdXTVNFbHRvcG14QVh0VEhNbnVXTEdiZF95QnI5UV9XZ2FHcUZnQk4zTkpuVU1NVUw4N19VaHpFcjhleldMbU5ZLXY3UHp5aFpHYkE?oc=5",
+      "source": "EWN",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-21T11:41:35.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "0f91cb790ea2"
     }
   ]
 }
