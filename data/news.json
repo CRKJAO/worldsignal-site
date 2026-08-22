@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T13:03:35.939Z",
+  "updatedAt": "2026-08-22T13:46:20.322Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -16,8 +16,34 @@
       "publishedAt": "2026-08-22T09:51:50.000Z",
       "image": "",
       "topic": "社会",
-      "score": 88,
+      "score": 92,
       "id": "b81672bbf251"
+    },
+    {
+      "title": "Zolani Tete shot dead outside his home in South Africa",
+      "summary": "Former world boxing champion Zolani \"Last Born\" Tete has been shot dead outside his home in South Africa's Eastern Cape province.",
+      "url": "https://www.abc.net.au/news/2026-08-22/south-africas-former-world-boxing-champion-zolani-tete-shot-dead/107067524",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "非洲",
+      "publishedAt": "2026-08-22T09:46:29.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/34cf26f14dd713ec602951c90065ac6f?impolicy=wcms_crop_resize&cropH=2754&cropW=4896&xPos=0&yPos=6&width=862&height=485",
+      "topic": "社会",
+      "score": 87,
+      "id": "28ec15a09bcb"
+    },
+    {
+      "title": "Former world champion boxer shot dead outside his home",
+      "summary": "Former world champion boxer Zolani Tete has been shot dead outside his home in South Africa, government officials said.",
+      "url": "https://news.sky.com/story/former-world-champion-boxer-zolani-tete-shot-dead-outside-his-home-13575726",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "非洲",
+      "publishedAt": "2026-08-22T09:24:00.000Z",
+      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-zolani-tete-tete-boxing_7327903.jpg?20260822103304",
+      "topic": "政治",
+      "score": 87,
+      "id": "bf497e8a5bc7"
     },
     {
       "title": "'America has changed': Canada to match Trump's tariffs 'dollar for dollar' after trade talks collapse",
@@ -29,21 +55,47 @@
       "publishedAt": "2026-08-22T05:09:00.000Z",
       "image": "https://e3.365dm.com/26/07/1920x1080/skynews-trump-carney_7302900.jpg?20260721003217",
       "topic": "经济",
-      "score": 87,
+      "score": 86,
       "id": "e30efffd1175"
     },
     {
-      "title": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo",
-      "summary": "The doses are the first of 70,000 allocated for Kinshasa as experts warn of the virus's exponential spread.",
-      "url": "https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "非洲",
-      "publishedAt": "2026-08-22T10:13:56.000Z",
+      "title": "Iran says the world has accepted it has defeated the US, and other Middle East developments",
+      "summary": "Iran says the world has accepted it has defeated the US, and other Middle East developments &nbsp;&nbsp; WHDH",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkY5eFYwZkVBZkFNYjU2cG5QQUZHbUhLcGhoN0tUM2p5cmRGaWY2RDEzYXFMVVQ5eG5UbHZpdlZETUJvZGR2aXl3VWVyUEhoVXpiQUJrM1lTWWFQbVRKaGJsa1FrTjRYVFZCWV9hWTRic1FZYXNEaHNyZ3FXV05DUXVieDZ4ZWFJSWJodDVuYzR3NkZfRVYtOHlyYzE4STNDZ2VudktZcm02NTVmcFdtdU0wQQ?oc=5",
+      "source": "WHDH",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-22T11:09:00.000Z",
       "image": "",
-      "topic": "政治",
+      "topic": "社会",
       "score": 85,
-      "id": "bfb250cba002"
+      "id": "9bae0a6ca69a"
+    },
+    {
+      "title": "'Lightning' the Chinese robot beats Usain Bolt's 100m world record",
+      "summary": "A robot dubbed \"Lightning\" has beaten the 100 metres human world record held by Jamaican sprinting great Usain Bolt at this year's World Humanoid Robot Games.",
+      "url": "https://www.abc.net.au/news/2026-08-22/the-robot-that-can-beat-usain-bolt/107067592",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-22T13:38:16.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a2ef7c5cc70854103c1813e3a95bf393?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=122&width=862&height=485",
+      "topic": "科技",
+      "score": 84,
+      "id": "67c06e0789e4"
+    },
+    {
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-08-22T13:13:16.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa10/live/fa462fe0-9e1d-11f1-9834-b7317ffa53cf.png",
+      "topic": "社会",
+      "score": 84,
+      "id": "21cdb7c7e567"
     },
     {
       "title": "Two police officers among seven people killed in North Yorkshire crash",
@@ -59,17 +111,30 @@
       "id": "f83f18ba9eba"
     },
     {
-      "title": "Iran war latest: Iraqi oil tankers given permission to pass through Hormuz",
-      "summary": "Iran war latest: Iraqi oil tankers given permission to pass through Hormuz &nbsp;&nbsp; thenationalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOGhLcXVlSk1ra05MV2ljYWJIWU4zSkF5djlycnZpMS12RE5CNW9Ia3JybF9pejdUQk14dHppRlg3OU1kM0hpbUpEMm1yVDBNd1dneWF1dVZ5Z1lpV2tUY2ZBTm5tb3J2SDdNN1dOUTNlUWVKc0U3RzNZdk4tQ3ZlYk83QkRVclMtYTNqQ0NHTHNRRnc?oc=5",
-      "source": "thenationalnews.com",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-22T12:44:03.000Z",
+      "title": "Former world boxing champion, 38, shot dead outside home in South Africa",
+      "summary": "Former world boxing champion, 38, shot dead outside home in South Africa &nbsp;&nbsp; The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTDUxZHc5NW41dTZ6WnFqSzJBUmRwSnd5VjF5QlJPQ1R2NVZxTVBqd0h2cXpvTjBQLTY1c0dsczZ6bDRiTUs5TXpFWmhEQm5NdV95c1NIZHFDaUlXVFVLVDJVeTZoRWZVMDZjVkhrZElFQU0ydl9xcEJIQkJIYklneW1YdkF0MWVkODBhQnZEeUR0d0RDNk1BREtjRXNZZktmdkJVemF2Vi1OYzlhVTdrb0JR?oc=5",
+      "source": "The Guardian",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-22T10:48:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 84,
+      "id": "e9790ff3d3cf"
+    },
+    {
+      "title": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo",
+      "summary": "The doses are the first of 70,000 allocated for Kinshasa as experts warn of the virus's exponential spread.",
+      "url": "https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "非洲",
+      "publishedAt": "2026-08-22T10:13:56.000Z",
       "image": "",
       "topic": "政治",
       "score": 84,
-      "id": "d681e37c3b97"
+      "id": "bfb250cba002"
     },
     {
       "title": "CONCACAF asks Infantino to skip youth event amid FIFA governance crisis",
@@ -81,34 +146,8 @@
       "publishedAt": "2026-08-22T12:37:26.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "36c36b4cccf4"
-    },
-    {
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-      "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-22T12:36:28.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa10/live/fa462fe0-9e1d-11f1-9834-b7317ffa53cf.png",
-      "topic": "社会",
-      "score": 84,
-      "id": "21cdb7c7e567"
-    },
-    {
-      "title": "Zolani Tete shot dead outside his home in South Africa",
-      "summary": "Former world boxing champion Zolani \"Last Born\" Tete has been shot dead outside his home in South Africa's Eastern Cape province.",
-      "url": "https://www.abc.net.au/news/2026-08-22/south-africas-former-world-boxing-champion-zolani-tete-shot-dead/107067524",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "非洲",
-      "publishedAt": "2026-08-22T09:46:29.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/34cf26f14dd713ec602951c90065ac6f?impolicy=wcms_crop_resize&cropH=2754&cropW=4896&xPos=0&yPos=6&width=862&height=485",
-      "topic": "社会",
-      "score": 84,
-      "id": "28ec15a09bcb"
     },
     {
       "title": "Thousands of Ervebo vaccine doses arrive in Ebola-stricken DRC",
@@ -120,7 +159,7 @@
       "publishedAt": "2026-08-22T12:29:22.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/9f29c22ea09d414aac4bd5d91a47904a?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 83,
+      "score": 82,
       "id": "1ad1ed6fabe5"
     },
     {
@@ -133,34 +172,21 @@
       "publishedAt": "2026-08-22T12:20:46.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg",
       "topic": "经济",
-      "score": 83,
+      "score": 82,
       "id": "a19a80a8a91a"
     },
     {
-      "title": "Former world champion boxer shot dead outside his home",
-      "summary": "Former world champion boxer Zolani Tete has been shot dead outside his home in South Africa, government officials said.",
-      "url": "https://news.sky.com/story/former-world-champion-boxer-zolani-tete-shot-dead-outside-his-home-13575726",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "非洲",
-      "publishedAt": "2026-08-22T09:24:00.000Z",
-      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-zolani-tete-tete-boxing_7327903.jpg?20260822103304",
-      "topic": "政治",
-      "score": 83,
-      "id": "bf497e8a5bc7"
-    },
-    {
-      "title": "Iran says the world has accepted it has defeated the US, and other Middle East developments",
-      "summary": "Iran says the world has accepted it has defeated the US, and other Middle East developments &nbsp;&nbsp; KTVN",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc1pyNGo3T205ZlpUcHZUUnhqQUV3ajdwMDFoRFpZZXZDdUtRWkg1enZGb3pVTVF5cGZYRzRTcXNIZHhPb2JfdFptdU8yZ2pfN3ZmRjh2bUVvYVBCampfYk56VVAwcDZLc2dSN1JYWE9TVFp2OF80WlU2aXR3eW04a3JwWU15aU5OV0dFMGdadEhCOHdjOTZzR291UnR2eDgtVjJBU1puNHEtci13MnJPMjI1TUlJZ3ptUXhVbDlUVVM5VkVmOHlYMDl5OC11anQwaC01OS1XRGZ3WHI3VmJlWmF4NXFicnd3TzNuNS1QWUpXTVE?oc=5",
-      "source": "KTVN",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-22T09:23:58.000Z",
+      "title": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
+      "summary": "Chinese robot reaches peak ​speed of 14.5 metres per second to beat Bolt's 100m record in Beijing, says state media.",
+      "url": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-22T11:30:51.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 83,
-      "id": "fb384d4a901d"
+      "topic": "科技",
+      "score": 82,
+      "id": "fceb68b73513"
     },
     {
       "title": "Ebola continues to spread in the DRC as 16,000 vaccine doses arrive",
@@ -172,7 +198,7 @@
       "publishedAt": "2026-08-22T11:15:39.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "8d16d20ab0f8"
     },
     {
@@ -185,7 +211,7 @@
       "publishedAt": "2026-08-22T10:54:36.000Z",
       "image": "",
       "topic": "社会",
-      "score": 82,
+      "score": 81,
       "id": "aa6cd03d06a5"
     },
     {
@@ -198,7 +224,7 @@
       "publishedAt": "2026-08-22T10:13:48.000Z",
       "image": "",
       "topic": "科技",
-      "score": 81,
+      "score": 80,
       "id": "baf83a615dd7"
     },
     {
@@ -211,7 +237,7 @@
       "publishedAt": "2026-08-22T00:04:28.000Z",
       "image": "",
       "topic": "社会",
-      "score": 81,
+      "score": 80,
       "id": "ed4ceab87091"
     },
     {
@@ -224,7 +250,7 @@
       "publishedAt": "2026-08-22T12:47:10.000Z",
       "image": "https://i.guim.co.uk/img/media/932caeb067fa25b20e197fcea13315ec5999c1db/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3893a63452500f9ceed69d70c89e5fd3",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "46bea14beac3"
     },
     {
@@ -237,7 +263,7 @@
       "publishedAt": "2026-08-22T09:45:27.000Z",
       "image": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=140&quality=85&auto=format&fit=max&s=f4a441fe501f609c181fb9eae8b6798a",
       "topic": "经济",
-      "score": 80,
+      "score": 79,
       "id": "01faf9c03b5c"
     },
     {
@@ -250,7 +276,7 @@
       "publishedAt": "2026-08-22T12:09:09.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "86636a46e6bf"
     },
     {
@@ -263,21 +289,8 @@
       "publishedAt": "2026-08-22T11:58:55.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
-      "id": "2edea0a3dfc9"
-    },
-    {
-      "title": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
-      "summary": "Chinese robot reaches peak ​speed of 14.5 metres per second to beat Bolt's 100m record in Beijing, says state media.",
-      "url": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-22T11:30:51.000Z",
-      "image": "",
-      "topic": "科技",
       "score": 78,
-      "id": "fceb68b73513"
+      "id": "2edea0a3dfc9"
     },
     {
       "title": "US kindergarten vaccination rates dip as exemptions hit record high",
@@ -289,21 +302,8 @@
       "publishedAt": "2026-08-22T11:00:02.000Z",
       "image": "https://i.guim.co.uk/img/media/46a05a7c5abbdad1de23446537f1ad216e553d86/183_0_4561_3648/master/4561.jpg?width=140&quality=85&auto=format&fit=max&s=8ec7aa5402ddfd35345ccd920597e8b7",
       "topic": "社会",
-      "score": 78,
-      "id": "a870c2687eb6"
-    },
-    {
-      "title": "Breaking: US judge strikes down Trump immigrant visa ban affecting Nigeria, 74 other countries",
-      "summary": "Breaking: US judge strikes down Trump immigrant visa ban affecting Nigeria, 74 other countries &nbsp;&nbsp; Legit News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM2tJdWE4MGp0eUF1ZjVWbTlHUmxPcTJRN2ZBSzA1NjE4NDRmbnlZaWxQeUVubUt6Q091S0UxbWtrSTl0RW4yTjhXdnBSam5ydy1xaEtSTUlfM3lFaWVZSHlOVF83dklLOU93M1VZaFFMY2NzMGNzdkZuR21RVjZESVJTZ0VvV2RTdndRSzNIcTk1N2cwTXhXRk5JanhsUUxUX2lmQVFjdnB1ZHF0NXVmVTQ5YmRlUTZD?oc=5",
-      "source": "Legit News",
-      "feed": "Latin America News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-22T10:15:48.000Z",
-      "image": "",
-      "topic": "社会",
       "score": 77,
-      "id": "08083caecbb1"
+      "id": "a870c2687eb6"
     },
     {
       "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
@@ -319,30 +319,30 @@
       "id": "bc0dd3dfb6fd"
     },
     {
-      "title": "Victorian Labor promises free dental care if re-elected in Australia-first move",
-      "summary": "Premier Ben Carroll says $230m would be earmarked for 10 public dental clinics to operate on a walk-in basis Get our breaking news email , free app or daily news podcast Victorians would be able to walk into a dental clinic and receive free checkups and treatment under an Australian-first proposal the Labor government will take to the November state election",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/22/victoria-labor-free-dental-care-ben-carroll-election-promise",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-22T06:45:46.000Z",
-      "image": "https://i.guim.co.uk/img/media/6b5a42253a30cc8ec4bb1d1565aa0b39617ecb08/344_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=b385c812d13bcfcc6349d4e1197864d6",
-      "topic": "政治",
-      "score": 77,
-      "id": "612c4ed403ae"
-    },
-    {
-      "title": "Jewish activists push back against Israeli settlers",
-      "summary": "Jewish activists provide a ‘protective presence’ to deter settler violence in parts of the Occupied West Bank.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss",
+      "title": "Indonesia bolsters troop numbers to combat Borneo wildfires",
+      "summary": "Fires between January and July burned more than 200,000 hectares of land, says the government.",
+      "url": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-22T12:51:55.000Z",
+      "region": "亚洲",
+      "publishedAt": "2026-08-22T13:35:57.000Z",
       "image": "",
-      "topic": "经济",
+      "topic": "政治",
       "score": 76,
-      "id": "d411453afaa6"
+      "id": "a5adc039cfef"
+    },
+    {
+      "title": "Is Trump making Latin America great again?",
+      "summary": "A right-wing wave is sweeping through the region and that is not good news.",
+      "url": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-22T13:23:56.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "056e3f2708ae"
     },
     {
       "title": "‘Embryonic’: lost novel by French film-maker Éric Rohmer is republished",
@@ -371,17 +371,30 @@
       "id": "0c3d6f78170d"
     },
     {
-      "title": "Middle East live: Iran allows several Iraqi oil tankers to pass through Hormuz strait",
-      "summary": "Middle East live: Iran allows several Iraqi oil tankers to pass through Hormuz strait &nbsp;&nbsp; Inbox.eu",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdU1uU2xxNGZ0LTU2RnUyeG9sc01qVWxweUdMN3E2eXFwVWtuZ1VYYTJiQVVoNTZoODFXTVg1Ui1CVmhkakVtd1pGQmhVbThkdzIyNkNjZTRRR2VlRkQyZGpVNndLbUptS182TEZDUmp2SVdwR1dxMlowS1JBNFB4cHR1T2NFbWtXc3lyZGFHMDF6aVl2bHFoUldjTTNEM2ozZEZDVGpqVnJ1VElDalZCV0lCU052d3JvbjNIRmR2cXljekEx?oc=5",
-      "source": "Inbox.eu",
-      "feed": "Middle East News Network",
+      "title": "Victorian Labor promises free dental care if re-elected in Australia-first move",
+      "summary": "Premier Ben Carroll says $230m would be earmarked for 10 public dental clinics to operate on a walk-in basis Get our breaking news email , free app or daily news podcast Victorians would be able to walk into a dental clinic and receive free checkups and treatment under an Australian-first proposal the Labor government will take to the November state election",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/22/victoria-labor-free-dental-care-ben-carroll-election-promise",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-22T06:45:46.000Z",
+      "image": "https://i.guim.co.uk/img/media/6b5a42253a30cc8ec4bb1d1565aa0b39617ecb08/344_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=b385c812d13bcfcc6349d4e1197864d6",
+      "topic": "政治",
+      "score": 76,
+      "id": "612c4ed403ae"
+    },
+    {
+      "title": "Jewish activists push back against Israeli settlers",
+      "summary": "Jewish activists provide a ‘protective presence’ to deter settler violence in parts of the Occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
       "region": "中东",
-      "publishedAt": "2026-08-22T09:48:45.000Z",
+      "publishedAt": "2026-08-22T12:51:55.000Z",
       "image": "",
       "topic": "经济",
-      "score": 76,
-      "id": "e42d3cad49b1"
+      "score": 75,
+      "id": "d411453afaa6"
     },
     {
       "title": "Iran says new US sanctions violate sovereignty of other states",
@@ -393,7 +406,7 @@
       "publishedAt": "2026-08-22T09:14:09.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "23d1356da8d4"
     },
     {
@@ -406,7 +419,7 @@
       "publishedAt": "2026-08-22T12:31:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "27ec12041a51"
     },
     {
@@ -419,60 +432,21 @@
       "publishedAt": "2026-08-22T12:25:16.000Z",
       "image": "https://i.guim.co.uk/img/media/ba78d28c71b36e38bbf7f0d1bc2e16058322109d/689_0_6859_5491/master/6859.jpg?width=140&quality=85&auto=format&fit=max&s=c786792ccf866d3f490de7833a174bde",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "3298522720e0"
     },
     {
       "title": "Andy Burnham says he wants to bring men’s World Cup back to UK in 2042",
-      "summary": "PM tells regional mayors he is keen to see tournament hosted in UK for first time after almost eight decades Andy Burnham has said he wants to bring the men’s World Cup to the UK in 2042, a move which would see the tournament return to these shores for the first time in almost eight decades. At a meeting in No 10 North in Manchester on Friday, the prime mini",
+      "summary": "PM tells regional mayors he is keen for tournament to be played in British Isles for first time since 1966 Andy Burnham has said he wants to bring the men’s World Cup to the UK in 2042, returning the tournament to Britain for the first time in almost eight decades. At a meeting in No 10 North in Manchester on Friday, the prime minister told regional mayors h",
       "url": "https://www.theguardian.com/politics/2026/aug/22/andy-burnham-uk-host-mens-world-cup-football-2042",
       "source": "The Guardian",
       "feed": "The Guardian",
-      "region": "全球",
+      "region": "欧洲",
       "publishedAt": "2026-08-22T12:13:28.000Z",
       "image": "https://i.guim.co.uk/img/media/0cd35690714d1312ba2f7b0bf00e0fc57538a6d4/228_0_4161_3331/master/4161.jpg?width=140&quality=85&auto=format&fit=max&s=1089e2dd1d4410f8c2e71f704bf57ed6",
-      "topic": "社会",
-      "score": 75,
-      "id": "329f1579057b"
-    },
-    {
-      "title": "Siim Kallas, former Prime Minister of Estonia and former Vice President of the European Commission, passes away at 77 years old.",
-      "summary": "Siim Kallas, former Prime Minister of Estonia and former Vice President of the European Commission, passes away at 77 years old. &nbsp;&nbsp; Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOekFQZXdTM0NxY3EzR3FObjZKXzRaSTMyaGtsSzBuZ3dnSEgzSXZudUJyOHNXNmVmdUFnU0pZQzFvVTllWk9rNEV0aW1GelNvdjJCSlphRlJGbFh3NU1fWE4tVEJEWFVtU2ljMnJWdmxnVmNhc3FJckh1dzM0c0hSVGt1NjZZUjhueGI3enJPc2JiempaNUoxRVd6NUtyUkdhZUJnSkVsZWg4bXRDWUtabmlCY1N0d1c0MDRhdFp1ajNBVkVwMkN1YnFwbDgwMmMtT3RYajJJYU94a0VfYUJCSzFSOXM5V0pveDQ1ajludy1Tb1drSnFYSi1aYVbSAYICQVVfeXFMTnVYQ0s2SHV6VmtDSzdoaXpzWnloZ0JtY1BuV1NpNHg5NjctbDJtMTJldTdCVmhQX0E4bWZ5aFZ3blg5VE52SEhWZ2otNlV3YjF1M25Zb2pTQTR3RGh3QVJFeU96Qkd0V24wc25HczdLODR0bXFuaVZUX05mN3dPa0FZb05iNmFlOW9fTFJYM2lORHV5OEhPYlFhak42SDhMZ3pBZVlBQ2w3OFdIWFg4T0piNWJaRG9zOEx0Z2s4RkxVYW1veUVRSXdjd0JyYmlqb2RJQ19mX0xmSHRmbVBLWEM4ZGJlOFR6WkF4d2FNWmdCQ2xrMWRZZVpPVkhrWThKWWJB?oc=5",
-      "source": "Demócrata",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-22T10:56:39.000Z",
-      "image": "",
       "topic": "政治",
       "score": 74,
-      "id": "3e50010d4d21"
-    },
-    {
-      "title": "How will Trump’s tariffs affect Canada’s economy?",
-      "summary": "US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada's economy.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-22T08:01:55.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 74,
-      "id": "e19a4acf6d54"
-    },
-    {
-      "title": "Unions worry Labour’s plan for zero-hours contracts may break manifesto pledge",
-      "summary": "Leaders claim scaremongering from business figures may cause key legislation to become ‘meaningless’ Trades unions are warning Andy Burnham that Labour’s policy on cutting zero-hours contracts risks failing to live up to the party’s manifesto. Union leaders are seeking reassurances from the business secretary, Jonathan Reynolds, amid what the TUC has condemn",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/22/unions-worry-labours-plan-for-zero-hours-contracts-may-break-manifesto-pledge",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-22T08:00:58.000Z",
-      "image": "https://i.guim.co.uk/img/media/d4afc15731a176fa795bb15a0ecc65e3e0f850b0/482_0_4821_3857/master/4821.jpg?width=140&quality=85&auto=format&fit=max&s=fba722a19d723a59b1e8c50c3696978b",
-      "topic": "经济",
-      "score": 74,
-      "id": "c0b251d9b3e1"
+      "id": "329f1579057b"
     },
     {
       "title": "Iran was live: Tehran says new US sanctions are ‘declaration of war’",
@@ -488,6 +462,45 @@
       "id": "7dfc68829c55"
     },
     {
+      "title": "Siim Kallas, former Prime Minister of Estonia and former Vice President of the European Commission, passes away at 77 years old.",
+      "summary": "Siim Kallas, former Prime Minister of Estonia and former Vice President of the European Commission, passes away at 77 years old. &nbsp;&nbsp; Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOekFQZXdTM0NxY3EzR3FObjZKXzRaSTMyaGtsSzBuZ3dnSEgzSXZudUJyOHNXNmVmdUFnU0pZQzFvVTllWk9rNEV0aW1GelNvdjJCSlphRlJGbFh3NU1fWE4tVEJEWFVtU2ljMnJWdmxnVmNhc3FJckh1dzM0c0hSVGt1NjZZUjhueGI3enJPc2JiempaNUoxRVd6NUtyUkdhZUJnSkVsZWg4bXRDWUtabmlCY1N0d1c0MDRhdFp1ajNBVkVwMkN1YnFwbDgwMmMtT3RYajJJYU94a0VfYUJCSzFSOXM5V0pveDQ1ajludy1Tb1drSnFYSi1aYVbSAYICQVVfeXFMTnVYQ0s2SHV6VmtDSzdoaXpzWnloZ0JtY1BuV1NpNHg5NjctbDJtMTJldTdCVmhQX0E4bWZ5aFZ3blg5VE52SEhWZ2otNlV3YjF1M25Zb2pTQTR3RGh3QVJFeU96Qkd0V24wc25HczdLODR0bXFuaVZUX05mN3dPa0FZb05iNmFlOW9fTFJYM2lORHV5OEhPYlFhak42SDhMZ3pBZVlBQ2w3OFdIWFg4T0piNWJaRG9zOEx0Z2s4RkxVYW1veUVRSXdjd0JyYmlqb2RJQ19mX0xmSHRmbVBLWEM4ZGJlOFR6WkF4d2FNWmdCQ2xrMWRZZVpPVkhrWThKWWJB?oc=5",
+      "source": "Demócrata",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-22T10:56:39.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 73,
+      "id": "3e50010d4d21"
+    },
+    {
+      "title": "How will Trump’s tariffs affect Canada’s economy?",
+      "summary": "US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada's economy.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-22T08:01:55.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 73,
+      "id": "e19a4acf6d54"
+    },
+    {
+      "title": "Unions worry Labour’s plan for zero-hours contracts may break manifesto pledge",
+      "summary": "Leaders claim scaremongering from business figures may cause key legislation to become ‘meaningless’ Trades unions are warning Andy Burnham that Labour’s policy on cutting zero-hours contracts risks failing to live up to the party’s manifesto. Union leaders are seeking reassurances from the business secretary, Jonathan Reynolds, amid what the TUC has condemn",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/22/unions-worry-labours-plan-for-zero-hours-contracts-may-break-manifesto-pledge",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-22T08:00:58.000Z",
+      "image": "https://i.guim.co.uk/img/media/d4afc15731a176fa795bb15a0ecc65e3e0f850b0/482_0_4821_3857/master/4821.jpg?width=140&quality=85&auto=format&fit=max&s=fba722a19d723a59b1e8c50c3696978b",
+      "topic": "经济",
+      "score": 73,
+      "id": "c0b251d9b3e1"
+    },
+    {
       "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
       "summary": "Conflict with Israel derails Lebanon's economic recovery as inflation and consumer prices rise, the global lender says.",
       "url": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
@@ -497,7 +510,7 @@
       "publishedAt": "2026-08-22T07:35:08.000Z",
       "image": "",
       "topic": "经济",
-      "score": 74,
+      "score": 73,
       "id": "085fa0a966aa"
     },
     {
@@ -510,21 +523,8 @@
       "publishedAt": "2026-08-22T04:36:27.000Z",
       "image": "",
       "topic": "经济",
-      "score": 74,
+      "score": 73,
       "id": "0dda4e083bd1"
-    },
-    {
-      "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
-      "summary": "A 17-year-old Palestinian was killed and another person critically injured in a settler attack in the occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-22T04:30:20.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 74,
-      "id": "88692e727b73"
     },
     {
       "title": "Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief",
@@ -536,7 +536,7 @@
       "publishedAt": "2026-08-22T01:12:32.000Z",
       "image": "https://i.guim.co.uk/img/media/2cc528426ef20eae7438615f8906db2f009b85dc/37_0_970_776/master/970.jpg?width=140&quality=85&auto=format&fit=max&s=d399c2e90ef7aecdfd56b841aea05d55",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "8fadfac11ee4"
     },
     {
@@ -549,7 +549,7 @@
       "publishedAt": "2026-08-21T22:13:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "37978b6d587e"
     },
     {
@@ -562,7 +562,7 @@
       "publishedAt": "2026-08-22T07:08:30.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "a3c4e1935e20"
     },
     {
@@ -575,60 +575,8 @@
       "publishedAt": "2026-08-22T06:59:36.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/dcadf4d1c5fa5ad8a517d08fe4a55016?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=13&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "0580e34a1b30"
-    },
-    {
-      "title": "Iranian President Masoud Pezeshkian said it was time to end the months-long Middle East war with the United States because Tehran appeared to be in a stronger position than Washington. | via ANC 24/7 Link to full story in the comment section.",
-      "summary": "Iranian President Masoud Pezeshkian said it was time to end the months-long Middle East war with the United States because Tehran appeared to be in a stronger position than Washington. | via ANC 24/7 Link to full story in the comment section. &nbsp;&nbsp; facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZ2VnSnQtMGlLMzZ4X0NrVVp6Wm5KQ1R5bDdHc3hMMlJxZkhvVkcxSmM1cTM2Y2M2Wm9sTUJMQ0ktTV94NmxUVU5mbUZMbmFsN3c2VUxvSlRMQW1rVHVuR0dJdWJsNUdBNHVqSkJqRDU0bDNJX19DVzlLeDJfSVNxY1p4bkRrbkwzUW9BcWR2RFlPZHVvbndSMWlYTi0yenBqWTNrVklzRUtLb29jYWFFQmREWWFCRllpd3VINV9tMVU4QkJnb1N1dTBIZmZSbm9QLXl2bngtYw?oc=5",
-      "source": "facebook.com",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-22T06:30:04.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "1663a4624241"
-    },
-    {
-      "title": "Manchester City preview: Five key questions heading into 2026-27 season",
-      "summary": "Enzo Maresca faces the formidable challenge of following the legendary manager Pep Guardiola as new season starts.",
-      "url": "https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-22T10:09:11.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "2849e190eac7"
-    },
-    {
-      "title": "Robot horse and rider steal the spotlight at Chinese conference",
-      "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
-      "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "亚洲",
-      "publishedAt": "2026-08-22T10:01:18.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6806/live/4e83d770-9e0e-11f1-95e0-53a570c83624.jpg",
-      "topic": "科技",
-      "score": 72,
-      "id": "c645bdec2c52"
-    },
-    {
-      "title": "Israel's military to investigate Gaza attacks, and other major developments in the Middle East",
-      "summary": "Israel's military to investigate Gaza attacks, and other major developments in the Middle East &nbsp;&nbsp; Ottumwa Courier",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOak02YUc5ME1DMVFFVkRPRmFZNlAxaTFUWGh6Ym9kZmk5RDhrOXVDWXpPVUUwYU9PTWNyeFIxaHhjVERpS3FHVzZQU0EyeGRjdjBwU2tzbFRPUXBEc0RFR0NmNDFFekpDQlNuTWtRaERyUld2MElObDZIcGM1YzZMaDllVDViSHVQVE5WRVdkTFJNWWRPSjdpUVJSMnNOX0o3eGJJUWxyODR1Zi1WYzZCV1I5NDB4eENIRll5dDVobE5waXpTckpLc3o4OGp5ajV1LV9mamlpTTlyeU8wTkVkcElQRERlY0UtbWlDVGJkYkl4TkJuZEdIUmRlQVRWYS0ySmJ2QzE5UktRa09ZZGxHelpZbUNCZF9IVlhUbw?oc=5",
-      "source": "Ottumwa Courier",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-22T09:19:25.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "e4dd820169fa"
     },
     {
       "title": "Oil prices overtake Iran's nuclear program as top US priority in Middle East war",
@@ -657,6 +605,71 @@
       "id": "b15ed72d07dd"
     },
     {
+      "title": "Iranian President Masoud Pezeshkian said it was time to end the months-long Middle East war with the United States because Tehran appeared to be in a stronger position than Washington. | via ANC 24/7 Link to full story in the comment section.",
+      "summary": "Iranian President Masoud Pezeshkian said it was time to end the months-long Middle East war with the United States because Tehran appeared to be in a stronger position than Washington. | via ANC 24/7 Link to full story in the comment section. &nbsp;&nbsp; facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZ2VnSnQtMGlLMzZ4X0NrVVp6Wm5KQ1R5bDdHc3hMMlJxZkhvVkcxSmM1cTM2Y2M2Wm9sTUJMQ0ktTV94NmxUVU5mbUZMbmFsN3c2VUxvSlRMQW1rVHVuR0dJdWJsNUdBNHVqSkJqRDU0bDNJX19DVzlLeDJfSVNxY1p4bkRrbkwzUW9BcWR2RFlPZHVvbndSMWlYTi0yenBqWTNrVklzRUtLb29jYWFFQmREWWFCRllpd3VINV9tMVU4QkJnb1N1dTBIZmZSbm9QLXl2bngtYw?oc=5",
+      "source": "facebook.com",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-22T06:30:04.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 72,
+      "id": "1663a4624241"
+    },
+    {
+      "title": "Manchester City preview: Five key questions heading into 2026-27 season",
+      "summary": "Enzo Maresca faces the formidable challenge of following the legendary manager Pep Guardiola as new season starts.",
+      "url": "https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-22T10:09:11.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "2849e190eac7"
+    },
+    {
+      "title": "Robot horse and rider steal the spotlight at Chinese conference",
+      "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
+      "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "亚洲",
+      "publishedAt": "2026-08-22T10:01:18.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6806/live/4e83d770-9e0e-11f1-95e0-53a570c83624.jpg",
+      "topic": "科技",
+      "score": 71,
+      "id": "c645bdec2c52"
+    },
+    {
+      "title": "Middle East live: Iran allows several Iraqi oil tankers to pass through Hormuz strait",
+      "summary": "Middle East live: Iran allows several Iraqi oil tankers to pass through Hormuz strait &nbsp;&nbsp; Inbox.eu",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdU1uU2xxNGZ0LTU2RnUyeG9sc01qVWxweUdMN3E2eXFwVWtuZ1VYYTJiQVVoNTZoODFXTVg1Ui1CVmhkakVtd1pGQmhVbThkdzIyNkNjZTRRR2VlRkQyZGpVNndLbUptS182TEZDUmp2SVdwR1dxMlowS1JBNFB4cHR1T2NFbWtXc3lyZGFHMDF6aVl2bHFoUldjTTNEM2ozZEZDVGpqVnJ1VElDalZCV0lCU052d3JvbjNIRmR2cXljekEx?oc=5",
+      "source": "Inbox.eu",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-22T09:48:45.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 71,
+      "id": "e42d3cad49b1"
+    },
+    {
+      "title": "Israel's military to investigate Gaza attacks, and other major developments in the Middle East",
+      "summary": "Israel's military to investigate Gaza attacks, and other major developments in the Middle East &nbsp;&nbsp; Ottumwa Courier",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOak02YUc5ME1DMVFFVkRPRmFZNlAxaTFUWGh6Ym9kZmk5RDhrOXVDWXpPVUUwYU9PTWNyeFIxaHhjVERpS3FHVzZQU0EyeGRjdjBwU2tzbFRPUXBEc0RFR0NmNDFFekpDQlNuTWtRaERyUld2MElObDZIcGM1YzZMaDllVDViSHVQVE5WRVdkTFJNWWRPSjdpUVJSMnNOX0o3eGJJUWxyODR1Zi1WYzZCV1I5NDB4eENIRll5dDVobE5waXpTckpLc3o4OGp5ajV1LV9mamlpTTlyeU8wTkVkcElQRERlY0UtbWlDVGJkYkl4TkJuZEdIUmRlQVRWYS0ySmJ2QzE5UktRa09ZZGxHelpZbUNCZF9IVlhUbw?oc=5",
+      "source": "Ottumwa Courier",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-22T09:19:25.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 71,
+      "id": "e4dd820169fa"
+    },
+    {
       "title": "Sorrow as community pays tribute to ‘shining light’ Lily Hooper after NSW hiking tragedy",
       "summary": "The 18-year-old remembered as a talented athlete with an infectious smile and ‘one of those people who everyone simply liked’ Get our breaking news email , free app or daily news podcast Tributes have flowed for 18-year-old Lily Hooper, remembered as an adventurous, multitalented athlete with an infectious smile, after her body was found on Thursday afternoo",
       "url": "https://www.theguardian.com/australia-news/2026/aug/22/sorrow-as-community-pays-tribute-to-shining-light-lily-hooper-after-nsw-hiking-tragedy",
@@ -666,86 +679,8 @@
       "publishedAt": "2026-08-22T05:59:38.000Z",
       "image": "https://i.guim.co.uk/img/media/88767de4bf103f7cd1db7a710fb56defa740aef5/0_53_1638_1309/master/1638.jpg?width=140&quality=85&auto=format&fit=max&s=958d7da316a6f448d7730e814c814430",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "015c7b127075"
-    },
-    {
-      "title": "USS Lincoln leaves Middle East after months at sea",
-      "summary": "USS Lincoln leaves Middle East after months at sea &nbsp;&nbsp; KGW",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWkdNTEFSeER3WjhlMmEwSHJLcW9ZcXp3Wi1Qd1g4aDJMWW10dnhfMEE4YkNTQTlEUVJVQzFOOHd0YngtN2hXZzJVQ09SV0MwNE9BUUtKUWI2Y2FTVUh4UjJaaXFzcUJ4MGtvVlJleDF6SlZPc1hRMm52d3BGQ0QxQzRzZnIxNWVTUmU4ZHpJZnFwbzRKN1ZOLURVY1UtRTlxX2tLc3pfc1NEM185ZlVZMnBEQjVUdVE1QlEzUVNMVW1IVWhWMEE?oc=5",
-      "source": "KGW",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-21T23:55:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "d05ce106d961"
-    },
-    {
-      "title": "Mackay makes cricket history as day one of inaugural Test match sells out",
-      "summary": "Barry Jansen mortgaged his house to help build a cricket arena in the Queensland city of Mackay. Forty years later his club is hosting its first international Test match.",
-      "url": "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-test-series-mackay-cricket-history/107064584",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-22T09:11:19.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d80657cfe3dd7467041b5cc3af386f9b?impolicy=wcms_crop_resize&cropH=2628&cropW=4672&xPos=0&yPos=185&width=862&height=485",
-      "topic": "社会",
-      "score": 71,
-      "id": "a0f8b46ca78e"
-    },
-    {
-      "title": "Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine",
-      "summary": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban More than 100 French and British former diplomats have said Palestine is being erased in front of the world’s eyes and called for urgent action including trade and arms sales bans to press Israel to accept a Palestinian st",
-      "url": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-22T09:00:04.000Z",
-      "image": "https://i.guim.co.uk/img/media/dd5b33bf9f870a1fc5c8de54279eac6bbbe6119d/402_0_5484_4387/master/5484.jpg?width=140&quality=85&auto=format&fit=max&s=3404c309e0c49f5b99965bb72b76bc56",
-      "topic": "经济",
-      "score": 71,
-      "id": "261de8dfbe9c"
-    },
-    {
-      "title": "‘It brings me joy’: how young people are making CDs cool again",
-      "summary": "Compact discs are back, with searches for players up 96% at John Lewis and popular models sold out online With more than 800 million people subscribing to a music streaming service, wireless speakers have become a familiar sight in homes. But expect to get reacquainted with a different object to play music soon: the CD player, once consigned to obsolescence,",
-      "url": "https://www.theguardian.com/business/2026/aug/22/young-people-buying-all-in-one-cd-players",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-22T09:00:02.000Z",
-      "image": "https://i.guim.co.uk/img/media/464588bc0c0614568224bfafd4b6ed969bb28359/1362_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=035d81f23632995af07a729bbaa2753f",
-      "topic": "社会",
-      "score": 71,
-      "id": "0f2741f8d3b0"
-    },
-    {
-      "title": "Australia bite back as 18 wickets fall on day one of second Bangladesh Test",
-      "summary": "Left-armers star in wicket bonanza as Australia take 101-run lead over Bangladesh on first day of the second Test.",
-      "url": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-22T08:53:17.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "6540c4b138d4"
-    },
-    {
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
-      "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-22T08:40:49.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg",
-      "topic": "社会",
-      "score": 71,
-      "id": "38cadf2558a2"
     },
     {
       "title": "Coles website down after viral Reddit post sees customers buy cases of alcoholic drinks at nearly 80% discount",
@@ -761,6 +696,97 @@
       "id": "d4b5065332dc"
     },
     {
+      "title": "USS Lincoln leaves Middle East after months at sea",
+      "summary": "USS Lincoln leaves Middle East after months at sea &nbsp;&nbsp; KGW",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWkdNTEFSeER3WjhlMmEwSHJLcW9ZcXp3Wi1Qd1g4aDJMWW10dnhfMEE4YkNTQTlEUVJVQzFOOHd0YngtN2hXZzJVQ09SV0MwNE9BUUtKUWI2Y2FTVUh4UjJaaXFzcUJ4MGtvVlJleDF6SlZPc1hRMm52d3BGQ0QxQzRzZnIxNWVTUmU4ZHpJZnFwbzRKN1ZOLURVY1UtRTlxX2tLc3pfc1NEM185ZlVZMnBEQjVUdVE1QlEzUVNMVW1IVWhWMEE?oc=5",
+      "source": "KGW",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-21T23:55:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "d05ce106d961"
+    },
+    {
+      "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
+      "summary": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window &nbsp;&nbsp; Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXFYYUZrT0dQRlJmbzRST3NId1F6SE5wYnZSVUdoOFBXc3NBRXhXY2llSU9DX2pXR3RQNEVUcFhjSEs3R29uLUZyVUlfZUJIMDl3eTFJRTFMM0hITVNJZzRIUmlEYW1PekhjZHZGVzdESXZjR0dHdGhUUzVlalRLSU51bnRrNHRJWTF1NnpqSUdEYmJBVGJtQ3J3TEJabE0?oc=5",
+      "source": "Goal.com",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-22T12:31:58.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "0de28efbcdf8"
+    },
+    {
+      "title": "Mackay makes cricket history as day one of inaugural Test match sells out",
+      "summary": "Barry Jansen mortgaged his house to help build a cricket arena in the Queensland city of Mackay. Forty years later his club is hosting its first international Test match.",
+      "url": "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-test-series-mackay-cricket-history/107064584",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-22T09:11:19.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d80657cfe3dd7467041b5cc3af386f9b?impolicy=wcms_crop_resize&cropH=2628&cropW=4672&xPos=0&yPos=185&width=862&height=485",
+      "topic": "社会",
+      "score": 70,
+      "id": "a0f8b46ca78e"
+    },
+    {
+      "title": "Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine",
+      "summary": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban More than 100 French and British former diplomats have said Palestine is being erased in front of the world’s eyes and called for urgent action including trade and arms sales bans to press Israel to accept a Palestinian st",
+      "url": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-08-22T09:00:04.000Z",
+      "image": "https://i.guim.co.uk/img/media/dd5b33bf9f870a1fc5c8de54279eac6bbbe6119d/402_0_5484_4387/master/5484.jpg?width=140&quality=85&auto=format&fit=max&s=3404c309e0c49f5b99965bb72b76bc56",
+      "topic": "经济",
+      "score": 70,
+      "id": "261de8dfbe9c"
+    },
+    {
+      "title": "‘It brings me joy’: how young people are making CDs cool again",
+      "summary": "Compact discs are back, with searches for players up 96% at John Lewis and popular models sold out online With more than 800 million people subscribing to a music streaming service, wireless speakers have become a familiar sight in homes. But expect to get reacquainted with a different object to play music soon: the CD player, once consigned to obsolescence,",
+      "url": "https://www.theguardian.com/business/2026/aug/22/young-people-buying-all-in-one-cd-players",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-22T09:00:02.000Z",
+      "image": "https://i.guim.co.uk/img/media/464588bc0c0614568224bfafd4b6ed969bb28359/1362_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=035d81f23632995af07a729bbaa2753f",
+      "topic": "社会",
+      "score": 70,
+      "id": "0f2741f8d3b0"
+    },
+    {
+      "title": "Australia bite back as 18 wickets fall on day one of second Bangladesh Test",
+      "summary": "Left-armers star in wicket bonanza as Australia take 101-run lead over Bangladesh on first day of the second Test.",
+      "url": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-22T08:53:17.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "6540c4b138d4"
+    },
+    {
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+      "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-22T08:40:49.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg",
+      "topic": "社会",
+      "score": 70,
+      "id": "38cadf2558a2"
+    },
+    {
       "title": "Trump talks up White House ballroom and says he views strait of Hormuz as ‘American territory’ – as it happened",
       "summary": "This blog is now closed. Read the latest here Pentagon fires publisher and editor of Stars & Stripes Backlash as navy carrier set to honor Black war hero could be named after Trump Sign up for the US Breaking News email US Senator Tim Sheehy, a Montana Republican and a cattle rancher, has come out against a plan announced Friday by Donald Trump to allow for ",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live",
@@ -770,7 +796,7 @@
       "publishedAt": "2026-08-22T02:01:06.000Z",
       "image": "https://i.guim.co.uk/img/media/f6453d4e6413e28623b152ad5926800a8455eaca/531_0_2985_2388/master/2985.jpg?width=140&quality=85&auto=format&fit=max&s=a95c745670472c7aafeb6a071760cb53",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "544af400be4b"
     },
     {
@@ -783,20 +809,20 @@
       "publishedAt": "2026-08-22T11:35:00.000Z",
       "image": "",
       "topic": "气候",
-      "score": 70,
+      "score": 69,
       "id": "2c7a713166bf"
     },
     {
       "title": "Canada risks falling behind with tepid approach to African trade: South Africa envoy",
       "summary": "Canada risks falling behind with tepid approach to African trade: South Africa envoy &nbsp;&nbsp; CTV News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ0VGUnl3cGQ1c0d4QzhnaS04ay1IY3NleDhWX0xqOHNkWXloeGRWVE0wbUQwR1FsNS03aHcwX0dYekcxZFc4Z2FsLWlRdGRXRUlUQUVnWURKMVVRYkk2LW5zdGdub29tclFXOWc3UE0xdk5JTC01OWJWdEJIVW1aQjlyYldYcVRHLVl0UFEyc09NeDVONTY3R2tCdzFwRWZiWDhmaGYyVW03UVlmOTF1RFM3NW1yc184aWtaZDctZUJGM2wyMHZRb3BPS1hTQ2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNS1sUUVFRkV1WEVTd0Y5a3RLQ0pZcVVvd0R2SDExU194OHFTdXJLak5vTlRDVGVuR2hnVmZsTjVlYndrVVp0aFprZkJCNlRRZzRvZFNNaFc5X1VBRjBHbDJ6a2JldW9Sd3oxaUl6LUx2amQzLXpiUVZwUFFCTXNseURSYTJNU2x1TmdmVVAxcTBDYlhuTmpIYWRORVZXMUVic21sMjJDVHkzOXZSclR1aUdxc09TRXpnY1g1czAzSjJxaWs?oc=5",
       "source": "CTV News",
       "feed": "Africa News Network",
       "region": "非洲",
       "publishedAt": "2026-08-22T11:16:25.000Z",
       "image": "",
       "topic": "经济",
-      "score": 70,
+      "score": 69,
       "id": "d45fbadc6ead"
     },
     {
@@ -809,7 +835,7 @@
       "publishedAt": "2026-08-22T11:08:34.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "bb89e9533759"
     },
     {
@@ -822,86 +848,8 @@
       "publishedAt": "2026-08-22T11:08:33.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "ae500bc82f87"
-    },
-    {
-      "title": "Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets",
-      "summary": "Frances Tiafoe and Brandon Nakashima set up one all-American men's semifinal, Coco Gauff and Jessica Pegula also win.",
-      "url": "https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-22T08:30:31.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "099655449aef"
-    },
-    {
-      "title": "Sydney childcare centre on brink of closure offered 12-months rent free",
-      "summary": "More than 60 families rallied in Sydney's eastern suburbs to keep the doors of a local childcare centre open.",
-      "url": "https://www.abc.net.au/news/2026-08-22/nsw-childcare-centre-goodstart-city-of-sydney-lifeline/107067122",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-22T08:26:11.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/989764357e551c8b28b1ce96e5efe183?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=356&width=862&height=485",
-      "topic": "社会",
-      "score": 70,
-      "id": "2599da34fcb6"
-    },
-    {
-      "title": "Quick hits: Stunning Shoriful rivals Starc's staggering spell, Hazlewood fumes",
-      "summary": "Two lethal left arm quicks combine for 12 wickets, Australia comes close to snaring the rarest of dismissals, and a Harrup Park specialist fails on his return. Here are the quick hits from day one of the second Test.",
-      "url": "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-quick-hits-day-one-starc-shoriful/107064274",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-22T08:08:18.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/b2448deb13cca9a622ac8f0bbf6734aa?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 70,
-      "id": "6e2aca71c8e0"
-    },
-    {
-      "title": "Panama Canal to reduce shipping as ‘extreme’ El Nino approaches",
-      "summary": "Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risking slower shipping and higher costs.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-22T08:00:30.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "bb5757d65754"
-    },
-    {
-      "title": "Sri Lanka Latest Breaking News and Headlines - Print Edition Dilroy and Abeykoon for Asian Sevens - Daily Mirror",
-      "summary": "Sri Lanka Latest Breaking News and Headlines - Print Edition Dilroy and Abeykoon for Asian Sevens &nbsp;&nbsp; Daily Mirror - Sri Lanka",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3lSbTJ1OHg3LTdCR3puTmNLMzVEeDRJRnRuT1lHLVdGMUZ3VWduRXNFSy1mNHlzcnoyc3dmaUh5d3YwaVlEZm1XQkR0WlRPbnhLZEY5S2dkNmZRV0FPSGxBZkE3RVFPcXBMckhEUFpkRFo1ZGRKMWJNSnRmeEc3SmVvQkp1bGdGeGZUR2U5VXg?oc=5",
-      "source": "Sri Lanka",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-22T07:52:33.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "3aa615c09072"
-    },
-    {
-      "title": "By the narrowest margin possible, the Warriors are top of the NRL",
-      "summary": "Luke Hanson's last-second field goal didn't just finish off the Warriors match against South Sydney, it also put his club on top of the NRL ladder by a single for-and-against point.",
-      "url": "https://www.abc.net.au/news/2026-08-22/nrl-live-updates-knights-sea-eagles-souths-warriors/107067124",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-22T04:56:02.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ee133be6df89c869b10b75a0ea7f17de?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=265&width=862&height=485",
-      "topic": "政治",
-      "score": 70,
-      "id": "6f4d83417baa"
     },
     {
       "title": "Aboutrika Praises Arsenal’s Passion, Citing Guardiola’s Philosophy",
@@ -917,30 +865,82 @@
       "id": "082034df6fd5"
     },
     {
-      "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
-      "summary": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window &nbsp;&nbsp; Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXFYYUZrT0dQRlJmbzRST3NId1F6SE5wYnZSVUdoOFBXc3NBRXhXY2llSU9DX2pXR3RQNEVUcFhjSEs3R29uLUZyVUlfZUJIMDl3eTFJRTFMM0hITVNJZzRIUmlEYW1PekhjZHZGVzdESXZjR0dHdGhUUzVlalRLSU51bnRrNHRJWTF1NnpqSUdEYmJBVGJtQ3J3TEJabE0?oc=5",
-      "source": "Goal.com",
-      "feed": "Europe News Network",
+      "title": "Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets",
+      "summary": "Frances Tiafoe and Brandon Nakashima set up one all-American men's semifinal, Coco Gauff and Jessica Pegula also win.",
+      "url": "https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
       "region": "欧洲",
-      "publishedAt": "2026-08-22T10:58:49.000Z",
+      "publishedAt": "2026-08-22T08:30:31.000Z",
       "image": "",
       "topic": "社会",
       "score": 69,
-      "id": "0de28efbcdf8"
+      "id": "099655449aef"
     },
     {
-      "title": "Grace Asantewaa Joins Tigres Femenil from FC Juárez",
-      "summary": "Grace Asantewaa Joins Tigres Femenil from FC Juárez &nbsp;&nbsp; Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRDhQd1pWYW5XRXBkQUxMM2pNY0RiMWpCMUFoa2M5ZHFLQmMycldxbGZjVjRheTN3N2ZqSnlYQXRSTWZMcXNQTUZ6Z0NkQkZiRFJFODY5V1d0N3Q3b1E4bzU3ekNPU1E3V3JXYnp5Tmxrbjg1VUktVlVUZWlvZXFSSHN2aEJodzBtbllV?oc=5",
-      "source": "Africa Top Sports",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-22T10:52:50.000Z",
+      "title": "Sydney childcare centre on brink of closure offered 12-months rent free",
+      "summary": "More than 60 families rallied in Sydney's eastern suburbs to keep the doors of a local childcare centre open.",
+      "url": "https://www.abc.net.au/news/2026-08-22/nsw-childcare-centre-goodstart-city-of-sydney-lifeline/107067122",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-22T08:26:11.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/989764357e551c8b28b1ce96e5efe183?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=356&width=862&height=485",
+      "topic": "社会",
+      "score": 69,
+      "id": "2599da34fcb6"
+    },
+    {
+      "title": "Quick hits: Stunning Shoriful rivals Starc's staggering spell, Hazlewood fumes",
+      "summary": "Two lethal left arm quicks combine for 12 wickets, Australia comes close to snaring the rarest of dismissals, and a Harrup Park specialist fails on his return. Here are the quick hits from day one of the second Test.",
+      "url": "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-quick-hits-day-one-starc-shoriful/107064274",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-22T08:08:18.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b2448deb13cca9a622ac8f0bbf6734aa?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 69,
+      "id": "6e2aca71c8e0"
+    },
+    {
+      "title": "Panama Canal to reduce shipping as ‘extreme’ El Nino approaches",
+      "summary": "Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risking slower shipping and higher costs.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-22T08:00:30.000Z",
       "image": "",
       "topic": "社会",
       "score": 69,
-      "id": "8df4610dc4e4"
+      "id": "bb5757d65754"
+    },
+    {
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "summary": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-22T07:53:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg",
+      "topic": "社会",
+      "score": 69,
+      "id": "b59a0b8bf649"
+    },
+    {
+      "title": "Sri Lanka Latest Breaking News and Headlines - Print Edition Dilroy and Abeykoon for Asian Sevens - Daily Mirror",
+      "summary": "Sri Lanka Latest Breaking News and Headlines - Print Edition Dilroy and Abeykoon for Asian Sevens &nbsp;&nbsp; Daily Mirror - Sri Lanka",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3lSbTJ1OHg3LTdCR3puTmNLMzVEeDRJRnRuT1lHLVdGMUZ3VWduRXNFSy1mNHlzcnoyc3dmaUh5d3YwaVlEZm1XQkR0WlRPbnhLZEY5S2dkNmZRV0FPSGxBZkE3RVFPcXBMckhEUFpkRFo1ZGRKMWJNSnRmeEc3SmVvQkp1bGdGeGZUR2U5VXg?oc=5",
+      "source": "Sri Lanka",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-22T07:52:33.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 69,
+      "id": "3aa615c09072"
     }
   ]
 }
