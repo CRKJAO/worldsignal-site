@@ -1,11 +1,24 @@
 {
-  "updatedAt": "2026-08-22T22:41:42.465Z",
+  "updatedAt": "2026-08-22T23:38:09.849Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
+      "summary": "Iraqi President Nizar Amidi says his country's territory will not be used to launch attacks against any other state.",
+      "url": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-22T20:05:52.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 93,
+      "id": "327a55f477a0"
+    },
     {
       "title": "'17-year-old girl killed' in sword attack at Swedish school",
       "summary": "A 17-year-old girl was killed when a teenager armed with a sword attacked students at a school in Sweden, reports say.",
@@ -16,7 +29,7 @@
       "publishedAt": "2026-08-22T15:49:00.000Z",
       "image": "https://e3.365dm.com/26/08/1920x1080/skynews-sweden-sword-school_7328197.jpg?20260822152745",
       "topic": "社会",
-      "score": 92,
+      "score": 91,
       "id": "58e9aeca084d"
     },
     {
@@ -29,34 +42,8 @@
       "publishedAt": "2026-08-22T20:10:00.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/7ee35600-9e56-11f1-92d9-fda6ee78d386.jpg",
       "topic": "政治",
-      "score": 86,
-      "id": "735a5d43806b"
-    },
-    {
-      "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
-      "summary": "Iraqi President Nizar Amidi says his country's territory will not be used to launch attacks against any other state.",
-      "url": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-22T20:05:52.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 86,
-      "id": "327a55f477a0"
-    },
-    {
-      "title": "Sri Lanka Latest Breaking News and Headlines - Print Edition Two-time world champion Tete shot dead outside home - Daily Mirror",
-      "summary": "Sri Lanka Latest Breaking News and Headlines - Print Edition Two-time world champion Tete shot dead outside home &nbsp;&nbsp; Daily Mirror - Sri Lanka",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmJYUkFlUEFnamxkMUxnTFRuNWFMVy0yano0algyMnFuRTdOVWR2NVBIWHlkbnVpU2tIeERPbmFpNlh5ZGUzaTdXRVVnQ1FuOEQwRHFQQXJXVmhhcjBCNHVDUDdkcUZDclBmcjlteEhTNUU2elBQbk1MM2dPWFhHNnRNSTd3SDdlNHZwMzQ1QTlKdXNoZElLQV96SVF1ODhkckFHdU1iV1RYVnhfeWc?oc=5",
-      "source": "Sri Lanka",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-22T16:11:04.000Z",
-      "image": "",
-      "topic": "社会",
       "score": 84,
-      "id": "4666c02e6d3a"
+      "id": "735a5d43806b"
     },
     {
       "title": "Israeli army and settlers injure several Palestinians across West Bank",
@@ -68,7 +55,7 @@
       "publishedAt": "2026-08-22T21:02:29.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "ee6e47265985"
     },
     {
@@ -81,8 +68,21 @@
       "publishedAt": "2026-08-22T20:49:17.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "9b0a5a51a20f"
+    },
+    {
+      "title": "Hundreds march to mark 60th anniversary of the historic Wave Hill Walk-Off",
+      "summary": "On the 60th anniversary of the Wave Hill Walk-Off, more than 1,000 people have marched from Kalkarindji to the banks of the Victoria River to retrace the steps taken by hundreds of stockmen, workers and their families in a pivotal moment for Aboriginal land rights.",
+      "url": "https://www.abc.net.au/news/2026-08-23/hundreds-march-in-freedom-festival-wave-hill-walk-off-60-years/107064186",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-22T23:14:35.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ddae2642788510c8b5c3792379dc6d4b?impolicy=wcms_crop_resize&cropH=2810&cropW=4995&xPos=0&yPos=523&width=862&height=485",
+      "topic": "社会",
+      "score": 80,
+      "id": "06a332bee287"
     },
     {
       "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
@@ -94,8 +94,47 @@
       "publishedAt": "2026-08-22T22:29:07.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "8f47b2cbf098"
+    },
+    {
+      "title": "South Korea sending first container ship through Arctic route",
+      "summary": "PanStar Acro, bound for Europe via Arctic, is testing whether a route opened by melting sea ice is commercially viable.",
+      "url": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-22T16:46:22.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "95377cfa631e"
+    },
+    {
+      "title": "Sri Lanka Latest Breaking News and Headlines - Print Edition Two-time world champion Tete shot dead outside home - Daily Mirror",
+      "summary": "Sri Lanka Latest Breaking News and Headlines - Print Edition Two-time world champion Tete shot dead outside home &nbsp;&nbsp; Daily Mirror - Sri Lanka",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmJYUkFlUEFnamxkMUxnTFRuNWFMVy0yano0algyMnFuRTdOVWR2NVBIWHlkbnVpU2tIeERPbmFpNlh5ZGUzaTdXRVVnQ1FuOEQwRHFQQXJXVmhhcjBCNHVDUDdkcUZDclBmcjlteEhTNUU2elBQbk1MM2dPWFhHNnRNSTd3SDdlNHZwMzQ1QTlKdXNoZElLQV96SVF1ODhkckFHdU1iV1RYVnhfeWc?oc=5",
+      "source": "Sri Lanka",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-22T16:11:04.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "4666c02e6d3a"
+    },
+    {
+      "title": "Two police officers killed in North Yorkshire crash named",
+      "summary": "Watchdog launches inquiry into collision in which seven people died involving police car and another vehicle Two police officers who died in a car crash near Middlesbrough in the early hours of Saturday have been named. Police constables Matthew Blades and Tom Clough were among seven people killed after their marked police car collided with a Volkswagen Pass",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/22/people-die-in-crash-involving-police-vehicle-and-car-in-north-yorkshire",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-22T16:09:07.000Z",
+      "image": "https://i.guim.co.uk/img/media/7d0cb854dab87bce5653e5c682006025c87a120e/402_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4e8e66362fce64b0e87e197d617d8322",
+      "topic": "科技",
+      "score": 79,
+      "id": "d7d8d59d61a2"
     },
     {
       "title": "Man charged with murder over woman's death in Melbourne home",
@@ -107,34 +146,8 @@
       "publishedAt": "2026-08-22T22:01:38.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/fe27fb63d1854cd3fcb25f3a96876bd0?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 80,
+      "score": 78,
       "id": "a25cf0dc2d7b"
-    },
-    {
-      "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
-      "summary": "Canadian Prime Minister Mark Carney says Canada will match new US tariffs “dollar for dollar.\"",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-22T19:13:02.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 80,
-      "id": "aeb396e46a75"
-    },
-    {
-      "title": "South Africa's former world boxing champion Tete shot dead outside his home",
-      "summary": "South Africa's former world boxing champion Tete shot dead outside his home &nbsp;&nbsp; NewsBreak: Local News & Alerts",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQjVNdnVyR2d4MXUzNnFkb1Z1elRBdE5VeVI5enBwWU53dUpBRW9qWlU3Y21NV05IN1ZoSVBja1VCUzl0TjhibUZ6RTM4MUFod1VMaDVGMWN1WkhsS3VXYlJ5cGxpdlVyM2lCRWhTMTVwLW9zZFQxNW5lM1RydHNwQmcyekJNYlZLRWxubWxacnZ3TEw0RF9Bek1RazZzM1RvV0U1MFM3dXFmTW0ydVpMLTFTTnhZYThHak5FNXZnSzdhenZmZ0dFWkR3?oc=5",
-      "source": "NewsBreak: Local News & Alerts",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-22T16:37:56.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 80,
-      "id": "bf9dbbe81a84"
     },
     {
       "title": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
@@ -146,7 +159,7 @@
       "publishedAt": "2026-08-22T21:52:05.000Z",
       "image": "https://i.guim.co.uk/img/media/3d723808db1facc37b64f967bc238175cc40afb1/46_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=ba32a5964559a87b35db295a85547b48",
       "topic": "气候",
-      "score": 79,
+      "score": 78,
       "id": "92777fd1d130"
     },
     {
@@ -159,7 +172,7 @@
       "publishedAt": "2026-08-22T21:27:22.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "59eae8bc33d7"
     },
     {
@@ -172,21 +185,60 @@
       "publishedAt": "2026-08-22T21:22:22.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/55347ac1248d67e784957fb5483cdff7?impolicy=wcms_crop_resize&cropH=1135&cropW=2016&xPos=0&yPos=184&width=862&height=485",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "fb38a3dab2e6"
+    },
+    {
+      "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
+      "summary": "Canadian Prime Minister Mark Carney says Canada will match new US tariffs “dollar for dollar.\"",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-22T19:13:02.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 78,
+      "id": "aeb396e46a75"
     },
     {
       "title": "Egypt speaks with Iran after Tehran claims victory, and other Middle East developments",
       "summary": "Egypt speaks with Iran after Tehran claims victory, and other Middle East developments &nbsp;&nbsp; Ottumwa Courier",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOeE9mQWpwb0FjdjNCa3lEQUJWenNTYnNESDctMWhFY2pGUlozOWZTakdnb3VYZWFlZkVOczNDblRNblJrN0VEOWhvTXVQVmxlMmJ5MGJ5Q3lxUG5GbzBycUMydjA2Q01VR0tSOWxLcDhQUmRfNG1lUmZJQVhPbDg4a0Znc2hDWkRjYzhNV056NEdTQ21UWm9GTUhTZnlNbzBwUkRjb2hHeVFHZVE5bTlzRWFENVp0WWZWNUdrQ1VydE9ZNG1Xd2ppZDhiNm45cTBpTldHb1JYVFFyZk14MFc5ZklNMGR2UjBYNWtRUUhWZ1NNYk4wWndka09PQ3p1ei1xYmd6QWJMaUxITVFs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWmttWVhjU3hYZ1pGZGJaU0Z2U2dYWHhVR2V4VzkwUW5oV2RNREFMNDUwbncxbW1QdjdQX0N0bUF0LTM0NWY5NjNGZ2pyVEtzNXNhYVAxM2xpVFhSUUhFR2ViUVZ0aXdQLUVzSDNaQWhqd2wtM3RQcklnZENXRGxjN3hFdHVnUVU0LWhJTHlzNjA0TDdvQVI2WHlFU01pNGNTdnRBTFN5ZGdjcktnMWVxNFJsTUFLS3FrSkk4dE9iWHdwc1hrNUpBSmxkeDFaa3JMazlvNEFuUVhVNDRYNU9LSHhXbU94UWdKeDNkdVVvaHdaaElmN3ZYdUN4YzJwdUk1N09EQWYyWmp5OUV1eG4xLXlmcw?oc=5",
       "source": "Ottumwa Courier",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-22T15:30:56.000Z",
+      "publishedAt": "2026-08-22T15:54:40.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "7763c9889e0f"
+    },
+    {
+      "title": "USS Lincoln leaves Middle East after 9-month deployment as Trump ramps up economic pressure on Iran (Video)",
+      "summary": "USS Lincoln leaves Middle East after 9-month deployment as Trump ramps up economic pressure on Iran (Video) &nbsp;&nbsp; Social News XYZ",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUDBVRmJMY01abEtnZ0dqQnZLZXN0a3BaYWtKRzBxYmQxMUI2a1NaRU5sT0tJNjIwVjg4U0JyeGRvalZtYkkxRWRtOTR5dFB6U05YR1RyZkl3RUdrSzM5U3Q1ZlkxalhwRl8wckNSUTV4eVFrN3NkVFI1ZnhUcUt3bHJXYlNYWFdwV2poaklWTFpUTDlLZi1kNWc2ZERoZm9nZXM0ZGNXc2d3bkdoQW5GMFFTTkZ2VEJnN29oWS1XVk9Wbl9VaWs4YncwN1pyVjctaFVqVWxTOWRzOEhD0gHcAUFVX3lxTFBQMFVGYkxjTVpsS2dnR2pCdktlc3RrcFpha0pHMHFiZDExQjZrU1pFTmxPS0k2MjBWODhTQnJ4ZG9qVm1iSTFFZG05NHl0UHpTTlhHVHJmSXdFR2tLMzlTdDVmWTFqWHBGXzByQ1JRNXh5UWs3c2RUUjVmeFRxS3dscldiU1hYV3BXamhqSVZMWlRMOUtmLWQ1ZzZkRGhmb2dlczRkY1dzZ3duR2hBbkYwUVNORnZUQmc3b2hZLVdWT1ZuX1VpazhidzA3WnJWNy1oVWpVbFM5ZHM4SEM?oc=5",
+      "source": "Social News XYZ",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-22T15:52:54.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 78,
+      "id": "7b979674c29c"
+    },
+    {
+      "title": "Iran says 'entire world' has accepted it has defeated the US, and other Middle East developments",
+      "summary": "Iran says 'entire world' has accepted it has defeated the US, and other Middle East developments &nbsp;&nbsp; The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGJoVXJCaUN6MGRKNTgzWENod2VrN29OUllhaVUwTFQ5VjZpc0tEWlNiNHUzWjAxMlZiUVl6Z2FTd0I1cmUwandhdFl3SGo4NENwV3k0XzlrNDlodFJtWXkta3VETkd4UjgyTEdVRUhzOHcxZEdHMkpaZXJQQVlJZUlud2Q0NVMyMHBQSDVobnc4clZEYVBIVVVxRG5MdEE2UG1yNmtYR2IxWDhGaldPZTNIb2phQmVvSlo5UTdUby1GQWlBUXFz?oc=5",
+      "source": "The Washington Post",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-22T15:29:49.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 78,
+      "id": "6143b219d4ed"
     },
     {
       "title": "Norris to start on pole for Dutch GP as Russell claims sprint",
@@ -198,7 +250,7 @@
       "publishedAt": "2026-08-22T21:06:05.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/0c42833401b10a9226d69157bebf5b29?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "44e640936a70"
     },
     {
@@ -211,21 +263,34 @@
       "publishedAt": "2026-08-22T20:31:30.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/97113e5515e08393a794458394d25668?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=261&width=862&height=485",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "66563600e9a9"
     },
     {
-      "title": "Iran says 'entire world' has accepted it has defeated the US, and other Middle East developments",
-      "summary": "Iran says 'entire world' has accepted it has defeated the US, and other Middle East developments &nbsp;&nbsp; New Castle News",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMGRBX09sT3ZkUXhvWFU2ZG9IUE9tLThHSlBib3dLekQyajhReHF3OWhMcmxmUDFEWVpMN3NidlRHUy1OemtXc2RRS3JkUWVKNzhiZFVoaFA2d25NMnRxNG80bmVfd2tBenJ1dE5iMzU4eURtWFJaVFpKaU16UWpHZ2hheVZkbFhWS1VLOFh5V1kzS0NROURWeF82Rkx1UFpta0RzVzFmakhDSFVBX0lybGZQaWRUUU5hOWZNOXJuLXhMMWlfbDBzbnFNRUQ3WS00UW1fNnNKUm0zcjFQUE91blc0YzFrNjk4QzN2UndfX1JQd0NEWmlhR0ItS3R4WVl0MEc0?oc=5",
-      "source": "New Castle News",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-22T14:56:23.000Z",
+      "title": "Seven killed, including two police officers, in UK ‘wrong-side’ car crash",
+      "summary": "Accident follows similar crashes in Ireland where police highlighted social media trend driving in opposite direction.",
+      "url": "https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-22T17:34:28.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
-      "id": "420e9159d425"
+      "score": 77,
+      "id": "66c1a6f8068c"
+    },
+    {
+      "title": "Australia news live: Victorian Liberals announce plan to for new appeals court to ensure tougher sentences",
+      "summary": "New court of criminal appeal would give effect to new bail and sentencing laws, opposition leader says. Follow live The Victorian Liberals have announced that, if elected, they will split the court of appeal into two and appoint a new judges to set precedent they say will match “community expectations”. The opposition leader, Jess Wilson , will today announc",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-22T23:26:46.000Z",
+      "image": "https://i.guim.co.uk/img/media/924b8cb92d86821102e024df40254537472ab128/1376_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=6f76aea3b1e69a3ec5952da93d4dcd0a",
+      "topic": "政治",
+      "score": 76,
+      "id": "957231a6f69b"
     },
     {
       "title": "Egypt, Iran talk de-escalation in Middle East",
@@ -237,60 +302,47 @@
       "publishedAt": "2026-08-22T16:57:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "f4acb9ffad55"
     },
     {
-      "title": "South Korea sending first container ship through Arctic route",
-      "summary": "PanStar Acro, bound for Europe via Arctic, is testing whether a route opened by melting sea ice is commercially viable.",
-      "url": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-22T16:46:22.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 77,
-      "id": "95377cfa631e"
-    },
-    {
-      "title": "Two police officers killed in North Yorkshire crash named as Matthew Blades and Tom Clough",
-      "summary": "Watchdog launches inquiry into collision in which seven people died involving police car and another vehicle Two police officers who died in a car crash near Middlesbrough in the early hours of Saturday have been named. Police constables Matthew Blades and Tom Clough were among seven people killed after their marked police car collided with a Volkswagen Pass",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/22/people-die-in-crash-involving-police-vehicle-and-car-in-north-yorkshire",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-22T16:09:07.000Z",
-      "image": "https://i.guim.co.uk/img/media/7d0cb854dab87bce5653e5c682006025c87a120e/402_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4e8e66362fce64b0e87e197d617d8322",
+      "title": "$20m avocado packing shed upgrade halves workforce with robots",
+      "summary": "Robots replace half the casual workforce and double the output capacity at one of Australia's largest avocado packing sheds.",
+      "url": "https://www.abc.net.au/news/2026-08-23/avocado-packing-shed-manjimup-robotic-upgrade/107059672",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-22T23:00:20.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b62990a395c6b84c148440a56473fe11?impolicy=wcms_crop_resize&cropH=1125&cropW=2000&xPos=0&yPos=104&width=862&height=485",
       "topic": "科技",
-      "score": 77,
-      "id": "6e009bb11413"
+      "score": 75,
+      "id": "cb979da63a56"
     },
     {
-      "title": "Drug testing limits police don't want drivers to know under scrutiny",
-      "summary": "The exact concentration of cannabis in a driver's saliva that produces a positive drug test has long been guarded closely by New South Wales Police.",
-      "url": "https://www.abc.net.au/news/2026-08-23/nsw-drug-testing-limits-questioned-as-police-stay-silent/107065740",
+      "title": "I gave birth to my twin brother's baby and saved his life in the process",
+      "summary": "Twins Adam Braitberg and Ellie Freeman grew up in what they describe as a loving and close-knit family in suburban Melbourne/Naarm. That bond has only grown stronger since Ellie and eldest sister Jess helped Adam and his husband Omer bring daughter Gali into the world.",
+      "url": "https://www.abc.net.au/news/2026-08-23/love-story-how-ellie-helped-brother-adam-surrogacy-baby-gali/107057106",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "大洋洲",
-      "publishedAt": "2026-08-22T22:21:38.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/bcaaa3bb7e2cc0b197bf714b4805fd17?impolicy=wcms_crop_resize&cropH=649&cropW=1154&xPos=202&yPos=0&width=862&height=485",
+      "publishedAt": "2026-08-22T23:00:00.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/5c17e833825d419fc7e63905074b6e37?impolicy=wcms_crop_resize&cropH=540&cropW=960&xPos=0&yPos=23&width=862&height=485",
       "topic": "社会",
-      "score": 76,
-      "id": "781c61f7e668"
+      "score": 75,
+      "id": "d023e1749bf5"
     },
     {
-      "title": "Nazi salutes, Epstein jokes: How the 'manosphere' is affecting classrooms",
-      "summary": "Female teachers are speaking out about how the \"manosphere\" is affecting classrooms, with some saying they have noticed a rise in misogynistic attitudes among students.",
-      "url": "https://www.abc.net.au/news/2026-08-23/teachers-describe-rise-of-the-manosphere-in-classrooms/107062824",
+      "title": "Pogačar makes ominous start at Spanish Vuelta as history beckons",
+      "summary": "Cycling superstar Tadej Pogačar claims the Spanish Vuelta's red jersey for the first time as he looks to make history.",
+      "url": "https://www.abc.net.au/news/2026-08-23/spanish-vuelta-tadej-pogacar-claims-red-jersey/107068230",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "大洋洲",
-      "publishedAt": "2026-08-22T22:17:48.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ef6f2ecc611746bfe7b5f6c1808ef560?impolicy=wcms_crop_resize&cropH=5346&cropW=9504&xPos=0&yPos=836&width=862&height=485",
+      "publishedAt": "2026-08-22T22:41:55.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/eb4a310d39c4233ef3f65e74445cd1a7?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=426&width=862&height=485",
       "topic": "社会",
-      "score": 76,
-      "id": "c231c3c71616"
+      "score": 75,
+      "id": "0594071ddacf"
     },
     {
       "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
@@ -302,7 +354,7 @@
       "publishedAt": "2026-08-22T19:24:51.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "1e4175e305ea"
     },
     {
@@ -315,7 +367,7 @@
       "publishedAt": "2026-08-22T19:24:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "fa9d922334f7"
     },
     {
@@ -328,7 +380,7 @@
       "publishedAt": "2026-08-22T19:18:02.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "ce7987a1726e"
     },
     {
@@ -341,8 +393,47 @@
       "publishedAt": "2026-08-22T19:09:06.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/915f7fdf3b5b3a11e7a75610492edbec?impolicy=wcms_crop_resize&cropH=2385&cropW=4240&xPos=0&yPos=93&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "4d17cbdc0a52"
+    },
+    {
+      "title": "South Africa's former world boxing champion Tete shot dead outside his home",
+      "summary": "South Africa's former world boxing champion Tete shot dead outside his home &nbsp;&nbsp; NewsBreak: Local News & Alerts",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQjVNdnVyR2d4MXUzNnFkb1Z1elRBdE5VeVI5enBwWU53dUpBRW9qWlU3Y21NV05IN1ZoSVBja1VCUzl0TjhibUZ6RTM4MUFod1VMaDVGMWN1WkhsS3VXYlJ5cGxpdlVyM2lCRWhTMTVwLW9zZFQxNW5lM1RydHNwQmcyekJNYlZLRWxubWxacnZ3TEw0RF9Bek1RazZzM1RvV0U1MFM3dXFmTW0ydVpMLTFTTnhZYThHak5FNXZnSzdhenZmZ0dFWkR3?oc=5",
+      "source": "NewsBreak: Local News & Alerts",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-22T16:37:56.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "bf9dbbe81a84"
+    },
+    {
+      "title": "Drug testing limits police don't want drivers to know under scrutiny",
+      "summary": "The exact concentration of cannabis in a driver's saliva that produces a positive drug test has long been guarded closely by New South Wales Police.",
+      "url": "https://www.abc.net.au/news/2026-08-23/nsw-drug-testing-limits-questioned-as-police-stay-silent/107065740",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-22T22:21:38.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/bcaaa3bb7e2cc0b197bf714b4805fd17?impolicy=wcms_crop_resize&cropH=649&cropW=1154&xPos=202&yPos=0&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "781c61f7e668"
+    },
+    {
+      "title": "Nazi salutes, Epstein jokes: How the 'manosphere' is affecting classrooms",
+      "summary": "Female teachers are speaking out about how the \"manosphere\" is affecting classrooms, with some saying they have noticed a rise in misogynistic attitudes among students.",
+      "url": "https://www.abc.net.au/news/2026-08-23/teachers-describe-rise-of-the-manosphere-in-classrooms/107062824",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-22T22:17:48.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ef6f2ecc611746bfe7b5f6c1808ef560?impolicy=wcms_crop_resize&cropH=5346&cropW=9504&xPos=0&yPos=836&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "c231c3c71616"
     },
     {
       "title": "Teen Socceroo makes perfect EPL debut with win over Manchester United",
@@ -354,11 +445,11 @@
       "publishedAt": "2026-08-22T22:16:49.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/41928db5a074876c3e20e7b4211df175?impolicy=wcms_crop_resize&cropH=2580&cropW=4586&xPos=0&yPos=134&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "09638f462348"
     },
     {
-      "title": "US forcing some Pacific visitors to pay up to $27k bond",
+      "title": "US imposes visa bonds of up to $27k for several Pacific countries",
       "summary": "Travellers in several Pacific countries will now need to pay a bond of up to $27,000 to travel to the US as that government cracks down on overstayers.",
       "url": "https://www.abc.net.au/news/2026-08-23/us-forcing-some-pacific-visitors-to-pay-up-to-27k-bond/107051660",
       "source": "ABC Australia",
@@ -367,11 +458,11 @@
       "publishedAt": "2026-08-22T22:12:47.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c9988bfa45c88cbc35002ef33d3a1952?impolicy=wcms_crop_resize&cropH=1969&cropW=3500&xPos=0&yPos=240&width=862&height=485",
       "topic": "政治",
-      "score": 75,
-      "id": "bfaa671972f9"
+      "score": 74,
+      "id": "19f54af51dbc"
     },
     {
-      "title": "Data centres are already humming away in the ACT and there could be more coming",
+      "title": "'Most people wouldn't even realise': Why Canberra is a data centre hotspot",
       "summary": "Andrew Barr says there is no need to pause the development of new data centres in Canberra because the ACT's standards will meet or exceed proposed national rules.",
       "url": "https://www.abc.net.au/news/2026-08-23/act-data-centre-policy-already-aligned-with-national-ai-standard/106936530",
       "source": "ABC Australia",
@@ -380,8 +471,8 @@
       "publishedAt": "2026-08-22T22:08:21.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/450418ef3eb37eef466f99183b600bdd?impolicy=wcms_crop_resize&cropH=2166&cropW=3850&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 75,
-      "id": "93aac99062a5"
+      "score": 74,
+      "id": "8002e650df1d"
     },
     {
       "title": "Program motivates remote students to join healthcare workforce at home",
@@ -393,7 +484,7 @@
       "publishedAt": "2026-08-22T22:03:04.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/dcd82db683bcb2b89e3a070b54e94c81?impolicy=wcms_crop_resize&cropH=389&cropW=691&xPos=0&yPos=201&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "49077b5342bd"
     },
     {
@@ -406,34 +497,8 @@
       "publishedAt": "2026-08-22T21:55:06.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "42423707069f"
-    },
-    {
-      "title": "Fears for sea lions as suspected bird flu spreads to breeding ground",
-      "summary": "There are concerns the endangered Australian sea lion could be devastated by bird flu, with mass bird deaths believed to be linked to the virus found at key breeding locations.",
-      "url": "https://www.abc.net.au/news/2026-08-23/fears-for-sea-lions-after-mass-bird-mortality-event-on-ki/107064416",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-22T21:44:51.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d88ffd6289cc7d4b4dfd423756d493fb?impolicy=wcms_crop_resize&cropH=2225&cropW=3956&xPos=0&yPos=301&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "5b47cc16bd0d"
-    },
-    {
-      "title": "How artist Khaled Sabsabi remains optimistic after weathering recent storms",
-      "summary": "The award-winning artist is shaking off the Venice Biennale with a strong cup of coffee and his new exhibition, Between Suns.",
-      "url": "https://www.abc.net.au/news/2026-08-23/khaled-sabsabi-coffee-between-suns/107054854",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-22T18:43:52.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d89a20e4a14c6cc8b369c33fc24233da?impolicy=wcms_crop_resize&cropH=999&cropW=1776&xPos=0&yPos=26&width=862&height=485",
-      "topic": "政治",
-      "score": 75,
-      "id": "6a4845f220a6"
     },
     {
       "title": "USS Abraham Lincoln Leaves the Middle East After Almost 7 Months",
@@ -445,34 +510,21 @@
       "publishedAt": "2026-08-22T12:30:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "1570222188ba"
     },
     {
-      "title": "The archer who shoots a target he cannot see",
-      "summary": "After losing his sight, James Griffiths has found a new purpose through vision-impaired archery, using touch, sound and determination to chase a place on the world stage.",
-      "url": "https://www.abc.net.au/news/2026-08-23/story-vision-impaired-gippsland-archer-world-championships/106922438",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-22T21:27:04.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/4dcedb67ea9acf22cf52103a501bb983?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "eed47e0996d3"
-    },
-    {
-      "title": "Feagai chasing World Cup return with Samoa powerhouse",
-      "summary": "Feagai chasing World Cup return with Samoa powerhouse &nbsp;&nbsp; Zero Tackle",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaFZwazFCejJGRjBURHBidWU0QnZsMkJIUXpqSnhxX2FNV0RRbjVhMEk2eTRpRzNad2VaQ3pUcFhlRVF4WV9oNDVpVmswLU1HRHllTlBJWEhNRXRjVnNsMFYxcUhBR1V3anFPYlo2dEpWd2ZmRWN6cWVWMEtHbmVzeDJTRVNfNzVMZXRGMktRWWM1QQ?oc=5",
-      "source": "Zero Tackle",
-      "feed": "Pacific News Network",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-22T21:24:29.000Z",
+      "title": "FULL LIST: Nigeria, 74 others spared as US judge strikes down visa ban",
+      "summary": "FULL LIST: Nigeria, 74 others spared as US judge strikes down visa ban &nbsp;&nbsp; Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1M2bzh2RHZVd0NiZFVuTEczbTBTMUJLOWhPaFY0d1IzWGUwakM2WDNhOUhTUkVtc3F1UW9qb3ZscmhLejdUWVBXT08zZDVmS3FZRVp4WXBqcTQweHRLQW5SVU1RVmtsdzhSRy1DUE5SSlRSNlRmMXVndzBCVnlLeWJDSHU1VHNIQjJTTFRHMndGRGFPTF9sUA?oc=5",
+      "source": "Punch Newspapers",
+      "feed": "Latin America News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-22T12:22:17.000Z",
       "image": "",
       "topic": "社会",
       "score": 74,
-      "id": "842badef3e52"
+      "id": "085cb853c3ac"
     },
     {
       "title": "Meghan’s casting in The Gentlemen reportedly withdrawn",
@@ -484,21 +536,8 @@
       "publishedAt": "2026-08-22T21:23:18.000Z",
       "image": "https://i.guim.co.uk/img/media/fd136b2eb6658a31f7a1c748a417b02be611fca4/208_81_2605_2084/master/2605.jpg?width=140&quality=85&auto=format&fit=max&s=19e6ec50f031d599bfc0313aa84ad637",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "3a0b11d5cfd4"
-    },
-    {
-      "title": "Meet the people working to tackle hate and foster social cohesion",
-      "summary": "From baking bread to having hard conversations, meet the people rolling up their sleeves to combat hate and foster connection in their communities.",
-      "url": "https://www.abc.net.au/news/2026-08-23/antisemitism-royal-commission-examines-social-cohesion-projects/107063232",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-22T21:22:23.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/e28ee2434e600980070cfacb171979a2?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "42b2452be705"
     },
     {
       "title": "Iran security chief threatens neighbors against economic measures, and other Mideast developments",
@@ -510,21 +549,8 @@
       "publishedAt": "2026-08-22T20:59:26.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "412cf790b16f"
-    },
-    {
-      "title": "Is this the end of Harry and Meghan’s American dream?",
-      "summary": "The Sussexes are returning to the UK with significantly reduced media deals in an industry where fame alone can no longer guarantee success Having settled in California in the aftermath of their dramatic decoupling from the royal family in 2020, the Duke and Duchess of Sussex announced a partnership that appeared to set a clear destination for their new live",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-08-22T20:42:12.000Z",
-      "image": "https://i.guim.co.uk/img/media/31ead7211ce19532d42e165c485eb0cb3d6691c2/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c10e61a4968a54209aed2f2682a69d9f",
-      "topic": "社会",
-      "score": 74,
-      "id": "85e1013054cb"
     },
     {
       "title": "Armed men kidnap dozens in attacks on Nigerian villages",
@@ -536,7 +562,7 @@
       "publishedAt": "2026-08-22T17:58:15.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "b9205c2216c5"
     },
     {
@@ -549,34 +575,21 @@
       "publishedAt": "2026-08-22T17:52:42.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "7467cfd6dd9d"
     },
     {
-      "title": "Seven killed, including two police officers, in UK ‘wrong-side’ car crash",
-      "summary": "Accident follows similar crashes in Ireland where police highlighted social media trend driving in opposite direction.",
-      "url": "https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-22T17:34:28.000Z",
+      "title": "“Would Wipe Out Israel”: Trump WARNS Netanyahu Of Iran Nuke Power After Deadly Middle East War",
+      "summary": "“Would Wipe Out Israel”: Trump WARNS Netanyahu Of Iran Nuke Power After Deadly Middle East War &nbsp;&nbsp; Oneindia",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWFdCWmNBS0VtLXdFa09ZSktqb3hFTkpteFlkNU0xWWNLd2hnV2ZTRUJ0SHdfOWdDckozNGlXbUpaYVJRZnVsSGdZcGQwY21mS01TQlNKbU5pUzJ4aUxJRE5LN2lCZVFqQUE2OVZJRVY1YlJTQ2hjd2dGYXdCMmREMklnelA4Vm1iOW5ZeEpROUpMRTZJZ2x1VGtqa0Q3Unh0YldRb1VUX0YwZTBGN0RtalJoLWNmWHN2VXpVekNoTmZZUXJsaUNaOG54dEJ0Tk42YlE?oc=5",
+      "source": "Oneindia",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-22T17:34:01.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "66c1a6f8068c"
-    },
-    {
-      "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
-      "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The trade row is the biggest rupture in recent relations between Washington and one of its closest allies and trading partners as Donald Trump’s bellicose foreign policy angered officials in Ottawa. The two sides appeared close to a deal on ",
-      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-08-22T14:04:57.000Z",
-      "image": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=140&quality=85&auto=format&fit=max&s=f4a441fe501f609c181fb9eae8b6798a",
-      "topic": "经济",
-      "score": 74,
-      "id": "c7e9eb1de95f"
+      "topic": "政治",
+      "score": 73,
+      "id": "fbadf82a1890"
     },
     {
       "title": "Breaking: US judge strikes down Trump immigrant visa ban affecting Nigeria, 74 other countries",
@@ -588,8 +601,21 @@
       "publishedAt": "2026-08-22T07:52:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "08083caecbb1"
+    },
+    {
+      "title": "Is this the end of Harry and Meghan’s American dream?",
+      "summary": "The Sussexes are returning to the UK with significantly reduced media deals in an industry where fame alone can no longer guarantee success Having settled in California in the aftermath of their dramatic decoupling from the royal family in 2020, the Duke and Duchess of Sussex announced a partnership that appeared to set a clear destination for their new live",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "美洲",
+      "publishedAt": "2026-08-22T20:42:12.000Z",
+      "image": "https://i.guim.co.uk/img/media/31ead7211ce19532d42e165c485eb0cb3d6691c2/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c10e61a4968a54209aed2f2682a69d9f",
+      "topic": "社会",
+      "score": 72,
+      "id": "85e1013054cb"
     },
     {
       "title": "Nancy Kassebaum Baker, former US senator from Kansas, dies aged 94",
@@ -601,21 +627,8 @@
       "publishedAt": "2026-08-22T20:40:38.000Z",
       "image": "https://i.guim.co.uk/img/media/fa3ce1ac2c5c1c202fd718676700c3919fc4ee2f/367_0_2450_1960/master/2450.jpg?width=140&quality=85&auto=format&fit=max&s=8d6792c301b7b738c5e10f975c5b5414",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "305e9224a0fc"
-    },
-    {
-      "title": "World Bank raises India’s growth forecast from 6.3 to 6.6 percent for current financial year",
-      "summary": "World Bank raises India’s growth forecast from 6.3 to 6.6 percent for current financial year &nbsp;&nbsp; News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzJsaXdFWEo5UmtPT2tCT25pWkplN0NwYy1iWVlnUWlaal8yb0FURUpjeXJoS0JFR2pxT0FpdnZ4UHM5ZE13a05ueE9fMFQ4dUlUUzJGelJBZGRRRDViZFBJS0NvSkg0YlZ2N0pZUmdGMi1fSlliakpBVXlVcFVxdHJJSkpEMEdOdGFNcGdqaUExVEc5OXhkdlVsbEZhNGpaOWczT2tTaVc2T3ktX3A5S2lWYllkX3F6?oc=5",
-      "source": "News On AIR",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-22T20:35:19.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 73,
-      "id": "6733e57de9bc"
     },
     {
       "title": "Carney faces crucial test after walking away from Trump's deal",
@@ -627,7 +640,7 @@
       "publishedAt": "2026-08-22T20:02:46.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa28/live/becb6d00-9e49-11f1-8871-ff7211da55c9.jpg",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "3341dd59d8f9"
     },
     {
@@ -640,7 +653,7 @@
       "publishedAt": "2026-08-22T17:02:06.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee7/live/c783fb00-9e4a-11f1-8871-ff7211da55c9.jpg",
       "topic": "科技",
-      "score": 73,
+      "score": 72,
       "id": "211692450d60"
     },
     {
@@ -653,8 +666,34 @@
       "publishedAt": "2026-08-22T16:41:43.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "4484fbbf2f7d"
+    },
+    {
+      "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+      "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country’s prime minister, has vowed to match them “dollar for dollar” after the collapse of trade talks. The tariffs came into force on roughly $20bn (£14.6bn) of",
+      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "美洲",
+      "publishedAt": "2026-08-22T14:04:57.000Z",
+      "image": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=140&quality=85&auto=format&fit=max&s=f4a441fe501f609c181fb9eae8b6798a",
+      "topic": "经济",
+      "score": 72,
+      "id": "c7e9eb1de95f"
+    },
+    {
+      "title": "South Korea launches the Arctic route to Europe: 7,000 kilometers less than through Suez",
+      "summary": "South Korea launches the Arctic route to Europe: 7,000 kilometers less than through Suez &nbsp;&nbsp; Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFlXbHZMZjJScDVHYXdPLWRYaTlvX1g5Z3ZPZlgwNWpqUEl1SVdVTzBsRy0wd0xob25fSkRGWVl4UVR0OWJHN2JoWVEtUUtoTDk4WmRWOFRrc3Brekc2bE9PNW9FbGU4am1paWNZYTdndUlvNTBjZ1RKc0lTWU10dmVLVHVXeUxMY3pCX0NybmhZOC1vaURzcjdfX2FyOUlIQXJjTENGQTRZNl91UGhUOVBFNF9nSy1QbGRuQzFkR0c5NU1GOHBCSENEY9IB0AFBVV95cUxQaVJ5bEJEbUJoUEtyTzdxdTMwTEN2NWdaYzRsN0FkVnZDWVlBVmRlOExtN04ybFdKTU5TcjNWRmk0OVJ3R0RQWVlFc0JNWldJZDZVSGk0Wk11UjI5eGVHN1RvMFF1S0ZoR2NEdS1aSWh4Tm9oSkNGVmhaaTQ5M29YNWVaV1hoVXFUbGRTd2tFcnhTUVdCa1ljYmhQd3NJTjNXSnRBN1ZFN1RxYzJnckdfZmlWZHNJQmNac29JZUluaE9DOGhTQzhTcktwcWZuTkFW?oc=5",
+      "source": "Demócrata",
+      "feed": "Europe News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-22T13:46:19.000Z",
+      "image": "",
+      "topic": "科技",
+      "score": 72,
+      "id": "99a3e5e40da9"
     },
     {
       "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
@@ -666,8 +705,34 @@
       "publishedAt": "2026-08-22T13:13:16.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa10/live/fa462fe0-9e1d-11f1-9834-b7317ffa53cf.png",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "21cdb7c7e567"
+    },
+    {
+      "title": "Blitzed Boks in meltdown as All Blacks go one up in South Africa",
+      "summary": "Blitzed Boks in meltdown as All Blacks go one up in South Africa &nbsp;&nbsp; 1News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTnptSDN5b09hc3pGWWVyMUlwa1dYRkNtYzFYbmoydW54TDNDZHlCNWwyYWNUaHh5OGVzVzd2ZWVqX1dZQmJ1TExyOGF0MlRxWUMydUtpMGJpZmNRQTFwdWxfM3VLeENkdlhSeW5WV1RPS0UwQk5FUkF2S2xEd29FSFczTENIUUJjS0o1M2NCS21DcEs0MjRxODQyUk9lbmJmUXc?oc=5",
+      "source": "1News",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-22T22:49:11.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "0c6a0af917e2"
+    },
+    {
+      "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
+      "summary": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window &nbsp;&nbsp; Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXFYYUZrT0dQRlJmbzRST3NId1F6SE5wYnZSVUdoOFBXc3NBRXhXY2llSU9DX2pXR3RQNEVUcFhjSEs3R29uLUZyVUlfZUJIMDl3eTFJRTFMM0hITVNJZzRIUmlEYW1PekhjZHZGVzdESXZjR0dHdGhUUzVlalRLSU51bnRrNHRJWTF1NnpqSUdEYmJBVGJtQ3J3TEJabE0?oc=5",
+      "source": "Goal.com",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-22T22:29:27.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "0de28efbcdf8"
     },
     {
       "title": "Why is Israel building new illegal settlements?",
@@ -679,7 +744,7 @@
       "publishedAt": "2026-08-22T19:40:58.000Z",
       "image": "",
       "topic": "经济",
-      "score": 72,
+      "score": 71,
       "id": "e4bcd1cab83b"
     },
     {
@@ -692,7 +757,7 @@
       "publishedAt": "2026-08-22T19:31:22.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "75e880150683"
     },
     {
@@ -705,7 +770,7 @@
       "publishedAt": "2026-08-22T19:29:08.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "6d0ef995ab4e"
     },
     {
@@ -718,7 +783,7 @@
       "publishedAt": "2026-08-22T19:00:26.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "9b77270aff27"
     },
     {
@@ -731,7 +796,7 @@
       "publishedAt": "2026-08-22T16:17:54.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "2f4500088273"
     },
     {
@@ -744,8 +809,47 @@
       "publishedAt": "2026-08-22T10:08:39.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "ecf38e9e4fbb"
+    },
+    {
+      "title": "How Pacific nations walk a tightrope between Western security and Chinese trade",
+      "summary": "How Pacific nations walk a tightrope between Western security and Chinese trade &nbsp;&nbsp; South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU2h3MkwwTE53WDVkQTNDWU5zV0doVDl3WUppRmk2ckVEYVdOelF4dWZ4SndhamU5Uy1VamJrb2VFZi1DMUh4VGZzMjRIMW5fUi1ZZExlVFpxdDBqNE95NzJCb05Rb3FXb0xMNjlTYUdVVHh0VmJHOVVXMDdXRUZQVm9IcGpYcThfeWU1UENDSFJUZFg2UlRkU3V5Wm5xTFhUNERBdGd5ZUNiVzdlbjJMVkw1czlOamFSVzBQTzFoWVlDNDdNeEZsQ2tDRndxemZr0gHQAUFVX3lxTE5TaHcyTDBMTndYNWRBM0NZTnNXR2hUOXdZSmlGaTZyRURhV056UXh1ZnhKd2FqZTlTLVVqYmtvZUVmLUMxSHhUZnMyNEgxbl9SLVlkTGVUWnF0MGo0T3k3MkJvTlFvcVdvTEw2OVNhR1VUeHRWYkc5VVcwN1dFRlBWb0hwalhxOF95ZTVQQ0NIUlRkWDZSVGRTdXlabnFMWFQ0REF0Z3llQ2JXN2VuMkxWTDVzOU5qYVJXMFBPMWhZWUM0N014RmxDa0NGd3F6Zms?oc=5",
+      "source": "South China Morning Post",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-22T22:00:10.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 70,
+      "id": "368fa51560c5"
+    },
+    {
+      "title": "Court orders refugee status for African facing deportation",
+      "summary": "Court orders refugee status for African facing deportation &nbsp;&nbsp; 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zRnZXRnVlbFVZblJDdFNjWURYaDdXcXhxcUpoaWxFai1HcGtlRFZPSllsV2xaNzN5ZTJGQzBlelp6RzJJTkdVZC1SQWVSN2xqUjlCWG9B?oc=5",
+      "source": "朝日新聞",
+      "feed": "Asia News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-22T22:00:00.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 70,
+      "id": "6afeffc0da38"
+    },
+    {
+      "title": "Gunma ignites local, visitor interest thanks to its ‘Passport’",
+      "summary": "Gunma ignites local, visitor interest thanks to its ‘Passport’ &nbsp;&nbsp; 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DMzQzNFcwMElxX1c1MjZ5TlZ2ZHduOWVqbWo3b19xSDcyLVNHOWl2SDNyX1ViR1E4cUNLYm1qaml5RmJvaGxOS3V4aVRpalp1dW5heTR3?oc=5",
+      "source": "朝日新聞",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-22T22:00:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "ba124783bd67"
     },
     {
       "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
@@ -757,7 +861,7 @@
       "publishedAt": "2026-08-22T19:00:25.000Z",
       "image": "",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "2f2cef238b60"
     },
     {
@@ -770,7 +874,7 @@
       "publishedAt": "2026-08-22T18:37:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "e03e008d1541"
     },
     {
@@ -783,47 +887,8 @@
       "publishedAt": "2026-08-22T18:35:48.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "1ac6cb2ababb"
-    },
-    {
-      "title": "International News: Argentina seeks to become Latin America’s Artificial Intelligence hub",
-      "summary": "International News: Argentina seeks to become Latin America’s Artificial Intelligence hub &nbsp;&nbsp; Belize News and Opinion on www.breakingbelizenews.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVGtjbXlNLXRZZXB0ZTYtbV9YMTNfdEg0TzZ2WkRvRmhVN044NkY3alBOU3BRdUVhbkVpWmg1VHlNcDljWktBMzZqZzNoWWRYWERJb2tHR2tTUTBFbTV2a1hQc29NOVRsRnhJYU9jc0V6emtFMEo0Q3lFemJ4Z05WRUcyaHJUc1RWZDZrN0hxcmZLTWpZQkNKaUFLa2gzV0pvdExDSHdKb3N1R1lnRHRBVExvX2NQSjZEQXdFTHpPVWU3STVsaGlzRGVyS0o4d1k?oc=5",
-      "source": "Belize News and Opinion on www.breakingbelizenews.com",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-22T18:04:22.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 71,
-      "id": "ece263c9ed69"
-    },
-    {
-      "title": "All Blacks Triumph Over Springboks: A Streak-Breaking Victory",
-      "summary": "All Blacks Triumph Over Springboks: A Streak-Breaking Victory &nbsp;&nbsp; Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkxraWRUdWx6TXNkblhCOWE5eHFoRWFFTS11WERBZll5clZEcHdEVXR5NUJySFJiMXZzd3pseXZHVG9PMUg2RnRqTDR4anR3QS1UTWJwYV9LX24wanEybHZHTEJfaFN0aTJ5QXhBM2g0a2dHdE0zaVdkSFNyYkwybGpieVR1YlA5QzBta0NUZ3VLbzRvUnRic0tQNlhIdVNFV0xsTVlHdEhuQ2NXbVd5TmExTDZPZTNZSnfSAb8BQVVfeXFMUHZESWNFUlRmMmlnblUtc0xUaTFiX1B1TjJrSXFGaHdrT3djY2UxREJVWmFhQl9JVjlqYXphWGUtSlRnZ0pzemQ5S253all0QlFLV0xORm0wN2JIbmpZa1NPMkZST0RaZ21iSGpBZV96T1h3ZXEycGQtZnJ5TzRZWkM2Wk9abmxYb2stS1p2bWJEaDZadlN6dGM5QTIxYmpKQWJ1VExiVE5PZnJKUjA2ZnkxVHBFaC1yOUlDTlQ0Znc?oc=5",
-      "source": "Devdiscourse",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-22T17:59:43.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "4a8ca2cc5204"
-    },
-    {
-      "title": "FULL LIST: Nigeria, 74 others spared as US judge strikes down visa ban",
-      "summary": "FULL LIST: Nigeria, 74 others spared as US judge strikes down visa ban &nbsp;&nbsp; Punch Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1M2bzh2RHZVd0NiZFVuTEczbTBTMUJLOWhPaFY0d1IzWGUwakM2WDNhOUhTUkVtc3F1UW9qb3ZscmhLejdUWVBXT08zZDVmS3FZRVp4WXBqcTQweHRLQW5SVU1RVmtsdzhSRy1DUE5SSlRSNlRmMXVndzBCVnlLeWJDSHU1VHNIQjJTTFRHMndGRGFPTF9sUA?oc=5",
-      "source": "Punch Newspapers",
-      "feed": "Latin America News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-22T12:22:17.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "085cb853c3ac"
     },
     {
       "title": "'America has changed': Canada to match Trump's tariffs 'dollar for dollar' after trade talks collapse",
@@ -835,7 +900,7 @@
       "publishedAt": "2026-08-22T05:09:00.000Z",
       "image": "https://e3.365dm.com/26/07/1920x1080/skynews-trump-carney_7302900.jpg?20260721003217",
       "topic": "经济",
-      "score": 71,
+      "score": 70,
       "id": "e30efffd1175"
     },
     {
@@ -848,99 +913,34 @@
       "publishedAt": "2026-08-22T20:52:09.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "70e67d440c3b"
     },
     {
-      "title": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
-      "summary": "Israel’s Chief Rabbi denied Palestinians are a people, claimed Gaza for Jews and called for its destruction and return.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-22T17:54:52.000Z",
+      "title": "International News: Argentina seeks to become Latin America’s Artificial Intelligence hub",
+      "summary": "International News: Argentina seeks to become Latin America’s Artificial Intelligence hub &nbsp;&nbsp; Belize News and Opinion on www.breakingbelizenews.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVGtjbXlNLXRZZXB0ZTYtbV9YMTNfdEg0TzZ2WkRvRmhVN044NkY3alBOU3BRdUVhbkVpWmg1VHlNcDljWktBMzZqZzNoWWRYWERJb2tHR2tTUTBFbTV2a1hQc29NOVRsRnhJYU9jc0V6emtFMEo0Q3lFemJ4Z05WRUcyaHJUc1RWZDZrN0hxcmZLTWpZQkNKaUFLa2gzV0pvdExDSHdKb3N1R1lnRHRBVExvX2NQSjZEQXdFTHpPVWU3STVsaGlzRGVyS0o4d1k?oc=5",
+      "source": "Belize News and Opinion on www.breakingbelizenews.com",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-22T18:04:22.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "017e94658a38"
-    },
-    {
-      "title": "‘Not a small issue’: People deported by US to Liberia face uncertain future",
-      "summary": "Liberia's government announced the move on Tuesday, two days before the flight. Politicians say they were not consulted.",
-      "url": "https://www.aljazeera.com/news/2026/8/22/not-a-small-issue-people-deported-by-us-to-liberia-face-uncertain-future?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-22T17:47:02.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 70,
-      "id": "c6d2fe172edb"
-    },
-    {
-      "title": "About 300 people protest in Barcelona against the Save Europe Act event this Saturday.",
-      "summary": "About 300 people protest in Barcelona against the Save Europe Act event this Saturday. &nbsp;&nbsp; Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS05xeTBrX3p2c25pVVIzRGdydkpPUE53azR5Vk85eXNnWEdhY3VteHRhVk8yc2J5MU9KM0t4bGhkR0g4NnRuZktTWGlvSE9yQnV6QjBPbXZsN2Y4eVhYeUE1LTA3c0hWY0FoM1NWTE9kVDdSRG1hTDJ5ZzJqSzgwRktHOWNyTWF3czctYUlScDVmbjgwNmc1Z1JacmNnV01TalBjbjJiUmRwY2FadzljQ3JUOTZNSDBIdmhxal9NOVbSAcYBQVVfeXFMTkZ4T2o3R3plb1g1cW50TFI4QjRsNmxpNlJGS0h3UG5RWG0wRXpIRU9LMC00eE9zR0UwQVF3ZVI0T0JsYmd1bmk5aV83UFdHZW01ZTJGakJNanNBbV9EbXBUdEgtanlockowb3FieVFOa3Q4RXI2WHhqTVYxVzZBTXZDNG8zUl9hRlRQUTJCMjlwYmpSTi1lTWdzTTdkRmxhVDBwRm1BS3hqM2pBZjFScE5qdEw1ZEprMDVlaFdRaV9fTzdQUExR?oc=5",
-      "source": "Demócrata",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-22T17:12:29.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 70,
-      "id": "309e8cb53f59"
-    },
-    {
-      "title": "Europe's hottest town struggles through record-breaking summer",
-      "summary": "Europe's hottest town struggles through record-breaking summer &nbsp;&nbsp; CGTN",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVZpWlQ5ZHZ6d255eXdDaTloT0IyZEMwRzdNOTl1bTBaWTBvQnJ4TFRKQVE2VG5BaEdnOUlXeWQ3bzN6QW9lTGtkYlhjdGI0aC1DNEFUVmRQMGotWHJjdk5Ba0VDWjNfV3B4Y1RHQ3lzU0tqTjNBWGRtQjNrVTZqS2JsOVJEdURKQzBNRVZMS0J3TUNtWFlRY1R1YVo2MURia2J3amoxRk9pWm14QnZ5NWVXeFNQeGFGY0FVSmVHQQ?oc=5",
-      "source": "CGTN",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-22T10:54:36.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "aa6cd03d06a5"
-    },
-    {
-      "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
-      "summary": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window &nbsp;&nbsp; Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXFYYUZrT0dQRlJmbzRST3NId1F6SE5wYnZSVUdoOFBXc3NBRXhXY2llSU9DX2pXR3RQNEVUcFhjSEs3R29uLUZyVUlfZUJIMDl3eTFJRTFMM0hITVNJZzRIUmlEYW1PekhjZHZGVzdESXZjR0dHdGhUUzVlalRLSU51bnRrNHRJWTF1NnpqSUdEYmJBVGJtQ3J3TEJabE0?oc=5",
-      "source": "Goal.com",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-22T20:28:17.000Z",
-      "image": "",
-      "topic": "社会",
+      "topic": "科技",
       "score": 69,
-      "id": "0de28efbcdf8"
+      "id": "ece263c9ed69"
     },
     {
-      "title": "All Blacks become world's best side again as Springboks' winning run implodes",
-      "summary": "All Blacks become world's best side again as Springboks' winning run implodes &nbsp;&nbsp; Wales Online",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd2tyZUFJTGxiVEhvOUV0eC04WFpWSzdIS29mY05uUEdxX2xMVnNnSTFWQVZFWUN1NGRSZTM1ZlptLURENG9rVHhVUDJSS1pYYzBlM0hVbU81a3RnNXRQU2tNMU5iLUxNM3EyWkFWT0s5ay0yZjRSa1BvS2twblUzclpxSGNnYWFKdzdGbmlzbFpGcFA3cVJz0gGcAUFVX3lxTE95S0lINHB6Z1ZJSmNMaGdLREN2VDh4VHNGVzNULUlERjMtWE5LRjVlcGhNcVdtbmJBbThoOUExbnB5azl3MVE3dTZMTkxZZWtBSkRsbGRqeDdrMFREU2psS1VmeHNJNzk5N2dKNEltdTY3TVBIejEzUTM1Z1JlUzJrT2V6RnJFd1RBakVxcG1vZTlmZEl2ekw0emo3Yg?oc=5",
-      "source": "Wales Online",
+      "title": "All Blacks Triumph Over Springboks: A Streak-Breaking Victory",
+      "summary": "All Blacks Triumph Over Springboks: A Streak-Breaking Victory &nbsp;&nbsp; Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkxraWRUdWx6TXNkblhCOWE5eHFoRWFFTS11WERBZll5clZEcHdEVXR5NUJySFJiMXZzd3pseXZHVG9PMUg2RnRqTDR4anR3QS1UTWJwYV9LX24wanEybHZHTEJfaFN0aTJ5QXhBM2g0a2dHdE0zaVdkSFNyYkwybGpieVR1YlA5QzBta0NUZ3VLbzRvUnRic0tQNlhIdVNFV0xsTVlHdEhuQ2NXbVd5TmExTDZPZTNZSnfSAb8BQVVfeXFMUHZESWNFUlRmMmlnblUtc0xUaTFiX1B1TjJrSXFGaHdrT3djY2UxREJVWmFhQl9JVjlqYXphWGUtSlRnZ0pzemQ5S253all0QlFLV0xORm0wN2JIbmpZa1NPMkZST0RaZ21iSGpBZV96T1h3ZXEycGQtZnJ5TzRZWkM2Wk9abmxYb2stS1p2bWJEaDZadlN6dGM5QTIxYmpKQWJ1VExiVE5PZnJKUjA2ZnkxVHBFaC1yOUlDTlQ0Znc?oc=5",
+      "source": "Devdiscourse",
       "feed": "Africa News Network",
       "region": "非洲",
-      "publishedAt": "2026-08-22T17:13:03.000Z",
+      "publishedAt": "2026-08-22T17:59:43.000Z",
       "image": "",
       "topic": "社会",
       "score": 69,
-      "id": "943d537ccbaa"
-    },
-    {
-      "title": "US military newspaper editor voices censorship fears after being fired",
-      "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-22T16:57:19.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d51/live/20fafd70-9e53-11f1-8871-ff7211da55c9.jpg",
-      "topic": "政治",
-      "score": 69,
-      "id": "05385b83fe22"
+      "id": "4a8ca2cc5204"
     }
   ]
 }
