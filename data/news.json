@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T07:02:39.271Z",
+  "updatedAt": "2026-08-22T07:48:29.177Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -16,7 +16,7 @@
       "publishedAt": "2026-08-22T00:06:48.000Z",
       "image": "",
       "topic": "政治",
-      "score": 89,
+      "score": 88,
       "id": "9d3c4bc91e0a"
     },
     {
@@ -29,7 +29,7 @@
       "publishedAt": "2026-08-22T06:40:30.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
       "topic": "社会",
-      "score": 88,
+      "score": 87,
       "id": "4b68c165c18d"
     },
     {
@@ -42,7 +42,7 @@
       "publishedAt": "2026-08-22T00:04:28.000Z",
       "image": "",
       "topic": "社会",
-      "score": 88,
+      "score": 87,
       "id": "ed4ceab87091"
     },
     {
@@ -55,8 +55,34 @@
       "publishedAt": "2026-08-22T00:59:37.000Z",
       "image": "",
       "topic": "政治",
-      "score": 86,
+      "score": 85,
       "id": "bec3474fc8e0"
+    },
+    {
+      "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
+      "summary": "The drought-stricken country has recorded a 32 percent jump in the number of children treated for severe malnutrition.",
+      "url": "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "非洲",
+      "publishedAt": "2026-08-22T07:11:27.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 84,
+      "id": "bc0dd3dfb6fd"
+    },
+    {
+      "title": "Victorian Labor promises free dental care if re-elected in Australia-first move",
+      "summary": "Premier Ben Carroll says $230m would be earmarked for 10 public dental clinics to operate on a walk-in basis Get our breaking news email , free app or daily news podcast Victorians would be able to walk into a dental clinic and receive free checkups and treatment under an Australian-first proposal the Labor government will take to the November state election",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/22/victoria-labor-free-dental-care-ben-carroll-election-promise",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-22T06:45:46.000Z",
+      "image": "https://i.guim.co.uk/img/media/6b5a42253a30cc8ec4bb1d1565aa0b39617ecb08/344_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=b385c812d13bcfcc6349d4e1197864d6",
+      "topic": "政治",
+      "score": 83,
+      "id": "612c4ed403ae"
     },
     {
       "title": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
@@ -68,7 +94,7 @@
       "publishedAt": "2026-08-22T00:00:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "353f01f59864"
     },
     {
@@ -81,7 +107,7 @@
       "publishedAt": "2026-08-22T06:05:58.000Z",
       "image": "https://i.guim.co.uk/img/media/4827dba8e972c050d94247357390369f6a5477f1/389_0_3191_2554/master/3191.jpg?width=140&quality=85&auto=format&fit=max&s=34596f60ad34996e79fb07d586ac035d",
       "topic": "经济",
-      "score": 83,
+      "score": 82,
       "id": "511c2c8991a1"
     },
     {
@@ -94,7 +120,7 @@
       "publishedAt": "2026-08-22T02:01:06.000Z",
       "image": "https://i.guim.co.uk/img/media/f6453d4e6413e28623b152ad5926800a8455eaca/531_0_2985_2388/master/2985.jpg?width=140&quality=85&auto=format&fit=max&s=a95c745670472c7aafeb6a071760cb53",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "544af400be4b"
     },
     {
@@ -107,7 +133,7 @@
       "publishedAt": "2026-08-22T04:30:20.000Z",
       "image": "",
       "topic": "经济",
-      "score": 82,
+      "score": 81,
       "id": "88692e727b73"
     },
     {
@@ -120,21 +146,8 @@
       "publishedAt": "2026-08-22T01:12:32.000Z",
       "image": "https://i.guim.co.uk/img/media/2cc528426ef20eae7438615f8906db2f009b85dc/37_0_970_776/master/970.jpg?width=140&quality=85&auto=format&fit=max&s=d399c2e90ef7aecdfd56b841aea05d55",
       "topic": "政治",
-      "score": 82,
-      "id": "8fadfac11ee4"
-    },
-    {
-      "title": "Victorian Labor promises free dental care if re-elected in Australia-first move",
-      "summary": "Premier Ben Carroll says $230m would be earmarked for 10 public dental clinics to operate on a walk-in basis Get our breaking news email , free app or daily news podcast Victorians would be able to walk into a dental clinic and receive free checkups and treatment under an Australian-first proposal the Labor government will take to the November state election",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/22/victoria-labor-free-dental-care-ben-carroll-election-promise",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-22T04:01:17.000Z",
-      "image": "https://i.guim.co.uk/img/media/6b5a42253a30cc8ec4bb1d1565aa0b39617ecb08/344_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=b385c812d13bcfcc6349d4e1197864d6",
-      "topic": "政治",
       "score": 81,
-      "id": "612c4ed403ae"
+      "id": "8fadfac11ee4"
     },
     {
       "title": "USS George Washington arrives in Middle East as Iran war continues",
@@ -146,7 +159,7 @@
       "publishedAt": "2026-08-21T22:13:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "37978b6d587e"
     },
     {
@@ -159,8 +172,21 @@
       "publishedAt": "2026-08-21T21:23:35.000Z",
       "image": "",
       "topic": "社会",
-      "score": 81,
+      "score": 80,
       "id": "e39a50826fc3"
+    },
+    {
+      "title": "Pendlebury could miss rest of season with his playing future undecided",
+      "summary": "Scott Pendlebury's glittering Collingwood career could be over after the AFL/VFL games record holder suffered a hamstring injury.",
+      "url": "https://www.abc.net.au/news/2026-08-22/collingwood-scott-pendlebury-hamstring-injury/107067306",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-22T06:59:36.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/dcadf4d1c5fa5ad8a517d08fe4a55016?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=13&width=862&height=485",
+      "topic": "社会",
+      "score": 79,
+      "id": "0580e34a1b30"
     },
     {
       "title": "US, Canada fail to reach tariff deal, deepen trade war",
@@ -172,7 +198,7 @@
       "publishedAt": "2026-08-22T06:40:21.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/778135a408f271604dcbf64fa88e6fb0?impolicy=wcms_crop_resize&cropH=1362&cropW=2422&xPos=312&yPos=297&width=862&height=485",
       "topic": "经济",
-      "score": 80,
+      "score": 79,
       "id": "b15ed72d07dd"
     },
     {
@@ -185,7 +211,7 @@
       "publishedAt": "2026-08-22T05:59:38.000Z",
       "image": "https://i.guim.co.uk/img/media/88767de4bf103f7cd1db7a710fb56defa740aef5/0_53_1638_1309/master/1638.jpg?width=140&quality=85&auto=format&fit=max&s=958d7da316a6f448d7730e814c814430",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "015c7b127075"
     },
     {
@@ -198,7 +224,7 @@
       "publishedAt": "2026-08-22T05:55:46.000Z",
       "image": "https://i.guim.co.uk/img/media/6b53c8f30a62a8dc6779604117b0fc6774cb1bc2/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=53885e8e4a9d6a2a3db6267de503e20b",
       "topic": "经济",
-      "score": 79,
+      "score": 78,
       "id": "d4b5065332dc"
     },
     {
@@ -211,8 +237,21 @@
       "publishedAt": "2026-08-21T23:55:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "d05ce106d961"
+    },
+    {
+      "title": "Wildfires across Europe reveal potentially deadly old munitions under surface",
+      "summary": "Wildfires across Europe reveal potentially deadly old munitions under surface &nbsp;&nbsp; BreakingNews.ie",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUUhxOFpWbnBqLW1NcU5kUFN5Z1VzLTlycG1melhIYVNna2xENVFNQlE4QnlOdG9YXzNDb2lxQTlfem9mTjZDWFFCUW5UVzRwdmltQWI1YkhDRzJ6SENrWG1JZHF2NWRnMlhkb25UOXBTVF9BYXd3MEkzZktzS2RGOGNuUGNDVlhBTHFTeFNFS0RXU0h3b3BRVVNubHlSNUFZNjBFU1BxY3dUWlNDc0JlNWc5Y1ZDN3cyek9BQWpudHAxdw?oc=5",
+      "source": "BreakingNews.ie",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-22T07:18:11.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 76,
+      "id": "0b808e0edce0"
     },
     {
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
@@ -224,8 +263,21 @@
       "publishedAt": "2026-08-22T04:46:33.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg",
       "topic": "经济",
-      "score": 77,
+      "score": 76,
       "id": "a19a80a8a91a"
+    },
+    {
+      "title": "U.S.-Canada trade talks collapse minutes before deadline for tariffs to take effect",
+      "summary": "Trade negotiations between the United States and Canada fell apart on Friday night, shortly before a midnight deadline for 50% tariffs to take effect on $20 billion worth of Canadian products.",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "美洲",
+      "publishedAt": "2026-08-22T04:36:27.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 76,
+      "id": "86c6a14a5d51"
     },
     {
       "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
@@ -237,7 +289,7 @@
       "publishedAt": "2026-08-22T04:02:32.000Z",
       "image": "",
       "topic": "经济",
-      "score": 77,
+      "score": 76,
       "id": "54af6493b11c"
     },
     {
@@ -250,7 +302,7 @@
       "publishedAt": "2026-08-22T06:29:18.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "4df4b02a3ffe"
     },
     {
@@ -263,7 +315,7 @@
       "publishedAt": "2026-08-22T03:43:26.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ec0/live/e9fd5290-9d9f-11f1-b160-9b29341ab62f.jpg",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "387a35c39f00"
     },
     {
@@ -276,7 +328,7 @@
       "publishedAt": "2026-08-22T03:13:09.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/2d31f772ffec68a92f91b8d096670cda?impolicy=wcms_crop_resize&cropH=2648&cropW=4708&xPos=195&yPos=69&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "3ede9477bdec"
     },
     {
@@ -289,7 +341,7 @@
       "publishedAt": "2026-08-22T06:00:57.000Z",
       "image": "https://i.guim.co.uk/img/media/2058df30df69be6092ae9b64b2aa939286c42c4d/604_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=f0ccd1ed09c6c184209e2f6717e1ae55",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "7f78d9f6cb62"
     },
     {
@@ -302,7 +354,7 @@
       "publishedAt": "2026-08-22T06:00:56.000Z",
       "image": "https://i.guim.co.uk/img/media/c6f6ba73b00c4224800cad141f8361254605b93f/2096_443_4041_3232/master/4041.jpg?width=140&quality=85&auto=format&fit=max&s=165d6436a1547dfec16c20179bfc6fd6",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "efb7303b67c7"
     },
     {
@@ -315,7 +367,7 @@
       "publishedAt": "2026-08-22T06:00:05.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "6f521ec72b20"
     },
     {
@@ -328,7 +380,7 @@
       "publishedAt": "2026-08-22T02:56:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/6ca97e89d2e63097526c9a61322f20d6?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=8&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "bd16f1672682"
     },
     {
@@ -341,7 +393,7 @@
       "publishedAt": "2026-08-22T02:39:10.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f723/live/49cf9570-9dd2-11f1-b2b6-cb5bce61ac4a.jpg",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "0f60da23f86c"
     },
     {
@@ -354,7 +406,7 @@
       "publishedAt": "2026-08-21T23:16:20.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/962c841531806233bb8225b41d33e6a4?impolicy=wcms_crop_resize&cropH=727&cropW=1292&xPos=5&yPos=169&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "a8194a62bd12"
     },
     {
@@ -367,7 +419,7 @@
       "publishedAt": "2026-08-21T22:52:40.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "99ace78c062b"
     },
     {
@@ -380,7 +432,7 @@
       "publishedAt": "2026-08-22T05:47:43.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/6bf6de00749f33b84e5cd916412035d4?impolicy=wcms_crop_resize&cropH=379&cropW=674&xPos=0&yPos=92&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "a681949713f3"
     },
     {
@@ -393,7 +445,7 @@
       "publishedAt": "2026-08-22T05:36:39.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "185a06946ffa"
     },
     {
@@ -406,7 +458,7 @@
       "publishedAt": "2026-08-22T05:35:50.000Z",
       "image": "",
       "topic": "气候",
-      "score": 74,
+      "score": 73,
       "id": "c59486d45865"
     },
     {
@@ -419,34 +471,8 @@
       "publishedAt": "2026-08-22T05:13:06.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/6afe792db869e97ae833fa3fa3bf7792?impolicy=wcms_crop_resize&cropH=561&cropW=998&xPos=364&yPos=21&width=862&height=485",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "8dda8b15b6b6"
-    },
-    {
-      "title": "US Postal Service rule tightens mail-in voting despite court orders blocking changes",
-      "summary": "Rule would require states to provide federal government with information on voters in return for delivering ballots The US Postal Service prepared to publish a final ⁠rule late ⁠on ​Friday to impose new requirements on states to provide the federal government with information on voters before the November ⁠midterm congressional elections, despite a ​pair of ",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/us-postal-service-mail-in-voter-rule",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-22T02:06:14.000Z",
-      "image": "https://i.guim.co.uk/img/media/0041148d1c69b5c88e2a04ca609119d46ee30da5/619_0_4170_3336/master/4170.jpg?width=140&quality=85&auto=format&fit=max&s=2f6eeaa45fb1f162e54c58860e0e08e3",
-      "topic": "政治",
-      "score": 74,
-      "id": "9527a66756a5"
-    },
-    {
-      "title": "New U.S. Aircraft Carrier Arrives in Middle East",
-      "summary": "New U.S. Aircraft Carrier Arrives in Middle East &nbsp;&nbsp; IFCJ",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdng3SnZaQUIzc0w3X1FqeTJ6UERobE1ramcyMTdZaVVxYmNKS2w2cDJVbHpyNExOclpOLVlnTk5CaUR6Q2lSNXUtQnZkU0ZTcU1tcjBPUXJDVTIwOTVzaWR1a1FUdEVvU01JaFVicTBkRDZ4RnQ0VUo5RWNxX1o4UlBmQndIdF9uZjMxbV9KMmF0aFJDTHo2NDZjTQ?oc=5",
-      "source": "IFCJ",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-21T19:41:09.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "de2578fef2b2"
     },
     {
       "title": "Is this the end of Harry and Meghan’s American dream?",
@@ -475,6 +501,58 @@
       "id": "a2d74871386a"
     },
     {
+      "title": "US Postal Service rule tightens mail-in voting despite court orders blocking changes",
+      "summary": "Rule would require states to provide federal government with information on voters in return for delivering ballots The US Postal Service prepared to publish a final ⁠rule late ⁠on ​Friday to impose new requirements on states to provide the federal government with information on voters before the November ⁠midterm congressional elections, despite a ​pair of ",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/us-postal-service-mail-in-voter-rule",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-22T02:06:14.000Z",
+      "image": "https://i.guim.co.uk/img/media/0041148d1c69b5c88e2a04ca609119d46ee30da5/619_0_4170_3336/master/4170.jpg?width=140&quality=85&auto=format&fit=max&s=2f6eeaa45fb1f162e54c58860e0e08e3",
+      "topic": "政治",
+      "score": 73,
+      "id": "9527a66756a5"
+    },
+    {
+      "title": "New U.S. Aircraft Carrier Arrives in Middle East",
+      "summary": "New U.S. Aircraft Carrier Arrives in Middle East &nbsp;&nbsp; IFCJ",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdng3SnZaQUIzc0w3X1FqeTJ6UERobE1ramcyMTdZaVVxYmNKS2w2cDJVbHpyNExOclpOLVlnTk5CaUR6Q2lSNXUtQnZkU0ZTcU1tcjBPUXJDVTIwOTVzaWR1a1FUdEVvU01JaFVicTBkRDZ4RnQ0VUo5RWNxX1o4UlBmQndIdF9uZjMxbV9KMmF0aFJDTHo2NDZjTQ?oc=5",
+      "source": "IFCJ",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-21T19:41:09.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 73,
+      "id": "de2578fef2b2"
+    },
+    {
+      "title": "Fiji Fuel Shortage Forces Air New Zealand to Reroute Flights",
+      "summary": "Fiji Fuel Shortage Forces Air New Zealand to Reroute Flights &nbsp;&nbsp; thetraveler.org",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYTc2a0paci1fZEVING1EblZCRjRVWVhrWjZ4WFp2RWNaLUx6aHJWblRVekZkd0lHNzgtVjU4c0hhbncxWDM1ZGhCWmJvNGZCZ09PXzFNV3h6MHJjSUdmSFpYNWxadlJ4azlLV214NEJQcWJaa1BEN085aXRIZ2hhblU3NHlnYTF1WU42NUxsVHZWZkU?oc=5",
+      "source": "thetraveler.org",
+      "feed": "Pacific News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-22T07:42:02.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "06a7f2fbcd2d"
+    },
+    {
+      "title": "Kaizer Chiefs travel to Durban to take on Richards Bay",
+      "summary": "Kaizer Chiefs travel to Durban to take on Richards Bay &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdDNKSlg3NmJ2a2k4ZVpscnR4OXpINFg4eWdnck00a3NJSnFJRGl2ZllibkQ4a2FvN19yYzVFdXJoQThaallaeTZRdmZfSjRuel9JYVh6Ny1CS0xVNW44c1lUQ280cExrOHJtUDAxT050MWJQc2JNdm5IenI5TjZVMFA2YUlmTnNRd0V3WUdhYw?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-22T07:27:18.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "6fe2bb2be019"
+    },
+    {
       "title": "Live: Manly run riot to hand Newcastle shock loss",
       "summary": "Newcastle's top four hopes have been rubbed out after Manly turned it on to run out upset winners in the Hunter. Follow live.",
       "url": "https://www.abc.net.au/news/2026-08-22/nrl-live-updates-knights-sea-eagles-souths-warriors/107067124",
@@ -484,21 +562,8 @@
       "publishedAt": "2026-08-22T04:56:02.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/592526c5ee007c2dd2590ec3ee8442e4?impolicy=wcms_crop_resize&cropH=2485&cropW=4417&xPos=0&yPos=230&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "f38a63b5f843"
-    },
-    {
-      "title": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
-      "summary": "The United States imposed 50% tariffs on $20 billion worth of Canadian products early Saturday, and Canada immediately said it would retaliate, after last-ditch negotiations failed.",
-      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-      "source": "NPR World",
-      "feed": "NPR World",
-      "region": "美洲",
-      "publishedAt": "2026-08-22T04:36:27.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 73,
-      "id": "e069a7bd3928"
     },
     {
       "title": "Inundated Philippine communities seek answers over flood control funds",
@@ -510,7 +575,7 @@
       "publishedAt": "2026-08-22T04:36:26.000Z",
       "image": "",
       "topic": "气候",
-      "score": 73,
+      "score": 72,
       "id": "911a0ba4cf51"
     },
     {
@@ -523,7 +588,7 @@
       "publishedAt": "2026-08-22T04:30:07.000Z",
       "image": "",
       "topic": "政治",
-      "score": 73,
+      "score": 72,
       "id": "1ef03cf585cd"
     },
     {
@@ -536,7 +601,7 @@
       "publishedAt": "2026-08-22T04:24:11.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "81f2b43c65d3"
     },
     {
@@ -549,60 +614,8 @@
       "publishedAt": "2026-08-22T04:06:37.000Z",
       "image": "",
       "topic": "经济",
-      "score": 73,
+      "score": 72,
       "id": "af43f472c36f"
-    },
-    {
-      "title": "VIDEO: USS Abraham Lincoln leaves Middle East",
-      "summary": "VIDEO: USS Abraham Lincoln leaves Middle East &nbsp;&nbsp; KIRO 7 News Seattle",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGRPSjV1V0lBeE1Sb2FJdnZDZ0ZfY1hRRUR2aHhfRkJ3YlNzbndRdXVXT3AtU3prTjAzVjVWU240VGVJS1hFR0liQlB4cGtKU1BrM19oZXloVXBLSW5EZHhubnNtWUtkU19LREhrNTJFWklaYTB3SnJLa25PbWlKb2RyT0IySGM5eE5SVGhOQUE0azRITWlFUVNRSklYdkI3NTFBdmNvMXVYUXA0d3c3bkxYb2FDUQ?oc=5",
-      "source": "KIRO 7 News Seattle",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-21T19:11:48.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "6b1234f5979b"
-    },
-    {
-      "title": "USS Abraham Lincoln aircraft carrier leaving Middle East after record-setting uninterrupted time at sea",
-      "summary": "USS Abraham Lincoln aircraft carrier leaving Middle East after record-setting uninterrupted time at sea &nbsp;&nbsp; LiveNOW from FOX",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaUNYMEdkblFySFFhQ1NRQ0tKNHFxbGRZWDRQVERodnB3YjhNNlZ6bHBTcS1BQ1ZyT3padWdycGRlMjFmLUdlV20zQ0JZLUhpOVN1OUF2cEdCdjlvYWRJaURLSmtzMEFwVUEzNndvNDNVeVp6eGxCVEpia0tscVlIcUxDaTJ5VWQtNzdOWjh3SzFTZw?oc=5",
-      "source": "LiveNOW from FOX",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-21T15:08:55.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "2ac4816983db"
-    },
-    {
-      "title": "Kira Ellis to sit out Asian Games to focus on recovery after accident",
-      "summary": "Kira Ellis to sit out Asian Games to focus on recovery after accident &nbsp;&nbsp; ABS-CBN",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWGVQbTg4aEV0dG5lVHFqa0s5QmZtRW5ZTTdXWkd3ZjB4dnlrWFBtMndrYk1YV1FQLVlPOE9VU1VsWDg2ZWxxTUJjSi10RFNDdVlJOUFiRDkxTkItMXYwSGEyYWpQX1Z5dFhuam9aQTQ1Mi05N0VsaEZxZ1VpOWJmS1VpNGpmd29mSmZkN3U1Q2MzY3Italg3aVIxdWdZTjZ6T3U3VFNWWF9wZ2E2OFZxRU9JYjB4LXdwTUxMN21xdktsNGtleUE?oc=5",
-      "source": "ABS-CBN",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-22T06:45:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "4a363885b1a2"
-    },
-    {
-      "title": "Infantino likes a baldy joke, but fans will see it as bare-faced cheek",
-      "summary": "He likes a baldy gag, we learned that much.",
-      "url": "https://news.sky.com/story/infantino-likes-a-baldy-joke-but-the-fans-will-see-it-as-bare-faced-cheek-13575678",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "全球",
-      "publishedAt": "2026-08-22T04:01:00.000Z",
-      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-gianni-infantino-fifa-boss_7327819.jpg?20260822021153",
-      "topic": "社会",
-      "score": 72,
-      "id": "e22d67850f8d"
     },
     {
       "title": "Earthquake of magnitude 7.8 strikes Philippines, no tsunami threat to NZ",
@@ -618,6 +631,110 @@
       "id": "b0e4a40f79a3"
     },
     {
+      "title": "VIDEO: USS Abraham Lincoln leaves Middle East",
+      "summary": "VIDEO: USS Abraham Lincoln leaves Middle East &nbsp;&nbsp; KIRO 7 News Seattle",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGRPSjV1V0lBeE1Sb2FJdnZDZ0ZfY1hRRUR2aHhfRkJ3YlNzbndRdXVXT3AtU3prTjAzVjVWU240VGVJS1hFR0liQlB4cGtKU1BrM19oZXloVXBLSW5EZHhubnNtWUtkU19LREhrNTJFWklaYTB3SnJLa25PbWlKb2RyT0IySGM5eE5SVGhOQUE0azRITWlFUVNRSklYdkI3NTFBdmNvMXVYUXA0d3c3bkxYb2FDUQ?oc=5",
+      "source": "KIRO 7 News Seattle",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-21T19:11:48.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "6b1234f5979b"
+    },
+    {
+      "title": "USS Abraham Lincoln aircraft carrier leaving Middle East after record-setting uninterrupted time at sea",
+      "summary": "USS Abraham Lincoln aircraft carrier leaving Middle East after record-setting uninterrupted time at sea &nbsp;&nbsp; LiveNOW from FOX",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaUNYMEdkblFySFFhQ1NRQ0tKNHFxbGRZWDRQVERodnB3YjhNNlZ6bHBTcS1BQ1ZyT3padWdycGRlMjFmLUdlV20zQ0JZLUhpOVN1OUF2cEdCdjlvYWRJaURLSmtzMEFwVUEzNndvNDNVeVp6eGxCVEpia0tscVlIcUxDaTJ5VWQtNzdOWjh3SzFTZw?oc=5",
+      "source": "LiveNOW from FOX",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-21T15:08:55.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "2ac4816983db"
+    },
+    {
+      "title": "Dynamos suffer defeat against ZESCO United in pre-season tournament",
+      "summary": "Dynamos suffer defeat against ZESCO United in pre-season tournament &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUJBYXRCYWEycWx1OHByem5WbDN3cDVNZjBTek1zWWU0NUZrTXlrTmtNRzhkWEFWUnZ4QnE0OU1JRXRUVEJEMl9GVmxGNUhsc3lBVnQyVUlwd3o2Q2tseUM5Rld3WlNWZ3hqN01rREowaU8zWEhjeVZaemNqMGRMbFZXZldqWXh4YU5wNGZBdkFRWUtZTlRkM1VSNUNrbW5Y?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-22T07:12:04.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "537992864dc1"
+    },
+    {
+      "title": "Red Arrows floor AS Simba, eyes top finish on last day",
+      "summary": "Red Arrows floor AS Simba, eyes top finish on last day &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0NfWlhCVXlkRzdmU18yX0UzRmQwaTN6enk4U1hTV25Pem5YQ2plT05reWRjTnUxOEp4dF9ReFV6a0ZndGIxREJxeTBvNTdSMXpvUHRhT1BLSTRjbUJaSTFXLVdiY2ZYa0d0cmRpcXp5ajc2Y0FmanJGeUMyckx0MHpqbDVXM2FnSEUyZXJ3?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-22T07:12:04.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "f62ef4b63c83"
+    },
+    {
+      "title": "Türkiye Travel Boom Rises on Turkish Airlines Asia-Pacific Push",
+      "summary": "Türkiye Travel Boom Rises on Turkish Airlines Asia-Pacific Push &nbsp;&nbsp; thetraveler.org",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUFdlREdkRzN2UWVRdXlIUEVRM3ZkSG0wNzN3eUZPWjFNS0dTcm5JWllJMWNDVm1CakhDb25nMXM5SEgxekJQWnBvY2hiUkg4dnl3MGJxWklWSUZNU0V4bm5IdWxlb2ZveEplRVEwQmVpN0Q0TDdIRWlnaG9FdU1INFg0c1VGVl93RmNLeS1GZWtsY3hBaWQ0?oc=5",
+      "source": "thetraveler.org",
+      "feed": "Pacific News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-22T07:02:02.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "b5912a96a263"
+    },
+    {
+      "title": "Kira Ellis to sit out Asian Games to focus on recovery after accident",
+      "summary": "Kira Ellis to sit out Asian Games to focus on recovery after accident &nbsp;&nbsp; ABS-CBN",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWGVQbTg4aEV0dG5lVHFqa0s5QmZtRW5ZTTdXWkd3ZjB4dnlrWFBtMndrYk1YV1FQLVlPOE9VU1VsWDg2ZWxxTUJjSi10RFNDdVlJOUFiRDkxTkItMXYwSGEyYWpQX1Z5dFhuam9aQTQ1Mi05N0VsaEZxZ1VpOWJmS1VpNGpmd29mSmZkN3U1Q2MzY3Italg3aVIxdWdZTjZ6T3U3VFNWWF9wZ2E2OFZxRU9JYjB4LXdwTUxMN21xdktsNGtleUE?oc=5",
+      "source": "ABS-CBN",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-22T06:45:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "4a363885b1a2"
+    },
+    {
+      "title": "Portugal enacts ban on face veils, joining Europe’s widening crackdown",
+      "summary": "Portugal enacts ban on face veils, joining Europe’s widening crackdown &nbsp;&nbsp; Muslim Network TV",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcS1iN1V6RkROelhqTUlEbGhEMGZwbjVscXgtQ2FqNjlrOHl0R3RPc0FEdHc5N3VSalo4djFWakhfWVJjaHpWZGx1aGJBcjl0bV85N0FLWjRGZVVuaU53akw4U1pYWnNCUzE1VVhJVW50eXlCaUtLWkJyT3gtSzVGeTFPVjkxTk91eElFMGZmT0FVX2lXUE9aOG1jbGpDcUk?oc=5",
+      "source": "Muslim Network TV",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-22T06:40:33.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "27b42cf9285c"
+    },
+    {
+      "title": "Infantino likes a baldy joke, but fans will see it as bare-faced cheek",
+      "summary": "He likes a baldy gag, we learned that much.",
+      "url": "https://news.sky.com/story/infantino-likes-a-baldy-joke-but-the-fans-will-see-it-as-bare-faced-cheek-13575678",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "全球",
+      "publishedAt": "2026-08-22T04:01:00.000Z",
+      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-gianni-infantino-fifa-boss_7327819.jpg?20260822021153",
+      "topic": "社会",
+      "score": 71,
+      "id": "e22d67850f8d"
+    },
+    {
       "title": "Delhi's electric tuktuk boom gets a hacking shock",
       "summary": "Rickshaw drivers are pushing back on plans to ban all new non-electric versions of the vehicle from next January.",
       "url": "https://www.abc.net.au/news/2026-08-22/delhi-electric-rickshaws-ev-policy-india/107055812",
@@ -627,7 +744,7 @@
       "publishedAt": "2026-08-22T03:36:10.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/a401b77f0a0bab4b59195458cee1be95?impolicy=wcms_crop_resize&cropH=1902&cropW=3381&xPos=848&yPos=786&width=862&height=485",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "a2e31f8b4448"
     },
     {
@@ -640,7 +757,7 @@
       "publishedAt": "2026-08-22T00:38:06.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "38d5c802bae8"
     },
     {
@@ -653,8 +770,34 @@
       "publishedAt": "2026-08-22T00:32:35.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "a5ababcef2ef"
+    },
+    {
+      "title": "Europe's 1st Solar Eclipse In Decades: How Sky-watchers Enjoyed Once-In-A-Lifetime Experience | Pics",
+      "summary": "Europe's 1st Solar Eclipse In Decades: How Sky-watchers Enjoyed Once-In-A-Lifetime Experience | Pics &nbsp;&nbsp; News18",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbEtEMU9Rd0dkekh5LUJPek9wVlIxVWlUWl9iQVllZ3JMU1RxR1I1SmFHamVVNmZ3Y1RfYVVIMlA0UTlQMVFra1VWcXUtWlNwTzhVV3FXdWtnOFBrRG1YLVdzejRXNlpUU1dqVHk2UmJzUlVqWEFFc0lWY2N2XzR5SjZuWmRSR2s3bnRucTlMSUI4RDhfNmhXNENiZmVMdjZUYjZSVDBCcnZLclpKVi05ak5zMjU1YmVJYXVXb3A1akNFazUwRU56bVAzRGplTWMwWWduRlZqSnp5ajVkQ1BKeHRwSmxWdXJUTjhaX1cwam1sWWVWaFBV0gH8AUFVX3lxTE84WVhyc3RFSmlObG5lVnpvZnVOQXJmTS1xWTNXeUVPVEx4aTQ5endhZTBiUHpnbkVsN19DUkhWWWlQa0t6dXFGRzM2XzNLMmtMaTdnWGYxLVRoOW9tVmhreGVzd1hZd1VoV25YZ2Q4YjNMcXNOYWR4YzRCMGY0Z3VQV3lsb1RTeTZyd3Mwdmx4NThYbnlHTFVGSloxcEh3UDZBTmhKT2x5WGRuMUV4VTFCRnBhU20zdXZrV0hTbjc3SEh3ZkNCX0pLdFZ1U1gyYWlqbHJMSF9ISU4yQmFUalY2SzdPbGZ5b1ljWFU2UHdBYWhubGJWNE9aSHRVXw?oc=5",
+      "source": "News18",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-22T06:32:18.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "73f8fa92c1ea"
+    },
+    {
+      "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
+      "summary": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window &nbsp;&nbsp; Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXFYYUZrT0dQRlJmbzRST3NId1F6SE5wYnZSVUdoOFBXc3NBRXhXY2llSU9DX2pXR3RQNEVUcFhjSEs3R29uLUZyVUlfZUJIMDl3eTFJRTFMM0hITVNJZzRIUmlEYW1PekhjZHZGVzdESXZjR0dHdGhUUzVlalRLSU51bnRrNHRJWTF1NnpqSUdEYmJBVGJtQ3J3TEJabE0?oc=5",
+      "source": "Goal.com",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-22T06:30:04.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "0de28efbcdf8"
     },
     {
       "title": "Teen hospitalised on NSW Central Coast after alleged stabbing",
@@ -666,7 +809,7 @@
       "publishedAt": "2026-08-22T03:20:23.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1d3e600de9c8bf0929df904549a1517a?impolicy=wcms_crop_resize&cropH=876&cropW=1557&xPos=0&yPos=82&width=862&height=485",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "2fc3e1148e2b"
     },
     {
@@ -679,33 +822,33 @@
       "publishedAt": "2026-08-22T03:19:58.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "d1ddc24e7193"
     },
     {
-      "title": "Live: Blues dominate Freo, Dogs jump Dees amid ex-Swans coach's culture call",
+      "title": "Live: Dees hurt by wastefulness against Dogs amid ex-Swans coach's culture call",
       "summary": "Melbourne hosts the Western Bulldogs in a crucial clash at the MCG that will determine wildcard match-ups as Carlton stuns Fremantle and a former Swans coach speaks out on the club's scandal. Follow live.",
       "url": "https://www.abc.net.au/news/2026-08-22/afl-rd-24-live-carl-fre-mel-wb-geel-rich-adel-gws/107064452",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "大洋洲",
       "publishedAt": "2026-08-22T03:13:03.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/22b6bf5a4b8b517f0885ea25016be384?impolicy=wcms_crop_resize&cropH=2255&cropW=4008&xPos=0&yPos=25&width=862&height=485",
+      "image": "https://live-production.wcms.abc-cdn.net.au/50d04c1c25071911e47968f8b49f1f19?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=78&width=862&height=485",
       "topic": "社会",
-      "score": 71,
-      "id": "8ef52d5e6bc7"
+      "score": 70,
+      "id": "c224756f8697"
     },
     {
       "title": "And if instead of preparing for war we started to prepare peace?",
       "summary": "And if instead of preparing for war we started to prepare peace? &nbsp;&nbsp; Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmVFYmlhVkdhQjQtUnBMZzBRZkJhR3ZrNzlkWEJ0WC03NUJUUzNNeWF1V3FMdnhUVDVBbmJMaHRzWVNoUmN5Q2Y4Y2NDUFdrMmo4blNtY1BJcGdJcnVCUG5hOXRLQmZwbE0tSTV3ODQ1WnFSLWQ3R1I0dFZQVU0yRk5XemhkbWROaGpqYjY1MU1XTEpQdzZVMGw0aXh0VVFJZFE1YnV30gGmAUFVX3lxTFBiZUViaWFWR2FCNC1ScExnMFFmQmFHdms3OWRYQnRYLTc1QlRTM015YXVXcUx2eFRUNUFuYkxodHNZU2hSY3lDZjhjY0NQV2syajhuU21jUElwZ0lydUJQbmE5dEtCZnBsTS1JNXc4NDVacVItZDdHUjR0VlBVTTJGTld6aGRtZE5oampiNjUxTVdMSlB3NlUwbDRpeHRVUUlkUTVidXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV3kxc1dVZkEzRG1RaVVPUm1mdVN2WG13UjlzUzZzWjRrRnBCNjh5Z3dQN3JOX1lOQmFyWmNfeThNaEtJVkc5YXQ5TkZWMUFJNlh4bmhkR21ZemxRdmlWaXRjQkxlcjY4NVdPSWtUSXdaN28yRUk0MTdjWkhVRl9uSUg1cFlDZG1PNjJKNjg5RUJoZ2gzVWJ2Vmx2SG5PNlJH0gGmAUFVX3lxTFBiZUViaWFWR2FCNC1ScExnMFFmQmFHdms3OWRYQnRYLTc1QlRTM015YXVXcUx2eFRUNUFuYkxodHNZU2hSY3lDZjhjY0NQV2syajhuU21jUElwZ0lydUJQbmE5dEtCZnBsTS1JNXc4NDVacVItZDdHUjR0VlBVTTJGTld6aGRtZE5oampiNjUxTVdMSlB3NlUwbDRpeHRVUUlkUTVidXc?oc=5",
       "source": "Demócrata",
       "feed": "Europe News Network",
       "region": "欧洲",
       "publishedAt": "2026-08-22T03:00:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "d576fa68c57a"
     },
     {
@@ -718,7 +861,7 @@
       "publishedAt": "2026-08-22T03:00:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "0c971bc7d1b2"
     },
     {
@@ -731,7 +874,7 @@
       "publishedAt": "2026-08-22T02:48:22.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/36b677d03a24b046228a2735b87fdb30?impolicy=wcms_crop_resize&cropH=529&cropW=941&xPos=0&yPos=275&width=862&height=485",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "7b8a698b35bf"
     },
     {
@@ -744,7 +887,7 @@
       "publishedAt": "2026-08-22T02:38:57.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/296cc82f142ace9740880110ec67b5f4?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "c60d21bc8caf"
     },
     {
@@ -757,7 +900,7 @@
       "publishedAt": "2026-08-22T02:25:55.000Z",
       "image": "",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "49580091d156"
     },
     {
@@ -770,7 +913,7 @@
       "publishedAt": "2026-08-21T23:51:07.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/328c7fa6cae0b16eb7ed891ce56b7eed?impolicy=wcms_crop_resize&cropH=2704&cropW=4807&xPos=0&yPos=88&width=862&height=485",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "1200073ca364"
     },
     {
@@ -783,164 +926,21 @@
       "publishedAt": "2026-08-21T23:19:37.000Z",
       "image": "",
       "topic": "政治",
-      "score": 71,
+      "score": 70,
       "id": "ed7052032ada"
     },
     {
-      "title": "Top 10 African countries with the most extensive road networks in 2026",
-      "summary": "Top 10 African countries with the most extensive road networks in 2026 &nbsp;&nbsp; Business News Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRjYxcUJsckowWDdvVFlXRDB2U3Q3eVdmczlWc0hOYUJ3X3VxcFZWdFFLcERoU1pmSTF3RHhLVGxEWWpqUlF5ZWxSTUk5a0ZKR3pwMjVZdUJUdFNTb21nbmNhVk55X3FieFg5WGpMZWo0UFJHNE5pSzNYLTVNSTFweTZlaDVyLTltQmhwczBHRVF2ejFUOUEwRG9qNUlFWU85aTVBbHZXQTE1RXd6c295QTNyUTZTaUpyOEZBSldVbTZVNWlSZWhrREdnczJBNDNYRHRnWEV1ZGxfZy1RbkhJV2pUZlgwdEdpcnNaMw?oc=5",
-      "source": "Business News Nigeria",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-22T05:34:39.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 70,
-      "id": "cc3e302b6877"
-    },
-    {
-      "title": "AU chairperson, Obasanjo meet over African peace, stability",
-      "summary": "AU chairperson, Obasanjo meet over African peace, stability &nbsp;&nbsp; Daily Champion Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM2w5Y2ZjeldzcjlsOE1ZZmRoMUlNRmllMlpYMmUzOF9fY2FwXzVjMnNmTFJOZ1p1U1dRRy10YUgtNFZSSHZoU202ak9pdU54XzZra2V3R1l0aU5IZmI0Y0xUdjh0dHlmSkxfeXNKQ2tWUVhGeG5SS2FaN3B2dU5qSXVMZ2V0N3l4dzZCa1UtNEI2LWFMdkE?oc=5",
-      "source": "Daily Champion Newspaper",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-22T05:05:10.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "b4d33a896fb3"
-    },
-    {
-      "title": "US mum was 'begging for help' before killing children, family testifies",
-      "summary": "Lindsay Clancy was known as a loving and dedicated mother. But her family says her mental health began to decline after the birth of her third child.",
-      "url": "https://www.abc.net.au/news/2026-08-22/lindsay-clancy-murder-trial-fourth-week/107058438",
+      "title": "Late collapse sees Australia surrender commanding position on day one in Mackay",
+      "summary": "Australia surrenders a commanding position as Shoriful Islam produces an inspired spell of bowling late on day one.",
+      "url": "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-live-updates-second-test-day-one/107063906",
       "source": "ABC Australia",
       "feed": "ABC Australia",
       "region": "大洋洲",
-      "publishedAt": "2026-08-22T02:31:06.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/e7fa1ddafb944b5cf7f5b07196499937?impolicy=wcms_crop_resize&cropH=2025&cropW=3600&xPos=0&yPos=0&width=862&height=485",
+      "publishedAt": "2026-08-21T23:08:34.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3c4c1b6de7c31cc02609d670e4a57b3b?impolicy=wcms_crop_resize&cropH=1690&cropW=3005&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
       "score": 70,
-      "id": "38ff1846108b"
-    },
-    {
-      "title": "Peru rescues people trapped by landslides on highway for nearly a week",
-      "summary": "Peru rescues people trapped by landslides on highway for nearly a week.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-22T02:09:58.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "5640cf2a72fa"
-    },
-    {
-      "title": "Two injured in stabbing attack at Canada Sikh temple",
-      "summary": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "美洲",
-      "publishedAt": "2026-08-21T22:45:01.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b22/live/a7b4a760-9d8d-11f1-adf5-2dc21c9cc109.jpg",
-      "topic": "社会",
-      "score": 70,
-      "id": "b826c3d0b8b2"
-    },
-    {
-      "title": "Black Ferns score 10 tries in dominant win",
-      "summary": "Black Ferns score 10 tries in dominant win &nbsp;&nbsp; NZ Herald",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMDFBUEpkZTFCU1NoN3k5S0ZBVlBVWWI0SVdqZlNxelFHNjA0bDNydnFIWUNBZURHbF9YTnVtR2pMRUhiMXBQcDJSUVdKMm03R3pua01fMnE2V3NPVDRCV3p5NWNjZFVUUjhucTQ0ZU9BandKNnVWQmhSaGZiNktNNS1talU4VWJ6RUtFRVVDVlZ3akdiUzRtMXdSSUt2VDdTdWZtV3o5TTFlVUVyTnJ6c1RBYjFMZ2NyVklFdGVnLXBvc0VjTXhmUjA2cHprUVd1V2FqdlRmUnZsWlNJZ1RIXzlkSVExdw?oc=5",
-      "source": "NZ Herald",
-      "feed": "Pacific News Network",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-22T04:59:45.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "0fda775e3337"
-    },
-    {
-      "title": "Mahama urges Africa to break dependency cycle and take control of its resources",
-      "summary": "Mahama urges Africa to break dependency cycle and take control of its resources &nbsp;&nbsp; MyJoyOnline",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMXhYM1N6cWZCNGJuendXeFhrQ3RZanVHbzgyQnV0NkFhWGt5d1lEWXd1Qm9qbnlETFpEYXpnOXAtamJ3ckdCZWRHSEI0VFFyc0t1cFI5ei1aTm9EZ0ZoWTJjb1VDZ1hZVVJjV0FFbUYwVzZQV3FVN0I3Nm5mdW9tbGROTDR5TFp4TnphUjJPdDZhUWFQa1FHSDhKMnJzMnFWaVlZYXBlR0pVUFMw?oc=5",
-      "source": "MyJoyOnline",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-22T04:40:28.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "679c194bd05b"
-    },
-    {
-      "title": "Nigeria leads Africa with 30% of unvaccinated children — Expert",
-      "summary": "Nigeria leads Africa with 30% of unvaccinated children — Expert &nbsp;&nbsp; Daily Champion Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb2lpWTBrRGU4THBUOU9jUGYyUi1jTmdYd29HV0VEMDBYczdBSzBoaUJFcWVOa214YnNENl9sUHk1Mzc1Yk0yOG1LdmhHeC1jRlRQVHFSZXRWaDFGaVhGOUg4RE9KUVdiTFRjRDhFOGRBN01XT3B0ZUFpdnhPUDZCSlVLaHMxV3U3MVVZMGM1ajNIWW5nVlhKR0d3?oc=5",
-      "source": "Daily Champion Newspaper",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-22T04:29:39.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "27289219025d"
-    },
-    {
-      "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
-      "summary": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window &nbsp;&nbsp; Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXFYYUZrT0dQRlJmbzRST3NId1F6SE5wYnZSVUdoOFBXc3NBRXhXY2llSU9DX2pXR3RQNEVUcFhjSEs3R29uLUZyVUlfZUJIMDl3eTFJRTFMM0hITVNJZzRIUmlEYW1PekhjZHZGVzdESXZjR0dHdGhUUzVlalRLSU51bnRrNHRJWTF1NnpqSUdEYmJBVGJtQ3J3TEJabE0?oc=5",
-      "source": "Goal.com",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-22T04:29:24.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "0de28efbcdf8"
-    },
-    {
-      "title": "Air NZ among airlines hit by fuel shortage at Fiji's Nadi airport",
-      "summary": "Air NZ among airlines hit by fuel shortage at Fiji's Nadi airport &nbsp;&nbsp; 1News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlVUQjJWc0FJMzNEaEtXeWVITXV2ZXNxaGJCMDZ1WFg5anlDTkxjM1hZNjltQUZVcXNCZHd4T0hJem5XekVoQXo2YnlGbWdSMXJMaFdpSlI5ek1VNVhjVm9DN2ZnbmpqNEpIekg4NEtSNjdGTnpkZ0VxVE4wRmllaHVYNVdkZS16X1RLbGdGSkZiRllrTUJuU1oyNWJvYXlXSlE?oc=5",
-      "source": "1News",
-      "feed": "Pacific News Network",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-22T04:26:32.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "0d16a0e0210b"
-    },
-    {
-      "title": "Parents thrilled as 'bike gang' gets young boys off the couch",
-      "summary": "Some boys in regional South Australia are changing what it means to be in a bike gang, one pedal at a time.",
-      "url": "https://www.abc.net.au/news/2026-08-22/new-age-bike-gangs-take-over-riverland-south-australia/106916994",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-22T01:08:38.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d343ec179975c3df8aad7f0733e08f28?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "社会",
-      "score": 69,
-      "id": "3742d886df9b"
-    },
-    {
-      "title": "South Korea hopes for talks between U.S. and North Korea after Trump downsizes military drills",
-      "summary": "South Korea hopes for talks between U.S. and North Korea after Trump downsizes military drills &nbsp;&nbsp; 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OYWNXRjZyb19sb2NIZkx2dXVSQTJraTlNcWJKM0FTVmc5TGpMeUlReS03enYxdlNwbThDTENJNXVxYkhpMTN1c3ZsWkEwQWFsajBVU1dvU3huNjBtbXc?oc=5",
-      "source": "朝日新聞",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-22T04:12:25.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 68,
-      "id": "2f0d2e126728"
+      "id": "7a45048ba1aa"
     }
   ]
 }
