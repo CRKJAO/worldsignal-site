@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T07:04:57.149Z",
+  "updatedAt": "2026-08-23T07:49:33.203Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -16,8 +16,34 @@
       "publishedAt": "2026-08-23T01:34:15.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4961/live/739e15f0-9e92-11f1-ab7f-1982e3129a69.jpg",
       "topic": "社会",
-      "score": 90,
+      "score": 89,
       "id": "c02d5b77ce6d"
+    },
+    {
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "美洲",
+      "publishedAt": "2026-08-23T05:46:43.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
+      "topic": "经济",
+      "score": 86,
+      "id": "fd2661da3dab"
+    },
+    {
+      "title": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
+      "summary": "FIFA boss turns up at event after CONCACAF chief Montagliani asked him to reconsider amid the body’s governance crisis.",
+      "url": "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-23T07:22:37.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 84,
+      "id": "af58c01bdb75"
     },
     {
       "title": "Liberal plan to split Victorian appeals court attacked as ‘thought bubble’ that would politicise judiciary",
@@ -29,7 +55,7 @@
       "publishedAt": "2026-08-23T04:00:59.000Z",
       "image": "https://i.guim.co.uk/img/media/b21f1d19bda7f0efc07d91e03790c46764f4ca64/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=4d3ed3f1b984d220b67d174dc1990cf9",
       "topic": "政治",
-      "score": 85,
+      "score": 84,
       "id": "3ae758bf49d4"
     },
     {
@@ -42,7 +68,7 @@
       "publishedAt": "2026-08-23T06:46:13.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "fefef4b02d2d"
     },
     {
@@ -55,7 +81,7 @@
       "publishedAt": "2026-08-23T03:00:55.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d4ecde06c0cbfc4bd238128b6db0c7d9?impolicy=wcms_crop_resize&cropH=2433&cropW=4325&xPos=0&yPos=154&width=862&height=485",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "96994ec293a6"
     },
     {
@@ -81,8 +107,34 @@
       "publishedAt": "2026-08-23T03:42:22.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "49ff4016fb26"
+    },
+    {
+      "title": "London’s low emission zone is working – so why are cities around the world so cautious about clean air?",
+      "summary": "Similar initiatives have been launched from Barcelona to Bogotá, but they have misinformation, political pressure and vested interests stacked against them Ten years ago, Alastair Harper was an advocate for young people’s health sitting in a stuffy meeting room in London planning an air pollution campaign. “My phone started buzzing,” he said. “I took the cal",
+      "url": "https://www.theguardian.com/environment/2026/aug/23/london-low-emission-zone-working-other-cities-cautious-clean-air",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-23T07:00:26.000Z",
+      "image": "https://i.guim.co.uk/img/media/12cb31040c22f3b30a55b35e53b9d34f45b5ce0b/0_0_3291_2633/master/3291.jpg?width=140&quality=85&auto=format&fit=max&s=0d0016c2fd2ebc03a3c7dccde0ac7e8b",
+      "topic": "社会",
+      "score": 79,
+      "id": "4c6781c9c3b7"
+    },
+    {
+      "title": "ANC to launch it's election manifesto in Diepsloot",
+      "summary": "ANC to launch it's election manifesto in Diepsloot &nbsp;&nbsp; EWN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTGdST1ZlUVJiTUJoeWpvdzNVWmg0Mndib3k0WUVzMkhub2F5blJVN3V2MFpHeWJSSEVfVWNYN0VpV3pjekVjZ2hka0Q5ejNRZUZINVY1SWRqdm4yV0xndElhN3c3ZG13UHM4V2ZvZzZKY092RkVUNk5ZMlB6TEFkQnVpR3ZtMmFNZ2c?oc=5",
+      "source": "EWN",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-23T06:34:25.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "e9b1d7a0d8e4"
     },
     {
       "title": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
@@ -94,7 +146,7 @@
       "publishedAt": "2026-08-23T03:16:19.000Z",
       "image": "",
       "topic": "科技",
-      "score": 80,
+      "score": 79,
       "id": "0511c79c6e01"
     },
     {
@@ -107,7 +159,7 @@
       "publishedAt": "2026-08-23T03:12:58.000Z",
       "image": "https://i.guim.co.uk/img/media/9c107767a63fa9f7b9e7b9ad6af354114d40b043/522_0_7857_6286/master/7857.jpg?width=140&quality=85&auto=format&fit=max&s=0eac13cc2f997cba27835e29309e7cc2",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "ec220d6f7561"
     },
     {
@@ -120,21 +172,8 @@
       "publishedAt": "2026-08-23T03:04:52.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7927c1696c6dc02c7946bb369bf5b1f1?impolicy=wcms_crop_resize&cropH=2373&cropW=4218&xPos=0&yPos=222&width=862&height=485",
       "topic": "政治",
-      "score": 80,
-      "id": "316d20b24312"
-    },
-    {
-      "title": "‘Friday afternoon fraud’: warning for UK homebuyers on bank scams",
-      "summary": "Victims have lost tens of thousands – and in one case £300,000 – due to fake emails from solicitor or estate agent You are poised to move house and are awaiting the solicitor’s instructions that things are ready to go and it is time to hand over your deposit. When the email arrives giving you their bank details, you set up the transfer and move the cash. And",
-      "url": "https://www.theguardian.com/money/2026/aug/23/friday-afternoon-fraud-scam-conveyancing-fraud-uk-property-buyer-bank-account",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-23T06:00:24.000Z",
-      "image": "https://i.guim.co.uk/img/media/cbc2179b927db643ea162ac1f4f830e3e51c1b7e/676_1182_4772_3818/master/4772.jpg?width=140&quality=85&auto=format&fit=max&s=9de6c56ea7a138e884ad7b0f39d0a8ef",
-      "topic": "政治",
       "score": 79,
-      "id": "bb214e1908a3"
+      "id": "316d20b24312"
     },
     {
       "title": "Swans AFLW captain says support 'just unbelievable' as record smashed",
@@ -146,7 +185,7 @@
       "publishedAt": "2026-08-23T05:58:04.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/cf1f3154107ded0ebc28709be054550f?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=461&width=862&height=485",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "ce3d8eb37090"
     },
     {
@@ -159,21 +198,8 @@
       "publishedAt": "2026-08-23T05:55:10.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "06475b6d7573"
-    },
-    {
-      "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
-      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "美洲",
-      "publishedAt": "2026-08-23T05:46:43.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
-      "topic": "政治",
-      "score": 79,
-      "id": "b8c5182c016b"
     },
     {
       "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
@@ -185,7 +211,7 @@
       "publishedAt": "2026-08-23T00:00:05.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "6f521ec72b20"
     },
     {
@@ -198,7 +224,7 @@
       "publishedAt": "2026-08-22T23:26:15.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "ec683bbe87e9"
     },
     {
@@ -211,7 +237,7 @@
       "publishedAt": "2026-08-23T05:10:05.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "82bd1ef1b78a"
     },
     {
@@ -224,8 +250,21 @@
       "publishedAt": "2026-08-22T15:49:00.000Z",
       "image": "https://e3.365dm.com/26/08/1920x1080/skynews-sweden-sword-school_7328197.jpg?20260822152745",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "58e9aeca084d"
+    },
+    {
+      "title": "Immersive experiences at heart of Powerhouse Parramatta grand opening",
+      "summary": "As the grand opening of Powerhouse Parramatta nears, installation of more than 3,000 objects sourced from Australia and around the world continues.",
+      "url": "https://www.abc.net.au/news/2026-08-23/powerhouse-parramatta-reveals-exhibitions-ahead-november-opening/107068486",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-23T07:42:09.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/09de8d05064a6a2f85a7040e5f414142?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=49&width=862&height=485",
+      "topic": "社会",
+      "score": 76,
+      "id": "f385af86250d"
     },
     {
       "title": "Coalition wants to split Court of Appeal to focus on tougher sentences",
@@ -237,7 +276,7 @@
       "publishedAt": "2026-08-23T04:33:21.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/17020ac5f9f58fb4826133082491de3b?impolicy=wcms_crop_resize&cropH=776&cropW=1379&xPos=0&yPos=26&width=862&height=485",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "830dc51c6b6b"
     },
     {
@@ -250,7 +289,7 @@
       "publishedAt": "2026-08-23T04:13:07.000Z",
       "image": "https://i.guim.co.uk/img/media/552bc6f2eea836c4719529547a8887ababcf2b0d/652_151_4769_3815/master/4769.jpg?width=140&quality=85&auto=format&fit=max&s=0bbe11c6d03eea9c02a093c6f4621881",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "5a9add67018e"
     },
     {
@@ -263,7 +302,7 @@
       "publishedAt": "2026-08-23T04:00:22.000Z",
       "image": "https://i.guim.co.uk/img/media/061a2f31d3ba8a955314059e370bf330d7233aa3/0_129_1440_1152/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=97dee069194b098e5f0c06c6f5f95c33",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "d3a94dd1803e"
     },
     {
@@ -276,7 +315,7 @@
       "publishedAt": "2026-08-23T00:50:35.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/89673044a37af16455fdef58d64e5741?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "c5eef3c9e35e"
     },
     {
@@ -289,8 +328,47 @@
       "publishedAt": "2026-08-23T00:42:49.000Z",
       "image": "https://i.guim.co.uk/img/media/477e4b57e8708325995c483a09c9726c05d11095/2304_1636_2647_2118/master/2647.jpg?width=140&quality=85&auto=format&fit=max&s=36a1e74feec5a1502590d0641dd3a9c1",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "f2c56b4104e7"
+    },
+    {
+      "title": "UK orders reviews of franchising sector after Vodafone allegations",
+      "summary": "Two studies will be used to shape government policy amid claims about a former franchisee who took his own life Ministers have commissioned a pair of in-depth reports into how franchising businesses are policed in the UK, as the government considers introducing new laws after high-profile allegations about conduct in the sector. The action follows a Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/23/uk-review-franchising-sector-vodafone-allegations-adrian-howe",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-23T07:00:25.000Z",
+      "image": "https://i.guim.co.uk/img/media/3b1a08a894d52beb69e451301a9356ce53ed518d/204_0_5039_4033/master/5039.jpg?width=140&quality=85&auto=format&fit=max&s=3650c24dc6fcdae9a66b3c2f5f00cf9a",
+      "topic": "政治",
+      "score": 75,
+      "id": "b0460208afe8"
+    },
+    {
+      "title": "First Bus bans under-16s in Stoke-on-Trent travelling alone after 6pm after disorder",
+      "summary": "Company says decision comes after spate of antisocial behaviour since free travel scheme was introduced For some, it is a quotidian nuisance that inevitably occurs when you are in the vicinity of teenagers. For others, it is an expression of modern-day lawlessness among young people. Whatever view you take, antisocial behaviour on public transport has become",
+      "url": "https://www.theguardian.com/money/2026/aug/23/first-bus-bans-under-16s-in-stoke-on-trent-travelling-alone-after-6pm-after-disorder",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-23T07:00:25.000Z",
+      "image": "https://i.guim.co.uk/img/media/75c94581c8071f5770eb57bdffb1d1675ce3c2d6/603_0_4165_3333/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=e9af2534b1bf17b855a6f9722023ec2e",
+      "topic": "社会",
+      "score": 75,
+      "id": "dc67a753d5a5"
+    },
+    {
+      "title": "Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles",
+      "summary": "The 23-time Grand Slam champion will not be playing singles, but could team up with her older sister Venus for doubles.",
+      "url": "https://www.aljazeera.com/sports/2026/8/23/serena-williams-teams-up-with-carlos-alcaraz-in-us-open-mixed-doubles?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-23T06:59:51.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "c788655beb69"
     },
     {
       "title": "Starc takes 10 as Australia hand Bangladesh innings defeat in second Test",
@@ -302,7 +380,7 @@
       "publishedAt": "2026-08-23T06:48:34.000Z",
       "image": "",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "6ad1beaa6a9b"
     },
     {
@@ -315,7 +393,7 @@
       "publishedAt": "2026-08-23T06:23:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "8e0c7f067ad9"
     },
     {
@@ -328,7 +406,7 @@
       "publishedAt": "2026-08-23T03:34:27.000Z",
       "image": "https://i.guim.co.uk/img/media/9f4b6e8cc4cc111f0a7886d32b166aae30122886/257_4_1250_999/master/1250.jpg?width=140&quality=85&auto=format&fit=max&s=0d8c48d1225c37e53a613dbe217219bc",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "5d0e2095650e"
     },
     {
@@ -341,7 +419,7 @@
       "publishedAt": "2026-08-23T00:00:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "dc5360693a59"
     },
     {
@@ -354,7 +432,7 @@
       "publishedAt": "2026-08-23T06:15:50.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "981e60ce37b9"
     },
     {
@@ -367,12 +445,12 @@
       "publishedAt": "2026-08-23T06:08:39.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/93be514beafc2edd677404ff26d539d7?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=55&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "c6b10b70481d"
     },
     {
-      "title": "Nine out of 10 unsolved murders in London linked to non-white victims",
-      "summary": "Exclusive: analysis risks deepening perception of ‘unequal protection under the law’ Killers who take the lives of black people have a greater chance of getting away with their crimes than those who target white people, new research shows. Analysis of unsolved homicides in London between 2019 and 2023 found non-white British people made up 61% of victims. Wh",
+      "title": "Nine out of 10 unsolved murders in London linked to minority ethnic victims",
+      "summary": "Exclusive: Analysis risks deepening perception of ‘unequal protection under the law’, say campaigners Killers who take the lives of black people have a greater chance of getting away with their crimes than those who target white people, new research shows. Analysis of unsolved homicides in London between 2019 and 2023 found minority ethnic British people mad",
       "url": "https://www.theguardian.com/law/2026/aug/23/nine-out-of-10-unsolved-murders-in-london-linked-to-non-white-victims",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -380,8 +458,8 @@
       "publishedAt": "2026-08-23T06:00:25.000Z",
       "image": "https://i.guim.co.uk/img/media/1db5090050ddbb31e63d7de4d64a5c084196906d/90_0_2560_2048/master/2560.jpg?width=140&quality=85&auto=format&fit=max&s=7c9b064e86dc8641800a2e8364edad25",
       "topic": "社会",
-      "score": 75,
-      "id": "030f5cff8ba0"
+      "score": 74,
+      "id": "8f1ba993f577"
     },
     {
       "title": "Onshore windfarm applications hit 10-year high in England",
@@ -393,7 +471,7 @@
       "publishedAt": "2026-08-23T06:00:24.000Z",
       "image": "https://i.guim.co.uk/img/media/7dae85af94e1a216c5bde354e33f0ef7eee9e2d6/379_0_3939_3151/master/3939.jpg?width=140&quality=85&auto=format&fit=max&s=78e69363cd35e4287388d8f0447131a2",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "b9419d236017"
     },
     {
@@ -406,7 +484,7 @@
       "publishedAt": "2026-08-23T03:03:51.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/f67c14c77d4a769bb55b05ee95fbb96e?impolicy=wcms_crop_resize&cropH=1440&cropW=2560&xPos=0&yPos=133&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "0fc127554b4e"
     },
     {
@@ -419,7 +497,7 @@
       "publishedAt": "2026-08-23T02:53:48.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/04f9a50ac8ecb3b15e0d2b9936656b60?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=220&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "24ad6128b831"
     },
     {
@@ -432,7 +510,7 @@
       "publishedAt": "2026-08-23T02:34:49.000Z",
       "image": "",
       "topic": "经济",
-      "score": 75,
+      "score": 74,
       "id": "71672f1839f2"
     },
     {
@@ -445,7 +523,7 @@
       "publishedAt": "2026-08-23T02:24:49.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/5e5b305d430799fce51aca6c0bd9c989?impolicy=wcms_crop_resize&cropH=2145&cropW=3813&xPos=0&yPos=333&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "48eea8305651"
     },
     {
@@ -458,7 +536,7 @@
       "publishedAt": "2026-08-23T05:23:22.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "defc269851c3"
     },
     {
@@ -471,7 +549,7 @@
       "publishedAt": "2026-08-23T05:16:16.000Z",
       "image": "",
       "topic": "经济",
-      "score": 74,
+      "score": 73,
       "id": "32c1184a3e95"
     },
     {
@@ -484,7 +562,7 @@
       "publishedAt": "2026-08-23T02:14:52.000Z",
       "image": "https://i.guim.co.uk/img/media/bcb5be27066d591f5b99283bdb63f22018974ba1/0_0_1975_1580/master/1975.jpg?width=140&quality=85&auto=format&fit=max&s=5f1134c9a7d8ca7850e1c5104cf0f446",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "735f701988aa"
     },
     {
@@ -497,47 +575,47 @@
       "publishedAt": "2026-08-23T01:49:47.000Z",
       "image": "https://i.guim.co.uk/img/media/3d723808db1facc37b64f967bc238175cc40afb1/46_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=ba32a5964559a87b35db295a85547b48",
       "topic": "气候",
-      "score": 74,
+      "score": 73,
       "id": "92777fd1d130"
     },
     {
-      "title": "Burnham expected to give mayors new powers over local planning decisions",
-      "summary": "Move would allow mayors to greenlight large-scale developments and have more say on national housing funding Andy Burnham is expected to give mayors new powers to take control of local planning decisions and greenlight large-scale developments in proposals to be presented next week. The move would allow mayors to “call in” the decisions and direct councils t",
-      "url": "https://www.theguardian.com/society/2026/aug/23/burnham-expected-to-give-mayors-new-powers-over-local-planning-decisions",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-23T05:00:25.000Z",
-      "image": "https://i.guim.co.uk/img/media/08972ae99068d18226a9f405d1b6b47c1f49e9b5/1675_152_1607_1286/master/1607.jpg?width=140&quality=85&auto=format&fit=max&s=963e121197a0de47f5d7adccdcbbcf22",
-      "topic": "社会",
-      "score": 73,
-      "id": "5fa6435d2472"
-    },
-    {
-      "title": "British corporation continued trafficking of enslaved Africans to Guyana 40 years after abolition",
-      "summary": "Letter written in 1847 to Sandbach, Tinne and Company’s Liverpool office reveals it engaged in practice after receiving taxpayer-funded compensation, book says When Britain abolished slavery, plantation owners from powerful families notoriously received huge sums in compensation, while those who were enslaved got nothing. Now evidence has come to light that ",
-      "url": "https://www.theguardian.com/news/2026/aug/23/british-corporation-continued-trafficking-of-enslaved-africans-to-guyana-40-years-after-abolition-reveals-letter",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-23T05:00:24.000Z",
-      "image": "https://i.guim.co.uk/img/media/228727e773687b6f78831edc8b85629790ae81c3/606_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=317b19c774161a8db529663f5bf68112",
-      "topic": "社会",
-      "score": 73,
-      "id": "44dbb5e332c6"
-    },
-    {
-      "title": "Evergrande founder Hui Ka Yan sentenced to life in prison",
-      "summary": "Evergrande founder Hui Ka Yan sentenced to life in prison &nbsp;&nbsp; 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tWE9ZT3NnR0lSbmhtNGFwYXNES2pDallHZFZKZmpkLUNSbnFMTEl5NWpzUWRiMDdOSjFLTk5aRGIzZGo5ZXZoZjRjeVFqN3NBTDJTaEVZYVRNbVZLQXc?oc=5",
-      "source": "朝日新聞",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-23T04:52:38.000Z",
+      "title": "Sri Lanka Latest Breaking News and Headlines - Print Edition Two-time world champion Tete shot dead outside home - Daily Mirror",
+      "summary": "Sri Lanka Latest Breaking News and Headlines - Print Edition Two-time world champion Tete shot dead outside home &nbsp;&nbsp; Daily Mirror - Sri Lanka",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmJYUkFlUEFnamxkMUxnTFRuNWFMVy0yano0algyMnFuRTdOVWR2NVBIWHlkbnVpU2tIeERPbmFpNlh5ZGUzaTdXRVVnQ1FuOEQwRHFQQXJXVmhhcjBCNHVDUDdkcUZDclBmcjlteEhTNUU2elBQbk1MM2dPWFhHNnRNSTd3SDdlNHZwMzQ1QTlKdXNoZElLQV96SVF1ODhkckFHdU1iV1RYVnhfeWc?oc=5",
+      "source": "Sri Lanka",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-22T16:11:04.000Z",
       "image": "",
       "topic": "社会",
       "score": 73,
-      "id": "a3c4e1935e20"
+      "id": "4666c02e6d3a"
+    },
+    {
+      "title": "There is no unity in the EU on a complete visa ban for Russians - MEP",
+      "summary": "There is no unity in the EU on a complete visa ban for Russians - MEP &nbsp;&nbsp; Inbox.lv",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGFyaElISXA3SVVRWTB6cjVZV2RMLXY5QjdwZW91SWFJNW1kbHdqT0FaVjltcm8zYnE2c194aDE1VEFkVVZUbDZRTEFSV3J0VEdxSU9NVGpLSS1RYXd5b2ZhVkJrSHlkMC0tX080aTJ3UmZKelIycGdZNlc1blhhMTdqVXFhel9KSHQxTDBYRURhcm8zT195OXdhNTNsY2xwU2R1TmI0dkZzakRrZFE?oc=5",
+      "source": "Inbox.lv",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-23T07:30:15.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "35fc5becaabd"
+    },
+    {
+      "title": "Transit Alert: Fiji Fuel Shortage Disrupts Nadi Airport Flight Operations",
+      "summary": "Transit Alert: Fiji Fuel Shortage Disrupts Nadi Airport Flight Operations &nbsp;&nbsp; Nomad Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcVNyU3QwSEVzWGZuN3M3ZnJmNUE3NFBUQjQ0TEpnZ3hfMUdlYkVOT19mejA4aUp0aFkwemV3NmdDNllOSHY3UGgxdkUtQUs1UUpKa2JqYmRhejJxYW1NVWo5T25MUTZnU28xSnhlWjNXZzM0dDcwVkNaQ2I5Vld0TFI5NUJlMVVYWUx3Yg?oc=5",
+      "source": "Nomad Lawyer",
+      "feed": "Pacific News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-23T07:28:02.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "d1c61bac4b3e"
     },
     {
       "title": "Thousands line riverbank to welcome Spirit IV 'home' to Devonport",
@@ -549,7 +627,7 @@
       "publishedAt": "2026-08-23T04:49:37.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/892ece12a5f4c674c04c401ed1f9277d?impolicy=wcms_crop_resize&cropH=866&cropW=1539&xPos=0&yPos=425&width=862&height=485",
       "topic": "经济",
-      "score": 73,
+      "score": 72,
       "id": "a34580bf420b"
     },
     {
@@ -562,7 +640,7 @@
       "publishedAt": "2026-08-23T04:47:28.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/b7e58769969dbc3e56ff68f0e3d63bd5?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "be6cd532ff14"
     },
     {
@@ -575,7 +653,7 @@
       "publishedAt": "2026-08-23T04:10:15.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/98c156c9f3cdd113ca2f90d4b2e58e7b?impolicy=wcms_crop_resize&cropH=796&cropW=1415&xPos=0&yPos=37&width=862&height=485",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "cbdf36fe8f23"
     },
     {
@@ -588,34 +666,8 @@
       "publishedAt": "2026-08-23T04:07:29.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/de7cbfd80fc0cbac0e75e6f3c8a61c67?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "1ade402402b3"
-    },
-    {
-      "title": "Live: Tigers ambushing sloppy Roosters",
-      "summary": "Wests Tigers have seized a shock lead against the Roosters, running in three early tries. Follow live.",
-      "url": "https://www.abc.net.au/news/2026-08-23/nrl-live-updates-titans-sharks-roosters-tigers/107068718",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-23T03:52:53.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/b81491bd429ea1428ee7ddb717fc2b59?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485",
-      "topic": "社会",
-      "score": 72,
-      "id": "b112eacba951"
-    },
-    {
-      "title": "Tributes flow for 'formidable' ex-Nationals WA leader after his death",
-      "summary": "Former Nationals WA leader Max Trenorden, who served in state parliament for more than a quarter of a century, is remembered as a champion for his community and regional WA following his death yesterday.",
-      "url": "https://www.abc.net.au/news/2026-08-23/max-trenorden-former-nationals-wa-leader-dies-prompting-tributes/107068510",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-23T03:45:09.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/75bb0fe004a1bf38277fe069d4bc3acb?impolicy=wcms_crop_resize&cropH=472&cropW=840&xPos=0&yPos=0&width=862&height=485",
-      "topic": "政治",
-      "score": 72,
-      "id": "328a37e817ef"
     },
     {
       "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
@@ -627,99 +679,8 @@
       "publishedAt": "2026-08-23T03:44:19.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "8cd1e1334ff4"
-    },
-    {
-      "title": "Israeli army and settlers injure several Palestinians across West Bank",
-      "summary": "Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.",
-      "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-22T21:02:29.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "ee6e47265985"
-    },
-    {
-      "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
-      "summary": "US President Donald Trump has called for restrictions on mail-in voting as part of bid to exert control over elections.",
-      "url": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-22T20:49:17.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "9b0a5a51a20f"
-    },
-    {
-      "title": "CAF Women: Sundowns Ladies hammer Botswana in opener",
-      "summary": "CAF Women: Sundowns Ladies hammer Botswana in opener &nbsp;&nbsp; Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFVrNTNoSTJrdWJPM0kwdTFwUkllU0lXYnFBZU1qRmRoOGt4RWJiUlItdWNUdkI4Qk8xU0NsaFFTbVExVkh2Q3lvZF9JVGxibmFQVE9LQUs3RFNWYWRtWExuWElwMEp5VDFqSDducVhUVUxCV0JjLW5FQ1gxMk1ZMVhRRkFCaGhsNXRZ?oc=5",
-      "source": "Africa Top Sports",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-23T06:32:32.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "dcddcb6cacf0"
-    },
-    {
-      "title": "Is the market losing hope for peace in the Middle East?",
-      "summary": "Is the market losing hope for peace in the Middle East? &nbsp;&nbsp; investingLive",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMnRBRnZWTFhySElHTlMtOWNVd0NCVEhacEpwVGFyMV9POGFqaUtBanF2eWVJS0tONkFhajRoUnZBWWhBXzd6OWlReDZ4Y1lPRXM0MVJrQTBsY0VZRDdfN1dWSVprRDVLZEhCcU81UDBUTmVGSEpFRURLdlJSU3EtQnBZRnBQakNxWG1haGZSeTVSaFZTb2c?oc=5",
-      "source": "investingLive",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-23T06:17:32.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 71,
-      "id": "b18cd391f7c0"
-    },
-    {
-      "title": "Uganda’s Okello completes move to AS FAR Rabat",
-      "summary": "Uganda’s Okello completes move to AS FAR Rabat &nbsp;&nbsp; Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVENRMGRYalk5WXZZSWhacG1ncVB2bWxRM2FUd3UtbmF4dl9lSXlMNkZrS2c0QTN4U0lnYTRMUDBfZVpyclY5dTd6WjFOTENCWGxBUllCOThqVGFPQjlob1FfRWNKaFVtVmZaeG45Y0J4cHZYeFdua0FTaVdzTjI5OEh5NA?oc=5",
-      "source": "Africa Top Sports",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-23T06:07:29.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "74ac4d3146bc"
-    },
-    {
-      "title": "In rural Chad, solar kiosks bring healthcare closer",
-      "summary": "Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.",
-      "url": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-23T03:21:03.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "4e95885e346d"
-    },
-    {
-      "title": "South Korea president stresses U.S. alliance as many baffled by Trump order",
-      "summary": "South Korea president stresses U.S. alliance as many baffled by Trump order &nbsp;&nbsp; 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1taDNuZ2g1VVEtalBPMUlUTTYzNjF4X05aZzFPQ04wREdUTTdCQzQtSEs0NWZmd3gydFBkMldaeTR2SDF1VU5TV0xzUlRrWTFhbTNLOGNhZWhtM08wWnc?oc=5",
-      "source": "朝日新聞",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-23T02:32:14.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 71,
-      "id": "da6a342ea9bf"
     },
     {
       "title": "Iran threatens countries that join US ‘economic D-Day’",
@@ -735,6 +696,110 @@
       "id": "e47796c255e5"
     },
     {
+      "title": "Israeli army and settlers injure several Palestinians across West Bank",
+      "summary": "Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.",
+      "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-22T21:02:29.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 71,
+      "id": "ee6e47265985"
+    },
+    {
+      "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
+      "summary": "US President Donald Trump has called for restrictions on mail-in voting as part of bid to exert control over elections.",
+      "url": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-22T20:49:17.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 71,
+      "id": "9b0a5a51a20f"
+    },
+    {
+      "title": "CAF Women: Sundowns Ladies hammer Botswana in opener",
+      "summary": "CAF Women: Sundowns Ladies hammer Botswana in opener &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFVrNTNoSTJrdWJPM0kwdTFwUkllU0lXYnFBZU1qRmRoOGt4RWJiUlItdWNUdkI4Qk8xU0NsaFFTbVExVkh2Q3lvZF9JVGxibmFQVE9LQUs3RFNWYWRtWExuWElwMEp5VDFqSDducVhUVUxCV0JjLW5FQ1gxMk1ZMVhRRkFCaGhsNXRZ?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-23T06:32:32.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "dcddcb6cacf0"
+    },
+    {
+      "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
+      "summary": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window &nbsp;&nbsp; Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXFYYUZrT0dQRlJmbzRST3NId1F6SE5wYnZSVUdoOFBXc3NBRXhXY2llSU9DX2pXR3RQNEVUcFhjSEs3R29uLUZyVUlfZUJIMDl3eTFJRTFMM0hITVNJZzRIUmlEYW1PekhjZHZGVzdESXZjR0dHdGhUUzVlalRLSU51bnRrNHRJWTF1NnpqSUdEYmJBVGJtQ3J3TEJabE0?oc=5",
+      "source": "Goal.com",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-23T06:24:21.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "0de28efbcdf8"
+    },
+    {
+      "title": "Uganda’s Okello completes move to AS FAR Rabat",
+      "summary": "Uganda’s Okello completes move to AS FAR Rabat &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVENRMGRYalk5WXZZSWhacG1ncVB2bWxRM2FUd3UtbmF4dl9lSXlMNkZrS2c0QTN4U0lnYTRMUDBfZVpyclY5dTd6WjFOTENCWGxBUllCOThqVGFPQjlob1FfRWNKaFVtVmZaeG45Y0J4cHZYeFdua0FTaVdzTjI5OEh5NA?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-23T06:07:29.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "74ac4d3146bc"
+    },
+    {
+      "title": "India eyes critical minerals, bigger markets in South America trade push",
+      "summary": "India eyes critical minerals, bigger markets in South America trade push &nbsp;&nbsp; The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNUkFYTUJ4TE9nb1NUclFReFZ4RUdzR3BBY0VlRDBzVS1KRGdTMXhNbmhaYTBGT25BU0VuR2FDeUY5TDJTeFg4U25xc25fV1dKMkJEYi1QRUJFNlJxRkdsTHNfN3ZYYjRTanh4anM4MnZ4X05meVRQVHhyWkgyN21aQkdHZzBUdjZ5WHBTRXNaQ0VOcXdyV3VVdEk2eVlmV1dMMGw0RXFGM2ltcWxSYnNtZEE0MngwME5Jc1pVY1RuRVMzWXgtY0FZZ2tmY2lyWlBjWFJBS2FENmtOYkRUOVVaZTRidVZjTi1nTUZvejNJYUZIOFU0dzBuTU5qYmtjZVpsdlhGTnQtZzFvLUF6eXpsVDExSDR3aVh1clhXcm1hODhFZTZqR0w1T3NOUGN3bEdjZ052NElZdjVMckEtYUZTY3BycTBWc05PNEowTTJUSmTSAewBQVVfeXFMUDVWc3k1aGVpZExyT1ByWC1Hbl90RWh1UEozTmRSemR1dnhnTWRjb0t6WkdQTk43SmpDWkVTZVVobUljYldLamhLaTVubjl0eUR2QXFTZmdXUjJIV09kVHBBMW9raG52bWJLdFE1eGhIa0syZGVpRmptcnFsUDVBWXF6YTU3ZHFTMS15Qnpic2d0bVJvUzVDSThsVENsLWZ3SXZSY2h4R3lGRWZlN1lHVjVkV1RUbllvWmc5bl9QQXpiQTNpT0FWcVRnNktxakd0cU5RS0NHX21HTDdxY0JQUHZfd05QR25CYWtoRGY?oc=5",
+      "source": "The Economic Times",
+      "feed": "Latin America News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-23T05:57:49.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 70,
+      "id": "8ecf46f75882"
+    },
+    {
+      "title": "In rural Chad, solar kiosks bring healthcare closer",
+      "summary": "Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.",
+      "url": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-23T03:21:03.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "4e95885e346d"
+    },
+    {
+      "title": "South Korea president stresses U.S. alliance as many baffled by Trump order",
+      "summary": "South Korea president stresses U.S. alliance as many baffled by Trump order &nbsp;&nbsp; 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1taDNuZ2g1VVEtalBPMUlUTTYzNjF4X05aZzFPQ04wREdUTTdCQzQtSEs0NWZmd3gydFBkMldaeTR2SDF1VU5TV0xzUlRrWTFhbTNLOGNhZWhtM08wWnc?oc=5",
+      "source": "朝日新聞",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-23T02:32:14.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 70,
+      "id": "da6a342ea9bf"
+    },
+    {
       "title": "Judge strikes down Trump administration’s 75-country immigrant visa ban",
       "summary": "Judge strikes down Trump administration’s 75-country immigrant visa ban &nbsp;&nbsp; WEEK | 25 News Now",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMU03bFN5T0U4LW5ZT1pOLURlTlFZUlFXQUtXZWRzaTFZOEpiUnUwTm9jRTgyYmJQYkRJZEQyTXJnOWN0bUwtN2FWR01lZVFvaE14eEZaS1BnLWNvaUlmNGNkUzlucE4xZlAtVGh2TWplajZGeklmX1FZcGNYM3QxTW14WTk0Y0U4M3pvcWF1dWtGVERXQ2NKWllqcERFUXlOQnNlRHF6T09CT01D?oc=5",
@@ -744,21 +809,8 @@
       "publishedAt": "2026-08-22T17:20:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
-      "id": "2abc7f576586"
-    },
-    {
-      "title": "Robots could harvest lava from volcanic eruptions to make 'concrete' of the future",
-      "summary": "After repeated volcanic eruptions near a fishing town in Iceland, two architects are pushing a novel, futuristic way to harness vast lava fields - by turning molten rock into a construction material.",
-      "url": "https://news.sky.com/story/robots-could-harvest-lava-from-volcanic-eruptions-to-make-concrete-of-the-future-13576172",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "全球",
-      "publishedAt": "2026-08-23T02:30:00.000Z",
-      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-grindavik-volcano_7328855.jpg?20260823042637",
-      "topic": "科技",
       "score": 70,
-      "id": "536673ada88e"
+      "id": "2abc7f576586"
     },
     {
       "title": "4 workers struck, killed by luxury Spacia X train in Tochigi",
@@ -770,60 +822,8 @@
       "publishedAt": "2026-08-23T02:14:11.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "eff662d48bac"
-    },
-    {
-      "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
-      "summary": "For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.",
-      "url": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-22T22:29:07.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 70,
-      "id": "8f47b2cbf098"
-    },
-    {
-      "title": "Sri Lanka Latest Breaking News and Headlines - Print Edition Two-time world champion Tete shot dead outside home - Daily Mirror",
-      "summary": "Sri Lanka Latest Breaking News and Headlines - Print Edition Two-time world champion Tete shot dead outside home &nbsp;&nbsp; Daily Mirror - Sri Lanka",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmJYUkFlUEFnamxkMUxnTFRuNWFMVy0yano0algyMnFuRTdOVWR2NVBIWHlkbnVpU2tIeERPbmFpNlh5ZGUzaTdXRVVnQ1FuOEQwRHFQQXJXVmhhcjBCNHVDUDdkcUZDclBmcjlteEhTNUU2elBQbk1MM2dPWFhHNnRNSTd3SDdlNHZwMzQ1QTlKdXNoZElLQV96SVF1ODhkckFHdU1iV1RYVnhfeWc?oc=5",
-      "source": "Sri Lanka",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-22T16:11:04.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "4666c02e6d3a"
-    },
-    {
-      "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
-      "summary": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window &nbsp;&nbsp; Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXFYYUZrT0dQRlJmbzRST3NId1F6SE5wYnZSVUdoOFBXc3NBRXhXY2llSU9DX2pXR3RQNEVUcFhjSEs3R29uLUZyVUlfZUJIMDl3eTFJRTFMM0hITVNJZzRIUmlEYW1PekhjZHZGVzdESXZjR0dHdGhUUzVlalRLSU51bnRrNHRJWTF1NnpqSUdEYmJBVGJtQ3J3TEJabE0?oc=5",
-      "source": "Goal.com",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-23T04:23:40.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "0de28efbcdf8"
-    },
-    {
-      "title": "From Kigali to Nairobi: Can Africa rise beyond its shadows?",
-      "summary": "From Kigali to Nairobi: Can Africa rise beyond its shadows? &nbsp;&nbsp; The Nation Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeGlPUHZRb1JCdFVPU2pSeW1aWTZSN2dpSE03Wk9aMTdXQ0VFM0YyQUk3cE1IWldzejNLNm9hVG9iTkx4cExoNFR5U01hLTVEdXhvWU9TOXVLMXVubEs1X0toOFUwTW1DTXg3bEt6cWJxVF9UQkhGLTdJYkhsTUpRQVItSFpySF9TMk9lRUtnamxkQdIBlwFBVV95cUxQRnZQQWc0WkVodFg5QjJoQ2VzZWg1T0tVazFod282N1VaN2x0QVVzeHZXZTZ2S1lRcHRRQlNkNmxKOGlESFFPSy1XNGZUdGpjZl9fckNnU0dFYjZHOExnakxxWFV2S1hEOUhrWmJkUzBtVHVhT0hWdlZKVDhROFUxSVJSWGpDTmJUU21NRVY1VHpiUVpfNUR3?oc=5",
-      "source": "The Nation Newspaper",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-23T04:17:17.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "22a8faa61dac"
     },
     {
       "title": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
@@ -839,6 +839,45 @@
       "id": "9dfaab6d91e9"
     },
     {
+      "title": "South Africa's former world boxing champion Tete shot dead outside his home",
+      "summary": "South Africa's former world boxing champion Tete shot dead outside his home &nbsp;&nbsp; NewsBreak: Local News & Alerts",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQjVNdnVyR2d4MXUzNnFkb1Z1elRBdE5VeVI5enBwWU53dUpBRW9qWlU3Y21NV05IN1ZoSVBja1VCUzl0TjhibUZ6RTM4MUFod1VMaDVGMWN1WkhsS3VXYlJ5cGxpdlVyM2lCRWhTMTVwLW9zZFQxNW5lM1RydHNwQmcyekJNYlZLRWxubWxacnZ3TEw0RF9Bek1RazZzM1RvV0U1MFM3dXFmTW0ydVpMLTFTTnhZYThHak5FNXZnSzdhenZmZ0dFWkR3?oc=5",
+      "source": "NewsBreak: Local News & Alerts",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-22T16:37:56.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 69,
+      "id": "bf9dbbe81a84"
+    },
+    {
+      "title": "Evergrande founder Hui Ka Yan sentenced to life in prison",
+      "summary": "Evergrande founder Hui Ka Yan sentenced to life in prison &nbsp;&nbsp; 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tWE9ZT3NnR0lSbmhtNGFwYXNES2pDallHZFZKZmpkLUNSbnFMTEl5NWpzUWRiMDdOSjFLTk5aRGIzZGo5ZXZoZjRjeVFqN3NBTDJTaEVZYVRNbVZLQXc?oc=5",
+      "source": "朝日新聞",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-23T04:52:38.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 68,
+      "id": "a3c4e1935e20"
+    },
+    {
+      "title": "From Kigali to Nairobi: Can Africa rise beyond its shadows?",
+      "summary": "From Kigali to Nairobi: Can Africa rise beyond its shadows? &nbsp;&nbsp; The Nation Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeGlPUHZRb1JCdFVPU2pSeW1aWTZSN2dpSE03Wk9aMTdXQ0VFM0YyQUk3cE1IWldzejNLNm9hVG9iTkx4cExoNFR5U01hLTVEdXhvWU9TOXVLMXVubEs1X0toOFUwTW1DTXg3bEt6cWJxVF9UQkhGLTdJYkhsTUpRQVItSFpySF9TMk9lRUtnamxkQdIBlwFBVV95cUxQRnZQQWc0WkVodFg5QjJoQ2VzZWg1T0tVazFod282N1VaN2x0QVVzeHZXZTZ2S1lRcHRRQlNkNmxKOGlESFFPSy1XNGZUdGpjZl9fckNnU0dFYjZHOExnakxxWFV2S1hEOUhrWmJkUzBtVHVhT0hWdlZKVDhROFUxSVJSWGpDTmJUU21NRVY1VHpiUVpfNUR3?oc=5",
+      "source": "The Nation Newspaper",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-23T04:17:17.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 68,
+      "id": "22a8faa61dac"
+    },
+    {
       "title": "'Scores of people' kidnapped from mosque in Nigeria",
       "summary": "Armed men have kidnapped a number of people from a mosque in Nigeria's north-central Niger state, residents and police have said, in the latest mass abduction in a region plagued by violent gangs.",
       "url": "https://news.sky.com/story/scores-of-people-kidnapped-from-mosque-in-nigeria-residents-say-13576166",
@@ -848,8 +887,21 @@
       "publishedAt": "2026-08-23T01:17:00.000Z",
       "image": "https://e3.365dm.com/26/08/1920x1080/skynews-police-nigeria_7328853.jpg?20260823024818",
       "topic": "社会",
-      "score": 69,
+      "score": 68,
       "id": "b06e4630684a"
+    },
+    {
+      "title": "Ran Ne America Ka MQ-9 Reaper Drone Gira Diya! Middle East Tension Badh Gayi | Breaking News!!! Mcfc (XIZbdS2g2R)",
+      "summary": "Ran Ne America Ka MQ-9 Reaper Drone Gira Diya! Middle East Tension Badh Gayi | Breaking News!!! Mcfc (XIZbdS2g2R) &nbsp;&nbsp; Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kelZZVHUxcUZhbVdYb2xqX1hqM1JqbFVRR3Z0UlBrdldXejV2ZXhJdXF2Rjk0UHVydGQyU04tYTZQRnBFTzdmeWVXR1BUOFYtc3E4SHhqT3A0NGc?oc=5",
+      "source": "Mshale",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-23T01:16:46.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 68,
+      "id": "6198cf0caed9"
     },
     {
       "title": "Children now experiencing ‘best weather of their lifetime’, warns Asia’s top climate scientist",
@@ -861,34 +913,8 @@
       "publishedAt": "2026-08-23T01:00:08.000Z",
       "image": "",
       "topic": "政治",
-      "score": 69,
+      "score": 68,
       "id": "6c99ac1e7b99"
-    },
-    {
-      "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
-      "summary": "Canadian Prime Minister Mark Carney says Canada will match new US tariffs “dollar for dollar.\"",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-22T19:13:02.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 69,
-      "id": "aeb396e46a75"
-    },
-    {
-      "title": "Iran says 'entire world' has accepted it has defeated the US, and other Middle East developments",
-      "summary": "Iran says 'entire world' has accepted it has defeated the US, and other Middle East developments &nbsp;&nbsp; The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGJoVXJCaUN6MGRKNTgzWENod2VrN29OUllhaVUwTFQ5VjZpc0tEWlNiNHUzWjAxMlZiUVl6Z2FTd0I1cmUwandhdFl3SGo4NENwV3k0XzlrNDlodFJtWXkta3VETkd4UjgyTEdVRUhzOHcxZEdHMkpaZXJQQVlJZUlud2Q0NVMyMHBQSDVobnc4clZEYVBIVVVxRG5MdEE2UG1yNmtYR2IxWDhGaldPZTNIb2phQmVvSlo5UTdUby1GQWlBUXFz?oc=5",
-      "source": "The Washington Post",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-22T15:29:49.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "6143b219d4ed"
     },
     {
       "title": "VOX POPULI: A mosquito bite is one itch that cannot be salved by scratching",
@@ -900,47 +926,21 @@
       "publishedAt": "2026-08-23T04:01:13.000Z",
       "image": "",
       "topic": "社会",
-      "score": 68,
+      "score": 67,
       "id": "faeffb386632"
     },
     {
-      "title": "Open-air cinema brings movie nights back to Khartoum",
-      "summary": "Families are returning to the movies at an open-air cinema in Khartoum, offering residents a brief escape from war.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-22T21:27:22.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 68,
-      "id": "59eae8bc33d7"
-    },
-    {
-      "title": "Business News | AI Boom Slowdown Could Shift Balance-of-payments Stress from Asia to US: Report",
-      "summary": "Business News | AI Boom Slowdown Could Shift Balance-of-payments Stress from Asia to US: Report &nbsp;&nbsp; LatestLY",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYUpnc19uR1pwQnA2UDU4eHEyeGdtVTZZenNxTTNYT2J2N3NYSHdVYXR4Mmpid0l5NHFWWEhZYjREZnYzdklmLVhIckRMRUNDS3ZIQU1hVkRmMVp4TDFyX2dmVzVNWWRFVHU5cDd1MmM5SGljcVJLMVBmQ0RaMW03MmxhS3RUN01XNkpQY1V0dDg3Q2dtQTNFdWJQRlBPdDZoNUpRVm1VaUdqY3NnSEx2SkwyZ0NRNTc2bFRSeHVKMHFrNmRqN0l2ZngxZkh3aVdrY19qa3JDdm9zUdIB3wFBVV95cUxNbEU3Q29ncUFOSXhqdnFRTzRoZlVZMnZWMjg2V0tiRjZIYTRrX1NSRWRQNkhvSnRNNHZyS2dLeDZueXMwbFFZRmNuNlJOMG52QmhGWldFRHhYM29ZOWRiMktwNUZFTVVkMjhTODJydnJiUVlOT1NjT2FCbWRYeEN2eXJKNGMyejhHXzkwLTd5ZER1bjRmN1dWSFF6alVsajRncEZTc0g4bjhTMFJhTnhuRHM0enNKYmpDaU02WFdRSjVaMDJ2d1pOQ29uaDM1VTV4b3V6aDNvVFFMeHhPclhz?oc=5",
-      "source": "LatestLY",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-23T03:22:22.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 67,
-      "id": "3227f0ad7805"
-    },
-    {
-      "title": "Asim Munir, Iran's Araghchi Discuss 'Effective Solutions For Peace In West Asia' In Phone Call",
-      "summary": "Asim Munir, Iran's Araghchi Discuss 'Effective Solutions For Peace In West Asia' In Phone Call &nbsp;&nbsp; News18",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbTVOVFhJV3ZTaTZpVm4tejU4Y1BoZF96UUE4SWxiWlNWNGhmVkFSU2hXRVYwRG0wUXdVT013MHFVVFJqVVB1NW1HdVpZSEtXT2lqbzU2WmNaclQyLUNPbjdDTjgwWUJyVTk2SUZ1VklGbmRGVnhKQXJDNmx5WlYzVl9BYVFyUmp5eTlJQXZEbzBqX0lxcUFZZG1YMXJwTElOTE1FQ3AzRGpQVk1GR3dPX0JJTGlEbm54R0tvM0Z1Rkg1LXZ2eGd2N0NpUDRNRi1oQnBpY09fM2M2ZGhPemstRGkyMklDNjhOTFRZbHdKa001NFpP0gH6AUFVX3lxTE82ZUJJbjRFVURmd05kSjFZMXRzU0pDTHNoaGdhOU5hV25Jd09DSVVyY3ZuaGt5Y21QR2l0eXNhSlljazhrZGhHM2pxQm1kYnJlcGlpcV9IT3dEMzZMN3V6ZENVM0prYXlJUlJUVW1aYVJRYkFSYVdhbndxa0c5OTZWOWppYVRCaGZXdzFueUcxbHVJOGpWMFI3MWJTRTVKRnA2WHJYQmhqYUp4d1pjY2ZRb3dqMjlLWHd2bGJadlRmbURPYWZPVkNVYUxIWjNydUZYLVpVUHg2MDhqSGVNMUR1VUNtTWdzQWJBdDAtOWhtVzRTTEloMWNyY0E?oc=5",
-      "source": "News18",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-23T02:28:56.000Z",
+      "title": "Iran says ‘entire world’ has accepted it has defeated the US, and other Middle East developments",
+      "summary": "Iran says ‘entire world’ has accepted it has defeated the US, and other Middle East developments &nbsp;&nbsp; Orlando Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWm50dHBGTElIc01ZdHl4Xy1EWnBQbHZZMVcwOVZWaFhHaXc1aDNTVnpTbHlzbERDNEc3LS1fMFI3Vzk3bUdiYWJwcVoxbURDdzdFZlFveElQVm90VjZabnZpOGhtNUwtc3F2WFp0S1FCTGxEZnhnRXh2ODBaRlpRUmhNX3Q4VkF0eGN4Ync5VHZidDRUd0hBaFBwZUdfTDRCTFBXOU83amttUnh5QXpHY3BfTGFGSmZFQUFJUHdjZXd2RXNkd083M1ljVVZKZDlFTjgw?oc=5",
+      "source": "Orlando Sentinel",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-22T14:58:25.000Z",
       "image": "",
       "topic": "社会",
-      "score": 66,
-      "id": "4b84b2999b8d"
+      "score": 67,
+      "id": "5cf5da3e3063"
     }
   ]
 }
