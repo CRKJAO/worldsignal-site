@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T19:39:13.266Z",
+  "updatedAt": "2026-08-23T20:42:23.082Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -16,8 +16,34 @@
       "publishedAt": "2026-08-23T14:56:26.000Z",
       "image": "",
       "topic": "政治",
-      "score": 91,
+      "score": 90,
       "id": "8805556d8be1"
+    },
+    {
+      "title": "Landslide at Guinea landfill kills at least 30",
+      "summary": "Authorities say a mountainous heap of refuse has collapsed following heavy rain Sunday morning, local time, with the landslide swamping nearby houses.",
+      "url": "https://www.abc.net.au/news/2026-08-24/guinea-rubbish-landfill-landslide/107069872",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-23T20:07:15.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/6185ea7dbb35edb5f0dd37a5de20d600?impolicy=wcms_crop_resize&cropH=2363&cropW=4200&xPos=0&yPos=219&width=862&height=485",
+      "topic": "社会",
+      "score": 88,
+      "id": "d71b30d5c419"
+    },
+    {
+      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiatio",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "美洲",
+      "publishedAt": "2026-08-23T19:32:59.000Z",
+      "image": "https://i.guim.co.uk/img/media/b1fc5227ab8b91635aa6bdd84b88df0711c4cc64/200_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=1c8269f0891cb49afd4197177c4b7e56",
+      "topic": "经济",
+      "score": 88,
+      "id": "ba461fba4435"
     },
     {
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -29,7 +55,7 @@
       "publishedAt": "2026-08-23T19:11:30.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
       "topic": "经济",
-      "score": 88,
+      "score": 87,
       "id": "fd2661da3dab"
     },
     {
@@ -42,8 +68,60 @@
       "publishedAt": "2026-08-23T16:29:57.000Z",
       "image": "",
       "topic": "经济",
-      "score": 88,
+      "score": 87,
       "id": "f75b47b23582"
+    },
+    {
+      "title": "Guinea rubbish landfill collapse kills 30",
+      "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-23T18:17:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ee/live/c5473e70-9f1b-11f1-b2a2-8945a27a2843.jpg",
+      "topic": "政治",
+      "score": 85,
+      "id": "c98e5ac904bc"
+    },
+    {
+      "title": "Iran official says support for new sanctions would be an 'act of war,' and other Middle East news",
+      "summary": "Iran official says support for new sanctions would be an 'act of war,' and other Middle East news &nbsp;&nbsp; WDRB",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWmxqbHV2VG9CeUVjZGJxQ3loS3AzVTIyVlBFYVFnUGRsdlo0cnE2eDRtdHIyc1c5XzBWUk9UMUFZRjRTcWhaWnV5WC1DaUcyamU3UFpLaUNBb1BtMHdYTUpRdnVVZUVkckE4SF9qS0VwY0JzZDhzRnlBMkM4c00yc183bmNVcTJ3LThWVEZMNlZpdlBzR0FTRnhEdUtSWUg2OTNvSklMbjlSMTlKQWtsQjNRWnhaT0lISzVhcVNTMkE4Ym1oV2ZpWFdiclFXQldVeHdlNTZfMng4dWtDNE5TbnNRSHFOZUJDWVgyMVFEeEJaTDRB?oc=5",
+      "source": "WDRB",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-23T20:02:53.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 84,
+      "id": "60b1dec6fc71"
+    },
+    {
+      "title": "Landfill collapse in Guinea kills at least 30 people",
+      "summary": "Heavy rains wash over the site, triggering a landslide that buries several shacks.",
+      "url": "https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-23T17:35:01.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 84,
+      "id": "0215e9cfa593"
+    },
+    {
+      "title": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
+      "summary": "Two people were killed after a massive Ganesha idol fell onto a crowd during a procession in Mumbai, India.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/two-killed-after-giant-ganesha-statue-collapses-onto-crowd-in-mumbai?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-23T19:27:17.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 83,
+      "id": "d3c8481cf76b"
     },
     {
       "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
@@ -55,7 +133,7 @@
       "publishedAt": "2026-08-23T15:25:47.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "e1ee015507e6"
     },
     {
@@ -68,21 +146,8 @@
       "publishedAt": "2026-08-23T18:22:15.000Z",
       "image": "https://i.guim.co.uk/img/media/429c6b5d7c9a1ba8ff7eb1b0d7341abc10efe17c/509_0_2514_2012/master/2514.jpg?width=140&quality=85&auto=format&fit=max&s=40d26ed080c5af284172c2611408eda4",
       "topic": "政治",
-      "score": 83,
+      "score": 81,
       "id": "61b8f937d581"
-    },
-    {
-      "title": "Guinea rubbish landfill collapse kills 30",
-      "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-23T18:17:37.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ee/live/c5473e70-9f1b-11f1-b2a2-8945a27a2843.jpg",
-      "topic": "政治",
-      "score": 83,
-      "id": "c98e5ac904bc"
     },
     {
       "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
@@ -94,21 +159,8 @@
       "publishedAt": "2026-08-23T17:53:31.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 81,
       "id": "1bf227416c5f"
-    },
-    {
-      "title": "Landfill collapse in Guinea kills at least 30 people",
-      "summary": "Heavy rains wash over the site, triggering a landslide that buries several shacks.",
-      "url": "https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-23T17:35:01.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 82,
-      "id": "0215e9cfa593"
     },
     {
       "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
@@ -120,7 +172,7 @@
       "publishedAt": "2026-08-23T17:24:46.000Z",
       "image": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=140&quality=85&auto=format&fit=max&s=f4a441fe501f609c181fb9eae8b6798a",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "2ec8a85f5944"
     },
     {
@@ -133,7 +185,7 @@
       "publishedAt": "2026-08-23T17:18:25.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "dd048f87bd5c"
     },
     {
@@ -146,7 +198,7 @@
       "publishedAt": "2026-08-23T14:12:57.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d566b904bb6438626a2997dea62cb250?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=257&width=862&height=485",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "ad02b584d69c"
     },
     {
@@ -159,8 +211,21 @@
       "publishedAt": "2026-08-23T10:39:30.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/887e2b8e33eee224e28d571c18904f0f?impolicy=wcms_crop_resize&cropH=1434&cropW=2550&xPos=0&yPos=24&width=862&height=485",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "84b46a0f3442"
+    },
+    {
+      "title": "Trump waves green flag to start IndyCar race through Washington streets",
+      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-23T20:19:36.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5457/live/115de7a0-9f21-11f1-a291-b542ee92de7c.jpg",
+      "topic": "政治",
+      "score": 80,
+      "id": "c38b932f3d4d"
     },
     {
       "title": "Natalie Harp reportedly posted 150 pro-Trump tweets on day of Capitol riot",
@@ -172,8 +237,47 @@
       "publishedAt": "2026-08-23T16:47:49.000Z",
       "image": "https://i.guim.co.uk/img/media/62426c6f19fe01680fc4c5345769a4489befe170/373_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=9cf37b04851b2094e9af23b4b6d2655e",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "c38ee055fde6"
+    },
+    {
+      "title": "Families release pictures of police officers killed in A66 crash in which five others died",
+      "summary": "Emotional tributes paid to PCs Matthew Blades and Tom Clough whose vehicle was in a head-on collision with car travelling wrong way Cleveland police have published photographs of PC Matthew Blades and PC Tom Clough who died when a car travelling the wrong way on the A66 crashed head-on into their police vehicle. Two 17-year-old boys were among the seven peop",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/23/tributes-paid-cleveland-police-killed-a66-crash-south-bank",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-23T19:55:13.000Z",
+      "image": "https://i.guim.co.uk/img/media/1176bcc41a0caf12cba42fb8e2e1a49ddde99dd8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=43a5cd3d57674d849a2dc4e1d718fddf",
+      "topic": "社会",
+      "score": 79,
+      "id": "cbc77fef8c4c"
+    },
+    {
+      "title": "Three Queensland police officers convicted of DV offences escape discipline",
+      "summary": "The Queensland Police Service cannot discipline an officer convicted of a crime if no conviction is recorded due to its interpretation of a recent court decision.",
+      "url": "https://www.abc.net.au/news/2026-08-24/qld-ccc-domestic-violence-qps/107059006",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-23T19:44:12.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/5bcc12c04b5b5384cbd55a3e8e04590f?impolicy=wcms_crop_resize&cropH=3078&cropW=5472&xPos=0&yPos=285&width=862&height=485",
+      "topic": "政治",
+      "score": 79,
+      "id": "db1665179a4b"
+    },
+    {
+      "title": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
+      "summary": "Gaza’s hospitals face oxygen shortages, putting the lives of premature babies and critically ill patients at risk.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-23T19:40:11.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "6c7ce956d1c7"
     },
     {
       "title": "Australia's bowling attack can't disguise batting failings forever",
@@ -185,7 +289,7 @@
       "publishedAt": "2026-08-23T19:22:22.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1dfd51696a57a12821112ab0d2bd4809?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=170&width=862&height=485",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "7d2e05e344f4"
     },
     {
@@ -198,7 +302,7 @@
       "publishedAt": "2026-08-23T19:00:56.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "ed9d33c8ed46"
     },
     {
@@ -211,7 +315,7 @@
       "publishedAt": "2026-08-23T19:00:06.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "cec64dc2d5de"
     },
     {
@@ -224,21 +328,8 @@
       "publishedAt": "2026-08-23T19:00:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/adf27ec34211cf24bb02c93fe873d1e4?impolicy=wcms_crop_resize&cropH=773&cropW=1374&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "580975f051a0"
-    },
-    {
-      "title": "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
-      "summary": "The embattled Ukrainian president slams Mykhailo Fedorov's idea as a 'tsunami' that would 'split' the country.",
-      "url": "https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-23T12:19:12.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 80,
-      "id": "f97120652c69"
     },
     {
       "title": "'Exceptional' summer heatwaves in Europe hurting economy",
@@ -250,7 +341,7 @@
       "publishedAt": "2026-08-23T18:54:12.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/8359995e177f1c36b90356e68071dd53?impolicy=wcms_crop_resize&cropH=1588&cropW=2823&xPos=237&yPos=552&width=862&height=485",
       "topic": "经济",
-      "score": 79,
+      "score": 78,
       "id": "95d2d843fee6"
     },
     {
@@ -263,34 +354,8 @@
       "publishedAt": "2026-08-23T18:47:11.000Z",
       "image": "",
       "topic": "经济",
-      "score": 79,
+      "score": 78,
       "id": "504f6299d0a2"
-    },
-    {
-      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
-      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-23T18:17:34.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5457/live/115de7a0-9f21-11f1-a291-b542ee92de7c.jpg",
-      "topic": "政治",
-      "score": 79,
-      "id": "a5452453d288"
-    },
-    {
-      "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
-      "summary": "Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-23T18:15:22.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 79,
-      "id": "f3d280624eb4"
     },
     {
       "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
@@ -302,8 +367,21 @@
       "publishedAt": "2026-08-23T11:50:12.000Z",
       "image": "https://i.guim.co.uk/img/media/125d91e786f9cb71270d91c213096e4a92d6289b/638_0_3065_2451/master/3065.jpg?width=140&quality=85&auto=format&fit=max&s=35c300c1bd3c78cd1fcf6d5bc7760f0d",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "5e4bc3daed14"
+    },
+    {
+      "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
+      "summary": "Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-23T18:15:22.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 77,
+      "id": "f3d280624eb4"
     },
     {
       "title": "Tunisia sees protests after migrant boat sinking kills eight",
@@ -315,7 +393,7 @@
       "publishedAt": "2026-08-23T17:57:48.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "4deea472f6ea"
     },
     {
@@ -328,7 +406,7 @@
       "publishedAt": "2026-08-23T17:55:52.000Z",
       "image": "",
       "topic": "气候",
-      "score": 78,
+      "score": 77,
       "id": "4df7cd813cff"
     },
     {
@@ -341,34 +419,47 @@
       "publishedAt": "2026-08-23T17:55:52.000Z",
       "image": "https://i.guim.co.uk/img/media/9c27978883c3099f3b215f8e74787e2ead13ad64/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=cebe99a2ebb823c2145ce8f376d8c177",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "86cea6061eb2"
     },
     {
-      "title": "Iran’s foreign minister calls threat of new US economic sanctions ‘desperate’",
-      "summary": "Abbas Araghchi says country is unbowed but president Masoud Pezeshkian admits its people face ‘many problems’ Iran’s foreign minister has dismissed the threat of a fresh round of US economic sanctions as a “desperate” ploy, even as its president acknowledged that the Iranian people are facing “many problems” amid Washington’s efforts to isolate and debilitat",
-      "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-23T13:56:11.000Z",
-      "image": "https://i.guim.co.uk/img/media/12b06c48e7e64060343fb59c63ad213067e6e1a8/487_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a5ed26f316d4a3891026e9e78f124b8b",
+      "title": "Iran discovers major new gas reserves amid war-hit energy sector",
+      "summary": "Iran discovers major new gas reserves amid war-hit energy sector &nbsp;&nbsp; France 24",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnJOVFRxQ1BZb0p3VC1kNFpZNnljVEJQeFM5MkFoWENkUTdHbTZaY0hMTmhTNXZOdUNpZTFmbHVZSklkN3plNzhMVnYzSkdIY3Y2SVhoQUZ4dnZ0bG1CT0kzR0VuYVA3SnFlSjVRTEoyNnYtOWZqSVFqRlNReTd5LWFVYzlXZldMcWtHN0Jpb2EwVzN4QUM2SWtfc0xfclRVakV2VF82YU1tSzFHNEVuTjl2OA?oc=5",
+      "source": "France 24",
+      "feed": "Middle East News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-23T20:38:25.000Z",
+      "image": "",
       "topic": "政治",
-      "score": 78,
-      "id": "7c31833497cc"
+      "score": 76,
+      "id": "78dd23bc2214"
     },
     {
-      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
-      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiatio",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-08-23T11:00:16.000Z",
-      "image": "https://i.guim.co.uk/img/media/b1fc5227ab8b91635aa6bdd84b88df0711c4cc64/200_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=1c8269f0891cb49afd4197177c4b7e56",
-      "topic": "经济",
-      "score": 78,
-      "id": "ba461fba4435"
+      "title": "Wagga's drinking water diluted after elevated PFAS levels detected",
+      "summary": "Riverina Water is diluting water from two of its Wagga Wagga bores due to elevated detections of so-called \"forever chemicals\", but the source of contamination is a mystery.",
+      "url": "https://www.abc.net.au/news/2026-08-24/riverina-water-dilution-regime-underway/107057064",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-23T20:35:09.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a99b3d74d3c706b49340db0fd11eac4b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=927&width=862&height=485",
+      "topic": "社会",
+      "score": 76,
+      "id": "7ea0fccec762"
+    },
+    {
+      "title": "Penguin bird flu vaccination drive passes 1,000-dose milestone",
+      "summary": "The team vaccinating Phillip Island's little penguin population against bird flu administers more than 1,000 H5N1 doses to the vulnerable birds.",
+      "url": "https://www.abc.net.au/news/2026-08-24/vic-phillip-island-little-penguin-bird-flu-vaccination-program/107069130",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-23T20:23:01.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/274f666844b7e98f8d1375082da591f7?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "topic": "政治",
+      "score": 76,
+      "id": "30013abba373"
     },
     {
       "title": "Tim Scott defends Darline Graham’s ‘national security is not my thing’ comment",
@@ -380,21 +471,21 @@
       "publishedAt": "2026-08-23T17:18:26.000Z",
       "image": "https://i.guim.co.uk/img/media/b5c07786267821d0bac0c6a21e311e3286840c1a/282_0_2818_2254/master/2818.jpg?width=140&quality=85&auto=format&fit=max&s=3921de02decbb7ae6a6d04ea169a9eb1",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "475f8e6f5450"
     },
     {
-      "title": "Two 17-year-olds among seven people dead in A66 crash that killed two police officers",
-      "summary": "Tributes paid to PCs Matthew Blades and Tom Clough who died after head-on collision with car travelling wrong way Two 17-year-old boys were among seven people killed on Teesside when a car travelling the wrong way on the A66, believed to be using cloned plates, crashed head-on into a police vehicle. Cole Robert Worthy, 17, Theo Rae, 17, Makai Saddington, 18,",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/23/tributes-paid-cleveland-police-killed-a66-crash-south-bank",
+      "title": "Iran’s foreign minister calls threat of new US economic sanctions ‘desperate’",
+      "summary": "Abbas Araghchi says country is unbowed but president Masoud Pezeshkian admits its people face ‘many problems’ Iran’s foreign minister has dismissed the threat of a fresh round of US economic sanctions as a “desperate” ploy, even as its president acknowledged that the Iranian people are facing “many problems” amid Washington’s efforts to isolate and debilitat",
+      "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
       "source": "The Guardian",
       "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-23T16:35:39.000Z",
-      "image": "https://i.guim.co.uk/img/media/5caadd57e45c6e70b308c84a1406e0d3055fae1c/0_0_4920_3936/master/4920.jpg?width=140&quality=85&auto=format&fit=max&s=c51e9e06ad9d7922baad22fbb7cbf146",
-      "topic": "社会",
-      "score": 77,
-      "id": "bacb2a76e5e9"
+      "region": "中东",
+      "publishedAt": "2026-08-23T13:56:11.000Z",
+      "image": "https://i.guim.co.uk/img/media/12b06c48e7e64060343fb59c63ad213067e6e1a8/487_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a5ed26f316d4a3891026e9e78f124b8b",
+      "topic": "政治",
+      "score": 76,
+      "id": "7c31833497cc"
     },
     {
       "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
@@ -406,8 +497,86 @@
       "publishedAt": "2026-08-23T13:37:50.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "6b2b79d73f82"
+    },
+    {
+      "title": "Parents of kids with disability more likely to be burnt out, study finds",
+      "summary": "A major Australian study finds parents caring for young children with disability are twice as likely to say they are in poor health, feeling constantly in demand and lonely.",
+      "url": "https://www.abc.net.au/news/2026-08-24/parents-children-disability-experience-psychological-distress/107062176",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-23T20:05:04.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/311bb555ebcea5b18d36ad5bf0050735?impolicy=wcms_crop_resize&cropH=1715&cropW=3049&xPos=0&yPos=159&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "55cdfdbbe3eb"
+    },
+    {
+      "title": "Stores selling illegal cigarettes continue to reopen despite repeated shutdowns",
+      "summary": "Convenience stores in Adelaide's CBD that have been repeatedly shut down for illegal cigarette sales are continuing to reopen, prompting calls for increased law enforcement powers.",
+      "url": "https://www.abc.net.au/news/2026-08-24/illicit-tobacco-stores-continue-to-reopen-in-sa/107062788",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-23T20:04:19.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/58474b7ab1ad14c6b3ef2c096283d3fb?impolicy=wcms_crop_resize&cropH=2019&cropW=3590&xPos=0&yPos=1314&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "a7c3ec0ccc73"
+    },
+    {
+      "title": "'Nervous' residents on edge as vandals target vacant government homes",
+      "summary": "About 50 condemned houses on the Sunshine Coast are sitting abandoned, as police step up patrols to protect residents after vandals trashed one property.",
+      "url": "https://www.abc.net.au/news/2026-08-24/neighbours-fearful-safety-vandals-vacant-homes-sunshine-coast/106995024",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-23T20:02:01.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/0919cfab8a6128284ae7afa154258dea?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=353&width=862&height=485",
+      "topic": "政治",
+      "score": 75,
+      "id": "cd7b023c74b7"
+    },
+    {
+      "title": "Severe winds toss four aircraft across Italian airport tarmac",
+      "summary": "Winds reaching around 120 km/h swept through Forlì in Italy’s Emilia-Romagna region, overturning four light aircraft.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-23T20:00:22.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "879ae8b2b993"
+    },
+    {
+      "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
+      "summary": "Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts.",
+      "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-23T19:52:12.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "341a9794fb3f"
+    },
+    {
+      "title": "'Can you come quickly': Two-hour wait for police shown in Triple Zero logs",
+      "summary": "David Mason almost drowned in waters off Tasmania's north-west in January. Several Triple Zero calls were made by bystanders, but call logs show two hours passed between the first call and police arriving.",
+      "url": "https://www.abc.net.au/news/2026-08-24/near-drowning-two-hour-wait-after-first-triple-zero-call/107067102",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-23T19:36:38.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2feb78d86a1ff754130933c096f72e8c?impolicy=wcms_crop_resize&cropH=3942&cropW=7008&xPos=0&yPos=1&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "5cfcf2aa3423"
     },
     {
       "title": "AFL wildcard matches and times confirmed",
@@ -419,47 +588,8 @@
       "publishedAt": "2026-08-23T19:33:25.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/99466c94289b7eff7bb1622214c871ce?impolicy=wcms_crop_resize&cropH=2279&cropW=4052&xPos=0&yPos=0&width=862&height=485",
       "topic": "社会",
-      "score": 76,
+      "score": 75,
       "id": "222a5c0a3caa"
-    },
-    {
-      "title": "Indonesian police arrest 72 people as fires blanket region in smoke",
-      "summary": "Authorities say many landowners are lighting fires for land clearing, sending massive plumes into the atmosphere that are choking swathes of South-East Asia.",
-      "url": "https://www.abc.net.au/news/2026-08-24/indonesia-arrests-72-over-wildfires/107069574",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "亚洲",
-      "publishedAt": "2026-08-23T19:22:16.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/354d8a84f3197603701fedc40293a837?impolicy=wcms_crop_resize&cropH=2482&cropW=4413&xPos=0&yPos=279&width=862&height=485",
-      "topic": "社会",
-      "score": 76,
-      "id": "d93956117bb2"
-    },
-    {
-      "title": "Council wants reimbursment for removing graffiti on state-owned property",
-      "summary": "Casey Mayor Michelle Crowther says council contractors clean many sites that are the state government's responsibility.",
-      "url": "https://www.abc.net.au/news/2026-08-24/city-of-casey-graffiti-state-government-infrastructure/107066948",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-23T19:19:04.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/71ffc1db0bcc1c1e713e41173e02a4c5?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=47&width=862&height=485",
-      "topic": "政治",
-      "score": 76,
-      "id": "57768a272fa2"
-    },
-    {
-      "title": "Former The OC actor on crusade to take down 'stupid' cryptocurrency",
-      "summary": "Hollywood actor Ben McKenzie speaks to ABC News about what led him to investigate one of the biggest financial movements of the decade.",
-      "url": "https://www.abc.net.au/news/2026-08-24/ben-mckenzie-cryptocurrency-bitcoin-documentary-oc-star/107062012",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-23T19:18:21.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/214cbd9eb7cfb66d512c93e8a06b9fbd?impolicy=wcms_crop_resize&cropH=1577&cropW=2803&xPos=0&yPos=437&width=862&height=485",
-      "topic": "经济",
-      "score": 76,
-      "id": "f234f361594e"
     },
     {
       "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
@@ -471,7 +601,7 @@
       "publishedAt": "2026-08-23T16:12:55.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "baf95b496486"
     },
     {
@@ -484,34 +614,8 @@
       "publishedAt": "2026-08-23T16:07:01.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "6e73b55b7f36"
-    },
-    {
-      "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
-      "summary": "Both countries will suffer from the trade war with steeper tariffs raising business costs and consumer prices.",
-      "url": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-23T15:54:36.000Z",
-      "image": "",
-      "topic": "经济",
-      "score": 76,
-      "id": "c196de9695ca"
-    },
-    {
-      "title": "Dozens of attacks in southern Thailand wound three people",
-      "summary": "Many local government offices and several vehicles were damaged or destroyed in the 51 attacks late on Saturday.",
-      "url": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-23T13:08:37.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 76,
-      "id": "91a430669622"
     },
     {
       "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
@@ -523,7 +627,7 @@
       "publishedAt": "2026-08-23T12:56:43.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "30f87ff06fe2"
     },
     {
@@ -536,11 +640,50 @@
       "publishedAt": "2026-08-23T09:23:01.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "a0eebe52655e"
     },
     {
-      "title": "'I shouldn't be here': Australian murder suspect speaks from Thai prison",
+      "title": "Indonesian police arrest 72 people as fires blanket region in smoke",
+      "summary": "Authorities say many landowners are lighting fires for land clearing, sending massive plumes into the atmosphere that are choking swathes of South-East Asia.",
+      "url": "https://www.abc.net.au/news/2026-08-24/indonesia-arrests-72-over-wildfires/107069574",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "亚洲",
+      "publishedAt": "2026-08-23T19:22:16.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/354d8a84f3197603701fedc40293a837?impolicy=wcms_crop_resize&cropH=2482&cropW=4413&xPos=0&yPos=279&width=862&height=485",
+      "topic": "社会",
+      "score": 74,
+      "id": "d93956117bb2"
+    },
+    {
+      "title": "Council wants reimbursment for removing graffiti on state-owned property",
+      "summary": "Casey Mayor Michelle Crowther says council contractors clean many sites that are the state government's responsibility.",
+      "url": "https://www.abc.net.au/news/2026-08-24/city-of-casey-graffiti-state-government-infrastructure/107066948",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-23T19:19:04.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/71ffc1db0bcc1c1e713e41173e02a4c5?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=47&width=862&height=485",
+      "topic": "政治",
+      "score": 74,
+      "id": "57768a272fa2"
+    },
+    {
+      "title": "Former The OC actor on crusade to take down 'stupid' cryptocurrency",
+      "summary": "Hollywood actor Ben McKenzie speaks to ABC News about what led him to investigate one of the biggest financial movements of the decade.",
+      "url": "https://www.abc.net.au/news/2026-08-24/ben-mckenzie-cryptocurrency-bitcoin-documentary-oc-star/107062012",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-23T19:18:21.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/214cbd9eb7cfb66d512c93e8a06b9fbd?impolicy=wcms_crop_resize&cropH=1577&cropW=2803&xPos=0&yPos=437&width=862&height=485",
+      "topic": "经济",
+      "score": 74,
+      "id": "f234f361594e"
+    },
+    {
+      "title": "'I shouldn't be here': Australian murder suspect speaks from Thai prison for first time",
       "summary": "Simon Peter Carman, the Australian man charged with murdering Thai teenager Tunchanok Donhomla, claims in an interview that he acted in self-defence to stop her from stabbing him.",
       "url": "https://www.abc.net.au/news/2026-08-24/australian-murder-suspect-simon-carman-speaks-from-thai-prison/107056966",
       "source": "ABC Australia",
@@ -549,11 +692,11 @@
       "publishedAt": "2026-08-23T19:12:46.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/259df11529e78abc2ad8011e2916a6aa?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=218&width=862&height=485",
       "topic": "社会",
-      "score": 75,
-      "id": "21ac219ed8f9"
+      "score": 74,
+      "id": "d37d2392e2c1"
     },
     {
-      "title": "Climate change and corruption are also driving up interest rates",
+      "title": "Beyond inflation, two looming threats are hitting interest rates",
       "summary": "Typically, bond rates rise when an economy is doing well and inflation appears to be moving up. But something much deeper and more structural is currently going on.",
       "url": "https://www.abc.net.au/news/2026-08-24/climate-change-and-corruption-are-also-driving-up-interest-rates/107068768",
       "source": "ABC Australia",
@@ -562,8 +705,8 @@
       "publishedAt": "2026-08-23T19:00:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/c9ae6ae2ea34a4e08994d0e88f695a04?impolicy=wcms_crop_resize&cropH=1689&cropW=3000&xPos=0&yPos=231&width=862&height=485",
       "topic": "经济",
-      "score": 75,
-      "id": "1448bf3a9904"
+      "score": 74,
+      "id": "3a6d332a4d8e"
     },
     {
       "title": "Albanese to override Queensland to settle AI data centre energy rules",
@@ -575,99 +718,21 @@
       "publishedAt": "2026-08-23T18:53:00.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/e437a705e1f148f3c50a4e48d0dd0008?impolicy=wcms_crop_resize&cropH=4841&cropW=8606&xPos=1&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "f2046e548923"
     },
     {
-      "title": "Dozens of defence insiders now lobbying for the industry, analysis shows",
-      "summary": "New analysis by Four Corners shows the scale of Canberra's revolving door, where former government officials accept lucrative jobs in lobbying or the defence industry.",
-      "url": "https://www.abc.net.au/news/2026-08-24/defence-insiders-now-lobbying-for-industry-analysis-shows/107046326",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-23T18:51:19.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/a61763dfc7f42d991b2dac4da29a1761?impolicy=wcms_crop_resize&cropH=1976&cropW=3512&xPos=0&yPos=0&width=862&height=485",
-      "topic": "政治",
-      "score": 75,
-      "id": "98f24b19a711"
-    },
-    {
-      "title": "Pakistan’s rise as a regional mediator could reshape Middle East diplomacy - analysis",
-      "summary": "Pakistan’s rise as a regional mediator could reshape Middle East diplomacy - analysis &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12bDZ1UF80VU9xNXYzTEVZYVRmVXczcXhZdDVpRlQ1ck1CQnNpM29zNDJkakdmUkRIV3BzTHN1cWtQYW41WGVwX2xLbWowdmJBclpMdFVlWEU5OHp2WjRF?oc=5",
-      "source": "The Jerusalem Post",
-      "feed": "Middle East News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-23T18:34:03.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "aedd172cb9a4"
-    },
-    {
-      "title": "Do you have what it takes to ace this week's history quiz?",
-      "summary": "We'll stretch you with questions on the world's tallest living tree, famous volcanoes, the father of electricity and more.",
-      "url": "https://www.abc.net.au/news/2026-08-24/this-week-in-history-quiz-august-24/107056982",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-23T18:30:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/96565d53f86aedd181d5a70023abd818?impolicy=wcms_crop_resize&cropH=572&cropW=1016&xPos=0&yPos=55&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "e3ecd7bec060"
-    },
-    {
-      "title": "A Hindu deity is the starting point of this mind-expanding new exhibition",
-      "summary": "The Hindu god Vishnu has seven avatars, including a turtle and a boar. All seven feature as part of a new exhibition at the Art Gallery of New South Wales.",
-      "url": "https://www.abc.net.au/news/2026-08-24/avatar-forms-of-vishnu-art-gallery-of-new-south-wales-agnsw/107064596",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-23T18:30:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/b5e8e3a2966ae964c54cf8518f7dd45f?impolicy=wcms_crop_resize&cropH=2250&cropW=4000&xPos=0&yPos=459&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "edf2541264b1"
-    },
-    {
-      "title": "The dos and don'ts of job hunting while still employed",
-      "summary": "Expert advice on how to navigate job hunting and avoid burning bridges if you do find a new job.",
-      "url": "https://www.abc.net.au/news/2026-08-24/dos-donts-of-job-hunting-while-employed/107033504",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-23T18:30:00.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/b5efe3029a367fbe966cc3b076843cec?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "5b665f825536"
-    },
-    {
-      "title": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
-      "summary": "Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
+      "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
+      "summary": "Both countries will suffer from the trade war with steeper tariffs raising business costs and consumer prices.",
+      "url": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "非洲",
-      "publishedAt": "2026-08-23T18:27:46.000Z",
+      "region": "美洲",
+      "publishedAt": "2026-08-23T15:54:36.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "4097982a02f2"
-    },
-    {
-      "title": "Sunday Megwo Joins Etoile du Sahel from Abia Warriors",
-      "summary": "Sunday Megwo Joins Etoile du Sahel from Abia Warriors &nbsp;&nbsp; Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbzFueFlNcE9sOC1fTmRvLU03U3g0NXdDcnd0NkF3T0I3dGhHbGtfamdOQmQ4SWxDb0I0MmtKOW1BTGJKSXFtVVhfdkx1ZUE4YTF5c0ZsczV2M0Y0cHJrckhsaU1VMm53bzdzTWs2M3FQVlRPX1RjbEVKSVJzTUJqYjVzVExJNmVDXzZUZ0JR?oc=5",
-      "source": "Africa Top Sports",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-23T18:12:14.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "911eccd46bdb"
+      "topic": "经济",
+      "score": 74,
+      "id": "c196de9695ca"
     },
     {
       "title": "Gaza families search for children missing after years of war",
@@ -679,7 +744,7 @@
       "publishedAt": "2026-08-23T15:42:04.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "370364eeb644"
     },
     {
@@ -692,86 +757,8 @@
       "publishedAt": "2026-08-23T15:38:16.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "363e89d14302"
-    },
-    {
-      "title": "Nordic FAs lose confidence in FIFA chief Gianni Infantino",
-      "summary": "The six Nordic football associations have announced they have lost confidence in Gianni Infantino - intensifying pressure on the FIFA president.",
-      "url": "https://news.sky.com/story/gianni-infantino-nordic-fas-lose-confidence-in-fifa-chief-and-raise-serious-concerns-13576326",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "全球",
-      "publishedAt": "2026-08-23T15:07:00.000Z",
-      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-infantino-fifa_7312018.jpg?20260801211609",
-      "topic": "政治",
-      "score": 75,
-      "id": "bd3d749792be"
-    },
-    {
-      "title": "Illicit deeds have just gotten a new Halloween video game banned in Australia – and it’s not because of the violence",
-      "summary": "Academics – and a former director of Australia’s Classification Board – say Halloween: The Game’s ban due to ‘incentivised drug use’ highlights an incoherent set of standards Get our breaking news email , free app or daily news podcast Halloween’s Michael Myers is one of film’s most feared boogeymen, responsible for some of the most brutal on-screen deaths i",
-      "url": "https://www.theguardian.com/games/2026/aug/24/michael-myers-halloween-video-game-banned-in-australia-drugs",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-23T15:00:36.000Z",
-      "image": "https://i.guim.co.uk/img/media/2d00d59461704425390fb74429398239f2dbb7e5/239_0_1109_887/master/1109.jpg?width=140&quality=85&auto=format&fit=max&s=96e2fb2af633479c6a2059368579ce41",
-      "topic": "社会",
-      "score": 75,
-      "id": "75eb9c0aa300"
-    },
-    {
-      "title": "Australia’s marine parks protect ‘places no one goes’ rather than fragile coastal zones, scientists say",
-      "summary": "Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystems Get our breaking news email , free app or daily news podcast The Australian government has been accused of leaving coastal waters largely unprotected by establishing the bulk of highly protected marine parks in remote areas. More tha",
-      "url": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-23T15:00:36.000Z",
-      "image": "https://i.guim.co.uk/img/media/472bdde0a67fc8cb423f8306738cb3c5e60ebe82/367_0_3560_2848/master/3560.jpg?width=140&quality=85&auto=format&fit=max&s=61bcba4b08d36892cfc2c2c7a1789d2f",
-      "topic": "政治",
-      "score": 75,
-      "id": "905ebe26e1bf"
-    },
-    {
-      "title": "Australia’s first home buyers are still taking out loans as property investors step back, data shows",
-      "summary": "Exclusive: New entrants the only cohort making more loan applications amid interest rate rises and tax changes, mortgage broker says Get our breaking news email , free app or daily news podcast First home buyers are still taking out a large number of loans, with government backing, even as investors step back from Australia’s property market. New entrants ar",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-23T15:00:35.000Z",
-      "image": "https://i.guim.co.uk/img/media/f720114f68ff0e4cff909f63a65558cec306ba41/916_0_5336_4271/master/5336.jpg?width=140&quality=85&auto=format&fit=max&s=1ce63abf1c21d5bc4ab9ca1052309623",
-      "topic": "政治",
-      "score": 75,
-      "id": "16be73c303e2"
-    },
-    {
-      "title": "‘Absurd’: children to see gambling logos on sports jerseys until 2032 in transition period condemned by Pocock",
-      "summary": "Government says it hopes clubs will end jersey deals with wagering companies earlier, but calls it a commercial decision Get our breaking news email , free app or daily news podcast Children across Australia will continue to see gambling logos on professional sport jerseys until up to 2032 despite the government’s pledge to break the link between sport and w",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-23T15:00:35.000Z",
-      "image": "https://i.guim.co.uk/img/media/655191e186b4f05faaf68e74c6ec6a15265ca8d2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=4787c50b6ca35ecc1d2f1e873a6c5a85",
-      "topic": "政治",
-      "score": 75,
-      "id": "57f34abeedf4"
-    },
-    {
-      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-      "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "亚洲",
-      "publishedAt": "2026-08-23T11:50:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb09/live/98ca1da0-9ee8-11f1-9ebe-a78ab900c4a7.jpg",
-      "topic": "政治",
-      "score": 75,
-      "id": "9298b78b05ff"
     },
     {
       "title": "The Middle-East crisis: Pakistan's army chief to visit Iran with war mediation stalled",
@@ -783,8 +770,47 @@
       "publishedAt": "2026-08-23T11:44:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "44900930b013"
+    },
+    {
+      "title": "FULL LIST: Nigeria, 74 Other Countries Spared as US Court Nullifies Visa Ban",
+      "summary": "FULL LIST: Nigeria, 74 Other Countries Spared as US Court Nullifies Visa Ban &nbsp;&nbsp; Real Broadcasting Network",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaDlfTEFpeHZFVjB2QnY5WmM5VnBReEczTzVvVXdEeTVyUmIwQm5IN0QzXzlTU3pWTXVPM09hV3pDbmI0Vk8tSUNvNF8ydlh2S25sWkx5ck8xVE1pTEg5eldoQnBVQ2JHR1hLbC02SG5YQ0pqMm9zM1NzTy0tdzVaWmZYX3M4X0l1cWxvTHFVOWRocUdEbzRFcUdKa1lMSnBlb3piN0YxN3FFQQ?oc=5",
+      "source": "Real Broadcasting Network",
+      "feed": "Latin America News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-23T18:33:12.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 73,
+      "id": "b58c48d9f2e5"
+    },
+    {
+      "title": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
+      "summary": "Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "非洲",
+      "publishedAt": "2026-08-23T18:27:46.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 73,
+      "id": "4097982a02f2"
+    },
+    {
+      "title": "Sunday Megwo Joins Etoile du Sahel from Abia Warriors",
+      "summary": "Sunday Megwo Joins Etoile du Sahel from Abia Warriors &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbzFueFlNcE9sOC1fTmRvLU03U3g0NXdDcnd0NkF3T0I3dGhHbGtfamdOQmQ4SWxDb0I0MmtKOW1BTGJKSXFtVVhfdkx1ZUE4YTF5c0ZsczV2M0Y0cHJrckhsaU1VMm53bzdzTWs2M3FQVlRPX1RjbEVKSVJzTUJqYjVzVExJNmVDXzZUZ0JR?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-23T18:12:14.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 73,
+      "id": "911eccd46bdb"
     },
     {
       "title": "Zadok Yohanna Makes Historic Premier League Debut for Brighton at 19",
@@ -796,34 +822,21 @@
       "publishedAt": "2026-08-23T18:05:21.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "f96db1232137"
     },
     {
-      "title": "France links sharp rise in drownings to heatwaves",
-      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "欧洲",
-      "publishedAt": "2026-08-23T17:39:33.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46e9/live/b1ac6f30-9f1a-11f1-b2a2-8945a27a2843.jpg",
+      "title": "Nordic FAs lose confidence in FIFA chief Gianni Infantino",
+      "summary": "The six Nordic football associations have announced they have lost confidence in Gianni Infantino - intensifying pressure on the FIFA president.",
+      "url": "https://news.sky.com/story/gianni-infantino-nordic-fas-lose-confidence-in-fifa-chief-and-raise-serious-concerns-13576326",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "全球",
+      "publishedAt": "2026-08-23T15:07:00.000Z",
+      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-infantino-fifa_7312018.jpg?20260801211609",
       "topic": "政治",
-      "score": 74,
-      "id": "d51e81c2f1d6"
-    },
-    {
-      "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
-      "summary": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be temporarily shut down. The incident involved a small-scale energy generator, according to the UK government, which said that at no point was ther",
-      "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-23T14:46:56.000Z",
-      "image": "https://i.guim.co.uk/img/media/677e2019dcd9c7efa20b39c0eef036ad95af750b/376_0_3743_2994/master/3743.jpg?width=140&quality=85&auto=format&fit=max&s=a2b02730588e2b5c0683c795d96a8a59",
-      "topic": "政治",
-      "score": 74,
-      "id": "e3f343a56294"
+      "score": 73,
+      "id": "bd3d749792be"
     },
     {
       "title": "Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide",
@@ -835,8 +848,21 @@
       "publishedAt": "2026-08-23T11:00:32.000Z",
       "image": "https://i.guim.co.uk/img/media/de0eebbd7e69e52f32ac7d863895c935845f2435/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=54302ec8f3bb79e946b3d890e34d6a79",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "e82c8573fbd1"
+    },
+    {
+      "title": "France links sharp rise in drownings to heatwaves",
+      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-08-23T17:39:33.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46e9/live/b1ac6f30-9f1a-11f1-b2a2-8945a27a2843.jpg",
+      "topic": "政治",
+      "score": 72,
+      "id": "d51e81c2f1d6"
     },
     {
       "title": "Iryna Zarutska’s family sues North Carolina city over her murder",
@@ -848,21 +874,8 @@
       "publishedAt": "2026-08-23T17:14:41.000Z",
       "image": "https://i.guim.co.uk/img/media/769e6e552843dfb0d83bf047563162428734abf4/451_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=9e33134ba159efc0d2a2ed5aed2be4d0",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "03adb7471f1f"
-    },
-    {
-      "title": "west asia-geopolitical-crisis",
-      "summary": "west asia-geopolitical-crisis &nbsp;&nbsp; WION",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lcDA3VnBtNnFCc1FOWGY1R3I3bEtEOVp5alRQWGZxbGRaZnRkb1c1MGtiVjc5bmN6TlZ2SU9YNmNVeDY2aGR3X0lUekM2YjNtc1YybE1kb2xBNlZ3OVROVnM1NzhieXJYVHc?oc=5",
-      "source": "WION",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-23T16:36:18.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "39a82ac04bd1"
     },
     {
       "title": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
@@ -874,47 +887,47 @@
       "publishedAt": "2026-08-23T13:50:02.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "144ad26dc3e6"
     },
     {
-      "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
-      "summary": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of 56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
+      "title": "‘We’ll see’: ‘Big Three’ reveal clues over next move as Aussies turn attention to forgotten project",
+      "summary": "‘We’ll see’: ‘Big Three’ reveal clues over next move as Aussies turn attention to forgotten project &nbsp;&nbsp; Fox Sports",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOeGVsY1VCbU9UakdVLWJ6aDRXaWxwRU5FZ2YwMDJzSy15UjBuelh0TzNTLXVrY1NtUUdlRnF5djZNVUdVai1MMnp5OVZyV2dIMGZENTZ4dzlGTHNET3gzR0NPOWdGM3dZSjFUSW9xakNWcFM3X0JKdDNDYVVCVzVoXzV0VlQ3aDJlMzFuODdlYnRsNjR1aERFdEVfWWVrbEpEdlNvRExBRmJWVnJJSmdaeUZCYkR5cmtROFpnSVRRckwzUEZqZFRucVVvRXdmN05URzhyelBtX3JKQ1BKekJNTERNeHRTQ0dfZ1I2b3o4amRvNE85bWdMdHJ3YUVoSUhIcGVMZmFXQjhlanZET1RDc3liTHRzWFg2QnJreF91dEJDaEJlOWtiaVlBTjBnODBDZzZLcjhJOTFqaEIwQ0YtaUw0OFh0d0NzV1lWa05TWkhObXZNS3RpSHhVT25aVTdQTWUtcUVfX1o2c2VMY1VSWmNvVm5TNlM40gH4AkFVX3lxTE54ZWxjVUJtT1RqR1UtYnpoNFdpbHBFTkVnZjAwMnNLLXlSMG56WHRPM1MtdWtjU21RR2VGcXl2Nk1VR1VqLUwyenk5VnJXZ0gwZkQ1Nnh3OUZMc0RPeDNHQ085Z0Yzd1lKMVRJb3FqQ1ZwUzdfQkp0M0NhVUJXNWhfNXRWVDdoMmUzMW44N2VidGw2NHVoREV0RV9ZZWtsSkR2U29ETEFGYlZWcklKZ1p5RkJiRHlya1E4WmdJVFFyTDNQRmpkVG5xVW9Fd2Y3TlRHOHJ6UG1fckpDUEp6Qk1MRE14dFNDR19nUjZvejhqZG80TzltZ0x0cndhRWhJSEhwZUxmYVdCOGVqdkRPVENzeWJMdHNYWDZCcmt4X3V0QkNoQmU5a2JpWUFOMGc4MENnNktyOEk5MWpoQjBDRi1pTDQ4WHR3Q3NXWVZrTlNaSE5tdk1LdGlIeFVPblpVN1BNZS1xRV9fWjZzZUxjVVJaY29WblM2Uzg?oc=5",
+      "source": "Fox Sports",
+      "feed": "Africa News Network",
       "region": "非洲",
-      "publishedAt": "2026-08-23T13:35:06.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e8/live/c52553d0-9ef5-11f1-aed4-af6fe65bfcd6.jpg",
-      "topic": "社会",
-      "score": 73,
-      "id": "ec4c52255e8f"
-    },
-    {
-      "title": "Heavy Israeli air strike hits warehouse in central Gaza",
-      "summary": "Heavy Israeli air strike hits warehouse in central Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-23T13:20:57.000Z",
+      "publishedAt": "2026-08-23T20:01:57.000Z",
       "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "f582720e86a4"
+      "topic": "社会",
+      "score": 71,
+      "id": "a18e61623666"
     },
     {
-      "title": "How A US$50 Million Guyana Push At Hyatt Hotels (H) Has Changed Its Investment Story",
-      "summary": "How A US$50 Million Guyana Push At Hyatt Hotels (H) Has Changed Its Investment Story &nbsp;&nbsp; simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQzI1blpnSzVWcE5tMHN4eEVKTmVjZ21sSGNWVWlwOW5qSHFtbWQtVHlCZC11RnVNYlFyaFFJSWgyajBrVmZOekpoMXZkbEJ3Z2xRQURMU080ZEJPYVNJYUNmaF81OVBpS2NDekZ2YUVGRUpQbWNrNXpST1B4d3JNTG5LZlVpY1phYkw2bXRBOFVSRWRPQTluX3Zsb21tM0R2T1JwRXpNQXpvaUYzRWkwa0ZDd2pOblZRdWFKQXpWakZwMjhKVF9qN1I1N1Qxa2gt0gHWAUFVX3lxTE1jRlgwR192Y3dVU2VDUG9sRnRONloyYjhwR3JsTk5VUjlsSmpVM0dMYVluM0NKRmpoRVJXRVZaS3QxTmpPR0J1cWl5VXdqekZhMDZFV3hxZkllak5HMldQa1p4LXB2c3pYVGVPWmIxdUJKdm81TjhmYllqLVphZmQzQmpCNUJISUFJQUU2SUF5ejJvV25hMlliZF9TWEs5d2owVy05Ql9wdjhid0ljc1cwWUpHUTFXQlFKSUo5YkVxZ1cyMVZ1VTcwXzhkY3BQMGlMVU1qNUE?oc=5",
-      "source": "simplywall.st",
+      "title": "Maradona’s ‘Hand of God’ World Cup Ball Sells for Over €2.8 Million at Auction",
+      "summary": "Maradona’s ‘Hand of God’ World Cup Ball Sells for Over €2.8 Million at Auction &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkp3bFdhaUVWWWV5MHpxcUZtZEtsN1JXZDJHOHBsZnJKcU9vcXhUQndfcDdXNTl2ZHFfVkE1TUpGV2p1ZTZlaURsYS0zUFVWUm1VMXZjQmNXd3czNC1XNHNHT3g5ekZualQ0RWZqSmc4SWNaSXViTm9XTDZBdW52QnlzaGY1UmhtdVNiOGtNdm5ZWWZoNl9SQnhlSnJsdkVyZXVqWjBZb1BUUFk?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-23T19:55:32.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "b644d49bc422"
+    },
+    {
+      "title": "Giant Crocodylians Ruled South America’s Ancient Food Chain",
+      "summary": "Giant Crocodylians Ruled South America’s Ancient Food Chain &nbsp;&nbsp; SciTechDaily",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUE12R2psZ1FjdkhwMUgtNElRYjllQzJ6ZU9lbTVDOUxBTUd3cVdZeVl5eGt0S1N4WnM2Q0s2d0pXdEllTENpTTVrOFJVUHZxRFZ0NVlwTlZ5aUQ0Y1FwU3Z1MFpUZHV2aWNQRmN0aGx5VG1sZ3BnTzlmdXJJODhTMHJFMnl4Q2VQUGYteQ?oc=5",
+      "source": "SciTechDaily",
       "feed": "Latin America News Network",
       "region": "美洲",
-      "publishedAt": "2026-08-23T19:30:00.000Z",
+      "publishedAt": "2026-08-23T19:39:07.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
-      "id": "56c844dc5e5a"
+      "score": 71,
+      "id": "6a1765fd1623"
     },
     {
       "title": "Elche vs Barcelona LIVE: La Liga",
@@ -926,21 +939,8 @@
       "publishedAt": "2026-08-23T16:50:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "ca7106ce8e51"
-    },
-    {
-      "title": "Spain promotes in the EU a tax on the extraordinary profits of oil companies due to the war in Iran",
-      "summary": "Spain promotes in the EU a tax on the extraordinary profits of oil companies due to the war in Iran &nbsp;&nbsp; Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZHkwRmJIbUdBR1h3c2dGSmMySnZkc2tyd2VrSk4yY1RrQXJUVXhaZGl2QWJBeTRLRmhwSGVFemZQRHFqNV9DYVAxamNZX0VxREhMWTM5MWx5NWIyV3d0Q0xaM2EtNHV1bldiOXNPcGgxZVBwSHVJVVcySHk2YXlvNzBhaDg3c2hzUlh2a0locWlNQ1ZucTgzNW51cGZibG9yWmczbDVZZEpnNGZPX09JYUxRaXNUbVNYdFFGTjcxSVVIT19JR1VjRGo1WjBQc2FtOGFXTHBDTEFlUjjSAeABQVVfeXFMT1VVNmt6NDVLaXViMG5PdklnX3FhbzA3TUppTEJmMDhzcVNsVGJCLUJkSzBMcTlsc09VcXNxVVpZWjFDWmNIaUhXaTBxdEpxOGUxNjN6aXF3UV9LYWgzVlVmUnl4NUg0eW9iZG9HTDZGYUdCemd0NjFGUjlwSUgzQld6b1JkZklwRHAzdFJkcDVHSEo5ZWZscVd0ekI0YTVub1hKRGwyWWdVdmhJQUdiaDI5QVdHTk1lUm9vNGR1SktuZFl5NHBoVVBLVEpVRnF2d2hrM1ZNMUR2T3loS3pwZGQ?oc=5",
-      "source": "Demócrata",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-23T15:55:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "e207a34a214f"
     }
   ]
 }
