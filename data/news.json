@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T15:41:03.020Z",
+  "updatedAt": "2026-08-23T16:45:27.218Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -8,16 +8,16 @@
   "items": [
     {
       "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news",
-      "summary": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news &nbsp;&nbsp; KRMG",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTE9GRVplX1NlYVRYZEtReUc2bTVTQ3MzY1RWLUhNSHBOQkh0MGZvamtzNndWQVUyeHlzMHhvQThhRl9WVG9COWg5VmFuLVhhRFB5V2tIc2Jnd3diWU9kaXlfSDN1NVpJU3pISF9XY0xsZVRFMUNUakp2TUtPcG40ZTlQQ1ZyMUk5UWd6VmNPSDhYN2hVM05ickxBbjU2ZUxBdEZZQmpDeDh0OTVXX29XQTFJS3B2Vmd0TnFtSE4xVQ?oc=5",
-      "source": "KRMG",
+      "summary": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news &nbsp;&nbsp; The Joplin Globe",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZkdadHYtdEsxWW52bU93b0lRbjBTYlpyLXdOWDhaQlFNY19OamZXMXktbVFhMDRqWXZvYWZobnRwa3g3dlBfd2d5TmdWWW5ORXZQbG5SeThCWDJlSXMxYjhEY2tCUkNhb1VjSktWMXR1Ym1zN0dXclBFUGJSa05LalQ3VDhQZFpQMVBhcUNwOXEyUlc1RHQ2MlJMUTUzc1VUQ3JwOXd4cDdCTWRuWkpXT1R0Znh6dzgtSE1nM3VWaHdQYlN1eVhtVlp3d0ZRekJPa0pKQjBlVDg2VGhZUlVGM2k3S1Zha2x1R185NVFLMFE1YmZaLU5tbkJldnE1R00tUGJfN2JHSzFNVzR4?oc=5",
+      "source": "The Joplin Globe",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-23T14:09:22.000Z",
+      "publishedAt": "2026-08-23T14:56:26.000Z",
       "image": "",
       "topic": "政治",
       "score": 95,
-      "id": "c26f551d2b7e"
+      "id": "f163346464f6"
     },
     {
       "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
@@ -29,21 +29,8 @@
       "publishedAt": "2026-08-23T15:25:47.000Z",
       "image": "",
       "topic": "政治",
-      "score": 89,
-      "id": "e1ee015507e6"
-    },
-    {
-      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
-      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: “Canada ",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "美洲",
-      "publishedAt": "2026-08-23T11:00:16.000Z",
-      "image": "https://i.guim.co.uk/img/media/b1fc5227ab8b91635aa6bdd84b88df0711c4cc64/200_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=1c8269f0891cb49afd4197177c4b7e56",
-      "topic": "政治",
       "score": 88,
-      "id": "ba461fba4435"
+      "id": "e1ee015507e6"
     },
     {
       "title": "Zelenskyy rejects plea for wartime presidential election",
@@ -55,8 +42,21 @@
       "publishedAt": "2026-08-23T14:12:57.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/d566b904bb6438626a2997dea62cb250?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=257&width=862&height=485",
       "topic": "政治",
-      "score": 87,
+      "score": 86,
       "id": "ad02b584d69c"
+    },
+    {
+      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: “Canada ",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "美洲",
+      "publishedAt": "2026-08-23T11:00:16.000Z",
+      "image": "https://i.guim.co.uk/img/media/b1fc5227ab8b91635aa6bdd84b88df0711c4cc64/200_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=1c8269f0891cb49afd4197177c4b7e56",
+      "topic": "政治",
+      "score": 86,
+      "id": "ba461fba4435"
     },
     {
       "title": "Iran president says nation has 'many problems' due to sanctions",
@@ -68,7 +68,7 @@
       "publishedAt": "2026-08-23T10:39:30.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/887e2b8e33eee224e28d571c18904f0f?impolicy=wcms_crop_resize&cropH=1434&cropW=2550&xPos=0&yPos=24&width=862&height=485",
       "topic": "政治",
-      "score": 87,
+      "score": 86,
       "id": "84b46a0f3442"
     },
     {
@@ -81,7 +81,7 @@
       "publishedAt": "2026-08-23T12:19:12.000Z",
       "image": "",
       "topic": "政治",
-      "score": 85,
+      "score": 84,
       "id": "f97120652c69"
     },
     {
@@ -94,7 +94,7 @@
       "publishedAt": "2026-08-23T11:50:22.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "ea7bec0b8f96"
     },
     {
@@ -107,7 +107,7 @@
       "publishedAt": "2026-08-23T11:50:12.000Z",
       "image": "https://i.guim.co.uk/img/media/125d91e786f9cb71270d91c213096e4a92d6289b/638_0_3065_2451/master/3065.jpg?width=140&quality=85&auto=format&fit=max&s=35c300c1bd3c78cd1fcf6d5bc7760f0d",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "5e4bc3daed14"
     },
     {
@@ -120,7 +120,7 @@
       "publishedAt": "2026-08-23T13:56:11.000Z",
       "image": "https://i.guim.co.uk/img/media/12b06c48e7e64060343fb59c63ad213067e6e1a8/487_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a5ed26f316d4a3891026e9e78f124b8b",
       "topic": "政治",
-      "score": 83,
+      "score": 81,
       "id": "7c31833497cc"
     },
     {
@@ -133,21 +133,34 @@
       "publishedAt": "2026-08-23T13:37:50.000Z",
       "image": "",
       "topic": "政治",
-      "score": 82,
+      "score": 81,
       "id": "6b2b79d73f82"
     },
     {
-      "title": "South Africa’s former boxing champion Tete shot dead outside home",
-      "summary": "South Africa's former boxing champion Tete shot dead outside home",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/south-africas-former-boxing-champion-tete-shot-dead-outside-home?traffic_source=rss",
+      "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
+      "summary": "Energy, regional conflicts, and bilateral cooperation to dominate Emmanuel Macron and Mohammed bin Salman's discussions.",
+      "url": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
-      "region": "非洲",
-      "publishedAt": "2026-08-23T10:39:30.000Z",
+      "region": "中东",
+      "publishedAt": "2026-08-23T16:12:55.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 82,
-      "id": "2f42d7d0e7cb"
+      "topic": "政治",
+      "score": 80,
+      "id": "baf95b496486"
+    },
+    {
+      "title": "Can Nigeria cash in on Iran war?",
+      "summary": "Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production.",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-23T16:07:01.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 80,
+      "id": "6e73b55b7f36"
     },
     {
       "title": "Dozens of attacks in southern Thailand wound three people",
@@ -159,7 +172,7 @@
       "publishedAt": "2026-08-23T13:08:37.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "91a430669622"
     },
     {
@@ -172,8 +185,21 @@
       "publishedAt": "2026-08-23T12:56:43.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "30f87ff06fe2"
+    },
+    {
+      "title": "South Africa’s former boxing champion Tete shot dead outside home",
+      "summary": "South Africa's former boxing champion Tete shot dead outside home",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/south-africas-former-boxing-champion-tete-shot-dead-outside-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "非洲",
+      "publishedAt": "2026-08-23T10:39:30.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 80,
+      "id": "2f42d7d0e7cb"
     },
     {
       "title": "Middle East live: Iran's president says country facing 'many problems' as US sanctions loom",
@@ -185,8 +211,47 @@
       "publishedAt": "2026-08-23T09:23:01.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "a0eebe52655e"
+    },
+    {
+      "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
+      "summary": "Both countries will suffer from the trade war with steeper tariffs raising business costs and consumer prices.",
+      "url": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "美洲",
+      "publishedAt": "2026-08-23T15:54:36.000Z",
+      "image": "",
+      "topic": "经济",
+      "score": 79,
+      "id": "c196de9695ca"
+    },
+    {
+      "title": "Gaza families search for children missing after years of war",
+      "summary": "Families in Gaza continue searching for children and relatives missing in the war.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-23T15:42:04.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "370364eeb644"
+    },
+    {
+      "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
+      "summary": "Prices for food and other items are soaring, and there is a history of unrest, so any increase is being considered.",
+      "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-23T15:38:16.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "363e89d14302"
     },
     {
       "title": "Illicit deeds have just gotten a new Halloween video game banned in Australia – and it’s not because of the violence",
@@ -198,7 +263,7 @@
       "publishedAt": "2026-08-23T15:00:36.000Z",
       "image": "https://i.guim.co.uk/img/media/2d00d59461704425390fb74429398239f2dbb7e5/239_0_1109_887/master/1109.jpg?width=140&quality=85&auto=format&fit=max&s=96e2fb2af633479c6a2059368579ce41",
       "topic": "社会",
-      "score": 80,
+      "score": 78,
       "id": "75eb9c0aa300"
     },
     {
@@ -211,7 +276,7 @@
       "publishedAt": "2026-08-23T15:00:36.000Z",
       "image": "https://i.guim.co.uk/img/media/472bdde0a67fc8cb423f8306738cb3c5e60ebe82/367_0_3560_2848/master/3560.jpg?width=140&quality=85&auto=format&fit=max&s=61bcba4b08d36892cfc2c2c7a1789d2f",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "905ebe26e1bf"
     },
     {
@@ -224,7 +289,7 @@
       "publishedAt": "2026-08-23T15:00:35.000Z",
       "image": "https://i.guim.co.uk/img/media/f720114f68ff0e4cff909f63a65558cec306ba41/916_0_5336_4271/master/5336.jpg?width=140&quality=85&auto=format&fit=max&s=1ce63abf1c21d5bc4ab9ca1052309623",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "16be73c303e2"
     },
     {
@@ -237,21 +302,8 @@
       "publishedAt": "2026-08-23T15:00:35.000Z",
       "image": "https://i.guim.co.uk/img/media/655191e186b4f05faaf68e74c6ec6a15265ca8d2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=4787c50b6ca35ecc1d2f1e873a6c5a85",
       "topic": "政治",
-      "score": 80,
+      "score": 78,
       "id": "57f34abeedf4"
-    },
-    {
-      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-      "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "亚洲",
-      "publishedAt": "2026-08-23T11:50:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb09/live/98ca1da0-9ee8-11f1-9ebe-a78ab900c4a7.jpg",
-      "topic": "政治",
-      "score": 80,
-      "id": "9298b78b05ff"
     },
     {
       "title": "Boys aged 16 and 17 among seven people dead in A66 crash that killed two police officers",
@@ -263,7 +315,7 @@
       "publishedAt": "2026-08-23T14:53:13.000Z",
       "image": "https://i.guim.co.uk/img/media/5caadd57e45c6e70b308c84a1406e0d3055fae1c/0_0_4920_3936/master/4920.jpg?width=140&quality=85&auto=format&fit=max&s=c51e9e06ad9d7922baad22fbb7cbf146",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "acf1ed9ab942"
     },
     {
@@ -276,8 +328,21 @@
       "publishedAt": "2026-08-23T14:46:56.000Z",
       "image": "https://i.guim.co.uk/img/media/677e2019dcd9c7efa20b39c0eef036ad95af750b/376_0_3743_2994/master/3743.jpg?width=140&quality=85&auto=format&fit=max&s=a2b02730588e2b5c0683c795d96a8a59",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "e3f343a56294"
+    },
+    {
+      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+      "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "亚洲",
+      "publishedAt": "2026-08-23T11:50:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb09/live/98ca1da0-9ee8-11f1-9ebe-a78ab900c4a7.jpg",
+      "topic": "政治",
+      "score": 78,
+      "id": "9298b78b05ff"
     },
     {
       "title": "Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide",
@@ -289,7 +354,7 @@
       "publishedAt": "2026-08-23T11:00:32.000Z",
       "image": "https://i.guim.co.uk/img/media/de0eebbd7e69e52f32ac7d863895c935845f2435/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=54302ec8f3bb79e946b3d890e34d6a79",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "e82c8573fbd1"
     },
     {
@@ -302,7 +367,7 @@
       "publishedAt": "2026-08-23T11:00:18.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "c771eae2bb09"
     },
     {
@@ -315,34 +380,8 @@
       "publishedAt": "2026-08-23T13:50:02.000Z",
       "image": "",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "144ad26dc3e6"
-    },
-    {
-      "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
-      "summary": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of 56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "非洲",
-      "publishedAt": "2026-08-23T13:35:06.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e8/live/c52553d0-9ef5-11f1-aed4-af6fe65bfcd6.jpg",
-      "topic": "社会",
-      "score": 78,
-      "id": "ec4c52255e8f"
-    },
-    {
-      "title": "Arrest warrant issued for wife of Massachusetts officer found dead at home",
-      "summary": "Woman remains missing more than five days after police found officer she was married to dead in their home An arrest warrant has been issued for a mental health advocate who remained missing on Sunday, more than five days after police found the Massachusetts officer she had been married to dead in their home. Karen Solomon, 58, was last spotted in a doorbell",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/massachusetts-officer-death-home-wife-arrest-warrant",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-23T13:25:20.000Z",
-      "image": "https://i.guim.co.uk/img/media/2b4a48951f37b3c7ff5030ab3244672ef31ccca4/88_0_876_701/master/876.jpg?width=140&quality=85&auto=format&fit=max&s=a22adcf4f4f023fd6c9c2b5559c83cc3",
-      "topic": "政治",
-      "score": 78,
-      "id": "9029b33e2128"
     },
     {
       "title": "Sydney shark attack victim reflects on 'second chance at life'",
@@ -354,7 +393,7 @@
       "publishedAt": "2026-08-23T10:26:49.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/dc7042d21fb45dff709efe3a12e35f70?impolicy=wcms_crop_resize&cropH=2109&cropW=3750&xPos=0&yPos=1101&width=862&height=485",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "73115a615b65"
     },
     {
@@ -367,21 +406,34 @@
       "publishedAt": "2026-08-23T10:22:37.000Z",
       "image": "",
       "topic": "科技",
-      "score": 78,
+      "score": 77,
       "id": "9d2a9935a0c5"
     },
     {
-      "title": "Against the wind: despite Trump’s attacks, unions are fighting for good US clean energy jobs",
-      "summary": "Since Hurricane Sandy in 2012, a growing labor movement has addressed the climate crisis and economic inequality Ryan McElroen had spent years repairing the New York City subway underground when he got the opportunity to work in the middle of the ocean. “I had no views other than the darkness at work,” he said. “Then I went polar opposite.” Continue reading.",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
+      "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
+      "summary": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of 56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "非洲",
+      "publishedAt": "2026-08-23T13:35:06.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e8/live/c52553d0-9ef5-11f1-aed4-af6fe65bfcd6.jpg",
+      "topic": "社会",
+      "score": 76,
+      "id": "ec4c52255e8f"
+    },
+    {
+      "title": "Arrest warrant issued for wife of Massachusetts officer found dead at home",
+      "summary": "Woman remains missing more than five days after police found officer she was married to dead in their home An arrest warrant has been issued for a mental health advocate who remained missing on Sunday, more than five days after police found the Massachusetts officer she had been married to dead in their home. Karen Solomon, 58, was last spotted in a doorbell",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/massachusetts-officer-death-home-wife-arrest-warrant",
       "source": "The Guardian",
       "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-23T10:00:30.000Z",
-      "image": "https://i.guim.co.uk/img/media/9a6f8fa4a0f7dbfac1448d1bddefca433188a2e4/900_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=d3ef62b1c8c600008d4d46948f0224ca",
-      "topic": "气候",
-      "score": 78,
-      "id": "fbc03b1083be"
+      "region": "大洋洲",
+      "publishedAt": "2026-08-23T13:25:20.000Z",
+      "image": "https://i.guim.co.uk/img/media/2b4a48951f37b3c7ff5030ab3244672ef31ccca4/88_0_876_701/master/876.jpg?width=140&quality=85&auto=format&fit=max&s=a22adcf4f4f023fd6c9c2b5559c83cc3",
+      "topic": "政治",
+      "score": 76,
+      "id": "9029b33e2128"
     },
     {
       "title": "Heavy Israeli air strike hits warehouse in central Gaza",
@@ -393,21 +445,47 @@
       "publishedAt": "2026-08-23T13:20:57.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "f582720e86a4"
     },
     {
-      "title": "Double jeopardy? Luigi Mangione state case unlikely to proceed, experts say",
-      "summary": "Defense files motion to dismiss state case after federal guilty plea but prosecutors say they are prepared to litigate After Luigi Mangione admitted in Manhattan federal court that he killed UnitedHealthcare CEO Brian Thompson, most experts believe that the state murder case against is highly unlikely to proceed – though some still see a slim possibility tha",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/luigi-mangione-state-case-brian-thompson",
+      "title": "Against the wind: despite Trump’s attacks, unions are fighting for good US clean energy jobs",
+      "summary": "Since Hurricane Sandy in 2012, a growing labor movement has addressed the climate crisis and economic inequality Ryan McElroen had spent years repairing the New York City subway underground when he got the opportunity to work in the middle of the ocean. “I had no views other than the darkness at work,” he said. “Then I went polar opposite.” Continue reading.",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "全球",
-      "publishedAt": "2026-08-23T12:00:32.000Z",
-      "image": "https://i.guim.co.uk/img/media/478b5740417490d2f3f53db350ed47d6120d4612/150_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=0b8f2cc3cea031024a858d9b41696c1f",
-      "topic": "政治",
+      "publishedAt": "2026-08-23T10:00:30.000Z",
+      "image": "https://i.guim.co.uk/img/media/9a6f8fa4a0f7dbfac1448d1bddefca433188a2e4/900_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=d3ef62b1c8c600008d4d46948f0224ca",
+      "topic": "气候",
       "score": 76,
-      "id": "c6a4a2a08d81"
+      "id": "fbc03b1083be"
+    },
+    {
+      "title": "Spain promotes in the EU a tax on the extraordinary profits of oil companies due to the war in Iran",
+      "summary": "Spain promotes in the EU a tax on the extraordinary profits of oil companies due to the war in Iran &nbsp;&nbsp; Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZHkwRmJIbUdBR1h3c2dGSmMySnZkc2tyd2VrSk4yY1RrQXJUVXhaZGl2QWJBeTRLRmhwSGVFemZQRHFqNV9DYVAxamNZX0VxREhMWTM5MWx5NWIyV3d0Q0xaM2EtNHV1bldiOXNPcGgxZVBwSHVJVVcySHk2YXlvNzBhaDg3c2hzUlh2a0locWlNQ1ZucTgzNW51cGZibG9yWmczbDVZZEpnNGZPX09JYUxRaXNUbVNYdFFGTjcxSVVIT19JR1VjRGo1WjBQc2FtOGFXTHBDTEFlUjjSAeABQVVfeXFMT1VVNmt6NDVLaXViMG5PdklnX3FhbzA3TUppTEJmMDhzcVNsVGJCLUJkSzBMcTlsc09VcXNxVVpZWjFDWmNIaUhXaTBxdEpxOGUxNjN6aXF3UV9LYWgzVlVmUnl4NUg0eW9iZG9HTDZGYUdCemd0NjFGUjlwSUgzQld6b1JkZklwRHAzdFJkcDVHSEo5ZWZscVd0ekI0YTVub1hKRGwyWWdVdmhJQUdiaDI5QVdHTk1lUm9vNGR1SktuZFl5NHBoVVBLVEpVRnF2d2hrM1ZNMUR2T3loS3pwZGQ?oc=5",
+      "source": "Demócrata",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-23T15:55:00.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "e207a34a214f"
+    },
+    {
+      "title": "Thousands struggling without power in Indiana 12 days after severe storms",
+      "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+      "url": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "亚洲",
+      "publishedAt": "2026-08-23T15:54:32.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92c/live/de9d69e0-9e70-11f1-a291-b542ee92de7c.jpg",
+      "topic": "气候",
+      "score": 75,
+      "id": "ff5df55008c1"
     },
     {
       "title": "The Middle-East crisis: Pakistan's army chief to visit Iran with war mediation stalled",
@@ -419,7 +497,7 @@
       "publishedAt": "2026-08-23T11:44:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "44900930b013"
     },
     {
@@ -432,7 +510,7 @@
       "publishedAt": "2026-08-23T05:46:43.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
       "topic": "经济",
-      "score": 76,
+      "score": 75,
       "id": "fd2661da3dab"
     },
     {
@@ -445,7 +523,7 @@
       "publishedAt": "2026-08-23T15:00:37.000Z",
       "image": "https://i.guim.co.uk/img/media/0f06402ec28db55546af8c6a6eb2ccae3ed6fcd2/550_0_6105_4884/master/6105.jpg?width=140&quality=85&auto=format&fit=max&s=c109fbe165543474583dc6abeb340a24",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "bc8925d3e283"
     },
     {
@@ -458,34 +536,21 @@
       "publishedAt": "2026-08-23T15:00:17.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dc9/live/a89a9c70-9eff-11f1-aed2-8d6da8d75094.jpg",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "e9b2f1cdbf9f"
     },
     {
-      "title": "Iranian worker’s suicide attempt exposes Islamic regime's economic crisis, expert says",
-      "summary": "Iranian worker’s suicide attempt exposes Islamic regime's economic crisis, expert says &nbsp;&nbsp; The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uRWpZUGNrOTM5aF85UGctQXJFVnBiWWdPUHp5QktERmFZN2R0N2pUWU14X2RsOXY4cVRMSTl5Z3I5QnRvQ0tpQzk4Qm55QWJRRDFFQXdNeEpfWk40SjhObldwR0k1ZDBIcHc?oc=5",
-      "source": "The Jerusalem Post",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-23T14:35:09.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "67fe71847117"
-    },
-    {
-      "title": "Former Abercrombie CEO mentally fit for sex-trafficking trial, judge says",
-      "summary": "Michael Jeffries is ruled mentally competent to stand trial after being hospitalized for months for dementia symptoms The former CEO of Abercrombie & Fitch has been ruled mentally competent to stand trial as he faces sex-trafficking charges after being hospitalized for months for dementia and Alzheimer’s symptoms. Michael Jeffries, who is 82 and free on bond",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/ex-abercrombie-ceo-mentally-fit-sex-trafficking-trial",
+      "title": "Double jeopardy? Luigi Mangione state case unlikely to proceed, experts say",
+      "summary": "Defense files motion to dismiss state case after federal guilty plea but prosecutors say they are prepared to litigate After Luigi Mangione admitted in Manhattan federal court that he killed UnitedHealthcare CEO Brian Thompson, most experts believe that the state murder case against is highly unlikely to proceed – though some still see a slim possibility tha",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/luigi-mangione-state-case-brian-thompson",
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "全球",
-      "publishedAt": "2026-08-23T14:32:56.000Z",
-      "image": "https://i.guim.co.uk/img/media/fed1198d76e876d2f753627abec5dc0130e170cc/254_0_2543_2035/master/2543.jpg?width=140&quality=85&auto=format&fit=max&s=f03a234d8159c35d9313c1c683fd504c",
-      "topic": "社会",
-      "score": 75,
-      "id": "6010245358b6"
+      "publishedAt": "2026-08-23T12:00:32.000Z",
+      "image": "https://i.guim.co.uk/img/media/478b5740417490d2f3f53db350ed47d6120d4612/150_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=0b8f2cc3cea031024a858d9b41696c1f",
+      "topic": "政治",
+      "score": 74,
+      "id": "c6a4a2a08d81"
     },
     {
       "title": "Sydney Marathon organisers not running away from ‘unfortunate’ medal error",
@@ -497,21 +562,8 @@
       "publishedAt": "2026-08-23T11:44:18.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "020eebcf7a68"
-    },
-    {
-      "title": "Iran Threatens Action Against Countries Joining US Economic Campaign | U.S - Iran War",
-      "summary": "Iran Threatens Action Against Countries Joining US Economic Campaign | U.S - Iran War &nbsp;&nbsp; WION",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUTl1LTFENV9oOTFFajBjbGhyUXFjOVZEc3pkUUFMWU5YOGlrak55ckhYR01xSGRRTmtHOFQxYnBETUVXUi04QkRacjI3bzlsYmZzZ0tZZElPdDdJeERkSk5vbGhDWnUxMmMyR3ljS0RDcm9Ta09uSk90MFFjdGRZRk0wLU50UFBFRHFmYk1JbTZsN295NnVzYXNsY2hKMnhDd0ZaTHByZEc4VmwxMnRlTW92VzdkanlUR1NtNnFuUkJURlIt0gHKAUFVX3lxTE91YU4zNHlFZE03UlEzT3RSS1BiN245M1R1WVlITkVrU3ptTU5YQ3RfakZmdzdrd2twcnliZkN1UEZpSWZ1ZVA1NzVwS3kzaDZCYWM3RDA5azhVT29FR3duTTFHWEhVWXdsTEtaRVpZd29URWNYQnNXSnYyWE5RRTl0bWlYNVNvaFdFY0l4S2FzZVY1WEZIQlMzOExkWlpqcHpUSUZCdHUwVzFOMFB4b2h6UXNMX3otNTgyN0pZTE00SHNLU2YzQzJnbVE?oc=5",
-      "source": "WION",
-      "feed": "Asia News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-23T11:01:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "418fd8fce7fe"
     },
     {
       "title": "Girl, 17, killed in Swedish sword attack, police say",
@@ -523,8 +575,21 @@
       "publishedAt": "2026-08-23T01:34:15.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4961/live/739e15f0-9e92-11f1-ab7f-1982e3129a69.jpg",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "c02d5b77ce6d"
+    },
+    {
+      "title": "Former Abercrombie CEO mentally fit for sex-trafficking trial, judge says",
+      "summary": "Michael Jeffries is ruled mentally competent to stand trial after being hospitalized for months for dementia symptoms The former CEO of Abercrombie & Fitch has been ruled mentally competent to stand trial as he faces sex-trafficking charges after being hospitalized for months for dementia and Alzheimer’s symptoms. Michael Jeffries, who is 82 and free on bond",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/ex-abercrombie-ceo-mentally-fit-sex-trafficking-trial",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-23T14:32:56.000Z",
+      "image": "https://i.guim.co.uk/img/media/fed1198d76e876d2f753627abec5dc0130e170cc/254_0_2543_2035/master/2543.jpg?width=140&quality=85&auto=format&fit=max&s=f03a234d8159c35d9313c1c683fd504c",
+      "topic": "社会",
+      "score": 73,
+      "id": "6010245358b6"
     },
     {
       "title": "CrossCountry cancels almost all rail services after power cut hits control centre",
@@ -536,7 +601,7 @@
       "publishedAt": "2026-08-23T14:25:18.000Z",
       "image": "https://i.guim.co.uk/img/media/4677f07b7d2142f63297aa80be64a50e0ff8ea70/475_37_3877_3104/master/3877.jpg?width=140&quality=85&auto=format&fit=max&s=a9cba5ab166a1947bf146a08ccef337d",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "ebffb48ca9e9"
     },
     {
@@ -549,21 +614,8 @@
       "publishedAt": "2026-08-23T14:17:18.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "232b4475369e"
-    },
-    {
-      "title": "Burnham stays away from No 10 North wedding after bride’s plea",
-      "summary": "PM sends video message to newlyweds instead after bride Sarah Burwin asked him not to ‘ruin’ vibe at Heron House Andy Burnham fulfilled a bride’s wishes by not turning up for her wedding after she asked him not to spoil her big day as she got married at the building housing No 10 North. Sarah Burwin had pleaded on TikTok in July for Burnham not to work from ",
-      "url": "https://www.theguardian.com/politics/2026/aug/23/burnham-stays-away-from-no-10-north-wedding-after-brides-plea",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-23T13:56:40.000Z",
-      "image": "https://i.guim.co.uk/img/media/28ce282dad72f048044a593d5d1cc06c6a2da37f/1077_1269_1948_1559/master/1948.jpg?width=140&quality=85&auto=format&fit=max&s=a3d3de7e5da040fd335e434226f414c2",
-      "topic": "经济",
-      "score": 74,
-      "id": "3b7385df2c68"
     },
     {
       "title": "Fuel excise cuts cannot go on indefinitely, Enterprise Minister says",
@@ -575,21 +627,21 @@
       "publishedAt": "2026-08-23T13:49:54.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "8539524878a0"
     },
     {
-      "title": "Norwegian Spirit Charts 2028 South Pacific and Hawaii Voyages",
-      "summary": "Norwegian Spirit Charts 2028 South Pacific and Hawaii Voyages &nbsp;&nbsp; thetraveler.org",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTW9zTk1CUkNXNU5JSDBGUEo5RVpNTy1oVG5HSDRfU1hWdXhmbnRSTXd6eXljT2lZX290NkExZ2VoU0U0bXItc3NUamJCYzBobE1PdzdIWDN5b284bG5OMGtiTEZzajJlRVRsb1JNaTlVWnpKSGdXM24yaGVxeFhTeFhFQkpWamRYdnQ2YmM4LTY1LWY2?oc=5",
-      "source": "thetraveler.org",
-      "feed": "Pacific News Network",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-23T13:45:40.000Z",
+      "title": "Iran Threatens Action Against Countries Joining US Economic Campaign | U.S - Iran War",
+      "summary": "Iran Threatens Action Against Countries Joining US Economic Campaign | U.S - Iran War &nbsp;&nbsp; WION",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUTl1LTFENV9oOTFFajBjbGhyUXFjOVZEc3pkUUFMWU5YOGlrak55ckhYR01xSGRRTmtHOFQxYnBETUVXUi04QkRacjI3bzlsYmZzZ0tZZElPdDdJeERkSk5vbGhDWnUxMmMyR3ljS0RDcm9Ta09uSk90MFFjdGRZRk0wLU50UFBFRHFmYk1JbTZsN295NnVzYXNsY2hKMnhDd0ZaTHByZEc4VmwxMnRlTW92VzdkanlUR1NtNnFuUkJURlIt?oc=5",
+      "source": "WION",
+      "feed": "Asia News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-23T11:01:00.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "5a2d9a6fc112"
+      "topic": "政治",
+      "score": 73,
+      "id": "418fd8fce7fe"
     },
     {
       "title": "Syria’s foreign minister says door open for diplomacy with Israel",
@@ -601,8 +653,47 @@
       "publishedAt": "2026-08-23T10:48:55.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "842016457fd6"
+    },
+    {
+      "title": "Junior Asia Cup 2026: Indian Junior Hockey Team Leaves for China, Final Preparations Begin",
+      "summary": "Junior Asia Cup 2026: Indian Junior Hockey Team Leaves for China, Final Preparations Begin &nbsp;&nbsp; Punjab Newsline",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSmFPY042ejdXRzhDemZyeGs2eF8zUHVsSUtuOFVtQV84SGNlaWp2ZV9OcUhSc25Sdk96eENCME5hRHdNTjB2dmdQN2paUW5lMV8zWVFfM253enFLb0RlLTdfMW5jamtIeHFYZzZQM3pjb1VjeGNIRTRMM3M5T3h4N0lxamwxa2RrYlJBbVhIY0ZUOFhSMkJwTjlRMnJUYTNlMTVPRDYxeUtCY09XYmhTNWltc3VBZ1ZLeTJoOFpfZ0E5UQ?oc=5",
+      "source": "Punjab Newsline",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-23T16:24:19.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "ec41fd26616b"
+    },
+    {
+      "title": "Burnham stays away from No 10 North wedding after bride’s plea",
+      "summary": "PM sends video message to newlyweds instead after bride Sarah Burwin asked him not to ‘ruin’ vibe at Heron House Andy Burnham fulfilled a bride’s wishes by not turning up for her wedding after she asked him not to spoil her big day as she got married at the building housing No 10 North. Sarah Burwin had pleaded on TikTok in July for Burnham not to work from ",
+      "url": "https://www.theguardian.com/politics/2026/aug/23/burnham-stays-away-from-no-10-north-wedding-after-brides-plea",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-23T13:56:40.000Z",
+      "image": "https://i.guim.co.uk/img/media/28ce282dad72f048044a593d5d1cc06c6a2da37f/1077_1269_1948_1559/master/1948.jpg?width=140&quality=85&auto=format&fit=max&s=a3d3de7e5da040fd335e434226f414c2",
+      "topic": "经济",
+      "score": 72,
+      "id": "3b7385df2c68"
+    },
+    {
+      "title": "Norwegian Spirit Charts 2028 South Pacific and Hawaii Voyages",
+      "summary": "Norwegian Spirit Charts 2028 South Pacific and Hawaii Voyages &nbsp;&nbsp; thetraveler.org",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTW9zTk1CUkNXNU5JSDBGUEo5RVpNTy1oVG5HSDRfU1hWdXhmbnRSTXd6eXljT2lZX290NkExZ2VoU0U0bXItc3NUamJCYzBobE1PdzdIWDN5b284bG5OMGtiTEZzajJlRVRsb1JNaTlVWnpKSGdXM24yaGVxeFhTeFhFQkpWamRYdnQ2YmM4LTY1LWY2?oc=5",
+      "source": "thetraveler.org",
+      "feed": "Pacific News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-23T13:45:40.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "5a2d9a6fc112"
     },
     {
       "title": "Chelsea preview: Five key talking points for 2026-27 Premier League season",
@@ -614,8 +705,21 @@
       "publishedAt": "2026-08-23T13:33:39.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "997a582225e9"
+    },
+    {
+      "title": "Harry and Meghan's return from California exile a major royal plot twist",
+      "summary": "Prince Harry and his wife, Meghan, are relocating to the UK, breaking a historic parallel frequently drawn between them and King Edward VIII and Wallis Simpson.",
+      "url": "https://www.abc.net.au/news/2026-08-23/harry-and-meghan-and-the-royals-who-stepped-away-from-the-crown/107057976",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-23T03:00:55.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d4ecde06c0cbfc4bd238128b6db0c7d9?impolicy=wcms_crop_resize&cropH=2433&cropW=4325&xPos=0&yPos=154&width=862&height=485",
+      "topic": "政治",
+      "score": 72,
+      "id": "96994ec293a6"
     },
     {
       "title": "AI fraud costing victims millions of dollars",
@@ -627,7 +731,7 @@
       "publishedAt": "2026-08-23T13:08:06.000Z",
       "image": "",
       "topic": "科技",
-      "score": 73,
+      "score": 71,
       "id": "4f3eaa690e21"
     },
     {
@@ -640,47 +744,8 @@
       "publishedAt": "2026-08-23T13:01:11.000Z",
       "image": "https://i.guim.co.uk/img/media/3cc98ed45264c41995eb0d07bc84e2fcc0aa9201/234_0_2694_2155/master/2694.jpg?width=140&quality=85&auto=format&fit=max&s=e9523f0d2db064e000d2040995281958",
       "topic": "政治",
-      "score": 73,
+      "score": 71,
       "id": "03439fa66924"
-    },
-    {
-      "title": "How the deadliest Bundibugyo Ebola outbreak can be stopped",
-      "summary": "The priorities are clear: reach every affected area, protect frontline workers, and turn commitments into action.",
-      "url": "https://www.aljazeera.com/opinions/2026/8/23/how-the-deadliest-bundibugyo-ebola-outbreak-can-be-stopped?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-23T10:00:20.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "350d4d47f276"
-    },
-    {
-      "title": "Israel kills 3 Palestinians, including four-year-old child, in central Gaza",
-      "summary": "Air attack on az-Zawayda town kills two Palestinians, while another strike kills one person in Nuseirat refugee camp.",
-      "url": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-23T09:43:47.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "ef0b18f6cf10"
-    },
-    {
-      "title": "Harry and Meghan's return from California exile a major royal plot twist",
-      "summary": "Prince Harry and his wife, Meghan, are relocating to the UK, breaking a historic parallel frequently drawn between them and King Edward VIII and Wallis Simpson.",
-      "url": "https://www.abc.net.au/news/2026-08-23/harry-and-meghan-and-the-royals-who-stepped-away-from-the-crown/107057976",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-23T03:00:55.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d4ecde06c0cbfc4bd238128b6db0c7d9?impolicy=wcms_crop_resize&cropH=2433&cropW=4325&xPos=0&yPos=154&width=862&height=485",
-      "topic": "政治",
-      "score": 73,
-      "id": "96994ec293a6"
     },
     {
       "title": "DR Congo and M23 rebels agree roadmap for peace talks",
@@ -692,7 +757,7 @@
       "publishedAt": "2026-08-23T12:52:08.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b82b/live/77503d50-9ee6-11f1-9797-eb684645fdf7.jpg",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "66fc3c1a63c4"
     },
     {
@@ -705,7 +770,7 @@
       "publishedAt": "2026-08-23T12:51:15.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/158f/live/ed9a2d40-9ef0-11f1-aed4-af6fe65bfcd6.jpg",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "4886cb8584c2"
     },
     {
@@ -718,7 +783,7 @@
       "publishedAt": "2026-08-23T12:47:06.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e391/live/92249ee0-9eec-11f1-b109-879e35c24276.jpg",
       "topic": "科技",
-      "score": 72,
+      "score": 71,
       "id": "1a585d67fbce"
     },
     {
@@ -731,7 +796,7 @@
       "publishedAt": "2026-08-23T12:36:54.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0010/live/8943d720-9ee5-11f1-b109-879e35c24276.png",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "4654282db1a4"
     },
     {
@@ -744,7 +809,7 @@
       "publishedAt": "2026-08-23T12:26:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "a48af00531bd"
     },
     {
@@ -757,34 +822,8 @@
       "publishedAt": "2026-08-23T12:25:40.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d7/live/fa537640-9ee1-11f1-9797-eb684645fdf7.jpg",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "5e52e8e6d5e4"
-    },
-    {
-      "title": "DR Congo miners risk Ebola to make a living",
-      "summary": "DR Congo miners risk Ebola to make a living",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/dr-congo-miners-risk-ebola-to-make-a-living?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "非洲",
-      "publishedAt": "2026-08-23T12:13:20.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "4d34e7c99459"
-    },
-    {
-      "title": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
-      "summary": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-23T09:21:12.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 72,
-      "id": "b3af573091f5"
     },
     {
       "title": "Trump hits back at Canada after retaliatory tariffs announced",
@@ -796,7 +835,7 @@
       "publishedAt": "2026-08-23T08:52:09.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/5080f48ab9e38f2b849d3a287d42917c?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=137&width=862&height=485",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "914a873ef8ff"
     },
     {
@@ -809,21 +848,47 @@
       "publishedAt": "2026-08-23T14:57:41.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 70,
       "id": "1a4cdc2688d8"
     },
     {
-      "title": "Middle Eastern Oil Producers Employ \"Dark\" Transits to Evade Iranian Threats",
-      "summary": "Middle Eastern Oil Producers Employ \"Dark\" Transits to Evade Iranian Threats &nbsp;&nbsp; SSBCrack",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWVlbVVZZ1hzSkQ4MnpFb21EZjhoeGtuLWhZMVI3eF9LT1cwdV9Tb2tLcGN5LVdCQ3NEU1l4M295S3VDc3NFT2hna0hhRVd6LWNlZTZJMVJyUzFKVVhZck5SYWNMenpDWE1OY2V2aTN0SWRFZ2xRcEpIMDlKUnJxUWdMeExZYXRlbHFacDZVQWkxYXBQUUxibGpTYmt6MzZES2lN?oc=5",
-      "source": "SSBCrack",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-23T14:55:25.000Z",
+      "title": "DR Congo miners risk Ebola to make a living",
+      "summary": "DR Congo miners risk Ebola to make a living",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/dr-congo-miners-risk-ebola-to-make-a-living?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "非洲",
+      "publishedAt": "2026-08-23T12:13:20.000Z",
       "image": "",
-      "topic": "经济",
-      "score": 71,
-      "id": "8e2b14e0e428"
+      "topic": "社会",
+      "score": 70,
+      "id": "4d34e7c99459"
+    },
+    {
+      "title": "Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win",
+      "summary": "Real Madrid coach Jose Mourinho has criticised the bullying of Vinicius Junior by opponents and fans.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-23T12:13:04.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 70,
+      "id": "fa68482d62d4"
+    },
+    {
+      "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
+      "summary": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window &nbsp;&nbsp; Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXFYYUZrT0dQRlJmbzRST3NId1F6SE5wYnZSVUdoOFBXc3NBRXhXY2llSU9DX2pXR3RQNEVUcFhjSEs3R29uLUZyVUlfZUJIMDl3eTFJRTFMM0hITVNJZzRIUmlEYW1PekhjZHZGVzdESXZjR0dHdGhUUzVlalRLSU51bnRrNHRJWTF1NnpqSUdEYmJBVGJtQ3J3TEJabE0?oc=5",
+      "source": "Goal.com",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-23T14:44:55.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 69,
+      "id": "0de28efbcdf8"
     },
     {
       "title": "Pakistan Backed Panel Sweeps All The Directorial And Executive Positions At The ACC",
@@ -835,34 +900,8 @@
       "publishedAt": "2026-08-23T14:37:53.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
+      "score": 69,
       "id": "9741a9f64191"
-    },
-    {
-      "title": "Humanoid robots break records at competition in Beijing",
-      "summary": "Humanoid robots break records at competition in Beijing &nbsp;&nbsp; France 24",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRWlhVjA0Q0R3LWN1MGZCLXY4REZQclpUMjI2UjN0Sjc5V0hrdFF2NkdHMy16TVFqVlFyb2RVeTVqaC1hZHU3bm0tVGxsN1FSeUNXaU5MeFNXMVJDNkR6Ml9DLUFtRnJhSGhiR2k5bHFEQ0ZNY0JaTDU0SEhjQmFUVGc4WmNUNU1vTXZwdGF2bFk5bGFtSGpqV19GdVdmUWY3eFZoVlZBZW4?oc=5",
-      "source": "France 24",
-      "feed": "Asia News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-23T11:45:17.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 71,
-      "id": "b1c620079222"
-    },
-    {
-      "title": "Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide",
-      "summary": "Grassroots groups to urge PM to break with Starmer policy and impose full arms embargo on Israel Grassroots Labour groups are gearing up for a conference showdown with Andy Burnham over Gaza, as the party’s members seek to force the prime minister to recognise Israel’s actions as a genocide and impose a full arms embargo. Momentum, Labour & Palestine, the Ca",
-      "url": "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "中东",
-      "publishedAt": "2026-08-23T11:26:40.000Z",
-      "image": "https://i.guim.co.uk/img/media/ec0744852a17ac2bbbae27142080744bd3f9b1e2/889_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=99bebcae427ae922d5520e53df6bd442",
-      "topic": "政治",
-      "score": 71,
-      "id": "b2ecf33d6d20"
     },
     {
       "title": "Institute mobilises stakeholders for Africa’s innovation-driven transformation agenda",
@@ -874,8 +913,21 @@
       "publishedAt": "2026-08-23T14:23:01.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "088115f4f865"
+    },
+    {
+      "title": "LaLiga Home | Goal.com South Africa",
+      "summary": "LaLiga Home | Goal.com South Africa &nbsp;&nbsp; Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JNmtVZU5oUUY2LWw5M1dPMkZrQjI3aVhrS3NXWDM2NXdYOEZLQ3FqYmZ6UGhZU2trWFVIOUpLTUJ4NFF5SWUwbU8yTVBfSlIwNFBOYlJPTGFKcy0yTEIxTTZrT0VVQVhsM3RR?oc=5",
+      "source": "Goal.com",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-23T14:16:10.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 69,
+      "id": "0afea1e2f95e"
     },
     {
       "title": "Norwegian Spirit to Spend 2028 Summer in South Pacific and Hawaii",
@@ -887,60 +939,8 @@
       "publishedAt": "2026-08-23T11:16:56.000Z",
       "image": "",
       "topic": "社会",
-      "score": 70,
+      "score": 69,
       "id": "4de60bb39367"
-    },
-    {
-      "title": "Explosion injures 13 in Taiwan",
-      "summary": "Explosion injures 13 in Taiwan",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-23T11:06:38.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 70,
-      "id": "b4a6d1d0aebd"
-    },
-    {
-      "title": "Live: Piastri struggles after slow pit stop, Norris wins as Verstappen crashes",
-      "summary": "Reigning world champion Lando Norris has doubled his grand prix win tally in 2026, producing a pair of brilliant overtakes to win the Dutch Grand Prix. Follow live.",
-      "url": "https://www.abc.net.au/news/2026-08-23/f1-live-dutch-grand-prix-oscar-piastri-lando-norris/106998450",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-23T11:01:22.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/10bbf91cd4eebcae1b515bdd11d51dc7?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=13&width=862&height=485",
-      "topic": "社会",
-      "score": 70,
-      "id": "71152757d0f7"
-    },
-    {
-      "title": "Harry Kane Named Men's Footballer of the Year in Germany",
-      "summary": "Harry Kane Named Men's Footballer of the Year in Germany &nbsp;&nbsp; Tempo.co English",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbFl3eVpnYkU0OHNwSUR3YnhFdml1TDdncDBkQTdES3NyMW1QZktKbENKM1pRemU2TG9QYkMtY1lkU3JIMnd5OWpDQU5YN2JxOE5jaTdubWJ1Y3V6dFlJZlhmZkpBaGNVd2VzRVJnV3ZpenVVLVpQdDlmT0JOUnU2NFBsc1A0VVpMUmVBZ1JsaUFYQQ?oc=5",
-      "source": "Tempo.co English",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-23T13:31:19.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "15b5e529c5ed"
-    },
-    {
-      "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
-      "summary": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window &nbsp;&nbsp; Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXFYYUZrT0dQRlJmbzRST3NId1F6SE5wYnZSVUdoOFBXc3NBRXhXY2llSU9DX2pXR3RQNEVUcFhjSEs3R29uLUZyVUlfZUJIMDl3eTFJRTFMM0hITVNJZzRIUmlEYW1PekhjZHZGVzdESXZjR0dHdGhUUzVlalRLSU51bnRrNHRJWTF1NnpqSUdEYmJBVGJtQ3J3TEJabE0?oc=5",
-      "source": "Goal.com",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-23T13:24:07.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 69,
-      "id": "0de28efbcdf8"
     }
   ]
 }
