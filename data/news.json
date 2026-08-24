@@ -1,11 +1,24 @@
 {
-  "updatedAt": "2026-08-24T15:03:34.338Z",
+  "updatedAt": "2026-08-24T15:58:03.431Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
   ],
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
+    {
+      "title": "Iran warns of a harsh response to anticipated U.S. sanctions, other Middle East news",
+      "summary": "Iran warns of a harsh response to anticipated U.S. sanctions, other Middle East news &nbsp;&nbsp; The Tribune-Democrat",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPanIwRmlzdGpKZS1WVE44ZTF2Y1k5WnV0SVduWGlxUEVDNmN2VnNSNXppZWtEcWdnSGVXaV9tbFRjYWg3ZjAwVFQ0a1dkdGRWbDlZSUJNcEktSGhvMGpaWHZWT0xUc2p2X3Y0MC1TYmFKQm91QldGR09VWjFBOTVaSVMtekdnX3QxQjVPWUhOOVhmM1cxRDB4YWh1UVR6S1R6cTZ0YlRYVUxsb1hROWdUallidGZqNURMU3RDeE9TMmVkQUZrYzNVV0tpVk5FZDJkNFc2RDhHT3BnSmRINWpyZDJXal9Jc2JTUmdDYU5sblI5LVFPdVlpalVhLTE3ZkIxLThn?oc=5",
+      "source": "The Tribune-Democrat",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-24T15:25:00.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 96,
+      "id": "174ee261acad"
+    },
     {
       "title": "Iran Warns of Harsh Response to US Sanctions as Middle East Tensions Rise",
       "summary": "Iran Warns of Harsh Response to US Sanctions as Middle East Tensions Rise &nbsp;&nbsp; Daily Pioneer",
@@ -16,21 +29,8 @@
       "publishedAt": "2026-08-24T14:17:22.000Z",
       "image": "",
       "topic": "政治",
-      "score": 96,
+      "score": 95,
       "id": "b6e4a52c8469"
-    },
-    {
-      "title": "Iran warns of a harsh response to anticipated US sanctions and other Middle East news",
-      "summary": "Iran warns of a harsh response to anticipated US sanctions and other Middle East news &nbsp;&nbsp; Traverse City Record-Eagle",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMUNINzVIRTFCOW9vOVpNSTQ3aUxFWGJFVl9TRWNDOHUySFpoejFaU2w1RXkwRGFsUnVNTE9XZUZOaEttcjlmWDhKX2VHb1Q0NG5oNDk0T1NORl9WNURmT1d6UDZNTzFYSG5keEExNVNNZ2xLLVp6VXFSYUdld1NQOEZrb0s0UjhZZTdRXzJWZ2tOT3V1UDJnVVRiaFpDaU1PUTI1ZDJLUkh0VXFpQkhPSFpnWmNMYjhRS25VZXdhQ19oQWFONnlMV2NJbzlwa1VNY05sT1BRSWhkaDZ5R1VkSlZxM09kcjdQbkptd1huUXkyckNFOFNxRkMwaENMbEpnQU14MFczMA?oc=5",
-      "source": "Traverse City Record-Eagle",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-24T10:48:56.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 96,
-      "id": "dad92d53ce03"
     },
     {
       "title": "Trump escalates trade war with Canada with threat to raise tariffs on vehicles and steel – live",
@@ -39,11 +39,50 @@
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "美洲",
-      "publishedAt": "2026-08-24T14:30:15.000Z",
-      "image": "https://i.guim.co.uk/img/media/fc347e46cfadefd67b335055fc512962272990e4/161_0_2769_2215/master/2769.jpg?width=140&quality=85&auto=format&fit=max&s=082fa295cbd8cf6eb7fd5141f92a36c6",
+      "publishedAt": "2026-08-24T15:36:07.000Z",
+      "image": "https://i.guim.co.uk/img/media/706df2f646ab5db8813ae6926926794e30245afd/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=dc126ebe7c98ac52be63377510cf8eb9",
       "topic": "政治",
       "score": 89,
       "id": "946ee6929b3c"
+    },
+    {
+      "title": "Are humanoid robots the future of warfare?",
+      "summary": "Humanoid robots are breaking world records in sports, and are increasingly being developed and tested for military use.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-24T15:30:54.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 89,
+      "id": "3de1d0cfc7cf"
+    },
+    {
+      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-08-24T15:54:16.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
+      "topic": "政治",
+      "score": 88,
+      "id": "8d20bd66631e"
+    },
+    {
+      "title": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
+      "summary": "Coalition of the Willing condemns Russian strikes on Ukraine, pledges to work on ‘constraining Russia’s war chest’ Here’s the full quote from Kremlin’s Peskov , via AFP: “ Britain is methodically and regularly throwing oil on the fire and methodically and regularly plotting schemes to prevent even the slightest progress in the peace process.” Continue readin",
+      "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-24T15:32:18.000Z",
+      "image": "https://i.guim.co.uk/img/media/35c2189af297157e67da3ec7f51f9d853dd8649b/481_0_3784_3028/master/3784.jpg?width=140&quality=85&auto=format&fit=max&s=f64f009c8f8db037a1c92e0321c7112b",
+      "topic": "政治",
+      "score": 88,
+      "id": "b4023feee7ec"
     },
     {
       "title": "U.S. threatens new sanctions on Iran as tensions rise in Middle East",
@@ -55,8 +94,34 @@
       "publishedAt": "2026-08-24T11:15:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 88,
+      "score": 87,
       "id": "eb9ea0a76e98"
+    },
+    {
+      "title": "Diesel Crisis and Middle East War: The 2026 Fuel Supply Emergency",
+      "summary": "Diesel Crisis and Middle East War: The 2026 Fuel Supply Emergency &nbsp;&nbsp; Discovery Alert",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlhYRzctUWs2eTdKSG5BQmduNVI1d0pmZmg4VHFFRDBBTG1hclpGdkVhQXlxekFEWTNtZ2JfRUVrSERMN0l1T3F6bC1pRE9LRGo1NUxFR1YwU0tqQTJxNngtOXpFM1RJQlcwV1JrNF92Y3hWUTc4Z1dPcUxFOFhRVmhuNUFPTV9nUWRqSDR3Yw?oc=5",
+      "source": "Discovery Alert",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-24T10:07:30.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 86,
+      "id": "629fe4fd2299"
+    },
+    {
+      "title": "Australia has just 12,000 sea lions left – and ‘carnage’ may await them as bird flu takes hold, scientists warn",
+      "summary": "Virus has already caused catastrophic losses in pinnipeds in South America and sub-Antarctica, particularly among pups Get our breaking news email , free app or daily news podcast Scientists have warned deadly H5 bird flu could cause “carnage” for Australia’s seal and sea lion populations after detection of the virus in long-nosed fur seals in South Australi",
+      "url": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "美洲",
+      "publishedAt": "2026-08-24T15:00:36.000Z",
+      "image": "https://i.guim.co.uk/img/media/66d42e616c5193c28373eb4a559da5b04fd53efd/893_1101_1621_1297/master/1621.jpg?width=140&quality=85&auto=format&fit=max&s=7292b73c9b9506e5ff6956748fbbdfc5",
+      "topic": "政治",
+      "score": 84,
+      "id": "869e4e4a4f74"
     },
     {
       "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
@@ -68,7 +133,7 @@
       "publishedAt": "2026-08-24T11:57:26.000Z",
       "image": "",
       "topic": "政治",
-      "score": 85,
+      "score": 84,
       "id": "1ddb2a97e292"
     },
     {
@@ -81,7 +146,7 @@
       "publishedAt": "2026-08-24T14:02:17.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef6d/live/b2d751d0-9fa2-11f1-a83c-33ebef033ca4.jpg",
       "topic": "政治",
-      "score": 84,
+      "score": 82,
       "id": "cd79749b2bb4"
     },
     {
@@ -94,7 +159,7 @@
       "publishedAt": "2026-08-24T14:01:35.000Z",
       "image": "https://i.guim.co.uk/img/media/3c0d143aecdba181739eb496831beace5e0c9caa/1370_208_4244_3395/master/4244.jpg?width=140&quality=85&auto=format&fit=max&s=1f8a843f146166d0df4db5d756b17dbc",
       "topic": "政治",
-      "score": 84,
+      "score": 82,
       "id": "33c823e06183"
     },
     {
@@ -107,21 +172,8 @@
       "publishedAt": "2026-08-24T13:56:22.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f647/live/434e2dd0-9fb5-11f1-bff6-57f1422ebb0b.jpg",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "c86034dcaebc"
-    },
-    {
-      "title": "Diesel Crisis and Middle East War: The 2026 Fuel Supply Emergency",
-      "summary": "Diesel Crisis and Middle East War: The 2026 Fuel Supply Emergency &nbsp;&nbsp; Discovery Alert",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlhYRzctUWs2eTdKSG5BQmduNVI1d0pmZmg4VHFFRDBBTG1hclpGdkVhQXlxekFEWTNtZ2JfRUVrSERMN0l1T3F6bC1pRE9LRGo1NUxFR1YwU0tqQTJxNngtOXpFM1RJQlcwV1JrNF92Y3hWUTc4Z1dPcUxFOFhRVmhuNUFPTV9nUWRqSDR3Yw?oc=5",
-      "source": "Discovery Alert",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-24T10:07:30.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 83,
-      "id": "629fe4fd2299"
     },
     {
       "title": "Saudi Arabia’s MBS visits Macron in France: What to expect",
@@ -133,8 +185,73 @@
       "publishedAt": "2026-08-24T12:59:55.000Z",
       "image": "",
       "topic": "社会",
-      "score": 82,
+      "score": 81,
       "id": "c1c53ce20b5b"
+    },
+    {
+      "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
+      "summary": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months &nbsp;&nbsp; WQAD",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZElENlZ4VlhFeGVNVkc4SU40OEVRWjNITXhnZXh1R3NXQ1M0d2VYZ21YWjhlRmhSNkZmZ3ZfN2pjSzZSM3ltM2sydkgxeUpkVWhDdnFvV0NwMzdCejUtWUhKdWlMTFFpSGl4LUt5VjlIYlVoTlJmOGNadWxKWFFSckxWMlp0X3Y4WGRjVzZYWXJIWGdPUGZ5ZzU0WVJQampGNjhpelJrT0xWNGRlOHJuVWtMNTlpNHFadTVrM0ppdjY4NVdveThFWnRMRlFJems?oc=5",
+      "source": "WQAD",
+      "feed": "Latin America News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-24T15:51:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 80,
+      "id": "629e17b8d99a"
+    },
+    {
+      "title": "Households in Great Britain ‘could owe energy suppliers £7bn by end of year’",
+      "summary": "After higher prices for winter kick in, energy debt unpaid for more than 30 days likely to rise, says Energy UK Households in Great Britain could owe their energy suppliers as much as £7bn by the end of the year after higher gas and electricity prices forecast for the winter kick in, an industry group is warning. Domestic energy debt and arrears climbed by a",
+      "url": "https://www.theguardian.com/business/2026/aug/24/households-in-great-britain-could-owe-energy-suppliers-7bn-by-end-of-year",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "欧洲",
+      "publishedAt": "2026-08-24T15:40:33.000Z",
+      "image": "https://i.guim.co.uk/img/media/e63acde2997eb2605b372316ea4b9a40ee0e623b/847_867_3335_2668/master/3335.jpg?width=140&quality=85&auto=format&fit=max&s=252383a2708455c44f97e4ad7acd4230",
+      "topic": "政治",
+      "score": 80,
+      "id": "bcaa49b57d90"
+    },
+    {
+      "title": "Toddler invades pitch during Minnesota’s MLS win over San Jose: ‘There’s a baby on the field’",
+      "summary": "Child wandered on field during MNUFC’s 5-1 win Minnesota posts win was ‘Like taking money from a baby’ A toddler interrupted a Major League Soccer match between Minnesota United and San Jose Earthquakes on Saturday by invading the pitch – a bizarre scene punctuated by an on-air analyst saying, “There’s a baby on the field.” With a minute and a half to play i",
+      "url": "https://www.theguardian.com/football/2026/aug/24/toddler-pitch-invader-mls-minnesota-united-san-jose-earthquakes",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-24T15:29:55.000Z",
+      "image": "https://i.guim.co.uk/img/media/b700a2f509356e7a81db7c34439dc22365746a53/202_0_3353_2683/master/3353.jpg?width=140&quality=85&auto=format&fit=max&s=43df52a9393eeada4e535118065f50e6",
+      "topic": "气候",
+      "score": 80,
+      "id": "6f0e9c5be31c"
+    },
+    {
+      "title": "Video: Russia launches rocket into space with military satellite",
+      "summary": "Russia says it has launched a military satellite into space on the back of a Soyuz-2.1 rocket from Arkhangelsk.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-24T15:29:14.000Z",
+      "image": "",
+      "topic": "科技",
+      "score": 80,
+      "id": "b434d78ed184"
+    },
+    {
+      "title": "Samuel Eto’o urges support for embattled FIFA President Gianni Infantino",
+      "summary": "Former star striker, now head of Cameroon's FA, backs Infantino despite mounting pressure on him to resign.",
+      "url": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-24T15:15:55.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 80,
+      "id": "965222d43f2b"
     },
     {
       "title": "Four arrested over fatal shooting of South African boxer Zolani Tete",
@@ -146,21 +263,8 @@
       "publishedAt": "2026-08-24T12:48:53.000Z",
       "image": "",
       "topic": "社会",
-      "score": 82,
+      "score": 80,
       "id": "cacf10678f36"
-    },
-    {
-      "title": "New Zealand to introduce bill for under-16s social media ban",
-      "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
-      "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-24T12:17:34.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ded3/live/dc9e0600-9fa5-11f1-bff6-57f1422ebb0b.jpg",
-      "topic": "政治",
-      "score": 81,
-      "id": "c4807289cdd7"
     },
     {
       "title": "Dutch broadcaster to boycott Eurovision 2027",
@@ -172,21 +276,47 @@
       "publishedAt": "2026-08-24T08:59:00.000Z",
       "image": "https://e3.365dm.com/24/05/1920x1080/skynews-joost-klein-netherlands_6549483.jpg?20240510164550",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "005ffce69d71"
     },
     {
-      "title": "KZN NFP’s Mbali Shinga warns factional battles causing 'existential crisis'",
-      "summary": "KZN NFP’s Mbali Shinga warns factional battles causing 'existential crisis' &nbsp;&nbsp; EWN",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlVUMWN0bk5BMkZlQS1KeWNOdlM3a1Rjc3g2OEl0V1Fpay1JTkdwd1JmU0lLR0dURXF1RE1Ta3lHWDBnanpWQVV3TFQzZlJDQ1JTN29DUS1OMHV2QnRXSUNwcXNrOUNPY2VzUWg0NEJ1T3U1OWhvRUVNODM4ZzdIVktZQ2Z0djJFOS1aV2d3QUxvcjE3OUYzTjlvZjhha1dIS1VwUWNDeFNhQQ?oc=5",
-      "source": "EWN",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-24T14:31:24.000Z",
+      "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+      "summary": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
+      "url": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-08-24T15:14:14.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96a6/live/e622d720-9fc6-11f1-b3e7-331c6d9a8046.jpg",
+      "topic": "政治",
+      "score": 79,
+      "id": "1699d957169e"
+    },
+    {
+      "title": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
+      "summary": "Waves of settler attacks, aided by Israel's military, increasingly fit the definition of a pogrom.",
+      "url": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-24T15:02:34.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
-      "id": "8ede7b8b6fe1"
+      "score": 79,
+      "id": "d3322786fd10"
+    },
+    {
+      "title": "New Zealand to introduce bill for under-16s social media ban",
+      "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+      "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-24T12:17:34.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ded3/live/dc9e0600-9fa5-11f1-bff6-57f1422ebb0b.jpg",
+      "topic": "政治",
+      "score": 79,
+      "id": "c4807289cdd7"
     },
     {
       "title": "Photos: Towering landfill collapse kills 30 in Guinea’s capital, Conakry",
@@ -198,7 +328,7 @@
       "publishedAt": "2026-08-24T11:38:43.000Z",
       "image": "",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "ba739aad43aa"
     },
     {
@@ -211,7 +341,7 @@
       "publishedAt": "2026-08-24T11:26:19.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b50/live/049ddab0-9f9a-11f1-a291-b542ee92de7c.jpg",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "341e613cd786"
     },
     {
@@ -224,21 +354,21 @@
       "publishedAt": "2026-08-24T01:46:43.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "1816ce2ffd38"
     },
     {
-      "title": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
-      "summary": "UK PM hits back at Kremlin comment that sharing long-range missile blueprints will ‘add fuel to fire’ by asking ‘who started the fire?’ Here’s the full quote from Kremlin’s Peskov , via AFP: “ Britain is methodically and regularly throwing oil on the fire and methodically and regularly plotting schemes to prevent even the slightest progress in the peace proc",
-      "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
+      "title": "Ukraine marks Independence Day as UK vows support despite Russia's threats",
+      "summary": "As Ukraine marks 35 years since independence from the Soviet Union, Volodymyr Zelenskyy repeats that his country will not surrender to Russian aggression.",
+      "url": "https://www.abc.net.au/news/2026-08-25/ukraine-burnham-independence-day/107073546",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
       "region": "欧洲",
-      "publishedAt": "2026-08-24T14:22:05.000Z",
-      "image": "https://i.guim.co.uk/img/media/35c2189af297157e67da3ec7f51f9d853dd8649b/481_0_3784_3028/master/3784.jpg?width=140&quality=85&auto=format&fit=max&s=f64f009c8f8db037a1c92e0321c7112b",
-      "topic": "经济",
-      "score": 79,
-      "id": "b4023feee7ec"
+      "publishedAt": "2026-08-24T14:31:17.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a7b6c7500d010058d4921cf2a42d5ede?impolicy=wcms_crop_resize&cropH=1125&cropW=2000&xPos=0&yPos=104&width=862&height=485",
+      "topic": "社会",
+      "score": 78,
+      "id": "0dd9d41d9143"
     },
     {
       "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
@@ -250,12 +380,12 @@
       "publishedAt": "2026-08-24T14:19:14.000Z",
       "image": "https://i.guim.co.uk/img/media/6fceb10673f4af6f590045148db3218713256243/1116_171_4621_3697/master/4621.jpg?width=140&quality=85&auto=format&fit=max&s=2a21297e74271a7b4614825c88bba983",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "5e596a6d583a"
     },
     {
-      "title": "Reno, Nevada, wildfire forces 90,000 to evacuate and destroys several homes",
-      "summary": "Fast-moving, ‘human-caused’ fire in Reno leaves thousands of homes and businesses without power, officials say About 90,000 residents of Reno, Nevada, and the adjacent North Valley are under evacuation orders as a fast-moving, wind-driven wildfire bears down on the city. The Hawk fire began on Saturday to the north-west of the city, and quickly grew, showing",
+      "title": "About 90,000 urged to evacuate as fast-moving wildfire threatens Reno, Nevada",
+      "summary": "‘Human-caused’, wind-driven fire in Reno leaves thousands of homes and businesses without power, officials say About 90,000 residents of Reno, Nevada, and the adjacent North Valley are under evacuation orders as a fast-moving, wind-driven wildfire bears down on the city. The Hawk fire began on Saturday to the north-west of the city, and quickly grew, showing",
       "url": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -263,8 +393,8 @@
       "publishedAt": "2026-08-24T14:15:08.000Z",
       "image": "https://i.guim.co.uk/img/media/1eac02ef76fd62ba21d03ef83537c4d25956ca61/639_0_4592_3674/master/4592.jpg?width=140&quality=85&auto=format&fit=max&s=6228aa1da571303e22f95d53821155e9",
       "topic": "经济",
-      "score": 79,
-      "id": "fb0380319bed"
+      "score": 78,
+      "id": "5fb454fd02c8"
     },
     {
       "title": "Twelve people arrested after A66 crash that killed seven including two police officers",
@@ -276,7 +406,7 @@
       "publishedAt": "2026-08-24T14:02:41.000Z",
       "image": "https://i.guim.co.uk/img/media/704446d06ede8a2e2acc7449968d0897595800b6/160_0_3840_3073/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=e904575d848a02a93ad9076bfcc01922",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "5c06985cbac9"
     },
     {
@@ -289,7 +419,7 @@
       "publishedAt": "2026-08-24T14:01:34.000Z",
       "image": "https://i.guim.co.uk/img/media/50db5a3035048c97f2b930c05b42660a207b96ff/378_0_3743_2995/master/3743.jpg?width=140&quality=85&auto=format&fit=max&s=0635a1c7c23d0ad3afed754417b7a586",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "2b92e421622f"
     },
     {
@@ -302,21 +432,34 @@
       "publishedAt": "2026-08-24T13:03:00.000Z",
       "image": "",
       "topic": "科技",
-      "score": 78,
+      "score": 77,
       "id": "8a0771065b9f"
     },
     {
-      "title": "Former Illinois sheriff’s deputy who killed Sonya Massey in her home dies aged 32",
-      "summary": "Sean Grayson, who was diagnosed with stage three colon cancer in 2023, was serving a 20-year sentence for second-degree murder The former Illinois sheriff’s deputy convicted of fatally shooting Sonya Massey in her home after she reported a possible prowler to 911, has died, his attorney said Sunday. Sean Grayson died on Sunday, lawyer Daniel Fultz – who repr",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/sonya-massey-illinois-sean-grayson-dies",
+      "title": "Iran War Fallout: US Cancels Ssangyong Drills With South Korea, Cites Middle East Overstretch",
+      "summary": "Iran War Fallout: US Cancels Ssangyong Drills With South Korea, Cites Middle East Overstretch &nbsp;&nbsp; The Eastern Herald",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT05VLWZ4cDFJWmJuQWtTYUhMd0dRX3hWakVBMkZlUkxHbDQxMlNDNHZsaHRJSVNXclcyQVpPMTBPdTZBcGlLWGJXUXE3ME52SHpDcVFmcEFjd3VNdW9KSzVMeWhoRzZHWGl5ODdrNTlDZ1FodE0xcVJsaUMzcU1lcmxqZG5Qd19XbUp0VVZVLUJPZw?oc=5",
+      "source": "The Eastern Herald",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-24T15:56:10.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 76,
+      "id": "4e93bdfb81d4"
+    },
+    {
+      "title": "Washington Post ordered to reinstate opinion writer fired over Charlie Kirk posts",
+      "summary": "Arbitrator determined the Post improperly fired Karen Attiah, a union-protected employee, over social media posts An independent arbitrator has ordered the Washington Post to rehire the high-profile opinion columnist Karen Attiah, abruptly fired by the news organization last September over comments she made on social media about Charlie Kirk , the then recen",
+      "url": "https://www.theguardian.com/business/2026/aug/24/washington-post-reinstate-karen-attiah",
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "全球",
-      "publishedAt": "2026-08-24T12:44:24.000Z",
-      "image": "https://i.guim.co.uk/img/media/eb6969138d79b4af066ec6ef02bad7764a90adb2/698_0_2646_2118/master/2646.jpg?width=140&quality=85&auto=format&fit=max&s=b37a9cc73757bd29e5a12c672e61e150",
+      "publishedAt": "2026-08-24T15:42:21.000Z",
+      "image": "https://i.guim.co.uk/img/media/4a8f4519a46a3097a4067b6c640c48a65a5f9639/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=3fb459dce4fe08e41ef3dd7afcb13c54",
       "topic": "社会",
-      "score": 78,
-      "id": "4f0650baa2a3"
+      "score": 76,
+      "id": "895071b978a8"
     },
     {
       "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
@@ -328,7 +471,7 @@
       "publishedAt": "2026-08-24T12:28:26.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "55cba7630e5e"
     },
     {
@@ -341,7 +484,7 @@
       "publishedAt": "2026-08-24T12:26:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "99e32a58a9d8"
     },
     {
@@ -354,7 +497,7 @@
       "publishedAt": "2026-08-24T12:11:00.000Z",
       "image": "https://e3.365dm.com/26/08/1920x1080/skynews-jeremy-obrien-ireland_7330062.jpg?20260824134725",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "2a1390ebc9cb"
     },
     {
@@ -367,7 +510,7 @@
       "publishedAt": "2026-08-24T12:07:59.000Z",
       "image": "https://i.guim.co.uk/img/media/a42a475125086c1b0e9b54f52f4402520cdc70ab/557_0_3259_2607/master/3259.jpg?width=140&quality=85&auto=format&fit=max&s=4f64cd26cbd8de813f20d0f4e0290a6f",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "1d8d07856acc"
     },
     {
@@ -380,47 +523,73 @@
       "publishedAt": "2026-08-24T09:33:07.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "9097a756367f"
     },
     {
-      "title": "Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League",
-      "summary": "Brazil's Alison Dos Santos beats world record holder Karsten Warholm in a thrilling 400m hurdles final at the meet.",
-      "url": "https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-24T09:11:46.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 77,
-      "id": "6ecd67e0baf2"
-    },
-    {
-      "title": "Kazakhstan’s newly formed pro-government party wins parliamentary election",
-      "summary": "The victory of Adilet, founded earlier this year, is likely to consolidate the power of President Kassym-Jomart Tokayev.",
-      "url": "https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-24T08:29:54.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 77,
-      "id": "cbb60344be6e"
-    },
-    {
-      "title": "Aveng returns to operating profit, appoints new CEO as focus remains on restoring fundamentals",
-      "summary": "Aveng returns to operating profit, appoints new CEO as focus remains on restoring fundamentals &nbsp;&nbsp; Engineering News",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWlJkY0p5TVE5Wjh6cjhMc281UlZmb21fMUttNFBDelNFU28td2VkWC1DRUlMcEtkRUprSzcwbzk3VEFrUDdOWlI0b2x3Wms3ajlIaDY1b0szdzJqc3VWU0d3TUxJUl9ZaVd0RUZWa1lpQmpQY1c0UjhkMVQ1MWtBS3JOLW9aNTRxS09kS3lYTUgtUVFULU93RnBrSjEybmpRd0NZdi15VnJ0NXV6M29pNXVETU9VY0lNdkRCcWxuMVIwX1huSVBjdTlCbWRnMVh4M1NfWVMtWXlwZi1KN3VJ?oc=5",
-      "source": "Engineering News",
-      "feed": "Pacific News Network",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-24T14:43:00.000Z",
+      "title": "EU approves €6.1B for Ukraine's defense",
+      "summary": "EU approves €6.1B for Ukraine's defense &nbsp;&nbsp; Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNblJFbmY0SE9aSUktcE81WkhWUENDcmNRR2FHX04welFhdDVkaUV5QWRpQ1ZUUE1zVkhZT3liaXpUeVp3LUpRU0xRb2xRU3c3dHN0U0lIcEJJd2NwcEs0RmRRb2hMSWM5M3BVODN2dXZvTURsdm9WeFJ3XzI0MUhQelNkYmR3Mmc3Yk9vTGZQTUk?oc=5",
+      "source": "Breakingthenews.net",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-24T06:25:00.000Z",
       "image": "",
       "topic": "社会",
       "score": 76,
-      "id": "ba8cb25b724e"
+      "id": "e2adfe425c8c"
+    },
+    {
+      "title": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
+      "summary": "The UK's willingness to share classified missile-production knowledge sets a potentially important precedent.",
+      "url": "https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "欧洲",
+      "publishedAt": "2026-08-24T15:17:36.000Z",
+      "image": "",
+      "topic": "气候",
+      "score": 75,
+      "id": "8224713fcf4e"
+    },
+    {
+      "title": "No 10 says glorification of dangerous driving ‘for clips and entertainment is utterly disgraceful’ – UK politics live",
+      "summary": "Downing Street repeats calls for social media platforms to review content and policies as companies urged to uphold legal duties Lee Anderson, the Reform UK MP for Ashfield, is first up to speak. He says young people in his constituency – and in many areas across the country – have “absolutely no chance” of securing council housing or social housing. He says",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/24/labour-andy-bunrham-social-media-firms-dangerous-driving-content-middlesborough-latest-news-updates",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-24T14:58:51.000Z",
+      "image": "https://i.guim.co.uk/img/media/3eedc0044644e06699c37930a523b1066754ab52/302_0_3985_3188/master/3985.jpg?width=140&quality=85&auto=format&fit=max&s=0e7894761f24354bfb8e330017d9ba8b",
+      "topic": "社会",
+      "score": 75,
+      "id": "72adc151483d"
+    },
+    {
+      "title": "Houses set on fire as fresh violence erupts in India’s Manipur",
+      "summary": "Several houses were set ablaze in India’s Manipur state, followed by gunfire between two groups.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-24T14:48:53.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "692e197449a2"
+    },
+    {
+      "title": "Tether's $120 Million Bitcoin Mining Bet in Uruguay Collapses as USDT Adoption Surges",
+      "summary": "Tether's $120 Million Bitcoin Mining Bet in Uruguay Collapses as USDT Adoption Surges &nbsp;&nbsp; CoinCodex",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ3hSSGFTaEw5QVlINzJzUS04cWQxLTlqb3ROS3RJWnFqOE9scFpXMmxzazRlTlUxX3ZXdnpucUcwOHdmOGlwcDN2Tl9pc0h6elVMYnVRdXg1TEd0c0JkVzdZb3ZpaXY4b3VHZ2lGVXVTTThKMUtmbVhqNGEzVjhhbThhcWw0QkZxVjE3bUgxNmUxa0pyLWlhNVBnSnFYdmxKQ1UyOFJ6YUJEMDNacF9nLWlqdzFnVWs0OWxrYw?oc=5",
+      "source": "CoinCodex",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-24T14:35:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "a0c7527f4c71"
     },
     {
       "title": "New Zealand prime minister proposes Australia-style social media ban",
@@ -432,7 +601,7 @@
       "publishedAt": "2026-08-24T12:03:19.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/5b475122391c5873ceb1fa69e62f60fd?impolicy=wcms_crop_resize&cropH=2810&cropW=4995&xPos=0&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "08f47a2db44d"
     },
     {
@@ -445,38 +614,12 @@
       "publishedAt": "2026-08-24T11:53:10.000Z",
       "image": "https://i.guim.co.uk/img/media/1c53731d00240da07c0478d86a442c495226b762/258_0_3392_2713/master/3392.jpg?width=140&quality=85&auto=format&fit=max&s=bf38d290f52e7e8764cb76299b121852",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "dde4141ea86f"
     },
     {
-      "title": "Russia launches sabotage attacks on weapons factories in Europe",
-      "summary": "Russia launches sabotage attacks on weapons factories in Europe &nbsp;&nbsp; Metro.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVlCNXdJVmNld21PZWFUVWtjMzFlOXJfcEo2SW1YbzBoRDlMNGE0SVlLWEJncEc0RTVLOFoyYWgycXFQNmJ1a3NRZnVNX05KUXdwMEI4QjNucW8yWEhPVE5mbGNTOWxGaGpzSnBQNTUxVnVuM1pvZ3RUaWxJSk9QazI0UFhHMUVUdWxCN2VtQTBDQXk0QnF5Q0k4Q3M2QkXSAaQBQVVfeXFMUHdVWUxqbWM0UEJ1MmV0NmtUZmwwZ1VQSFFZM2pmSkZwSGRkOENrbFFUZEItSDJrSm51Z1UzWXJjWkFsdWlfZ2VrLTZMb3RDNlk2ZmRsTGljamZ4WkVrbWpqNFpnZDJzUWZvZlhaZVJKVEdidTk2YXRodm9BaEN1bHNwb3pMNG9vOTNFaEhuQkVRUUNYUE9sR212d190bDc0b2hsV1E?oc=5",
-      "source": "Metro.co.uk",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-24T10:55:00.000Z",
-      "image": "",
-      "topic": "科技",
-      "score": 76,
-      "id": "ecf0bfbb070f"
-    },
-    {
-      "title": "Ukraine marks Independence Day as UK vows support despite Russia's threats",
-      "summary": "As Ukraine marks 35 years since independence from the Soviet Union, Volodymyr Zelenskyy repeats that his country will not surrender to Russian aggression.",
-      "url": "https://www.abc.net.au/news/2026-08-25/ukraine-burnham-independence-day/107073546",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "欧洲",
-      "publishedAt": "2026-08-24T14:31:17.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/a7b6c7500d010058d4921cf2a42d5ede?impolicy=wcms_crop_resize&cropH=1125&cropW=2000&xPos=0&yPos=104&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "0dd9d41d9143"
-    },
-    {
       "title": "Guns, axes, explosives: violent museum heists are on the rise, says Europol",
-      "summary": "EU police agency says shift could point to involvement of new criminal networks focused on specific artefacts Robberies at European museums are becoming increasingly violent, with thieves brandishing guns, assaulting staff and using sledgehammers, axes and even explosives to smash their way into buildings and display cases, according to a Europol report. The",
+      "summary": "EU police agency says shift could point to involvement of new criminal networks focused on specific artefacts Robberies at European museums are becoming increasingly violent, with thieves sometimes brandishing guns, assaulting staff and using sledgehammers, axes and even explosives to smash their way into buildings and display cases, according to a report by",
       "url": "https://www.theguardian.com/culture/2026/aug/24/violent-museum-robberies-europol-report",
       "source": "The Guardian",
       "feed": "The Guardian",
@@ -484,7 +627,7 @@
       "publishedAt": "2026-08-24T14:31:07.000Z",
       "image": "https://i.guim.co.uk/img/media/4579528ccf5342cc3486b9ea7fb0f0230012a0d7/379_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2c297771d551eb078a3af0f4ddcfbbe5",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "aaab11a0d2d4"
     },
     {
@@ -497,34 +640,8 @@
       "publishedAt": "2026-08-24T14:27:28.000Z",
       "image": "https://i.guim.co.uk/img/media/0a48b73b0e4b32747220064111c1a2e6d6f19f70/171_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=80231719688a28a73c17e5f7e7fa0f2c",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "27a5ec1a3ea0"
-    },
-    {
-      "title": "Update: Chinese FM calls on Middle East, Gulf parties to resume dialogue, negotiation",
-      "summary": "Update: Chinese FM calls on Middle East, Gulf parties to resume dialogue, negotiation &nbsp;&nbsp; Xinhua",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRdmt2TUNLN210ZUJrVUhwY1dELXIycmxRa3hUZV96WGFjMFlCSlpSc1NvUWhROVdSRGhhMXI3VTJfS3RJcmJtX2pwb0tGbDZBT0VtNkdraW5IbUw2TGdTY2Zfb2dvak5ZZmNjNFNkenY4dHlwUFNvcGhCYUM?oc=5",
-      "source": "Xinhua",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-24T14:27:16.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "24cb5f6b176a"
-    },
-    {
-      "title": "No 10 says glorification of dangerous driving ‘for clips and entertainment is utterly disgraceful’ – UK politics live",
-      "summary": "Downing Street repeats calls for social media platforms to review content and policies as companies urged to uphold legal duties Lee Anderson, the Reform UK MP for Ashfield, is first up to speak. He says young people in his constituency – and in many areas across the country – have “absolutely no chance” of securing council housing or social housing. He says",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/24/labour-andy-bunrham-social-media-firms-dangerous-driving-content-middlesborough-latest-news-updates",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-24T14:20:32.000Z",
-      "image": "https://i.guim.co.uk/img/media/3eedc0044644e06699c37930a523b1066754ab52/302_0_3985_3188/master/3985.jpg?width=140&quality=85&auto=format&fit=max&s=0e7894761f24354bfb8e330017d9ba8b",
-      "topic": "社会",
-      "score": 75,
-      "id": "72adc151483d"
     },
     {
       "title": "Former world snooker champion Graeme Dott found guilty of sexually abusing children",
@@ -536,7 +653,7 @@
       "publishedAt": "2026-08-24T14:11:24.000Z",
       "image": "https://i.guim.co.uk/img/media/1b91859d4ce2f1c824e5cd608e6f26b15d82920c/635_238_4894_3916/master/4894.jpg?width=140&quality=85&auto=format&fit=max&s=b953fe096dc5cc1eea66916f7fe02b35",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "d7c414592219"
     },
     {
@@ -549,8 +666,21 @@
       "publishedAt": "2026-08-24T11:03:00.000Z",
       "image": "https://e3.365dm.com/26/08/1920x1080/skynews-maradona-hand-of-god_7329901.jpg?20260824110425",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "af7292b0ce33"
+    },
+    {
+      "title": "Russia launches sabotage attacks on weapons factories in Europe",
+      "summary": "Russia launches sabotage attacks on weapons factories in Europe &nbsp;&nbsp; Metro.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVlCNXdJVmNld21PZWFUVWtjMzFlOXJfcEo2SW1YbzBoRDlMNGE0SVlLWEJncEc0RTVLOFoyYWgycXFQNmJ1a3NRZnVNX05KUXdwMEI4QjNucW8yWEhPVE5mbGNTOWxGaGpzSnBQNTUxVnVuM1pvZ3RUaWxJSk9QazI0UFhHMUVUdWxCN2VtQTBDQXk0QnF5Q0k4Q3M2QkXSAaQBQVVfeXFMUHdVWUxqbWM0UEJ1MmV0NmtUZmwwZ1VQSFFZM2pmSkZwSGRkOENrbFFUZEItSDJrSm51Z1UzWXJjWkFsdWlfZ2VrLTZMb3RDNlk2ZmRsTGljamZ4WkVrbWpqNFpnZDJzUWZvZlhaZVJKVEdidTk2YXRodm9BaEN1bHNwb3pMNG9vOTNFaEhuQkVRUUNYUE9sR212d190bDc0b2hsV1E?oc=5",
+      "source": "Metro.co.uk",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-24T10:55:00.000Z",
+      "image": "",
+      "topic": "科技",
+      "score": 74,
+      "id": "ecf0bfbb070f"
     },
     {
       "title": "India used pellets, grenades on Gen Z protests: What Amnesty report reveals",
@@ -562,21 +692,21 @@
       "publishedAt": "2026-08-24T10:53:21.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "4503b6f4acac"
     },
     {
-      "title": "Dutch public broadcaster to boycott ‘no longer’ neutral Eurovision",
-      "summary": "AVROTROS says escalating international conflicts are undermining the event's neutrality and fuelling divisions.",
-      "url": "https://www.aljazeera.com/news/2026/8/24/dutch-public-broadcaster-to-boycott-no-longer-neutral-eurovision?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-24T10:42:16.000Z",
+      "title": "EU approves over $7 billion for Ukraine’s defenses",
+      "summary": "EU approves over $7 billion for Ukraine’s defenses &nbsp;&nbsp; Saudi Gazette",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUUI4MUNjS2tDN2czYnpjUU5ycmlZRG5VbGZhdFhwXzNIVWZzUjBRVUZUZlpkcnRDUW54eWFuS0ZpMzdxYVllamd6T0dFaVhLOE8wQlMxWk9rRE5KNGtod043aEFMUDVBQTUyNUdGdU55aEU3aXA0TmNicldTNTZzZ2U1czJnbnJTZTlQSW9QVlZNYkd3ZWdVUTkwRHZJQQ?oc=5",
+      "source": "Saudi Gazette",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-24T10:51:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
-      "id": "9ab155b331f8"
+      "score": 74,
+      "id": "540a26453956"
     },
     {
       "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
@@ -588,7 +718,7 @@
       "publishedAt": "2026-08-24T10:40:22.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f16b/live/039a8ff0-9fa4-11f1-bff6-57f1422ebb0b.jpg",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "a7a93bbf4a1a"
     },
     {
@@ -601,34 +731,8 @@
       "publishedAt": "2026-08-24T10:29:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "f11885012f15"
-    },
-    {
-      "title": "US threatens toughest sanctions yet against Iran: What we know",
-      "summary": "Tehran has threatened to retaliate against any country that joins new US economic measures.",
-      "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-24T10:23:11.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "874e2bb3c172"
-    },
-    {
-      "title": "Dominic Perrottet’s brother allegedly shared ‘dirt’ including secret phone recording of minister, Icac hears",
-      "summary": "Charles Perrottet appeared to be furthering fugitive developer Jean Nassif’s interests by undermining adversaries, a former NSW MP claims Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Dominic Perrottet’s brother shared “dirt” – including a secret pocket phone recording of a minister – to t",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/24/dominic-perrottet-brother-charles-secret-recording-icac-inquiry-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-24T07:25:48.000Z",
-      "image": "https://i.guim.co.uk/img/media/565f799c7da638307efbd5ce214805e239c840f0/725_0_3743_2995/master/3743.jpg?width=140&quality=85&auto=format&fit=max&s=3cb134e4910cefbd1e29a6f0fb20a142",
-      "topic": "政治",
-      "score": 75,
-      "id": "104704a36fa6"
     },
     {
       "title": "Survivors of violent crime criticise MoJ for not explaining offender restriction zones",
@@ -640,7 +744,7 @@
       "publishedAt": "2026-08-24T13:48:59.000Z",
       "image": "https://i.guim.co.uk/img/media/0bebeb8b913a4509d9ccf8ba2c64f487835644c5/944_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=3e95730179fe2a2c2a9d1bf5e2923218",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "ba06f44fc21e"
     },
     {
@@ -653,34 +757,8 @@
       "publishedAt": "2026-08-24T13:48:46.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "f500d08ae2e0"
-    },
-    {
-      "title": "Netflix, Disney+ and Amazon price rises in western Europe ‘highest in world’",
-      "summary": "World’s largest streaming services have also increased subscription costs repeatedly in US, research finds Business live – latest updates Subscribers to Netflix, Disney+ and Amazon Prime Video in western Europe have faced higher price increases than in any other market in recent years, according to research. Over the past four years the world’s largest subsc",
-      "url": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-24T13:45:04.000Z",
-      "image": "https://i.guim.co.uk/img/media/5aefc4c62db8f8bf69199d19e507d212ff26f886/100_17_2466_1973/master/2466.jpg?width=140&quality=85&auto=format&fit=max&s=2b8d96df00f7e4a3dbfd2951992201e2",
-      "topic": "经济",
-      "score": 74,
-      "id": "34e40e7d7021"
-    },
-    {
-      "title": "Indiana mayor calls it ‘unacceptable’ for thousands to have no power two weeks after storm",
-      "summary": "Gary mayor says 12 days is ‘too long’ for residents to go without power after storm downed trees on to power lines The mayor of Gary, Indiana , has said it is “unacceptable” that thousands of residents in the city are still without power nearly two weeks after an 11 August storm known as a derecho brought 90 mph, straight-line winds, downing trees on to powe",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/gary-indiana-mayor-power-outages-storm",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-08-24T13:39:18.000Z",
-      "image": "https://i.guim.co.uk/img/media/55eaf08b3a96ee6469d1150deeb15cf10b542708/663_458_4013_3209/master/4013.jpg?width=140&quality=85&auto=format&fit=max&s=dc2fb01b3cbac7ab44fdc3858e9f4e9f",
-      "topic": "气候",
-      "score": 74,
-      "id": "3addd20bb002"
     },
     {
       "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
@@ -692,21 +770,21 @@
       "publishedAt": "2026-08-24T13:35:07.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "214e497c23ec"
     },
     {
-      "title": "No peace in the Middle East yet",
-      "summary": "No peace in the Middle East yet &nbsp;&nbsp; Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hU1VrT0J2MHNESWFscG1nVDdQX0JZekNXYVJfSVBWN1hxQlU3a2NvNFlXS25KSllVeVhQb3hWNE45QUF3aDdDR1RrbWxzU1hxSXpBclhEd3FuUUZ2M2YzNmhkbVRMUjhGWi1vN1FiSjM1akVVeEtleFlUTUZnQQ?oc=5",
-      "source": "Yahoo Finance UK",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-24T13:26:22.000Z",
+      "title": "DA, BOSA slam ANC election manifesto as 'implausible' and 'deceptive'",
+      "summary": "DA, BOSA slam ANC election manifesto as 'implausible' and 'deceptive' &nbsp;&nbsp; EWN",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUGRhWjZSUHZBUnFweVUzbDhhUjBUUm5PcjhxVkxWMlRRd0RNc3lZb3NnM1dnTU4xYXoyODZFSjNTY1U1Z0xBV0RqNFFWdlMwakJkTTVDUlVNVUxUYjFsNzU1ZTFkZ3FoZjBpWksyTjV1clA5SDRGOEo4X2w4aUlOc3BEcGhvXzZhaHZ6Q1ZSTC0tNE9qQlAycHJVQzdsZw?oc=5",
+      "source": "EWN",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-24T13:23:07.000Z",
       "image": "",
-      "topic": "经济",
-      "score": 74,
-      "id": "cb361973100d"
+      "topic": "政治",
+      "score": 73,
+      "id": "108020efff67"
     },
     {
       "title": "Rain and flooding from Typhoon Narra hits China and Vietnam",
@@ -718,7 +796,7 @@
       "publishedAt": "2026-08-24T13:14:48.000Z",
       "image": "",
       "topic": "气候",
-      "score": 74,
+      "score": 73,
       "id": "79c9e0fbaae1"
     },
     {
@@ -731,8 +809,21 @@
       "publishedAt": "2026-08-24T13:14:10.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/783f/live/1a9bfa10-9fb6-11f1-b109-879e35c24276.jpg",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "3f243f55d508"
+    },
+    {
+      "title": "US threatens toughest sanctions yet against Iran: What we know",
+      "summary": "Tehran has threatened to retaliate against any country that joins new US economic measures.",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-24T10:23:11.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 73,
+      "id": "874e2bb3c172"
     },
     {
       "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
@@ -744,34 +835,8 @@
       "publishedAt": "2026-08-24T10:11:34.000Z",
       "image": "https://i.guim.co.uk/img/media/d2a4be74e38b869df6f4dd0020e652ff3c0cfa37/1005_0_1339_1072/master/1339.jpg?width=140&quality=85&auto=format&fit=max&s=d796a93349fdb0d90ada0d6b0b5f5fd3",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "2413d11cb8ac"
-    },
-    {
-      "title": "Ukraine’s offensive against Russia causes petrol panic across Central Asia",
-      "summary": "War-induced shortages set off cross-border fuel runs and deepen energy problems for Russia's allies.",
-      "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-24T10:11:19.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 74,
-      "id": "4b326100e2a3"
-    },
-    {
-      "title": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
-      "summary": "Tens of thousands of people in the US state have been warned to evacuate as the wildfire spreads in the outskirts of Reno.",
-      "url": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "全球",
-      "publishedAt": "2026-08-24T10:05:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01d5/live/1ba3c7c0-9fa3-11f1-a291-b542ee92de7c.jpg",
-      "topic": "政治",
-      "score": 74,
-      "id": "0bbf6c7fee1a"
     },
     {
       "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
@@ -783,7 +848,7 @@
       "publishedAt": "2026-08-24T09:47:22.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d4/live/a9cd8c00-9fa0-11f1-b109-879e35c24276.jpg",
       "topic": "经济",
-      "score": 74,
+      "score": 73,
       "id": "d95326aa5274"
     },
     {
@@ -796,21 +861,21 @@
       "publishedAt": "2026-08-24T09:44:57.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "a8d917c9e349"
     },
     {
-      "title": "EU approves €6.1B for Ukraine's defense",
-      "summary": "EU approves €6.1B for Ukraine's defense &nbsp;&nbsp; Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNblJFbmY0SE9aSUktcE81WkhWUENDcmNRR2FHX04welFhdDVkaUV5QWRpQ1ZUUE1zVkhZT3liaXpUeVp3LUpRU0xRb2xRU3c3dHN0U0lIcEJJd2NwcEs0RmRRb2hMSWM5M3BVODN2dXZvTURsdm9WeFJ3XzI0MUhQelNkYmR3Mmc3Yk9vTGZQTUk?oc=5",
-      "source": "Breakingthenews.net",
-      "feed": "Europe News Network",
-      "region": "欧洲",
-      "publishedAt": "2026-08-24T06:25:00.000Z",
+      "title": "Book Review • Dreaming of a pragmatic West Asia from an ideological Middle East",
+      "summary": "Book Review • Dreaming of a pragmatic West Asia from an ideological Middle East &nbsp;&nbsp; Haaretz",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUFFwVXJtLUlDZFE4c1pBWXFKZnB1bEJ4VlRKVVB5V3VBcVpRZ0U0TVZwUzFWLWR0VDV3VmdaRVdCR3dQRE5qT3R4YUVfdXc3RkRwMm9WZU4xZ1FsTm5aTkNDcHZ2WVFMUEZWQTRJRnVkR2V0X1YyRTM2MEEwYmRmVk8yendmSmJqZ2pVUnNRdUN4a2xBZjdndlZMQTB5MUZkN3ZENDFIMVd3d0lKN0JMRmpnckFNaE9LN1ZieG5OcjNrQk1lWXllNkswNVlXMTJFNVhLbDRpSGhMdHZQTFlrSE1WQWFuaWNfVVFJWm5ZM1IyYXBhMDA0VU9UcHYteW9fdXNfMlF3?oc=5",
+      "source": "Haaretz",
+      "feed": "Middle East News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-24T15:45:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
-      "id": "e2adfe425c8c"
+      "score": 72,
+      "id": "f3657db24875"
     },
     {
       "title": "‘Barrel bomb mufti’ sentenced to life in Syria",
@@ -822,7 +887,7 @@
       "publishedAt": "2026-08-24T13:02:44.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "84d094bc3d97"
     },
     {
@@ -835,8 +900,21 @@
       "publishedAt": "2026-08-24T12:34:51.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/44dd27dc8b8f252781a81701e495e228?impolicy=wcms_crop_resize&cropH=2719&cropW=4833&xPos=0&yPos=111&width=862&height=485",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "69068a3ec842"
+    },
+    {
+      "title": "US Strike on Boat in Eastern Pacific Kills 2",
+      "summary": "US Strike on Boat in Eastern Pacific Kills 2 &nbsp;&nbsp; Newsmax",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNVE4aVRsTjdRR045STVZeFZNNFdGdW0wSHIwaEVHSGI1T1Jtd3FBR0N5dUExNVRWakFONzNuQTFlSE9vS2JzbE9ydU9xTXMtVC11Um1kR2RfblNpVEI3c01BaEhXYWpORUJtbVFaWFlfZXlzWkdXejNYdHZFZzBJbmNB?oc=5",
+      "source": "Newsmax",
+      "feed": "Latin America News Network",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-24T12:26:53.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "84fa8b8dc78e"
     },
     {
       "title": "‘One of a kind’ Race Across The World star Jo Gardiner dies a year after son",
@@ -848,7 +926,7 @@
       "publishedAt": "2026-08-24T09:26:47.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "75ebedeb8327"
     },
     {
@@ -861,86 +939,8 @@
       "publishedAt": "2026-08-24T09:19:21.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/293efa51bd85496faa9a9a9dd756f8d1?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=302&width=862&height=485",
       "topic": "社会",
-      "score": 73,
-      "id": "6a805a62eff3"
-    },
-    {
-      "title": "Matildas star receives rousing welcome in return after mother's death",
-      "summary": "Kyra Cooney-Cross is warmly welcomed back onto the field by Arsenal fans after missing the end of last season due to her mother's illness.",
-      "url": "https://www.abc.net.au/news/2026-08-24/kyra-cooney-cross-welcomed-back-to-arsenal-after-mothers-death/107073230",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-24T09:01:44.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/c7801809636779d86a6ec71ae5cefc90?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=133&width=862&height=485",
-      "topic": "政治",
-      "score": 73,
-      "id": "d38ada61533a"
-    },
-    {
-      "title": "Exclusive CCTV captures the violence facing Coles workers",
-      "summary": "Exclusive video obtained by 7.30 highlights shocking scenes of aggressive behaviour towards retail workers, including a customer armed with a hammer and a security guard being thrown into a check-out machine.",
-      "url": "https://www.abc.net.au/news/2026-08-24/cctv-retail-workers-violence-coles-staff-threatening/107064028",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-24T08:47:13.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/4f1a70859e121b5e56a4f468ea60e867?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-      "topic": "政治",
-      "score": 73,
-      "id": "e925e30697d8"
-    },
-    {
-      "title": "E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage",
-      "summary": "The settlement threatens Palestinian statehood. But it could help Israel's PM, other far-right leaders before elections.",
-      "url": "https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-24T08:45:10.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "d0e31140364b"
-    },
-    {
-      "title": "Australian shark attack victim grateful for 'second chance at life'",
-      "summary": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
-      "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-24T05:31:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2afc/live/c95cb650-9f81-11f1-a291-b542ee92de7c.jpg",
-      "topic": "政治",
-      "score": 73,
-      "id": "ebef3a97d18e"
-    },
-    {
-      "title": "Asia mostly lower before new Iran sanctions",
-      "summary": "Asia mostly lower before new Iran sanctions &nbsp;&nbsp; Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONC1IeEFxRF9oNjJhSEFVb2ZySEkxWVFqNEJpam1fNGt2MTRrc1hhN1U2am5qdDVVeU1aU1FKWlZ0S2xrWHBOUjBuREZJQkVMSEtEanhPLWdaNUd4UEpfNl8zOVVkZmRTUUdvdmlVUExjOE5XNzBxYjg4OXBLMW0xUEtOelBUcjZBQ1Y3SjNqYWlXdw?oc=5",
-      "source": "Breakingthenews.net",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-24T02:05:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "24538edb4786"
-    },
-    {
-      "title": "AIPAC brand turns toxic as pro-Israel Republican asks lobby to stay out of Michigan race",
-      "summary": "AIPAC brand turns toxic as pro-Israel Republican asks lobby to stay out of Michigan race &nbsp;&nbsp; Middle East Monitor",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNHhCLUlYc2x2MmdycWtNOFVBa25GZmZwbnZqSGQyM3k5U3p0R0hvYTZWWHJfM0ZBTDJ6SWtKZzNkS1dnSzNMenc4NzNjQWVqaHZYMnF3VUZoUElJSkhnckV1UEZsbWcyUy0zZFV5bTRYbThEYzYwUlhLRXF6clg3Q0dSaFRvdUJpYmw3bV9sRFRGZ25BNjhMOTZBRXZRdDNkR3d3aVdaUzR3X2Z5MlE4LUhBWEs5QTB6Y1kwaTVWbVFOQzdWYXRWMHZyMkLSAdIBQVVfeXFMUGNoMlJOTUJQZ0J1eUFCWVZCcjY2QUFYblhNLWYzMFlhcXVmcDJ6ZTN6YlZOR1YzY25FaEk3dEtuVVA3TFpkMUYzTTlQTFBRRUxlTGZRanpDMDFFMVNERTZvbzdYVGdEcVd5TTVEZmhpV1pBM3ItWk9GUVpDN3A0WlBPWmpzaXJrQzF3NHBnR3Ywd0Q5T1c2TDdXbjlZMnlpMGg3Z1ZMTGlyOWNHNzF5Nk85Vkx5YmptYVdPM3VaYzJvUE1wYTVoQlcxeFNXeWVMVDhR?oc=5",
-      "source": "Middle East Monitor",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-24T14:44:00.000Z",
-      "image": "",
-      "topic": "社会",
       "score": 72,
-      "id": "12f2887ac18f"
+      "id": "6a805a62eff3"
     }
   ]
 }
