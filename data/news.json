@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T15:08:22.886Z",
+  "updatedAt": "2026-08-25T16:02:54.596Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -7,17 +7,17 @@
   "methodology": "Recency + impact signals + cross-source corroboration + geographic diversity",
   "items": [
     {
-      "title": "Trump claims US could rename Lake Ontario as Lake America amid Canada trade war – live",
-      "summary": "Lake Ontario lies on the border between the two countries, with New York state on one side and Toronto, the capital of Canada’s Ontario province, on the other Sign up for the US Breaking News email On Truth Social, however, the president shot down assertions that the US talks with Canada collapsed in part due a proposed trade deal that would have weakened Fr",
+      "title": "Canada announces 50% retaliatory tariffs on hundreds of US goods as trade war escalates – live",
+      "summary": "Move by Canada comes after US president spent morning railing against the country, calling it the ‘most difficult’ nation he deals with Sign up for the US Breaking News email On Truth Social, however, the president shot down assertions that the US talks with Canada collapsed in part due a proposed trade deal that would have weakened French language protectio",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "美洲",
-      "publishedAt": "2026-08-25T14:28:35.000Z",
-      "image": "https://i.guim.co.uk/img/media/90fad6afcdb7ea467e5a465ab72cf35721182594/291_125_2893_2314/master/2893.jpg?width=140&quality=85&auto=format&fit=max&s=9ea7a73171638c62c590407898272222",
+      "publishedAt": "2026-08-25T15:42:38.000Z",
+      "image": "https://i.guim.co.uk/img/media/48d735ee2b3222679bddc97b3e2f988db75f0c87/512_0_5132_4105/master/5132.jpg?width=140&quality=85&auto=format&fit=max&s=5be0b5529f21593de2fc341557ae0880",
       "topic": "政治",
-      "score": 93,
-      "id": "483114648766"
+      "score": 100,
+      "id": "e58dd603e67e"
     },
     {
       "title": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports",
@@ -26,11 +26,24 @@
       "source": "Reuters",
       "feed": "Middle East News Network",
       "region": "中东",
-      "publishedAt": "2026-08-25T10:57:43.000Z",
+      "publishedAt": "2026-08-25T14:54:37.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 95,
+      "id": "4ca6080ac682"
+    },
+    {
+      "title": "US launches Economic war on Iran",
+      "summary": "The US says it has launched ‘Operation Economic Outcast’, expanding sanctions on Iran",
+      "url": "https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-25T15:12:00.000Z",
       "image": "",
       "topic": "政治",
       "score": 92,
-      "id": "4ca6080ac682"
+      "id": "3fb9f4c79caa"
     },
     {
       "title": "US preparing to send diplomats back to Middle East embassies after Iran war evacuations - report",
@@ -42,21 +55,21 @@
       "publishedAt": "2026-08-25T10:31:57.000Z",
       "image": "",
       "topic": "政治",
-      "score": 91,
+      "score": 90,
       "id": "c286bb2e0a36"
     },
     {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East",
-      "summary": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East &nbsp;&nbsp; Boston Herald",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMWVQOUtVanNjLTQ4aHBsU0xmVHVVOTZtY1F3X0NGbTRqeERya2hMR1V5N0xiSlNQcGkwc05GRFhKY2Q0Vi1rNVZxMS1xOEEtZ194VnhpOE5mbVNvNFpYTVlDS1ZjUkZzUUJybzU0dmwtSWpqU0VNeW4tV1VQZGJVVHo3QnZUNlBRcXNJZGhkRzhaSWRsZ1BtSnlqbw?oc=5",
-      "source": "Boston Herald",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-25T12:39:49.000Z",
+      "title": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
+      "summary": "The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "美洲",
+      "publishedAt": "2026-08-25T15:20:18.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 89,
-      "id": "254c56205345"
+      "topic": "经济",
+      "score": 88,
+      "id": "113965bc4047"
     },
     {
       "title": "USA begins the return of evacuated diplomats to the Middle East after the war with Iran",
@@ -68,8 +81,21 @@
       "publishedAt": "2026-08-25T12:16:32.000Z",
       "image": "",
       "topic": "政治",
-      "score": 89,
+      "score": 88,
       "id": "dd1baac3f8df"
+    },
+    {
+      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East",
+      "summary": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East &nbsp;&nbsp; San Bernardino Sun",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaF8xaEkxZy1UT05IdGRQSlB3ZE5YSWRuWW1TMzBhX2RTSHlDYmF0eTFCeXBuYU1aYkotTkRFZ2JHQmNqbG9oUkxMSWZaRWIzREFJVVN2NFI4eHJWWlBWeE1HbVQxeDFxYWdBWVJta05Nb05CemNqSWNCLW1mVFlEaHZJWkZGTWRpMGhmbExmUDR1dw?oc=5",
+      "source": "San Bernardino Sun",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-25T11:19:51.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 87,
+      "id": "ff00a592bb9a"
     },
     {
       "title": "US to send diplomats back to Middle East embassies evacuated during war — report",
@@ -81,21 +107,8 @@
       "publishedAt": "2026-08-25T10:19:46.000Z",
       "image": "",
       "topic": "政治",
-      "score": 86,
-      "id": "c0b8a23a7326"
-    },
-    {
-      "title": "China denounces US threat of sanctions over trade with Iran",
-      "summary": "Beijing says it will take ‘all necessary measures’ to protect its interests as US steps up efforts to isolate Tehran Explainer: could US sanctions threaten China-Iran ties? China has denounced the threat of US sanctions for its trade with Iran , saying any such measures would be illegal, and warned it would take “all necessary measures” to protect its nation",
-      "url": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-08-25T11:43:14.000Z",
-      "image": "https://i.guim.co.uk/img/media/77f6b7563b4ecc87e66bf199e323ebeb482e3e43/305_0_4945_3956/master/4945.jpg?width=140&quality=85&auto=format&fit=max&s=d563f654f419a66bf4df2c93d8d4c67e",
-      "topic": "政治",
       "score": 85,
-      "id": "46db43be75c3"
+      "id": "c0b8a23a7326"
     },
     {
       "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
@@ -104,11 +117,50 @@
       "source": "The Guardian",
       "feed": "The Guardian",
       "region": "欧洲",
-      "publishedAt": "2026-08-25T14:49:04.000Z",
+      "publishedAt": "2026-08-25T15:27:56.000Z",
       "image": "https://i.guim.co.uk/img/media/36c84248610af0ec823feca23e5ca89bdcf2bea9/519_0_5885_4708/master/5885.jpg?width=140&quality=85&auto=format&fit=max&s=96d7323e01c66f1d5dcb8d735c22a5e3",
       "topic": "政治",
       "score": 84,
       "id": "3b98e3f63990"
+    },
+    {
+      "title": "Nine years of Rohingya refugee crisis",
+      "summary": "Nine years of Rohingya refugee crisis",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nine-years-of-rohingya-refugee-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-25T15:24:31.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 84,
+      "id": "b6a84897ccc0"
+    },
+    {
+      "title": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
+      "summary": "A ceremony was held in Gaza to mark one year since an Israeli double strike killed 22 Palestinians in a hospital.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-25T15:23:17.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 84,
+      "id": "9b01392f5327"
+    },
+    {
+      "title": "'Forget about going back': 9 years on, Rohingya crisis enters dangerous phase",
+      "summary": "The world largely moved on from the Rohingya crisis. But the exodus has not stopped, aid is shrinking and a generation of refugees is growing up with little prospect of going home.",
+      "url": "https://www.npr.org/2026/08/25/g-s1-140007/forget-about-going-back-9-years-on-rohingya-crisis-enters-dangerous-phase",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "美洲",
+      "publishedAt": "2026-08-25T14:59:12.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 83,
+      "id": "869c2281aca5"
     },
     {
       "title": "China says will safeguard its own interests as US expands Iran sanctions",
@@ -120,34 +172,8 @@
       "publishedAt": "2026-08-25T14:43:12.000Z",
       "image": "",
       "topic": "政治",
-      "score": 84,
+      "score": 83,
       "id": "6fbc63e57750"
-    },
-    {
-      "title": "Two unvaccinated people die of measles in Pennsylvania",
-      "summary": "Deaths from disease are first in state in 35 years and just one day after Maryland declared outbreak in three counties Two unvaccinated individuals have died of measles in Pennsylvania, state health officials announced on Tuesday. The deaths are the first in the state in 35 years and have been announced just one day after Maryland declared a measles outbreak",
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/measles-deaths-pennsylvania",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-25T14:34:54.000Z",
-      "image": "https://i.guim.co.uk/img/media/8a80cb6671a358ee496a823fea7744426d0cbab6/481_0_3543_2835/master/3543.jpg?width=140&quality=85&auto=format&fit=max&s=5533c4ef8270fec39c7c014969f3354b",
-      "topic": "社会",
-      "score": 84,
-      "id": "f1384b321c72"
-    },
-    {
-      "title": "How the US sanctions on Iran impact China",
-      "summary": "US sanctions Chinese firms over Iran links but spare big banks as Trump and Xi eye key talks.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/how-the-us-sanctions-on-iran-impact-china?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-25T11:30:08.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 84,
-      "id": "0775ad7ab3af"
     },
     {
       "title": "US diplomats heading back to Middle East as immediate Iran war risk recedes: Report",
@@ -159,7 +185,7 @@
       "publishedAt": "2026-08-25T11:11:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "2d1665d8f614"
     },
     {
@@ -172,7 +198,7 @@
       "publishedAt": "2026-08-25T13:10:24.000Z",
       "image": "",
       "topic": "经济",
-      "score": 82,
+      "score": 81,
       "id": "77ca3975f50b"
     },
     {
@@ -185,21 +211,125 @@
       "publishedAt": "2026-08-25T10:33:05.000Z",
       "image": "",
       "topic": "社会",
-      "score": 82,
+      "score": 81,
       "id": "3bad384fa86a"
     },
     {
-      "title": "Rohingya refugees demand justice, dignity at Cox’s Bazar protest",
-      "summary": "The United Council of Rohingya refugee group says it organised the protest to highlight 'ongoing humanitarian crisis'.",
-      "url": "https://www.aljazeera.com/news/2026/8/25/rohingya-refugees-demand-justice-dignity-at-coxs-bazar-protest?traffic_source=rss",
+      "title": "VW workers boo boss as he urges them to ‘pull together’ amid job cuts",
+      "summary": "Oliver Blume faces workforce at German HQ as carmaker struggles against Chinese competition and US tariffs The chief executive of Volkswagen has faced boos and whistles of protest at the company’s headquarters after telling thousands of workers that a comprehensive reorganisation, which could include job losses and factory closures, is vital for its future. ",
+      "url": "https://www.theguardian.com/business/2026/aug/25/vw-workers-boo-boss-as-he-urges-them-to-pull-together-amid-job-cuts",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-25T15:47:56.000Z",
+      "image": "https://i.guim.co.uk/img/media/ad5b9fb848f9da063293105f4cd9669d2f533ca9/636_0_4520_3616/master/4520.jpg?width=140&quality=85&auto=format&fit=max&s=8b983bbcc60b02a145f4df0cecb2a361",
+      "topic": "政治",
+      "score": 80,
+      "id": "9e1f22e9765d"
+    },
+    {
+      "title": "Judge rejects Ghislaine Maxwell’s sex-trafficking appeal, calling claims ‘demonstrably meritless’",
+      "summary": "Maxwell sought to vacate Epstein-related conviction, alleging hidden trial evidence and juror’s abuse history Sign up for the Breaking News US newsletter email A federal judge has rejected Ghislaine Maxwell ’s legal effort to throw out her 2021 conviction on sex-trafficking charges and 20-year prison sentence, calling her claims “demonstrably meritless, and ",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/ghislaine-maxwell-sex-trafficking-appeal",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-25T15:46:22.000Z",
+      "image": "https://i.guim.co.uk/img/media/3f473f0b7e0731d09078671529f9da4fae2e4fbf/6_0_4684_3748/master/4684.jpg?width=140&quality=85&auto=format&fit=max&s=97257265ad873388b2e3d9ce3fcf7e38",
+      "topic": "社会",
+      "score": 80,
+      "id": "11b4fa4c05fe"
+    },
+    {
+      "title": "Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing",
+      "summary": "Chinese robot seven-tenths of a ⁠second faster than the 9.58-second men's world record set by ​Usain Bolt in 100m.",
+      "url": "https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss",
       "source": "Al Jazeera",
       "feed": "Al Jazeera",
       "region": "全球",
-      "publishedAt": "2026-08-25T12:15:19.000Z",
+      "publishedAt": "2026-08-25T15:42:43.000Z",
+      "image": "",
+      "topic": "科技",
+      "score": 80,
+      "id": "0275ecc49667"
+    },
+    {
+      "title": "Infantino’s presidency under threat: FIFA elections, challengers, dates",
+      "summary": "Amid waning support and growing criticism, the FIFA chief looks to hold onto his powerful position in world football.",
+      "url": "https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-25T15:42:21.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
-      "id": "f0b41ea82f5e"
+      "score": 80,
+      "id": "09516ed5dae3"
+    },
+    {
+      "title": "The president of the FEMP leaves her position to Vivas in the European Committee of the Regions to address the crisis in Ceuta",
+      "summary": "The president of the FEMP leaves her position to Vivas in the European Committee of the Regions to address the crisis in Ceuta &nbsp;&nbsp; Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVnR2V1BXZk5sOU9ocWxnVEJjcmdiWkV1VGtnUWZLbkNyTHJ2MFUzWlF4Q0N1Q0I5b29qUmE4d0RfY2dYVkpZMEd1ZmdnOE1XVmlsNExicklnSnVGdXpjRjYtSl91QmVPdlpIdzVaN2ZUQ09sZWdYdGJsbmtfYW42d0FyWWdaaGZHQkNhWFlmanRibnRwdGwwNndsSG5oUEp3b1Y3bkFxSEJiaUdjdldwa0FEdTQ3TXh1OVFGMkFpWWxGdEN0d0FjMUdmdmZoOVVjNHdsQTMtV1htbjFULVRqdkluN3ZEeUZZMGhUbHhkWEpmRjl1TFFYczdqdHNuZzjSAYQCQVVfeXFMTk9Ndl8yNS1hb2tVWTI2OGt5bS1FSlB6OHNjdkVQWVN6QktGN2ZuNHI2WEJ0SlFidzg2azFzWUY1ZkE1dzc4RkZ1X3VEdXpRU2NFclNMdUJ1Mk9rQXp3Q09XaENJVmdpSlpuMkVIZjlmdUFSTVRSZzN3VnRQUWJoWDdISzJweGVJYWl2MnVmako4MnFJaXB2Zm1BVGNyZ3NNbjdRR21pVmZEWUljOE52d3BHdHFTaFJoQmJwTy1ad2lRS1czYllLa2Y4NTY5aTByQXFGajBBX0VpRktzNGlJc3lnOVRiVjI1c1c5eTdwXzg4V21Rc0xUTVc5eFd0RGJmYzhDM3M?oc=5",
+      "source": "Demócrata",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-25T15:38:40.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 80,
+      "id": "436086447bbd"
+    },
+    {
+      "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
+      "summary": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran — and years of economic pressure on the country.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+      "source": "NPR World",
+      "feed": "NPR World",
+      "region": "中东",
+      "publishedAt": "2026-08-25T09:07:09.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 80,
+      "id": "82280a955b57"
+    },
+    {
+      "title": "Qatar says US sanctions on Iran are unilateral",
+      "summary": "Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-25T15:17:05.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 79,
+      "id": "271c1579a3d1"
+    },
+    {
+      "title": "One year since Gaza journalist killed by Israel",
+      "summary": "It’s been one year since AP journalist Mariam Dagga was killed in Israeli strikes on Gaza’s Nasser Hospital.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-25T15:09:10.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "a70ad4c4c62f"
+    },
+    {
+      "title": "Badenoch plotted to remove Sunak as PM months before election, book claims",
+      "summary": "Anthony Seldon’s book alleges Badenoch asked fellow Tory ministers ‘if anyone was interested in changing the captain’ Kemi Badenoch plotted with fellow Conservative cabinet ministers to remove Rishi Sunak as prime minister months before the general election, it has been claimed. Anthony Seldon, who has written political biographies of every prime minister si",
+      "url": "https://www.theguardian.com/politics/2026/aug/25/kemi-badenoch-rishi-sunak-conservatives-anthony-seldon-book",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-25T15:05:00.000Z",
+      "image": "https://i.guim.co.uk/img/media/d5496efd69b2e06965e8c0334ec71d92c05c9ed6/1529_407_3404_2724/master/3404.jpg?width=140&quality=85&auto=format&fit=max&s=e70799251d7f0fca7641c7f3524ecfb1",
+      "topic": "政治",
+      "score": 79,
+      "id": "def4f4ca88ed"
     },
     {
       "title": "Australia may face a rush of datacentre construction as AI firms look to dodge upcoming rules, experts say",
@@ -211,7 +341,7 @@
       "publishedAt": "2026-08-25T15:00:19.000Z",
       "image": "https://i.guim.co.uk/img/media/fcf83ae1000340be66ba4432fe0964ba774071ca/491_0_3833_3067/master/3833.jpg?width=140&quality=85&auto=format&fit=max&s=33bacfd9ebaf3225667b2a1e7bfc1e8d",
       "topic": "科技",
-      "score": 80,
+      "score": 79,
       "id": "339ccf9c2425"
     },
     {
@@ -224,21 +354,21 @@
       "publishedAt": "2026-08-25T15:00:18.000Z",
       "image": "https://i.guim.co.uk/img/media/2ebdb1fe64733a26de1387e8962e485233468c38/494_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=6da1ed03de542531fa2ff09381f7362a",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "e12e0082010a"
     },
     {
-      "title": "'Forget about going back': 9 years on, Rohingya crisis enters dangerous phase",
-      "summary": "The world largely moved on from the Rohingya crisis. But the exodus has not stopped, aid is shrinking and a generation of refugees is growing up with little prospect of going home.",
-      "url": "https://www.npr.org/2026/08/25/g-s1-140007/forget-about-going-back-9-years-on-rohingya-crisis-enters-dangerous-phase",
-      "source": "NPR World",
-      "feed": "NPR World",
+      "title": "Trump floats renaming Lake Ontario to Lake America during Canada trade war",
+      "summary": "Lake Ontario borders both the Canadian province of Ontario and the US state of New York.",
+      "url": "https://www.aljazeera.com/news/2026/8/25/trump-floats-renaming-lake-ontario-to-lake-america-during-canada-trade-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
       "region": "美洲",
-      "publishedAt": "2026-08-25T14:59:12.000Z",
+      "publishedAt": "2026-08-25T14:53:45.000Z",
       "image": "",
-      "topic": "社会",
-      "score": 80,
-      "id": "869c2281aca5"
+      "topic": "政治",
+      "score": 79,
+      "id": "4c5ee33a1834"
     },
     {
       "title": "Louisiana supreme court justice wins rare $300,000 defamation trial against newspaper",
@@ -250,21 +380,21 @@
       "publishedAt": "2026-08-25T14:37:10.000Z",
       "image": "https://i.guim.co.uk/img/media/ecf10c8ec077560d7359bbe769ea27a0129bbff0/0_183_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=3f29e5d9b0874da3719b1025ef61ed09",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "42308e572f1d"
     },
     {
-      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-      "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
+      "title": "China denounces US threat of sanctions over trade with Iran",
+      "summary": "Beijing says it will take ‘all necessary measures’ to protect its interests as US steps up efforts to isolate Tehran Explainer: could US sanctions threaten China-Iran ties? China has denounced the threat of US sanctions for its trade with Iran , saying any such measures would be illegal, and warned it would take “all necessary measures” to protect its nation",
+      "url": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
+      "source": "The Guardian",
+      "feed": "The Guardian",
       "region": "亚洲",
-      "publishedAt": "2026-08-25T11:53:36.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc68/live/708dead0-a076-11f1-bf10-9547e884d7b7.jpg",
-      "topic": "经济",
-      "score": 80,
-      "id": "49d0eae2dfc8"
+      "publishedAt": "2026-08-25T11:43:14.000Z",
+      "image": "https://i.guim.co.uk/img/media/77f6b7563b4ecc87e66bf199e323ebeb482e3e43/305_0_4945_3956/master/4945.jpg?width=140&quality=85&auto=format&fit=max&s=d563f654f419a66bf4df2c93d8d4c67e",
+      "topic": "政治",
+      "score": 79,
+      "id": "46db43be75c3"
     },
     {
       "title": "Residents killed overnight not far from police station in Haiti",
@@ -276,7 +406,7 @@
       "publishedAt": "2026-08-25T11:26:35.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/690628e70b56fd0289c7a067018f522b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "dec2855f038a"
     },
     {
@@ -289,8 +419,21 @@
       "publishedAt": "2026-08-25T11:09:01.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "9198c6e8a5a0"
+    },
+    {
+      "title": "Klaveness Q2 2026 slides: record results amid Middle East crisis By Investing.com",
+      "summary": "Klaveness Q2 2026 slides: record results amid Middle East crisis By Investing.com &nbsp;&nbsp; Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY1NvclNqZU5XQllkcW5vZFZ6Y0lVYzV6aGwtcWEzYURGSFFQTzBFOTFQbmlMaFNkV1R6d283TUNvU3RJMzVBcVZvaWpvaWpuZWlMbGxyNGVWWTV6MVUtbU9HYXdFbTlTdDVhMWoyazVCMVRwcFBRdHM0akJvUVpTa1Vub1JoNG1pTEU2ZFRjZmFCNW9DLTZuQVRWTzN0UGlOVENnZXhxU251M3JmRnlmVnZkU1laZ3JJcjBJbWJhaDhvQQ?oc=5",
+      "source": "Investing.com Nigeria",
+      "feed": "Middle East News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-25T08:32:08.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 79,
+      "id": "b2e2ff53e845"
     },
     {
       "title": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
@@ -302,7 +445,7 @@
       "publishedAt": "2026-08-25T14:17:06.000Z",
       "image": "",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "1959a85b31c4"
     },
     {
@@ -315,7 +458,7 @@
       "publishedAt": "2026-08-25T14:06:25.000Z",
       "image": "https://i.guim.co.uk/img/media/a5effac18fe755410428e3b26378405044036759/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=630de30d4d82935aca7f8a96efaf9999",
       "topic": "政治",
-      "score": 79,
+      "score": 78,
       "id": "abb1c680fbf6"
     },
     {
@@ -328,21 +471,8 @@
       "publishedAt": "2026-08-25T13:26:22.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "ebbc0ca27ded"
-    },
-    {
-      "title": "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
-      "summary": "A group of displaced girls in Gaza finds moments of joy, safety, and self-expression at a weekly movie screening.",
-      "url": "https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-25T13:25:21.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 78,
-      "id": "fef189a428d7"
     },
     {
       "title": "Five more arrested over crash that killed seven people including two police officers",
@@ -354,34 +484,8 @@
       "publishedAt": "2026-08-25T13:20:11.000Z",
       "image": "https://i.guim.co.uk/img/media/5a8f6cc79480a3b4e952c6219aad15b7d50fd03d/504_0_3596_2877/master/3596.jpg?width=140&quality=85&auto=format&fit=max&s=a95dfb10f82a33e765aa5c9a4d8af1a7",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "315080c62ef1"
-    },
-    {
-      "title": "US diplomats set to return to Middle East embassies despite stalled Iran talks: Report",
-      "summary": "US diplomats set to return to Middle East embassies despite stalled Iran talks: Report &nbsp;&nbsp; WION",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSmhDVlVWQzY0eFlQai1XLTViTnJvUUx4WDhrd1ROVVF5TWxGZFA5dmxYNXhTckNhT3BndHhNTUh0MnhjXzJUTTg3NzJPalBNTHNXQVM2QWhxNFBnODJMQnNxcXE3dTNrSUladTR1dktDSTY5N0laUW5oRE0yd3hzUUlHdWgzTVU3Y0xIbVVDeHpXRGpPMXFIbnRYczlvanh2eHpvaV9Ba3RhQkVCM192VU9QT3Jpc2o3amJ5Y19GTWFLMmJibFZ3T9IBzgFBVV95cUxPN0NKblFYR1ltRzRPVEloTWNjak9nbjFqQU0zY0VZWFlCbHc2ZEVmUm50OWtuUnlZWDlvd3M1NzdGdUdSbjFkb2Y2a2RCaFJhVTM3TmhFV3dOVjQ2ZGNNVkFaM1NuMmNkeC14d0JHNVVtU3BVLWF0UTZWZHFZclBrMjBVeGpCb0NfX2dLLUpNS2RjbFE3aW5WX2NVU1RsbHk3WXRGVVBKN3B2YkVHejNuU0l1QXBTeWE2S0hZcDBhR296MDdoV1JOR1RfWmt2dw?oc=5",
-      "source": "WION",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-25T13:17:00.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 78,
-      "id": "db4eee19d86c"
-    },
-    {
-      "title": "Mother and two-year-old daughter killed by lightning strike in Florida",
-      "summary": "Kenya Glasgow and her toddler died after lightning struck in Margate, near Fort Lauderdale A mother and her toddler were killed recently by a lightning strike in south Florida , local authorities said. The tragedy happened in Margate, near Fort Lauderdale, on Sunday. The victims were Kenya Glasgow, 31, and her two-year-old daughter, named in media reports as",
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/mother-daughter-killed-lightning-florida",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "非洲",
-      "publishedAt": "2026-08-25T13:05:23.000Z",
-      "image": "https://i.guim.co.uk/img/media/054ae7b516879c39b7fb3ea84fb7b4d2e1c1954a/381_0_3813_3051/master/3813.jpg?width=140&quality=85&auto=format&fit=max&s=95b23cfdf2ad89502a81b2a7f99806e1",
-      "topic": "社会",
-      "score": 78,
-      "id": "1c75a030cc4f"
     },
     {
       "title": "What to expect in elections in South Carolina, Georgia and Oklahoma",
@@ -393,7 +497,7 @@
       "publishedAt": "2026-08-25T12:58:23.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "a1bec36621dc"
     },
     {
@@ -406,21 +510,73 @@
       "publishedAt": "2026-08-25T09:54:38.000Z",
       "image": "https://i.guim.co.uk/img/media/df6488547114916af5bad7c2360ddbec8d145998/1342_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fbb01f44b65ffc54a660cd01f20224d2",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "ce22730f707c"
     },
     {
-      "title": "Iran warns of a harsh response as US announces new sanctions and other Middle East news",
-      "summary": "Iran warns of a harsh response as US announces new sanctions and other Middle East news &nbsp;&nbsp; Caledonian Record",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdk9ucWhNMGw0a3lab3ZObHl6YUxmR09rZlRtblNrZDY1dW1nX1VKdmhKdVBYZWlpcGVMbF9hV3hzb3BORjNIT3FuZzNkTFNUMTdxQlJNb08tbWpzOWVtN3RfWDEzcE5aOS1NVDhxQTV0R0FRX0s3RVpZQUVHci1GdHlXRjdrRWFWbURHalNEemxuU2ZyTmJFenJnX0ljeFN6VXNqNmVvZWJPS2RuQy1LSm9XRUJzSk1DOWRRNXRsV1V1NkhROFBZeGtPYWFLNWNDUkp3LWVhTzNZeG9zbUlmVlhGOG9mU3VhamdDdmRDRE5Sc0N1RVp4SUl3VzJnbzZCNzZxdTBB?oc=5",
-      "source": "Caledonian Record",
-      "feed": "Middle East News Network",
-      "region": "中东",
-      "publishedAt": "2026-08-24T20:14:24.000Z",
+      "title": "Nevada wildfire contained to 27 percent as thousands still displaced",
+      "summary": "The third wildfire in two weeks devastates neighbourhoods across Reno, home to major entertainment and casino resorts.",
+      "url": "https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "全球",
+      "publishedAt": "2026-08-25T15:52:42.000Z",
       "image": "",
+      "topic": "气候",
+      "score": 76,
+      "id": "3292d22ed44d"
+    },
+    {
+      "title": "Amun Resigns After Submitting NFF Fact-Finding Report",
+      "summary": "Amun Resigns After Submitting NFF Fact-Finding Report &nbsp;&nbsp; Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUEhEbEU4RkNpblJrUkV2bzdTMlFMUW92WmEtR1VYLWxEWDZOdFJMNmZRUHlJbDMwMERSSGxKdXl1OFltbURQRUkxQXE4ZmdBOXo3V1hhVGhiODFQRWE1N0dNbEMtYlVzWWIyRU9jVERxVXpVVE1ncnZUUVNacFZmUkxQTGZ4MGdJV3JMYUZ3?oc=5",
+      "source": "Africa Top Sports",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-25T15:49:52.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "b16c200fa84d"
+    },
+    {
+      "title": "CIA chief in Moscow for unannounced talks, US media reports",
+      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "欧洲",
+      "publishedAt": "2026-08-25T15:43:50.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e3/live/0854ea30-a095-11f1-91dc-4919512f173f.jpg",
       "topic": "政治",
-      "score": 78,
-      "id": "db4fdc2700be"
+      "score": 76,
+      "id": "edaa56053b29"
+    },
+    {
+      "title": "US immigration officers reassigned to screen South African refugees and find ‘unlawful’ voters",
+      "summary": "Exclusive: internal correspondence reveals USCIS anti-fraud officers shifted on to two ‘high-priority’ initiatives All US immigration officers working for a key anti-fraud unit have been reassigned by Donald Trump’s administration to focus on screening South African refugees and alleged “unlawful” voters. Fraud Detection and National Security Directorate (FD",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/uscis-immigration-officers-reassigned",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "非洲",
+      "publishedAt": "2026-08-25T15:41:13.000Z",
+      "image": "https://i.guim.co.uk/img/media/5774c8ecb4253f999d056a82edc824b708c1af8d/377_0_4396_3516/master/4396.jpg?width=140&quality=85&auto=format&fit=max&s=e51069b78bceb1fc26cdad829d46485b",
+      "topic": "社会",
+      "score": 76,
+      "id": "8cac11befde8"
+    },
+    {
+      "title": "Europe closes mostly higher after data",
+      "summary": "Europe closes mostly higher after data &nbsp;&nbsp; Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXk2TlYzMEFpUUJSalZ6SXQwczV6bjRTZ21vWjJfaUJxNE04TTJfT2hBWC1NZEU3c2pfdEFGbGVXdjlFUDB2Y0xkbW9Vb1N2RHpaa1lmal81ZjJ1Nmg1d29hUnJUbGwyWUNlVE1kNk5kaUxrVDJSYmI1WTZvNlNCeTFBUWx6dXJpSDNZ?oc=5",
+      "source": "Breakingthenews.net",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-25T15:35:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "353d57cae615"
     },
     {
       "title": "Lockerbie bombing trial delayed after new evidence discovered",
@@ -432,34 +588,8 @@
       "publishedAt": "2026-08-25T12:41:59.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/caeb95cf9e46a5a6caf3bac3c9756e94?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=240&width=862&height=485",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "cd54182f9814"
-    },
-    {
-      "title": "Third drone and suspected military explosives found near Leipzig airport",
-      "summary": "Local media report discovery by German investigators after attempted attack on cargo and military logistics hub Europe live – latest updates German investigators uncovered a third drone and suspected military explosives thought to be connected to an attempted attack on Leipzig airport, local media have reported. The drone was discovered in Kabelsketal, just ",
-      "url": "https://www.theguardian.com/world/2026/aug/25/germany-drone-suspected-military-explosives-found-near-leipzig-airport",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "欧洲",
-      "publishedAt": "2026-08-25T12:37:24.000Z",
-      "image": "https://i.guim.co.uk/img/media/905e68e9072ad94a0fada6f94806012c003dc6fe/491_0_3411_2730/master/3411.jpg?width=140&quality=85&auto=format&fit=max&s=e7864870362485034d5744f7c8d454b7",
-      "topic": "政治",
-      "score": 77,
-      "id": "1806f9a32390"
-    },
-    {
-      "title": "Israeli Knesset member vandalises Palestinian memorial in West Bank",
-      "summary": "Right-wing Israeli politician Zvi Sukkot vandalised a memorial to Palestinians killed over decades, then uploaded a video of it online.",
-      "url": "https://www.abc.net.au/news/2026-08-25/israeli-politician-sledgehammers-palestinian-memorial/107077828",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "中东",
-      "publishedAt": "2026-08-25T12:33:55.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/012a96912ae200b7354187f0eaa092ef?impolicy=wcms_crop_resize&cropH=708&cropW=1258&xPos=0&yPos=265&width=862&height=485",
-      "topic": "经济",
-      "score": 77,
-      "id": "d97613cce385"
     },
     {
       "title": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
@@ -471,47 +601,8 @@
       "publishedAt": "2026-08-25T12:31:53.000Z",
       "image": "https://i.guim.co.uk/img/media/4a9f9d9a35e0debbe5f1f29de3098fb6da308e93/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=d5454f627c1b015a0635119b33a77a70",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "a2bec356a241"
-    },
-    {
-      "title": "How water becomes a weapon of war",
-      "summary": "A Palestinian spring now fills a swimming pool that belongs to Israeli settlers. AJLabs on how water became a weapon.",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/25/how-water-becomes-a-weapon-of-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "中东",
-      "publishedAt": "2026-08-25T12:20:37.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 77,
-      "id": "ca939e09ca34"
-    },
-    {
-      "title": "Rwanda accuses DR Congo of supporting an armed group on its soil",
-      "summary": "Rwanda says FDLR threat justifies its continued involvement in eastern DRC, as efforts to verify a ceasefire advance.",
-      "url": "https://www.aljazeera.com/news/2026/8/25/rwanda-accuses-dr-congo-of-supporting-an-armed-group-on-its-soil?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "非洲",
-      "publishedAt": "2026-08-25T12:17:56.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 77,
-      "id": "8d2987ad857b"
-    },
-    {
-      "title": "Five things to know about how record-breaking El Niño will affect us",
-      "summary": "Five things to know about how record-breaking El Niño will affect us &nbsp;&nbsp; 1News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcFRrODZabWVXTmpNY1dhRUFQTjhfYjdiSm9iS1BFMDk4SDNEX2ZRRW5BRXZCbTZWbVpfbk9jUzdMMHk3dmh4aHJ2UWVLYXZrZGUxQWh5VVZ5Yk9WTVk3WWdfYUlLclJUUXlVUGZqakpBZU9BYlZsUkdPR0lPV2RnUGtYa1VZemgzYU4zeF9hRGQxeU0zZi1lZXV5LTVrYTdWbWdDTHJoTQ?oc=5",
-      "source": "1News",
-      "feed": "Pacific News Network",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-25T12:06:37.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 77,
-      "id": "72809beda68c"
     },
     {
       "title": "SA20's Record-Breaking Season 4 Delivers $406 Million Boost To South Africa Economy",
@@ -523,7 +614,7 @@
       "publishedAt": "2026-08-25T09:17:11.000Z",
       "image": "",
       "topic": "经济",
-      "score": 77,
+      "score": 76,
       "id": "bb3c0a4893a3"
     },
     {
@@ -536,7 +627,7 @@
       "publishedAt": "2026-08-25T09:01:44.000Z",
       "image": "https://i.guim.co.uk/img/media/b423142762325e7c8d4a87649789be4b6dcb6f65/411_0_4113_3291/master/4113.jpg?width=140&quality=85&auto=format&fit=max&s=c982cf903a50d2446b814e9e546919eb",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "b0daac843655"
     },
     {
@@ -549,8 +640,73 @@
       "publishedAt": "2026-08-25T08:50:05.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/f09e5ff59f6870882eca2f7dc2e754d1?impolicy=wcms_crop_resize&cropH=2260&cropW=4017&xPos=0&yPos=263&width=862&height=485",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "96c01598701f"
+    },
+    {
+      "title": "Government lays out housing plans but Burnham backtracks on social renting pledge – as it happened",
+      "summary": "£10bn for housing with 60% social renting is at odds with PM’s previous call for programme to be spent entirely on social homes Ministers are looking at “a range of support” for vulnerable households struggling with rising bills, the energy secretary has said ahead of tomorrow’s Ofgem announcement on the energy cap level. PA Media reports forecasts have indi",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "全球",
+      "publishedAt": "2026-08-25T15:30:25.000Z",
+      "image": "https://i.guim.co.uk/img/media/bde04cf97a3ddf798e20b45db767cc0d3ecb0133/572_158_4132_3305/master/4132.jpg?width=140&quality=85&auto=format&fit=max&s=4b39bb1731e6f2cef9bf510c4d57d968",
+      "topic": "政治",
+      "score": 75,
+      "id": "7d521fb9e364"
+    },
+    {
+      "title": "Air India seeks $1.5bn from Tata, SIA as Pak airspace ban, Middle East war hit operations",
+      "summary": "Air India seeks $1.5bn from Tata, SIA as Pak airspace ban, Middle East war hit operations &nbsp;&nbsp; The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZW1EczZiRVpIeUdCbnJpUHd5VWhxTE42eV9jYURYUFpRUVdKQjVJUHQ1NUJSdjBCQlQwZUFiZjlIYXhHUVRRZW5wYVdleG83cnVVWi1iUDMyc2pnVENWLXZPc1EwaE9TUHNGbi14WVM0ZzJaazJpRktxQTRvUnU3MTlhcEZRcm5tWUpvOG5PN1dxOWZZaWtGMkV6U2d6MUU2UHJVRFg1U1VfbnBrX1hmdUFCZTVzaUFIbmZ2d0JEenVQOU5ZazA4cG1QZjBNQWJPYlljZ1VGbTBsWGkxRGxEMUJGVEFRU2lZcWVyN21BQk9RcVFILTNKc2lJUXM5aHNwdFHSAYcCQVVfeXFMT29BYXJEQm1iNVVJLUtpbTRrbUliemhILUFJc2lrcWlNSWlhZGlsdHNmSWxyc3NVc3ZEaVBzYUhFUTZkWDlwZGhmcW9jRm9HczVOS0hIclhJTFg2a3pJWnplTkJQb3loY2VrRlNmZ3NoWVByWFR1UkhHMkNIbThBWXZXVHZqM2pLSGhveE8yeFBYQ0hZYU5qR1NEQnY4cWk2ZkFKVjNMVFhsRXFzazVPLWlOMUVIaVRSYW04dU84ak90eGtIWDJxZGF0VzBpNjdrU2pWRUZvaTNDSUxPcUdHSktwUFhkNlVKSHBjZVdTTndrbFJQd3QyYllqeHQ2NU15UkR1Zm05ZDQ?oc=5",
+      "source": "The Times of India",
+      "feed": "Middle East News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-25T15:09:00.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "9776167c362d"
+    },
+    {
+      "title": "Ghislaine Maxwell loses bid to overturn sex trafficking conviction",
+      "summary": "The accomplice to notorious sex offender Jeffrey Epstein was convicted in 2021 of supplying under-aged girls to the deceased financier.",
+      "url": "https://www.abc.net.au/news/2026-08-26/maxwell-appeal-thrown-out/107078020",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-25T15:08:25.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a90b5e115cf60844277b59e4a035b52a?impolicy=wcms_crop_resize&cropH=888&cropW=1579&xPos=731&yPos=278&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "bc773780647d"
+    },
+    {
+      "title": "🔴 Mideast live: Trump says Strait of Hormuz demined, warns of ‘zero tolerance’ for new mines",
+      "summary": "🔴 Mideast live: Trump says Strait of Hormuz demined, warns of ‘zero tolerance’ for new mines &nbsp;&nbsp; France 24",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU0RsS0NyeG9kaEJwTjZkWW9ydUJnS1ZDNFg5VFJGdTF5a3hCU3BpMVF5SlVGMDNQN0JZbnRYM3FnZE5TM0dldnBHVlExZmRfejZMb0tKd0F3WTdnWjhoc3FtazFRWFZyYmJMSjZkNG8yaVZwQ0RxWUdFMXhyQjF1MzRoRFQ1TTAyT1FfcTNvOWI2a2ppOGJGWVVrRXo0UzlJaVAxZEl6M0pRdVpRNkdKZlVLcnB5RlZqTGN6YmwtNmpoWm5wTW4yWFdoX1Q0NGRzVVB6cmZvVk1rNVlzbXpZ?oc=5",
+      "source": "France 24",
+      "feed": "Middle East News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-25T15:02:45.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 75,
+      "id": "83170de61c2a"
+    },
+    {
+      "title": "Root ‘hacked off’ by England cricket team after police handcuff Carse",
+      "summary": "After Brydon Carse dropped by England for second Test against Pakistan, captain Joe Root blasts 'stupid mistakes'.",
+      "url": "https://www.aljazeera.com/sports/2026/8/25/root-hacked-off-by-england-cricket-team-after-police-handcuff-carse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "亚洲",
+      "publishedAt": "2026-08-25T15:02:04.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 75,
+      "id": "5c408da626c8"
     },
     {
       "title": "Samuel Eto’o Defends Gianni Infantino Amid Election Speculation",
@@ -559,10 +715,10 @@
       "source": "Africa Top Sports",
       "feed": "Africa News Network",
       "region": "非洲",
-      "publishedAt": "2026-08-25T14:54:53.000Z",
+      "publishedAt": "2026-08-25T14:54:41.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "90c407e14f2a"
     },
     {
@@ -575,8 +731,34 @@
       "publishedAt": "2026-08-25T14:54:41.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "b61e15f55a37"
+    },
+    {
+      "title": "Two unvaccinated people die of measles in Pennsylvania",
+      "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "全球",
+      "publishedAt": "2026-08-25T14:54:34.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a64/live/340bd9d0-a091-11f1-b11c-1bea5fc925f5.jpg",
+      "topic": "社会",
+      "score": 75,
+      "id": "f2d581f5ff49"
+    },
+    {
+      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+      "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
+      "region": "亚洲",
+      "publishedAt": "2026-08-25T11:53:36.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc68/live/708dead0-a076-11f1-bf10-9547e884d7b7.jpg",
+      "topic": "经济",
+      "score": 75,
+      "id": "49d0eae2dfc8"
     },
     {
       "title": "New York business group sues Mamdani over city-owned grocery stores plan",
@@ -588,34 +770,8 @@
       "publishedAt": "2026-08-25T14:48:54.000Z",
       "image": "https://i.guim.co.uk/img/media/83278a312676f32f4d148248b709919ff628ffb7/1047_413_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=bfef2db9612c58b8318381bd62965696",
       "topic": "经济",
-      "score": 76,
+      "score": 74,
       "id": "aa1679b6d29f"
-    },
-    {
-      "title": "Government lays out housing plans but Burnham backtracks on social renting pledge – UK politics live",
-      "summary": "£10bn for housing with 60% social renting is at odds with PM’s previous call for programme to be spent entirely on social homes Ministers are looking at “a range of support” for vulnerable households struggling with rising bills, the energy secretary has said ahead of tomorrow’s Ofgem announcement on the energy cap level. PA Media reports forecasts have indi",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-25T14:46:24.000Z",
-      "image": "https://i.guim.co.uk/img/media/bde04cf97a3ddf798e20b45db767cc0d3ecb0133/572_158_4132_3305/master/4132.jpg?width=140&quality=85&auto=format&fit=max&s=4b39bb1731e6f2cef9bf510c4d57d968",
-      "topic": "政治",
-      "score": 76,
-      "id": "cf15d7942964"
-    },
-    {
-      "title": "Why Rohingya refugees are protesting in Cox’s Bazar, 9 years after genocide",
-      "summary": "Rohingya refugees face deep aid cuts in Bangladesh and forced evictions in Malaysia and India.",
-      "url": "https://www.aljazeera.com/news/2026/8/25/why-rohingya-refugees-are-protesting-in-coxs-bazar-9-years-after-genocide?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-25T11:46:13.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 76,
-      "id": "1c010ba4f542"
     },
     {
       "title": "65 Nigerians to Return from South Africa Wednesday – FG",
@@ -627,21 +783,8 @@
       "publishedAt": "2026-08-25T14:41:41.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "3c8cb53801bf"
-    },
-    {
-      "title": "Billie Piper stalker jailed for 12 months after breaching prevention order",
-      "summary": "Philip Jerome, 49, repeatedly tried to contact the actor in the hope they would begin a relationship, court hears A fan obsessed with Billie Piper has been jailed for 12 months after breaching a stalking prevention order. Philip Jerome, 49, had a sexual interest in the singer and actor and repeatedly tried to get in touch with her in the hope they would end ",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/25/billie-piper-stalker-jailed-12-months-breaching-prevention-order",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-25T14:40:54.000Z",
-      "image": "https://i.guim.co.uk/img/media/0d6acb9fb6e13065ed8cf366264600fd100288b7/1098_783_2115_1693/master/2115.jpg?width=140&quality=85&auto=format&fit=max&s=b16576890656dca8279e5eb991558da2",
-      "topic": "政治",
-      "score": 75,
-      "id": "0eefec5c9a4d"
     },
     {
       "title": "Small French town 'bombed by nature' as tornado barrels through",
@@ -653,7 +796,7 @@
       "publishedAt": "2026-08-25T14:25:46.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/5a38298b169b2025d1733be643323a18?impolicy=wcms_crop_resize&cropH=659&cropW=1172&xPos=0&yPos=799&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "2ca16a445963"
     },
     {
@@ -666,7 +809,7 @@
       "publishedAt": "2026-08-25T14:25:05.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/df10f27d1504f47b6c687dda7031205e?impolicy=wcms_crop_resize&cropH=1749&cropW=3110&xPos=0&yPos=159&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "41060483312d"
     },
     {
@@ -679,60 +822,8 @@
       "publishedAt": "2026-08-25T14:17:02.000Z",
       "image": "https://i.guim.co.uk/img/media/85ceb95ca99c1502fe2ea95c838d8b3b5b0ff030/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0573ffb6248e9c097451a06e7124eeab",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "f631605cb95c"
-    },
-    {
-      "title": "US military transport plane arrives in Moscow in rare occurrence",
-      "summary": "A US military C-17 transport plane has mysteriously landed at Moscow’s Vnukovo Airport from Riga, Latvia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-25T14:16:10.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 75,
-      "id": "b0570c9faa4e"
-    },
-    {
-      "title": "How can a heavily indebted football club afford Mo Salah?",
-      "summary": "How do football clubs in debt afford star players?",
-      "url": "https://www.aljazeera.com/video/money-works/2026/8/25/how-can-a-heavily-indebted-football-club-afford-mo-salah?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-25T14:14:39.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "eb65ab3bf79d"
-    },
-    {
-      "title": "Trump plans largest mass visa cancellation in history: Who will it affect?",
-      "summary": "The policy could affect up to 200,000 people and deter many more from filing an asylum claim once in the US.",
-      "url": "https://www.aljazeera.com/features/2026/8/25/trump-plans-largest-mass-visa-cancellation-in-history-who-will-it-affect?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-25T14:04:44.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 75,
-      "id": "df01875fd406"
-    },
-    {
-      "title": "‘Not any old vermin’: rats numbers are on the rise thanks to global heating – and poison may not be the answer",
-      "summary": "Robert Corrigan has been dealing with the ‘smart’ rodents all his life – and believes there are better solutions to deal with the growing infestation in the world’s cities “The rodents have paid for every single bill I’ve ever had – every mortgage, every car payment, every pint of Guinness,” says Dr Robert Corrigan. “It’s been a great ride and I’m still at i",
-      "url": "https://www.theguardian.com/environment/2026/aug/25/rats-numbers-rise-global-heating-poison-cities",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-25T14:00:38.000Z",
-      "image": "https://i.guim.co.uk/img/media/fe4ea8a042c72697b57bce1ec3114ac33ab30cbf/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=5456dd788ef3e46b16d424a7cbbd65ce",
-      "topic": "社会",
-      "score": 75,
-      "id": "72fe02e5985a"
     },
     {
       "title": "McKenzie Backs Motsepe to Succeed Infantino as FIFA President",
@@ -744,8 +835,21 @@
       "publishedAt": "2026-08-25T13:54:47.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "60f4c3054b97"
+    },
+    {
+      "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
+      "summary": "US Southern Command has struck another vessel in the eastern Pacific, killing two accused of trafficking drugs The US military has launched a deadly strike on a vessel in the Pacific Ocean, killing two people accused of drug trafficking. On Monday, US Southern Command (SouthCom) announced it “executed a lethal kinetic strike on a low-profile vessel operating",
+      "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-24T21:40:48.000Z",
+      "image": "https://i.guim.co.uk/img/media/5d7e18a7ae51ea5e82ec8a43bd52b4c5b06c64f8/425_0_2023_1620/master/2023.jpg?width=140&quality=85&auto=format&fit=max&s=b792c3ef80fb455aaf096b48819f02ae",
+      "topic": "政治",
+      "score": 74,
+      "id": "ae2a7e1822a7"
     },
     {
       "title": "eHarmony misled Australians over 'free' subscriptions, court rules",
@@ -757,21 +861,8 @@
       "publishedAt": "2026-08-25T13:45:13.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/e4d9d0f08a2495670771ee63681273a0?impolicy=wcms_crop_resize&cropH=1080&cropW=1918&xPos=1&yPos=0&width=862&height=485",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "a8b6dfd1dbb3"
-    },
-    {
-      "title": "Real Madrid’s Mourinho ‘happy’ with transfers despite Rodri miss",
-      "summary": "Yan Diomande topped Real's transfers, and Jose Mourinho says he is happy despite missing out on Rodri to Barcelona.",
-      "url": "https://www.aljazeera.com/sports/2026/8/25/mourinho-happy-with-complete-real-madrid-squad-despite-rodri-miss?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-25T13:42:14.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 74,
-      "id": "6e3a2b891247"
     },
     {
       "title": "Adel Amrouche Wins Case Against Rwanda FA, Awarded $360,000",
@@ -783,8 +874,21 @@
       "publishedAt": "2026-08-25T13:35:22.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "b7aafaebacbf"
+    },
+    {
+      "title": "A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be Impressed?",
+      "summary": "A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be Impressed? &nbsp;&nbsp; The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLThZc2RpYjJRZmxkdnRacVZDSnZZdFIxSUNLSl81aU1hOTlnRWY0YV9xUHJ0V2x2V0Jsd2t4cWlycXU3MkF0ZjJnUUI4ZHdmdjVhS2t5MHdTTl9jd0x6QkZkbWZ5eFVjTWZYSGFxdmF4TWVuQ2dBNTRPSmY0MXA3RUNWNVZMRzBkeVBEQkJR?oc=5",
+      "source": "The New York Times",
+      "feed": "Asia News Network",
+      "region": "亚洲",
+      "publishedAt": "2026-08-25T13:26:00.000Z",
+      "image": "",
+      "topic": "科技",
+      "score": 73,
+      "id": "70d637987928"
     },
     {
       "title": "Cape Town taxi violence: Driver killed on N2 highway",
@@ -796,151 +900,47 @@
       "publishedAt": "2026-08-25T13:03:25.000Z",
       "image": "",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "5687bd6f6866"
     },
     {
-      "title": "‘We can’t breathe’: Indonesians battle wildfire haze",
-      "summary": "Wildfires are raging across Indonesia, affecting at least 10 provinces and blanketing communities in hazardous haze.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/we-cant-breathe-indonesians-battle-wildfire-haze?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "亚洲",
-      "publishedAt": "2026-08-25T13:01:17.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 73,
-      "id": "cb546e9e0bbe"
-    },
-    {
-      "title": "Tottenham sign Brazilian winger Savinho from Manchester City",
-      "summary": "Savinho's arrival, which comes in a busy transfer window for Spurs, takes their spending past $400m.",
-      "url": "https://www.aljazeera.com/sports/2026/8/25/tottenham-sign-brazilian-winger-savinho-from-manchester-city?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
+      "title": "NEW REPORT: El Niño ripples through supply chains",
+      "summary": "NEW REPORT: El Niño ripples through supply chains &nbsp;&nbsp; BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2p6VlJsSjZIdnN5S0xFTC1lYVdDSkEtcFlMV3FxRkNUck9LbTYwMmJ1ZHZpcXlvS2FPZE55WmdwckpUYkppS2xobGZQZG1OVTlfdENfM2Z4d3pIdlo2Z1JHS2VwMUZ5dmE4ZmhSUWdHbkJIT21aSlFoX01SMXFYWHVSS3JRQi1DVkdV?oc=5",
+      "source": "BNamericas",
+      "feed": "Latin America News Network",
       "region": "美洲",
-      "publishedAt": "2026-08-25T12:48:38.000Z",
+      "publishedAt": "2026-08-25T15:55:56.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
-      "id": "4ecf2ba1b30b"
+      "score": 72,
+      "id": "1c69713147bb"
     },
     {
-      "title": "Gauteng man in dispute with Nissan after spotting repairs on 'brand-new' R751,000 Navara Warrior",
-      "summary": "Gauteng man in dispute with Nissan after spotting repairs on 'brand-new' R751,000 Navara Warrior &nbsp;&nbsp; IOL",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWFI5bFZxY2F3R3p4dXE0VFRiU1MwN1I3UDFPUDFDWjZYWVpLRHpMQkdoZkRiZkUxWExVZ192U2dlZG9FdThzX2R2ak9VamF6OUN1cmlMTXZrYl9mZ2Nqb3NpYmhUYWV3N0p5TlJYTlk4UXZjOGU1ZXp1d0JDeVBUWF9fellJQzZoanE4Nnh4eUUwZnJhak1uMldJOEpnUzZHa3p6UUlwNkw4a1NMRjV3Nm11bDVLSmw2YllvS0tWV014UktSTWdmclh6cEppcVdBeTB2VHo3bFI?oc=5",
-      "source": "IOL",
+      "title": "Mexico’s Online Betting Transactions Surge 431.75% During 2026 World Cup",
+      "summary": "Mexico’s Online Betting Transactions Surge 431.75% During 2026 World Cup &nbsp;&nbsp; iGamingToday.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVdadWZxYlVYZXdzRnpDMDR3Z0J0dEhNaGNkUEdkcl94Qkk2ZWZaNUhoRnhGMkI5YXJwUkstYWRqRnNnSTBTNEwwWTIzWnd3UTJJZzIzMFdWYWtWNTRwQlpFNnBOOUFNSzVHazlIazR6QlE0cXV1cktZMEtVb2xtZnNIMUdiQTBrQjhtMGdiVnpUaWhfMFlwYUN5MkhBRGFfZEE?oc=5",
+      "source": "iGamingToday.com",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-25T15:50:33.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "ba5a51e255b3"
+    },
+    {
+      "title": "Burundi named world's poorest country as Nigeria drops 12 places",
+      "summary": "Burundi named world's poorest country as Nigeria drops 12 places &nbsp;&nbsp; Legit News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVEJtalhRanJWUVRmTk90ZnhVRUNpaXlhblNkTzVJTlI3LXVQZGlqQXZYR0VibjdVTGNYQzg3LTNXRnRsU0lPYzVIdHZWV2M0d2xNTnNFUFdIbzlqZ1BFNkRyRTI1eEh4WE9URWg3OUtybHNEMGtuWWoycTk0Nmx2TXFjRVRrTTNfMk0w?oc=5",
+      "source": "Legit News",
       "feed": "Africa News Network",
       "region": "非洲",
-      "publishedAt": "2026-08-25T12:45:59.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 73,
-      "id": "83ed4ca2ae84"
-    },
-    {
-      "title": "Record heatwaves kill more than 35,000 across Europe, toll expected to rise: Report",
-      "summary": "Record heatwaves kill more than 35,000 across Europe, toll expected to rise: Report &nbsp;&nbsp; The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPckQwQ2dNYXdyOThJRDl3bDRVMFhTQ2xTb2l2UWptRjdURFVEdVMyOEtYOVZNY2w5RVFuLVVTSy05R2QyeDNNOE1UcE5pZHFpcmxFbzgtaHVrWTdoYkMyamJ2TjhIcVd6Q2ptLXp4NkdUV0JMQ0RfT2l3bEFybElmanVxeGdSRXdfM1JjeUZxbV9rY2o2YXVmNG9LLUJCU2d6R2ZiMzhSOHBNZndXN1Z5RG02MnZCOEJUX0xrVlRGVVBsTTFJQURBWWZFUFpVazFTNXZPR2Z3cWFCZ213aWZucFpRSnlmLURnemRJ0gHwAUFVX3lxTE9fVElEeF9hMk9aZ1V4aGJ5WUJWUW92NEh1Z2xmbmcxd2JWYm16Q0diTUtvcDVZZEpIOWdkNW9mWXRZQ3RMNWxFY2pFVm8zeW9jYi1JdXM2SkIyTlVQT01pMmkwcXBnMl8zSS0zdnZxNGcwT1g1RjNyOHN5MmRabEJmY1E1YTJZWUZLelFxaEZmUUhkR2FicnIwWFZxbWVmY1JEb1VRRG12aGxNVHBET0NMeC1sb2R4QlpUcDZZdFFDcWhTeUo0VUFRbWR2X1dlZWQzclZwSEp4WGFsZmhIUV9sZjV3bXk4WVN6UGFvMkhtLQ?oc=5",
-      "source": "The Times of India",
-      "feed": "Europe News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-25T12:41:00.000Z",
-      "image": "",
-      "topic": "气候",
-      "score": 73,
-      "id": "0e132f520c9b"
-    },
-    {
-      "title": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
-      "summary": "UK PM Andy Burnham visited Kyiv on his first foreign trip, pledging to give cruise missile designs to Ukraine.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/uk-to-back-ukraine-with-missile-blueprints-amid-russia-ukraine-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-25T12:30:45.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 73,
-      "id": "faec648e14a0"
-    },
-    {
-      "title": "GPL: Asante Kotoko Sign Moroccan Goalkeeper Abdelwadie Mourad",
-      "summary": "GPL: Asante Kotoko Sign Moroccan Goalkeeper Abdelwadie Mourad &nbsp;&nbsp; Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnNheThHOEdlLW9BemdpRzNWZ2R4bzVVekVESlpONXhXNTI2YmtUbFVwREFycGpxZ1lBbUZCazZiMVVFZERZcVdsc0VPNzBTRWJ5LVpGS05HLWlWbDJxY25QZHVUaHoxSkpFeFZkWUhYSnV5aEs4RU5PM1hBQTd3emxZZEJodDQzZU9vQXhHekZwa0VCWUxr?oc=5",
-      "source": "Africa Top Sports",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-25T14:49:40.000Z",
+      "publishedAt": "2026-08-25T15:46:16.000Z",
       "image": "",
       "topic": "社会",
       "score": 72,
-      "id": "d8193e68eb9d"
-    },
-    {
-      "title": "GPL: Hearts of Oak Sign Experienced Goal Poacher John Antwi",
-      "summary": "GPL: Hearts of Oak Sign Experienced Goal Poacher John Antwi &nbsp;&nbsp; Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3RZVHdBZXRxOVJ4V3JTeHF1LXZ2bzJZSkxBbFJlRERiaEpnbWlyMXJjOTZHOVpsa0dOYjRYSGhhRGEycUljUHJzc3MxNkFLanZIdGRuZG5hR256VjJLSEdORUFlREJfc1FWdjZIQnNXbGc0OWRQMjJvOUh3aUJIUnFHVGdVWGlZT042ZXNiR1N1U3Vm?oc=5",
-      "source": "Africa Top Sports",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-25T14:44:39.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 72,
-      "id": "43200ab70a5b"
-    },
-    {
-      "title": "Young Australians' home ownership rate at an 80-year low, report shows",
-      "summary": "A new report shows generational inequality is pushing young Australians out of the housing market.",
-      "url": "https://www.abc.net.au/news/2026-08-25/first-generation-in-australia-to-fall-behind/107077612",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-25T12:05:39.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d76c498cb993b0770cab1a0b9169ad8b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-      "topic": "经济",
-      "score": 72,
-      "id": "0826508f0e90"
-    },
-    {
-      "title": "Artist known for sculptures of Mao Zedong jailed for slandering ‘heroes and martyrs’",
-      "summary": "Gao Zhen sentenced to three years in prison after already spending two years in detention Gao Zhen, a prominent Chinese artist known for provocative sculptures of the former leader Mao Zedong, has been sentenced to three years in prison after being found guilty of slandering China’s “heroes and martyrs”. The sentencing came two years after he was detained wh",
-      "url": "https://www.theguardian.com/world/2026/aug/25/artist-gao-zhen-sculptures-mao-zedong-jailed-china",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "亚洲",
-      "publishedAt": "2026-08-25T11:53:58.000Z",
-      "image": "https://i.guim.co.uk/img/media/b1bbc5caec0cd2ecd899cbf9294b8ca6672df039/0_215_2006_1604/master/2006.jpg?width=140&quality=85&auto=format&fit=max&s=b9bd6ba05ed250098c1316e67c0ced10",
-      "topic": "社会",
-      "score": 72,
-      "id": "c75e0a5c3596"
-    },
-    {
-      "title": "Russia mobilisation fears grow amid reports of intimidating tactics",
-      "summary": "Military recruitment efforts are reportedly more aggressive as Russia prepares for a winter offensive in Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/8/25/russia-mobilisation-fears-grow-amid-reports-of-intimidating-tactics?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "欧洲",
-      "publishedAt": "2026-08-25T11:53:03.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 72,
-      "id": "768e3f97b136"
-    },
-    {
-      "title": "Woolworths’ Ooshies craze causes Coles sales slump with parents shopping at rival supermarket to collect toys",
-      "summary": "Coles full-year results show that despite gaining market share over past 12 months, sales fell over four weeks of ‘competitor’s collectables campaign’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Woolworths’ latest Disney “Ooshie” collectibles have not only captivated Australian children,",
-      "url": "https://www.theguardian.com/business/2026/aug/25/woolworths-disney-ooshies-craze-causes-coles-sales-slump",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-25T08:07:25.000Z",
-      "image": "https://i.guim.co.uk/img/media/cdddbc9c28946c733d78c2fe7bf7ba7c8cf9e188/0_0_6450_5160/master/6450.jpg?width=140&quality=85&auto=format&fit=max&s=d9e135e1bef732d3ce2d65a85ac64076",
-      "topic": "经济",
-      "score": 72,
-      "id": "6cbdd80ce3dc"
+      "id": "9728dd2cfd3b"
     }
   ]
 }
