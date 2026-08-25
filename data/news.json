@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T03:14:33.122Z",
+  "updatedAt": "2026-08-25T04:04:10.147Z",
   "sourceCount": 12,
   "failedSources": [
     "CBC World: The operation was aborted due to timeout"
@@ -16,7 +16,7 @@
       "publishedAt": "2026-08-24T22:07:58.000Z",
       "image": "",
       "topic": "政治",
-      "score": 90,
+      "score": 89,
       "id": "de3a66b3d9d1"
     },
     {
@@ -29,8 +29,21 @@
       "publishedAt": "2026-08-24T21:40:48.000Z",
       "image": "https://i.guim.co.uk/img/media/5d7e18a7ae51ea5e82ec8a43bd52b4c5b06c64f8/425_0_2023_1620/master/2023.jpg?width=140&quality=85&auto=format&fit=max&s=b792c3ef80fb455aaf096b48819f02ae",
       "topic": "政治",
-      "score": 90,
+      "score": 89,
       "id": "ae2a7e1822a7"
+    },
+    {
+      "title": "Woodside scraps long-term emissions and clean energy targets despite windfall oil profits caused by Iran war",
+      "summary": "Australia’s biggest oil and gas company recorded a 27% increase in sales profit to $1.67bn in the six-month reporting period Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Woodside Energy has scrapped its long-term emissions and clean energy targets, even after enjoying a period of windfall",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/25/woodside-scraps-emissions-clean-energy-targets-australia",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "中东",
+      "publishedAt": "2026-08-25T03:29:38.000Z",
+      "image": "https://i.guim.co.uk/img/media/4a2b0b51cdc94dad489421ee78585440f07f244b/719_187_3667_2933/master/3667.jpg?width=140&quality=85&auto=format&fit=max&s=85666342de9812cfb9bd5174ad48632d",
+      "topic": "政治",
+      "score": 88,
+      "id": "b17fda935bf8"
     },
     {
       "title": "Iran warns of a harsh response as US announces new sanctions and other Middle East news",
@@ -42,12 +55,51 @@
       "publishedAt": "2026-08-24T20:17:24.000Z",
       "image": "",
       "topic": "政治",
-      "score": 88,
+      "score": 87,
       "id": "8fea68e782c7"
     },
     {
-      "title": "Andrew Hastie warns Zempilas against waving 'white flag' in by-election",
-      "summary": "Prominent WA federal Liberal MP Andrew Hastie intensifies his criticism of state opposition leader Basil Zempilas's strategy for Saturday's Secret Harbour by-election, suggesting he was putting up the white flag in the same way the Liberals disastrously admitted defeat before the 2021 state election.",
+      "title": "US removes Syria from ‘state sponsor of terrorism’ list",
+      "summary": "Syria hails US's 'historic decision' and says it will help the country rebuild after 14 years of civil war.",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed": "Al Jazeera",
+      "region": "中东",
+      "publishedAt": "2026-08-24T22:32:26.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 86,
+      "id": "76af2df319bc"
+    },
+    {
+      "title": "Australia news live: Major Sydney property developer collapses leaving buyers in limbo; Greens senator opts out for 2028 over partner’s health",
+      "summary": "West Australian newspaper uses moniker on front page. Follow today’s news live Get our breaking news email , free app or daily news podcast Number of NSW households in urgent need of priority housing hits highest level in over a year The number of NSW households in urgent need of priority social housing has reached 13,776, the highest in more than a year. Th",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-25T03:47:32.000Z",
+      "image": "https://i.guim.co.uk/img/media/03d87e9f89dcb94db6c1b97e4d3dab2bce4f3eb6/427_88_2104_1684/master/2104.jpg?width=140&quality=85&auto=format&fit=max&s=003a590f03ef2500732e2b3d5cf27bac",
+      "topic": "社会",
+      "score": 84,
+      "id": "62b71719b46c"
+    },
+    {
+      "title": "Concerns AFP drugs team may implicate Australia in US boat strikes",
+      "summary": "Unanswered questions about the Australian Federal Police's new anti-drugs taskforce in Colombia have sparked concerns it could aid the Trump administration's strikes against trafficking vessels.",
+      "url": "https://www.abc.net.au/news/2026-08-25/afp-colombia-drugs-taskforce-leaves-questions-unanswered/106989490",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "美洲",
+      "publishedAt": "2026-08-25T03:00:01.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/8a2b111bbf4536fb11d98580536b630a?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=80&width=862&height=485",
+      "topic": "社会",
+      "score": 83,
+      "id": "d4df1eb1bf7d"
+    },
+    {
+      "title": "Hastie warns Zempilas against waving 'white flag' in by-election",
+      "summary": "Prominent WA federal Liberal MP Andrew Hastie intensifies his criticism of state opposition leader Basil Zempilas's strategy for Saturday's Secret Harbour by-election.",
       "url": "https://www.abc.net.au/news/2026-08-25/hastie-criticises-zempilas-strategy-in-secret-harbour-byelection/107074796",
       "source": "ABC Australia",
       "feed": "ABC Australia",
@@ -55,8 +107,8 @@
       "publishedAt": "2026-08-25T02:58:53.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/1538c3432bdbf5ae0cec266b1b163381?impolicy=wcms_crop_resize&cropH=2250&cropW=4000&xPos=0&yPos=103&width=862&height=485",
       "topic": "政治",
-      "score": 84,
-      "id": "4808f6ef2a3c"
+      "score": 83,
+      "id": "d0cc7d5e6cbd"
     },
     {
       "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
@@ -68,7 +120,7 @@
       "publishedAt": "2026-08-25T02:54:40.000Z",
       "image": "",
       "topic": "社会",
-      "score": 84,
+      "score": 83,
       "id": "094d8e360f69"
     },
     {
@@ -81,7 +133,7 @@
       "publishedAt": "2026-08-25T01:55:36.000Z",
       "image": "https://i.guim.co.uk/img/media/9422412f1508e4062fb95e1a57f5e519e751f6b7/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=3940fe955b999426831b09f8b1db167c",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "af05f3771c03"
     },
     {
@@ -94,7 +146,7 @@
       "publishedAt": "2026-08-25T01:48:24.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "8d20bd66631e"
     },
     {
@@ -107,7 +159,7 @@
       "publishedAt": "2026-08-25T01:46:26.000Z",
       "image": "",
       "topic": "社会",
-      "score": 83,
+      "score": 82,
       "id": "fdcf792d8fba"
     },
     {
@@ -120,21 +172,73 @@
       "publishedAt": "2026-08-25T01:28:27.000Z",
       "image": "https://i.guim.co.uk/img/media/1eac02ef76fd62ba21d03ef83537c4d25956ca61/639_0_4592_3674/master/4592.jpg?width=140&quality=85&auto=format&fit=max&s=6228aa1da571303e22f95d53821155e9",
       "topic": "政治",
-      "score": 83,
+      "score": 82,
       "id": "7b08d0d0653a"
     },
     {
-      "title": "US removes Syria from ‘state sponsor of terrorism’ list",
-      "summary": "Syria hails US's 'historic decision' and says it will help the country rebuild after 14 years of civil war.",
-      "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
+      "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "feed": "BBC World",
       "region": "中东",
-      "publishedAt": "2026-08-24T22:32:26.000Z",
-      "image": "",
+      "publishedAt": "2026-08-25T03:50:06.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de12/live/09a94a20-9fe6-11f1-8ed1-41aaf1fca4f2.jpg",
       "topic": "政治",
-      "score": 83,
-      "id": "76af2df319bc"
+      "score": 80,
+      "id": "ef46c2be5f5f"
+    },
+    {
+      "title": "Liberals criticise ‘unimpressive and underwhelming’ rail loop plan as Victorian premier pushes ahead after hinting at pause",
+      "summary": "A day after suggesting other projects were more important to Victorians, Ben Carroll says train line will go ahead but at a slightly reduced cost Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Victorian opposition has described Ben Carroll’s plan to scale back new train stations along t",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/24/victorian-premier-ben-carroll-pushes-ahead-with-srl-spend-despite-hinting-at-pause",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-25T03:45:59.000Z",
+      "image": "https://i.guim.co.uk/img/media/543d4c01786031041efbd96eeb7fba5e68cffe23/259_0_2248_1800/master/2248.jpg?width=140&quality=85&auto=format&fit=max&s=6200a1ebe901b14afcdf935300a3881c",
+      "topic": "社会",
+      "score": 80,
+      "id": "cdcba019add0"
+    },
+    {
+      "title": "Woolworths’ Ooshies craze causes Coles sales slump with parents shopping at rival supermarket to collect toys",
+      "summary": "Coles full-year results show that despite gaining market share over past 12 months, sales fell over four weeks of ‘competitor’s collectables campaign’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Woolworths’ latest Disney “Ooshie” collectables have not only captivated Australian children,",
+      "url": "https://www.theguardian.com/business/2026/aug/25/woolworths-disney-ooshies-craze-causes-coles-sales-slump",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-25T03:44:38.000Z",
+      "image": "https://i.guim.co.uk/img/media/03c2e71f86c44d16cd749d0ede948e6bafe0a93c/381_104_2219_1775/master/2219.jpg?width=140&quality=85&auto=format&fit=max&s=9a8691072f6834fa943d49bf72c755db",
+      "topic": "经济",
+      "score": 80,
+      "id": "6cbdd80ce3dc"
+    },
+    {
+      "title": "More than $60m in Tasmanian labour hire contracts awarded without tender",
+      "summary": "The Tasmanian government has awarded $61 million in external labour hire contracts without conducting any tender process as part of its digital transformation process of the health department.",
+      "url": "https://www.abc.net.au/news/2026-08-25/tasmanian-government-contracts-awarded-without-tender/107074652",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-25T03:26:27.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/e18abf7c841c133549af2b74d647f3de?impolicy=wcms_crop_resize&cropH=394&cropW=700&xPos=0&yPos=0&width=862&height=485",
+      "topic": "政治",
+      "score": 80,
+      "id": "bdfa402db7d6"
+    },
+    {
+      "title": "Scots College trio who allegedly sexually assaulted teen girl have faced ‘repercussions’, judge says",
+      "summary": "Three boys, two aged 14 and one aged 13, on bail and yet to enter a plea after alleged assault in Sydney’s east Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Three teenage boys from a prestigious Sydney private school who allegedly raped a 14-year-old girl in an alleyway in Sydney’s easter",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/25/sydney-scots-college-boys-charged-sexual-assault-appear-in-court-ntwnfb",
+      "source": "The Guardian",
+      "feed": "The Guardian",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-25T03:25:58.000Z",
+      "image": "https://i.guim.co.uk/img/media/eaaedf851c77b922cb8b84cbc354dad518cc58b6/0_1026_2554_2041/master/2554.jpg?width=140&quality=85&auto=format&fit=max&s=2037e3a64dbb811bb07e743036b50a3c",
+      "topic": "社会",
+      "score": 80,
+      "id": "7b610fba6e16"
     },
     {
       "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
@@ -146,7 +250,7 @@
       "publishedAt": "2026-08-25T00:34:47.000Z",
       "image": "https://i.guim.co.uk/img/media/16d4042f8c9b2aabb47619aa73c090daec510abd/784_32_3286_2630/master/3286.jpg?width=140&quality=85&auto=format&fit=max&s=0dff00fca5aae55855f30002bd0c4d94",
       "topic": "社会",
-      "score": 81,
+      "score": 80,
       "id": "6d332ea1fa97"
     },
     {
@@ -159,7 +263,7 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "72f1eeb4e6d3"
     },
     {
@@ -172,7 +276,7 @@
       "publishedAt": "2026-08-24T20:54:38.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
+      "score": 80,
       "id": "ee0ce781d198"
     },
     {
@@ -185,21 +289,8 @@
       "publishedAt": "2026-08-24T14:17:22.000Z",
       "image": "",
       "topic": "政治",
-      "score": 81,
-      "id": "b6e4a52c8469"
-    },
-    {
-      "title": "Concerns AFP drugs team may implicate Australia in US boat strikes",
-      "summary": "Unanswered questions about the Australian Federal Police's new anti-drugs taskforce in Colombia have sparked concerns it could aid the Trump administration's strikes against trafficking vessels.",
-      "url": "https://www.abc.net.au/news/2026-08-25/afp-colombia-drugs-taskforce-leaves-questions-unanswered/106989490",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "美洲",
-      "publishedAt": "2026-08-25T03:00:01.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/8a2b111bbf4536fb11d98580536b630a?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=80&width=862&height=485",
-      "topic": "社会",
       "score": 80,
-      "id": "d4df1eb1bf7d"
+      "id": "b6e4a52c8469"
     },
     {
       "title": "Driver, passenger trapped as bus crashes into train bridge",
@@ -211,21 +302,8 @@
       "publishedAt": "2026-08-25T02:59:07.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/95be79d30a433aa172b118119fb57ba0?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485",
       "topic": "社会",
-      "score": 80,
+      "score": 79,
       "id": "116cee324b13"
-    },
-    {
-      "title": "Breaking: Ralph Carr sentenced to six years in jail for rape",
-      "summary": "The disgraced celebrity agent could be eligible for parole in four years, with a judge denying his last-ditch legal bid to halt the sentencing.",
-      "url": "https://www.abc.net.au/news/2026-08-25/ralph-carr-sentenced-to-six-years-jail-for-rape/107074230",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-25T02:58:36.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d41d347d72804734b93f556698d1b256?impolicy=wcms_crop_resize&cropH=625&cropW=1111&xPos=0&yPos=91&width=862&height=485",
-      "topic": "社会",
-      "score": 80,
-      "id": "d5760327035b"
     },
     {
       "title": "Amnesty says India used lethal weapons on ‘Cockroach’ protesters",
@@ -237,21 +315,8 @@
       "publishedAt": "2026-08-25T02:53:48.000Z",
       "image": "",
       "topic": "政治",
-      "score": 80,
+      "score": 79,
       "id": "e3ad3af31e11"
-    },
-    {
-      "title": "Australia news live: PM dubbed ‘WA’s daddy’ over Blue Poles and GST promises; home ownership for young people back to 1940s levels",
-      "summary": "West Australian newspaper uses moniker on front page. Follow today’s news live Get our breaking news email , free app or daily news podcast Number of NSW households in urgent need of priority housing hits highest level in over a year The number of NSW households in urgent need of priority social housing has reached 13,776, the highest in more than a year. Th",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-25T02:44:12.000Z",
-      "image": "https://i.guim.co.uk/img/media/2e5489df4203dfaffc935432a6aacc7a870821be/500_0_4821_3857/master/4821.jpg?width=140&quality=85&auto=format&fit=max&s=20a5af19b2332c213ea52ee85eb2cb1d",
-      "topic": "社会",
-      "score": 80,
-      "id": "bb4dc0ae7271"
     },
     {
       "title": "Man killed in world’s largest annual bullfighting event in Mexico",
@@ -263,21 +328,8 @@
       "publishedAt": "2026-08-25T01:51:16.000Z",
       "image": "",
       "topic": "社会",
-      "score": 79,
+      "score": 78,
       "id": "21658c9a1b18"
-    },
-    {
-      "title": "‘Staggering’: watchdog condemns police after Indigenous teenager on bus wrongfully arrested – then searched",
-      "summary": "Ombudsman Iain Anderson says he is concerned police ‘had no clearly understood definition of racial profiling’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The commonwealth and ACT ombudsman has criticised the Australian federal police for failing to clearly define “racial profiling” afte",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/25/watchdog-scathing-after-act-police-searched-indigenous-teen-even-after-they-realised-arrest-was-mistake-ntwnfb",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-25T01:45:55.000Z",
-      "image": "https://i.guim.co.uk/img/media/50db5a3035048c97f2b930c05b42660a207b96ff/378_0_3743_2995/master/3743.jpg?width=140&quality=85&auto=format&fit=max&s=0635a1c7c23d0ad3afed754417b7a586",
-      "topic": "社会",
-      "score": 79,
-      "id": "2b92e421622f"
     },
     {
       "title": "Trump administration plans to revoke 200,000 visas of asylum seekers",
@@ -289,8 +341,21 @@
       "publishedAt": "2026-08-25T01:45:35.000Z",
       "image": "https://i.guim.co.uk/img/media/4b1c4de1e3a634f4f93a72dfc2d4c3c265237f69/256_0_3288_2632/master/3288.jpg?width=140&quality=85&auto=format&fit=max&s=983c308b9c3fd505bcfebb371f33ae3c",
       "topic": "社会",
-      "score": 78,
+      "score": 77,
       "id": "8e787b4e5af0"
+    },
+    {
+      "title": "Breaking: Missing 85-year-old man found alive after crash",
+      "summary": "An 85-year-old man missing since Sunday night has been found alive after crashing his car near Mitta Mitta.",
+      "url": "https://www.abc.net.au/news/2026-08-25/jacobus-john-bakkum-missing-man-harrietville-omeo-mitta/107074570",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-25T01:06:48.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/dd97abf11258e1eac5c6cbfc230c749e?impolicy=wcms_crop_resize&cropH=351&cropW=624&xPos=0&yPos=274&width=862&height=485",
+      "topic": "社会",
+      "score": 77,
+      "id": "10bfeabb2af9"
     },
     {
       "title": "US public support for Iran war falls as Trump approval at record low: Poll",
@@ -302,7 +367,7 @@
       "publishedAt": "2026-08-24T21:35:10.000Z",
       "image": "",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "8f57e2ecfe8d"
     },
     {
@@ -315,8 +380,34 @@
       "publishedAt": "2026-08-24T18:57:57.000Z",
       "image": "https://i.guim.co.uk/img/media/0c25779d85551b1f9c981d3adfc0cf7693c858ac/125_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=33797d0562ad8346415a81e0634e4f0f",
       "topic": "政治",
-      "score": 78,
+      "score": 77,
       "id": "2694d3332132"
+    },
+    {
+      "title": "Convicted murderer Sue Neill-Fraser can now talk to media, law centre says",
+      "summary": "The Human Rights Law Centre says a restrictive parole condition that stopped Sue Neill-Fraser from being able to claim her innocence in the media has been removed after a court challenge.",
+      "url": "https://www.abc.net.au/news/2026-08-25/murderer-sue-neill-fraser-can-now-talk-to-media-parole-change/107075266",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-25T03:46:08.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d599702926eae9f5817bc5661d1983df?impolicy=wcms_crop_resize&cropH=2254&cropW=4007&xPos=496&yPos=529&width=862&height=485",
+      "topic": "政治",
+      "score": 76,
+      "id": "84a25b5b4144"
+    },
+    {
+      "title": "Poor university rankings could stunt Africa’s growth",
+      "summary": "Poor university rankings could stunt Africa’s growth &nbsp;&nbsp; Head Topics",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQelhFSnJPbkxKdjBoVHFaaUhmS0ZrUmxQTTZaTG5oaFZoS05fOVJ2SmNMcFhyNS13NDhiSnJaMHIwUlhWMzBZcmUzbXUwcF82c215RG5XMXpmWlR4d3BYcHY0eE1BY2YtTWhGc0RNU3RTX3R2N09CZVhVQmwyOHFOMUxsOFpfeEliRkxpd01pRTdtVXIzd3Uw?oc=5",
+      "source": "Head Topics",
+      "feed": "Africa News Network",
+      "region": "非洲",
+      "publishedAt": "2026-08-25T03:43:00.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 76,
+      "id": "ff01e395c7e3"
     },
     {
       "title": "Washington Post ordered to reinstate opinion writer fired over Charlie Kirk posts",
@@ -328,7 +419,7 @@
       "publishedAt": "2026-08-25T00:51:59.000Z",
       "image": "https://i.guim.co.uk/img/media/4a8f4519a46a3097a4067b6c640c48a65a5f9639/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=3fb459dce4fe08e41ef3dd7afcb13c54",
       "topic": "社会",
-      "score": 77,
+      "score": 76,
       "id": "895071b978a8"
     },
     {
@@ -341,7 +432,7 @@
       "publishedAt": "2026-08-25T00:34:29.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "feea656022d0"
     },
     {
@@ -354,7 +445,7 @@
       "publishedAt": "2026-08-25T00:18:42.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "9f27714d926b"
     },
     {
@@ -367,8 +458,47 @@
       "publishedAt": "2026-08-24T20:48:09.000Z",
       "image": "",
       "topic": "政治",
-      "score": 77,
+      "score": 76,
       "id": "62f3c70fad33"
+    },
+    {
+      "title": "Gym safety auditor calls for improvements after man crushed while weightlifting",
+      "summary": "The incident has sparked calls for better safety measures at gyms as the majority move to a 24/7 model with unstaffed hours.",
+      "url": "https://www.abc.net.au/news/2026-08-25/gym-safety-calls-after-man-crushed-weighlifting-gold-coast/107074070",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-25T03:35:54.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7784926f313b9ce5503e954245f9fa16?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "7763f24791f4"
+    },
+    {
+      "title": "Why is Trump slapping tariffs on his neighbour?",
+      "summary": "👉 Follow Trump100 on your podcast app 👈",
+      "url": "https://news.sky.com/story/why-is-trump-slapping-tariffs-on-his-neighbour-13576837",
+      "source": "Sky News",
+      "feed": "Sky News",
+      "region": "全球",
+      "publishedAt": "2026-08-25T03:05:00.000Z",
+      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-trump100-podcast_7330505.jpg?20260825041953",
+      "topic": "经济",
+      "score": 75,
+      "id": "7edeef0b78ca"
+    },
+    {
+      "title": "Ralph Carr sentenced to six years in jail for rape",
+      "summary": "The disgraced celebrity agent could be eligible for parole in four years, with a judge denying his last-ditch legal bid to halt the sentencing.",
+      "url": "https://www.abc.net.au/news/2026-08-25/ralph-carr-sentenced-to-six-years-jail-for-rape/107074230",
+      "source": "ABC Australia",
+      "feed": "ABC Australia",
+      "region": "大洋洲",
+      "publishedAt": "2026-08-25T02:58:36.000Z",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d41d347d72804734b93f556698d1b256?impolicy=wcms_crop_resize&cropH=625&cropW=1111&xPos=0&yPos=91&width=862&height=485",
+      "topic": "社会",
+      "score": 75,
+      "id": "39c1d4cba4fd"
     },
     {
       "title": "Massachusetts woman suspected of killing police officer husband found dead",
@@ -380,7 +510,7 @@
       "publishedAt": "2026-08-24T23:56:41.000Z",
       "image": "https://i.guim.co.uk/img/media/598f511f1f2d5d9507c7f9e3692c92a8634bb4f4/141_0_1347_1078/master/1347.jpg?width=140&quality=85&auto=format&fit=max&s=900f96c8b3ea22ce4d3a2fe81a05084d",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "c23952df3d31"
     },
     {
@@ -393,7 +523,7 @@
       "publishedAt": "2026-08-24T23:31:41.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/0c44e2116d8e2f30454c8012ec48c2a7?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=0&width=862&height=485",
       "topic": "经济",
-      "score": 76,
+      "score": 75,
       "id": "16b4f3dea786"
     },
     {
@@ -406,7 +536,7 @@
       "publishedAt": "2026-08-24T20:23:39.000Z",
       "image": "",
       "topic": "政治",
-      "score": 76,
+      "score": 75,
       "id": "1a95bb363316"
     },
     {
@@ -419,7 +549,7 @@
       "publishedAt": "2026-08-25T02:49:22.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg",
       "topic": "经济",
-      "score": 75,
+      "score": 74,
       "id": "90ffa79957e6"
     },
     {
@@ -432,7 +562,7 @@
       "publishedAt": "2026-08-25T02:37:53.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/96e855627274eed399f04467077dbb47?impolicy=wcms_crop_resize&cropH=534&cropW=950&xPos=0&yPos=210&width=862&height=485",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "83c28a70822f"
     },
     {
@@ -445,7 +575,7 @@
       "publishedAt": "2026-08-25T02:31:52.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/7614b87e3bfd6a9f6a3d12cd997c0627?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=338&width=862&height=485",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "f36d52eb4999"
     },
     {
@@ -458,7 +588,7 @@
       "publishedAt": "2026-08-25T02:21:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "b6c2ca178c6a"
     },
     {
@@ -471,7 +601,7 @@
       "publishedAt": "2026-08-25T02:11:08.000Z",
       "image": "",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "6937bb687c5f"
     },
     {
@@ -484,21 +614,8 @@
       "publishedAt": "2026-08-25T02:08:57.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a852/live/7a015a70-a021-11f1-b3eb-5d1755263a69.jpg",
       "topic": "社会",
-      "score": 75,
+      "score": 74,
       "id": "1d85ecd29599"
-    },
-    {
-      "title": "I was too young to understand infertility when diagnosed at 16",
-      "summary": "I was only 16 when told I would never be able to carry a child. Ten years later, there was some hope.",
-      "url": "https://www.abc.net.au/news/2026-08-25/the-weight-of-an-infertility-diagnosis-in-your-teens/106993346",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-25T02:05:08.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6647ed3948ce6290198620ff5349d029?impolicy=wcms_crop_resize&cropH=1049&cropW=1864&xPos=0&yPos=105&width=862&height=485",
-      "topic": "社会",
-      "score": 75,
-      "id": "4ac9c3da1c34"
     },
     {
       "title": "How US sanctions on Iran ripple through global markets and consumers",
@@ -510,7 +627,7 @@
       "publishedAt": "2026-08-24T22:46:02.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "1c785a26b04c"
     },
     {
@@ -523,7 +640,7 @@
       "publishedAt": "2026-08-24T22:40:04.000Z",
       "image": "",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "a401ecf36dc6"
     },
     {
@@ -536,73 +653,8 @@
       "publishedAt": "2026-08-24T16:46:17.000Z",
       "image": "https://i.guim.co.uk/img/media/35c2189af297157e67da3ec7f51f9d853dd8649b/481_0_3784_3028/master/3784.jpg?width=140&quality=85&auto=format&fit=max&s=f64f009c8f8db037a1c92e0321c7112b",
       "topic": "政治",
-      "score": 75,
+      "score": 74,
       "id": "b4023feee7ec"
-    },
-    {
-      "title": "NRL changes rules to allow Jai Arrow to 'play' 100 games for Souths",
-      "summary": "The Rabbitohs successfully petition the NRL to change the league's interchange rules to allow Jai Arrow to take the field for his 99th and 100th games for South Sydney in the last two rounds of the year.",
-      "url": "https://www.abc.net.au/news/2026-08-25/jai-arrow-to-reach-100-nrl-games-for-south-sydney-rabbitohs/107074954",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-25T01:48:47.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/cef40816288c03466f8357b6c524522a?impolicy=wcms_crop_resize&cropH=1623&cropW=2886&xPos=0&yPos=77&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "9faf224b86a5"
-    },
-    {
-      "title": "Second case of H5 bird flu in Queensland",
-      "summary": "The wild shearwater found dead at Castaways Beach returned a positive result for the disease from the Queensland government's biosecurity science laboratory last night.",
-      "url": "https://www.abc.net.au/news/2026-08-25/qld-second-h5-bird-flu-case-confirmed/107075246",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-25T01:46:36.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/bee3ca981a0a083643ef48061d5e498f?impolicy=wcms_crop_resize&cropH=585&cropW=1040&xPos=130&yPos=305&width=862&height=485",
-      "topic": "政治",
-      "score": 74,
-      "id": "e3055d7bceaf"
-    },
-    {
-      "title": "Man accused of murdering 78yo during crime spree remains in custody",
-      "summary": "A man accused of beating a 78-year-old man to death with a metal pole and injuring two other men remains in custody in Queensland.",
-      "url": "https://www.abc.net.au/news/2026-08-25/richard-zoltan-babos-childers-murder-accused-custody/107074916",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-25T01:45:30.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/638a037584e2f55cdc4fdf073b05b13b?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=174&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "54e3d5ac7fa1"
-    },
-    {
-      "title": "Energy efficiency business accused of fraud by Victorian authorities",
-      "summary": "The Essential Services Commission says the company submitted digitally altered photos and falsified customers to claim energy efficiency certificates.",
-      "url": "https://www.abc.net.au/news/2026-08-25/vic-energy-efficiency-scheme-suspension-royal-one/107074834",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-25T01:38:43.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/26bfd697034d18a382606c594dc8509f?impolicy=wcms_crop_resize&cropH=909&cropW=1616&xPos=0&yPos=86&width=862&height=485",
-      "topic": "经济",
-      "score": 74,
-      "id": "b77d36ed4d04"
-    },
-    {
-      "title": "Charter guide spots foreign fishing boat, crew detained",
-      "summary": "The operator of a Far North Queensland fishing charter company says there is still anxiety about the arrivals of suspected illegal foreign boats, despite Border Force responding quickly to a fresh arrival.",
-      "url": "https://www.abc.net.au/news/2026-08-25/foreign-fishing-boat-seized-far-north-queensland/107074500",
-      "source": "ABC Australia",
-      "feed": "ABC Australia",
-      "region": "大洋洲",
-      "publishedAt": "2026-08-25T01:37:42.000Z",
-      "image": "https://live-production.wcms.abc-cdn.net.au/2bcd9431de86957f257142d13d7bbe8c?impolicy=wcms_crop_resize&cropH=574&cropW=1020&xPos=1&yPos=171&width=862&height=485",
-      "topic": "社会",
-      "score": 74,
-      "id": "f5dc6a81b591"
     },
     {
       "title": "Sledgehammers and explosives more common in museum heists, Europol says",
@@ -614,7 +666,7 @@
       "publishedAt": "2026-08-25T01:34:39.000Z",
       "image": "https://live-production.wcms.abc-cdn.net.au/b005b613d86ba3fdadf564ab504678c9?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
       "topic": "社会",
-      "score": 74,
+      "score": 73,
       "id": "977136bbdeb7"
     },
     {
@@ -627,7 +679,7 @@
       "publishedAt": "2026-08-24T22:22:13.000Z",
       "image": "",
       "topic": "政治",
-      "score": 74,
+      "score": 73,
       "id": "5ee976d672dc"
     },
     {
@@ -640,8 +692,21 @@
       "publishedAt": "2026-08-24T18:55:43.000Z",
       "image": "https://i.guim.co.uk/img/media/f7ea250d483dd414a2a05713c7763b803c19366f/671_0_6298_5039/master/6298.jpg?width=140&quality=85&auto=format&fit=max&s=eced38cf58618edce61042f3491407f2",
       "topic": "经济",
-      "score": 74,
+      "score": 73,
       "id": "86c2bb85476e"
+    },
+    {
+      "title": "Where Trump’s Hemispheric Hegemony Falls Down",
+      "summary": "Where Trump’s Hemispheric Hegemony Falls Down &nbsp;&nbsp; Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ2FyN1JKNXhQUXRMTUJJb2pNMW82TlRWaGI0dS11dlU0NzRoWUlkekFzVkFrd2dEOXFYcG9nMmpuRTZHSEt5ckN2S0drSjlFSXdYNm1ZN3FlcWhFXzdwWnlwUWh5WF9EMFg0RkxNck5nTS1KampNNUo1U0RvLXAtVnhScS1RMU1ncXc3aU9tUGNwSW9fc3I5WkZwczY0cWczOWJGaWR4YTZrbXZlSEQtUGtDTzJiY1dOTElob292VWdvUQ?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-25T04:01:13.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 72,
+      "id": "10e7c8cbe8f9"
     },
     {
       "title": "Japan enlists 1,800 people to drag a 360-tonne castle keep using ropes and rollers",
@@ -653,7 +718,7 @@
       "publishedAt": "2026-08-25T01:10:44.000Z",
       "image": "https://i.guim.co.uk/img/media/1402f53e1dbf0a1c2705eb53dcbb04b16ee4f1ee/414_0_3304_2645/master/3304.jpg?width=140&quality=85&auto=format&fit=max&s=d60e468baa609fa6adf7c3aeb35108a4",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "ad77745b64a2"
     },
     {
@@ -666,21 +731,34 @@
       "publishedAt": "2026-08-25T00:17:15.000Z",
       "image": "",
       "topic": "社会",
-      "score": 73,
+      "score": 72,
       "id": "d77c518bcd17"
     },
     {
-      "title": "Asian stocks fall as tech selloff deepens; Kospi tumbles over 3% ahead of Nvidia earnings",
-      "summary": "Asian stocks fall as tech selloff deepens; Kospi tumbles over 3% ahead of Nvidia earnings &nbsp;&nbsp; IndiaIPO",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMmtMVF90QjNXTjFVRnc0YTFZMTRtaE1RT28tZ3NFZ21HMFBxTzMzaGkyS0lXR0hHWHYwcF9pMXpXZF9NaTVwRmh3U0ZQbWRhVjA4N0pTcl9laXVzVFhPRE9CVEJvWVloM0VLbG9zS2NQOFRyT3pDMWlIUmVhRFBqQUdLMkk3eS1VdzJYbFhDbVY1ZjdCY0g3MXFuYldsYU05em5ZMHlhV2pvLV83dzlpRF9KWG9lYUdscWwtVUhVSk0?oc=5",
-      "source": "IndiaIPO",
-      "feed": "Asia News Network",
+      "title": "Pakistan says army chief held talks with Iran focused on preventing further escalation of MidEast",
+      "summary": "Pakistan says army chief held talks with Iran focused on preventing further escalation of MidEast &nbsp;&nbsp; The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50V3NQUW1lQ05rNmg4V25kaWphR2dBTE1BWlk1V3pOd3NaaDZXdmx1a2RISU1CcHpDajVZbHZnMzRsdktxMHVyT2paWk52SnU0ZDZjVTI0RGtxSEdsOHEtS2VUNm15Z0RLTlE?oc=5",
+      "source": "The Jerusalem Post",
+      "feed": "Middle East News Network",
       "region": "亚洲",
-      "publishedAt": "2026-08-25T03:09:18.000Z",
+      "publishedAt": "2026-08-25T03:17:58.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
-      "id": "73b678988394"
+      "score": 71,
+      "id": "ad395e5ae569"
+    },
+    {
+      "title": "Cruzeiro to Remain at Mineirão Despite New Restrictions on Betting Advertising",
+      "summary": "Cruzeiro to Remain at Mineirão Despite New Restrictions on Betting Advertising &nbsp;&nbsp; iGamingToday.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMnhNZnB6RDNObnYyWS1na3pWQmVSZFViUUxxLTJvUExKZFdoVUwtUEE0V2ZGZS1MWjVzUG51VWpfNDVjZUFGZndJcDZpRHhzWlFWTDduTFNnNmNvMGdFUmhFR3BrX0tiVHZMYWFVSnY5aEMxYlg0QTR3czNwaE1sdHJ6c3ZleFNCU2xtOGFraEtrWm8xRUJDUXhsUUItSUs4LUFIRHprYnlLZWtK?oc=5",
+      "source": "iGamingToday.com",
+      "feed": "Latin America News Network",
+      "region": "美洲",
+      "publishedAt": "2026-08-25T03:12:42.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "7e46018fce2b"
     },
     {
       "title": "Europe prepares for a regulatory rearmament of the digital: the new frontier of power is in the algorithms",
@@ -692,7 +770,7 @@
       "publishedAt": "2026-08-25T03:00:00.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "8480a5dc7c18"
     },
     {
@@ -705,7 +783,7 @@
       "publishedAt": "2026-08-25T03:00:00.000Z",
       "image": "",
       "topic": "科技",
-      "score": 72,
+      "score": 71,
       "id": "824391e2c92c"
     },
     {
@@ -718,8 +796,34 @@
       "publishedAt": "2026-08-25T00:16:35.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdc6/live/c223d1f0-a019-11f1-a291-b542ee92de7c.jpg",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "08e22ad613c5"
+    },
+    {
+      "title": "Fresh travel warning as Aussie base hit in Middle East",
+      "summary": "Fresh travel warning as Aussie base hit in Middle East &nbsp;&nbsp; The Canberra Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONUtWa3A5LWFadHh2QnFlWjNJX1NYMmlBU18tN0xYcHJXZHZ5bm5fZ0lqdjRmWmR0U3ZNNFM4OXE3U0U4QkVfRGZKbmpEU1V4bG5yelJjcFRZZDZWVWJianVxOVpZRlo1OFJRY3BLeGhFM09Vel9VUVlWOVlleHdhWFpYY2l2RExwbXo2NktRZDJhTkdQVERPUm16VzRCbm1PRVZKcg?oc=5",
+      "source": "The Canberra Times",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-25T00:08:17.000Z",
+      "image": "",
+      "topic": "政治",
+      "score": 71,
+      "id": "b171c4b27fc4"
+    },
+    {
+      "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
+      "summary": "Live Updates: Latest from Israel, Iran, and the Middle East &nbsp;&nbsp; The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ncHNscWtxLWZ2dWFPU05nTVhtd0d6ZGdxLXhWallEQS1tOU5hVWNTSXEwdUVWUER0dG0xSjRBRDJyOTdoUnlBekk4akJXNTRrSnN2VXdHckEtM044RGFLdDJESEJKcUg4b3BCdTZzWC16U1poVk5lbWNfS3lnZkU?oc=5",
+      "source": "The Jerusalem Post",
+      "feed": "Middle East News Network",
+      "region": "中东",
+      "publishedAt": "2026-08-25T00:00:05.000Z",
+      "image": "",
+      "topic": "社会",
+      "score": 71,
+      "id": "6f521ec72b20"
     },
     {
       "title": "Gang coalition unleashes violent new attack on farming community in Haiti",
@@ -731,7 +835,7 @@
       "publishedAt": "2026-08-24T23:57:29.000Z",
       "image": "",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "23f5cb05d307"
     },
     {
@@ -744,7 +848,7 @@
       "publishedAt": "2026-08-24T23:55:32.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "36870ac32dd8"
     },
     {
@@ -757,21 +861,8 @@
       "publishedAt": "2026-08-24T23:53:32.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e700/live/5f2e2b70-9f99-11f1-a83c-33ebef033ca4.jpg",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "881b93d79a9b"
-    },
-    {
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "feed": "BBC World",
-      "region": "中东",
-      "publishedAt": "2026-08-24T23:48:25.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de12/live/09a94a20-9fe6-11f1-8ed1-41aaf1fca4f2.jpg",
-      "topic": "社会",
-      "score": 72,
-      "id": "214e497c23ec"
     },
     {
       "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
@@ -783,7 +874,7 @@
       "publishedAt": "2026-08-24T20:48:21.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "3ff2ba7e28c0"
     },
     {
@@ -796,7 +887,7 @@
       "publishedAt": "2026-08-24T20:47:24.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "dec90e6d4532"
     },
     {
@@ -809,7 +900,7 @@
       "publishedAt": "2026-08-24T20:40:32.000Z",
       "image": "",
       "topic": "政治",
-      "score": 72,
+      "score": 71,
       "id": "b17feff0af46"
     },
     {
@@ -822,21 +913,21 @@
       "publishedAt": "2026-08-24T17:41:00.000Z",
       "image": "https://e3.365dm.com/26/08/1920x1080/skynews-prince-harry-duke-of-sussex_7330289.jpg?20260824185542",
       "topic": "社会",
-      "score": 72,
+      "score": 71,
       "id": "a89361177f4d"
     },
     {
-      "title": "Where Trump’s Hemispheric Hegemony Falls Down",
-      "summary": "Where Trump’s Hemispheric Hegemony Falls Down &nbsp;&nbsp; Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ2FyN1JKNXhQUXRMTUJJb2pNMW82TlRWaGI0dS11dlU0NzRoWUlkekFzVkFrd2dEOXFYcG9nMmpuRTZHSEt5ckN2S0drSjlFSXdYNm1ZN3FlcWhFXzdwWnlwUWh5WF9EMFg0RkxNck5nTS1KampNNUo1U0RvLXAtVnhScS1RMU1ncXc3aU9tUGNwSW9fc3I5WkZwczY0cWczOWJGaWR4YTZrbXZlSEQtUGtDTzJiY1dOTElob292VWdvUQ?oc=5",
-      "source": "Bloomberg",
-      "feed": "Latin America News Network",
-      "region": "美洲",
-      "publishedAt": "2026-08-25T02:31:13.000Z",
+      "title": "August 16: Rodri (Man City to Barcelona, £65m)",
+      "summary": "August 16: Rodri (Man City to Barcelona, £65m) &nbsp;&nbsp; Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXFYYUZrT0dQRlJmbzRST3NId1F6SE5wYnZSVUdoOFBXc3NBRXhXY2llSU9DX2pXR3RQNEVUcFhjSEs3R29uLUZyVUlfZUJIMDl3eTFJRTFMM0hITVNJZzRIUmlEYW1PekhjZHZGVzdESXZjR0dHdGhUUzVlalRLSU51bnRrNHRJWTF1NnpqSUdEYmJBVGJtQ3J3TEJabE0?oc=5",
+      "source": "Goal.com",
+      "feed": "Europe News Network",
+      "region": "欧洲",
+      "publishedAt": "2026-08-25T02:19:34.000Z",
       "image": "",
       "topic": "社会",
-      "score": 71,
-      "id": "86df4f444d52"
+      "score": 70,
+      "id": "b6efbd60fe9c"
     },
     {
       "title": "Caste divides make scorching summers harder in a parched corner of India",
@@ -848,99 +939,8 @@
       "publishedAt": "2026-08-24T23:36:58.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53c/live/9d016d70-9a00-11f1-ad4f-c7824f9e4997.jpg",
       "topic": "社会",
-      "score": 71,
-      "id": "639a14b47ad8"
-    },
-    {
-      "title": "LABAN, ASIA! After emerging victorious in the Miss World 2026 Head-to-Head Challenge, Philippines' bet Asia Rose Simpson secured a spot in the pageant's Top 40. More details in the comments section.",
-      "summary": "LABAN, ASIA! After emerging victorious in the Miss World 2026 Head-to-Head Challenge, Philippines' bet Asia Rose Simpson secured a spot in the pageant's Top 40. More details in the comments section. &nbsp;&nbsp; facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTm5pTlJoQXEzNThodjZZaTRwNXY5ckx2R2xJQTdXX0tKVlNhNlJMeDZyUGRMMHlHYmxwakNob2trZUxMNGRZS2JXeldET01QTkg5VUphdUpsUGo0SFVqZGVQa2FMMm5PTEV6VTdrMnJvaTctN2hRMGpiUHFMR3laRkNTanVtRFNwR2d6NHZ2LW5reURSTDVUZUU3OGdGXzFqVzVCTTB2d0MzVVZ4aUxXUE4yNGprdTY0b3kxWHAyQjg4YVFMdXRuZDU3WVA4dF9UVWRldk9zWQ?oc=5",
-      "source": "facebook.com",
-      "feed": "Asia News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-24T23:36:07.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "985659d9a366"
-    },
-    {
-      "title": "Yorkshire 'lad' believed to be first Briton to die fighting for Russia",
-      "summary": "A former fisherman from South Yorkshire is believed to have become the first British citizen to die fighting for Russia in Ukraine.",
-      "url": "https://news.sky.com/story/ukraine-war-yorkshire-lad-believed-to-be-first-briton-to-die-fighting-for-russia-13576834",
-      "source": "Sky News",
-      "feed": "Sky News",
-      "region": "欧洲",
-      "publishedAt": "2026-08-24T23:20:00.000Z",
-      "image": "https://e3.365dm.com/26/08/1920x1080/skynews-russia-ukraine-bradley-townsend_7330497.png?20260825003813",
-      "topic": "社会",
-      "score": 71,
-      "id": "654a7cb43875"
-    },
-    {
-      "title": "‘Immense drop-off’ in support contributing to care leaver deaths in England, review says",
-      "summary": "Death rate three to four times higher than among general population blamed on isolation of those leaving care ‘He was left on his own’: the care-leaver lives lost to a system that abandons them at 18 Profound isolation contributed to the deaths of more than 100 care leavers in England in a year, with a dramatic drop-off in support from social services at 18 ",
-      "url": "https://www.theguardian.com/society/2026/aug/25/care-leaver-deaths-isolation-drop-off-support-review",
-      "source": "The Guardian",
-      "feed": "The Guardian",
-      "region": "全球",
-      "publishedAt": "2026-08-24T23:01:41.000Z",
-      "image": "https://i.guim.co.uk/img/media/79fb17098ba251d6caa5157ee2cfd4b59fe2d9e9/1357_0_2899_2319/master/2899.jpg?width=140&quality=85&auto=format&fit=max&s=55b4e029f1d225126df81214cd21878c",
-      "topic": "社会",
-      "score": 71,
-      "id": "7b0baefa2ed9"
-    },
-    {
-      "title": "South Africans Allegedly Attack Chidimma Adetshina After Court Appearance",
-      "summary": "South Africans Allegedly Attack Chidimma Adetshina After Court Appearance &nbsp;&nbsp; Head Topics",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVjRHT3haeGtZNGpKaW4wdnllUDJiY0xvbk1DRHhIMmlQVVJ3OE1qV2FCTU94THA5WmRsc0dRWVRNSW9SVFRZUTJBRTFMOGtGcUpPYVZILTRoZHExY2VMZWxjOTZzYXl3dFlZdHZudURodVVzSDhJNXdEYXF6LUhSdl9FQUt1S0x2Q0dfOU1mNkctcUxwQ1RIQU0yajc?oc=5",
-      "source": "Head Topics",
-      "feed": "Africa News Network",
-      "region": "非洲",
-      "publishedAt": "2026-08-24T22:47:00.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 71,
-      "id": "172fbd09bab1"
-    },
-    {
-      "title": "Washington Post ordered to rehire Karen Attiah after Charlie Kirk posts",
-      "summary": "Karen Attiah was fired for posts about Charlie Kirk’s assassination that the Post said violated its social media policy.",
-      "url": "https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "全球",
-      "publishedAt": "2026-08-24T20:00:18.000Z",
-      "image": "",
-      "topic": "社会",
-      "score": 71,
-      "id": "c3d0c207d4db"
-    },
-    {
-      "title": "Mexico’s Sheinbaum condemns governor’s return amid US drug charges",
-      "summary": "President Sheinbaum criticises Governor Rocha's return amid US drug charges, calling it 'reckless' and 'inappropriate'.",
-      "url": "https://www.aljazeera.com/news/2026/8/24/mexicos-president-condemns-governor-brief-return-to-office?traffic_source=rss",
-      "source": "Al Jazeera",
-      "feed": "Al Jazeera",
-      "region": "美洲",
-      "publishedAt": "2026-08-24T19:46:42.000Z",
-      "image": "",
-      "topic": "政治",
-      "score": 71,
-      "id": "0d308154273d"
-    },
-    {
-      "title": "Oil price today: Brent crude stays above $90 as Middle East standoff intensifies",
-      "summary": "Oil price today: Brent crude stays above $90 as Middle East standoff intensifies &nbsp;&nbsp; The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNOFd6Tnh4VEEyazVncUNvU2JJQ2gyTEJlOVZJZUF1TFZkNjdWVm1LaGpWUFdfWElzQkdiRUdVQ01KbDA2aHVGdGV6VDRaZFFMdkxMcWxmM2RsQzJ6bkFZLUtXbFcwWlVxb1BCUFlJSlV2QmlQUnpPWmZCeGlCQXJQa1FIc1k2Qk5uZXRfS3AxUGkwMVNoZXk1ZEdNYlpQVS1WclVjTTd2V1N3TmhtOUszYnRfeGhMSW1GZk1kT0I0Nm5zSkdDMnlXZE92VEdLU1FmRERXRVZxZkhyczE5Q0o1WG1pTEZSNnBveXFNc2I2QlRnRVpkMERyakc1VkQxU1FOOFHSAYcCQVVfeXFMTmJCYlZnbmxtdFlIenRpcGNXUFlsODI1dTBxR0ptZFgwUFQtcGlybFBFSGpmUUxhd1ctWGNnbzdOTjF5bmlxVGQtQ1pWOUsyUUQzVGwtV0tqWWNyaF9HWC1sU0h6YjI1S281cnlPaDktYUVfVXJoOF9JYWJrSlJTNDIyRERxazNYRkhOcC02MXhHVmp3bE9zMTYwZ19vSFdzVFBTV2s5V0hKNE9HRmNUMkZxMVdMODUwRUxpQ28xc1FxcExrcWZTWTBTSDFFQzU0RTZ2UGp1RlpycWRJVlJDMjFOd255SW9FRnBGcmtZRk1INUJNcXRqdmRvSTByYnVCUTVUSFpZRFE?oc=5",
-      "source": "The Times of India",
-      "feed": "Middle East News Network",
-      "region": "亚洲",
-      "publishedAt": "2026-08-25T02:02:00.000Z",
-      "image": "",
-      "topic": "经济",
       "score": 70,
-      "id": "2dfc4bbbe423"
+      "id": "639a14b47ad8"
     }
   ]
 }
